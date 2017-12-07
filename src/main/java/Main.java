@@ -35,7 +35,7 @@ public class Main {
             if (!treeMap.containsKey(tKey)) {
                 treeMap.put(tKey, tValue);
             } else {
-                treeMap.replace(tKey, treeMap.get(tKey) + " | : " + tValue);
+                treeMap.replace(tKey, treeMap.get(tKey) + "; " + tValue);
             }
         }
 
@@ -52,7 +52,7 @@ public class Main {
                     .replace("ź", "z")
                     .replace("ż", "z");
 
-            String tLine = rawKey.toLowerCase() + " : " + entry.getKey() + " : " + entry.getValue();
+            String tLine = "[" + rawKey.toLowerCase() + "]" + entry.getKey() + " : " + entry.getValue();
             System.out.println(tLine);
 
             writer = new PrintWriter(new BufferedWriter(new FileWriter("output_" + rawKey.charAt(0) + ".txt", true)));

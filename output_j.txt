@@ -1,277 +1,277 @@
-jack : Jack : (rzecz.) Jacek
-jacob : Jacob : (rzecz.) Jakub
-jacobin : Jacobin : (rzecz.) jakobin
-jacobinism : Jacobinism : (rzecz.) jakobinizm
-jamaica : Jamaica : (rzecz.) Jamajka
-january : January : (rzecz.) styczeń
-januarys : Januarys : (przysł.) stycznie
-joanne : Joanne : (rzecz.) Joanna
-john : John : (rzecz.) Jan
-jonathan : Jonathan : (rzecz.) Jonatan
-joseph : Joseph : (rzecz.) Józef
-josephine : Josephine : (rzecz.) Józefina
-judaic : Judaic : (przym.) judaistyczny
-judaism : Judaism : (rzecz.) judaizm
-judith : Judith : (rzecz.) Judyta
-julie : Julie : (rzecz.) Julia
-july : July : (rzecz.) lipiec
-june : June : (rzecz.) czerwiec
-jurassic : Jurassic : (przym.) jurajski
-justin : Justin : (rzecz.) Justyn
-justine : Justine : (rzecz.) Justyna
-jab : jab : (czas.) dźgać | : (czas.) szturchać | : (czas.) ukłuć | : (rzecz.) dźgnięcie | : (rzecz.) szczepionka | : (rzecz.) szturchnięcie
-jabber : jabber : (czas.) gadać | : (czas.) paplać | : (czas.) trajkotać | : (rzecz.) bełkot | : (rzecz.) gadanie | : (rzecz.) paplanina | : (rzecz.) rozwlekłość
-jabot : jabot : (rzecz.) żabot
-jacinth : jacinth : (rzecz.) hiacynt
-jack : jack : (rzecz.) chłopak | : (rzecz.) dźwignia | : (rzecz.) gniazdko | : (rzecz.) kontakt | : (rzecz.) lewar | : (rzecz.) lewarek | : (rzecz.) majtek | : (rzecz.) marynarz | : (rzecz.) podnośnik | : (rzecz.) walet
-jack-a-dandy : jack-a-dandy : (rzecz.) dandys | : (rzecz.) strojniś
-jack-knife : jack-knife : (rzecz.) scyzoryk
-jack-plane : jack-plane : (rzecz.) hebel
-jack-rafter : jack-rafter : (rzecz.) krokiewka | : (rzecz.) kulawka
-jackal : jackal : (rzecz.) szakal
-jackanapes : jackanapes : (rzecz.) urwis | : (rzecz.) zarozumialec | : (rzecz.) zuchwalec
-jackass : jackass : (rzecz.) bałwan | : (rzecz.) dureń | : (rzecz.) osioł
-jackboots : jackboots : (rzecz.) oficerki
-jackdaw : jackdaw : (rzecz.) kawka
-jacket : jacket : (rzecz.) bluza | : (rzecz.) kaftan | : (rzecz.) kaftanik | : (rzecz.) kurtka | : (rzecz.) marynarka | : (rzecz.) obwoluta | : (rzecz.) osłona | : (rzecz.) płaszcz | : (rzecz.) surdut | : (rzecz.) żakiet
-jackplane : jackplane : (rzecz.) hebel | : (rzecz.) strug
-jackstay : jackstay : (rzecz.) jumpsztag
-jaconet : jaconet : (rzecz.) ceratka
-jacquard : jacquard : (rzecz.) żakard
-jade : jade : (czas.) zmęczyć | : (rzecz.) babsztyl | : (rzecz.) chabeta | : (rzecz.) jadłospis | : (rzecz.) jaspis | : (rzecz.) nefryt | : (rzecz.) szkapa
-jaded : jaded : (przym.) wycieńczony | : (przym.) zdarty
-jadeite : jadeite : (rzecz.) jadeit | : (rzecz.) żadeit
-jag : jag : (czas.) karbować | : (czas.) postrzępić | : (czas.) strzępić | : (czas.) szczerbić | : (rzecz.) biba | : (rzecz.) cypel | : (rzecz.) napad | : (rzecz.) podchmielenie | : (rzecz.) popijawa | : (rzecz.) szczerba | : (rzecz.) wypad | : (rzecz.) występ | : (rzecz.) wyszczerbienie | : (rzecz.) ząb
-jagged : jagged : (przym.) strzępiasty | : (przym.) szczerbaty
-jaggedly : jaggedly : (rzecz.) poszarpanie
-jaguar : jaguar : (rzecz.) jaguar
-jail : jail : (czas.) uwięzić | : (czas.) więzić | : (rzecz.) ciupa | : (rzecz.) puszka | : (rzecz.) wiezienie | : (rzecz.) więzienie
-jailbird : jailbird : (rzecz.) kryminalista
-jailer : jailer : (rzecz.) dozorca | : (rzecz.) klawisz | : (rzecz.) strażnik
-jailor : jailor : (rzecz.) klawisz
-jakes : jakes : (rzecz.) wygódka
-jalap : jalap : (rzecz.) jalapa
-jalopy : jalopy : (rzecz.) grat | : (rzecz.) gruchot
-jalousie : jalousie : (rzecz.) żaluzja
-jam : jam : (czas.) korkować | : (czas.) osiąść | : (czas.) wciskać | : (czas.) zablokować | : (czas.) zablokowywać | : (czas.) zaciąć | : (czas.) zaciskać | : (czas.) zagłuszać | : (czas.) zagradzać | : (czas.) zatykać | : (rzecz.) dżem | : (rzecz.) konfitura | : (rzecz.) konfitury | : (rzecz.) korek | : (rzecz.) marmolada | : (rzecz.) ścisk | : (rzecz.) tłok | : (rzecz.) tłum | : (rzecz.) zacięcie | : (rzecz.) zator
-jam-nut : jam-nut : (rzecz.) przeciwnakrętka
-jamb : jamb : (rzecz.) framuga | : (rzecz.) ościeże | : (rzecz.) ościeżnica
-jamboree : jamboree : (rzecz.) festiwal | : (rzecz.) zlot
-jamming : jamming : (rzecz.) stłoczenie | : (rzecz.) zacinanie | : (rzecz.) zagłuszanie | : (rzecz.) zagłuszenie
-jangle : jangle : (czas.) brzęczeć | : (czas.) brzękać | : (czas.) dzwonić | : (czas.) hałasować | : (czas.) wadzić | : (czas.) wydawać | : (rzecz.) brzęczenie | : (rzecz.) dysharmonia | : (rzecz.) dzwonienie | : (rzecz.) hałas
-janissary : janissary : (rzecz.) janczar
-janitor : janitor : (rzecz.) dozorca | : (rzecz.) portier | : (rzecz.) stróż
-jape : jape : (czas.) żartować
-jar : jar : (czas.) brzęczeć | : (czas.) drażnić | : (czas.) trząść | : (czas.) wstrząsać | : (rzecz.) brzęk | : (rzecz.) dzban | : (rzecz.) kłótnia | : (rzecz.) słoik | : (rzecz.) słój | : (rzecz.) wstrząs
-jargon : jargon : (rzecz.) gwara | : (rzecz.) żargon
-jarring : jarring : (przym.) zgrzytliwy
-jars : jars : (rzecz.) nożyce
-jasmine : jasmine : (rzecz.) jaśmin
-jasper : jasper : (rzecz.) jaspis
-jaundice : jaundice : (rzecz.) zawiść | : (rzecz.) zazdrość | : (rzecz.) żółtaczka
-jaundiced : jaundiced : (przym.) cyniczny | : (przym.) szyderczy | : (przym.) zawistny | : (przym.) zazdrosny
-jaunt : jaunt : (rzecz.) przejażdżka | : (rzecz.) wycieczka
-jauntily : jauntily : (przysł.) beztrosko | : (przysł.) ochoczo | : (przysł.) wesoło
-jaunty : jaunty : (przym.) beztroski | : (przym.) raźny | : (przym.) wesoły | : (przym.) żwawy
-javelin : javelin : (rzecz.) oszczep
-jaw : jaw : (czas.) gadać | : (czas.) ględzić | : (czas.) sztorcować | : (czas.) zrugać | : (rzecz.) czeluść | : (rzecz.) imadło | : (rzecz.) paszcza | : (rzecz.) szczęka | : (rzecz.) szpona
-jaw-breaker : jaw-breaker : (rzecz.) wyraz
-jawbone : jawbone : (rzecz.) żuchwa
-jawbreaker : jawbreaker : (rzecz.) wyraz
-jay : jay : (rzecz.) gaduła | : (rzecz.) pleciuga | : (rzecz.) sójka
-jaywalker : jaywalker : (rzecz.) roztrzepaniec
-jazz : jazz : (rzecz.) dżez | : (rzecz.) jazz
-jazzy : jazzy : (przym.) krzykliwy
-jealous : jealous : (przym.) nieufny | : (przym.) zazdrosny
-jealously : jealously : (przysł.) zazdrośnie
-jealousy : jealousy : (rzecz.) zawiść | : (rzecz.) zazdrość | : (rzecz.) zazdrostka
-jean : jean : (rzecz.) drelich | : (rzecz.) dżins
-jeans : jeans : (rzecz.) dżins | : (rzecz.) dżinsy
-jeep : jeep : (rzecz.) dżip | : (rzecz.) gazik | : (rzecz.) łazik | : (rzecz.) samochód
-jeer : jeer : (czas.) drwić | : (czas.) szydzić | : (czas.) wyśmiać | : (rzecz.) docinek | : (rzecz.) drwina | : (rzecz.) kpina | : (rzecz.) szyderstwo | : (rzecz.) wyśmiewanie
-jejune : jejune : (przym.) nieciekawy | : (przym.) nieurodzajny | : (przym.) nudny
-jell : jell : (czas.) konkretyzować | : (czas.) stężeć
-jelly : jelly : (rzecz.) galareta | : (rzecz.) galaretka | : (rzecz.) kisiel
-jelly-fish : jelly-fish : (rzecz.) meduza
-jellyfish : jellyfish : (rzecz.) meduza
-jennet : jennet : (rzecz.) dzianet
-jenny : jenny : (rzecz.) przędzarka | : (rzecz.) rowkarka
-jeopardize : jeopardize : (czas.) narażać | : (czas.) zagrażać
-jeopardy : jeopardy : (rzecz.) niebezpieczeństwo | : (rzecz.) zagrożenie
-jeremiad : jeremiad : (rzecz.) biadanie | : (rzecz.) jeremiada | : (rzecz.) skarga
-jerk : jerk : (czas.) szarpać | : (czas.) szarpnąć | : (czas.) targać | : (rzecz.) cymbał | : (rzecz.) drgnięcie | : (rzecz.) głupek | : (rzecz.) pchnięcie | : (rzecz.) świr | : (rzecz.) szarpniecie | : (rzecz.) szarpnięcie | : (rzecz.) targnięcie
-jerk-line : jerk-line : (rzecz.) szarpak
-jerkin : jerkin : (rzecz.) kabat | : (rzecz.) kaftan | : (rzecz.) kurtka
-jerky : jerky : (przym.) kurczowy | : (przym.) nierówny | : (przym.) szarpiący
-jersey : jersey : (rzecz.) jersey | : (rzecz.) pulower | : (rzecz.) sweter | : (rzecz.) tkanina
-jest : jest : (czas.) żartować | : (rzecz.) dowcip | : (rzecz.) żarcie | : (rzecz.) żart
-jester : jester : (rzecz.) błazen | : (rzecz.) wesołek | : (rzecz.) żartowniś
-jesting : jesting : (przym.) wesołkowaty
-jet : jet : (czas.) bluzgać | : (czas.) tryskać | : (rzecz.) dysza | : (rzecz.) dżet | : (rzecz.) gagat | : (rzecz.) gagatek | : (rzecz.) odrzutowiec | : (rzecz.) rozpylacz | : (rzecz.) struga | : (rzecz.) strumień | : (rzecz.) wytrysk
-jet-plane : jet-plane : (rzecz.) odrzutowiec
-jet-propelled : jet-propelled : (przym.) odrzutowy
-jetfoil : jetfoil : (rzecz.) wodolot
-jettison : jettison : (czas.) wyrzucać
-jetton : jetton : (rzecz.) żeton
-jetty : jetty : (rzecz.) falochron | : (rzecz.) grobla | : (rzecz.) molo | : (rzecz.) nabrzeże | : (rzecz.) nadbrzeże
-jew's-harp : jew's-harp : (rzecz.) drumla
-jewel : jewel : (rzecz.) biżuteria | : (rzecz.) cacko | : (rzecz.) chluba | : (rzecz.) kamień | : (rzecz.) klejnot | : (rzecz.) skarbczyk
-jeweller : jeweller : (rzecz.) jubiler
-jeweller's : jeweller's : (przym.) jubilerski | : (rzecz.) jubiler
-jewellery : jewellery : (rzecz.) biżuteria
-jib : jib : (czas.) opierać | : (czas.) płoszyć | : (czas.) wzbraniać | : (czas.) wzdrygać | : (rzecz.) kliwer | : (rzecz.) wysięgnik
-jibber : jibber : (czas.) płoszyć
-jibe : jibe : (czas.) domówić | : (czas.) kpić
-jiff : jiff : (rzecz.) sekundka
-jiffy : jiffy : (rzecz.) chwilka
-jig : jig : (czas.) potrząsać | : (czas.) tańczyć | : (rzecz.) imadło | : (rzecz.) szablon
-jigger : jigger : (rzecz.) kielich | : (rzecz.) kieliszek | : (rzecz.) klin | : (rzecz.) seta | : (rzecz.) setka | : (rzecz.) szlug
-jiggle : jiggle : (czas.) podrygiwać | : (czas.) posuwać | : (czas.) wstrząsać
-jigsaw : jigsaw : (rzecz.) łamigłówka | : (rzecz.) laubzega | : (rzecz.) piła | : (rzecz.) piłka | : (rzecz.) układanka | : (rzecz.) wyrzynarka
-jihad : jihad : (rzecz.) dżihad | : (rzecz.) krucjata
-jilt : jilt : (czas.) zdradzać | : (czas.) zdradzić | : (rzecz.) kokietka
-jimjams : jimjams : (rzecz.) trema
-jimmy : jimmy : (rzecz.) łom
-jingle : jingle : (czas.) brzęczeć | : (czas.) dźwięczeć | : (czas.) dzwonić | : (czas.) pobrzękiwać | : (czas.) szczękać | : (rzecz.) brzęczyk | : (rzecz.) brzęk | : (rzecz.) dzwonienie
-jingo : jingo : (rzecz.) szowinista
-jingoism : jingoism : (rzecz.) szowinizm
-jinrikisha : jinrikisha : (rzecz.) riksza
-jinx : jinx : (rzecz.) przekleństwo
-jinxed : jinxed : (przym.) pechowy
-jitney : jitney : (rzecz.) autobus
-jitter : jitter : (rzecz.) drganie | : (rzecz.) fluktuacja | : (rzecz.) trema
-jitters : jitters : (rzecz.) trema
-job : job : (czas.) szydełkować | : (rzecz.) akcydens | : (rzecz.) dźgnięcie | : (rzecz.) interes | : (rzecz.) posada | : (rzecz.) praca | : (rzecz.) robocizna | : (rzecz.) robota | : (rzecz.) rozwiewanie | : (rzecz.) zadanie | : (rzecz.) zajęcie | : (rzecz.) zarobek | : (rzecz.) zatrudnienie | : (rzecz.) zawód | : (rzecz.) zlecenie
-jobber : jobber : (rzecz.) makler | : (rzecz.) pośrednik | : (rzecz.) wyrobnik
-jobbery : jobbery : (rzecz.) prywata | : (rzecz.) szachrajstwo
-jobless : jobless : (przym.) bezrobotny
-joblessness : joblessness : (rzecz.) bezrobocie
-jockey : jockey : (czas.) brać | : (czas.) kpić | : (czas.) nabrać | : (czas.) okpić | : (czas.) oszukać | : (czas.) oszukiwać | : (czas.) szachrować | : (czas.) wycyganić | : (rzecz.) dżokej
-jocko : jocko : (rzecz.) szympans
-jocose : jocose : (przym.) dowcipny | : (przym.) wesoły | : (przym.) zabawny
-jocosity : jocosity : (rzecz.) jowialność
-jocular : jocular : (przym.) dowcipny | : (przym.) figlarny | : (przym.) wesoły | : (przym.) żartobliwy
-jocularity : jocularity : (rzecz.) żartobliwość
-jocund : jocund : (przym.) pogodny | : (przym.) straszny | : (przym.) wesoły
-jocundity : jocundity : (rzecz.) wesołość
-jodhpurs : jodhpurs : (rzecz.) spodnie
-jog : jog : (czas.) biegać | : (czas.) popychać | : (czas.) posuwać | : (czas.) trącać | : (rzecz.) kłus | : (rzecz.) potrącenie | : (rzecz.) szturchnięcie | : (rzecz.) trucht
-jogger : jogger : (rzecz.) biegacz | : (rzecz.) równiarka
-jogging : jogging : (rzecz.) bieg | : (rzecz.) bieganie | : (rzecz.) jogging
-joggle : joggle : (rzecz.) potrząsanie | : (rzecz.) wpust | : (rzecz.) wstrząśnięcie | : (rzecz.) występ | : (rzecz.) żłobek
-jogtrot : jogtrot : (rzecz.) kłus | : (rzecz.) trucht
-john : john : (rzecz.) bardacha | : (rzecz.) kibel | : (rzecz.) wychodek
-join : join : (czas.) dołączać | : (czas.) dołączyć | : (czas.) doszlusować | : (czas.) kojarzyć | : (czas.) łączyć | : (czas.) pobratać | : (czas.) połączyć | : (czas.) przyłączyć | : (czas.) przystąpić | : (czas.) przystępować | : (czas.) spajać | : (czas.) wstąpić | : (czas.) wstępować | : (czas.) zestalać | : (czas.) złączyć | : (rzecz.) połączenie | : (rzecz.) przyłączenie | : (rzecz.) spojenie | : (rzecz.) złączenie
-joiner : joiner : (rzecz.) stolarz
-joinery : joinery : (rzecz.) stolarka | : (rzecz.) stolarstwo
-joining : joining : (rzecz.) przysiadanie | : (rzecz.) spajanie | : (rzecz.) spojenie
-joint : joint : (przym.) gromadny | : (przym.) kolegialny | : (przym.) łączny | : (przym.) stawowy | : (przym.) udziałowy | : (przym.) wspólny | : (rzecz.) areszt | : (rzecz.) cios | : (rzecz.) knajpa | : (rzecz.) pieczyste | : (rzecz.) połączenie | : (rzecz.) przegub | : (rzecz.) skręt | : (rzecz.) spelunka | : (rzecz.) spoina | : (rzecz.) spojenie | : (rzecz.) staw | : (rzecz.) styk | : (rzecz.) trójnik | : (rzecz.) współwłasność | : (rzecz.) złącze | : (rzecz.) złączka
-joint-stock : joint-stock : (przym.) akcyjny
-jointer : jointer : (rzecz.) gładzik | : (rzecz.) strug | : (rzecz.) strugarka-wyrówniarka
-jointly : jointly : (przysł.) łącznie | : (przysł.) społem | : (przysł.) wspólnie
-jointure : jointure : (rzecz.) dożywocie
-joist : joist : (rzecz.) belka | : (rzecz.) dwuteownik | : (rzecz.) legar | : (rzecz.) poprzeczka
-joke : joke : (czas.) dowcipkować | : (czas.) drwinkować | : (czas.) pożartować | : (czas.) żartować | : (czas.) zażartować | : (rzecz.) dowcip | : (rzecz.) figiel | : (rzecz.) kawał | : (rzecz.) pośmiewisko | : (rzecz.) psikus | : (rzecz.) żarcie | : (rzecz.) żart
-joker : joker : (rzecz.) dowcipniś | : (rzecz.) dżoker | : (rzecz.) kawalarz | : (rzecz.) typek | : (rzecz.) wesołek | : (rzecz.) żartowniś
-jokester : jokester : (rzecz.) figlarz | : (rzecz.) kawalarz
-jokingly : jokingly : (przysł.) żartem | : (przysł.) żartobliwie
-jollify : jollify : (czas.) zabawiać | : (czas.) zabawić
-jollity : jollity : (rzecz.) radość | : (rzecz.) wesołość | : (rzecz.) zabawa
-jolly : jolly : (przym.) pogodny | : (przym.) wesoły | : (przym.) zabawny
-jolly-boat : jolly-boat : (rzecz.) szalupa
-jollyboat : jollyboat : (rzecz.) jolka | : (rzecz.) szalupa
-jolt : jolt : (czas.) popchnąć | : (czas.) rzucać | : (czas.) telepać | : (czas.) trząść | : (czas.) wstrząsnąć | : (rzecz.) popchnięcie | : (rzecz.) szarpnięcie | : (rzecz.) wstrząs
-jolty : jolty : (przym.) wyboisty
-jonquil : jonquil : (rzecz.) żonkil
-jorum : jorum : (rzecz.) czara | : (rzecz.) puchar
-josh : josh : (rzecz.) nabieranie
-josser : josser : (rzecz.) facet | : (rzecz.) wariat
-jostle : jostle : (czas.) popychać | : (czas.) poszturchać | : (czas.) potarmosić | : (czas.) potrącać | : (czas.) przepychać | : (czas.) rozpychać | : (czas.) roztrącać | : (czas.) trącać | : (rzecz.) popchnięcie | : (rzecz.) popychanie | : (rzecz.) potrącanie
-jot : jot : (czas.) zapisywać | : (rzecz.) drobnostka | : (rzecz.) krztyna | : (rzecz.) odrobina | : (rzecz.) punkt
-jotter : jotter : (rzecz.) notatnik
-jotting : jotting : (rzecz.) notowanie
-joule : joule : (rzecz.) dżul
-jounce : jounce : (czas.) podskakiwać | : (czas.) trząść
-journal : journal : (rzecz.) czasopismo | : (rzecz.) dziennik | : (rzecz.) pamiętnik | : (rzecz.) żurnal
-journaling : journaling : (rzecz.) księgowanie
-journalism : journalism : (rzecz.) dziennikarstwo | : (rzecz.) publicystyka
-journalist : journalist : (rzecz.) dziennikarz | : (rzecz.) publicysta | : (rzecz.) żurnalista
-journey : journey : (czas.) podróżować | : (rzecz.) droga | : (rzecz.) jazda | : (rzecz.) podróż | : (rzecz.) przejażdżka | : (rzecz.) wędrówka
-journeyman : journeyman : (rzecz.) czeladnik
-joust : joust : (czas.) potykać | : (rzecz.) potykanie
-jovial : jovial : (przym.) jowialny | : (przym.) wesoły
-joviality : joviality : (rzecz.) jowialność
-jovially : jovially : (przysł.) jowialnie
-jowl : jowl : (rzecz.) podgardle | : (rzecz.) policzek | : (rzecz.) szczęka
-joy : joy : (czas.) radować | : (rzecz.) frajda | : (rzecz.) jubel | : (rzecz.) powojnik | : (rzecz.) radość | : (rzecz.) uciecha | : (rzecz.) uradowanie | : (rzecz.) zabawa | : (rzecz.) zachwyt
-joyful : joyful : (przym.) radosny | : (przym.) szczęśliwy
-joyfully : joyfully : (przysł.) radośnie
-joyless : joyless : (przym.) niewesoły | : (przym.) ponury | : (przym.) smutny
-joyous : joyous : (przym.) radosny | : (przym.) triumfalny
-joyride : joyride : (rzecz.) przejażdżka
-joystick : joystick : (rzecz.) drążek | : (rzecz.) dżojstik | : (rzecz.) joystick
-jubilant : jubilant : (przym.) radosny | : (przym.) radujący | : (przym.) triumfalny | : (przym.) tryumfalny | : (przym.) wiwatujący
-jubilation : jubilation : (rzecz.) jubileusz | : (rzecz.) radowanie | : (rzecz.) rozradowanie | : (rzecz.) triumfowanie
-jubilee : jubilee : (rzecz.) jubileusz
-judge : judge : (czas.) oceniać | : (czas.) ocenić | : (czas.) osądzać | : (czas.) osądzić | : (czas.) rozsądzać | : (czas.) sądzić | : (czas.) sędziować | : (czas.) uważać | : (czas.) wydawać | : (czas.) wyrokować | : (rzecz.) juror | : (rzecz.) rozsadzenie | : (rzecz.) rozsądzenie | : (rzecz.) sędzia | : (rzecz.) znawca | : (rzecz.) znawczyni
-judge-advocate : judge-advocate : (rzecz.) audytor
-judgement : judgement : (rzecz.) orzeczenie | : (rzecz.) osąd | : (rzecz.) rozpoznanie | : (rzecz.) sąd | : (rzecz.) wyrok
-judges : judges : (rzecz.) sędziowanie
-judgment : judgment : (rzecz.) orzeczenie | : (rzecz.) osąd | : (rzecz.) osądzenie | : (rzecz.) pogląd | : (rzecz.) wyrok
-judicature : judicature : (rzecz.) sądownictwo
-judicial : judicial : (przym.) krytyczny | : (przym.) sądowniczy | : (przym.) sądowy | : (przym.) sędziowski | : (przym.) sprawiedliwy
-judiciary : judiciary : (rzecz.) sądownictwo
-judicious : judicious : (przym.) rozsądny | : (przym.) rozumny | : (przym.) rozważny
-judiciousness : judiciousness : (rzecz.) rozwaga
-judo : judo : (rzecz.) dżudo | : (rzecz.) judo
-jug : jug : (rzecz.) dzban | : (rzecz.) dzbanek | : (rzecz.) garnek | : (rzecz.) kubek
-juggins : juggins : (rzecz.) dureń | : (rzecz.) głupek
-juggle : juggle : (czas.) manipulować | : (czas.) żonglować | : (rzecz.) żonglowanie
-juggler : juggler : (rzecz.) kuglarz | : (rzecz.) oszust | : (rzecz.) oszustwo | : (rzecz.) żongler
-jugglery : jugglery : (rzecz.) kuglarstwo | : (rzecz.) żonglerstwo
-jugular : jugular : (przym.) szyjny | : (przym.) szyjowy
-juice : juice : (rzecz.) prąd | : (rzecz.) sok
-juiciness : juiciness : (rzecz.) soczystość
-juicy : juicy : (przym.) pikantny | : (przym.) soczysty
-jujube : jujube : (rzecz.) jujuba
-julep : julep : (rzecz.) ulepek
-julienne : julienne : (rzecz.) mizeria
-jumble : jumble : (czas.) kotłować | : (czas.) pomieszać | : (rzecz.) gmatwanina | : (rzecz.) kupa | : (rzecz.) mieszanina | : (rzecz.) podskakiwanie
-jumbo : jumbo : (przym.) ogromny
-jump : jump : (czas.) fikać | : (czas.) hycać | : (czas.) kicać | : (czas.) podskakiwać | : (czas.) podskoczyć | : (czas.) podsmażać | : (czas.) przeskakiwać | : (czas.) przeskoczyć | : (czas.) skakać | : (czas.) skoczyć | : (czas.) wskakiwać | : (rzecz.) podskok | : (rzecz.) przeskok | : (rzecz.) przeszkoda | : (rzecz.) skakanie | : (rzecz.) skocznia | : (rzecz.) skok | : (rzecz.) sprężyna | : (rzecz.) uskok | : (rzecz.) wyskok
-jumper : jumper : (rzecz.) bluza | : (rzecz.) pulower | : (rzecz.) skoczek | : (rzecz.) sweter | : (rzecz.) zwieracz | : (rzecz.) zworka
-jumpy : jumpy : (przym.) nerwowy | : (przym.) nierówny
-junction : junction : (rzecz.) łącznica | : (rzecz.) łącznik | : (rzecz.) łączówka | : (rzecz.) połączenie | : (rzecz.) rozjazd | : (rzecz.) skrzyżowanie | : (rzecz.) węzeł | : (rzecz.) zespolenie | : (rzecz.) złącze | : (rzecz.) zlanie
-juncture : juncture : (rzecz.) chwila | : (rzecz.) koniunktura | : (rzecz.) kryzys | : (rzecz.) ogniwo | : (rzecz.) połączenie | : (rzecz.) sytuacja | : (rzecz.) złącze
-jungle : jungle : (rzecz.) dżungla | : (rzecz.) gąszcz | : (rzecz.) puszcza | : (rzecz.) zimnica
-junior : junior : (przym.) młodszy | : (przym.) podwładny | : (rzecz.) junior
-juniper : juniper : (rzecz.) jałowiec
-junk : junk : (rzecz.) dżonka | : (rzecz.) odpadek | : (rzecz.) rupieć | : (rzecz.) staroć | : (rzecz.) syf | : (rzecz.) szmelc | : (rzecz.) żelastwo | : (rzecz.) żelaziwo | : (rzecz.) złom
-junket : junket : (czas.) pohulać | : (rzecz.) hulanka | : (rzecz.) legumina | : (rzecz.) piknik | : (rzecz.) zabawa
-junkie : junkie : (rzecz.) ćpun | : (rzecz.) narkoman
-junkman : junkman : (rzecz.) szmaciarz
-junkyard : junkyard : (rzecz.) złomowisko
-junta : junta : (rzecz.) klika | : (rzecz.) rada
-juridical : juridical : (przym.) jurydyczny | : (przym.) prawniczy | : (przym.) prawny | : (przym.) sądowy
-jurisdiction : jurisdiction : (rzecz.) jurysdykcja | : (rzecz.) kompetencja | : (rzecz.) orzecznictwo | : (rzecz.) sądownictwo
-jurisdictional : jurisdictional : (przym.) sądowy
-jurisprudence : jurisprudence : (rzecz.) jurysprudencja | : (rzecz.) prawoznawstwo
-jurist : jurist : (rzecz.) jurysta | : (rzecz.) prawnik
-juristic : juristic : (przym.) jurydyczny
-juror : juror : (rzecz.) ławnik | : (rzecz.) sędzia
-jury : jury : (rzecz.) sąd | : (rzecz.) sędzia
-just : just : (przym.) nominalny | : (przym.) rzetelny | : (przym.) słuszny | : (przym.) sprawiedliwy | : (przysł.) ściśle | : (przysł.) tylko | : (przysł.) właśnie
-justice : justice : (rzecz.) sądownictwo | : (rzecz.) sędzia | : (rzecz.) sprawiedliwość | : (rzecz.) zasadność
-justifiable : justifiable : (przym.) słuszny
-justifiably : justifiably : (przysł.) słusznie | : (przysł.) zrozumiale
-justification : justification : (rzecz.) dosuwanie | : (rzecz.) justowanie | : (rzecz.) justunek | : (rzecz.) motywacja | : (rzecz.) obrona | : (rzecz.) usprawiedliwienie | : (rzecz.) uzasadnienie | : (rzecz.) wyjustowanie
-justify : justify : (czas.) bronić | : (czas.) justować | : (czas.) legitymować | : (czas.) obronić | : (czas.) tłumaczyć | : (czas.) umotywować | : (czas.) usprawiedliwiać | : (czas.) usprawiedliwić | : (czas.) uwalniać | : (czas.) uwolnić | : (czas.) uzasadniać | : (czas.) uzasadnić | : (czas.) wybaczyć | : (czas.) wyjustować
-justly : justly : (przysł.) słusznie | : (przysł.) sprawiedliwie
-justness : justness : (rzecz.) słuszność | : (rzecz.) sprawiedliwość
-jut : jut : (czas.) postrzępić | : (czas.) sterczeć | : (czas.) wystawać | : (rzecz.) popijawa | : (rzecz.) stercz | : (rzecz.) występ
-jute : jute : (rzecz.) juta
-juvenescence : juvenescence : (rzecz.) okres
-juvenile : juvenile : (przym.) młodociany | : (przym.) młodzieńczy | : (rzecz.) małoletni | : (rzecz.) młodzieniec | : (rzecz.) podrostek | : (rzecz.) wyrostek
-juvenility : juvenility : (rzecz.) młodość | : (rzecz.) młodzieńczość
-juxtapose : juxtapose : (czas.) ustawiać | : (czas.) ustawić | : (czas.) zestawiać
-juxtaposition : juxtaposition : (rzecz.) zestawienie
+[jack]Jack : (rzecz.) Jacek
+[jacob]Jacob : (rzecz.) Jakub
+[jacobin]Jacobin : (rzecz.) jakobin
+[jacobinism]Jacobinism : (rzecz.) jakobinizm
+[jamaica]Jamaica : (rzecz.) Jamajka
+[january]January : (rzecz.) styczeń
+[januarys]Januarys : (przysł.) stycznie
+[joanne]Joanne : (rzecz.) Joanna
+[john]John : (rzecz.) Jan
+[jonathan]Jonathan : (rzecz.) Jonatan
+[joseph]Joseph : (rzecz.) Józef
+[josephine]Josephine : (rzecz.) Józefina
+[judaic]Judaic : (przym.) judaistyczny
+[judaism]Judaism : (rzecz.) judaizm
+[judith]Judith : (rzecz.) Judyta
+[julie]Julie : (rzecz.) Julia
+[july]July : (rzecz.) lipiec
+[june]June : (rzecz.) czerwiec
+[jurassic]Jurassic : (przym.) jurajski
+[justin]Justin : (rzecz.) Justyn
+[justine]Justine : (rzecz.) Justyna
+[jab]jab : (czas.) dźgać; (czas.) szturchać; (czas.) ukłuć; (rzecz.) dźgnięcie; (rzecz.) szczepionka; (rzecz.) szturchnięcie
+[jabber]jabber : (czas.) gadać; (czas.) paplać; (czas.) trajkotać; (rzecz.) bełkot; (rzecz.) gadanie; (rzecz.) paplanina; (rzecz.) rozwlekłość
+[jabot]jabot : (rzecz.) żabot
+[jacinth]jacinth : (rzecz.) hiacynt
+[jack]jack : (rzecz.) chłopak; (rzecz.) dźwignia; (rzecz.) gniazdko; (rzecz.) kontakt; (rzecz.) lewar; (rzecz.) lewarek; (rzecz.) majtek; (rzecz.) marynarz; (rzecz.) podnośnik; (rzecz.) walet
+[jack-a-dandy]jack-a-dandy : (rzecz.) dandys; (rzecz.) strojniś
+[jack-knife]jack-knife : (rzecz.) scyzoryk
+[jack-plane]jack-plane : (rzecz.) hebel
+[jack-rafter]jack-rafter : (rzecz.) krokiewka; (rzecz.) kulawka
+[jackal]jackal : (rzecz.) szakal
+[jackanapes]jackanapes : (rzecz.) urwis; (rzecz.) zarozumialec; (rzecz.) zuchwalec
+[jackass]jackass : (rzecz.) bałwan; (rzecz.) dureń; (rzecz.) osioł
+[jackboots]jackboots : (rzecz.) oficerki
+[jackdaw]jackdaw : (rzecz.) kawka
+[jacket]jacket : (rzecz.) bluza; (rzecz.) kaftan; (rzecz.) kaftanik; (rzecz.) kurtka; (rzecz.) marynarka; (rzecz.) obwoluta; (rzecz.) osłona; (rzecz.) płaszcz; (rzecz.) surdut; (rzecz.) żakiet
+[jackplane]jackplane : (rzecz.) hebel; (rzecz.) strug
+[jackstay]jackstay : (rzecz.) jumpsztag
+[jaconet]jaconet : (rzecz.) ceratka
+[jacquard]jacquard : (rzecz.) żakard
+[jade]jade : (czas.) zmęczyć; (rzecz.) babsztyl; (rzecz.) chabeta; (rzecz.) jadłospis; (rzecz.) jaspis; (rzecz.) nefryt; (rzecz.) szkapa
+[jaded]jaded : (przym.) wycieńczony; (przym.) zdarty
+[jadeite]jadeite : (rzecz.) jadeit; (rzecz.) żadeit
+[jag]jag : (czas.) karbować; (czas.) postrzępić; (czas.) strzępić; (czas.) szczerbić; (rzecz.) biba; (rzecz.) cypel; (rzecz.) napad; (rzecz.) podchmielenie; (rzecz.) popijawa; (rzecz.) szczerba; (rzecz.) wypad; (rzecz.) występ; (rzecz.) wyszczerbienie; (rzecz.) ząb
+[jagged]jagged : (przym.) strzępiasty; (przym.) szczerbaty
+[jaggedly]jaggedly : (rzecz.) poszarpanie
+[jaguar]jaguar : (rzecz.) jaguar
+[jail]jail : (czas.) uwięzić; (czas.) więzić; (rzecz.) ciupa; (rzecz.) puszka; (rzecz.) wiezienie; (rzecz.) więzienie
+[jailbird]jailbird : (rzecz.) kryminalista
+[jailer]jailer : (rzecz.) dozorca; (rzecz.) klawisz; (rzecz.) strażnik
+[jailor]jailor : (rzecz.) klawisz
+[jakes]jakes : (rzecz.) wygódka
+[jalap]jalap : (rzecz.) jalapa
+[jalopy]jalopy : (rzecz.) grat; (rzecz.) gruchot
+[jalousie]jalousie : (rzecz.) żaluzja
+[jam]jam : (czas.) korkować; (czas.) osiąść; (czas.) wciskać; (czas.) zablokować; (czas.) zablokowywać; (czas.) zaciąć; (czas.) zaciskać; (czas.) zagłuszać; (czas.) zagradzać; (czas.) zatykać; (rzecz.) dżem; (rzecz.) konfitura; (rzecz.) konfitury; (rzecz.) korek; (rzecz.) marmolada; (rzecz.) ścisk; (rzecz.) tłok; (rzecz.) tłum; (rzecz.) zacięcie; (rzecz.) zator
+[jam-nut]jam-nut : (rzecz.) przeciwnakrętka
+[jamb]jamb : (rzecz.) framuga; (rzecz.) ościeże; (rzecz.) ościeżnica
+[jamboree]jamboree : (rzecz.) festiwal; (rzecz.) zlot
+[jamming]jamming : (rzecz.) stłoczenie; (rzecz.) zacinanie; (rzecz.) zagłuszanie; (rzecz.) zagłuszenie
+[jangle]jangle : (czas.) brzęczeć; (czas.) brzękać; (czas.) dzwonić; (czas.) hałasować; (czas.) wadzić; (czas.) wydawać; (rzecz.) brzęczenie; (rzecz.) dysharmonia; (rzecz.) dzwonienie; (rzecz.) hałas
+[janissary]janissary : (rzecz.) janczar
+[janitor]janitor : (rzecz.) dozorca; (rzecz.) portier; (rzecz.) stróż
+[jape]jape : (czas.) żartować
+[jar]jar : (czas.) brzęczeć; (czas.) drażnić; (czas.) trząść; (czas.) wstrząsać; (rzecz.) brzęk; (rzecz.) dzban; (rzecz.) kłótnia; (rzecz.) słoik; (rzecz.) słój; (rzecz.) wstrząs
+[jargon]jargon : (rzecz.) gwara; (rzecz.) żargon
+[jarring]jarring : (przym.) zgrzytliwy
+[jars]jars : (rzecz.) nożyce
+[jasmine]jasmine : (rzecz.) jaśmin
+[jasper]jasper : (rzecz.) jaspis
+[jaundice]jaundice : (rzecz.) zawiść; (rzecz.) zazdrość; (rzecz.) żółtaczka
+[jaundiced]jaundiced : (przym.) cyniczny; (przym.) szyderczy; (przym.) zawistny; (przym.) zazdrosny
+[jaunt]jaunt : (rzecz.) przejażdżka; (rzecz.) wycieczka
+[jauntily]jauntily : (przysł.) beztrosko; (przysł.) ochoczo; (przysł.) wesoło
+[jaunty]jaunty : (przym.) beztroski; (przym.) raźny; (przym.) wesoły; (przym.) żwawy
+[javelin]javelin : (rzecz.) oszczep
+[jaw]jaw : (czas.) gadać; (czas.) ględzić; (czas.) sztorcować; (czas.) zrugać; (rzecz.) czeluść; (rzecz.) imadło; (rzecz.) paszcza; (rzecz.) szczęka; (rzecz.) szpona
+[jaw-breaker]jaw-breaker : (rzecz.) wyraz
+[jawbone]jawbone : (rzecz.) żuchwa
+[jawbreaker]jawbreaker : (rzecz.) wyraz
+[jay]jay : (rzecz.) gaduła; (rzecz.) pleciuga; (rzecz.) sójka
+[jaywalker]jaywalker : (rzecz.) roztrzepaniec
+[jazz]jazz : (rzecz.) dżez; (rzecz.) jazz
+[jazzy]jazzy : (przym.) krzykliwy
+[jealous]jealous : (przym.) nieufny; (przym.) zazdrosny
+[jealously]jealously : (przysł.) zazdrośnie
+[jealousy]jealousy : (rzecz.) zawiść; (rzecz.) zazdrość; (rzecz.) zazdrostka
+[jean]jean : (rzecz.) drelich; (rzecz.) dżins
+[jeans]jeans : (rzecz.) dżins; (rzecz.) dżinsy
+[jeep]jeep : (rzecz.) dżip; (rzecz.) gazik; (rzecz.) łazik; (rzecz.) samochód
+[jeer]jeer : (czas.) drwić; (czas.) szydzić; (czas.) wyśmiać; (rzecz.) docinek; (rzecz.) drwina; (rzecz.) kpina; (rzecz.) szyderstwo; (rzecz.) wyśmiewanie
+[jejune]jejune : (przym.) nieciekawy; (przym.) nieurodzajny; (przym.) nudny
+[jell]jell : (czas.) konkretyzować; (czas.) stężeć
+[jelly]jelly : (rzecz.) galareta; (rzecz.) galaretka; (rzecz.) kisiel
+[jelly-fish]jelly-fish : (rzecz.) meduza
+[jellyfish]jellyfish : (rzecz.) meduza
+[jennet]jennet : (rzecz.) dzianet
+[jenny]jenny : (rzecz.) przędzarka; (rzecz.) rowkarka
+[jeopardize]jeopardize : (czas.) narażać; (czas.) zagrażać
+[jeopardy]jeopardy : (rzecz.) niebezpieczeństwo; (rzecz.) zagrożenie
+[jeremiad]jeremiad : (rzecz.) biadanie; (rzecz.) jeremiada; (rzecz.) skarga
+[jerk]jerk : (czas.) szarpać; (czas.) szarpnąć; (czas.) targać; (rzecz.) cymbał; (rzecz.) drgnięcie; (rzecz.) głupek; (rzecz.) pchnięcie; (rzecz.) świr; (rzecz.) szarpniecie; (rzecz.) szarpnięcie; (rzecz.) targnięcie
+[jerk-line]jerk-line : (rzecz.) szarpak
+[jerkin]jerkin : (rzecz.) kabat; (rzecz.) kaftan; (rzecz.) kurtka
+[jerky]jerky : (przym.) kurczowy; (przym.) nierówny; (przym.) szarpiący
+[jersey]jersey : (rzecz.) jersey; (rzecz.) pulower; (rzecz.) sweter; (rzecz.) tkanina
+[jest]jest : (czas.) żartować; (rzecz.) dowcip; (rzecz.) żarcie; (rzecz.) żart
+[jester]jester : (rzecz.) błazen; (rzecz.) wesołek; (rzecz.) żartowniś
+[jesting]jesting : (przym.) wesołkowaty
+[jet]jet : (czas.) bluzgać; (czas.) tryskać; (rzecz.) dysza; (rzecz.) dżet; (rzecz.) gagat; (rzecz.) gagatek; (rzecz.) odrzutowiec; (rzecz.) rozpylacz; (rzecz.) struga; (rzecz.) strumień; (rzecz.) wytrysk
+[jet-plane]jet-plane : (rzecz.) odrzutowiec
+[jet-propelled]jet-propelled : (przym.) odrzutowy
+[jetfoil]jetfoil : (rzecz.) wodolot
+[jettison]jettison : (czas.) wyrzucać
+[jetton]jetton : (rzecz.) żeton
+[jetty]jetty : (rzecz.) falochron; (rzecz.) grobla; (rzecz.) molo; (rzecz.) nabrzeże; (rzecz.) nadbrzeże
+[jew's-harp]jew's-harp : (rzecz.) drumla
+[jewel]jewel : (rzecz.) biżuteria; (rzecz.) cacko; (rzecz.) chluba; (rzecz.) kamień; (rzecz.) klejnot; (rzecz.) skarbczyk
+[jeweller]jeweller : (rzecz.) jubiler
+[jeweller's]jeweller's : (przym.) jubilerski; (rzecz.) jubiler
+[jewellery]jewellery : (rzecz.) biżuteria
+[jib]jib : (czas.) opierać; (czas.) płoszyć; (czas.) wzbraniać; (czas.) wzdrygać; (rzecz.) kliwer; (rzecz.) wysięgnik
+[jibber]jibber : (czas.) płoszyć
+[jibe]jibe : (czas.) domówić; (czas.) kpić
+[jiff]jiff : (rzecz.) sekundka
+[jiffy]jiffy : (rzecz.) chwilka
+[jig]jig : (czas.) potrząsać; (czas.) tańczyć; (rzecz.) imadło; (rzecz.) szablon
+[jigger]jigger : (rzecz.) kielich; (rzecz.) kieliszek; (rzecz.) klin; (rzecz.) seta; (rzecz.) setka; (rzecz.) szlug
+[jiggle]jiggle : (czas.) podrygiwać; (czas.) posuwać; (czas.) wstrząsać
+[jigsaw]jigsaw : (rzecz.) łamigłówka; (rzecz.) laubzega; (rzecz.) piła; (rzecz.) piłka; (rzecz.) układanka; (rzecz.) wyrzynarka
+[jihad]jihad : (rzecz.) dżihad; (rzecz.) krucjata
+[jilt]jilt : (czas.) zdradzać; (czas.) zdradzić; (rzecz.) kokietka
+[jimjams]jimjams : (rzecz.) trema
+[jimmy]jimmy : (rzecz.) łom
+[jingle]jingle : (czas.) brzęczeć; (czas.) dźwięczeć; (czas.) dzwonić; (czas.) pobrzękiwać; (czas.) szczękać; (rzecz.) brzęczyk; (rzecz.) brzęk; (rzecz.) dzwonienie
+[jingo]jingo : (rzecz.) szowinista
+[jingoism]jingoism : (rzecz.) szowinizm
+[jinrikisha]jinrikisha : (rzecz.) riksza
+[jinx]jinx : (rzecz.) przekleństwo
+[jinxed]jinxed : (przym.) pechowy
+[jitney]jitney : (rzecz.) autobus
+[jitter]jitter : (rzecz.) drganie; (rzecz.) fluktuacja; (rzecz.) trema
+[jitters]jitters : (rzecz.) trema
+[job]job : (czas.) szydełkować; (rzecz.) akcydens; (rzecz.) dźgnięcie; (rzecz.) interes; (rzecz.) posada; (rzecz.) praca; (rzecz.) robocizna; (rzecz.) robota; (rzecz.) rozwiewanie; (rzecz.) zadanie; (rzecz.) zajęcie; (rzecz.) zarobek; (rzecz.) zatrudnienie; (rzecz.) zawód; (rzecz.) zlecenie
+[jobber]jobber : (rzecz.) makler; (rzecz.) pośrednik; (rzecz.) wyrobnik
+[jobbery]jobbery : (rzecz.) prywata; (rzecz.) szachrajstwo
+[jobless]jobless : (przym.) bezrobotny
+[joblessness]joblessness : (rzecz.) bezrobocie
+[jockey]jockey : (czas.) brać; (czas.) kpić; (czas.) nabrać; (czas.) okpić; (czas.) oszukać; (czas.) oszukiwać; (czas.) szachrować; (czas.) wycyganić; (rzecz.) dżokej
+[jocko]jocko : (rzecz.) szympans
+[jocose]jocose : (przym.) dowcipny; (przym.) wesoły; (przym.) zabawny
+[jocosity]jocosity : (rzecz.) jowialność
+[jocular]jocular : (przym.) dowcipny; (przym.) figlarny; (przym.) wesoły; (przym.) żartobliwy
+[jocularity]jocularity : (rzecz.) żartobliwość
+[jocund]jocund : (przym.) pogodny; (przym.) straszny; (przym.) wesoły
+[jocundity]jocundity : (rzecz.) wesołość
+[jodhpurs]jodhpurs : (rzecz.) spodnie
+[jog]jog : (czas.) biegać; (czas.) popychać; (czas.) posuwać; (czas.) trącać; (rzecz.) kłus; (rzecz.) potrącenie; (rzecz.) szturchnięcie; (rzecz.) trucht
+[jogger]jogger : (rzecz.) biegacz; (rzecz.) równiarka
+[jogging]jogging : (rzecz.) bieg; (rzecz.) bieganie; (rzecz.) jogging
+[joggle]joggle : (rzecz.) potrząsanie; (rzecz.) wpust; (rzecz.) wstrząśnięcie; (rzecz.) występ; (rzecz.) żłobek
+[jogtrot]jogtrot : (rzecz.) kłus; (rzecz.) trucht
+[john]john : (rzecz.) bardacha; (rzecz.) kibel; (rzecz.) wychodek
+[join]join : (czas.) dołączać; (czas.) dołączyć; (czas.) doszlusować; (czas.) kojarzyć; (czas.) łączyć; (czas.) pobratać; (czas.) połączyć; (czas.) przyłączyć; (czas.) przystąpić; (czas.) przystępować; (czas.) spajać; (czas.) wstąpić; (czas.) wstępować; (czas.) zestalać; (czas.) złączyć; (rzecz.) połączenie; (rzecz.) przyłączenie; (rzecz.) spojenie; (rzecz.) złączenie
+[joiner]joiner : (rzecz.) stolarz
+[joinery]joinery : (rzecz.) stolarka; (rzecz.) stolarstwo
+[joining]joining : (rzecz.) przysiadanie; (rzecz.) spajanie; (rzecz.) spojenie
+[joint]joint : (przym.) gromadny; (przym.) kolegialny; (przym.) łączny; (przym.) stawowy; (przym.) udziałowy; (przym.) wspólny; (rzecz.) areszt; (rzecz.) cios; (rzecz.) knajpa; (rzecz.) pieczyste; (rzecz.) połączenie; (rzecz.) przegub; (rzecz.) skręt; (rzecz.) spelunka; (rzecz.) spoina; (rzecz.) spojenie; (rzecz.) staw; (rzecz.) styk; (rzecz.) trójnik; (rzecz.) współwłasność; (rzecz.) złącze; (rzecz.) złączka
+[joint-stock]joint-stock : (przym.) akcyjny
+[jointer]jointer : (rzecz.) gładzik; (rzecz.) strug; (rzecz.) strugarka-wyrówniarka
+[jointly]jointly : (przysł.) łącznie; (przysł.) społem; (przysł.) wspólnie
+[jointure]jointure : (rzecz.) dożywocie
+[joist]joist : (rzecz.) belka; (rzecz.) dwuteownik; (rzecz.) legar; (rzecz.) poprzeczka
+[joke]joke : (czas.) dowcipkować; (czas.) drwinkować; (czas.) pożartować; (czas.) żartować; (czas.) zażartować; (rzecz.) dowcip; (rzecz.) figiel; (rzecz.) kawał; (rzecz.) pośmiewisko; (rzecz.) psikus; (rzecz.) żarcie; (rzecz.) żart
+[joker]joker : (rzecz.) dowcipniś; (rzecz.) dżoker; (rzecz.) kawalarz; (rzecz.) typek; (rzecz.) wesołek; (rzecz.) żartowniś
+[jokester]jokester : (rzecz.) figlarz; (rzecz.) kawalarz
+[jokingly]jokingly : (przysł.) żartem; (przysł.) żartobliwie
+[jollify]jollify : (czas.) zabawiać; (czas.) zabawić
+[jollity]jollity : (rzecz.) radość; (rzecz.) wesołość; (rzecz.) zabawa
+[jolly]jolly : (przym.) pogodny; (przym.) wesoły; (przym.) zabawny
+[jolly-boat]jolly-boat : (rzecz.) szalupa
+[jollyboat]jollyboat : (rzecz.) jolka; (rzecz.) szalupa
+[jolt]jolt : (czas.) popchnąć; (czas.) rzucać; (czas.) telepać; (czas.) trząść; (czas.) wstrząsnąć; (rzecz.) popchnięcie; (rzecz.) szarpnięcie; (rzecz.) wstrząs
+[jolty]jolty : (przym.) wyboisty
+[jonquil]jonquil : (rzecz.) żonkil
+[jorum]jorum : (rzecz.) czara; (rzecz.) puchar
+[josh]josh : (rzecz.) nabieranie
+[josser]josser : (rzecz.) facet; (rzecz.) wariat
+[jostle]jostle : (czas.) popychać; (czas.) poszturchać; (czas.) potarmosić; (czas.) potrącać; (czas.) przepychać; (czas.) rozpychać; (czas.) roztrącać; (czas.) trącać; (rzecz.) popchnięcie; (rzecz.) popychanie; (rzecz.) potrącanie
+[jot]jot : (czas.) zapisywać; (rzecz.) drobnostka; (rzecz.) krztyna; (rzecz.) odrobina; (rzecz.) punkt
+[jotter]jotter : (rzecz.) notatnik
+[jotting]jotting : (rzecz.) notowanie
+[joule]joule : (rzecz.) dżul
+[jounce]jounce : (czas.) podskakiwać; (czas.) trząść
+[journal]journal : (rzecz.) czasopismo; (rzecz.) dziennik; (rzecz.) pamiętnik; (rzecz.) żurnal
+[journaling]journaling : (rzecz.) księgowanie
+[journalism]journalism : (rzecz.) dziennikarstwo; (rzecz.) publicystyka
+[journalist]journalist : (rzecz.) dziennikarz; (rzecz.) publicysta; (rzecz.) żurnalista
+[journey]journey : (czas.) podróżować; (rzecz.) droga; (rzecz.) jazda; (rzecz.) podróż; (rzecz.) przejażdżka; (rzecz.) wędrówka
+[journeyman]journeyman : (rzecz.) czeladnik
+[joust]joust : (czas.) potykać; (rzecz.) potykanie
+[jovial]jovial : (przym.) jowialny; (przym.) wesoły
+[joviality]joviality : (rzecz.) jowialność
+[jovially]jovially : (przysł.) jowialnie
+[jowl]jowl : (rzecz.) podgardle; (rzecz.) policzek; (rzecz.) szczęka
+[joy]joy : (czas.) radować; (rzecz.) frajda; (rzecz.) jubel; (rzecz.) powojnik; (rzecz.) radość; (rzecz.) uciecha; (rzecz.) uradowanie; (rzecz.) zabawa; (rzecz.) zachwyt
+[joyful]joyful : (przym.) radosny; (przym.) szczęśliwy
+[joyfully]joyfully : (przysł.) radośnie
+[joyless]joyless : (przym.) niewesoły; (przym.) ponury; (przym.) smutny
+[joyous]joyous : (przym.) radosny; (przym.) triumfalny
+[joyride]joyride : (rzecz.) przejażdżka
+[joystick]joystick : (rzecz.) drążek; (rzecz.) dżojstik; (rzecz.) joystick
+[jubilant]jubilant : (przym.) radosny; (przym.) radujący; (przym.) triumfalny; (przym.) tryumfalny; (przym.) wiwatujący
+[jubilation]jubilation : (rzecz.) jubileusz; (rzecz.) radowanie; (rzecz.) rozradowanie; (rzecz.) triumfowanie
+[jubilee]jubilee : (rzecz.) jubileusz
+[judge]judge : (czas.) oceniać; (czas.) ocenić; (czas.) osądzać; (czas.) osądzić; (czas.) rozsądzać; (czas.) sądzić; (czas.) sędziować; (czas.) uważać; (czas.) wydawać; (czas.) wyrokować; (rzecz.) juror; (rzecz.) rozsadzenie; (rzecz.) rozsądzenie; (rzecz.) sędzia; (rzecz.) znawca; (rzecz.) znawczyni
+[judge-advocate]judge-advocate : (rzecz.) audytor
+[judgement]judgement : (rzecz.) orzeczenie; (rzecz.) osąd; (rzecz.) rozpoznanie; (rzecz.) sąd; (rzecz.) wyrok
+[judges]judges : (rzecz.) sędziowanie
+[judgment]judgment : (rzecz.) orzeczenie; (rzecz.) osąd; (rzecz.) osądzenie; (rzecz.) pogląd; (rzecz.) wyrok
+[judicature]judicature : (rzecz.) sądownictwo
+[judicial]judicial : (przym.) krytyczny; (przym.) sądowniczy; (przym.) sądowy; (przym.) sędziowski; (przym.) sprawiedliwy
+[judiciary]judiciary : (rzecz.) sądownictwo
+[judicious]judicious : (przym.) rozsądny; (przym.) rozumny; (przym.) rozważny
+[judiciousness]judiciousness : (rzecz.) rozwaga
+[judo]judo : (rzecz.) dżudo; (rzecz.) judo
+[jug]jug : (rzecz.) dzban; (rzecz.) dzbanek; (rzecz.) garnek; (rzecz.) kubek
+[juggins]juggins : (rzecz.) dureń; (rzecz.) głupek
+[juggle]juggle : (czas.) manipulować; (czas.) żonglować; (rzecz.) żonglowanie
+[juggler]juggler : (rzecz.) kuglarz; (rzecz.) oszust; (rzecz.) oszustwo; (rzecz.) żongler
+[jugglery]jugglery : (rzecz.) kuglarstwo; (rzecz.) żonglerstwo
+[jugular]jugular : (przym.) szyjny; (przym.) szyjowy
+[juice]juice : (rzecz.) prąd; (rzecz.) sok
+[juiciness]juiciness : (rzecz.) soczystość
+[juicy]juicy : (przym.) pikantny; (przym.) soczysty
+[jujube]jujube : (rzecz.) jujuba
+[julep]julep : (rzecz.) ulepek
+[julienne]julienne : (rzecz.) mizeria
+[jumble]jumble : (czas.) kotłować; (czas.) pomieszać; (rzecz.) gmatwanina; (rzecz.) kupa; (rzecz.) mieszanina; (rzecz.) podskakiwanie
+[jumbo]jumbo : (przym.) ogromny
+[jump]jump : (czas.) fikać; (czas.) hycać; (czas.) kicać; (czas.) podskakiwać; (czas.) podskoczyć; (czas.) podsmażać; (czas.) przeskakiwać; (czas.) przeskoczyć; (czas.) skakać; (czas.) skoczyć; (czas.) wskakiwać; (rzecz.) podskok; (rzecz.) przeskok; (rzecz.) przeszkoda; (rzecz.) skakanie; (rzecz.) skocznia; (rzecz.) skok; (rzecz.) sprężyna; (rzecz.) uskok; (rzecz.) wyskok
+[jumper]jumper : (rzecz.) bluza; (rzecz.) pulower; (rzecz.) skoczek; (rzecz.) sweter; (rzecz.) zwieracz; (rzecz.) zworka
+[jumpy]jumpy : (przym.) nerwowy; (przym.) nierówny
+[junction]junction : (rzecz.) łącznica; (rzecz.) łącznik; (rzecz.) łączówka; (rzecz.) połączenie; (rzecz.) rozjazd; (rzecz.) skrzyżowanie; (rzecz.) węzeł; (rzecz.) zespolenie; (rzecz.) złącze; (rzecz.) zlanie
+[juncture]juncture : (rzecz.) chwila; (rzecz.) koniunktura; (rzecz.) kryzys; (rzecz.) ogniwo; (rzecz.) połączenie; (rzecz.) sytuacja; (rzecz.) złącze
+[jungle]jungle : (rzecz.) dżungla; (rzecz.) gąszcz; (rzecz.) puszcza; (rzecz.) zimnica
+[junior]junior : (przym.) młodszy; (przym.) podwładny; (rzecz.) junior
+[juniper]juniper : (rzecz.) jałowiec
+[junk]junk : (rzecz.) dżonka; (rzecz.) odpadek; (rzecz.) rupieć; (rzecz.) staroć; (rzecz.) syf; (rzecz.) szmelc; (rzecz.) żelastwo; (rzecz.) żelaziwo; (rzecz.) złom
+[junket]junket : (czas.) pohulać; (rzecz.) hulanka; (rzecz.) legumina; (rzecz.) piknik; (rzecz.) zabawa
+[junkie]junkie : (rzecz.) ćpun; (rzecz.) narkoman
+[junkman]junkman : (rzecz.) szmaciarz
+[junkyard]junkyard : (rzecz.) złomowisko
+[junta]junta : (rzecz.) klika; (rzecz.) rada
+[juridical]juridical : (przym.) jurydyczny; (przym.) prawniczy; (przym.) prawny; (przym.) sądowy
+[jurisdiction]jurisdiction : (rzecz.) jurysdykcja; (rzecz.) kompetencja; (rzecz.) orzecznictwo; (rzecz.) sądownictwo
+[jurisdictional]jurisdictional : (przym.) sądowy
+[jurisprudence]jurisprudence : (rzecz.) jurysprudencja; (rzecz.) prawoznawstwo
+[jurist]jurist : (rzecz.) jurysta; (rzecz.) prawnik
+[juristic]juristic : (przym.) jurydyczny
+[juror]juror : (rzecz.) ławnik; (rzecz.) sędzia
+[jury]jury : (rzecz.) sąd; (rzecz.) sędzia
+[just]just : (przym.) nominalny; (przym.) rzetelny; (przym.) słuszny; (przym.) sprawiedliwy; (przysł.) ściśle; (przysł.) tylko; (przysł.) właśnie
+[justice]justice : (rzecz.) sądownictwo; (rzecz.) sędzia; (rzecz.) sprawiedliwość; (rzecz.) zasadność
+[justifiable]justifiable : (przym.) słuszny
+[justifiably]justifiably : (przysł.) słusznie; (przysł.) zrozumiale
+[justification]justification : (rzecz.) dosuwanie; (rzecz.) justowanie; (rzecz.) justunek; (rzecz.) motywacja; (rzecz.) obrona; (rzecz.) usprawiedliwienie; (rzecz.) uzasadnienie; (rzecz.) wyjustowanie
+[justify]justify : (czas.) bronić; (czas.) justować; (czas.) legitymować; (czas.) obronić; (czas.) tłumaczyć; (czas.) umotywować; (czas.) usprawiedliwiać; (czas.) usprawiedliwić; (czas.) uwalniać; (czas.) uwolnić; (czas.) uzasadniać; (czas.) uzasadnić; (czas.) wybaczyć; (czas.) wyjustować
+[justly]justly : (przysł.) słusznie; (przysł.) sprawiedliwie
+[justness]justness : (rzecz.) słuszność; (rzecz.) sprawiedliwość
+[jut]jut : (czas.) postrzępić; (czas.) sterczeć; (czas.) wystawać; (rzecz.) popijawa; (rzecz.) stercz; (rzecz.) występ
+[jute]jute : (rzecz.) juta
+[juvenescence]juvenescence : (rzecz.) okres
+[juvenile]juvenile : (przym.) młodociany; (przym.) młodzieńczy; (rzecz.) małoletni; (rzecz.) młodzieniec; (rzecz.) podrostek; (rzecz.) wyrostek
+[juvenility]juvenility : (rzecz.) młodość; (rzecz.) młodzieńczość
+[juxtapose]juxtapose : (czas.) ustawiać; (czas.) ustawić; (czas.) zestawiać
+[juxtaposition]juxtaposition : (rzecz.) zestawienie

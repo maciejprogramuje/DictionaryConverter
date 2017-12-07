@@ -1,83 +1,83 @@
-yiddish : Yiddish : (rzecz.) jidysz
-yacht : yacht : (czas.) pływać | : (rzecz.) jacht
-yacht-club : yacht-club : (rzecz.) jachtklub
-yachtsman : yachtsman : (rzecz.) żeglarz
-yahoo : yahoo : (rzecz.) bestia
-yam : yam : (rzecz.) szarpnięcie
-yank : yank : (czas.) szarpać | : (czas.) szarpnąć | : (czas.) wyrywać | : (czas.) wyszarpywać | : (rzecz.) jankes | : (rzecz.) szarpnięcie
-yap : yap : (czas.) jazgotać | : (czas.) szczekać | : (czas.) trajkotać | : (czas.) ujadać | : (rzecz.) ujadanie
-yard : yard : (rzecz.) dwór | : (rzecz.) dziedziniec | : (rzecz.) jard | : (rzecz.) ogródek | : (rzecz.) podwórko | : (rzecz.) podwórze | : (rzecz.) rejon | : (rzecz.) skład | : (rzecz.) stocznia
-yardage : yardage : (rzecz.) metraż
-yardman : yardman : (rzecz.) parobek
-yardstick : yardstick : (rzecz.) jard | : (rzecz.) kryterium | : (rzecz.) miara
-yare : yare : (przym.) gotowy | : (przym.) sprawny
-yarn : yarn : (rzecz.) historyjka | : (rzecz.) opowiadanie | : (rzecz.) przędza | : (rzecz.) włóczka
-yarrow : yarrow : (rzecz.) krwawnik
-yashmak : yashmak : (rzecz.) jaszmak | : (rzecz.) kwef
-yataghan : yataghan : (rzecz.) jatagan
-yaw : yaw : (czas.) zboczyć | : (rzecz.) odchylenie | : (rzecz.) zbaczanie
-yawl : yawl : (rzecz.) jolka | : (rzecz.) wycie
-yawn : yawn : (czas.) gapić | : (czas.) ziewać | : (czas.) zionąć | : (rzecz.) nudziarstwo | : (rzecz.) paszcza | : (rzecz.) ziewanie | : (rzecz.) ziewnięcie
-yawp : yawp : (czas.) wrzeszczeć
-yeah : yeah : (przysł.) tak
-yean : yean : (czas.) okocić | : (czas.) urodzić
-year : year : (rzecz.) rocznik | : (rzecz.) rok
-year-book : year-book : (rzecz.) rocznik
-year-round : year-round : (przym.) całoroczny
-yearbook : yearbook : (rzecz.) rocznik
-yearling : yearling : (rzecz.) roczniak
-yearlong : yearlong : (przym.) całoroczny | : (przym.) roczny
-yearly : yearly : (przym.) całoroczny | : (przym.) coroczny | : (przym.) doroczny | : (przym.) roczny
-yearn : yearn : (czas.) solidaryzować | : (czas.) tęsknić | : (czas.) współczuć | : (czas.) zatęsknić
-years : years : (rzecz.) letni | : (rzecz.) rok
-yeast : yeast : (rzecz.) drożdże
-yeasty : yeasty : (przym.) pienisty
-yell : yell : (czas.) jazgotać | : (czas.) krzyczeć | : (czas.) wrzeszczeć | : (czas.) wyć | : (czas.) wykrzykiwać | : (rzecz.) krzyk | : (rzecz.) ryk | : (rzecz.) wrzask | : (rzecz.) wycie
-yellow : yellow : (czas.) żółknąć | : (przym.) tchórzliwy | : (przym.) zawistny | : (przym.) zazdrosny | : (przym.) żółty
-yellow-bellied : yellow-bellied : (przym.) tchórzliwy
-yellow-hammer : yellow-hammer : (rzecz.) trznadel
-yellowhammer : yellowhammer : (rzecz.) trznadel
-yellowish : yellowish : (przym.) żółtawy
-yellowness : yellowness : (rzecz.) żółcizna
-yellowtail : yellowtail : (czas.) żółcić
-yelp : yelp : (czas.) skamleć | : (czas.) skomleć | : (czas.) skowyczeć
-yeoman : yeoman : (rzecz.) wojak | : (rzecz.) żołnierz
-yep : yep : (przysł.) tak
-yes-man : yes-man : (rzecz.) potakiwacz
-yesterday : yesterday : (przysł.) wczoraj | : (rzecz.) przeszłość
-yesteryear : yesteryear : (przym.) przeszłoroczny
-yet : yet : (przysł.) dotąd | : (przysł.) dotychczas | : (przysł.) już | : (przysł.) nawet
-yew : yew : (rzecz.) cis
-yield : yield : (czas.) dostarczać | : (czas.) plonować | : (czas.) przynieść | : (czas.) przynosić | : (czas.) przytaczać | : (czas.) ulegać | : (czas.) ustępować | : (czas.) wydawać | : (czas.) wytwarzać
-yip : yip : (czas.) ujadać
-yob : yob : (rzecz.) kozak | : (rzecz.) prymityw
-yobbo : yobbo : (rzecz.) prymityw
-yodel : yodel : (czas.) jodlować | : (czas.) jodłować
-yoga : yoga : (rzecz.) joga | : (rzecz.) jogizm
-yoghourt : yoghourt : (rzecz.) jogurt
-yoghurt : yoghurt : (rzecz.) jogurt
-yogi : yogi : (rzecz.) joga
-yogurt : yogurt : (rzecz.) jogurt
-yoke : yoke : (czas.) ujarzmiać | : (czas.) ujarzmić
-yoke-fellow : yoke-fellow : (rzecz.) towarzysz | : (rzecz.) współtowarzysz
-yokefellow : yokefellow : (rzecz.) towarzysz | : (rzecz.) współtowarzysz
-yokel : yokel : (rzecz.) gbur | : (rzecz.) kmieć | : (rzecz.) kmiot | : (rzecz.) kmiotek | : (rzecz.) wieśniak
-yolk : yolk : (rzecz.) żółtko
-yonder : yonder : (przysł.) tam
-young : young : (przym.) młody | : (rzecz.) młodnik | : (rzecz.) młodzieniec | : (rzecz.) młodzież
-youngling : youngling : (rzecz.) dziecko | : (rzecz.) młodzieniec | : (rzecz.) młodzik
-youngster : youngster : (rzecz.) chłopak | : (rzecz.) dziecko | : (rzecz.) malec | : (rzecz.) młodzieniec | : (rzecz.) wyrostek
-younker : younker : (rzecz.) junkier | : (rzecz.) młodzik
-your : your : (przym.) pański
-youth : youth : (rzecz.) chłopak | : (rzecz.) maleńkość | : (rzecz.) młodość | : (rzecz.) młodzieniec | : (rzecz.) młodzież | : (rzecz.) młokos | : (rzecz.) nastolatek | : (rzecz.) odzienie
-youthful : youthful : (przym.) młody | : (przym.) młodzieńczy
-youthfully : youthfully : (przysł.) młodo | : (przysł.) młodzieńczo
-youthfulness : youthfulness : (rzecz.) młodość | : (rzecz.) młodzieńczość
-yowl : yowl : (czas.) wrzeszczeć | : (czas.) wyć | : (rzecz.) wrzask | : (rzecz.) wycie
-ytterbium : ytterbium : (rzecz.) iterb
-yttrium : yttrium : (rzecz.) itr
-yucca : yucca : (rzecz.) juka
-yucky : yucky : (przym.) obrzydliwy | : (przym.) ohydny
-yuk : yuk : (rzecz.) baran | : (rzecz.) ciołek | : (rzecz.) cymbał | : (rzecz.) debil | : (rzecz.) głupek | : (rzecz.) głupol | : (rzecz.) idiota | : (rzecz.) półgłówek | : (rzecz.) tuman
-yum : yum : (rzecz.) pycha
-yummy : yummy : (przym.) pyszny
+[yiddish]Yiddish : (rzecz.) jidysz
+[yacht]yacht : (czas.) pływać; (rzecz.) jacht
+[yacht-club]yacht-club : (rzecz.) jachtklub
+[yachtsman]yachtsman : (rzecz.) żeglarz
+[yahoo]yahoo : (rzecz.) bestia
+[yam]yam : (rzecz.) szarpnięcie
+[yank]yank : (czas.) szarpać; (czas.) szarpnąć; (czas.) wyrywać; (czas.) wyszarpywać; (rzecz.) jankes; (rzecz.) szarpnięcie
+[yap]yap : (czas.) jazgotać; (czas.) szczekać; (czas.) trajkotać; (czas.) ujadać; (rzecz.) ujadanie
+[yard]yard : (rzecz.) dwór; (rzecz.) dziedziniec; (rzecz.) jard; (rzecz.) ogródek; (rzecz.) podwórko; (rzecz.) podwórze; (rzecz.) rejon; (rzecz.) skład; (rzecz.) stocznia
+[yardage]yardage : (rzecz.) metraż
+[yardman]yardman : (rzecz.) parobek
+[yardstick]yardstick : (rzecz.) jard; (rzecz.) kryterium; (rzecz.) miara
+[yare]yare : (przym.) gotowy; (przym.) sprawny
+[yarn]yarn : (rzecz.) historyjka; (rzecz.) opowiadanie; (rzecz.) przędza; (rzecz.) włóczka
+[yarrow]yarrow : (rzecz.) krwawnik
+[yashmak]yashmak : (rzecz.) jaszmak; (rzecz.) kwef
+[yataghan]yataghan : (rzecz.) jatagan
+[yaw]yaw : (czas.) zboczyć; (rzecz.) odchylenie; (rzecz.) zbaczanie
+[yawl]yawl : (rzecz.) jolka; (rzecz.) wycie
+[yawn]yawn : (czas.) gapić; (czas.) ziewać; (czas.) zionąć; (rzecz.) nudziarstwo; (rzecz.) paszcza; (rzecz.) ziewanie; (rzecz.) ziewnięcie
+[yawp]yawp : (czas.) wrzeszczeć
+[yeah]yeah : (przysł.) tak
+[yean]yean : (czas.) okocić; (czas.) urodzić
+[year]year : (rzecz.) rocznik; (rzecz.) rok
+[year-book]year-book : (rzecz.) rocznik
+[year-round]year-round : (przym.) całoroczny
+[yearbook]yearbook : (rzecz.) rocznik
+[yearling]yearling : (rzecz.) roczniak
+[yearlong]yearlong : (przym.) całoroczny; (przym.) roczny
+[yearly]yearly : (przym.) całoroczny; (przym.) coroczny; (przym.) doroczny; (przym.) roczny
+[yearn]yearn : (czas.) solidaryzować; (czas.) tęsknić; (czas.) współczuć; (czas.) zatęsknić
+[years]years : (rzecz.) letni; (rzecz.) rok
+[yeast]yeast : (rzecz.) drożdże
+[yeasty]yeasty : (przym.) pienisty
+[yell]yell : (czas.) jazgotać; (czas.) krzyczeć; (czas.) wrzeszczeć; (czas.) wyć; (czas.) wykrzykiwać; (rzecz.) krzyk; (rzecz.) ryk; (rzecz.) wrzask; (rzecz.) wycie
+[yellow]yellow : (czas.) żółknąć; (przym.) tchórzliwy; (przym.) zawistny; (przym.) zazdrosny; (przym.) żółty
+[yellow-bellied]yellow-bellied : (przym.) tchórzliwy
+[yellow-hammer]yellow-hammer : (rzecz.) trznadel
+[yellowhammer]yellowhammer : (rzecz.) trznadel
+[yellowish]yellowish : (przym.) żółtawy
+[yellowness]yellowness : (rzecz.) żółcizna
+[yellowtail]yellowtail : (czas.) żółcić
+[yelp]yelp : (czas.) skamleć; (czas.) skomleć; (czas.) skowyczeć
+[yeoman]yeoman : (rzecz.) wojak; (rzecz.) żołnierz
+[yep]yep : (przysł.) tak
+[yes-man]yes-man : (rzecz.) potakiwacz
+[yesterday]yesterday : (przysł.) wczoraj; (rzecz.) przeszłość
+[yesteryear]yesteryear : (przym.) przeszłoroczny
+[yet]yet : (przysł.) dotąd; (przysł.) dotychczas; (przysł.) już; (przysł.) nawet
+[yew]yew : (rzecz.) cis
+[yield]yield : (czas.) dostarczać; (czas.) plonować; (czas.) przynieść; (czas.) przynosić; (czas.) przytaczać; (czas.) ulegać; (czas.) ustępować; (czas.) wydawać; (czas.) wytwarzać
+[yip]yip : (czas.) ujadać
+[yob]yob : (rzecz.) kozak; (rzecz.) prymityw
+[yobbo]yobbo : (rzecz.) prymityw
+[yodel]yodel : (czas.) jodlować; (czas.) jodłować
+[yoga]yoga : (rzecz.) joga; (rzecz.) jogizm
+[yoghourt]yoghourt : (rzecz.) jogurt
+[yoghurt]yoghurt : (rzecz.) jogurt
+[yogi]yogi : (rzecz.) joga
+[yogurt]yogurt : (rzecz.) jogurt
+[yoke]yoke : (czas.) ujarzmiać; (czas.) ujarzmić
+[yoke-fellow]yoke-fellow : (rzecz.) towarzysz; (rzecz.) współtowarzysz
+[yokefellow]yokefellow : (rzecz.) towarzysz; (rzecz.) współtowarzysz
+[yokel]yokel : (rzecz.) gbur; (rzecz.) kmieć; (rzecz.) kmiot; (rzecz.) kmiotek; (rzecz.) wieśniak
+[yolk]yolk : (rzecz.) żółtko
+[yonder]yonder : (przysł.) tam
+[young]young : (przym.) młody; (rzecz.) młodnik; (rzecz.) młodzieniec; (rzecz.) młodzież
+[youngling]youngling : (rzecz.) dziecko; (rzecz.) młodzieniec; (rzecz.) młodzik
+[youngster]youngster : (rzecz.) chłopak; (rzecz.) dziecko; (rzecz.) malec; (rzecz.) młodzieniec; (rzecz.) wyrostek
+[younker]younker : (rzecz.) junkier; (rzecz.) młodzik
+[your]your : (przym.) pański
+[youth]youth : (rzecz.) chłopak; (rzecz.) maleńkość; (rzecz.) młodość; (rzecz.) młodzieniec; (rzecz.) młodzież; (rzecz.) młokos; (rzecz.) nastolatek; (rzecz.) odzienie
+[youthful]youthful : (przym.) młody; (przym.) młodzieńczy
+[youthfully]youthfully : (przysł.) młodo; (przysł.) młodzieńczo
+[youthfulness]youthfulness : (rzecz.) młodość; (rzecz.) młodzieńczość
+[yowl]yowl : (czas.) wrzeszczeć; (czas.) wyć; (rzecz.) wrzask; (rzecz.) wycie
+[ytterbium]ytterbium : (rzecz.) iterb
+[yttrium]yttrium : (rzecz.) itr
+[yucca]yucca : (rzecz.) juka
+[yucky]yucky : (przym.) obrzydliwy; (przym.) ohydny
+[yuk]yuk : (rzecz.) baran; (rzecz.) ciołek; (rzecz.) cymbał; (rzecz.) debil; (rzecz.) głupek; (rzecz.) głupol; (rzecz.) idiota; (rzecz.) półgłówek; (rzecz.) tuman
+[yum]yum : (rzecz.) pycha
+[yummy]yummy : (przym.) pyszny
