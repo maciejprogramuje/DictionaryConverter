@@ -1,7 +1,6 @@
-zygote : zygote : (rzecz.) zygota
-Zionism : Zionism : (rzecz.) syjonizm
-Zionist : Zionist : (rzecz.) syjonista
-Zionistic : Zionistic : (przym.) syjonistyczny
+zionism : Zionism : (rzecz.) syjonizm
+zionist : Zionist : (rzecz.) syjonista
+zionistic : Zionistic : (przym.) syjonistyczny
 z-buffer : z-buffer : (rzecz.) bufor
 zany : zany : (rzecz.) błazen | : (rzecz.) głupek | : (rzecz.) półgłówek | : (rzecz.) pomocnik
 zap : zap : (czas.) drażnić | : (czas.) przeglądać | : (czas.) przełączyć | : (czas.) wycierać | : (czas.) zabić | : (czas.) zabijać

@@ -1,13 +1,12 @@
-détente : détente : (rzecz.) odprężenie
-Daniel : Daniel : (rzecz.) Daniel
-Darwinian : Darwinian : (rzecz.) darwinista
-Darwinism : Darwinism : (rzecz.) darwinizm
-Dave : Dave : (rzecz.) Dawid
-David : David : (rzecz.) Dawid
-December : December : (rzecz.) grudzień
-Diana : Diana : (rzecz.) Diana
-Dominic : Dominic : (rzecz.) Dominik
-Dorothy : Dorothy : (rzecz.) Dorota
+daniel : Daniel : (rzecz.) Daniel
+darwinian : Darwinian : (rzecz.) darwinista
+darwinism : Darwinism : (rzecz.) darwinizm
+dave : Dave : (rzecz.) Dawid
+david : David : (rzecz.) Dawid
+december : December : (rzecz.) grudzień
+diana : Diana : (rzecz.) Diana
+dominic : Dominic : (rzecz.) Dominik
+dorothy : Dorothy : (rzecz.) Dorota
 d : d : (rzecz.) głębokość | : (rzecz.) rozwój
 dab : dab : (czas.) dotykać | : (czas.) klepać | : (czas.) łożyć | : (czas.) nałożyć | : (czas.) nanieść | : (czas.) nieść | : (czas.) pobijać | : (czas.) przetrzeć | : (czas.) przykładać | : (czas.) przyłożyć | : (czas.) ścierać | : (czas.) zdejmować | : (rzecz.) dotknięcie | : (rzecz.) dziobnięcie | : (rzecz.) muśnięcie | : (rzecz.) odrobina | : (rzecz.) płastuga | : (rzecz.) szczypta | : (rzecz.) zimnica
 dabber : dabber : (rzecz.) tampon

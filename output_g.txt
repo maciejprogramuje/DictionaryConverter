@@ -1,11 +1,10 @@
-gyrostat : gyrostat : (rzecz.) girostat
-Gabriel : Gabriel : (rzecz.) Gabriel
-Gabrielle : Gabrielle : (rzecz.) Gabriela
-George : George : (rzecz.) Jerzy
-Greek : Greek : (rzecz.) greka
-Greeks : Greeks : (rzecz.) grek
-Greenpeace : Greenpeace : (rzecz.) Greenpeace
-Gregory : Gregory : (rzecz.) Grzegorz
+gabriel : Gabriel : (rzecz.) Gabriel
+gabrielle : Gabrielle : (rzecz.) Gabriela
+george : George : (rzecz.) Jerzy
+greek : Greek : (rzecz.) greka
+greeks : Greeks : (rzecz.) grek
+greenpeace : Greenpeace : (rzecz.) Greenpeace
+gregory : Gregory : (rzecz.) Grzegorz
 g-load : g-load : (rzecz.) przeciążenie
 gab : gab : (czas.) gadać | : (czas.) paplać | : (czas.) pleść | : (rzecz.) gadanie
 gabardine : gabardine : (rzecz.) gabardyna

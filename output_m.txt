@@ -1,30 +1,29 @@
-mythology : mythology : (rzecz.) mitologia
-Maggie : Maggie : (rzecz.) Małgosia
-Malaysia : Malaysia : (rzecz.) Malezja
-Malta : Malta : (rzecz.) Malta
-Margaret : Margaret : (rzecz.) Małgorzata
-Mariah : Mariah : (rzecz.) Maria
-Mark : Mark : (rzecz.) Marek
-Martha : Martha : (rzecz.) Marta
-Martin : Martin : (rzecz.) Marcin
-Martina : Martina : (rzecz.) Martyna
-Marxism : Marxism : (rzecz.) marksizm
-Marxist : Marxist : (przym.) marksistowski | : (rzecz.) marksista
-Mary : Mary : (rzecz.) Maria
-Matthew : Matthew : (rzecz.) Mateusz
-Max : Max : (rzecz.) Maks
-Meg : Meg : (rzecz.) Gosia
-Melanie : Melanie : (rzecz.) Melania
-Menshevik : Menshevik : (rzecz.) mienszewik
-Mesozoic : Mesozoic : (przym.) mezozoiczny
-Methodist : Methodist : (rzecz.) metodysta
-Michael : Michael : (rzecz.) Michał
-Mike : Mike : (rzecz.) Michał
-Miocene : Miocene : (rzecz.) miocen
-Mohammedanism : Mohammedanism : (rzecz.) mahometanizm
-Monday : Monday : (rzecz.) poniedziałek
-Mr : Mr : (rzecz.) pan
-Muslim : Muslim : (przym.) muzułmański | : (rzecz.) muzułmanin
+maggie : Maggie : (rzecz.) Małgosia
+malaysia : Malaysia : (rzecz.) Malezja
+malta : Malta : (rzecz.) Malta
+margaret : Margaret : (rzecz.) Małgorzata
+mariah : Mariah : (rzecz.) Maria
+mark : Mark : (rzecz.) Marek
+martha : Martha : (rzecz.) Marta
+martin : Martin : (rzecz.) Marcin
+martina : Martina : (rzecz.) Martyna
+marxism : Marxism : (rzecz.) marksizm
+marxist : Marxist : (przym.) marksistowski | : (rzecz.) marksista
+mary : Mary : (rzecz.) Maria
+matthew : Matthew : (rzecz.) Mateusz
+max : Max : (rzecz.) Maks
+meg : Meg : (rzecz.) Gosia
+melanie : Melanie : (rzecz.) Melania
+menshevik : Menshevik : (rzecz.) mienszewik
+mesozoic : Mesozoic : (przym.) mezozoiczny
+methodist : Methodist : (rzecz.) metodysta
+michael : Michael : (rzecz.) Michał
+mike : Mike : (rzecz.) Michał
+miocene : Miocene : (rzecz.) miocen
+mohammedanism : Mohammedanism : (rzecz.) mahometanizm
+monday : Monday : (rzecz.) poniedziałek
+mr : Mr : (rzecz.) pan
+muslim : Muslim : (przym.) muzułmański | : (rzecz.) muzułmanin
 ma : ma : (rzecz.) magister | : (rzecz.) mamusia
 macabre : macabre : (przym.) makabryczny
 macadam : macadam : (rzecz.) makadam

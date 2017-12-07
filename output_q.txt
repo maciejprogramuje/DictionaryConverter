@@ -1,5 +1,4 @@
-quotient : quotient : (rzecz.) iloraz
-Quaker : Quaker : (rzecz.) kwakier
+quaker : Quaker : (rzecz.) kwakier
 qua : qua : (przyim.) jako
 quack : quack : (czas.) kwakać | : (rzecz.) konował | : (rzecz.) kwakanie | : (rzecz.) szalbierz | : (rzecz.) szarlatan | : (rzecz.) znachor
 quackery : quackery : (rzecz.) szarlataneria | : (rzecz.) szarlataństwo | : (rzecz.) znachorstwo

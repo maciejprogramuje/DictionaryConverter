@@ -1,15 +1,14 @@
-tyrosine : tyrosine : (rzecz.) tyrozyna
-T-bar : T-bar : (rzecz.) teownik
-Taoism : Taoism : (rzecz.) taoizm
-Taurus : Taurus : (rzecz.) byk
-Theodore : Theodore : (rzecz.) Teodor
-Theresa : Theresa : (rzecz.) Teresa
-Thursday : Thursday : (rzecz.) czwartek
-Tom : Tom : (rzecz.) Tomasz
-Tommy : Tommy : (rzecz.) Tomek
-Tony : Tony : (rzecz.) Antoni
-Tory : Tory : (rzecz.) torys
-Tuesday : Tuesday : (rzecz.) wtorek
+t-bar : T-bar : (rzecz.) teownik
+taoism : Taoism : (rzecz.) taoizm
+taurus : Taurus : (rzecz.) byk
+theodore : Theodore : (rzecz.) Teodor
+theresa : Theresa : (rzecz.) Teresa
+thursday : Thursday : (rzecz.) czwartek
+tom : Tom : (rzecz.) Tomasz
+tommy : Tommy : (rzecz.) Tomek
+tony : Tony : (rzecz.) Antoni
+tory : Tory : (rzecz.) torys
+tuesday : Tuesday : (rzecz.) wtorek
 t-shirt : t-shirt : (rzecz.) koszulka
 t-square : t-square : (rzecz.) przykładnica | : (rzecz.) węgielnica
 tab : tab : (rzecz.) etykieta | : (rzecz.) naszywka | : (rzecz.) patka | : (rzecz.) pętelka | : (rzecz.) tabulacja | : (rzecz.) tabulator | : (rzecz.) ucho | : (rzecz.) wieszak | : (rzecz.) zakładka

@@ -1,11 +1,10 @@
-ozonosphere : ozonosphere : (rzecz.) ozonosfera
-October : October : (rzecz.) październik
-Olivia : Olivia : (rzecz.) Oliwia
-Olympiad : Olympiad : (rzecz.) olimpiada
-Olympian : Olympian : (przym.) olimpijski | : (rzecz.) olimpijczyk
-Olympic : Olympic : (przym.) olimpijski
-Olympics : Olympics : (rzecz.) olimpiada
-Oscar : Oscar : (rzecz.) Oskar
+october : October : (rzecz.) październik
+olivia : Olivia : (rzecz.) Oliwia
+olympiad : Olympiad : (rzecz.) olimpiada
+olympian : Olympian : (przym.) olimpijski | : (rzecz.) olimpijczyk
+olympic : Olympic : (przym.) olimpijski
+olympics : Olympics : (rzecz.) olimpiada
+oscar : Oscar : (rzecz.) Oskar
 oaf : oaf : (rzecz.) frajer | : (rzecz.) głupek | : (rzecz.) idiota | : (rzecz.) niezdara | : (rzecz.) podrzutek | : (rzecz.) potworek | : (rzecz.) prostak
 oafish : oafish : (przym.) głupkowaty | : (przym.) niezdarny
 oak : oak : (rzecz.) dąb

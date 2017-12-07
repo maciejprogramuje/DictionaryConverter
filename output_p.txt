@@ -1,16 +1,15 @@
-pâté : pâté : (rzecz.) pasztet
-Paramecium : Paramecium : (rzecz.) pantofelek
-Passover : Passover : (rzecz.) pascha
-Patty : Patty : (rzecz.) Patrycja
-Pauline : Pauline : (rzecz.) Paulina
-Peter : Peter : (rzecz.) Piotr
-Philip : Philip : (rzecz.) Filip
-Platonism : Platonism : (rzecz.) platonizm
-Plexiglas : Plexiglas : (rzecz.) pleksiglas
-Presbyterian : Presbyterian : (rzecz.) prezbiterianin
-Promethean : Promethean : (przym.) prometejski
-Protestantism : Protestantism : (rzecz.) protestantyzm
-Punchinello : Punchinello : (rzecz.) poliszynel
+paramecium : Paramecium : (rzecz.) pantofelek
+passover : Passover : (rzecz.) pascha
+patty : Patty : (rzecz.) Patrycja
+pauline : Pauline : (rzecz.) Paulina
+peter : Peter : (rzecz.) Piotr
+philip : Philip : (rzecz.) Filip
+platonism : Platonism : (rzecz.) platonizm
+plexiglas : Plexiglas : (rzecz.) pleksiglas
+presbyterian : Presbyterian : (rzecz.) prezbiterianin
+promethean : Promethean : (przym.) prometejski
+protestantism : Protestantism : (rzecz.) protestantyzm
+punchinello : Punchinello : (rzecz.) poliszynel
 pa : pa : (rzecz.) ojczulek | : (rzecz.) ręka | : (rzecz.) tata | : (rzecz.) tatuś
 pabulum : pabulum : (rzecz.) strawa
 pace : pace : (czas.) kroczyć | : (czas.) stąpać | : (rzecz.) chód | : (rzecz.) krok | : (rzecz.) miara | : (rzecz.) podium | : (rzecz.) tempo

@@ -1,10 +1,9 @@
-vulva : vulva : (rzecz.) srom
-V-block : V-block : (rzecz.) pryzma
-Veronica : Veronica : (rzecz.) Weronika
-Vicki : Vicki : (rzecz.) Wiktoria
-Victor : Victor : (rzecz.) Wiktor
-Virgo : Virgo : (rzecz.) panna
-Visitant : Visitant : (rzecz.) wizytka
+v-block : V-block : (rzecz.) pryzma
+veronica : Veronica : (rzecz.) Weronika
+vicki : Vicki : (rzecz.) Wiktoria
+victor : Victor : (rzecz.) Wiktor
+virgo : Virgo : (rzecz.) panna
+visitant : Visitant : (rzecz.) wizytka
 vac : vac : (rzecz.) milibar
 vacancy : vacancy : (rzecz.) bezmyślność | : (rzecz.) etat | : (rzecz.) jonowa | : (rzecz.) próżnia | : (rzecz.) wakans | : (rzecz.) wakat
 vacant : vacant : (przym.) bezmyślny | : (przym.) nieobecny | : (przym.) nieprzytomny | : (przym.) próżny | : (przym.) pusty | : (przym.) tępy | : (przym.) wakujący | : (przym.) wolny

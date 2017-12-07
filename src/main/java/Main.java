@@ -9,11 +9,9 @@ public class Main {
         System.out.println("Start!");
 
         String lettersSmall = "abcdefghijklmnopqrstuvwxyz";
-        // ansi
         String inputFileName = "input.txt";
-        String outputFileName;
         TreeMap<String, String> treeMap = new TreeMap<>();
-        BufferedReader reader = new BufferedReader(new FileReader(inputFileName));
+        BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(inputFileName), "UTF8"));
         PrintWriter writer = null;
 
         for (int i = 0; i < lettersSmall.length(); i++) {
@@ -21,8 +19,8 @@ public class Main {
             file.createNewFile();
         }
 
-        String line = reader.readLine();
-        while (line != null) {
+        String line;
+        while ((line = reader.readLine()) != null) {
             String tKey = line.substring(0, line.indexOf(" [ "));
             String tValue = line.substring(line.indexOf(" [ "))
                     .replace(" ", "")
@@ -39,12 +37,12 @@ public class Main {
             } else {
                 treeMap.replace(tKey, treeMap.get(tKey) + " | : " + tValue);
             }
-            line = reader.readLine();
         }
 
         Set<Map.Entry<String, String>> entrySet = treeMap.entrySet();
         for (Map.Entry<String, String> entry : entrySet) {
-            String rawKey = entry.getKey().replace("ą", "a")
+            String rawKey = entry.getKey()
+                    .replace("ą", "a")
                     .replace("ć", "c")
                     .replace("ę", "e")
                     .replace("ł", "l")
@@ -54,7 +52,7 @@ public class Main {
                     .replace("ź", "z")
                     .replace("ż", "z");
 
-            String tLine = rawKey + " : " + entry.getKey() + " : " + entry.getValue();
+            String tLine = rawKey.toLowerCase() + " : " + entry.getKey() + " : " + entry.getValue();
             System.out.println(tLine);
 
             writer = new PrintWriter(new BufferedWriter(new FileWriter("output_" + rawKey.charAt(0) + ".txt", true)));

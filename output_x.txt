@@ -1,5 +1,4 @@
-xylophone : xylophone : (rzecz.) ksylofon
-X-bit : X-bit : (rzecz.) krzyżak
+x-bit : X-bit : (rzecz.) krzyżak
 x-ray : x-ray : (rzecz.) prześwietlanie | : (rzecz.) prześwietlenie | : (rzecz.) radiolog | : (rzecz.) rentgen
 xanthippe : xanthippe : (rzecz.) złośnica
 xanthophylls : xanthophylls : (rzecz.) ksantofil

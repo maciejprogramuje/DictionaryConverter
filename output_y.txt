@@ -1,5 +1,4 @@
-yummy : yummy : (przym.) pyszny
-Yiddish : Yiddish : (rzecz.) jidysz
+yiddish : Yiddish : (rzecz.) jidysz
 yacht : yacht : (czas.) pływać | : (rzecz.) jacht
 yacht-club : yacht-club : (rzecz.) jachtklub
 yachtsman : yachtsman : (rzecz.) żeglarz

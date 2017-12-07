@@ -1,29 +1,28 @@
-séance : séance : (rzecz.) posiedzenie | : (rzecz.) seans
-S-shaped : S-shaped : (przym.) esowaty
-Sabbath : Sabbath : (przym.) sabatowy | : (przym.) szabasowy | : (rzecz.) sabat
-Sagittarius : Sagittarius : (rzecz.) strzelec
-Sam : Sam : (rzecz.) Samuel
-Sanskrit : Sanskrit : (przym.) sanskrycki | : (rzecz.) sanskryt
-Sarah : Sarah : (rzecz.) Sara
-Saturday : Saturday : (rzecz.) sobota
-Scandinavian : Scandinavian : (przym.) skandynawski
-Scorpio : Scorpio : (rzecz.) skorpion
-Sebastian : Sebastian : (rzecz.) Sebastian
-Semitic : Semitic : (przym.) semicki
-September : September : (rzecz.) wrzesień
-Shackle : Shackle : (rzecz.) klamra | : (rzecz.) strzemię
-Siemens : Siemens : (rzecz.) simens
-Simon : Simon : (rzecz.) Szymon
-Solomon's : Solomon's : (przym.) salomonowy
-Sonogram : Sonogram : (rzecz.) jonogram
-Sophie : Sophie : (rzecz.) Zofia
-Stanley : Stanley : (rzecz.) Stanisław
-Stephanie : Stephanie : (rzecz.) Stefania
-Stephen : Stephen : (rzecz.) Stefan
-Steve : Steve : (rzecz.) Stefan
-Sue : Sue : (rzecz.) Zuzanna
-Sunday : Sunday : (rzecz.) niedziela
-Sylvia : Sylvia : (rzecz.) Sylwia
+s-shaped : S-shaped : (przym.) esowaty
+sabbath : Sabbath : (przym.) sabatowy | : (przym.) szabasowy | : (rzecz.) sabat
+sagittarius : Sagittarius : (rzecz.) strzelec
+sam : Sam : (rzecz.) Samuel
+sanskrit : Sanskrit : (przym.) sanskrycki | : (rzecz.) sanskryt
+sarah : Sarah : (rzecz.) Sara
+saturday : Saturday : (rzecz.) sobota
+scandinavian : Scandinavian : (przym.) skandynawski
+scorpio : Scorpio : (rzecz.) skorpion
+sebastian : Sebastian : (rzecz.) Sebastian
+semitic : Semitic : (przym.) semicki
+september : September : (rzecz.) wrzesień
+shackle : Shackle : (rzecz.) klamra | : (rzecz.) strzemię
+siemens : Siemens : (rzecz.) simens
+simon : Simon : (rzecz.) Szymon
+solomon's : Solomon's : (przym.) salomonowy
+sonogram : Sonogram : (rzecz.) jonogram
+sophie : Sophie : (rzecz.) Zofia
+stanley : Stanley : (rzecz.) Stanisław
+stephanie : Stephanie : (rzecz.) Stefania
+stephen : Stephen : (rzecz.) Stefan
+steve : Steve : (rzecz.) Stefan
+sue : Sue : (rzecz.) Zuzanna
+sunday : Sunday : (rzecz.) niedziela
+sylvia : Sylvia : (rzecz.) Sylwia
 sabbatical : sabbatical : (przym.) sabatowy | : (przym.) szabasowy
 sable : sable : (rzecz.) czerń | : (rzecz.) soból
 sabot : sabot : (rzecz.) but | : (rzecz.) chodak | : (rzecz.) drewniak

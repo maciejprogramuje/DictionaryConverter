@@ -1,11 +1,10 @@
-fylfot : fylfot : (rzecz.) swastyka
-F-centres : F-centres : (rzecz.) centra
-February : February : (rzecz.) luty
-Felix : Felix : (rzecz.) Feliks
-Flemish : Flemish : (przym.) flamandzki
-Fm-fermium : Fm-fermium : (rzecz.) ferm
-Franciscan : Franciscan : (rzecz.) franciszkanin
-Friday : Friday : (rzecz.) piątek
+f-centres : F-centres : (rzecz.) centra
+february : February : (rzecz.) luty
+felix : Felix : (rzecz.) Feliks
+flemish : Flemish : (przym.) flamandzki
+fm-fermium : Fm-fermium : (rzecz.) ferm
+franciscan : Franciscan : (rzecz.) franciszkanin
+friday : Friday : (rzecz.) piątek
 fable : fable : (rzecz.) bajka
 fabled : fabled : (przym.) sławny
 fabric : fabric : (rzecz.) budowla | : (rzecz.) fabryka | : (rzecz.) gmach | : (rzecz.) infrastruktura | : (rzecz.) materiał | : (rzecz.) sukno | : (rzecz.) tkanina

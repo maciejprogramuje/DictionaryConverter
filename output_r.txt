@@ -1,10 +1,9 @@
-rye : rye : (rzecz.) cygan | : (rzecz.) żyto
-Reich : Reich : (rzecz.) rzesza
-Richard : Richard : (rzecz.) Ryszard
-Rob : Rob : (rzecz.) Robert
-Robbie : Robbie : (rzecz.) Robert
-Romanist : Romanist : (rzecz.) romanista
-Rudolph : Rudolph : (rzecz.) Rudolf
+reich : Reich : (rzecz.) rzesza
+richard : Richard : (rzecz.) Ryszard
+rob : Rob : (rzecz.) Robert
+robbie : Robbie : (rzecz.) Robert
+romanist : Romanist : (rzecz.) romanista
+rudolph : Rudolph : (rzecz.) Rudolf
 r cabman : r cabman : (rzecz.) dorożkarz | : (rzecz.) fiakier
 rabbet : rabbet : (rzecz.) felc | : (rzecz.) wpust | : (rzecz.) wręg
 rabbi : rabbi : (rzecz.) rabin

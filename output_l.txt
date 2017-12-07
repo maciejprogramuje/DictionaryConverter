@@ -1,15 +1,14 @@
-lysine : lysine : (rzecz.) lizyna
-Laura : Laura : (rzecz.) Laura
-Leninism : Leninism : (rzecz.) leninizm
-Leo : Leo : (rzecz.) Leon | : (rzecz.) lew
-Libra : Libra : (rzecz.) waga
-Lilliputian : Lilliputian : (rzecz.) liliput
-Lilly : Lilly : (rzecz.) Liliana
-Lucas : Lucas : (rzecz.) Łukasz
-Lucy : Lucy : (rzecz.) Łucja
-Luke : Luke : (rzecz.) Łukasz
-Lutheranism : Lutheranism : (rzecz.) luteranizm
-Lysol : Lysol : (rzecz.) lizol
+laura : Laura : (rzecz.) Laura
+leninism : Leninism : (rzecz.) leninizm
+leo : Leo : (rzecz.) Leon | : (rzecz.) lew
+libra : Libra : (rzecz.) waga
+lilliputian : Lilliputian : (rzecz.) liliput
+lilly : Lilly : (rzecz.) Liliana
+lucas : Lucas : (rzecz.) Łukasz
+lucy : Lucy : (rzecz.) Łucja
+luke : Luke : (rzecz.) Łukasz
+lutheranism : Lutheranism : (rzecz.) luteranizm
+lysol : Lysol : (rzecz.) lizol
 lab : lab : (rzecz.) laboratorium | : (rzecz.) pracownia
 labefaction : labefaction : (rzecz.) osłabienie | : (rzecz.) upadek
 label : label : (czas.) etykietować | : (czas.) metkować | : (czas.) oznakowywać | : (rzecz.) etykieta | : (rzecz.) etykietka | : (rzecz.) kartka | : (rzecz.) kwalifikator | : (rzecz.) metka | : (rzecz.) naklejka | : (rzecz.) nalepka | : (rzecz.) oznakowanie | : (rzecz.) wytwórnia

@@ -1,14 +1,13 @@
-byword : byword : (rzecz.) porzekadło | : (rzecz.) powiedzenie | : (rzecz.) powiedzonko | : (rzecz.) przysłowie
-Barbra : Barbra : (rzecz.) Barbara
-Bartholomew : Bartholomew : (rzecz.) Bartłomiej
-Basilisk's : Basilisk's : (przym.) bazyliszkowy
-Becky : Becky : (rzecz.) Rebeka
-Benedictine : Benedictine : (rzecz.) benedyktyn
-Benjamin : Benjamin : (rzecz.) Beniamin
-Bob : Bob : (rzecz.) Robert
-Bolshevik : Bolshevik : (rzecz.) bolszewik
-Boolean : Boolean : (przym.) logiczny
-Byronism : Byronism : (rzecz.) bajronizm
+barbra : Barbra : (rzecz.) Barbara
+bartholomew : Bartholomew : (rzecz.) Bartłomiej
+basilisk's : Basilisk's : (przym.) bazyliszkowy
+becky : Becky : (rzecz.) Rebeka
+benedictine : Benedictine : (rzecz.) benedyktyn
+benjamin : Benjamin : (rzecz.) Beniamin
+bob : Bob : (rzecz.) Robert
+bolshevik : Bolshevik : (rzecz.) bolszewik
+boolean : Boolean : (przym.) logiczny
+byronism : Byronism : (rzecz.) bajronizm
 baa : baa : (czas.) beczeć
 babble : babble : (czas.) bełkotać | : (czas.) gadać | : (czas.) gaworzyć | : (czas.) paplać | : (czas.) rozgadać | : (rzecz.) gadanie | : (rzecz.) mamrotanie | : (rzecz.) paplanina
 babbler : babbler : (rzecz.) gaduła | : (rzecz.) papla

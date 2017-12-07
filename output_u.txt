@@ -1,6 +1,5 @@
-uvular : uvular : (przym.) języczkowy | : (przym.) uwularny
-U-link : U-link : (rzecz.) złącznik
-Ursula : Ursula : (rzecz.) Urszula
+u-link : U-link : (rzecz.) złącznik
+ursula : Ursula : (rzecz.) Urszula
 u-tube : u-tube : (rzecz.) U-rurka
 ubiquitous : ubiquitous : (przym.) wszechobecny | : (przym.) wszędobylski
 ubiquity : ubiquity : (rzecz.) wszechobecność | : (rzecz.) wszędobylstwo

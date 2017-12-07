@@ -1,7 +1,6 @@
-wulfenite : wulfenite : (rzecz.) wulfenit
-WC : WC : (rzecz.) sanitariat | : (rzecz.) szalet
-Wednesday : Wednesday : (rzecz.) środa
-William : William : (rzecz.) Wilhelm
+wc : WC : (rzecz.) sanitariat | : (rzecz.) szalet
+wednesday : Wednesday : (rzecz.) środa
+william : William : (rzecz.) Wilhelm
 wacky : wacky : (przym.) głupi | : (przym.) nieobliczalny
 wad : wad : (czas.) nabijać | : (czas.) wypychać | : (czas.) zatykać | : (rzecz.) pakuły | : (rzecz.) pęk | : (rzecz.) podkład | : (rzecz.) przybitka | : (rzecz.) wata | : (rzecz.) watolina
 wade : wade : (czas.) brnąć | : (czas.) brodzić | : (czas.) pluskać | : (czas.) przebrnąć | : (czas.) przedzierać

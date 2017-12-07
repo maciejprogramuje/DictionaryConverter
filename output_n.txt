@@ -1,10 +1,9 @@
-nymphomaniac : nymphomaniac : (rzecz.) nimfomanka
-Nathalie : Nathalie : (rzecz.) Natalia
-Nazi : Nazi : (przym.) nazistowski | : (rzecz.) hitlerowiec | : (rzecz.) nazista
-Nazism : Nazism : (rzecz.) nazizm
-Nicholas : Nicholas : (rzecz.) Mikołaj
-Norman : Norman : (przym.) normandzki
-November : November : (rzecz.) listopad
+nathalie : Nathalie : (rzecz.) Natalia
+nazi : Nazi : (przym.) nazistowski | : (rzecz.) hitlerowiec | : (rzecz.) nazista
+nazism : Nazism : (rzecz.) nazizm
+nicholas : Nicholas : (rzecz.) Mikołaj
+norman : Norman : (przym.) normandzki
+november : November : (rzecz.) listopad
 n-port : n-port : (rzecz.) wielowrotnik
 nab : nab : (czas.) łapać | : (czas.) przydybać | : (czas.) zaaresztować | : (czas.) zwędzić
 nabob : nabob : (rzecz.) bogacz | : (rzecz.) nabab

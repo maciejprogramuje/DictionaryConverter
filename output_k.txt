@@ -1,6 +1,5 @@
-kymograph : kymograph : (rzecz.) kimograf
-Kate : Kate : (rzecz.) Katarzyna
-Kathy : Kathy : (rzecz.) Kasia
+kate : Kate : (rzecz.) Katarzyna
+kathy : Kathy : (rzecz.) Kasia
 kainite : kainite : (rzecz.) kainit
 kale : kale : (rzecz.) forsa | : (rzecz.) jarmuż | : (rzecz.) kapusta
 kaleidoscope : kaleidoscope : (rzecz.) kalejdoskop

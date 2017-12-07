@@ -1,28 +1,27 @@
-czarism : czarism : (rzecz.) carat
-CV : CV : (rzecz.) życiorys
-Calvary : Calvary : (rzecz.) kalwaria
-Calvinism : Calvinism : (rzecz.) kalwinizm
-Calvinist : Calvinist : (rzecz.) kalwinista
-Camille : Camille : (rzecz.) Kamila
-Canada : Canada : (rzecz.) Kanada
-Capricorn : Capricorn : (rzecz.) koziorożec
-Carolyn : Carolyn : (rzecz.) Karolina
-Catholicism : Catholicism : (rzecz.) katolicyzm
-Cerberus : Cerberus : (rzecz.) cerber
-Charles : Charles : (rzecz.) Karol
-Charlie : Charlie : (rzecz.) Karol
-Chris : Chris : (rzecz.) Krzysiu
-Christian : Christian : (rzecz.) chrześcijanin
-Christianity : Christianity : (rzecz.) chrystianizm | : (rzecz.) chrześcijaństwo
-Christianization : Christianization : (rzecz.) chrystianizacja
-Christine : Christine : (rzecz.) Krystyna
-Christopher : Christopher : (rzecz.) Krzysztof
-Cistercian : Cistercian : (rzecz.) cysters
-Confucianism : Confucianism : (rzecz.) konfucjanizm
-Corinthian : Corinthian : (przym.) koryncki
-Cossack : Cossack : (rzecz.) kozak
-Cossacks : Cossacks : (rzecz.) kozactwo
-Croesus : Croesus : (rzecz.) krezus
+cv : CV : (rzecz.) życiorys
+calvary : Calvary : (rzecz.) kalwaria
+calvinism : Calvinism : (rzecz.) kalwinizm
+calvinist : Calvinist : (rzecz.) kalwinista
+camille : Camille : (rzecz.) Kamila
+canada : Canada : (rzecz.) Kanada
+capricorn : Capricorn : (rzecz.) koziorożec
+carolyn : Carolyn : (rzecz.) Karolina
+catholicism : Catholicism : (rzecz.) katolicyzm
+cerberus : Cerberus : (rzecz.) cerber
+charles : Charles : (rzecz.) Karol
+charlie : Charlie : (rzecz.) Karol
+chris : Chris : (rzecz.) Krzysiu
+christian : Christian : (rzecz.) chrześcijanin
+christianity : Christianity : (rzecz.) chrystianizm | : (rzecz.) chrześcijaństwo
+christianization : Christianization : (rzecz.) chrystianizacja
+christine : Christine : (rzecz.) Krystyna
+christopher : Christopher : (rzecz.) Krzysztof
+cistercian : Cistercian : (rzecz.) cysters
+confucianism : Confucianism : (rzecz.) konfucjanizm
+corinthian : Corinthian : (przym.) koryncki
+cossack : Cossack : (rzecz.) kozak
+cossacks : Cossacks : (rzecz.) kozactwo
+croesus : Croesus : (rzecz.) krezus
 cab : cab : (rzecz.) bryczka | : (rzecz.) dorożka | : (rzecz.) fiakier | : (rzecz.) kabina | : (rzecz.) powóz | : (rzecz.) taksówka
 cabal : cabal : (rzecz.) intryga | : (rzecz.) kabała | : (rzecz.) koteria
 cabala : cabala : (rzecz.) kabała

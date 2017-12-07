@@ -1,15 +1,14 @@
-eyewash : eyewash : (rzecz.) oszustwo
-Easter : Easter : (rzecz.) Wielkanoc
-Eden : Eden : (rzecz.) raj
-Edith : Edith : (rzecz.) Edyta
-Edward : Edward : (rzecz.) Edward
-Eleanor : Eleanor : (rzecz.) Eleonora
-Elisabeth : Elisabeth : (rzecz.) Elżbieta
-Emily : Emily : (rzecz.) Emilia
-Eric : Eric : (rzecz.) Eryk
-Eucharist : Eucharist : (rzecz.) eucharystia
-Eurodollar : Eurodollar : (rzecz.) eurodolar
-Eva : Eva : (rzecz.) Ewa
+easter : Easter : (rzecz.) Wielkanoc
+eden : Eden : (rzecz.) raj
+edith : Edith : (rzecz.) Edyta
+edward : Edward : (rzecz.) Edward
+eleanor : Eleanor : (rzecz.) Eleonora
+elisabeth : Elisabeth : (rzecz.) Elżbieta
+emily : Emily : (rzecz.) Emilia
+eric : Eric : (rzecz.) Eryk
+eucharist : Eucharist : (rzecz.) eucharystia
+eurodollar : Eurodollar : (rzecz.) eurodolar
+eva : Eva : (rzecz.) Ewa
 each : each : (przym.) każdorazowy | : (przym.) poszczególny
 eager : eager : (przym.) chętny | : (przym.) gorliwy | : (przym.) skwapliwy | : (przym.) żądny | : (przym.) zapalony
 eagerly : eagerly : (przysł.) chętnie | : (przysł.) gorliwie | : (przysł.) niecierpliwie | : (przysł.) ochoczo | : (przysł.) skwapliwie
