@@ -34,11 +34,11 @@ public class Main {
                     .replace("=", " ")
                     .replace("[", "(")
                     .replace("]", ")")
-                    .replace("(przymiotnik)", "(przym.)")
-                    .replace("(rzeczownik)", "(rzecz.)")
-                    .replace("(czasownik)", "(czas.)")
-                    .replace("(przyimek)", "(przyim.)")
-                    .replace("(przysłówek)", "(przysł.)");
+                    .replace("(przymiotnik)", "(" + LANGUAGE_CODE + ", p.)")
+                    .replace("(rzeczownik)", "(" + LANGUAGE_CODE + ", rz.)")
+                    .replace("(czasownik)", "(" + LANGUAGE_CODE + ", cz.)")
+                    .replace("(przyimek)", "(" + LANGUAGE_CODE + ", p-im.)")
+                    .replace("(przysłówek)", "(" + LANGUAGE_CODE + ", p-sł.)");
             if (!treeMap.containsKey(tKey)) {
                 treeMap.put(tKey, tValue);
             } else {
