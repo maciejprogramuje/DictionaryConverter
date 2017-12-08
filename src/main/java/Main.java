@@ -1,26 +1,34 @@
 import java.io.*;
-import java.util.ArrayList;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 
 public class Main {
+    // --------------------------------------------------------------------------
+    public static final String LANGUAGE_CODE = "PL";
+    // --------------------------------------------------------------------------
+    // --------------------------------------------------------------------------
+    // --------------------------------------------------------------------------
+    // --------------------------------------------------------------------------
+
     public static void main(String[] args) throws IOException {
         System.out.println("Start!");
 
         String lettersSmall = "abcdefghijklmnopqrstuvwxyz";
-        String inputFileName = "input.txt";
+        String inputFileName = "input_" + LANGUAGE_CODE + ".txt";
         TreeMap<String, String> treeMap = new TreeMap<>();
         BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(inputFileName), "UTF8"));
         PrintWriter writer = null;
 
         for (int i = 0; i < lettersSmall.length(); i++) {
-            File file = new File("output_" + lettersSmall.charAt(i) + ".txt");
+            File file = new File("output_" + LANGUAGE_CODE + "_" + lettersSmall.charAt(i) + ".txt");
             file.createNewFile();
         }
 
         String line;
         while ((line = reader.readLine()) != null) {
+            System.out.println(line);
+
             String tKey = line.substring(0, line.indexOf(" [ "));
             String tValue = line.substring(line.indexOf(" [ "))
                     .replace(" ", "")
@@ -55,7 +63,7 @@ public class Main {
             String tLine = "[" + rawKey.toLowerCase() + "]" + entry.getKey() + " : " + entry.getValue();
             System.out.println(tLine);
 
-            writer = new PrintWriter(new BufferedWriter(new FileWriter("output_" + rawKey.charAt(0) + ".txt", true)));
+            writer = new PrintWriter(new BufferedWriter(new FileWriter("output_" + LANGUAGE_CODE + "_" + rawKey.charAt(0) + ".txt", true)));
             writer.println(tLine);
             writer.close();
         }
