@@ -34,11 +34,11 @@ public class Main {
                     .replace("=", " ")
                     .replace("[", "(")
                     .replace("]", ")")
-                    .replace("(przymiotnik)", "(" + LANGUAGE_CODE + ", p.)")
-                    .replace("(rzeczownik)", "(" + LANGUAGE_CODE + ", rz.)")
-                    .replace("(czasownik)", "(" + LANGUAGE_CODE + ", cz.)")
-                    .replace("(przyimek)", "(" + LANGUAGE_CODE + ", p-im.)")
-                    .replace("(przysłówek)", "(" + LANGUAGE_CODE + ", p-sł.)");
+                    .replace("(przymiotnik)", "(p.)")
+                    .replace("(rzeczownik)", "(rz.)")
+                    .replace("(czasownik)", "(cz.)")
+                    .replace("(przyimek)", "(p-im.)")
+                    .replace("(przysłówek)", "(p-sł.)");
             if (!treeMap.containsKey(tKey)) {
                 treeMap.put(tKey, tValue);
             } else {
@@ -49,6 +49,7 @@ public class Main {
         Set<Map.Entry<String, String>> entrySet = treeMap.entrySet();
         for (Map.Entry<String, String> entry : entrySet) {
             String rawKey = entry.getKey()
+                    .toLowerCase()
                     .replace("ą", "a")
                     .replace("ć", "c")
                     .replace("ę", "e")
@@ -59,7 +60,7 @@ public class Main {
                     .replace("ź", "z")
                     .replace("ż", "z");
 
-            String tLine = "[" + rawKey.toLowerCase() + "]" + entry.getKey() + " : " + entry.getValue();
+            String tLine = "[" + rawKey + "]" + entry.getKey() + " (" + LANGUAGE_CODE + ") : " + entry.getValue();
             System.out.println(tLine);
 
             writer = new PrintWriter(new BufferedWriter(new FileWriter("output_" + LANGUAGE_CODE + "_" + rawKey.charAt(0) + ".txt", true)));
