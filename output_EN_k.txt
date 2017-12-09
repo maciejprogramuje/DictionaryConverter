@@ -1,0 +1,245 @@
+[kate]Kate (EN) : (rz.) Katarzyna
+[kathy]Kathy (EN) : (rz.) Kasia
+[kainite]kainite (EN) : (rz.) kainit
+[kale]kale (EN) : (rz.) forsa; (rz.) jarmuż; (rz.) kapusta
+[kaleidoscope]kaleidoscope (EN) : (rz.) kalejdoskop
+[kaleidoscopic]kaleidoscopic (EN) : (p.) kalejdoskopowy
+[kamikaze]kamikaze (EN) : (rz.) kamikadze
+[kangaroo]kangaroo (EN) : (rz.) kangur
+[kaolin]kaolin (EN) : (rz.) kaolin
+[kapok]kapok (EN) : (rz.) kapok
+[karate]karate (EN) : (rz.) karate
+[karma]karma (EN) : (rz.) los
+[kart]kart (EN) : (rz.) gokart
+[kayak]kayak (EN) : (rz.) kajak
+[kayaker]kayaker (EN) : (rz.) kajakarz
+[kayaking]kayaking (EN) : (rz.) kajakarstwo
+[kayo]kayo (EN) : (rz.) nokaut
+[kebab]kebab (EN) : (rz.) kebab; (rz.) szaszłyk
+[keel]keel (EN) : (cz.) wywracać; (rz.) kil; (rz.) stępka
+[keelboat]keelboat (EN) : (rz.) kuter
+[keelhaul]keelhaul (EN) : (cz.) besztać
+[keelson]keelson (EN) : (rz.) kilson; (rz.) nadstępka
+[keen]keen (EN) : (p.) chętny; (p.) dotkliwy; (p.) gorliwy; (p.) gwałtowny; (p.) namiętny; (p.) ostry; (p.) pożądający; (p.) przenikliwy; (p.) skory; (p.) żarliwy
+[keener]keener (EN) : (p.) bystry; (p.) ostry
+[keenest]keenest (EN) : (p.) ostry
+[keenly]keenly (EN) : (p-sł.) ostro; (p-sł.) żywo
+[keep]keep (EN) : (cz.) dotrzymać; (cz.) dotrzymywać; (cz.) hodować; (cz.) powstrzymywać; (cz.) pozostać; (cz.) pozostawać; (cz.) przechowywać; (cz.) przestrzegać; (cz.) przetrzymywać; (cz.) trzymać; (cz.) utrzymywać; (cz.) zachować; (cz.) zachowywać; (cz.) zatrzymać; (cz.) zatrzymywać; (rz.) przytrzymywacz; (rz.) utrzymanie
+[keeper]keeper (EN) : (rz.) dozorca; (rz.) hodowca; (rz.) jarzmo; (rz.) kurator; (rz.) kustosz; (rz.) opiekun; (rz.) przytrzymywacz; (rz.) strażnik; (rz.) stróż
+[keepers]keepers (EN) : (rz.) stróżowanie
+[keeping]keeping (EN) : (rz.) harmonia; (rz.) opieka; (rz.) pozostawanie; (rz.) przechowanie; (rz.) przetrzymywanie; (rz.) trzymanie; (rz.) utrzymanie; (rz.) wytrzymywanie; (rz.) zachowywanie; (rz.) zgoda
+[keepsake]keepsake (EN) : (rz.) pamiątka; (rz.) prezent; (rz.) upominek
+[kef]kef (EN) : (rz.) haszysz; (rz.) narkotyk
+[keg]keg (EN) : (rz.) beczułka
+[kelpie]kelpie (EN) : (rz.) topielec
+[ken]ken (EN) : (rz.) zakres; (rz.) zasięg
+[kennel]kennel (EN) : (rz.) psiarnia; (rz.) rynsztok; (rz.) ściek
+[kepi]kepi (EN) : (rz.) kepi
+[keratin]keratin (EN) : (rz.) keratyna
+[kerb]kerb (EN) : (rz.) krawężnik
+[kerbstone]kerbstone (EN) : (rz.) krawężnik
+[kerchief]kerchief (EN) : (rz.) chustka
+[kermis]kermis (EN) : (rz.) jarmark; (rz.) kiermasz
+[kern]kern (EN) : (rz.) chłop
+[kernel]kernel (EN) : (rz.) jądro; (rz.) sedno; (rz.) ziarno
+[kerosene]kerosene (EN) : (rz.) kerosen; (rz.) nafta
+[kestrel]kestrel (EN) : (rz.) pustułka
+[ketch]ketch (EN) : (rz.) kecz
+[ketchup]ketchup (EN) : (rz.) keczup
+[ketene]ketene (EN) : (rz.) keten
+[kettle]kettle (EN) : (rz.) czajnik; (rz.) imbryk; (rz.) kocioł; (rz.) kociołek
+[kettle-drum]kettle-drum (EN) : (rz.) kocioł; (rz.) membranofon; (rz.) taraban
+[kettledrum]kettledrum (EN) : (rz.) kocioł; (rz.) membranofon; (rz.) taraban
+[key]key (EN) : (rz.) klawisz; (rz.) klin; (rz.) klucz; (rz.) kluczowanie; (rz.) kluczyk; (rz.) legenda; (rz.) tonacja; (rz.) wpust; (rz.) wysepka
+[keyboard]keyboard (EN) : (rz.) klawiatura; (rz.) syntezator
+[keyboarding]keyboarding (EN) : (rz.) tastrowanie
+[keyed]keyed (EN) : (p.) dyskretny; (p.) powściągliwy
+[keyhole]keyhole (EN) : (rz.) dziurka
+[keynote]keynote (EN) : (rz.) myśl; (rz.) nuta; (rz.) tonika; (rz.) zwornik
+[keypad]keypad (EN) : (rz.) klawiatura
+[keystone]keystone (EN) : (rz.) myśl; (rz.) podstawa; (rz.) zwornik
+[keystroke]keystroke (EN) : (rz.) cios
+[keyway]keyway (EN) : (rz.) wrąb
+[keyword]keyword (EN) : (rz.) modyfikator
+[khaki]khaki (EN) : (rz.) khaki
+[khan]khan (EN) : (rz.) chan
+[khanate]khanate (EN) : (rz.) chanat
+[khedive]khedive (EN) : (rz.) kedyw
+[kibble]kibble (EN) : (cz.) śrutować; (rz.) bierka; (rz.) kubeł
+[kibbutz]kibbutz (EN) : (rz.) kibuc
+[kick]kick (EN) : (cz.) fikać; (cz.) kopać; (cz.) kopnąć; (cz.) machać; (cz.) opierać; (cz.) pokopać; (cz.) skopać; (cz.) wierzgać; (rz.) kopniak; (rz.) kopnięcie; (rz.) narzekanie; (rz.) odrzut; (rz.) skok
+[kick-out]kick-out (EN) : (rz.) wypychacz
+[kickback]kickback (EN) : (rz.) łapówka; (rz.) reakcja
+[kicker]kicker (EN) : (rz.) docinek; (rz.) przytyk; (rz.) złośliwość
+[kicking]kicking (EN) : (rz.) kopanie
+[kickshaw]kickshaw (EN) : (rz.) bagatela; (rz.) cacko; (rz.) mecyja
+[kid]kid (EN) : (cz.) nabierać; (cz.) żartować; (rz.) bachor; (rz.) berbeć; (rz.) dzieciak; (rz.) dziecię; (rz.) dziecko; (rz.) koźlątko; (rz.) koźle; (rz.) malec; (rz.) maluch; (rz.) młokos; (rz.) śmierdziuch; (rz.) smyk
+[kidnap]kidnap (EN) : (cz.) porwać; (cz.) porywać; (cz.) uprowadzać; (cz.) uprowadzić
+[kidnapper]kidnapper (EN) : (rz.) porywacz
+[kidnapping]kidnapping (EN) : (rz.) kidnaperstwo; (rz.) kidnaping; (rz.) porwanie; (rz.) porywanie
+[kidney]kidney (EN) : (rz.) cynaderka; (rz.) cynadra; (rz.) nerka; (rz.) rodzaj
+[kidney-bean]kidney-bean (EN) : (rz.) fasola
+[kier]kier (EN) : (rz.) kadź; (rz.) warnik
+[kieserite]kieserite (EN) : (rz.) kizeryt
+[kill]kill (EN) : (cz.) anulować; (cz.) boleć; (cz.) gasić; (cz.) niszczyć; (cz.) ubić; (cz.) unicestwić; (cz.) uśmiercać; (cz.) uśmierzać; (cz.) zabić; (cz.) zabijać; (cz.) zamordować; (cz.) zgładzić
+[killed]killed (EN) : (cz.) uśmiercić
+[killer]killer (EN) : (rz.) morderca; (rz.) zabójca; (rz.) zatruwacz
+[killing]killing (EN) : (p.) zabójczy; (rz.) odstrzał; (rz.) wyłącz; (rz.) wyrzynanie; (rz.) wytracenie; (rz.) zabójstwo
+[killingly]killingly (EN) : (p-sł.) zabójczo
+[kiln]kiln (EN) : (cz.) suszyć; (cz.) wypalać; (rz.) piec; (rz.) piekarnik; (rz.) prażenia
+[kilo]kilo (EN) : (rz.) kilo
+[kilobit]kilobit (EN) : (rz.) kilobit
+[kilobyte]kilobyte (EN) : (rz.) kilobajt
+[kilocalorie]kilocalorie (EN) : (rz.) kilokaloria
+[kilocycle]kilocycle (EN) : (rz.) kilocykl; (rz.) kiloherc
+[kilogram]kilogram (EN) : (rz.) kilogram
+[kilogram-force]kilogram-force (EN) : (rz.) kilogram-siła; (rz.) kilopond
+[kilogram-metre]kilogram-metre (EN) : (rz.) kilogramometr
+[kilogramme]kilogramme (EN) : (rz.) kilogram
+[kilogramme-meter]kilogramme-meter (EN) : (rz.) kilogramometr
+[kilohertz]kilohertz (EN) : (rz.) kiloherc
+[kilometre]kilometre (EN) : (rz.) kilometr
+[kiloton]kiloton (EN) : (rz.) kilotona
+[kilovolt]kilovolt (EN) : (rz.) kilowolt
+[kilowatt]kilowatt (EN) : (rz.) kilowat
+[kilowatt-hour]kilowatt-hour (EN) : (rz.) kilowatogodzina
+[kilt]kilt (EN) : (rz.) kilt
+[kimono]kimono (EN) : (rz.) kimono
+[kin]kin (EN) : (rz.) ród; (rz.) rodzina
+[kinaesthesia]kinaesthesia (EN) : (rz.) kinestezja
+[kind]kind (EN) : (p.) dobry; (p.) łagodny; (p.) łaskawy; (p.) miły; (p.) poczciwy; (p.) przychylny; (p.) rzeczowy; (p.) uprzejmy; (p.) życzliwy; (rz.) gatunek; (rz.) rodzaj; (rz.) typ
+[kind-hearted]kind-hearted (EN) : (p.) dobrotliwy; (p.) dobry; (p.) poczciwy; (p.) życzliwy
+[kind-heartedness]kind-heartedness (EN) : (rz.) dobroduszność; (rz.) poczciwość; (rz.) życzliwość
+[kindergarten]kindergarten (EN) : (rz.) dzieciniec; (rz.) przedszkole; (rz.) żłobek
+[kindergartener]kindergartener (EN) : (rz.) przedszkolak
+[kindle]kindle (EN) : (cz.) iskrzyć; (cz.) podniecać; (cz.) podniecić; (cz.) rozniecać; (cz.) rozniecić; (cz.) rozpalać; (cz.) rozpalić; (cz.) rozżarzyć; (cz.) zaiskrzyć; (cz.) zapalać; (cz.) zapalić; (cz.) zapłonąć
+[kindliness]kindliness (EN) : (rz.) dobroć; (rz.) uprzejmość; (rz.) życzliwość
+[kindling]kindling (EN) : (rz.) iskrzenie; (rz.) podpałka; (rz.) rozniecenie; (rz.) rozpałka
+[kindly]kindly (EN) : (p.) dobroczynny; (p.) dobrotliwy; (p.) dobry; (p.) łaskawy; (p.) uprzejmy; (p.) życzliwy; (p-sł.) łaskawie; (p-sł.) serdecznie; (p-sł.) uprzejmie; (p-sł.) życzliwie
+[kindness]kindness (EN) : (rz.) dobroć; (rz.) łaskawość; (rz.) przysługa; (rz.) uczynność; (rz.) uprzejmość; (rz.) życzliwość
+[kindred]kindred (EN) : (p.) bratni; (p.) pobratymczy; (p.) podobny; (p.) pokrewny; (rz.) krewni; (rz.) podobieństwo; (rz.) pokrewieństwo; (rz.) rodzina
+[kinematics]kinematics (EN) : (rz.) kinematyka
+[kinescope]kinescope (EN) : (rz.) kineskop
+[kinetic]kinetic (EN) : (p.) kinetyczny; (p.) ruchomy
+[kinetics]kinetics (EN) : (rz.) kinetyka
+[king]king (EN) : (rz.) damka; (rz.) król
+[king-size]king-size (EN) : (p.) olbrzymi; (p.) ponadwymiarowy; (p.) wielki
+[kingcup]kingcup (EN) : (rz.) kaczeniec; (rz.) kaczyniec
+[kingdom]kingdom (EN) : (rz.) królestwo; (rz.) królowanie
+[kingfisher]kingfisher (EN) : (rz.) zimorodek
+[kinglet]kinglet (EN) : (rz.) królewiątko; (rz.) królik; (rz.) mysikrólik
+[kingly]kingly (EN) : (p.) królewski
+[kingpin]kingpin (EN) : (rz.) król; (rz.) sworzeń
+[kingship]kingship (EN) : (rz.) królestwo; (rz.) królewskość; (rz.) panowanie
+[kink]kink (EN) : (cz.) supłać; (rz.) bzik; (rz.) kaprys; (rz.) perwersja; (rz.) przewodu; (rz.) skręt; (rz.) supeł; (rz.) zapętlenie
+[kinky]kinky (EN) : (p.) dziwaczny; (p.) perwersyjny
+[kinsfolk]kinsfolk (EN) : (rz.) krewni; (rz.) pokrewieństwo; (rz.) powinowactwo; (rz.) rodzeństwo
+[kinship]kinship (EN) : (rz.) pokrewieństwo; (rz.) powinowactwo; (rz.) sympatia
+[kinswoman]kinswoman (EN) : (rz.) krewna; (rz.) powinowata
+[kiosk]kiosk (EN) : (rz.) budka; (rz.) kiosk; (rz.) stoisko
+[kip]kip (EN) : (rz.) buda
+[kipper]kipper (EN) : (rz.) łosoś; (rz.) pikling; (rz.) suszenie
+[kirsch]kirsch (EN) : (rz.) wiśniówka
+[kirtle]kirtle (EN) : (rz.) kurtka; (rz.) spódnica
+[kiss]kiss (EN) : (cz.) całować; (cz.) cmokać; (cz.) pocałować; (cz.) ucałować; (rz.) buzia; (rz.) buziak; (rz.) całus; (rz.) pocałunek; (rz.) ucałowanie
+[kisser]kisser (EN) : (rz.) buźka; (rz.) gęba; (rz.) japa; (rz.) morda; (rz.) usta
+[kit]kit (EN) : (rz.) apartament; (rz.) beczka; (rz.) cebrzyk; (rz.) ekwipunek; (rz.) komplet; (rz.) kubeł; (rz.) plecak; (rz.) rynsztunek; (rz.) skrzynka; (rz.) worek; (rz.) wyposażenie; (rz.) zestaw
+[kitbag]kitbag (EN) : (rz.) plecak
+[kitchen]kitchen (EN) : (rz.) kuchnia
+[kitchenette]kitchenette (EN) : (rz.) kuchenka
+[kite]kite (EN) : (rz.) gryps; (rz.) jastrząb; (rz.) kania; (rz.) latawiec
+[kitsch]kitsch (EN) : (rz.) kicz; (rz.) kita
+[kitschy]kitschy (EN) : (p.) kiczowaty
+[kitten]kitten (EN) : (cz.) kocić; (rz.) kociak; (rz.) kociątko; (rz.) kotek; (rz.) zalotnica
+[kittenish]kittenish (EN) : (p.) zalotny
+[kitty]kitty (EN) : (rz.) kiciuś; (rz.) kociak
+[kiwi]kiwi (EN) : (rz.) kiwi
+[klaxon]klaxon (EN) : (rz.) klakson; (rz.) syrena
+[kleptomaniac]kleptomaniac (EN) : (rz.) kleptoman
+[klutz]klutz (EN) : (rz.) dupek
+[klystron]klystron (EN) : (rz.) klistron
+[km]km (EN) : (rz.) kilometr
+[knack]knack (EN) : (rz.) chwyt; (rz.) dryg; (rz.) spryt; (rz.) sztuczka; (rz.) zręczność
+[knag]knag (EN) : (rz.) kołek; (rz.) sęk
+[knaggy]knaggy (EN) : (p.) sękaty
+[knap]knap (EN) : (cz.) rozbijać
+[knapsack]knapsack (EN) : (rz.) chlebak; (rz.) plecak; (rz.) tornister
+[knar]knar (EN) : (rz.) narośl
+[knave]knave (EN) : (rz.) kanalia; (rz.) łajdak; (rz.) łotr; (rz.) nikczemnik; (rz.) sługa; (rz.) szelma; (rz.) walet
+[knavery]knavery (EN) : (rz.) łajdactwo; (rz.) łotrostwo; (rz.) nikczemność; (rz.) służba
+[knavish]knavish (EN) : (p.) łajdacki; (p.) nikczemny; (p.) służalczy
+[knead]knead (EN) : (cz.) gnieść; (cz.) masować; (cz.) miesić; (cz.) rozczochrać; (cz.) rozmiesić; (cz.) ugniatać; (cz.) urabiać; (cz.) zgnieść
+[kneader]kneader (EN) : (rz.) ugniatacz; (rz.) ugniatarka; (rz.) zagniatarka
+[kneading]kneading (EN) : (rz.) masowanie; (rz.) mieszanie; (rz.) mieszenie; (rz.) ugniatanie; (rz.) zagniatanie
+[kneading-trough]kneading-trough (EN) : (rz.) dzieża; (rz.) oberża
+[knee]knee (EN) : (rz.) kolanko; (rz.) kolano
+[knee-boots]knee-boots (EN) : (rz.) oficerki
+[knee-cap]knee-cap (EN) : (rz.) rzepka
+[knee-pad]knee-pad (EN) : (rz.) nakolannik
+[kneecap]kneecap (EN) : (rz.) rzepka
+[kneed]kneed (EN) : (p.) kolankowaty
+[kneel]kneel (EN) : (cz.) klęczeć; (cz.) klękać; (cz.) uklęknąć
+[kneeler]kneeler (EN) : (rz.) klęczenie
+[knell]knell (EN) : (rz.) dzwonienie; (rz.) podzwonne
+[knew]knew (EN) : (cz.) poznawać
+[knick]knick (EN) : (rz.) bibelot; (rz.) cacko
+[knick-knack]knick-knack (EN) : (rz.) cacko; (rz.) drobiazg; (rz.) ozdóbka
+[knickerbockers]knickerbockers (EN) : (rz.) pumpy; (rz.) reformy
+[knickers]knickers (EN) : (rz.) majtki; (rz.) reformy
+[knickknack]knickknack (EN) : (rz.) cacko; (rz.) drobiazg; (rz.) ozdóbka
+[knife]knife (EN) : (rz.) kozik; (rz.) nóż; (rz.) nożyk; (rz.) składak
+[knife-edge]knife-edge (EN) : (rz.) ostrze
+[knifing]knifing (EN) : (rz.) nóż; (rz.) zasztyletowanie
+[knight]knight (EN) : (rz.) kawaler; (rz.) koń; (rz.) konik; (rz.) rycerz; (rz.) skoczek; (rz.) szlachcic; (rz.) szlachectwo
+[knight's]knight's (EN) : (p.) rycerski
+[knighthood]knighthood (EN) : (rz.) rycerstwo
+[knighting]knighting (EN) : (rz.) nobilitowanie
+[knightly]knightly (EN) : (p.) rycerski; (p-sł.) rycersko
+[knit]knit (EN) : (cz.) dziać; (cz.) dziergać; (cz.) spajać; (cz.) wrabiać; (cz.) zrastać; (rz.) kwasoryt
+[knitted]knitted (EN) : (p.) trykotowy
+[knitter]knitter (EN) : (rz.) dziewiarka; (rz.) dziewiarz; (rz.) trykotaż
+[knitting]knitting (EN) : (rz.) dzianie; (rz.) dziewiarstwo; (rz.) robótka; (rz.) trykotarstwo
+[knitwear]knitwear (EN) : (rz.) dzianina
+[knob]knob (EN) : (rz.) gałka; (rz.) guz; (rz.) guzik; (rz.) kawałek; (rz.) klamka; (rz.) pokrętło; (rz.) przycisk; (rz.) sęk; (rz.) wypukłość
+[knobbly]knobbly (EN) : (p.) guzowaty
+[knock]knock (EN) : (cz.) dobijać; (cz.) przysadzać; (cz.) przysądzać; (cz.) pukać; (cz.) stukać; (cz.) trącać; (cz.) uderzać; (cz.) uderzyć; (cz.) wytracać; (cz.) wytrącać; (cz.) zapukać; (cz.) zderzać; (rz.) dotknięcie; (rz.) kołatka; (rz.) przebłysk; (rz.) pukanie; (rz.) stłuczka; (rz.) stukanie; (rz.) stuknięcie; (rz.) stukot; (rz.) uderzenie
+[knock-kneed]knock-kneed (EN) : (p.) koślawy; (p.) krzywonogi
+[knock-out]knock-out (EN) : (rz.) nokaut; (rz.) wypychacz; (rz.) wyrzutnik
+[knockabout]knockabout (EN) : (p.) błazeński; (p.) hałaśliwy
+[knocker]knocker (EN) : (rz.) grzechotka; (rz.) kołatka
+[knocker-off]knocker-off (EN) : (rz.) odbijak
+[knockout]knockout (EN) : (p.) bezkonkurencyjny; (p.) nokautowy; (rz.) eliminacja; (rz.) likwidacja; (rz.) nokaut
+[knoll]knoll (EN) : (rz.) kopiec; (rz.) pagórek
+[knot]knot (EN) : (cz.) skomplikować; (cz.) supłać; (cz.) wiązać; (rz.) powikłanie; (rz.) sęk; (rz.) supeł; (rz.) trudność; (rz.) węzeł
+[knot-grass]knot-grass (EN) : (rz.) rdest
+[knotless]knotless (EN) : (p.) bezsęczny
+[knotty]knotty (EN) : (p.) kłopotliwy; (p.) sękaty; (p.) trudny; (p.) węzłowaty; (p.) zawiły
+[knout]knout (EN) : (rz.) knucie; (rz.) knut
+[know]know (EN) : (cz.) dowiedzieć; (cz.) poznać; (cz.) poznawać; (cz.) umieć; (cz.) wiedzieć; (cz.) znać
+[know-how]know-how (EN) : (rz.) umiejętność; (rz.) wiedza; (rz.) wprawa; (rz.) znajomość
+[know-it-all]know-it-all (EN) : (rz.) mądrala
+[knowing]knowing (EN) : (p.) chytry; (p.) porozumiewawczy; (p.) rozumny; (p.) zręczny; (rz.) rozum; (rz.) wiedza
+[knowingly]knowingly (EN) : (p-sł.) chytrze; (p-sł.) naumyślnie; (p-sł.) rzeczowo; (p-sł.) świadomie; (p-sł.) umyślnie; (p-sł.) zręcznie
+[knowledge]knowledge (EN) : (rz.) poznanie; (rz.) świadomość; (rz.) wiadomość; (rz.) wiedza; (rz.) znajomość
+[known]known (EN) : (cz.) poznawać; (p.) wiadomy; (rz.) wiadoma
+[knuckle]knuckle (EN) : (cz.) szturchać; (rz.) golonka; (rz.) kłykieć; (rz.) knykieć; (rz.) kostka; (rz.) przegub; (rz.) staw
+[knuckle-duster]knuckle-duster (EN) : (rz.) kastet
+[knucklehead]knucklehead (EN) : (rz.) ćwok
+[knur]knur (EN) : (rz.) sęk
+[knurl]knurl (EN) : (rz.) gałka; (rz.) guz; (rz.) guzek; (rz.) molet; (rz.) radełko
+[knurling]knurling (EN) : (rz.) moletowanie; (rz.) radełkowanie
+[kobold]kobold (EN) : (rz.) chochlik
+[kohlrabi]kohlrabi (EN) : (rz.) kalarepa
+[kolkhoz]kolkhoz (EN) : (rz.) kołchoz
+[kook]kook (EN) : (rz.) dziwak; (rz.) ekscentryk; (rz.) oryginał
+[kopeck]kopeck (EN) : (rz.) kopiejka
+[kopek]kopek (EN) : (rz.) kopiejka
+[kopje]kopje (EN) : (rz.) pagórek; (rz.) wzgórze
+[kosher]kosher (EN) : (p.) autentyczny; (p.) koszerny
+[kowtow]kowtow (EN) : (cz.) chylić; (cz.) płaszczyć
+[kraal]kraal (EN) : (rz.) ogrodzenie; (rz.) wieś
+[krill]krill (EN) : (rz.) kryl
+[krypton]krypton (EN) : (rz.) krypton
+[kudos]kudos (EN) : (rz.) prestiż; (rz.) sława
+[kulak]kulak (EN) : (rz.) kułak
+[kymograph]kymograph (EN) : (rz.) kimograf

@@ -1,0 +1,1279 @@
+[﻿a]﻿a (PL) : (spójnik) and
+[adam]Adam (PL) : (rz.) Adam
+[agnieszka]Agnieszka (PL) : (rz.) Agnes
+[aleksander]Aleksander (PL) : (rz.) Alexander
+[aleksandra]Aleksandra (PL) : (rz.) Alexandra
+[alicja]Alicja (PL) : (rz.) Alice
+[amadeusz]Amadeusz (PL) : (rz.) Amadeus
+[amelia]Amelia (PL) : (rz.) Amelia
+[ameryka]Ameryka (PL) : (rz.) America
+[andrzej]Andrzej (PL) : (rz.) Andrew; (rz.) Andy
+[anna]Anna (PL) : (rz.) Anne
+[antoni]Antoni (PL) : (rz.) Anthony; (rz.) Tony
+[artur]Artur (PL) : (rz.) Arthur
+[australia]Australia (PL) : (rz.) Australia
+[a-buforowanie]a-buforowanie (PL) : (rz.) a-buffering
+[abakus]abakus (PL) : (rz.) abacus
+[abandon]abandon (PL) : (rz.) abandonment
+[abazur]abażur (PL) : (rz.) lampshade; (rz.) lamp-shade; (rz.) shade
+[abdykacja]abdykacja (PL) : (rz.) abdication; (rz.) demission
+[abdykowac]abdykować (PL) : (cz.) abdicate
+[abecadlo]abecadło (PL) : (rz.) alphabet
+[aberracja]aberracja (PL) : (rz.) aberration
+[abiogeneza]abiogeneza (PL) : (rz.) autogenesis
+[abiturient]abiturient (PL) : (rz.) graduate
+[ablacja]ablacja (PL) : (rz.) ablation; (rz.) washout
+[ablacyjny]ablacyjny (PL) : (p.) ablative
+[ablucja]ablucja (PL) : (rz.) ablution
+[abnegacja]abnegacja (PL) : (rz.) abnegation; (rz.) self-denial
+[abolicja]abolicja (PL) : (rz.) abolition; (rz.) invalidation
+[abolicjonista]abolicjonista (PL) : (rz.) abolitionist
+[abolicjonizm]abolicjonizm (PL) : (rz.) abolitionism
+[abominacja]abominacja (PL) : (rz.) abomination
+[abonament]abonament (PL) : (rz.) buy; (rz.) subscription
+[abonent]abonent (PL) : (rz.) subscriber
+[abonowac]abonować (PL) : (cz.) subscribe
+[aborcja]aborcja (PL) : (rz.) abortion
+[aborygeni]aborygeni (PL) : (rz.) Aborigines
+[abrakadabra]abrakadabra (PL) : (rz.) abracadabra
+[abrazja]abrazja (PL) : (rz.) abrasion; (rz.) attrition
+[abrazyjny]abrazyjny (PL) : (p.) wave-cut
+[abrewiacja]abrewiacja (PL) : (rz.) abbreviation
+[absencja]absencja (PL) : (rz.) absence; (rz.) absenteeism; (rz.) truancy
+[absolucja]absolucja (PL) : (rz.) absolution
+[absolut]absolut (PL) : (rz.) absolute
+[absolutnie]absolutnie (PL) : (p-sł.) absolutely
+[absolutnosc]absolutność (PL) : (rz.) absoluteness
+[absolutny]absolutny (PL) : (p.) absolute; (p.) bare; (p.) despotic; (p.) illimitable; (p.) out-and-out; (p.) unmitigated
+[absolutorium]absolutorium (PL) : (rz.) discharge; (rz.) graduate; (rz.) graduation
+[absolutysta]absolutysta (PL) : (rz.) absolutist
+[absolutystyczny]absolutystyczny (PL) : (p.) absolutistic
+[absolutyzacja]absolutyzacja (PL) : (rz.) absolute
+[absolutyzm]absolutyzm (PL) : (rz.) absolutism
+[absolwent]absolwent (PL) : (rz.) alumnus; (rz.) graduate
+[absorbowanie]absorbowanie (PL) : (rz.) intromission
+[absorbowac]absorbować (PL) : (cz.) absorb; (cz.) preoccupy
+[absorpcja]absorpcja (PL) : (rz.) absorbency; (rz.) absorption
+[absorpcyjny]absorpcyjny (PL) : (p.) absorptive
+[abstrahowanie]abstrahowanie (PL) : (rz.) abstraction
+[abstrahowac]abstrahować (PL) : (cz.) disregard; (cz.) pass
+[abstrakcja]abstrakcja (PL) : (rz.) abstract; (rz.) abstraction
+[abstrakcjonizm]abstrakcjonizm (PL) : (rz.) abstractionism
+[abstrakcyjnie]abstrakcyjnie (PL) : (p-sł.) abstractly
+[abstrakcyjny]abstrakcyjny (PL) : (p.) abstract
+[abstrakt]abstrakt (PL) : (rz.) abstract; (rz.) tracker
+[abstynencja]abstynencja (PL) : (rz.) abstinence; (rz.) teetotalism; (rz.) temperance
+[abstynencki]abstynencki (PL) : (p.) abstinent
+[abstynent]abstynent (PL) : (rz.) abstainer; (rz.) teetotaller
+[absurd]absurd (PL) : (rz.) absurdity
+[absurdalnie]absurdalnie (PL) : (p-sł.) absurdly; (p-sł.) ludicrously; (p-sł.) nonsensically; (p-sł.) ridiculously
+[absurdalnosc]absurdalność (PL) : (rz.) absurdity
+[absurdalny]absurdalny (PL) : (p.) absurd; (p.) laughable; (p.) ludicrous; (p.) preposterous
+[absyda]absyda (PL) : (rz.) apse
+[absynt]absynt (PL) : (rz.) absinth; (rz.) absinthe
+[aby]aby (PL) : (spójnik) for; (spójnik) that
+[acetaldehyd]acetaldehyd (PL) : (rz.) acetaldehyde
+[aceton]aceton (PL) : (rz.) acetone
+[acetylen]acetylen (PL) : (rz.) acetylene
+[acetylocholina]acetylocholina (PL) : (rz.) acetylcholine
+[acetylosalicylowy]acetylosalicylowy (PL) : (p.) acetylsalicylic
+[ach]ach (PL) : (wykrzyknik) ah; (wykrzyknik) oh
+[achromatyczny]achromatyczny (PL) : (p.) achromatic
+[acykliczny]acykliczny (PL) : (p.) acyclic
+[acz]acz (PL) : (spójnik) though
+[aczkolwiek]aczkolwiek (PL) : (spójnik) albeit; (spójnik) although
+[adamaszek]adamaszek (PL) : (rz.) damask
+[adaptacja]adaptacja (PL) : (rz.) adaptation; (rz.) adapting; (rz.) arrangement; (rz.) customization
+[adaptacyjny]adaptacyjny (PL) : (p.) adaptive
+[adaptator]adaptator (PL) : (rz.) adaptor
+[adapter]adapter (PL) : (rz.) pickup; (rz.) record-player
+[adaptowalnosc]adaptowalność (PL) : (rz.) customizability
+[adaptowac]adaptować (PL) : (cz.) adapt; (cz.) arrange; (cz.) convert
+[addytywny]addytywny (PL) : (p.) additive
+[adekwatnosc]adekwatność (PL) : (rz.) adequacy
+[adekwatny]adekwatny (PL) : (p.) adequate; (p.) pertinent
+[adenina]adenina (PL) : (rz.) adenine
+[adenozyna]adenozyna (PL) : (rz.) adenosine
+[adermina]adermina (PL) : (rz.) pyridoxine
+[adhezja]adhezja (PL) : (rz.) adherence; (rz.) adhesion
+[adhezyjnosc]adhezyjność (PL) : (rz.) tenacity
+[adiabatyczny]adiabatyczny (PL) : (p.) adiabatic
+[adiunkt]adiunkt (PL) : (rz.) adjunct; (rz.) lecturer; (rz.) tutor
+[adiustacja]adiustacja (PL) : (rz.) layout; (rz.) revision
+[adiustator]adiustator (PL) : (rz.) editor; (rz.) subeditor; (rz.) sub-editor
+[adiustowac]adiustować (PL) : (cz.) edit
+[adiutant]adiutant (PL) : (rz.) adjutant; (rz.) aide; (rz.) aide-de-camp
+[administracja]administracja (PL) : (rz.) admin; (rz.) administration; (rz.) government; (rz.) management
+[administracyjnie]administracyjnie (PL) : (p-sł.) administratively
+[administracyjny]administracyjny (PL) : (p.) administrative
+[administrator]administrator (PL) : (rz.) sysop
+[administrowanie]administrowanie (PL) : (rz.) administration
+[administrowac]administrować (PL) : (cz.) administer; (cz.) administrate; (cz.) manage
+[admiracja]admiracja (PL) : (rz.) admiration; (rz.) delight
+[admiralicja]admiralicja (PL) : (rz.) admiralty
+[admiralski]admiralski (PL) : (p.) admiral's
+[admiral]admirał (PL) : (rz.) admiral
+[admonicja]admonicja (PL) : (rz.) admonition
+[adnotacja]adnotacja (PL) : (rz.) annotation; (rz.) endorsement
+[adnotowac]adnotować (PL) : (cz.) annotate
+[adopcja]adopcja (PL) : (rz.) adoption
+[adoptowany]adoptowany (PL) : (p.) adoptive
+[adoptowac]adoptować (PL) : (cz.) adapt; (cz.) adopt
+[adoracja]adoracja (PL) : (rz.) adoration
+[adorator]adorator (PL) : (rz.) admirer; (rz.) adorer
+[adorowac]adorować (PL) : (cz.) adore
+[adrenalina]adrenalina (PL) : (rz.) adrenalin; (rz.) adrenaline; (rz.) epinephrine
+[adres]adres (PL) : (rz.) address; (rz.) direction; (rz.) locator; (rz.) superscription
+[adresarka]adresarka (PL) : (rz.) addresser; (rz.) addressograph
+[adresat]adresat (PL) : (rz.) addressee; (rz.) destination
+[adresograf]adresograf (PL) : (rz.) addresser; (rz.) addressograph
+[adresowalnosc]adresowalność (PL) : (rz.) addressability
+[adresowalny]adresowalny (PL) : (p.) addressable
+[adresowanie]adresowanie (PL) : (rz.) address; (rz.) addressing
+[adresowac]adresować (PL) : (cz.) address
+[adsorbat]adsorbat (PL) : (rz.) adsorptive
+[adsorbent]adsorbent (PL) : (rz.) adsorbent
+[adsorbowac]adsorbować (PL) : (cz.) adsorb
+[adsorpcja]adsorpcja (PL) : (rz.) adsorption
+[adular]adular (PL) : (rz.) adularia
+[adwekcja]adwekcja (PL) : (rz.) advection
+[adwent]adwent (PL) : (rz.) advent
+[adwentysta]adwentysta (PL) : (rz.) Adventist
+[adwersarz]adwersarz (PL) : (rz.) adversary; (rz.) opponent
+[adwokat]adwokat (PL) : (rz.) advocate; (rz.) attorney; (rz.) barrister; (rz.) counsel; (rz.) counsellor; (rz.) fixer; (rz.) lawyer; (rz.) pleader; (rz.) solicitor
+[aerator]aerator (PL) : (rz.) aerator
+[aerobik]aerobik (PL) : (rz.) aerobic; (rz.) aerobics
+[aerobiologia]aerobiologia (PL) : (rz.) aerobiology
+[aerobus]aerobus (PL) : (rz.) airbus
+[aeroby]aeroby (PL) : (rz.) aerobes
+[aerodrom]aerodrom (PL) : (rz.) aerodrome; (rz.) airdrome
+[aerodyna]aerodyna (PL) : (rz.) aerodyne
+[aerodynamiczny]aerodynamiczny (PL) : (p.) aerodynamic; (p.) streamlined
+[aerodynamika]aerodynamika (PL) : (rz.) aerodynamics; (rz.) aeromechanics
+[aerograf]aerograf (PL) : (rz.) aerograph; (rz.) airbrush; (rz.) air-brush
+[aeroklub]aeroklub (PL) : (rz.) aero
+[aeromechanika]aeromechanika (PL) : (rz.) aeromechanics
+[aerometr]aerometr (PL) : (rz.) aerometer; (rz.) hygrometer
+[aeronauta]aeronauta (PL) : (rz.) aeronaut
+[aeronautyczny]aeronautyczny (PL) : (p.) aeronautic; (p.) aeronautical
+[aeronautyka]aeronautyka (PL) : (rz.) aeronautics; (rz.) aerospace
+[aeroplan]aeroplan (PL) : (rz.) airplane
+[aeroport]aeroport (PL) : (rz.) airport
+[aerostatyka]aerostatyka (PL) : (rz.) aerostatics
+[aerozol]aerozol (PL) : (rz.) aerosol; (rz.) spray
+[afazja]afazja (PL) : (rz.) aphasia
+[afekt]afekt (PL) : (rz.) affection; (rz.) affliction; (rz.) emotion
+[afektacja]afektacja (PL) : (rz.) affectation; (rz.) primness
+[afektowanie]afektowanie (PL) : (p-sł.) affectedly
+[afektowany]afektowany (PL) : (p.) affected; (p.) prim
+[afektywny]afektywny (PL) : (p.) affective
+[afera]afera (PL) : (rz.) affair; (rz.) intrigue; (rz.) scam; (rz.) scandal
+[afereza]afereza (PL) : (rz.) aphaeresis
+[aferzysta]aferzysta (PL) : (rz.) racketeer; (rz.) swindler
+[afiks]afiks (PL) : (rz.) affix
+[afiliacja]afiliacja (PL) : (rz.) affiliation
+[afiliowac]afiliować (PL) : (cz.) affiliate
+[afiniczny]afiniczny (PL) : (p.) affine
+[afirmacja]afirmacja (PL) : (rz.) affirmation
+[afisz]afisz (PL) : (rz.) bill; (rz.) card; (rz.) placard; (rz.) playbill; (rz.) poster
+[afiszowac]afiszować (PL) : (cz.) flaunt
+[aforyzm]aforyzm (PL) : (rz.) aphorism
+[afrodyzjak]afrodyzjak (PL) : (rz.) aphrodisiac
+[afront]afront (PL) : (rz.) affront; (rz.) cut; (rz.) insult; (rz.) slight; (rz.) snub
+[agar]agar (PL) : (rz.) agar-agar
+[agat]agat (PL) : (rz.) agate
+[agencja]agencja (PL) : (rz.) agency
+[agens]agens (PL) : (rz.) actor
+[agent]agent (PL) : (rz.) agent; (rz.) factor; (rz.) rep
+[agentura]agentura (PL) : (rz.) agency
+[agitacja]agitacja (PL) : (rz.) agitation; (rz.) campaigning; (rz.) canvass; (rz.) canvassing
+[agitator]agitator (PL) : (rz.) agitator
+[agitowac]agitować (PL) : (cz.) agitate; (cz.) electioneer
+[aglomeracja]aglomeracja (PL) : (rz.) agglomeration
+[aglomerat]aglomerat (PL) : (rz.) agglomerate
+[aglutynacja]aglutynacja (PL) : (rz.) agglutination
+[aglutynacyjny]aglutynacyjny (PL) : (p.) agglutinative
+[aglutynina]aglutynina (PL) : (rz.) agglutinin
+[agnat]agnat (PL) : (rz.) agnate
+[agnostycyzm]agnostycyzm (PL) : (rz.) agnosticism
+[agnostyczny]agnostyczny (PL) : (p.) agnostic
+[agnostyk]agnostyk (PL) : (rz.) agnostic
+[agonia]agonia (PL) : (rz.) agony
+[agorafobia]agorafobia (PL) : (rz.) agoraphobia
+[agrafka]agrafka (PL) : (rz.) safety-pin
+[agrariusz]agrariusz (PL) : (rz.) agrarian
+[agrarny]agrarny (PL) : (p.) agrarian
+[agregacja]agregacja (PL) : (rz.) aggregation
+[agregat]agregat (PL) : (rz.) aggregate; (rz.) unit
+[agregowac]agregować (PL) : (cz.) aggregate; (cz.) aggregated
+[agresja]agresja (PL) : (rz.) aggression
+[agresor]agresor (PL) : (rz.) aggressor; (rz.) attacker; (rz.) blusterer
+[agrest]agrest (PL) : (rz.) gooseberries; (rz.) gooseberry
+[agresywnie]agresywnie (PL) : (p-sł.) aggressively
+[agresywnosc]agresywność (PL) : (rz.) aggression; (rz.) aggressiveness; (rz.) belligerence; (rz.) truculence
+[agresywny]agresywny (PL) : (p.) aggressive; (p.) offensive; (p.) violent
+[agrochemia]agrochemia (PL) : (rz.) agrochemicals
+[agrochemiczny]agrochemiczny (PL) : (p.) agrochemical
+[agronom]agronom (PL) : (rz.) agriculturist; (rz.) agronomist
+[agronomia]agronomia (PL) : (rz.) agronomy
+[agronomiczny]agronomiczny (PL) : (p.) agronomic; (p.) agronomical
+[aha]aha (PL) : (wykrzyknik) aha
+[ajencja]ajencja (PL) : (rz.) agency; (rz.) branch; (rz.) franchise
+[ajent]ajent (PL) : (rz.) agent; (rz.) factor
+[ajnsztajn]ajnsztajn (PL) : (rz.) einsteinium
+[akacja]akacja (PL) : (rz.) acacia
+[akademia]akademia (PL) : (rz.) academia; (rz.) academy; (rz.) college
+[akademicki]akademicki (PL) : (p.) academic; (p.) collegiate; (p.) theoretic; (p.) theoretical
+[akademickosc]akademickość (PL) : (rz.) academic
+[akademik]akademik (PL) : (rz.) academic; (rz.) dorm; (rz.) dormitory; (rz.) hostel
+[akant]akant (PL) : (rz.) acanthus
+[akapit]akapit (PL) : (rz.) indention; (rz.) paragraph; (rz.) subparagraph
+[akceleracja]akceleracja (PL) : (rz.) acceleration
+[akcelerator]akcelerator (PL) : (rz.) accelerator
+[akcent]akcent (PL) : (rz.) accent; (rz.) drawl; (rz.) emphasis; (rz.) stress
+[akcentowanie]akcentowanie (PL) : (rz.) accentuation; (rz.) emphasis
+[akcentowac]akcentować (PL) : (cz.) accent; (cz.) accentuate; (cz.) emphasize; (cz.) stress
+[akcentowy]akcentowy (PL) : (p.) accentual
+[akcept]akcept (PL) : (rz.) acceptance
+[akceptacja]akceptacja (PL) : (rz.) acceptability; (rz.) acceptance; (rz.) acceptation; (rz.) assent; (rz.) complaisance; (rz.) go-ahead
+[akceptacyjny]akceptacyjny (PL) : (p.) accepting
+[akceptant]akceptant (PL) : (rz.) acceptor
+[akceptor]akceptor (PL) : (rz.) accepter; (rz.) acceptor
+[akceptowalnosc]akceptowalność (PL) : (rz.) acceptability; (rz.) plausibility
+[akceptowalny]akceptowalny (PL) : (p.) acceptable
+[akceptowac]akceptować (PL) : (cz.) accede; (cz.) accept; (cz.) approve; (cz.) condone
+[akces]akces (PL) : (rz.) access; (rz.) accession
+[akcesja]akcesja (PL) : (rz.) accession
+[akcesoria]akcesoria (PL) : (rz.) accessories; (rz.) accessory; (rz.) appliance
+[akcja]akcja (PL) : (rz.) action; (rz.) campaign; (rz.) operation; (rz.) share; (rz.) suit
+[akcjonariusz]akcjonariusz (PL) : (rz.) shareholder; (rz.) share-holder; (rz.) stockholder
+[akcydens]akcydens (PL) : (rz.) job
+[akcyjny]akcyjny (PL) : (p.) capital; (p.) joint-stock
+[akcyza]akcyza (PL) : (rz.) excise
+[aklamacja]aklamacja (PL) : (rz.) acclamation
+[aklamowac]aklamować (PL) : (cz.) acclaim
+[aklimatyzacja]aklimatyzacja (PL) : (rz.) acclimation; (rz.) acclimatization; (rz.) adjustment; (rz.) domestication
+[aklimatyzowanie]aklimatyzowanie (PL) : (rz.) acclimated; (rz.) acclimatizing
+[aklimatyzowac]aklimatyzować (PL) : (cz.) acclimate; (cz.) acclimatize; (cz.) adjust; (cz.) naturalize
+[akolita]akolita (PL) : (rz.) acolyte
+[akomodacja]akomodacja (PL) : (rz.) accommodation; (rz.) housing
+[akomodowac]akomodować (PL) : (cz.) accommodate
+[akompaniament]akompaniament (PL) : (rz.) accompaniment
+[akompaniator]akompaniator (PL) : (rz.) accompanist
+[akompaniowac]akompaniować (PL) : (cz.) accompany
+[akonit]akonit (PL) : (rz.) aconite
+[akonto]akonto (PL) : (rz.) advance; (rz.) deposit
+[akord]akord (PL) : (rz.) accord; (rz.) chord; (rz.) piece-work
+[akordeon]akordeon (PL) : (rz.) accordion; (rz.) concertina
+[akordeonista]akordeonista (PL) : (rz.) accordionist
+[akr]akr (PL) : (rz.) acre
+[akredytacja]akredytacja (PL) : (rz.) accreditation
+[akredytowac]akredytować (PL) : (cz.) accredit; (cz.) registered
+[akrobacja]akrobacja (PL) : (rz.) acrobatics; (rz.) aerobatics
+[akrobata]akrobata (PL) : (rz.) acrobat; (rz.) contortionist
+[akrobatyczny]akrobatyczny (PL) : (p.) acrobatic
+[akrobatyka]akrobatyka (PL) : (rz.) acrobatics; (rz.) aerobatics
+[akronim]akronim (PL) : (rz.) acronym
+[akropol]akropol (PL) : (rz.) acropolis
+[akrostych]akrostych (PL) : (rz.) acrostic
+[akryl]akryl (PL) : (rz.) acrylic
+[akrylowy]akrylowy (PL) : (p.) acrylic
+[aksamit]aksamit (PL) : (rz.) velvet
+[aksamitka]aksamitka (PL) : (rz.) marigold
+[aksamitnosc]aksamitność (PL) : (rz.) mellowness; (rz.) silkiness
+[aksamitny]aksamitny (PL) : (p.) velvety
+[akseroftol]akseroftol (PL) : (rz.) vitamin
+[aksjologia]aksjologia (PL) : (rz.) axiology
+[aksjomat]aksjomat (PL) : (rz.) axiom; (rz.) postulate
+[aksjomatyczny]aksjomatyczny (PL) : (p.) axiomatic
+[akson]akson (PL) : (rz.) axon
+[aksonometryczny]aksonometryczny (PL) : (p.) axonometric
+[akt]akt (PL) : (rz.) act; (rz.) certificate; (rz.) file; (rz.) indictment; (rz.) marriage; (rz.) nude; (rz.) nudity
+[akta]akta (PL) : (rz.) brief; (rz.) dossier; (rz.) dossiers; (rz.) file; (rz.) filing; (rz.) portfolio; (rz.) proceedings; (rz.) record; (rz.) statute
+[aktor]aktor (PL) : (rz.) actor; (rz.) player; (rz.) puppeteer
+[aktorka]aktorka (PL) : (rz.) actress
+[aktorski]aktorski (PL) : (p.) actor's
+[aktorstwo]aktorstwo (PL) : (rz.) acting; (rz.) histrionics
+[aktualizacja]aktualizacja (PL) : (rz.) actualization
+[aktualizowanie]aktualizowanie (PL) : (rz.) actualizing; (rz.) update
+[aktualizowac]aktualizować (PL) : (cz.) update
+[aktualnie]aktualnie (PL) : (p-sł.) currently; (p-sł.) topically
+[aktualnosc]aktualność (PL) : (rz.) timeliness; (rz.) topicality
+[aktualny]aktualny (PL) : (p.) current; (p.) effective; (p.) live; (p.) present; (p.) timely; (p.) topical; (p.) up-to-date
+[aktyn]aktyn (PL) : (rz.) actinium
+[aktyniczny]aktyniczny (PL) : (p.) actinic
+[aktynowiec]aktynowiec (PL) : (rz.) actinide
+[aktyw]aktyw (PL) : (rz.) active
+[aktywa]aktywa (PL) : (rz.) assets
+[aktywacja]aktywacja (PL) : (rz.) activation
+[aktywator]aktywator (PL) : (rz.) activator; (rz.) energizer
+[aktywista]aktywista (PL) : (rz.) activist; (rz.) campaigner
+[aktywizacja]aktywizacja (PL) : (rz.) activation
+[aktywizm]aktywizm (PL) : (rz.) activism
+[aktywizowac]aktywizować (PL) : (cz.) activate; (cz.) arouse
+[aktywnie]aktywnie (PL) : (p-sł.) actively
+[aktywnosc]aktywność (PL) : (rz.) activity
+[aktywny]aktywny (PL) : (p.) active; (p.) clickable
+[aktywowanie]aktywowanie (PL) : (rz.) activation
+[aktywowac]aktywować (PL) : (cz.) activate; (cz.) wait
+[aktowka]aktówka (PL) : (rz.) briefcase; (rz.) portfolio
+[akumulacja]akumulacja (PL) : (rz.) accumulation
+[akumulator]akumulator (PL) : (rz.) accumulator; (rz.) A-register; (rz.) battery
+[akumulowac]akumulować (PL) : (cz.) accumulate; (cz.) accumulated; (cz.) amass
+[akupresura]akupresura (PL) : (rz.) acupressure
+[akupunktura]akupunktura (PL) : (rz.) acupuncture
+[akuratnosc]akuratność (PL) : (rz.) meticulousness
+[akuratny]akuratny (PL) : (p.) accurate; (p.) exact
+[akustyczny]akustyczny (PL) : (p.) acoustic; (p.) acoustical; (p.) acoustically; (p.) resonant; (p.) sound; (p.) unplugged
+[akustyk]akustyk (PL) : (rz.) acoustician
+[akustyka]akustyka (PL) : (rz.) acoustic; (rz.) acoustician; (rz.) acoustics
+[akuszer]akuszer (PL) : (rz.) obstetrician
+[akuszeria]akuszeria (PL) : (rz.) obstetrics
+[akuszerka]akuszerka (PL) : (rz.) midwife
+[akuszerstwo]akuszerstwo (PL) : (rz.) midwifery
+[akwaforcista]akwaforcista (PL) : (rz.) etcher
+[akwaforta]akwaforta (PL) : (rz.) etching
+[akwakultura]akwakultura (PL) : (rz.) aquaculture
+[akwalung]akwalung (PL) : (rz.) aqualung; (rz.) scuba
+[akwamaryn]akwamaryn (PL) : (rz.) aquamarine
+[akwamaryna]akwamaryna (PL) : (rz.) aqua; (rz.) aquamarine
+[akwanauta]akwanauta (PL) : (rz.) aquanaut
+[akwaplan]akwaplan (PL) : (rz.) aquaplane
+[akwarela]akwarela (PL) : (rz.) aquarelle; (rz.) watercolour; (rz.) water-colour; (rz.) watercolours
+[akwaria]akwaria (PL) : (rz.) aquaria; (rz.) aquariums
+[akwarium]akwarium (PL) : (rz.) aquarium
+[akwatinta]akwatinta (PL) : (rz.) aquatint
+[akwedukt]akwedukt (PL) : (rz.) aqueduct
+[akwen]akwen (PL) : (rz.) reservoir
+[akwizycja]akwizycja (PL) : (rz.) acquisition; (rz.) canvassing
+[akwizytor]akwizytor (PL) : (rz.) canvasser; (rz.) salesman; (rz.) solicitor
+[alabaster]alabaster (PL) : (rz.) alabaster
+[alarm]alarm (PL) : (rz.) alarm; (rz.) alert; (rz.) tocsin
+[alarmista]alarmista (PL) : (rz.) alarmist
+[alarmistyczny]alarmistyczny (PL) : (p.) panicky
+[alarmowac]alarmować (PL) : (cz.) alarm; (cz.) alert; (cz.) warn
+[albatros]albatros (PL) : (rz.) albatross
+[albinizm]albinizm (PL) : (rz.) albinism
+[albinos]albinos (PL) : (rz.) albino
+[albo]albo (PL) : (spójnik) or
+[albowiem]albowiem (PL) : (spójnik) because
+[album]album (PL) : (rz.) album
+[albumina]albumina (PL) : (rz.) albumen; (rz.) albumin; (rz.) protein
+[alchemia]alchemia (PL) : (rz.) alchemy
+[alchemiczny]alchemiczny (PL) : (p.) alchemical
+[alchemik]alchemik (PL) : (rz.) alchemist
+[ale]ale (PL) : (spójnik) but
+[alegat]alegat (PL) : (rz.) voucher
+[alegoria]alegoria (PL) : (rz.) allegory
+[alegorycznie]alegorycznie (PL) : (p-sł.) allegorically
+[alegoryczny]alegoryczny (PL) : (p.) allegoric; (p.) allegorical; (p.) figurative
+[aleja]aleja (PL) : (rz.) alameda; (rz.) alley; (rz.) avenue; (rz.) drive; (rz.) lane; (rz.) parkway; (rz.) street; (rz.) vista
+[alejka]alejka (PL) : (rz.) alley; (rz.) alleyway; (rz.) lane
+[aleksandryn]aleksandryn (PL) : (rz.) alexandrine
+[aleksandryt]aleksandryt (PL) : (rz.) alexandrite
+[aleksja]aleksja (PL) : (rz.) alexia
+[alembik]alembik (PL) : (rz.) alembic
+[alergen]alergen (PL) : (rz.) allergen
+[alergia]alergia (PL) : (rz.) allergy
+[alergiczny]alergiczny (PL) : (p.) allergenic; (p.) allergic
+[alfa]alfa (PL) : (rz.) alpha
+[alfabet]alfabet (PL) : (rz.) alphabet
+[alfabetycznie]alfabetycznie (PL) : (p-sł.) alphabetically
+[alfabetyczny]alfabetyczny (PL) : (p.) abecedarian; (p.) alphabetic; (p.) alphabetical
+[alfanumeryczny]alfanumeryczny (PL) : (p.) alphabetic-numeric; (p.) alphanumeric; (p.) alphanumerical
+[alfons]alfons (PL) : (rz.) pander; (rz.) pimp
+[algebra]algebra (PL) : (rz.) algebra
+[algebraicznie]algebraicznie (PL) : (p-sł.) algebraically
+[algebraiczny]algebraiczny (PL) : (p.) algebraic
+[algebraik]algebraik (PL) : (rz.) algebraist
+[algorytm]algorytm (PL) : (rz.) algorithm; (rz.) policy
+[algorytmicznie]algorytmicznie (PL) : (p-sł.) algorithmically
+[algorytmiczny]algorytmiczny (PL) : (p.) algorithmic
+[aliancki]aliancki (PL) : (p.) allied
+[alians]alians (PL) : (rz.) alliance
+[aliant]aliant (PL) : (rz.) ally
+[alibi]alibi (PL) : (rz.) alibi
+[alidada]alidada (PL) : (rz.) alidade
+[alienacja]alienacja (PL) : (rz.) alienation
+[alienowac]alienować (PL) : (cz.) alienate
+[alifatyczny]alifatyczny (PL) : (p.) aliphatic
+[aligator]aligator (PL) : (rz.) alligator
+[alimentacja]alimentacja (PL) : (rz.) alimony
+[alimenty]alimenty (PL) : (rz.) alimonies; (rz.) alimony; (rz.) maintenance
+[aliteracja]aliteracja (PL) : (rz.) alliteration
+[aliteracyjny]aliteracyjny (PL) : (p.) alliterative
+[alizaryna]alizaryna (PL) : (rz.) alizarin
+[alkalia]alkalia (PL) : (rz.) alkali
+[alkalicznosc]alkaliczność (PL) : (rz.) alkalinity
+[alkaliczny]alkaliczny (PL) : (p.) alkaline
+[alkalizowanie]alkalizowanie (PL) : (rz.) alkalization; (rz.) alkalize
+[alkalizowac]alkalizować (PL) : (cz.) alkalify; (cz.) alkalize
+[alkaloid]alkaloid (PL) : (rz.) alkaloid
+[alkeny]alkeny (PL) : (rz.) alkenes
+[alkierz]alkierz (PL) : (rz.) alcove; (rz.) closet
+[alkil]alkil (PL) : (rz.) alkyl
+[alkohol]alkohol (PL) : (rz.) alcohol; (rz.) booze; (rz.) liqueur; (rz.) spirit
+[alkoholiczny]alkoholiczny (PL) : (p.) alcoholic
+[alkoholik]alkoholik (PL) : (rz.) alcoholic; (rz.) boozer
+[alkoholizm]alkoholizm (PL) : (rz.) alcoholism
+[alkoholizowac]alkoholizować (PL) : (cz.) load
+[alkoholometria]alkoholometria (PL) : (rz.) alcoholometry
+[alkoholomierz]alkoholomierz (PL) : (rz.) alcoholmeter
+[alkoholowy]alkoholowy (PL) : (p.) alcoholic; (p.) boozy; (p.) intoxicating
+[alkomat]alkomat (PL) : (rz.) breathalyser; (rz.) breathalyzer
+[alkowa]alkowa (PL) : (rz.) alcove; (rz.) recess
+[alleluja]alleluja (PL) : (wykrzyknik) alleluia; (wykrzyknik) halleluiah; (wykrzyknik) hallelujah
+[almanach]almanach (PL) : (rz.) almanac
+[alniko]alniko (PL) : (rz.) alnico
+[aloes]aloes (PL) : (rz.) aloe
+[alokacja]alokacja (PL) : (rz.) allocation
+[alokowac]alokować (PL) : (cz.) allocate; (cz.) allocated; (cz.) allocates; (cz.) allot; (cz.) dispatch
+[alonz]alonż (PL) : (rz.) rider
+[alopatyczny]alopatyczny (PL) : (p.) allopathic
+[alotropia]alotropia (PL) : (rz.) allotropy
+[alotropowy]alotropowy (PL) : (p.) allotropic
+[aloza]aloza (PL) : (rz.) alewife; (rz.) shad
+[alpaga]alpaga (PL) : (rz.) alpaca
+[alpaka]alpaka (PL) : (rz.) alpaca
+[alpinista]alpinista (PL) : (rz.) alpinist; (rz.) climber; (rz.) mountaineer
+[alpinistyka]alpinistyka (PL) : (rz.) mountain-climbing; (rz.) mountaineering
+[alt]alt (PL) : (rz.) altitude; (rz.) alto
+[altana]altana (PL) : (rz.) arbour; (rz.) bower; (rz.) picnic; (rz.) summerhouse; (rz.) summer-house
+[altanka]altanka (PL) : (rz.) alcove
+[alteracja]alteracja (PL) : (rz.) excitement
+[alternator]alternator (PL) : (rz.) alternator; (rz.) alternators
+[alternatywa]alternatywa (PL) : (rz.) alternation; (rz.) alternative; (rz.) disjunction; (rz.) option
+[alternatywnie]alternatywnie (PL) : (p-sł.) alternatively
+[alternatywnosc]alternatywność (PL) : (rz.) alternative
+[alternatywny]alternatywny (PL) : (p.) alternate; (p.) alternated; (p.) alternates; (p.) alternative; (p.) alternatives
+[altowy]altowy (PL) : (p.) alto
+[altruista]altruista (PL) : (rz.) altruist
+[altruistyczny]altruistyczny (PL) : (p.) altruistic
+[altruizm]altruizm (PL) : (rz.) altruism; (rz.) unselfishness
+[altowka]altówka (PL) : (rz.) alto; (rz.) viola
+[aluminium]aluminium (PL) : (rz.) aluminium
+[aluminotermia]aluminotermia (PL) : (rz.) aluminothermy
+[alumn]alumn (PL) : (rz.) alumni; (rz.) alumnus
+[aluwialny]aluwialny (PL) : (p.) alluvial
+[aluwium]aluwium (PL) : (rz.) alluvium
+[aluzja]aluzja (PL) : (rz.) allusion; (rz.) hint; (rz.) inkling; (rz.) innuendo; (rz.) intimation; (rz.) tip
+[aluzyjny]aluzyjny (PL) : (p.) allusive
+[amalgamat]amalgamat (PL) : (rz.) amalgam
+[amalgamowanie]amalgamowanie (PL) : (rz.) amalgamating
+[amalgamowac]amalgamować (PL) : (cz.) amalgamate; (cz.) fuse
+[amant]amant (PL) : (rz.) beau; (rz.) lover; (rz.) suitor
+[amarant]amarant (PL) : (rz.) amaranth
+[amator]amator (PL) : (rz.) aficionado; (rz.) amateur; (rz.) dabbler; (rz.) fan; (rz.) layman; (rz.) lover
+[amatorski]amatorski (PL) : (p.) amateurish; (p.) amatory; (p.) unprofessional
+[amatorstwo]amatorstwo (PL) : (rz.) amateurishness; (rz.) amateurism; (rz.) dilettantism
+[amazonit]amazonit (PL) : (rz.) amazonite
+[amazonka]amazonka (PL) : (rz.) Amazon; (rz.) horsewoman
+[ambaras]ambaras (PL) : (rz.) embarrassment; (rz.) perplexity
+[ambasada]ambasada (PL) : (rz.) embassy
+[ambasador]ambasador (PL) : (rz.) ambassador; (rz.) ambassadress
+[ambasadorski]ambasadorski (PL) : (p.) ambassadorial
+[ambicja]ambicja (PL) : (rz.) ambition
+[ambitnie]ambitnie (PL) : (p-sł.) ambitiously
+[ambitny]ambitny (PL) : (p.) ambitious; (p.) aspiring
+[ambiwalencja]ambiwalencja (PL) : (rz.) ambivalence
+[ambiwalentny]ambiwalentny (PL) : (p.) ambivalent
+[ambona]ambona (PL) : (rz.) ambo; (rz.) lookout; (rz.) look-out; (rz.) pulpit
+[ambra]ambra (PL) : (rz.) ambergris; (rz.) liquidambar
+[ambrazura]ambrazura (PL) : (rz.) porthole
+[ambrozja]ambrozja (PL) : (rz.) ambrosia; (rz.) ragweed
+[ambulans]ambulans (PL) : (rz.) ambulance
+[ambulatorium]ambulatorium (PL) : (rz.) dispensary; (rz.) policlinic
+[ambulatoryjny]ambulatoryjny (PL) : (p.) ambulant; (p.) ambulatory
+[ameba]ameba (PL) : (rz.) amoeba; (rz.) faint-heart
+[ameryk]ameryk (PL) : (rz.) americium
+[ametyst]ametyst (PL) : (rz.) amethyst
+[ametystowy]ametystowy (PL) : (p.) amethystine
+[amfetamina]amfetamina (PL) : (rz.) amphetamine
+[amfibia]amfibia (PL) : (rz.) amphibian; (rz.) amphibians
+[amfibol]amfibol (PL) : (rz.) hornblende
+[amfibole]amfibole (PL) : (rz.) amphiboles
+[amfiboliczny]amfiboliczny (PL) : (p.) ambiguous
+[amfibologia]amfibologia (PL) : (rz.) amphibology
+[amfibrach]amfibrach (PL) : (rz.) amphibrach
+[amfilada]amfilada (PL) : (rz.) series; (rz.) succession
+[amfiteatr]amfiteatr (PL) : (rz.) amphitheatre
+[amfora]amfora (PL) : (rz.) amphora
+[amidki]amidki (PL) : (rz.) amides
+[amina]amina (PL) : (rz.) amine
+[aminofenol]aminofenol (PL) : (rz.) aminophenol
+[aminowy]aminowy (PL) : (p.) amine
+[amitotyczny]amitotyczny (PL) : (p.) amitotic
+[amitoza]amitoza (PL) : (rz.) amitosis
+[amnestia]amnestia (PL) : (rz.) amnesty
+[amnestionowac]amnestionować (PL) : (cz.) amnesty
+[amnezja]amnezja (PL) : (rz.) amnesia; (rz.) anamnesis
+[amok]amok (PL) : (rz.) amok
+[amon]amon (PL) : (rz.) ammonium
+[amoniak]amoniak (PL) : (rz.) ammonia
+[amoniakalny]amoniakalny (PL) : (p.) ammoniac
+[amoniakat]amoniakat (PL) : (rz.) ammine
+[amonifikacja]amonifikacja (PL) : (rz.) ammonization
+[amonit]amonit (PL) : (rz.) ammonite
+[amoralnosc]amoralność (PL) : (rz.) amorality
+[amoralny]amoralny (PL) : (p.) amoral
+[amorek]amorek (PL) : (rz.) cupid
+[amorficzny]amorficzny (PL) : (p.) amorphous
+[amortyzacja]amortyzacja (PL) : (rz.) amortization; (rz.) depreciation; (rz.) redemption; (rz.) sinking
+[amortyzator]amortyzator (PL) : (rz.) absorber; (rz.) damper; (rz.) shock-absorber
+[amortyzowac]amortyzować (PL) : (cz.) absorb; (cz.) amortize; (cz.) cushion; (cz.) damp
+[amper]amper (PL) : (rz.) amp; (rz.) ampere; (rz.) amperes
+[amperogodzina]amperogodzina (PL) : (rz.) ampere-hour; (rz.) amp-hours
+[amperomierz]amperomierz (PL) : (rz.) ammeter; (rz.) ammeters
+[amperosekunda]amperosekunda (PL) : (rz.) ampere-second
+[amperozwoj]amperozwój (PL) : (rz.) ampere-turn
+[amplifikacja]amplifikacja (PL) : (rz.) amplification
+[amplifikator]amplifikator (PL) : (rz.) amplifier
+[amplifikowac]amplifikować (PL) : (cz.) exaggerate
+[amplituda]amplituda (PL) : (rz.) amplitude; (rz.) profusion
+[amputacja]amputacja (PL) : (rz.) amputation
+[amputowac]amputować (PL) : (cz.) amputate; (cz.) excise
+[ampulka]ampułka (PL) : (rz.) ampoule
+[amulet]amulet (PL) : (rz.) amulet
+[amunicja]amunicja (PL) : (rz.) ammo; (rz.) ammunition
+[amylaza]amylaza (PL) : (rz.) amylase
+[anabaptysta]anabaptysta (PL) : (rz.) dipper
+[anabolizm]anabolizm (PL) : (rz.) anabolism
+[anachoreta]anachoreta (PL) : (rz.) anchorite; (rz.) hermit
+[anachronicznosc]anachroniczność (PL) : (rz.) anachronism
+[anachroniczny]anachroniczny (PL) : (p.) anachronistic
+[anachronizm]anachronizm (PL) : (rz.) anachronism
+[anaerob]anaerob (PL) : (rz.) anaerobe
+[anafaza]anafaza (PL) : (rz.) anaphase
+[anafilaksja]anafilaksja (PL) : (rz.) anaphylaxis
+[anafilaktyczny]anafilaktyczny (PL) : (p.) anaphylactic
+[anaglif]anaglif (PL) : (rz.) anaglyph
+[anagram]anagram (PL) : (rz.) anagrams
+[anakonda]anakonda (PL) : (rz.) anaconda
+[analfabeta]analfabeta (PL) : (rz.) illiterate
+[analfabetyzm]analfabetyzm (PL) : (rz.) illiteracy
+[analgezja]analgezja (PL) : (rz.) analgesia
+[analitycznie]analitycznie (PL) : (p-sł.) analytically
+[analitycznosc]analityczność (PL) : (rz.) analyticity
+[analityczny]analityczny (PL) : (p.) analytic; (p.) analytical
+[analityk]analityk (PL) : (rz.) analyst
+[analiza]analiza (PL) : (rz.) analysis; (rz.) assay; (rz.) evaluation; (rz.) examination; (rz.) parse; (rz.) scrutiny
+[analizator]analizator (PL) : (rz.) analyser; (rz.) analyzer
+[analizowanie]analizowanie (PL) : (rz.) analysing
+[analizowac]analizować (PL) : (cz.) analyse; (cz.) analyze; (cz.) dissect; (cz.) evaluate; (cz.) explore; (cz.) parse; (cz.) resolve; (cz.) scrutinize; (cz.) study
+[analny]analny (PL) : (p.) anal
+[analog]analog (PL) : (rz.) analogue
+[analogia]analogia (PL) : (rz.) analogy; (rz.) anthology; (rz.) parity
+[analogicznie]analogicznie (PL) : (p-sł.) similarly
+[analogicznosc]analogiczność (PL) : (rz.) parity
+[analogiczny]analogiczny (PL) : (p.) analogical; (p.) analogous; (p.) analogue
+[analogowy]analogowy (PL) : (p.) analogue; (p.) analogues
+[anamneza]anamneza (PL) : (rz.) anamnesis; (rz.) recollection
+[ananas]ananas (PL) : (rz.) pineapple; (rz.) rascal
+[anapest]anapest (PL) : (rz.) anapaest
+[anarchia]anarchia (PL) : (rz.) anarchy; (rz.) lawlessness
+[anarchiczny]anarchiczny (PL) : (p.) anarchic; (p.) anarchical; (p.) lawless
+[anarchista]anarchista (PL) : (rz.) anarchist
+[anarchistyczny]anarchistyczny (PL) : (p.) anarchistic
+[anarchizm]anarchizm (PL) : (rz.) anarchism; (rz.) confusion
+[anatema]anatema (PL) : (rz.) anathema
+[anatom]anatom (PL) : (rz.) anatomist
+[anatomia]anatomia (PL) : (rz.) anatomy
+[anatomicznie]anatomicznie (PL) : (p-sł.) anatomically
+[anatomiczny]anatomiczny (PL) : (p.) anatomic; (p.) anatomical
+[ancymonek]ancymonek (PL) : (rz.) scamp
+[andezyn]andezyn (PL) : (rz.) andesine
+[andradyt]andradyt (PL) : (rz.) andradite
+[androgeniczny]androgeniczny (PL) : (p.) androgynous
+[androgenny]androgenny (PL) : (p.) androgenic
+[androgeny]androgeny (PL) : (p.) androgens
+[andrus]andrus (PL) : (rz.) street-boy
+[andrut]andrut (PL) : (rz.) gofer; (rz.) wafer
+[anegdociarz]anegdociarz (PL) : (rz.) storyteller; (rz.) story-teller
+[anegdota]anegdota (PL) : (rz.) anecdote; (rz.) story
+[anegdotyczny]anegdotyczny (PL) : (p.) anecdotal; (p.) anecdotic; (p.) imaginary
+[aneks]aneks (PL) : (rz.) annex; (rz.) appendix; (rz.) enclosure
+[aneksja]aneksja (PL) : (rz.) annexation
+[anektowac]anektować (PL) : (cz.) annex
+[anemia]anemia (PL) : (rz.) anaemia
+[anemiczny]anemiczny (PL) : (p.) anaemic
+[anemograf]anemograf (PL) : (rz.) anemograph
+[anemometr]anemometr (PL) : (rz.) anemometer; (rz.) wind-gauge
+[anemon]anemon (PL) : (rz.) anemone
+[anemoskop]anemoskop (PL) : (rz.) anemoscope
+[aneroid]aneroid (PL) : (rz.) aneroid
+[anestezja]anestezja (PL) : (rz.) anaesthesia
+[anestezjolog]anestezjolog (PL) : (rz.) anaesthesiologist; (rz.) anaesthetist
+[anestezjologia]anestezjologia (PL) : (rz.) anaesthesiology
+[aneuryna]aneuryna (PL) : (rz.) thiamine
+[anewryzm]anewryzm (PL) : (rz.) aneurism; (rz.) aneurysm
+[angaz]angaż (PL) : (rz.) contract; (rz.) engagement
+[angazowac]angażować (PL) : (cz.) engage; (cz.) enrol; (cz.) hire; (cz.) involve
+[angina]angina (PL) : (rz.) angina
+[anglez]anglez (PL) : (rz.) frock-coat
+[anglezyt]anglezyt (PL) : (rz.) anglesite
+[anglikanin]anglikanin (PL) : (rz.) Anglican; (rz.) protestant
+[anglikanizm]anglikanizm (PL) : (rz.) Anglicanism
+[anglizowac]anglizować (PL) : (cz.) anglicize
+[anglofil]anglofil (PL) : (rz.) anglophile
+[anglosaski]anglosaski (PL) : (p.) Anglo-Saxon
+[angstrem]angstrem (PL) : (rz.) angst; (rz.) angstrom
+[anhydryt]anhydryt (PL) : (rz.) anhydrite
+[ani]ani (PL) : (spójnik) nor; (spójnik) or
+[anielski]anielski (PL) : (p.) angelic; (p.) angelical
+[anielsko]anielsko (PL) : (p-sł.) angelically
+[anihilacja]anihilacja (PL) : (rz.) annihilation; (rz.) dematerialization
+[anihilator]anihilator (PL) : (rz.) annihilator
+[anihilowac]anihilować (PL) : (cz.) annihilate; (cz.) destroy
+[anilana]anilana (PL) : (rz.) aniline
+[anilina]anilina (PL) : (rz.) aniline
+[animacja]animacja (PL) : (rz.) animation
+[animalista]animalista (PL) : (rz.) animalist
+[animalizm]animalizm (PL) : (rz.) animalism
+[animator]animator (PL) : (rz.) animator
+[animista]animista (PL) : (rz.) animist
+[animistyczny]animistyczny (PL) : (p.) animistic
+[animizm]animizm (PL) : (rz.) animism
+[animowac]animować (PL) : (cz.) animate; (cz.) enliven
+[animozja]animozja (PL) : (rz.) animosity
+[animusz]animusz (PL) : (rz.) animation; (rz.) breeziness; (rz.) courage; (rz.) pep; (rz.) spirit; (rz.) vigour
+[anion]anion (PL) : (rz.) anion; (rz.) anions
+[anionowy]anionowy (PL) : (p.) anionic
+[aniol]anioł (PL) : (rz.) angel; (rz.) angelus
+[anizotropia]anizotropia (PL) : (rz.) anisotropy
+[anizotropowy]anizotropowy (PL) : (p.) anisotropic
+[anizeli]aniżeli (PL) : (spójnik) than
+[ankieta]ankieta (PL) : (rz.) inquiry; (rz.) poll; (rz.) questionnaire; (rz.) survey
+[ankieter]ankieter (PL) : (rz.) enumerator; (rz.) interviewer; (rz.) pollster
+[ankietowac]ankietować (PL) : (cz.) poll
+[annalista]annalista (PL) : (rz.) annalist
+[annaly]annały (PL) : (rz.) annals
+[anoda]anoda (PL) : (rz.) anode; (rz.) anodes; (rz.) scrapbook
+[anodowy]anodowy (PL) : (p.) anodal; (p.) anodic
+[anodyzacja]anodyzacja (PL) : (rz.) anodizing
+[anomalia]anomalia (PL) : (rz.) anomaly
+[anomalny]anomalny (PL) : (p.) anomalous
+[anonim]anonim (PL) : (rz.) anonym
+[anonimowo]anonimowo (PL) : (p-sł.) anonymously; (p-sł.) incognito
+[anonimowosc]anonimowość (PL) : (rz.) anonymity
+[anonimowy]anonimowy (PL) : (p.) anonymous
+[anons]anons (PL) : (rz.) advertisement; (rz.) announcement
+[anonsowac]anonsować (PL) : (cz.) advertise; (cz.) announce
+[anoreksja]anoreksja (PL) : (rz.) anorexia
+[anormalnie]anormalnie (PL) : (p-sł.) abnormally
+[anormalnosc]anormalność (PL) : (rz.) abnormality
+[anormalny]anormalny (PL) : (p.) aberrant; (p.) abnormal; (p.) anomalous
+[antaba]antaba (PL) : (rz.) bolt; (rz.) handle
+[antagonista]antagonista (PL) : (rz.) antagonist
+[antagonistyczny]antagonistyczny (PL) : (p.) adversarial; (p.) antagonistic
+[antagonizm]antagonizm (PL) : (rz.) antagonism
+[antagonizowac]antagonizować (PL) : (cz.) antagonize
+[antalek]antałek (PL) : (rz.) cask
+[antena]antena (PL) : (rz.) aerial; (rz.) antenna
+[antenat]antenat (PL) : (rz.) ancestor; (rz.) forefather; (rz.) progenitor
+[antenatka]antenatka (PL) : (rz.) ancestress
+[antidotum]antidotum (PL) : (rz.) antidote
+[antologia]antologia (PL) : (rz.) anthology
+[antologiczny]antologiczny (PL) : (p.) anthological
+[antonim]antonim (PL) : (rz.) antonym
+[antracyt]antracyt (PL) : (rz.) anthracite
+[antrakt]antrakt (PL) : (rz.) interlude; (rz.) intermission; (rz.) interval
+[antresola]antresola (PL) : (rz.) entresol; (rz.) mezzanine
+[antropocentryzm]antropocentryzm (PL) : (rz.) anthropocentrism
+[antropofagia]antropofagia (PL) : (rz.) cannibalism
+[antropogeneza]antropogeneza (PL) : (rz.) anthropogenesis
+[antropogeniczny]antropogeniczny (PL) : (p.) anthropogenic
+[antropoidalny]antropoidalny (PL) : (p.) anthropogenic; (p.) subhuman
+[antropolog]antropolog (PL) : (rz.) anthropologist
+[antropologia]antropologia (PL) : (rz.) anthropology
+[antropologiczny]antropologiczny (PL) : (p.) anthropological
+[antropometria]antropometria (PL) : (rz.) anthropometry
+[antropomorficzny]antropomorficzny (PL) : (p.) anthropomorphic
+[antropomorfizm]antropomorfizm (PL) : (rz.) anthropomorphism
+[antrykot]antrykot (PL) : (rz.) blade; (rz.) entrecote
+[antyalkoholowy]antyalkoholowy (PL) : (p.) teetotal
+[antybakteryjny]antybakteryjny (PL) : (p.) antibacterial
+[antybiotyk]antybiotyk (PL) : (rz.) antibiotic
+[antybioza]antybioza (PL) : (rz.) antibiosis
+[antychryst]antychryst (PL) : (rz.) antichrist
+[antycyklon]antycyklon (PL) : (rz.) anticyclone
+[antycypacja]antycypacja (PL) : (rz.) anticipation
+[antycypacyjny]antycypacyjny (PL) : (p.) anticipatory
+[antycypowac]antycypować (PL) : (cz.) anticipate; (cz.) forestalls
+[antyczny]antyczny (PL) : (p.) ancient; (p.) antique
+[antyczastka]antycząstka (PL) : (rz.) antiparticle
+[antydatowac]antydatować (PL) : (cz.) antedate; (cz.) backdate; (cz.) predate
+[antydepresyjny]antydepresyjny (PL) : (p.) antidepressant
+[antydopingowy]antydopingowy (PL) : (p.) anti-doping
+[antydumpingowy]antydumpingowy (PL) : (p.) anti-dumping
+[antyelektron]antyelektron (PL) : (rz.) positron
+[antyfaszysta]antyfaszysta (PL) : (rz.) antifascist
+[antyfaszystowski]antyfaszystowski (PL) : (p.) antifascist; (p.) anti-fascist
+[antyfaszyzm]antyfaszyzm (PL) : (rz.) anti-fascism
+[antyfeminista]antyfeminista (PL) : (rz.) antifeminist; (rz.) misogynist; (rz.) woman-hater
+[antyfraza]antyfraza (PL) : (rz.) antiphrasis
+[antygen]antygen (PL) : (rz.) antigen
+[antygenowy]antygenowy (PL) : (p.) antigenic
+[antyimperialistyczny]antyimperialistyczny (PL) : (p.) anti-imperialistic
+[antyinflacyjny]antyinflacyjny (PL) : (p.) anti-inflationary
+[antyk]antyk (PL) : (rz.) antique; (rz.) antiquity
+[antykatoda]antykatoda (PL) : (rz.) anticathode
+[antyklerykalny]antyklerykalny (PL) : (p.) anticlerical
+[antyklina]antyklina (PL) : (rz.) anticline; (rz.) saddlebag
+[antykomunista]antykomunista (PL) : (rz.) anticommunist
+[antykomunizm]antykomunizm (PL) : (rz.) anticommunism
+[antykoncepcja]antykoncepcja (PL) : (rz.) contraception
+[antykoncepcyjny]antykoncepcyjny (PL) : (p.) contraceptive
+[antykorozyjny]antykorozyjny (PL) : (p.) anticorrosive
+[antykwa]antykwa (PL) : (rz.) roman
+[antykwariat]antykwariat (PL) : (rz.) apparel; (rz.) bookshop
+[antykwariusz]antykwariusz (PL) : (rz.) antiquarian; (rz.) antiquary
+[antykwarski]antykwarski (PL) : (p.) antiquarian; (p.) second-hand
+[antykwaryczny]antykwaryczny (PL) : (p.) antiquarian; (p.) second-hand
+[antylogarytm]antylogarytm (PL) : (rz.) antilog; (rz.) antilogarithm
+[antylopa]antylopa (PL) : (rz.) antelope
+[antyludowy]antyludowy (PL) : (p.) antisocial
+[antymagnetyczny]antymagnetyczny (PL) : (p.) nonmagnetic
+[antymateria]antymateria (PL) : (rz.) antimatter
+[antymilitaryzm]antymilitaryzm (PL) : (rz.) pacifism
+[antymon]antymon (PL) : (rz.) antimony
+[antymonit]antymonit (PL) : (rz.) antimonite; (rz.) stibnite
+[antymonopolowy]antymonopolowy (PL) : (p.) antitrust; (p.) anti-trust
+[antynaukowy]antynaukowy (PL) : (p.) antiscientific
+[antyneutrino]antyneutrino (PL) : (rz.) antineutrino
+[antyneutron]antyneutron (PL) : (rz.) antineutron
+[antynomia]antynomia (PL) : (rz.) antimony; (rz.) antinomy
+[antynuklearny]antynuklearny (PL) : (p.) antinuclear
+[antypasat]antypasat (PL) : (rz.) antitrade
+[antypasaty]antypasaty (PL) : (p.) antitrades
+[antypatia]antypatia (PL) : (rz.) antipathy; (rz.) dislike; (rz.) distaste
+[antypatyczny]antypatyczny (PL) : (p.) antipathetic; (p.) repulsive; (p.) unsympathetic
+[antypanstwowy]antypaństwowy (PL) : (p.) antinational
+[antypoda]antypoda (PL) : (rz.) antipode
+[antypodyczny]antypodyczny (PL) : (p.) antipodal
+[antypokojowy]antypokojowy (PL) : (p.) bellicose
+[antyproton]antyproton (PL) : (rz.) antiproton
+[antyrewolucyjny]antyrewolucyjny (PL) : (p.) antirevolutionary
+[antysanitarny]antysanitarny (PL) : (p.) unsanitary
+[antysemicki]antysemicki (PL) : (p.) anti-Semitic
+[antysemita]antysemita (PL) : (rz.) anti-Semite
+[antysemityzm]antysemityzm (PL) : (rz.) anti-Semitism
+[antyseptycznie]antyseptycznie (PL) : (p-sł.) antiseptically
+[antyseptyczny]antyseptyczny (PL) : (p.) antiseptic
+[antyseptyk]antyseptyk (PL) : (rz.) antiseptic
+[antyseptyka]antyseptyka (PL) : (rz.) antisepsis
+[antyspoleczny]antyspołeczny (PL) : (p.) antisocial; (p.) dissociable
+[antystatyczny]antystatyczny (PL) : (p.) antistatic
+[antystrofa]antystrofa (PL) : (rz.) antistrophe
+[antytetyczny]antytetyczny (PL) : (p.) antithetic
+[antyteza]antyteza (PL) : (rz.) antithesis
+[antytoksyczny]antytoksyczny (PL) : (p.) antitoxic
+[antytoksyna]antytoksyna (PL) : (rz.) antitoxin
+[antytrustowy]antytrustowy (PL) : (p.) antitrust
+[antyutleniacz]antyutleniacz (PL) : (rz.) antioxidant
+[antywirus]antywirus (PL) : (rz.) antivirus
+[antywojenny]antywojenny (PL) : (p.) antiwar; (p.) anti-war
+[anulowanie]anulowanie (PL) : (rz.) annulment; (rz.) cancel; (rz.) cancellation; (rz.) defeasance; (rz.) nullification
+[anulowac]anulować (PL) : (cz.) abate; (cz.) abort; (cz.) annul; (cz.) cancel; (cz.) delete; (cz.) kill; (cz.) nullify; (cz.) undo; (cz.) vacate
+[anyz]anyż (PL) : (rz.) anise; (rz.) aniseed
+[anyzowy]anyżowy (PL) : (p.) aniseed
+[anyzowka]anyżówka (PL) : (rz.) anisette
+[aorta]aorta (PL) : (rz.) aorta
+[aoryst]aoryst (PL) : (rz.) aorist
+[aparat]aparat (PL) : (rz.) apparatus; (rz.) camera
+[aparatczyk]aparatczyk (PL) : (rz.) apparatchik
+[aparatura]aparatura (PL) : (rz.) apparatus; (rz.) machinery; (rz.) outfit
+[aparaturowy]aparaturowy (PL) : (p.) instrumental
+[apartament]apartament (PL) : (rz.) apartment; (rz.) kit; (rz.) penthouse; (rz.) suite
+[apartheid]apartheid (PL) : (rz.) apartheid
+[aparycja]aparycja (PL) : (rz.) apparition; (rz.) look
+[apaszka]apaszka (PL) : (rz.) cravat; (rz.) neckerchief; (rz.) scarf
+[apatia]apatia (PL) : (rz.) apathy; (rz.) indifference; (rz.) malaise
+[apatycznie]apatycznie (PL) : (p-sł.) apathetically; (p-sł.) listlessly
+[apatycznosc]apatyczność (PL) : (rz.) languor
+[apatyczny]apatyczny (PL) : (p.) apathetic; (p.) lackadaisical; (p.) languid; (p.) listless; (p.) musty; (p.) torpid
+[apatyt]apatyt (PL) : (rz.) apatite
+[apel]apel (PL) : (rz.) appeal; (rz.) call; (rz.) muster; (rz.) plea
+[apelacja]apelacja (PL) : (rz.) appeal
+[apelacyjny]apelacyjny (PL) : (p.) appellate
+[apelant]apelant (PL) : (rz.) appealer; (rz.) appellant
+[apelowac]apelować (PL) : (cz.) appeal; (cz.) push
+[apertura]apertura (PL) : (rz.) aperture
+[apetycznie]apetycznie (PL) : (p-sł.) appetizingly; (p-sł.) fetchingly; (p-sł.) invitingly
+[apetyczny]apetyczny (PL) : (p.) appetising; (p.) appetizing; (p.) attractive; (p.) mouth-watering; (p.) tasty; (p.) toothsome
+[apetyt]apetyt (PL) : (rz.) appetite; (rz.) desire
+[aplauz]aplauz (PL) : (rz.) applause; (rz.) cheer; (rz.) plaudit
+[aplet]aplet (PL) : (rz.) applet
+[aplikacja]aplikacja (PL) : (rz.) application; (rz.) appliqué; (rz.) apprenticeship
+[aplikant]aplikant (PL) : (rz.) applicant; (rz.) apprentice; (rz.) novice; (rz.) trainee
+[aplikantura]aplikantura (PL) : (rz.) apprenticeship
+[aplikatura]aplikatura (PL) : (rz.) fingering
+[aplikowac]aplikować (PL) : (cz.) administer; (cz.) apply; (cz.) dose
+[aplit]aplit (PL) : (rz.) haplite
+[apodyktycznie]apodyktycznie (PL) : (p-sł.) authoritatively; (p-sł.) dogmatically
+[apodyktycznosc]apodyktyczność (PL) : (rz.) dogmatism; (rz.) self-assertion
+[apodyktyczny]apodyktyczny (PL) : (p.) apodictic; (p.) assertive; (p.) bossy; (p.) domineering; (p.) overbearing
+[apofonia]apofonia (PL) : (rz.) ablaut
+[apoftegmat]apoftegmat (PL) : (rz.) apothegm
+[apogeum]apogeum (PL) : (rz.) apogee; (rz.) climax; (rz.) height; (rz.) zenith
+[apokalipsa]apokalipsa (PL) : (rz.) apocalypse; (rz.) revelation
+[apokaliptyczny]apokaliptyczny (PL) : (p.) apocalyptic; (p.) apocalyptical
+[apokryf]apokryf (PL) : (rz.) apocrypha
+[apokryficzny]apokryficzny (PL) : (p.) apocryphal
+[apolitycznosc]apolityczność (PL) : (rz.) non-political
+[apolityczny]apolityczny (PL) : (p.) non-political
+[apolog]apolog (PL) : (rz.) apologue
+[apologeta]apologeta (PL) : (rz.) apologist
+[apologetyczny]apologetyczny (PL) : (p.) apologetic
+[apologia]apologia (PL) : (rz.) apologue; (rz.) apology
+[apopleksja]apopleksja (PL) : (rz.) apoplexy; (rz.) stroke
+[apoplektyczny]apoplektyczny (PL) : (p.) apoplectic
+[aporter]aporter (PL) : (rz.) retriever
+[aportowac]aportować (PL) : (cz.) fetch; (cz.) retrieve
+[apostata]apostata (PL) : (rz.) apostate
+[apostazja]apostazja (PL) : (rz.) apostasy
+[apostolski]apostolski (PL) : (p.) apostolic
+[apostolstwo]apostolstwo (PL) : (rz.) apostolate
+[apostol]apostoł (PL) : (rz.) apostle
+[apostolowac]apostołować (PL) : (cz.) evangelize
+[apostrof]apostrof (PL) : (rz.) apostrophe
+[apostrofa]apostrofa (PL) : (rz.) apostrophe
+[apotema]apotema (PL) : (rz.) apothem
+[apoteoza]apoteoza (PL) : (rz.) apotheosis
+[apoteozowac]apoteozować (PL) : (cz.) glorify
+[apozycja]apozycja (PL) : (rz.) apposition
+[apretowac]apretować (PL) : (cz.) finish
+[apretura]apretura (PL) : (rz.) aperture; (rz.) dressing; (rz.) finish
+[apreturowanie]apreturowanie (PL) : (rz.) seasoning
+[aprioryczny]aprioryczny (PL) : (p.) priori
+[aprobata]aprobata (PL) : (rz.) adhesion; (rz.) applause; (rz.) approbation; (rz.) approval; (rz.) praise; (rz.) sanction; (rz.) tumbler
+[aprobowac]aprobować (PL) : (cz.) approbate; (cz.) approve; (cz.) connive; (cz.) countenance
+[aproksymacja]aproksymacja (PL) : (rz.) approximation; (rz.) approximations
+[aproksymowac]aproksymować (PL) : (cz.) approximate
+[aprowizator]aprowizator (PL) : (rz.) caterer; (rz.) purveyor
+[apsyda]apsyda (PL) : (rz.) apse
+[apteczka]apteczka (PL) : (rz.) medicine-chest
+[apteczny]apteczny (PL) : (p.) officinal; (p.) pharmaceutical
+[apteka]apteka (PL) : (rz.) chemist; (rz.) chemist's; (rz.) dispensary; (rz.) druggist; (rz.) drugstore; (rz.) pharmacy
+[aptekarski]aptekarski (PL) : (p.) officinal
+[aptekarstwo]aptekarstwo (PL) : (rz.) pharmacy
+[aptekarz]aptekarz (PL) : (rz.) apothecary; (rz.) chemist; (rz.) dispenser; (rz.) druggist; (rz.) pharmacist
+[ar]ar (PL) : (rz.) are; (rz.) macaw
+[ara]ara (PL) : (rz.) macaw
+[arabeska]arabeska (PL) : (rz.) arabesque
+[arachid]arachid (PL) : (rz.) groundnut; (rz.) peanut
+[aragonit]aragonit (PL) : (rz.) aragonite
+[arak]arak (PL) : (rz.) arrack
+[aranzacja]aranżacja (PL) : (rz.) arrangement; (rz.) design
+[aranzer]aranżer (PL) : (rz.) arranger; (rz.) organizer
+[aranzowac]aranżować (PL) : (cz.) arrange
+[araukaria]araukaria (PL) : (rz.) araucaria
+[arbiter]arbiter (PL) : (rz.) arbitrator; (rz.) moderator; (rz.) peacemaker; (rz.) peace-maker; (rz.) referee; (rz.) umpire
+[arbitralnosc]arbitralność (PL) : (rz.) arbitrariness
+[arbitralny]arbitralny (PL) : (p.) arbitrary; (p.) highhanded; (p.) high-handed
+[arbitraz]arbitraż (PL) : (rz.) arbitrage; (rz.) arbitration
+[arbitrazowy]arbitrażowy (PL) : (p.) arbitral
+[arbuz]arbuz (PL) : (rz.) watermelon
+[archaicznosc]archaiczność (PL) : (rz.) anarchism
+[archaiczny]archaiczny (PL) : (p.) anarchic; (p.) archaic
+[archaizm]archaizm (PL) : (rz.) archaism
+[archaizowac]archaizować (PL) : (cz.) archaize
+[archaniol]archanioł (PL) : (rz.) archangel; (rz.) room
+[archeolog]archeolog (PL) : (rz.) archaeologist
+[archeologia]archeologia (PL) : (rz.) archaeology
+[archeologiczny]archeologiczny (PL) : (p.) archaeological
+[archetyp]archetyp (PL) : (rz.) archetype
+[archidiakon]archidiakon (PL) : (rz.) archdeacon
+[archidiecezja]archidiecezja (PL) : (rz.) archdiocese
+[archimandryta]archimandryta (PL) : (rz.) archimandrite
+[archipelag]archipelag (PL) : (rz.) archipelago
+[architekt]architekt (PL) : (rz.) architect
+[architektonicznie]architektonicznie (PL) : (p-sł.) architecturally
+[architektoniczny]architektoniczny (PL) : (p.) architectonic; (p.) architectural
+[architektonika]architektonika (PL) : (rz.) architectonics; (rz.) tectonics
+[architektura]architektura (PL) : (rz.) architecture
+[architraw]architraw (PL) : (rz.) architrave
+[archiwalny]archiwalny (PL) : (p.) archival
+[archiwariusz]archiwariusz (PL) : (rz.) archivist; (rz.) registrar
+[archiwista]archiwista (PL) : (rz.) archivist; (rz.) registrar
+[archiwistyka]archiwistyka (PL) : (rz.) archive
+[archiwizacja]archiwizacja (PL) : (rz.) archive; (rz.) archiving; (rz.) filing
+[archiwizowanie]archiwizowanie (PL) : (rz.) archive; (rz.) archiving
+[archiwizowac]archiwizować (PL) : (cz.) archive
+[archiwolta]archiwolta (PL) : (rz.) archivolt
+[archiwowanie]archiwowanie (PL) : (rz.) archiving
+[archiwowac]archiwować (PL) : (cz.) archive
+[archiwum]archiwum (PL) : (rz.) archive; (rz.) archives
+[archont]archont (PL) : (rz.) archon
+[arcybiskup]arcybiskup (PL) : (rz.) archbishop
+[arcybiskupstwo]arcybiskupstwo (PL) : (rz.) archbishopric
+[arcydzielo]arcydzieło (PL) : (rz.) masterpiece
+[arcydziegiel]arcydzięgiel (PL) : (rz.) angelica; (rz.) ash
+[arcykaplan]arcykapłan (PL) : (rz.) archpriest; (rz.) pontiff
+[arcyksiaze]arcyksiążę (PL) : (rz.) archduke
+[arcyksiazecy]arcyksiążęcy (PL) : (p.) archducal
+[arcyksiestwo]arcyksięstwo (PL) : (rz.) archduchy
+[arcypasterz]arcypasterz (PL) : (rz.) bishops
+[areal]areał (PL) : (rz.) acreage; (rz.) area
+[arena]arena (PL) : (rz.) arena
+[arenda]arenda (PL) : (rz.) lease; (rz.) leasehold; (rz.) leasing
+[arendarz]arendarz (PL) : (rz.) publican
+[arendowac]arendować (PL) : (cz.) lease
+[areometr]areometr (PL) : (rz.) densitometer; (rz.) hydrometer
+[areszt]areszt (PL) : (rz.) array; (rz.) arrest; (rz.) attention; (rz.) custody; (rz.) detention; (rz.) glasshouse; (rz.) joint; (rz.) retention
+[aresztant]aresztant (PL) : (rz.) arrestee; (rz.) convict
+[aresztowanie]aresztowanie (PL) : (rz.) apprehension; (rz.) arrest; (rz.) seizure
+[aresztowac]aresztować (PL) : (cz.) apprehend; (cz.) arrest; (cz.) detain
+[argentyt]argentyt (PL) : (rz.) argentite
+[argon]argon (PL) : (rz.) argon
+[argument]argument (PL) : (rz.) argument; (rz.) operand
+[argumentacja]argumentacja (PL) : (rz.) argumentation; (rz.) reasoning; (rz.) submersion
+[argumentator]argumentator (PL) : (rz.) debater
+[argumentowanie]argumentowanie (PL) : (rz.) arguing; (rz.) argumentation
+[argumentowac]argumentować (PL) : (cz.) argue; (cz.) plead; (cz.) submit
+[aria]aria (PL) : (rz.) aria
+[ariergarda]ariergarda (PL) : (rz.) rearguard
+[arka]arka (PL) : (rz.) ark
+[arkada]arkada (PL) : (rz.) arcade
+[arkadowy]arkadowy (PL) : (p.) arcaded
+[arkady]arkady (PL) : (rz.) arcade
+[arkan]arkan (PL) : (rz.) lariat
+[arktyczny]arktyczny (PL) : (p.) arctic
+[arkusz]arkusz (PL) : (rz.) postcard; (rz.) sheet; (rz.) spreadsheet
+[arlekin]arlekin (PL) : (rz.) harlequin
+[arlekinada]arlekinada (PL) : (rz.) buffoonery; (rz.) harlequinade
+[armata]armata (PL) : (rz.) cannon; (rz.) gun
+[armatka]armatka (PL) : (rz.) gun
+[armator]armator (PL) : (rz.) outfitter; (rz.) owner
+[armatura]armatura (PL) : (rz.) armament; (rz.) armature; (rz.) fitting; (rz.) fittings; (rz.) fixture; (rz.) reinforcement
+[armia]armia (PL) : (rz.) army
+[arogancja]arogancja (PL) : (rz.) arrogance; (rz.) haughtiness
+[arogancki]arogancki (PL) : (p.) arrogant; (p.) brash; (p.) overweening; (p.) pert; (p.) presumptuous; (p.) rude
+[arogancko]arogancko (PL) : (p-sł.) arrogantly
+[aromat]aromat (PL) : (rz.) aroma; (rz.) fragrance; (rz.) odour; (rz.) savour; (rz.) scent; (rz.) zest
+[aromaterapia]aromaterapia (PL) : (rz.) aromatherapy
+[aromatycznie]aromatycznie (PL) : (p-sł.) aromatically; (p-sł.) fragrantly
+[aromatyczny]aromatyczny (PL) : (p.) aromatic; (p.) fragrant; (p.) redolent; (p.) savoury; (p.) spicy; (p.) tangy
+[aromatyzacja]aromatyzacja (PL) : (rz.) aromatization
+[aromatyzowac]aromatyzować (PL) : (cz.) aromatize
+[arsen]arsen (PL) : (rz.) arsenic
+[arsenal]arsenał (PL) : (rz.) armoury; (rz.) arsenal
+[arsenek]arsenek (PL) : (rz.) arsenide
+[arseniak]arseniak (PL) : (rz.) arsine
+[arsenian]arsenian (PL) : (rz.) arsenate
+[arsenowodor]arsenowodór (PL) : (rz.) arsine
+[arsenowy]arsenowy (PL) : (p.) arsenic
+[arsyna]arsyna (PL) : (rz.) arsine
+[arszenik]arszenik (PL) : (rz.) arsenic
+[artefakt]artefakt (PL) : (rz.) artefact
+[arteria]arteria (PL) : (rz.) artery; (rz.) thoroughfare
+[arterioskleroza]arterioskleroza (PL) : (rz.) arteriosclerosis
+[artezyjski]artezyjski (PL) : (p.) artesian
+[artretyczny]artretyczny (PL) : (p.) arthritic; (p.) gouty
+[artretyzm]artretyzm (PL) : (rz.) arthritis
+[artykulacja]artykulacja (PL) : (rz.) articulation
+[artykulik]artykulik (PL) : (rz.) par
+[artykul]artykuł (PL) : (rz.) article; (rz.) commodity; (rz.) contribution; (rz.) editorial; (rz.) implement; (rz.) item; (rz.) paper; (rz.) story; (rz.) vet
+[artykulowac]artykułować (PL) : (cz.) articulate
+[artykuly]artykuły (PL) : (rz.) articles
+[artyleria]artyleria (PL) : (rz.) artillery; (rz.) gunnery; (rz.) ordnance
+[artylerzysta]artylerzysta (PL) : (rz.) artillerist; (rz.) artilleryman; (rz.) artillery-man; (rz.) gunner
+[artysta]artysta (PL) : (rz.) artist; (rz.) artiste; (rz.) craftsman; (rz.) entertainer
+[artystycznie]artystycznie (PL) : (p-sł.) artistically
+[artystyczny]artystyczny (PL) : (p.) artistic; (p.) longhaired; (p.) long-haired
+[artyzm]artyzm (PL) : (rz.) artistry
+[aryjski]aryjski (PL) : (p.) Aryan
+[aryl]aryl (PL) : (rz.) aryl
+[arystokracja]arystokracja (PL) : (rz.) aristocracy; (rz.) nobility; (rz.) peerage; (rz.) rank
+[arystokrata]arystokrata (PL) : (rz.) aristocrat; (rz.) nobleman
+[arystokratyczny]arystokratyczny (PL) : (p.) aristocratic; (p.) patrician
+[arytmetycznie]arytmetycznie (PL) : (p-sł.) arithmetically
+[arytmetyczny]arytmetyczny (PL) : (p.) arithmetic; (p.) arithmetical
+[arytmetyk]arytmetyk (PL) : (rz.) arithmetician
+[arytmetyka]arytmetyka (PL) : (rz.) arithmetic; (rz.) sum
+[arytmia]arytmia (PL) : (rz.) arrhythmia
+[arytmometr]arytmometr (PL) : (rz.) calculator
+[as]as (PL) : (rz.) ace
+[asceta]asceta (PL) : (rz.) ascetic
+[ascetyczny]ascetyczny (PL) : (p.) ascetic; (p.) ascetical
+[ascetyzm]ascetyzm (PL) : (rz.) asceticism
+[asceza]asceza (PL) : (rz.) asceticism
+[aseksualny]aseksualny (PL) : (p.) asexual
+[asekuracja]asekuracja (PL) : (rz.) assurance; (rz.) insurance
+[asekurant]asekurant (PL) : (rz.) underwriter
+[asekurowac]asekurować (PL) : (cz.) insure
+[asembler]asembler (PL) : (rz.) assembler
+[asenizacja]asenizacja (PL) : (rz.) sanitation
+[aseptycznie]aseptycznie (PL) : (p-sł.) aseptically
+[aseptyczny]aseptyczny (PL) : (p.) aseptic
+[aseptyka]aseptyka (PL) : (rz.) asepsis
+[asercja]asercja (PL) : (rz.) assertion
+[asertywnosc]asertywność (PL) : (rz.) assertiveness; (rz.) self-assertion
+[asertywny]asertywny (PL) : (p.) assertive; (p.) self-assertive
+[asesor]asesor (PL) : (rz.) assessor
+[asfalt]asfalt (PL) : (rz.) asphalt; (rz.) bitumen; (rz.) tarmac
+[asfaltowanie]asfaltowanie (PL) : (rz.) asphalt
+[asfaltowac]asfaltować (PL) : (cz.) asphalt
+[askorbinowy]askorbinowy (PL) : (p.) ascorbic
+[asocjacja]asocjacja (PL) : (rz.) association
+[asocjacyjny]asocjacyjny (PL) : (p.) associational; (p.) associative
+[asonans]asonans (PL) : (rz.) assonance
+[asonansowy]asonansowy (PL) : (p.) assonant
+[asortyment]asortyment (PL) : (rz.) assortment; (rz.) range
+[aspekt]aspekt (PL) : (rz.) aspect; (rz.) dimension
+[aspektowy]aspektowy (PL) : (p.) aspectual
+[aspiracja]aspiracja (PL) : (rz.) ambition; (rz.) aspiration
+[aspirant]aspirant (PL) : (rz.) aspirant; (rz.) candidate; (rz.) midshipman
+[aspirata]aspirata (PL) : (rz.) aspirate
+[aspirator]aspirator (PL) : (rz.) aspirator
+[aspirowac]aspirować (PL) : (cz.) aspirate; (cz.) aspire
+[aspiryna]aspiryna (PL) : (rz.) aspirin
+[aspoleczny]aspołeczny (PL) : (p.) antisocial; (p.) asocial
+[astat]astat (PL) : (rz.) astatine
+[astenia]astenia (PL) : (rz.) asthenia
+[asteniczny]asteniczny (PL) : (p.) weak
+[aster]aster (PL) : (rz.) aster
+[asteroida]asteroida (PL) : (rz.) asteroid
+[asterysk]asterysk (PL) : (rz.) asterisk
+[asteryzm]asteryzm (PL) : (rz.) asterism
+[astma]astma (PL) : (rz.) asthma
+[astmatyczny]astmatyczny (PL) : (p.) asthmatic
+[astmatyk]astmatyk (PL) : (rz.) asthmatic
+[astralny]astralny (PL) : (p.) astral
+[astrobiologia]astrobiologia (PL) : (rz.) astrobiology
+[astrofizyka]astrofizyka (PL) : (rz.) astrophysics
+[astrofotografia]astrofotografia (PL) : (rz.) astrophotography
+[astrograf]astrograf (PL) : (rz.) astrograph
+[astrokompas]astrokompas (PL) : (rz.) astrocompass
+[astrokopula]astrokopuła (PL) : (rz.) astrodome
+[astrolabium]astrolabium (PL) : (rz.) astrolabe
+[astrolog]astrolog (PL) : (rz.) astrologer; (rz.) astrologist
+[astrologia]astrologia (PL) : (rz.) astrology
+[astrologiczny]astrologiczny (PL) : (p.) astrologic; (p.) astrological
+[astrometria]astrometria (PL) : (rz.) astrometry
+[astronauta]astronauta (PL) : (rz.) astronaut; (rz.) spaceman
+[astronautyka]astronautyka (PL) : (rz.) astronautics; (rz.) astronomy; (rz.) cosmonautics; (rz.) space
+[astronawigacja]astronawigacja (PL) : (rz.) astronavigation
+[astronom]astronom (PL) : (rz.) astronomer; (rz.) astronomers
+[astronomia]astronomia (PL) : (rz.) astronautics; (rz.) astronomy
+[astronomiczny]astronomiczny (PL) : (p.) astronomic; (p.) astronomical
+[astrowiezyczka]astrowieżyczka (PL) : (rz.) astrodome
+[astygmatyczny]astygmatyczny (PL) : (p.) astigmatic
+[astygmatyzm]astygmatyzm (PL) : (rz.) astigmatism
+[asumpt]asumpt (PL) : (rz.) occasion
+[asygnacja]asygnacja (PL) : (rz.) assignation
+[asygnata]asygnata (PL) : (rz.) assignation; (rz.) assignment
+[asygnowanie]asygnowanie (PL) : (rz.) appropriation; (rz.) budgeting
+[asygnowac]asygnować (PL) : (cz.) allocate; (cz.) allot; (cz.) appropriate; (cz.) earmark
+[asymetria]asymetria (PL) : (rz.) asymmetry; (rz.) dissymmetry
+[asymetryczny]asymetryczny (PL) : (p.) asymmetric; (p.) asymmetrical
+[asymilacja]asymilacja (PL) : (rz.) assimilation; (rz.) uptake
+[asymilacyjny]asymilacyjny (PL) : (p.) assimilative
+[asymilowac]asymilować (PL) : (cz.) assimilate
+[asymptota]asymptota (PL) : (rz.) asymptote
+[asymptotyczny]asymptotyczny (PL) : (p.) asymptotic; (p.) asymptotical
+[asynchroniczny]asynchroniczny (PL) : (p.) asynchronous
+[asysta]asysta (PL) : (rz.) assistance; (rz.) company; (rz.) escort
+[asystent]asystent (PL) : (rz.) aide; (rz.) assistant; (rz.) houseman; (rz.) midshipman
+[asystentura]asystentura (PL) : (rz.) assistantship; (rz.) assistantships
+[asystowac]asystować (PL) : (cz.) accompany; (cz.) assist
+[atak]atak (PL) : (rz.) access; (rz.) assault; (rz.) attack; (rz.) bout; (rz.) fit; (rz.) offensive; (rz.) raid; (rz.) spasm
+[atakowac]atakować (PL) : (cz.) affect; (cz.) assail; (cz.) assault; (cz.) attack; (cz.) attempt; (cz.) charge; (cz.) invade; (cz.) strike; (cz.) tilt
+[ataksja]ataksja (PL) : (rz.) ataxia
+[atawistyczny]atawistyczny (PL) : (p.) atavistic
+[atawizm]atawizm (PL) : (rz.) atavism; (rz.) reversion
+[ateista]ateista (PL) : (rz.) atheist; (rz.) unbeliever
+[ateistyczny]ateistyczny (PL) : (p.) atheistic
+[ateizm]ateizm (PL) : (rz.) atheism
+[atelier]atelier (PL) : (rz.) atelier
+[atencja]atencja (PL) : (rz.) attention; (rz.) deference
+[atest]atest (PL) : (rz.) attestation; (rz.) certificate
+[atestacja]atestacja (PL) : (rz.) attestation; (rz.) validation
+[atestowac]atestować (PL) : (cz.) attest; (cz.) certify
+[atlant]atlant (PL) : (rz.) atlas
+[atlas]atlas (PL) : (rz.) atlas
+[atleta]atleta (PL) : (rz.) athlete; (rz.) strongman
+[atletycznie]atletycznie (PL) : (p-sł.) athletically
+[atletyczny]atletyczny (PL) : (p.) athletic
+[atletyka]atletyka (PL) : (rz.) athletics
+[atmosfera]atmosfera (PL) : (rz.) air; (rz.) ambiance; (rz.) ambience; (rz.) atmosphere; (rz.) character; (rz.) mood
+[atmosferyczny]atmosferyczny (PL) : (p.) atmospheric
+[atol]atol (PL) : (rz.) atoll
+[atom]atom (PL) : (rz.) atom; (rz.) atomy
+[atomista]atomista (PL) : (rz.) atomist
+[atomistyczny]atomistyczny (PL) : (p.) atomic
+[atomistyka]atomistyka (PL) : (rz.) atomics; (rz.) atomism
+[atomizacja]atomizacja (PL) : (rz.) atomization
+[atomizm]atomizm (PL) : (rz.) atomism
+[atomizowac]atomizować (PL) : (cz.) atomize
+[atomowo]atomowo (PL) : (p-sł.) atomically
+[atomowosc]atomowość (PL) : (rz.) atomicity
+[atomowy]atomowy (PL) : (p.) atomic; (p.) atomics; (p.) nuclear
+[atonalnosc]atonalność (PL) : (rz.) atonality
+[atonalny]atonalny (PL) : (p.) atonal
+[atrakcja]atrakcja (PL) : (rz.) attraction; (rz.) diversion; (rz.) excitement
+[atrakcyjnie]atrakcyjnie (PL) : (p-sł.) attractively
+[atrakcyjnosc]atrakcyjność (PL) : (rz.) attraction; (rz.) attractiveness; (rz.) marketability
+[atrakcyjny]atrakcyjny (PL) : (p.) attractive; (p.) desirable; (p.) fetching; (p.) good; (p.) good-looking; (p.) handsome; (p.) nice-looking
+[atrament]atrament (PL) : (rz.) ink
+[atramentowy]atramentowy (PL) : (p.) inky
+[atrapa]atrapa (PL) : (rz.) catch; (rz.) dummy
+[atrofia]atrofia (PL) : (rz.) atrophy; (rz.) atrophying
+[atroficzny]atroficzny (PL) : (p.) atrophied
+[atropina]atropina (PL) : (rz.) atropine; (rz.) belladonna
+[atrybucja]atrybucja (PL) : (rz.) attribution
+[atrybut]atrybut (PL) : (rz.) attribute; (rz.) characteristic
+[atrybutywny]atrybutywny (PL) : (p.) attributive
+[attyka]attyka (PL) : (rz.) attic
+[atut]atut (PL) : (rz.) asset; (rz.) ruff; (rz.) trump
+[atypowy]atypowy (PL) : (p.) atypical
+[atlas]atłas (PL) : (rz.) satin
+[atlasowy]atłasowy (PL) : (p.) satin; (p.) satiny; (p.) silky
+[audiencja]audiencja (PL) : (rz.) audience
+[audiogram]audiogram (PL) : (rz.) audiogram
+[audiometr]audiometr (PL) : (rz.) audiometer
+[audiometryczny]audiometryczny (PL) : (p.) audiometric
+[audiowizualny]audiowizualny (PL) : (p.) audiovisual; (p.) audio-visual
+[audycja]audycja (PL) : (rz.) broadcast; (rz.) show
+[audyt]audyt (PL) : (rz.) audit
+[audytor]audytor (PL) : (rz.) auditor; (rz.) judge-advocate
+[audytorium]audytorium (PL) : (rz.) audience; (rz.) auditorium
+[aukcja]aukcja (PL) : (rz.) auction; (rz.) item; (rz.) sale
+[auksanometr]auksanometr (PL) : (rz.) auxanometer
+[aula]aula (PL) : (rz.) hall
+[aura]aura (PL) : (rz.) weather
+[aureola]aureola (PL) : (rz.) aureole; (rz.) halation; (rz.) halo
+[aurypigment]aurypigment (PL) : (rz.) orpiment
+[auskultacja]auskultacja (PL) : (rz.) auscultation
+[auspicje]auspicje (PL) : (rz.) auspices; (rz.) patronage
+[austenit]austenit (PL) : (rz.) austenite
+[austeria]austeria (PL) : (rz.) inn
+[auszpik]auszpik (PL) : (rz.) aspic
+[aut]aut (PL) : (rz.) cars
+[autarchia]autarchia (PL) : (rz.) autarchy
+[autarkia]autarkia (PL) : (rz.) autarchy; (rz.) autarky
+[autentycznie]autentycznie (PL) : (p-sł.) authentically
+[autentycznosc]autentyczność (PL) : (rz.) authenticity; (rz.) genuineness
+[autentyczny]autentyczny (PL) : (p.) authentic; (p.) genuine; (p.) kosher; (p.) literal; (p.) original; (p.) serious
+[autentyk]autentyk (PL) : (rz.) original
+[autentyzm]autentyzm (PL) : (rz.) authenticity
+[auto]auto (PL) : (rz.) auto
+[autoanaliza]autoanaliza (PL) : (rz.) self-analysis
+[autobiografia]autobiografia (PL) : (rz.) autobiography
+[autobiograficznie]autobiograficznie (PL) : (p-sł.) autobiographically
+[autobiograficzny]autobiograficzny (PL) : (p.) autobiographic; (p.) autobiographical
+[autobus]autobus (PL) : (rz.) bus; (rz.) coach; (rz.) jitney; (rz.) motorbus; (rz.) omnibus; (rz.) terminus
+[autochton]autochton (PL) : (rz.) autochthon; (rz.) foreigner
+[autochtoni]autochtoni (PL) : (rz.) aborigines
+[autochtoniczny]autochtoniczny (PL) : (p.) autochthonous; (p.) indigenous; (p.) native
+[autochtonski]autochtoński (PL) : (p.) autochthonous
+[autodestrukcja]autodestrukcja (PL) : (rz.) self-destruction
+[autodydakta]autodydakta (PL) : (rz.) self
+[autodydaktyczny]autodydaktyczny (PL) : (p.) self-taught
+[autodyna]autodyna (PL) : (rz.) autodyne
+[autofilia]autofilia (PL) : (rz.) selfishness
+[autogeneza]autogeneza (PL) : (rz.) autogenesis
+[autogeniczny]autogeniczny (PL) : (p.) autogenic
+[autograf]autograf (PL) : (rz.) autograph; (rz.) signature
+[autografia]autografia (PL) : (rz.) autograph; (rz.) autography
+[autografowanie]autografowanie (PL) : (rz.) autographing; (rz.) autographs
+[autokar]autokar (PL) : (rz.) charabanc; (rz.) char-a-banc; (rz.) coach; (rz.) motor-coach
+[autokataliza]autokataliza (PL) : (rz.) autocatalysis
+[autoklaw]autoklaw (PL) : (rz.) autoclave
+[autokorelacja]autokorelacja (PL) : (rz.) autocorrelation
+[autokracja]autokracja (PL) : (rz.) autarky; (rz.) autocracy
+[autokrata]autokrata (PL) : (rz.) autocrat
+[autokratyczny]autokratyczny (PL) : (p.) autocratic
+[autokrytycyzm]autokrytycyzm (PL) : (rz.) self
+[autoliza]autoliza (PL) : (rz.) autolysis
+[automat]automat (PL) : (rz.) automaton; (rz.) device
+[automatycznie]automatycznie (PL) : (p-sł.) automatically
+[automatyczny]automatyczny (PL) : (p.) automatic; (p.) self-acting
+[automatyka]automatyka (PL) : (rz.) automatic; (rz.) automatics; (rz.) automation
+[automatyzacja]automatyzacja (PL) : (rz.) automation
+[automatyzm]automatyzm (PL) : (rz.) automatism
+[automatyzowac]automatyzować (PL) : (cz.) automate
+[automobil]automobil (PL) : (rz.) automobile
+[automobilista]automobilista (PL) : (rz.) motorist
+[automobilizm]automobilizm (PL) : (rz.) motoring
+[autonomia]autonomia (PL) : (rz.) autonomy
+[autonomicznie]autonomicznie (PL) : (p-sł.) autonomously
+[autonomiczny]autonomiczny (PL) : (p.) autonomic; (p.) autonomous; (p.) offline; (p.) standalone
+[autonomista]autonomista (PL) : (rz.) autonomist
+[autopilot]autopilot (PL) : (rz.) autopilot
+[autoportret]autoportret (PL) : (rz.) self; (rz.) self-portrait
+[autopsja]autopsja (PL) : (rz.) autopsy
+[autor]autor (PL) : (rz.) author; (rz.) penman; (rz.) writer
+[autorament]autorament (PL) : (rz.) class; (rz.) sort
+[autoreklama]autoreklama (PL) : (rz.) self; (rz.) self-advertisement; (rz.) self-advertising
+[autorka]autorka (PL) : (rz.) authoress
+[autorotacja]autorotacja (PL) : (rz.) autorotation
+[autorski]autorski (PL) : (p.) author's; (p.) copyright
+[autorstwo]autorstwo (PL) : (rz.) author; (rz.) authorship
+[autorytarny]autorytarny (PL) : (p.) authoritarian
+[autorytaryzm]autorytaryzm (PL) : (rz.) authoritarianism
+[autorytatywnosc]autorytatywność (PL) : (rz.) authoritarianism; (rz.) dictatorship
+[autorytatywny]autorytatywny (PL) : (p.) authoritarian; (p.) authoritative
+[autorytet]autorytet (PL) : (rz.) authority
+[autoryzacja]autoryzacja (PL) : (rz.) authentication; (rz.) authorising; (rz.) authorization
+[autoryzowanie]autoryzowanie (PL) : (rz.) authorization
+[autoryzowany]autoryzowany (PL) : (p.) authorized
+[autoryzowac]autoryzować (PL) : (cz.) authorise; (cz.) authorize
+[autostop]autostop (PL) : (rz.) gamble; (rz.) hitch-hiking
+[autostopowicz]autostopowicz (PL) : (rz.) hitchhiker; (rz.) hitch-hiker
+[autostrada]autostrada (PL) : (rz.) autobahn; (rz.) expressway; (rz.) freeway; (rz.) highway; (rz.) motorway; (rz.) speedway; (rz.) superhighway; (rz.) throughway
+[autosugestia]autosugestia (PL) : (rz.) autosuggestion
+[autotransformator]autotransformator (PL) : (rz.) autotransformer
+[autotrof]autotrof (PL) : (rz.) autotrophic
+[autotypia]autotypia (PL) : (rz.) autotype
+[autowy]autowy (PL) : (p.) out
+[autozyro]autożyro (PL) : (rz.) autogiro; (rz.) gyroplane
+[autystyczny]autystyczny (PL) : (p.) autistic
+[autyzm]autyzm (PL) : (rz.) autism
+[awangarda]awangarda (PL) : (rz.) avant-garde; (rz.) vanguard
+[awangardowy]awangardowy (PL) : (p.) avant-garde
+[awangardyzm]awangardyzm (PL) : (rz.) vanguard
+[awans]awans (PL) : (rz.) advance; (rz.) advancement; (rz.) brevet; (rz.) breveted; (rz.) position; (rz.) preferment; (rz.) promotion
+[awansowac]awansować (PL) : (cz.) advance; (cz.) breveted; (cz.) promote; (cz.) promoted
+[awantaz]awantaż (PL) : (rz.) asset
+[awantura]awantura (PL) : (rz.) affray; (rz.) bluster; (rz.) brawl; (rz.) broil; (rz.) disturbance; (rz.) fracas; (rz.) fuss; (rz.) quarrel; (rz.) racket; (rz.) row; (rz.) ruction; (rz.) rumpus; (rz.) scandal; (rz.) scene; (rz.) scrimmage
+[awanturnictwo]awanturnictwo (PL) : (rz.) fussiness; (rz.) rowdiness
+[awanturniczo]awanturniczo (PL) : (p-sł.) rowdily; (p-sł.) stormily
+[awanturniczosc]awanturniczość (PL) : (rz.) fussiness
+[awanturniczy]awanturniczy (PL) : (p.) adventurous; (p.) hazardous; (p.) rackety; (p.) rowdy; (p.) swashbuckling
+[awanturnik]awanturnik (PL) : (rz.) adventurer; (rz.) brawler; (rz.) pettifogger; (rz.) rowdy; (rz.) ruffian; (rz.) wrangler
+[awanturowac]awanturować (PL) : (cz.) brawl; (cz.) bully; (cz.) hector
+[awaria]awaria (PL) : (rz.) accident; (rz.) average; (rz.) breakdown; (rz.) catastrophe; (rz.) damage; (rz.) failure; (rz.) incident; (rz.) malfunction
+[awaryjnosc]awaryjność (PL) : (rz.) failure
+[awatar]awatar (PL) : (rz.) avatar
+[awers]awers (PL) : (rz.) obverse; (rz.) side
+[awersja]awersja (PL) : (rz.) averseness; (rz.) aversion; (rz.) distaste
+[awifauna]awifauna (PL) : (rz.) avifauna
+[awionetka]awionetka (PL) : (rz.) airplane
+[awionika]awionika (PL) : (rz.) avionics
+[awizacja]awizacja (PL) : (rz.) notification
+[awizo]awizo (PL) : (rz.) advice; (rz.) notice; (rz.) notification
+[awizowac]awizować (PL) : (cz.) notify
+[awokado]awokado (PL) : (rz.) avocado
+[azalia]azalia (PL) : (rz.) azalea
+[azbest]azbest (PL) : (rz.) asbestos
+[azbestoza]azbestoza (PL) : (rz.) asbestosis
+[azot]azot (PL) : (rz.) nitrogen
+[azotan]azotan (PL) : (rz.) nitrate
+[azotawy]azotawy (PL) : (p.) nitrous
+[azotek]azotek (PL) : (rz.) nitride
+[azotowanie]azotowanie (PL) : (rz.) nitration
+[azotowac]azotować (PL) : (cz.) nitrify
+[azotowy]azotowy (PL) : (p.) nitric; (p.) nitrogenous
+[azotyn]azotyn (PL) : (rz.) nitrite
+[azuryt]azuryt (PL) : (rz.) azurite
+[azyl]azyl (PL) : (rz.) asylum; (rz.) sanctuary; (rz.) sanctum
+[azylant]azylant (PL) : (rz.) asylum
+[azymut]azymut (PL) : (rz.) azimuth
+[alamucic]ałamucić (PL) : (cz.) coquet
+[alun]ałun (PL) : (rz.) alum
+[az]aż (PL) : (spójnik) so; (spójnik) till; (spójnik) until
+[azeby]ażeby (PL) : (spójnik) for; (spójnik) that
+[azio]ażio (PL) : (rz.) premium
+[azur]ażur (PL) : (rz.) openwork
+[azurek]ażurek (PL) : (rz.) hemstitch
+[azurowac]ażurować (PL) : (cz.) pink

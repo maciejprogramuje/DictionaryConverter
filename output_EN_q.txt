@@ -1,0 +1,157 @@
+[quaker]Quaker (EN) : (rz.) kwakier
+[qua]qua (EN) : (p-im.) jako
+[quack]quack (EN) : (cz.) kwakać; (rz.) konował; (rz.) kwakanie; (rz.) szalbierz; (rz.) szarlatan; (rz.) znachor
+[quackery]quackery (EN) : (rz.) szarlataneria; (rz.) szarlataństwo; (rz.) znachorstwo
+[quad]quad (EN) : (rz.) czworobok; (rz.) kwadrat
+[quadrangle]quadrangle (EN) : (rz.) czworobok; (rz.) czworokąt; (rz.) dziedziniec
+[quadrangular]quadrangular (EN) : (p.) czworoboczny; (p.) czworokątny
+[quadrant]quadrant (EN) : (rz.) ćwiartka; (rz.) kwadrant
+[quadrants]quadrants (EN) : (rz.) kwadrant
+[quadrate]quadrate (EN) : (p.) czworoboczny
+[quadratic]quadratic (EN) : (p.) kwadratowy
+[quadric]quadric (EN) : (p.) kwadratowy
+[quadrilateral]quadrilateral (EN) : (p.) czworoboczny; (rz.) czworobok; (rz.) czworokąt
+[quadrille]quadrille (EN) : (rz.) kadryl; (rz.) kontredans
+[quadrillion]quadrillion (EN) : (rz.) kwadrylion
+[quadruped]quadruped (EN) : (p.) czworonożny; (rz.) czworonóg
+[quadruple]quadruple (EN) : (p.) poczwórny
+[quadruplets]quadruplets (EN) : (rz.) czworaczki
+[quaff]quaff (EN) : (cz.) ucztować; (cz.) wyżłopać; (cz.) żłopać
+[quagmire]quagmire (EN) : (rz.) bagno; (rz.) grzęzawisko; (rz.) trzęsawisko
+[quail]quail (EN) : (cz.) cofać; (cz.) lękać; (cz.) obalać; (cz.) obalić; (cz.) ociągać; (rz.) przemoc; (rz.) przepiórka
+[quaint]quaint (EN) : (p.) ciekawy; (p.) dziwny; (p.) ekscentryczny; (p.) fantastyczny; (p.) niezwykły; (p.) oryginalny; (p.) osobliwy; (p.) unikalny
+[quaintly]quaintly (EN) : (p-sł.) osobliwie
+[quaintness]quaintness (EN) : (rz.) oryginalność; (rz.) osobliwość
+[quake]quake (EN) : (cz.) drżeć; (cz.) trząść; (rz.) drżenie; (rz.) trzęsienie; (rz.) wstrząs
+[quaky]quaky (EN) : (p.) grząski
+[qualification]qualification (EN) : (rz.) cenzus; (rz.) kwalifikacja; (rz.) ograniczenie; (rz.) warunek; (rz.) zastrzeżenie; (rz.) zdolność
+[qualifications]qualifications (EN) : (rz.) kwalifikacje
+[qualified]qualified (EN) : (p.) dyplomowany; (p.) kwalifikowany; (p.) uprawniony
+[qualifier]qualifier (EN) : (rz.) kwalifikator; (rz.) kwantyfikator; (rz.) zastrzeżenie
+[qualify]qualify (EN) : (cz.) kwalifikować; (cz.) łagodzić; (cz.) modyfikować; (cz.) ograniczać; (cz.) określać; (cz.) otrzymywać; (cz.) przysposabiać; (cz.) upoważniać; (cz.) uściślać; (cz.) uzdolnić; (cz.) uzyskać; (cz.) wykwalifikować; (cz.) zakwalifikować
+[qualifying]qualifying (EN) : (p.) dyplomowy; (p.) eliminacyjny; (p.) kwalifikacyjny
+[qualitative]qualitative (EN) : (p.) jakościowy
+[qualitatively]qualitatively (EN) : (p-sł.) jakościowo
+[quality]quality (EN) : (rz.) cecha; (rz.) gatunek; (rz.) jakość; (rz.) przymiot; (rz.) właściwość
+[qualm]qualm (EN) : (rz.) niepokój; (rz.) osłabienie; (rz.) skrupuł; (rz.) skrupuły; (rz.) wątpliwość
+[quandary]quandary (EN) : (rz.) kłopot; (rz.) rozterka
+[quantifiable]quantifiable (EN) : (p.) policzalny
+[quantification]quantification (EN) : (rz.) kwantyfikacja
+[quantified]quantified (EN) : (cz.) kwantyfikować
+[quantifier]quantifier (EN) : (rz.) kwantyfikator
+[quantify]quantify (EN) : (cz.) szacować
+[quantitative]quantitative (EN) : (p.) ilościowy; (p.) kwantytatywny
+[quantitatively]quantitatively (EN) : (p-sł.) ilościowo; (p-sł.) kwantytatywnie
+[quantity]quantity (EN) : (rz.) iloczas; (rz.) ilość; (rz.) masa; (rz.) wielkość
+[quantization]quantization (EN) : (rz.) kwantowanie; (rz.) kwantyzacja
+[quantum]quantum (EN) : (rz.) kwant; (rz.) kwantowanie; (rz.) kwantum
+[quarantine]quarantine (EN) : (rz.) kwarantanna
+[quark]quark (EN) : (rz.) kwark
+[quarrel]quarrel (EN) : (cz.) czubić; (cz.) drzeć; (cz.) handryczyć; (cz.) kłócić; (cz.) pokłócić; (cz.) poróżnić; (cz.) posprzeczać; (cz.) skłócić; (cz.) waśnić; (cz.) żreć; (rz.) awantura; (rz.) bełt; (rz.) kłótnia; (rz.) swar; (rz.) waśń; (rz.) zwada
+[quarrelsome]quarrelsome (EN) : (p.) czupurny; (p.) kłótliwy; (p.) napastliwy; (p.) niezgodny; (p.) swarliwy; (p.) zadziorny
+[quarrelsomeness]quarrelsomeness (EN) : (rz.) kłótliwość
+[quarry]quarry (EN) : (cz.) wydobywać; (rz.) kamieniołom; (rz.) łup; (rz.) pastwa; (rz.) zdobycz
+[quarryman]quarryman (EN) : (rz.) skalnik
+[quart]quart (EN) : (rz.) kwarta; (rz.) sekwens
+[quarter]quarter (EN) : (cz.) ćwiartować; (cz.) kwaterować; (cz.) rozkwaterować; (cz.) rozlokować; (cz.) stacjonować; (rz.) ćwiartka; (rz.) ćwierć; (rz.) ćwierćfinał; (rz.) czwarta; (rz.) dzielnica; (rz.) kwadra; (rz.) kwadrans; (rz.) kwarta; (rz.) kwartał; (rz.) łaska; (rz.) przebaczenie; (rz.) stacjonowanie; (rz.) zakwaterowanie; (rz.) źródło
+[quarter-deck]quarter-deck (EN) : (rz.) nadbudówka; (rz.) szaniec
+[quarter-final]quarter-final (EN) : (rz.) ćwierćfinał
+[quarterdeck]quarterdeck (EN) : (rz.) nadbudówka; (rz.) szaniec
+[quarterfinal]quarterfinal (EN) : (p.) ćwierćfinałowy; (rz.) ćwierćfinał
+[quarterly]quarterly (EN) : (p.) kwartalny; (p-sł.) kwartalnie; (rz.) kwartalnik
+[quartermaster]quartermaster (EN) : (rz.) kwatermistrz; (rz.) sternik
+[quartermaster's]quartermaster's (EN) : (p.) kwatermistrzowski
+[quartet]quartet (EN) : (rz.) kwartet
+[quartz]quartz (EN) : (rz.) kwarc
+[quartzite]quartzite (EN) : (rz.) kwarcyt
+[quasar]quasar (EN) : (rz.) kwazar; (rz.) nibygwiazda
+[quash]quash (EN) : (cz.) skasować; (cz.) stłumiać; (cz.) stłumić; (cz.) tłumić; (cz.) uchylać; (cz.) udusić; (cz.) unieważniać; (cz.) zgnieść
+[quasi]quasi (EN) : (p-sł.) niby; (p-sł.) pozornie; (p-sł.) prawie
+[quasi-component]quasi-component (EN) : (rz.) quasi-składowa
+[quasi-instruction]quasi-instruction (EN) : (rz.) pseudorozkaz
+[quasi-linear]quasi-linear (EN) : (p.) quasi-liniowy
+[quasi-particles]quasi-particles (EN) : (rz.) quasi-cząstki
+[quaternary]quaternary (EN) : (p.) czwartorzędowy; (p.) czwórkowy; (p.) poczwórny
+[quaternion]quaternion (EN) : (rz.) kwaternion
+[quatrain]quatrain (EN) : (rz.) czterowiersz
+[quaver]quaver (EN) : (cz.) drżeć; (cz.) wibrować; (cz.) zadrżeć; (rz.) drżenie; (rz.) mówienie; (rz.) tryl; (rz.) wibrowanie
+[quay]quay (EN) : (rz.) molo; (rz.) nabrzeże; (rz.) nadbrzeże
+[quayside]quayside (EN) : (rz.) keja; (rz.) nabrzeże
+[quean]quean (EN) : (rz.) pinda
+[queasy]queasy (EN) : (p.) delikatny; (p.) grymaśny; (p.) mdły; (p.) niespokojny; (p.) wrażliwy
+[queen]queen (EN) : (rz.) dama; (rz.) królowa
+[queenly]queenly (EN) : (p.) królewski
+[queer]queer (EN) : (p.) dziwaczny; (p.) dziwny; (p.) podejrzany; (p.) wątpliwy; (rz.) dziwa; (rz.) dziwaczność; (rz.) dziwność; (rz.) homoseksualista; (rz.) niezwykłość; (rz.) pedał; (rz.) podejrzenie
+[queerly]queerly (EN) : (p-sł.) dziwnie
+[queerness]queerness (EN) : (rz.) dziwaczność
+[quell]quell (EN) : (cz.) tłumić; (cz.) uciskać; (cz.) uśmierzać; (cz.) wciskać; (cz.) zdławić; (cz.) zdusić
+[quench]quench (EN) : (cz.) chłodzić; (cz.) gasić; (cz.) hartować; (cz.) ostudzać; (cz.) ostudzić; (cz.) stłumiać; (cz.) stłumić; (cz.) tłumić; (cz.) ugasić; (cz.) ugaszać; (cz.) zaspokajać; (cz.) zaspokoić; (cz.) zgasić
+[quenched]quenched (EN) : (cz.) ugasić
+[quenelle]quenelle (EN) : (rz.) klops
+[quern]quern (EN) : (rz.) młynek; (rz.) żarna
+[querulous]querulous (EN) : (p.) kłótliwy; (p.) zrzędny
+[query]query (EN) : (cz.) badać; (cz.) kwestionować; (cz.) pytać; (rz.) kwerenda; (rz.) przeszukiwanie; (rz.) pytanie; (rz.) wątpliwość; (rz.) zapytanie; (rz.) zapytywanie
+[quest]quest (EN) : (rz.) poszukiwanie; (rz.) rewizja
+[question]question (EN) : (cz.) kwestionować; (cz.) odpytywać; (cz.) podważać; (cz.) przepytać; (cz.) przesłuchać; (cz.) pytać; (cz.) wątpić; (cz.) zakwestionować; (rz.) kwestia; (rz.) mowa; (rz.) pytajnik; (rz.) pytanie; (rz.) warunek; (rz.) wątpliwość; (rz.) zagadnienie; (rz.) zagwozdka; (rz.) zapytanie; (rz.) zastrzeżenie
+[question-mark]question-mark (EN) : (rz.) pytajnik
+[questionable]questionable (EN) : (p.) niepewny; (p.) problematyczny; (p.) sporny; (p.) wątpliwy
+[questionably]questionably (EN) : (p-sł.) spornie
+[questioner]questioner (EN) : (rz.) interpelant; (rz.) przesłuchiwanie
+[questionnaire]questionnaire (EN) : (rz.) ankieta; (rz.) formularz; (rz.) kwestionariusz
+[queue]queue (EN) : (rz.) kolejka; (rz.) warkocz
+[queuing]queuing (EN) : (rz.) kolejkowanie
+[quibble]quibble (EN) : (cz.) wykręcać; (rz.) wybieg
+[quick]quick (EN) : (p.) bystry; (p.) prędki; (p.) skory; (p.) szybki; (p.) zwinny; (p.) żywy; (p-sł.) prędko; (p-sł.) szybko; (p-sł.) żwawo
+[quick-drier]quick-drier (EN) : (rz.) suszka; (rz.) sykatywa
+[quick-firing]quick-firing (EN) : (p.) szybkostrzelny
+[quick-running]quick-running (EN) : (p.) szybkobieżny
+[quick-witted]quick-witted (EN) : (p.) bystry
+[quicken]quicken (EN) : (cz.) ożywiać; (cz.) ożywić; (cz.) przyspieszać; (cz.) przyśpieszyć
+[quicker]quicker (EN) : (p.) błyskawiczny; (p.) szybki
+[quickie]quickie (EN) : (rz.) łatwizna
+[quickly]quickly (EN) : (p-sł.) pobieżnie; (p-sł.) prędko; (p-sł.) rychło; (p-sł.) szybko
+[quickness]quickness (EN) : (rz.) światłoczułość; (rz.) szybkość
+[quicksand]quicksand (EN) : (rz.) kurzawa; (rz.) kurzawka
+[quickset]quickset (EN) : (p.) gęsty; (rz.) żywopłot
+[quicksilver]quicksilver (EN) : (rz.) rtęć
+[quid]quid (EN) : (rz.) funt; (rz.) prymka
+[quiescence]quiescence (EN) : (rz.) bezruch; (rz.) spoczynek
+[quiescent]quiescent (EN) : (p.) bierny; (p.) cichy; (p.) nieruchomy; (p.) spokojny
+[quiet]quiet (EN) : (cz.) uspakajać; (cz.) uspokajać; (cz.) uspokoić; (p.) bezwietrzny; (p.) cichy; (p.) dyskretny; (p.) spokojny; (p.) zaciszny; (rz.) cisza; (rz.) milczenie; (rz.) spokój
+[quieten]quieten (EN) : (cz.) uciszać; (cz.) uspokajać
+[quietly]quietly (EN) : (p-sł.) cicho; (p-sł.) spokojnie
+[quietness]quietness (EN) : (rz.) cisza; (rz.) spokój
+[quietude]quietude (EN) : (rz.) cisza; (rz.) spokój
+[quill]quill (EN) : (rz.) kołdra; (rz.) kolec; (rz.) lotka; (rz.) pióro; (rz.) tuleja
+[quilt]quilt (EN) : (cz.) pikować; (cz.) przepikować; (cz.) stebnować; (cz.) stębnować; (cz.) wypikować; (cz.) wywatować; (rz.) kołdra; (rz.) narzuta
+[quince]quince (EN) : (rz.) pigwa
+[quincunx]quincunx (EN) : (rz.) kwinkunks
+[quinine]quinine (EN) : (rz.) chinina
+[quintal]quintal (EN) : (rz.) cetnar; (rz.) kwintal
+[quintessence]quintessence (EN) : (rz.) kwintesencja
+[quintessential]quintessential (EN) : (p.) istotny; (p.) typowy; (p.) ważny
+[quintet]quintet (EN) : (rz.) kwintet; (rz.) piątka
+[quintillion]quintillion (EN) : (rz.) kwintylion; (rz.) trylion
+[quintuple]quintuple (EN) : (p.) pięcioraki
+[quintuplets]quintuplets (EN) : (rz.) pięcioraczki
+[quip]quip (EN) : (cz.) żartować; (rz.) dowcip; (rz.) żarcie; (rz.) żart
+[quire]quire (EN) : (rz.) chór; (rz.) libra
+[quirk]quirk (EN) : (rz.) dziwactwo; (rz.) wykrętas; (rz.) zawijas; (rz.) zrządzenie
+[quirky]quirky (EN) : (p.) dziwny
+[quirt]quirt (EN) : (rz.) pejcz
+[quit]quit (EN) : (cz.) kwitować; (cz.) opuszczać; (cz.) płacić; (cz.) porzucać; (cz.) porzucić; (cz.) przerwać; (cz.) przerywać; (cz.) przestać; (cz.) przestawać; (cz.) rezygnować; (cz.) rzucać; (cz.) rzucić; (cz.) wyjechać; (cz.) wyjść; (cz.) zaniechać; (cz.) zrezygnować; (p.) wolny; (rz.) rzucanie
+[quitclaim]quitclaim (EN) : (cz.) zrzekać
+[quite]quite (EN) : (p-sł.) całkiem; (p-sł.) całkowicie; (p-sł.) dość; (p-sł.) dosyć; (p-sł.) niemało; (p-sł.) prawdziwie; (p-sł.) wcale; (p-sł.) właśnie; (p-sł.) zgoła; (p-sł.) zupełnie
+[quittance]quittance (EN) : (rz.) odwet; (rz.) pokwitowanie; (rz.) uwolnienie
+[quiver]quiver (EN) : (cz.) drżeć; (cz.) trzepotać; (rz.) drganie; (rz.) drżenie; (rz.) kołczan; (rz.) trzepotanie
+[quiz]quiz (EN) : (cz.) nabierać; (cz.) naciągać; (cz.) przepytywać; (cz.) żartować; (rz.) kpiarz; (rz.) kwiz; (rz.) naciąganie; (rz.) teleturniej; (rz.) zagadka; (rz.) zgadywanka
+[quizzical]quizzical (EN) : (p.) dziwaczny; (p.) figlarny; (p.) kpiarski; (p.) żartobliwy
+[quoin]quoin (EN) : (rz.) klin; (rz.) naroże; (rz.) narożnik; (rz.) węgieł
+[quondam]quondam (EN) : (p.) były
+[quorum]quorum (EN) : (rz.) kworum; (rz.) większość
+[quota]quota (EN) : (rz.) kontyngent; (rz.) limit; (rz.) przydział; (rz.) udział
+[quotation]quotation (EN) : (rz.) ceduła; (rz.) cytat; (rz.) cytowanie; (rz.) notowanie; (rz.) przytoczenie; (rz.) wycena; (rz.) zacytowanie
+[quotation-marks]quotation-marks (EN) : (rz.) cudzysłów
+[quote]quote (EN) : (cz.) cytować; (cz.) notować; (cz.) podawać; (cz.) powoływać; (cz.) przetoczyć; (cz.) wyceniać; (cz.) zacytować; (rz.) cudzysłów; (rz.) cytat; (rz.) kosztorys; (rz.) wycena
+[quotidian]quotidian (EN) : (p.) codzienny
+[quotient]quotient (EN) : (rz.) iloraz

@@ -1,0 +1,2869 @@
+[kamila]Kamila (PL) : (rz.) Camille
+[kanada]Kanada (PL) : (rz.) Canada
+[karol]Karol (PL) : (rz.) Charles; (rz.) Charlie
+[karolina]Karolina (PL) : (rz.) Carolyn
+[kasia]Kasia (PL) : (rz.) Kathy
+[katarzyna]Katarzyna (PL) : (rz.) Kate
+[kolenda]Kolenda (PL) : (rz.) carol
+[koniogodzina]Koniogodzina (PL) : (rz.) horsepower-hour
+[krystyna]Krystyna (PL) : (rz.) Christine
+[krzysiu]Krzysiu (PL) : (rz.) Chris
+[krzysztof]Krzysztof (PL) : (rz.) Christopher
+[kabaczek]kabaczek (PL) : (rz.) cucurbit; (rz.) marrow; (rz.) pumpkin
+[kabalarz]kabalarz (PL) : (rz.) fortune-teller
+[kabalista]kabalista (PL) : (rz.) cabalist; (rz.) cabbalist
+[kabalistyczny]kabalistyczny (PL) : (p.) cabalistic
+[kabalistyka]kabalistyka (PL) : (rz.) cabalism; (rz.) cabbala
+[kabaret]kabaret (PL) : (rz.) cabaret
+[kabat]kabat (PL) : (rz.) jerkin
+[kabala]kabała (PL) : (rz.) cabal; (rz.) cabala; (rz.) cabbala
+[kabel]kabel (PL) : (rz.) cable; (rz.) cord; (rz.) tripwire; (rz.) wire; (rz.) wire-rope
+[kabestan]kabestan (PL) : (rz.) capstan
+[kabina]kabina (PL) : (rz.) booth; (rz.) cab; (rz.) cabana; (rz.) cabin; (rz.) cockpit; (rz.) cubicle; (rz.) cuddy; (rz.) locker
+[kabinka]kabinka (PL) : (rz.) cubicle
+[kabinowy]kabinowy (PL) : (p.) cabin's
+[kabla]kabla (PL) : (rz.) filler
+[kablogram]kablogram (PL) : (rz.) cable; (rz.) cablegram
+[kablowac]kablować (PL) : (cz.) cable
+[kablowka]kablówka (PL) : (rz.) cable
+[kaboszon]kaboszon (PL) : (rz.) cabochon
+[kabotaz]kabotaż (PL) : (rz.) coaster; (rz.) coasting
+[kabotazowiec]kabotażowiec (PL) : (rz.) coaster
+[kabotyn]kabotyn (PL) : (rz.) buffoon; (rz.) poser
+[kabotynizm]kabotynizm (PL) : (rz.) buffoonery
+[kabotynski]kabotyński (PL) : (p.) hammy
+[kabriolet]kabriolet (PL) : (rz.) cabriolet; (rz.) convertible
+[kabura]kabura (PL) : (rz.) holster
+[kabza]kabza (PL) : (rz.) money-bag; (rz.) purse
+[kablak]kabłąk (PL) : (rz.) bail; (rz.) bow
+[kac]kac (PL) : (rz.) crapulence; (rz.) hangover; (rz.) hang-over
+[kacerstwo]kacerstwo (PL) : (rz.) heresy
+[kacerz]kacerz (PL) : (rz.) heretic
+[kacyk]kacyk (PL) : (rz.) cacique; (rz.) oriole
+[kaczan]kaczan (PL) : (rz.) cob; (rz.) corncob
+[kaczeniec]kaczeniec (PL) : (rz.) kingcup
+[kaczka]kaczka (PL) : (rz.) duck; (rz.) hoax
+[kaczor]kaczor (PL) : (rz.) drake
+[kaczuszka]kaczuszka (PL) : (rz.) duck; (rz.) duckling
+[kaczy]kaczy (PL) : (p.) duck's
+[kaczyniec]kaczyniec (PL) : (rz.) kingcup
+[kaczatko]kaczątko (PL) : (rz.) duckling
+[kadencja]kadencja (PL) : (rz.) cadence; (rz.) cadenza; (rz.) tenure; (rz.) term
+[kadet]kadet (PL) : (rz.) cadet
+[kadm]kadm (PL) : (rz.) cadmium
+[kadmowy]kadmowy (PL) : (p.) cadmic
+[kadr]kadr (PL) : (rz.) frame; (rz.) hr
+[kadra]kadra (PL) : (rz.) cadre; (rz.) depot; (rz.) employees; (rz.) personnel; (rz.) staff
+[kadrowanie]kadrowanie (PL) : (rz.) crop; (rz.) framing; (rz.) mantel
+[kadrowac]kadrować (PL) : (cz.) frame
+[kadry]kadry (PL) : (rz.) personnel; (rz.) staff
+[kadryl]kadryl (PL) : (rz.) quadrille
+[kaduceusz]kaduceusz (PL) : (rz.) caduceus
+[kaduk]kaduk (PL) : (rz.) devil
+[kadzenie]kadzenie (PL) : (rz.) adulation
+[kadzi]kadzi (PL) : (rz.) lining
+[kadzidlo]kadzidło (PL) : (rz.) frankincense; (rz.) incense
+[kadzielnica]kadzielnica (PL) : (rz.) censer
+[kadzic]kadzić (PL) : (cz.) cense; (cz.) flatter
+[kadlub]kadłub (PL) : (rz.) body; (rz.) frame; (rz.) fuselage; (rz.) hull; (rz.) trunk
+[kadlubowy]kadłubowy (PL) : (p.) truncated
+[kadz]kadź (PL) : (rz.) beck; (rz.) kier; (rz.) ladle; (rz.) tub; (rz.) vat
+[kafar]kafar (PL) : (rz.) beetle
+[kafejka]kafejka (PL) : (rz.) cafe
+[kafel]kafel (PL) : (rz.) tile
+[kafelki]kafelki (PL) : (rz.) tiles
+[kafeteria]kafeteria (PL) : (rz.) cafeteria
+[kaftan]kaftan (PL) : (rz.) bodice; (rz.) caftan; (rz.) jacket; (rz.) jerkin; (rz.) straitjacket; (rz.) vest
+[kaftanik]kaftanik (PL) : (rz.) jacket; (rz.) vest
+[kaganek]kaganek (PL) : (rz.) cresset
+[kaganiec]kaganiec (PL) : (rz.) cresset; (rz.) muzzle
+[kainit]kainit (PL) : (rz.) kainite
+[kajak]kajak (PL) : (rz.) canoe; (rz.) kayak
+[kajakarstwo]kajakarstwo (PL) : (rz.) canoeing; (rz.) kayaking
+[kajakarz]kajakarz (PL) : (rz.) canoeist; (rz.) kayaker
+[kajakowiec]kajakowiec (PL) : (rz.) canoeist
+[kajac]kajać (PL) : (cz.) confess; (cz.) recant
+[kajdanek]kajdanek (PL) : (rz.) handcuffs; (rz.) shackle; (rz.) shackles
+[kajdaniarz]kajdaniarz (PL) : (rz.) convict
+[kajdanki]kajdanki (PL) : (rz.) handcuff; (rz.) handcuffs; (rz.) manacle; (rz.) nipper; (rz.) nippers
+[kajdany]kajdany (PL) : (rz.) bond; (rz.) chain; (rz.) fetter; (rz.) fetters; (rz.) handcuff; (rz.) handcuffs; (rz.) iron; (rz.) manacle; (rz.) shackles
+[kajman]kajman (PL) : (rz.) caiman
+[kajtek]kajtek (PL) : (rz.) toddler
+[kajuta]kajuta (PL) : (rz.) cabin
+[kakadu]kakadu (PL) : (rz.) cockatoo
+[kakao]kakao (PL) : (rz.) cocoa
+[kakaowiec]kakaowiec (PL) : (rz.) cacao; (rz.) cacao-tree
+[kakofonia]kakofonia (PL) : (rz.) cacophony
+[kakofoniczny]kakofoniczny (PL) : (p.) cacophonous
+[kaktus]kaktus (PL) : (rz.) cactus
+[kalafior]kalafior (PL) : (rz.) cauliflower
+[kalafonia]kalafonia (PL) : (rz.) colophony; (rz.) resin; (rz.) rosin
+[kalambur]kalambur (PL) : (rz.) pun
+[kalamburzysta]kalamburzysta (PL) : (rz.) punster
+[kalamin]kalamin (PL) : (rz.) calamine
+[kalander]kalander (PL) : (rz.) calendar; (rz.) mangle
+[kalarepa]kalarepa (PL) : (rz.) kohlrabi
+[kalac]kalać (PL) : (cz.) defile; (cz.) foul; (cz.) soil; (cz.) sully
+[kalcyt]kalcyt (PL) : (rz.) calcite; (rz.) calcspar
+[kaldera]kaldera (PL) : (rz.) caldera
+[kalectwo]kalectwo (PL) : (rz.) deformity; (rz.) disability; (rz.) invalidism; (rz.) invalidity
+[kaleczyc]kaleczyć (PL) : (cz.) cut; (cz.) hurt; (cz.) injure; (cz.) mangle; (cz.) murder; (cz.) mutilate; (cz.) scar; (cz.) slash
+[kalejdoskop]kalejdoskop (PL) : (rz.) kaleidoscope
+[kalejdoskopowy]kalejdoskopowy (PL) : (p.) kaleidoscopic
+[kaleka]kaleka (PL) : (rz.) cripple; (rz.) invalid
+[kaleki]kaleki (PL) : (p.) cripple; (p.) disabled; (p.) lame
+[kalendarium]kalendarium (PL) : (rz.) almanac; (rz.) calendar
+[kalendarz]kalendarz (PL) : (rz.) almanac; (rz.) calendar; (rz.) diary
+[kalendarzyk]kalendarzyk (PL) : (rz.) diary; (rz.) little
+[kalenica]kalenica (PL) : (rz.) crest; (rz.) ridge
+[kalesony]kalesony (PL) : (rz.) long; (rz.) pants
+[kaletnik]kaletnik (PL) : (rz.) vesicle
+[kaliber]kaliber (PL) : (rz.) calibre; (rz.) gauge
+[kalibracja]kalibracja (PL) : (rz.) calibration; (rz.) calibrations; (rz.) rating
+[kalibrator]kalibrator (PL) : (rz.) calibrator
+[kalibrowanie]kalibrowanie (PL) : (rz.) calibrating; (rz.) calibration; (rz.) ironing
+[kalibrowac]kalibrować (PL) : (cz.) calibrate; (cz.) calibrated
+[kalif]kalif (PL) : (rz.) caliph
+[kalifat]kalifat (PL) : (rz.) caliphate
+[kaliforn]kaliforn (PL) : (rz.) californium
+[kaligrafia]kaligrafia (PL) : (rz.) calligraphy
+[kaligraficzny]kaligraficzny (PL) : (p.) calligraphic
+[kaliko]kaliko (PL) : (rz.) calico
+[kalka]kalka (PL) : (rz.) carbon; (rz.) tracing
+[kalkomania]kalkomania (PL) : (rz.) decal; (rz.) decalcomania
+[kalkowanie]kalkowanie (PL) : (rz.) calking; (rz.) tracing
+[kalkowac]kalkować (PL) : (cz.) trace
+[kalkulacja]kalkulacja (PL) : (rz.) calculation
+[kalkulacyjny]kalkulacyjny (PL) : (p.) imputed
+[kalkulator]kalkulator (PL) : (rz.) calculator
+[kalkulowac]kalkulować (PL) : (cz.) calculate; (cz.) compute; (cz.) reckon
+[kalmar]kalmar (PL) : (rz.) squib; (rz.) squid
+[kalomel]kalomel (PL) : (rz.) calomel
+[kaloria]kaloria (PL) : (rz.) calorie
+[kaloryczny]kaloryczny (PL) : (p.) caloric; (p.) calorific
+[kaloryfer]kaloryfer (PL) : (rz.) radiator
+[kalorymetr]kalorymetr (PL) : (rz.) calorimeter
+[kalorymetryczny]kalorymetryczny (PL) : (p.) calorimetric
+[kalosz]kalosz (PL) : (rz.) galosh; (rz.) overshoe
+[kalosze]kalosze (PL) : (rz.) galoshes
+[kalota]kalota (PL) : (rz.) calotte
+[kalotka]kalotka (PL) : (rz.) calotte
+[kalumnia]kalumnia (PL) : (rz.) calumny
+[kalwaria]kalwaria (PL) : (rz.) Calvary
+[kalwinista]kalwinista (PL) : (rz.) Calvinist
+[kalwinizm]kalwinizm (PL) : (rz.) Calvinism
+[kamasz]kamasz (PL) : (rz.) gaiter; (rz.) shoe; (rz.) spat
+[kambuz]kambuz (PL) : (rz.) caboose; (rz.) galley
+[kamea]kamea (PL) : (rz.) cameo
+[kameleon]kameleon (PL) : (rz.) chameleon
+[kamelia]kamelia (PL) : (rz.) camellia
+[kamera]kamera (PL) : (rz.) cam; (rz.) camcorder; (rz.) camera
+[kameralny]kameralny (PL) : (p.) intimate
+[kamerdyner]kamerdyner (PL) : (rz.) butler; (rz.) chamberlain
+[kamerton]kamerton (PL) : (rz.) pitchfork; (rz.) tuning-fork
+[kamerzysta]kamerzysta (PL) : (rz.) cameraman
+[kamfen]kamfen (PL) : (rz.) camphene
+[kamfora]kamfora (PL) : (rz.) camphor
+[kamforowy]kamforowy (PL) : (p.) camphoric
+[kamica]kamica (PL) : (rz.) stone
+[kamieniarka]kamieniarka (PL) : (rz.) stonework
+[kamieniarstwo]kamieniarstwo (PL) : (rz.) masonry; (rz.) stonemasonry; (rz.) stonework
+[kamieniarz]kamieniarz (PL) : (rz.) cutter; (rz.) mason; (rz.) stone; (rz.) stonecutter; (rz.) stone-cutter; (rz.) stonemason; (rz.) stone-mason
+[kamienica]kamienica (PL) : (rz.) house; (rz.) tenement
+[kamienienie]kamienienie (PL) : (rz.) stone
+[kamieniolom]kamieniołom (PL) : (rz.) quarry; (rz.) stone-pit
+[kamienisty]kamienisty (PL) : (p.) pebbly; (p.) stony
+[kamienny]kamienny (PL) : (p.) stony
+[kamienowac]kamienować (PL) : (cz.) stone
+[kamien]kamień (PL) : (rz.) adamant; (rz.) calculus; (rz.) draughtsman; (rz.) fur; (rz.) jewel; (rz.) orb; (rz.) rock; (rz.) scale; (rz.) stein; (rz.) stone
+[kamikadze]kamikadze (PL) : (rz.) kamikaze
+[kamionetka]kamionetka (PL) : (rz.) camion
+[kamionka]kamionka (PL) : (rz.) stoneware
+[kamizelka]kamizelka (PL) : (rz.) vest; (rz.) waistcoat
+[kamlot]kamlot (PL) : (rz.) camlet
+[kampania]kampania (PL) : (rz.) campaign; (rz.) campaigning; (rz.) promotion
+[kampanila]kampanila (PL) : (rz.) campanile
+[kampanula]kampanula (PL) : (rz.) bellflower; (rz.) bell-flower; (rz.) campanula
+[kampus]kampus (PL) : (rz.) campus
+[kamrat]kamrat (PL) : (rz.) chum; (rz.) companion; (rz.) comrade
+[kamuflaz]kamuflaż (PL) : (rz.) camouflage
+[kamuflowanie]kamuflowanie (PL) : (rz.) camouflaging
+[kamwid]kamwid (PL) : (rz.) camcorder
+[kamyk]kamyk (PL) : (rz.) pebble; (rz.) shingle
+[kanadyjka]kanadyjka (PL) : (rz.) canoe
+[kanalarz]kanalarz (PL) : (rz.) scavenger
+[kanalia]kanalia (PL) : (rz.) bounder; (rz.) knave; (rz.) scoundrel; (rz.) skunk
+[kanalik]kanalik (PL) : (rz.) channel; (rz.) tubule
+[kanalizacja]kanalizacja (PL) : (rz.) canalization; (rz.) drain; (rz.) piping; (rz.) sanitation; (rz.) sewage; (rz.) sewer; (rz.) sewerage; (rz.) sewers
+[kanalizowanie]kanalizowanie (PL) : (rz.) canalizing; (rz.) sewer
+[kanalizowac]kanalizować (PL) : (cz.) channel
+[kanapa]kanapa (PL) : (rz.) bench; (rz.) couch; (rz.) settee; (rz.) sofa
+[kanapka]kanapka (PL) : (rz.) canapé; (rz.) sandwich
+[kanarek]kanarek (PL) : (rz.) canary
+[kanarkowy]kanarkowy (PL) : (p.) bright-yellow; (p.) canary
+[kanasta]kanasta (PL) : (rz.) canasta
+[kanal]kanał (PL) : (rz.) canal; (rz.) channel; (rz.) conduit; (rz.) ditch; (rz.) drain; (rz.) duct; (rz.) duet; (rz.) gully; (rz.) sewer
+[kancelaria]kancelaria (PL) : (rz.) chamber; (rz.) chancellery; (rz.) chancery; (rz.) office
+[kancelista]kancelista (PL) : (rz.) clerk
+[kancerogen]kancerogen (PL) : (rz.) carcinogen
+[kancerowac]kancerować (PL) : (cz.) damage
+[kanciarstwo]kanciarstwo (PL) : (rz.) racketeering; (rz.) swindle
+[kanciarz]kanciarz (PL) : (rz.) crook; (rz.) fiddler; (rz.) gyp; (rz.) racketeer; (rz.) swindler
+[kanciasty]kanciasty (PL) : (p.) angular; (p.) awkward
+[kanclerski]kanclerski (PL) : (p.) chancellor's
+[kanclerstwo]kanclerstwo (PL) : (rz.) chancellorship
+[kanclerz]kanclerz (PL) : (rz.) chancellor
+[kand]kand (PL) : (rz.) candidate
+[kandela]kandela (PL) : (rz.) candela; (rz.) candle
+[kandelabr]kandelabr (PL) : (rz.) candelabrum; (rz.) chandelier
+[kandydat]kandydat (PL) : (rz.) applicant; (rz.) aspirant; (rz.) candidate; (rz.) contender
+[kandydatura]kandydatura (PL) : (rz.) bid; (rz.) candidacy; (rz.) candidature
+[kandydowanie]kandydowanie (PL) : (rz.) candidacy; (rz.) candidate; (rz.) candidature; (rz.) runner
+[kandyz]kandyz (PL) : (rz.) candy
+[kandyzowanie]kandyzowanie (PL) : (rz.) candying; (rz.) crystallization
+[kandyzowany]kandyzowany (PL) : (p.) candied
+[kandyzowac]kandyzować (PL) : (cz.) candy
+[kangur]kangur (PL) : (rz.) kangaroo
+[kania]kania (PL) : (rz.) kite
+[kanibal]kanibal (PL) : (rz.) cannibal
+[kanibalistyczny]kanibalistyczny (PL) : (p.) cannibalistic
+[kanibalizm]kanibalizm (PL) : (rz.) cannibalism
+[kanikula]kanikuła (PL) : (rz.) dog-days
+[kanion]kanion (PL) : (rz.) canyon
+[kanister]kanister (PL) : (rz.) can; (rz.) canister; (rz.) container
+[kanka]kanka (PL) : (rz.) can
+[kankan]kankan (PL) : (rz.) cancan
+[kanon]kanon (PL) : (rz.) canon; (rz.) troll
+[kanonada]kanonada (PL) : (rz.) cannonade; (rz.) gunfire
+[kanonia]kanonia (PL) : (rz.) canonry
+[kanonicznie]kanonicznie (PL) : (p-sł.) canonically
+[kanoniczny]kanoniczny (PL) : (p.) canonical
+[kanonier]kanonier (PL) : (rz.) gunner
+[kanonierka]kanonierka (PL) : (rz.) gunboat
+[kanonik]kanonik (PL) : (rz.) cannon; (rz.) canon
+[kanonizacja]kanonizacja (PL) : (rz.) canonization
+[kanonizowac]kanonizować (PL) : (cz.) canonize
+[kanotier]kanotier (PL) : (rz.) boater
+[kant]kant (PL) : (rz.) betel; (rz.) crease; (rz.) edge; (rz.) fake; (rz.) gyp; (rz.) swindle
+[kantalupa]kantalupa (PL) : (rz.) cantaloupe
+[kantar]kantar (PL) : (rz.) halter
+[kantata]kantata (PL) : (rz.) cantata
+[kantem]kantem (PL) : (p-sł.) edgewise
+[kanton]kanton (PL) : (rz.) canton
+[kantonalny]kantonalny (PL) : (p.) cantonal
+[kantor]kantor (PL) : (rz.) cantor; (rz.) counter
+[kantowac]kantować (PL) : (cz.) square; (cz.) swindle; (cz.) wangle
+[kantylena]kantylena (PL) : (rz.) cantilena
+[kantyna]kantyna (PL) : (rz.) canteen; (rz.) commissary; (rz.) mess
+[kantowka]kantówka (PL) : (rz.) scantling
+[kanwa]kanwa (PL) : (rz.) canvas
+[kaolin]kaolin (PL) : (rz.) kaolin
+[kapa]kapa (PL) : (rz.) bedspread; (rz.) canopy; (rz.) cope; (rz.) counterpane; (rz.) slipcover
+[kapanie]kapanie (PL) : (rz.) drip; (rz.) dripping; (rz.) patter; (rz.) trickle
+[kapar]kapar (PL) : (rz.) caper
+[kapary]kapary (PL) : (rz.) caper
+[kapac]kapać (PL) : (cz.) bath; (cz.) bathe; (cz.) dribble; (cz.) drip; (cz.) patter; (cz.) spatter; (cz.) trickle
+[kapcie]kapcie (PL) : (rz.) slippers
+[kapciuch]kapciuch (PL) : (rz.) tobacco-pouch
+[kapela]kapela (PL) : (rz.) band; (rz.) combo
+[kapelan]kapelan (PL) : (rz.) chaplain; (rz.) padre
+[kapelmistrz]kapelmistrz (PL) : (rz.) bandleader; (rz.) bandmaster
+[kapelusz]kapelusz (PL) : (rz.) cap; (rz.) chapeau; (rz.) hat; (rz.) millinery
+[kapelusznik]kapelusznik (PL) : (rz.) hatter
+[kaper]kaper (PL) : (rz.) privateer
+[kapec]kapeć (PL) : (rz.) slipper
+[kapibara]kapibara (PL) : (rz.) capybara
+[kapilara]kapilara (PL) : (rz.) capillary
+[kapilarnosc]kapilarność (PL) : (rz.) capillarity
+[kapilarny]kapilarny (PL) : (p.) capillary
+[kapinos]kapinos (PL) : (rz.) gorge
+[kapiszon]kapiszon (PL) : (rz.) hood
+[kapitalista]kapitalista (PL) : (rz.) capitalist
+[kapitalistyczny]kapitalistyczny (PL) : (p.) capitalist; (p.) capitalistic
+[kapitalizacja]kapitalizacja (PL) : (rz.) capitalization
+[kapitalizm]kapitalizm (PL) : (rz.) capitalism
+[kapitalizowanie]kapitalizowanie (PL) : (rz.) capitalization; (rz.) capitalizing
+[kapitalizowac]kapitalizować (PL) : (cz.) capitalize; (cz.) capitalized
+[kapitalny]kapitalny (PL) : (p.) brilliant; (p.) exquisite; (p.) fundamental; (p.) smashing; (p.) stunning
+[kapitan]kapitan (PL) : (rz.) captain; (rz.) lieutenant; (rz.) master; (rz.) skipper
+[kapital]kapitał (PL) : (rz.) capital; (rz.) corpus; (rz.) equity; (rz.) principal; (rz.) stock
+[kapitalka]kapitałka (PL) : (rz.) headband
+[kapitalochlonny]kapitałochłonny (PL) : (p.) capital
+[kapitel]kapitel (PL) : (rz.) capital
+[kapitulacja]kapitulacja (PL) : (rz.) capitulation; (rz.) surrender
+[kapitulant]kapitulant (PL) : (rz.) capitulator
+[kapitularz]kapitularz (PL) : (rz.) chapter
+[kapitulowac]kapitulować (PL) : (cz.) capitulate
+[kapitula]kapituła (PL) : (rz.) chapter
+[kapiacy]kapiący (PL) : (p.) dripping
+[kapka]kapka (PL) : (rz.) smidgen; (rz.) toecap; (rz.) toe-cap
+[kaplica]kaplica (PL) : (rz.) chapel
+[kapliczka]kapliczka (PL) : (rz.) chapel; (rz.) shrine
+[kapok]kapok (PL) : (rz.) kapok
+[kapota]kapota (PL) : (rz.) capote
+[kapotaz]kapotaż (PL) : (rz.) turnover
+[kapral]kapral (PL) : (rz.) corporal
+[kaprys]kaprys (PL) : (rz.) caprice; (rz.) fad; (rz.) fancy; (rz.) fantasy; (rz.) freak; (rz.) kink; (rz.) megrim; (rz.) vagary; (rz.) whim; (rz.) whimsy
+[kaprysic]kaprysić (PL) : (cz.) palter
+[kaprysnie]kapryśnie (PL) : (p-sł.) fancifully; (p-sł.) fitfully; (p-sł.) fussily; (p-sł.) whimsically
+[kaprysnosc]kapryśność (PL) : (rz.) capriciousness; (rz.) flightiness; (rz.) whimsicality
+[kaprysny]kapryśny (PL) : (p.) bizarre; (p.) capricious; (p.) crotchety; (p.) erratic; (p.) fanciful; (p.) fickle; (p.) fitful; (p.) flighty; (p.) fluky; (p.) freakish; (p.) fussy; (p.) moody; (p.) temperamental; (p.) wayward; (p.) whimsical
+[kapsel]kapsel (PL) : (rz.) cap
+[kapsla]kapsla (PL) : (rz.) crown-cap
+[kapslowanie]kapslowanie (PL) : (rz.) capping
+[kapsula]kapsuła (PL) : (rz.) capsule
+[kapsulka]kapsułka (PL) : (rz.) capsule
+[kapsulkowanie]kapsułkowanie (PL) : (rz.) encapsulation
+[kapsulkowany]kapsułkowany (PL) : (p.) encapsulated
+[kapsulkowac]kapsułkować (PL) : (cz.) encapsulate
+[kaptaz]kaptaż (PL) : (rz.) capture; (rz.) piracy
+[kaptowac]kaptować (PL) : (cz.) tout
+[kaptur]kaptur (PL) : (rz.) cowl; (rz.) hood
+[kapturek]kapturek (PL) : (rz.) cap; (rz.) hood
+[kapucyn]kapucyn (PL) : (rz.) capuchin; (rz.) cock
+[kapusta]kapusta (PL) : (rz.) cabbage; (rz.) kale
+[kapuza]kapuza (PL) : (rz.) hood
+[kapus]kapuś (PL) : (rz.) grass; (rz.) informer; (rz.) snout
+[kapusniak]kapuśniak (PL) : (rz.) drizzle
+[kaplan]kapłan (PL) : (rz.) chaplain; (rz.) priest
+[kaplanski]kapłański (PL) : (p.) hieratic; (p.) hieratical; (p.) priestly; (p.) sacerdotal
+[kaplanstwo]kapłaństwo (PL) : (rz.) priesthood
+[kaplon]kapłon (PL) : (rz.) capon
+[kara]kara (PL) : (rz.) caning; (rz.) chastisement; (rz.) corporal; (rz.) crackdown; (rz.) fine; (rz.) imposition; (rz.) pain; (rz.) penalty; (rz.) punishment; (rz.) scourge
+[karabin]karabin (PL) : (rz.) gat; (rz.) gun; (rz.) musket; (rz.) rifle
+[karabinek]karabinek (PL) : (rz.) carbine
+[karabinier]karabinier (PL) : (rz.) carbineer
+[karafka]karafka (PL) : (rz.) carafe; (rz.) decanter; (rz.) water-bottle
+[karakal]karakal (PL) : (rz.) caracal
+[karakul]karakuł (PL) : (rz.) astrakhan
+[karalnosc]karalność (PL) : (rz.) criminal; (rz.) penalization
+[karalny]karalny (PL) : (p.) penal; (p.) punishable
+[karaluch]karaluch (PL) : (rz.) cockroach; (rz.) roach
+[karambol]karambol (PL) : (rz.) collision
+[karambolowac]karambolować (PL) : (cz.) cannon
+[karanie]karanie (PL) : (rz.) punishment
+[karat]karat (PL) : (rz.) carat
+[karate]karate (PL) : (rz.) karate
+[karawan]karawan (PL) : (rz.) bier; (rz.) caravan; (rz.) hearse
+[karawana]karawana (PL) : (rz.) caravan
+[karawaniarski]karawaniarski (PL) : (p.) funeral
+[karawaniarz]karawaniarz (PL) : (rz.) mute
+[karawaning]karawaning (PL) : (rz.) caravanning
+[karawanseraj]karawanseraj (PL) : (rz.) caravansary
+[karawela]karawela (PL) : (rz.) caravel
+[karac]karać (PL) : (cz.) castigate; (cz.) chasten; (cz.) chastise; (cz.) correct; (cz.) discipline; (cz.) penalize; (cz.) punish; (cz.) scourge
+[karb]karb (PL) : (rz.) nick; (rz.) nock; (rz.) notch
+[karbamid]karbamid (PL) : (rz.) urea
+[karbid]karbid (PL) : (rz.) carbide
+[karboksyl]karboksyl (PL) : (rz.) carboxyl
+[karbolowy]karbolowy (PL) : (p.) carbolic
+[karbonizacja]karbonizacja (PL) : (rz.) carbonization
+[karbonizowac]karbonizować (PL) : (cz.) carbonize
+[karbowanie]karbowanie (PL) : (rz.) corrugation
+[karbowac]karbować (PL) : (cz.) corrugate; (cz.) jag; (cz.) score
+[karbonski]karboński (PL) : (p.) carboniferous
+[karbunkul]karbunkuł (PL) : (rz.) carbuncle
+[karburator]karburator (PL) : (rz.) carburettor
+[karburyzator]karburyzator (PL) : (rz.) carburizer
+[karcenie]karcenie (PL) : (rz.) reproach
+[karcer]karcer (PL) : (rz.) detention
+[karciarstwo]karciarstwo (PL) : (rz.) card-playing
+[karciarz]karciarz (PL) : (rz.) card-player; (rz.) gambler
+[karcic]karcić (PL) : (cz.) admonish; (cz.) castigate; (cz.) chide; (cz.) rate; (cz.) rebuke; (cz.) reprehend; (cz.) scold
+[karczek]karczek (PL) : (rz.) neck
+[karczemny]karczemny (PL) : (p.) rude; (p.) vulgar
+[karczma]karczma (PL) : (rz.) inn; (rz.) tavern
+[karczmarz]karczmarz (PL) : (rz.) innkeeper
+[karczoch]karczoch (PL) : (rz.) artichoke
+[karczowac]karczować (PL) : (cz.) grub; (cz.) stub
+[karczowisko]karczowisko (PL) : (rz.) clearing
+[karczownik]karczownik (PL) : (rz.) grubber; (rz.) rooter
+[kard]kard (PL) : (rz.) card
+[kardamon]kardamon (PL) : (rz.) cardamom
+[kardiochirurg]kardiochirurg (PL) : (rz.) cardiac
+[kardiochirurgiczny]kardiochirurgiczny (PL) : (p.) cardiac
+[kardiograf]kardiograf (PL) : (rz.) cardiograph
+[kardiogram]kardiogram (PL) : (rz.) cardiogram
+[kardiolog]kardiolog (PL) : (rz.) cardiologist; (rz.) heart
+[kardiologia]kardiologia (PL) : (rz.) cardiology
+[kardynalny]kardynalny (PL) : (p.) cardinal; (p.) fundamental
+[kardynal]kardynał (PL) : (rz.) cardinal
+[karenaz]karenaż (PL) : (rz.) careenage
+[karencja]karencja (PL) : (rz.) grace; (rz.) penalty; (rz.) periods; (rz.) suspension
+[kareta]kareta (PL) : (rz.) carriage; (rz.) coach; (rz.) saloon
+[karetka]karetka (PL) : (rz.) ambulance; (rz.) carriage; (rz.) coupe
+[kariatyda]kariatyda (PL) : (rz.) caryatid
+[kariera]kariera (PL) : (rz.) career
+[karierowicz]karierowicz (PL) : (rz.) careerist
+[kariolka]kariolka (PL) : (rz.) curricle
+[kark]kark (PL) : (rz.) nape; (rz.) neck; (rz.) necking
+[karkowy]karkowy (PL) : (p.) cervical
+[karkolomny]karkołomny (PL) : (p.) backbreaking; (p.) breakneck
+[karkowka]karkówka (PL) : (rz.) neck
+[karlec]karleć (PL) : (cz.) lessen
+[karlik]karlik (PL) : (rz.) dwarf
+[karma]karma (PL) : (rz.) feed; (rz.) fodder; (rz.) foodstuff
+[karmazyn]karmazyn (PL) : (rz.) cramoisy; (rz.) crimson; (rz.) marmot; (rz.) redfish
+[karmazynowy]karmazynowy (PL) : (p.) cramoisy; (p.) crimson; (p.) incarnadine
+[karmel]karmel (PL) : (rz.) butterscotch; (rz.) caramel
+[karmelizowac]karmelizować (PL) : (cz.) caramelize
+[karmelkowy]karmelkowy (PL) : (p.) sugary
+[karmiciel]karmiciel (PL) : (rz.) feeder
+[karmienie]karmienie (PL) : (rz.) nurture
+[karmin]karmin (PL) : (rz.) carmine
+[karminowy]karminowy (PL) : (p.) carmine
+[karmic]karmić (PL) : (cz.) feed; (cz.) nourish; (cz.) nurture; (cz.) suckle
+[karnacja]karnacja (PL) : (rz.) carnation; (rz.) colouring; (rz.) complexion; (rz.) skin
+[karnawal]karnawał (PL) : (rz.) carnival
+[karnet]karnet (PL) : (rz.) carnet; (rz.) ticket
+[karnisz]karnisz (PL) : (rz.) cornice
+[karnosc]karność (PL) : (rz.) discipline; (rz.) instruction
+[karny]karny (PL) : (p.) criminal; (p.) fine; (p.) penal; (p.) penitential; (p.) punitive; (p.) vindictive
+[karo]karo (PL) : (rz.) diamond; (rz.) diamonds; (rz.) penalty
+[karoca]karoca (PL) : (rz.) carriage
+[karoseria]karoseria (PL) : (rz.) body; (rz.) bodywork
+[karoten]karoten (PL) : (rz.) carotene
+[karp]karp (PL) : (rz.) carp
+[karpiel]karpiel (PL) : (rz.) rutabaga
+[karpiowate]karpiowate (PL) : (rz.) cyprinids
+[karta]karta (PL) : (rz.) card; (rz.) carte; (rz.) charter; (rz.) leaf; (rz.) postcard; (rz.) sheet
+[kartacz]kartacz (PL) : (rz.) case-shot; (rz.) grape-shot
+[kartel]kartel (PL) : (rz.) cartel; (rz.) logrolling
+[karteluszek]karteluszek (PL) : (rz.) note
+[karter]karter (PL) : (rz.) casing; (rz.) crankcase
+[kartka]kartka (PL) : (rz.) label; (rz.) leaf; (rz.) leaflet; (rz.) page; (rz.) postcard; (rz.) sheet
+[kartofel]kartofel (PL) : (rz.) potato; (rz.) spud
+[kartograf]kartograf (PL) : (rz.) cartographer
+[kartografia]kartografia (PL) : (rz.) cartography; (rz.) mapping
+[kartograficzny]kartograficzny (PL) : (p.) cartographic; (p.) cartographical
+[karton]karton (PL) : (rz.) card; (rz.) cardboard; (rz.) carton; (rz.) cartridge-paper; (rz.) packet; (rz.) paperboard; (rz.) pasteboard
+[kartonik]kartonik (PL) : (rz.) carton
+[kartoteka]kartoteka (PL) : (rz.) catalogue; (rz.) file
+[kartotekowanie]kartotekowanie (PL) : (rz.) filing
+[kartridz]kartridż (PL) : (rz.) cartridges
+[kartusz]kartusz (PL) : (rz.) cartouche
+[karuk]karuk (PL) : (rz.) isinglass
+[karuzela]karuzela (PL) : (rz.) carousel; (rz.) carrousel; (rz.) merry-go-round; (rz.) roundabout; (rz.) turnabout
+[karygodnie]karygodnie (PL) : (p-sł.) guiltily; (p-sł.) unpardonably
+[karygodnosc]karygodność (PL) : (rz.) culpability; (rz.) fault
+[karygodny]karygodny (PL) : (p.) criminal; (p.) gross; (p.) guilty; (p.) reprehensible; (p.) shameful
+[karykatura]karykatura (PL) : (rz.) caricature; (rz.) cartoon; (rz.) takeoff; (rz.) take-off
+[karykaturalny]karykaturalny (PL) : (p.) grotesque
+[karykaturowac]karykaturować (PL) : (cz.) caricature; (cz.) cartoon
+[karykaturzysta]karykaturzysta (PL) : (rz.) caricaturist; (rz.) cartoonist
+[karylion]karylion (PL) : (rz.) carillon; (rz.) chime
+[karzel]karzeł (PL) : (rz.) dwarf; (rz.) gnome; (rz.) midget; (rz.) pigmy; (rz.) pygmy
+[karzelek]karzełek (PL) : (rz.) midget
+[karzelkowaty]karzełkowaty (PL) : (p.) dwarfish
+[karc]karć (PL) : (cz.) reproach; (cz.) upbraid
+[karlowaciec]karłowacieć (PL) : (cz.) dwarf
+[karlowatosc]karłowatość (PL) : (rz.) dwarfism
+[karlowaty]karłowaty (PL) : (p.) scrubby; (p.) undersized
+[kasa]kasa (PL) : (rz.) box-office; (rz.) cashbox; (rz.) cash-box; (rz.) cash-desk; (rz.) check-out; (rz.) counter; (rz.) dough; (rz.) fund; (rz.) till
+[kasacja]kasacja (PL) : (rz.) annulment; (rz.) cassation; (rz.) defeat
+[kaseta]kaseta (PL) : (rz.) album; (rz.) cartridge; (rz.) case; (rz.) casket; (rz.) cassette; (rz.) crate; (rz.) tape
+[kasetka]kasetka (PL) : (rz.) cashbox; (rz.) casket
+[kaseton]kaseton (PL) : (rz.) caisson; (rz.) coffer; (rz.) panel
+[kasetonowy]kasetonowy (PL) : (p.) coffered
+[kasiarz]kasiarz (PL) : (rz.) boxer; (rz.) safe-breaker
+[kasja]kasja (PL) : (rz.) cassia
+[kasjer]kasjer (PL) : (rz.) cashier; (rz.) teller; (rz.) treasurer
+[kask]kask (PL) : (rz.) helmet; (rz.) sun-helmet
+[kaskada]kaskada (PL) : (rz.) cascade; (rz.) waterfall
+[kaskader]kaskader (PL) : (rz.) double; (rz.) stuntman
+[kasowalny]kasowalny (PL) : (p.) erasable
+[kasowanie]kasowanie (PL) : (rz.) clearing; (rz.) washout
+[kasowac]kasować (PL) : (cz.) abolish; (cz.) cancel; (cz.) clear; (cz.) delete; (cz.) erase; (cz.) extinguish; (cz.) punch
+[kasownik]kasownik (PL) : (rz.) natural
+[kasowy]kasowy (PL) : (p.) cash
+[kasta]kasta (PL) : (rz.) caste
+[kastaniety]kastaniety (PL) : (rz.) castanets
+[kastet]kastet (PL) : (rz.) knuckle-duster
+[kastracja]kastracja (PL) : (rz.) castration; (rz.) emasculation
+[kastrat]kastrat (PL) : (rz.) castrate; (rz.) castrato
+[kastrowac]kastrować (PL) : (cz.) castrate; (cz.) emasculate; (cz.) geld
+[kasyno]kasyno (PL) : (rz.) casino
+[kasyteryt]kasyteryt (PL) : (rz.) tin-stone
+[kasza]kasza (PL) : (rz.) grain; (rz.) meal
+[kaszalot]kaszalot (PL) : (rz.) cachalot
+[kaszel]kaszel (PL) : (rz.) cough
+[kaszka]kaszka (PL) : (rz.) burgoo; (rz.) gruel
+[kaszlac]kaszlać (PL) : (cz.) whoop
+[kaszlec]kaszleć (PL) : (cz.) cough
+[kaszmir]kaszmir (PL) : (rz.) cashmere
+[kaszt]kaszt (PL) : (rz.) cog; (rz.) pigsty
+[kaszta]kaszta (PL) : (rz.) case; (rz.) chestnuts
+[kasztan]kasztan (PL) : (rz.) chestnut
+[kasztanowaty]kasztanowaty (PL) : (p.) auburn; (p.) maroon
+[kasztanowiec]kasztanowiec (PL) : (rz.) horse-chestnut
+[kasztanowy]kasztanowy (PL) : (p.) auburn; (p.) chestnut
+[kasztel]kasztel (PL) : (rz.) castle
+[kasztelan]kasztelan (PL) : (rz.) castellan
+[kaszyca]kaszyca (PL) : (rz.) crib; (rz.) cribwork
+[kat]kat (PL) : (rz.) cat; (rz.) executioner; (rz.) hangman; (rz.) headsman; (rz.) latria
+[katabolizm]katabolizm (PL) : (rz.) catabolism
+[katafalk]katafalk (PL) : (rz.) bier; (rz.) catafalque; (rz.) hearse
+[kataforeza]kataforeza (PL) : (rz.) electrophoresis
+[kataklizm]kataklizm (PL) : (rz.) cataclysm; (rz.) disaster
+[kataklizmowy]kataklizmowy (PL) : (p.) cataclysmic
+[katakumby]katakumby (PL) : (rz.) catacombs
+[katalepsja]katalepsja (PL) : (rz.) catalepsy; (rz.) locked-jaw; (rz.) lockjaw; (rz.) lock-jaw
+[kataleptyczny]kataleptyczny (PL) : (p.) cataleptic
+[kataleptyk]kataleptyk (PL) : (rz.) cataleptic
+[katalityczny]katalityczny (PL) : (p.) catalytic
+[kataliza]kataliza (PL) : (rz.) catalysis; (rz.) catalyst
+[katalizator]katalizator (PL) : (rz.) accelerator; (rz.) catalyst
+[katalizowac]katalizować (PL) : (cz.) catalyze
+[katalog]katalog (PL) : (rz.) catalogue; (rz.) directory; (rz.) index; (rz.) list
+[katalogowac]katalogować (PL) : (cz.) catalogue
+[katamaran]katamaran (PL) : (rz.) catamaran
+[kataplazm]kataplazm (PL) : (rz.) cataplasm; (rz.) poultice
+[katapulta]katapulta (PL) : (rz.) catapult
+[katapultowac]katapultować (PL) : (cz.) eject
+[katar]katar (PL) : (rz.) catarrh; (rz.) cold; (rz.) rhinitis; (rz.) sneeze
+[katarakta]katarakta (PL) : (rz.) cataract
+[kataralny]kataralny (PL) : (p.) catarrhal
+[kataryniarz]kataryniarz (PL) : (rz.) organ-grinder
+[katarynka]katarynka (PL) : (rz.) barrel-organ; (rz.) hurdy-gurdy
+[kataster]kataster (PL) : (rz.) cadastre; (rz.) terrier
+[katastralny]katastralny (PL) : (p.) cadastral
+[katastrofa]katastrofa (PL) : (rz.) accident; (rz.) casualty; (rz.) catastrophe; (rz.) collapse; (rz.) crash; (rz.) disaster; (rz.) emergency; (rz.) shipwreck
+[katastrofalnie]katastrofalnie (PL) : (p-sł.) disastrously
+[katastrofalny]katastrofalny (PL) : (p.) catastrophic; (p.) disastrous
+[katastroficzny]katastroficzny (PL) : (p.) catastrophic
+[katatonia]katatonia (PL) : (rz.) catatonia
+[katatoniczny]katatoniczny (PL) : (p.) catatonic
+[katecheta]katecheta (PL) : (rz.) catechist
+[katecheza]katecheza (PL) : (rz.) catechesis
+[katechizacja]katechizacja (PL) : (rz.) catechization
+[katechizm]katechizm (PL) : (rz.) catechism
+[katechizowac]katechizować (PL) : (cz.) catechize
+[katechumen]katechumen (PL) : (rz.) catechumen
+[katedra]katedra (PL) : (rz.) cathedral; (rz.) chair; (rz.) department
+[katedralny]katedralny (PL) : (p.) cathedral
+[kategoria]kategoria (PL) : (rz.) bit; (rz.) category; (rz.) denomination; (rz.) rank; (rz.) term
+[kategorycznie]kategorycznie (PL) : (p-sł.) absolutely; (p-sł.) categorically; (p-sł.) decidedly; (p-sł.) expressly; (p-sł.) peremptorily
+[kategoryczny]kategoryczny (PL) : (p.) categorical; (p.) emphatic
+[kategoryzacja]kategoryzacja (PL) : (rz.) categorization
+[kateter]kateter (PL) : (rz.) catheter
+[katetometr]katetometr (PL) : (rz.) cathetometer
+[katgut]katgut (PL) : (rz.) catgut
+[katoda]katoda (PL) : (rz.) cathode
+[katolickosc]katolickość (PL) : (rz.) catholicity
+[katolicyzm]katolicyzm (PL) : (rz.) Catholicism
+[katolik]katolik (PL) : (rz.) catholic
+[katorga]katorga (PL) : (rz.) drudgery; (rz.) galleys; (rz.) ordeal
+[katowac]katować (PL) : (cz.) torment; (cz.) torture
+[katusza]katusza (PL) : (rz.) agony; (rz.) torture
+[kaucja]kaucja (PL) : (rz.) bail; (rz.) bond; (rz.) deposit; (rz.) recognizance; (rz.) security
+[kauczuk]kauczuk (PL) : (rz.) rubber
+[kaustycznosc]kaustyczność (PL) : (rz.) causticity
+[kaustyczny]kaustyczny (PL) : (p.) caustic
+[kaustyka]kaustyka (PL) : (rz.) caustic
+[kauteryzacja]kauteryzacja (PL) : (rz.) cauterization
+[kauteryzowac]kauteryzować (PL) : (cz.) cauterize
+[kauzalny]kauzalny (PL) : (p.) causal
+[kawa]kawa (PL) : (rz.) coffee; (rz.) mocha
+[kawalarz]kawalarz (PL) : (rz.) joker; (rz.) jokester; (rz.) prankster; (rz.) wag
+[kawaler]kawaler (PL) : (rz.) bachelor; (rz.) cavalier; (rz.) chevalier; (rz.) knight
+[kawaleria]kawaleria (PL) : (rz.) cavalry; (rz.) horse
+[kawalerski]kawalerski (PL) : (p.) bachelor's; (p.) unmarried
+[kawalerskosc]kawalerskość (PL) : (rz.) chivalry
+[kawalerstwo]kawalerstwo (PL) : (rz.) bachelorhood; (rz.) chivalry
+[kawalerzysta]kawalerzysta (PL) : (rz.) cavalryman; (rz.) horseman; (rz.) trooper
+[kawalkada]kawalkada (PL) : (rz.) cavalcade
+[kawal]kawał (PL) : (rz.) chunk; (rz.) gobbet; (rz.) joke; (rz.) lark; (rz.) piece; (rz.) slab; (rz.) sod
+[kawalek]kawałek (PL) : (rz.) bit; (rz.) chunk; (rz.) divot; (rz.) fritter; (rz.) hunk; (rz.) knob; (rz.) length; (rz.) lump; (rz.) morsel; (rz.) piece; (rz.) scrap; (rz.) shard; (rz.) shiver; (rz.) slip; (rz.) steak
+[kawalkowac]kawałkować (PL) : (cz.) pieces
+[kawerna]kawerna (PL) : (rz.) void
+[kawiarenka]kawiarenka (PL) : (rz.) cafe; (rz.) estaminet
+[kawiarnia]kawiarnia (PL) : (rz.) cafe; (rz.) café; (rz.) cafeteria; (rz.) coffeehouse; (rz.) coffee-house; (rz.) tearoom; (rz.) tea-room
+[kawior]kawior (PL) : (rz.) caviar
+[kawka]kawka (PL) : (rz.) jackdaw
+[kawon]kawon (PL) : (rz.) watermelon; (rz.) water-melon
+[kazamata]kazamata (PL) : (rz.) casemate
+[kazanie]kazanie (PL) : (rz.) homily; (rz.) sermon
+[kazac]kazać (PL) : (cz.) ask; (cz.) bid; (cz.) cause; (cz.) command; (cz.) make; (cz.) prescribe; (cz.) tell
+[kazeina]kazeina (PL) : (rz.) casein
+[kazirodczy]kazirodczy (PL) : (p.) incestuous
+[kazirodztwo]kazirodztwo (PL) : (rz.) incest
+[kaznodzieja]kaznodzieja (PL) : (rz.) preacher
+[kaznodziejski]kaznodziejski (PL) : (p.) homiletic
+[kaznodziejstwo]kaznodziejstwo (PL) : (rz.) preaching
+[kazualny]kazualny (PL) : (p.) factitive
+[kazuar]kazuar (PL) : (rz.) cassowary
+[kazuista]kazuista (PL) : (rz.) casuist
+[kazuistyczny]kazuistyczny (PL) : (p.) casuistic
+[kazuistyka]kazuistyka (PL) : (rz.) casuistry; (rz.) sophistry
+[kal]kał (PL) : (rz.) dung; (rz.) excrement; (rz.) faeces; (rz.) stool
+[kalamarnica]kałamarnica (PL) : (rz.) calamari; (rz.) squib; (rz.) squid
+[kalamarz]kałamarz (PL) : (rz.) inkpot; (rz.) inkstand; (rz.) inkwell; (rz.) teapot
+[kaldun]kałdun (PL) : (rz.) potbelly; (rz.) pot-belly
+[kaluza]kałuża (PL) : (rz.) pool; (rz.) puddle; (rz.) slop
+[kanczug]kańczug (PL) : (rz.) thong
+[kazn]kaźń (PL) : (rz.) torment; (rz.) torture
+[kazdorazowy]każdorazowy (PL) : (p.) each
+[kciuk]kciuk (PL) : (rz.) thumb
+[kebab]kebab (PL) : (rz.) kebab
+[kecz]kecz (PL) : (rz.) ketch
+[keczup]keczup (PL) : (rz.) ketchup
+[kedyw]kedyw (PL) : (rz.) khedive
+[keja]keja (PL) : (rz.) quayside
+[keks]keks (PL) : (rz.) teacake; (rz.) tea-cake
+[kelner]kelner (PL) : (rz.) waiter
+[kelnerka]kelnerka (PL) : (rz.) waitress
+[kemping]kemping (PL) : (rz.) camp; (rz.) camping; (rz.) campsite
+[kepi]kepi (PL) : (rz.) kepi
+[keratyna]keratyna (PL) : (rz.) keratin
+[kerosen]kerosen (PL) : (rz.) kerosene
+[keson]keson (PL) : (rz.) caisson
+[ket]ket (PL) : (rz.) cat; (rz.) catboat
+[keten]keten (PL) : (rz.) ketene
+[khaki]khaki (PL) : (rz.) khaki
+[kibel]kibel (PL) : (rz.) bucket; (rz.) growler; (rz.) john; (rz.) loo
+[kibic]kibic (PL) : (rz.) fan; (rz.) looker-on; (rz.) rooter; (rz.) supporter
+[kibicowanie]kibicowanie (PL) : (rz.) cheerleading
+[kibicowac]kibicować (PL) : (cz.) root
+[kibic]kibić (PL) : (rz.) waist
+[kibuc]kibuc (PL) : (rz.) kibbutz
+[kicac]kicać (PL) : (cz.) jump
+[kicha]kicha (PL) : (rz.) all
+[kichanie]kichanie (PL) : (rz.) sneeze
+[kichac]kichać (PL) : (cz.) sneeze
+[kichniecie]kichnięcie (PL) : (rz.) sneeze
+[kicia]kicia (PL) : (rz.) pussy
+[kicius]kiciuś (PL) : (rz.) kitty; (rz.) pussy
+[kicz]kicz (PL) : (rz.) daub; (rz.) kitsch
+[kiczowaty]kiczowaty (PL) : (p.) kitschy; (p.) worthless
+[kidnaperstwo]kidnaperstwo (PL) : (rz.) kidnapping
+[kidnaping]kidnaping (PL) : (rz.) kidnapping
+[kiecka]kiecka (PL) : (rz.) skirt
+[kiedy]kiedy (PL) : (p-sł.) as; (p-sł.) ever; (p-sł.) once; (p-sł.) when; (p-sł.) where
+[kiedykolwiek]kiedykolwiek (PL) : (p-sł.) ever; (p-sł.) whenever
+[kiedys]kiedyś (PL) : (p-sł.) before; (p-sł.) ever; (p-sł.) once; (p-sł.) someday; (p-sł.) sometime
+[kielich]kielich (PL) : (rz.) calyx; (rz.) chalice; (rz.) cup; (rz.) faucet; (rz.) goblet; (rz.) jigger; (rz.) schooner; (rz.) thalamus
+[kieliszek]kieliszek (PL) : (rz.) cup; (rz.) eggcup; (rz.) glass; (rz.) goblet; (rz.) jigger; (rz.) wineglass; (rz.) wine-glass
+[kielnia]kielnia (PL) : (rz.) trowel
+[kiep]kiep (PL) : (rz.) gules; (rz.) simpleton
+[kiepski]kiepski (PL) : (p.) bad; (p.) crummy; (p.) feeble; (p.) lame; (p.) lousy; (p.) poor; (p.) rotten; (p.) scratchy; (p.) shoddy; (p.) weak
+[kiepsko]kiepsko (PL) : (p-sł.) badly; (p-sł.) poorly
+[kier]kier (PL) : (rz.) dir; (rz.) hearts
+[kierat]kierat (PL) : (rz.) horsepower; (rz.) treadmill
+[kierdel]kierdel (PL) : (rz.) flock
+[kiereszowac]kiereszować (PL) : (cz.) slash
+[kiermasz]kiermasz (PL) : (rz.) bazaar; (rz.) fair; (rz.) kermis
+[kierowanie]kierowanie (PL) : (rz.) administration; (rz.) control; (rz.) ducting; (rz.) governance; (rz.) guidance; (rz.) helm; (rz.) management; (rz.) running; (rz.) steer; (rz.) steering; (rz.) target
+[kierowac]kierować (PL) : (cz.) administer; (cz.) aim; (cz.) boss; (cz.) conduct; (cz.) control; (cz.) direct; (cz.) divert; (cz.) drive; (cz.) guide; (cz.) handle; (cz.) lead; (cz.) manage; (cz.) regulate; (cz.) steer; (cz.) superintend; (cz.) supervise
+[kierowca]kierowca (PL) : (rz.) driver; (rz.) motorist; (rz.) trucker
+[kierownica]kierownica (PL) : (rz.) handlebar; (rz.) handle-bar; (rz.) steering; (rz.) wheel
+[kierownictwo]kierownictwo (PL) : (rz.) direction; (rz.) directorship; (rz.) disposal; (rz.) executives; (rz.) guidance; (rz.) lead; (rz.) leadership; (rz.) management
+[kierowniczy]kierowniczy (PL) : (p.) executive; (p.) leading; (p.) managerial
+[kierownik]kierownik (PL) : (rz.) boss; (rz.) conductor; (rz.) executive; (rz.) foreman; (rz.) gerent; (rz.) guide; (rz.) head; (rz.) leader; (rz.) manager; (rz.) superintendent; (rz.) supervisor
+[kierujacy]kierujący (PL) : (p.) directive
+[kierunek]kierunek (PL) : (rz.) bearing; (rz.) bias; (rz.) course; (rz.) direction; (rz.) in; (rz.) line; (rz.) northing; (rz.) policy; (rz.) tack; (rz.) tendency; (rz.) trend; (rz.) way
+[kierunkowo]kierunkowo (PL) : (p-sł.) directionally
+[kierunkowosc]kierunkowość (PL) : (rz.) directivity
+[kierunkowskaz]kierunkowskaz (PL) : (rz.) guidepost; (rz.) indicator
+[kierunkowy]kierunkowy (PL) : (p.) directional
+[kierzanka]kierzanka (PL) : (rz.) churn
+[kiesa]kiesa (PL) : (rz.) purse
+[kieszen]kieszeń (PL) : (rz.) pocket; (rz.) pouch
+[kieszonka]kieszonka (PL) : (rz.) fob; (rz.) pocket
+[kieszonkowe]kieszonkowe (PL) : (rz.) allowance; (rz.) pocket; (rz.) pocket-money
+[kieszonkowiec]kieszonkowiec (PL) : (rz.) pickpocket
+[kieszonkowy]kieszonkowy (PL) : (p.) handheld
+[kiel]kieł (PL) : (rz.) eye-tooth; (rz.) fang; (rz.) laniary; (rz.) tooth; (rz.) tusk
+[kielb]kiełb (PL) : (rz.) mullet
+[kielbasa]kiełbasa (PL) : (rz.) bologna; (rz.) pudding; (rz.) sausage
+[kielbaska]kiełbaska (PL) : (rz.) frankfurter; (rz.) sausage; (rz.) wiener
+[kielbaski]kiełbaski (PL) : (rz.) sausage
+[kielek]kiełek (PL) : (rz.) sprout
+[kielkowanie]kiełkowanie (PL) : (rz.) germination
+[kielkowac]kiełkować (PL) : (cz.) germinate; (cz.) pullulate; (cz.) sprout
+[kielznac]kiełznać (PL) : (cz.) bridle
+[kielzno]kiełzno (PL) : (rz.) mouthpiece
+[kij]kij (PL) : (rz.) bat; (rz.) broomstick; (rz.) cane; (rz.) cue; (rz.) stick
+[kijanka]kijanka (PL) : (rz.) battledore; (rz.) beater; (rz.) polliwog; (rz.) tadpole
+[kijek]kijek (PL) : (rz.) shinny; (rz.) stick; (rz.) tadpole
+[kiks]kiks (PL) : (rz.) miss; (rz.) snap; (rz.) squeak
+[kiksowac]kiksować (PL) : (cz.) squeak
+[kikut]kikut (PL) : (rz.) snag; (rz.) stump
+[kil]kil (PL) : (rz.) keel
+[kilim]kilim (PL) : (rz.) rug
+[kilka]kilka (PL) : (rz.) couple; (rz.) number
+[kilkakrotny]kilkakrotny (PL) : (p.) multiple; (p.) repeated
+[kilkudniowy]kilkudniowy (PL) : (p.) several
+[kilkuletni]kilkuletni (PL) : (p.) multi
+[kilkunastoletni]kilkunastoletni (PL) : (p.) several
+[kilo]kilo (PL) : (rz.) kilo
+[kilobajt]kilobajt (PL) : (rz.) kilobyte
+[kilobit]kilobit (PL) : (rz.) kilobit
+[kilocykl]kilocykl (PL) : (rz.) kilocycle
+[kilof]kilof (PL) : (rz.) axe; (rz.) hack; (rz.) hoe; (rz.) mattock; (rz.) pick; (rz.) pickaxe
+[kilogram]kilogram (PL) : (rz.) kilogram; (rz.) kilogramme
+[kilogram-sila]kilogram-siła (PL) : (rz.) kilogram-force
+[kilogramometr]kilogramometr (PL) : (rz.) kilogramme-meter; (rz.) kilogram-metre
+[kilogramowy]kilogramowy (PL) : (p.) one-kilo
+[kiloherc]kiloherc (PL) : (rz.) kilocycle; (rz.) kilohertz
+[kilokaloria]kilokaloria (PL) : (rz.) kilocalorie
+[kilometr]kilometr (PL) : (rz.) kilometre; (rz.) km
+[kilometraz]kilometraż (PL) : (rz.) mileage
+[kilopond]kilopond (PL) : (rz.) kilogram-force
+[kilotona]kilotona (PL) : (rz.) kiloton
+[kilowat]kilowat (PL) : (rz.) kilowatt
+[kilowatogodzina]kilowatogodzina (PL) : (rz.) kilowatt-hour
+[kilowolt]kilowolt (PL) : (rz.) kilovolt
+[kilowy]kilowy (PL) : (p.) one-kilo; (p.) syphilitic
+[kilson]kilson (PL) : (rz.) keelson
+[kilt]kilt (PL) : (rz.) kilt
+[kimograf]kimograf (PL) : (rz.) kymograph
+[kimono]kimono (PL) : (rz.) kimono
+[kindzal]kindżał (PL) : (rz.) dagger
+[kinematograf]kinematograf (PL) : (rz.) cinematograph
+[kinematografia]kinematografia (PL) : (rz.) cinema; (rz.) cinematography; (rz.) film; (rz.) filmmaking
+[kinematograficzny]kinematograficzny (PL) : (p.) cinematic; (p.) cinematographic
+[kinematyka]kinematyka (PL) : (rz.) kinematics
+[kineskop]kineskop (PL) : (rz.) kinescope; (rz.) tube
+[kinestezja]kinestezja (PL) : (rz.) kinaesthesia
+[kinetyczny]kinetyczny (PL) : (p.) kinetic
+[kinetyka]kinetyka (PL) : (rz.) kinetics
+[kinkiet]kinkiet (PL) : (rz.) bracket
+[kino]kino (PL) : (rz.) cinema; (rz.) flicks; (rz.) movies; (rz.) theatre
+[kinoman]kinoman (PL) : (rz.) moviegoer
+[kinooperator]kinooperator (PL) : (rz.) cameraman; (rz.) projectionist
+[kinowy]kinowy (PL) : (p.) cinematic
+[kiosk]kiosk (PL) : (rz.) bookstall; (rz.) kiosk
+[kioskarz]kioskarz (PL) : (rz.) newsagent
+[kiper]kiper (PL) : (rz.) sommelier
+[kipiel]kipiel (PL) : (rz.) billows; (rz.) surf; (rz.) surge
+[kipiec]kipieć (PL) : (cz.) boil; (cz.) seethe
+[kirasjer]kirasjer (PL) : (rz.) cuirassier
+[kisiel]kisiel (PL) : (rz.) jelly
+[kisic]kisić (PL) : (cz.) pickle
+[kiszka]kiszka (PL) : (rz.) bowel; (rz.) gut; (rz.) intestine
+[kiszkowy]kiszkowy (PL) : (p.) intestinal
+[kiszonka]kiszonka (PL) : (rz.) ensilage; (rz.) silage
+[kit]kit (PL) : (rz.) lute; (rz.) putty
+[kita]kita (PL) : (rz.) brush; (rz.) crest; (rz.) kitsch; (rz.) tuft
+[kitara]kitara (PL) : (rz.) cithara
+[kitel]kitel (PL) : (rz.) overall; (rz.) smock
+[kitka]kitka (PL) : (rz.) aigrette; (rz.) cock; (rz.) osprey; (rz.) ponytail; (rz.) tassel
+[kitla]kitla (PL) : (rz.) overall
+[kiur]kiur (PL) : (rz.) curie; (rz.) curium
+[kiwac]kiwać (PL) : (cz.) beckon; (cz.) lollop; (cz.) nod; (cz.) wag; (cz.) wave; (cz.) wobble
+[kiwi]kiwi (PL) : (rz.) kiwi
+[kiwniecie]kiwnięcie (PL) : (rz.) motion; (rz.) nod; (rz.) wag
+[kiwnac]kiwnąć (PL) : (cz.) beckon
+[kizeryt]kizeryt (PL) : (rz.) kieserite
+[kila]kiła (PL) : (rz.) pox; (rz.) syphilis
+[kilowy]kiłowy (PL) : (p.) syphilitic
+[kisc]kiść (PL) : (rz.) bunch; (rz.) cluster; (rz.) tuft
+[klacz]klacz (PL) : (rz.) mare
+[klaczka]klaczka (PL) : (rz.) filly
+[klajster]klajster (PL) : (rz.) glue; (rz.) paste; (rz.) size
+[klajstrowac]klajstrować (PL) : (cz.) paste
+[klaka]klaka (PL) : (rz.) claque
+[klakson]klakson (PL) : (rz.) honk; (rz.) horn; (rz.) klaxon; (rz.) nose
+[klaksonu]klaksonu (PL) : (rz.) toot
+[klamerka]klamerka (PL) : (rz.) brace; (rz.) buckle; (rz.) clasp; (rz.) clip; (rz.) peg
+[klamka]klamka (PL) : (rz.) door-handle; (rz.) doorknob; (rz.) door-knob; (rz.) handle; (rz.) hasp; (rz.) knob; (rz.) latch
+[klamra]klamra (PL) : (rz.) brace; (rz.) bracket; (rz.) buckle; (rz.) clamp; (rz.) clasp; (rz.) cramp; (rz.) fastener; (rz.) fastening; (rz.) gusset; (rz.) Shackle; (rz.) staple
+[klamrowac]klamrować (PL) : (cz.) clamp
+[klamrowy]klamrowy (PL) : (p.) curly
+[klan]klan (PL) : (rz.) clan
+[klanowosc]klanowość (PL) : (rz.) clannishness
+[klanowy]klanowy (PL) : (p.) clannish
+[klapa]klapa (PL) : (rz.) aileron; (rz.) cover; (rz.) earlap; (rz.) flap; (rz.) flapper; (rz.) flop; (rz.) lapel; (rz.) tailgate; (rz.) trapdoor; (rz.) valve; (rz.) washout; (rz.) wash-out
+[klapac]klapać (PL) : (cz.) chatter
+[klapka]klapka (PL) : (rz.) flap; (rz.) flip; (rz.) flip-flop
+[klapniecie]klapnięcie (PL) : (rz.) snap
+[klapolotka]klapolotka (PL) : (rz.) flap-aileron
+[klaps]klaps (PL) : (rz.) flap; (rz.) pat; (rz.) slap; (rz.) smack; (rz.) spank; (rz.) spat
+[klark]klark (PL) : (rz.) clerk
+[klarnecista]klarnecista (PL) : (rz.) clarinettist
+[klarnet]klarnet (PL) : (rz.) clarinet
+[klarowanie]klarowanie (PL) : (rz.) clarification; (rz.) clearing
+[klarowac]klarować (PL) : (cz.) clarifier; (cz.) clarify; (cz.) elucidate; (cz.) fine
+[klarownica]klarownica (PL) : (rz.) clarifier
+[klarownosc]klarowność (PL) : (rz.) clarity; (rz.) purity
+[klarowny]klarowny (PL) : (p.) clear; (p.) limpid
+[klasa]klasa (PL) : (rz.) class; (rz.) classification; (rz.) classroom; (rz.) class-room; (rz.) denomination; (rz.) form; (rz.) genus; (rz.) grade; (rz.) league; (rz.) rate; (rz.) schoolroom
+[klaser]klaser (PL) : (rz.) holder; (rz.) stamp-album
+[klaskanie]klaskanie (PL) : (rz.) applause; (rz.) clap
+[klaskac]klaskać (PL) : (cz.) applaud; (cz.) clap; (cz.) flap; (cz.) smack
+[klasowy]klasowy (PL) : (p.) class
+[klaster]klaster (PL) : (rz.) cluster
+[klasycystyczny]klasycystyczny (PL) : (p.) classical; (p.) neoclassical
+[klasycyzm]klasycyzm (PL) : (rz.) classicism
+[klasycznie]klasycznie (PL) : (p-sł.) classically
+[klasyczny]klasyczny (PL) : (p.) classic; (p.) classical; (p.) classicality; (p.) orthodox
+[klasyfikacja]klasyfikacja (PL) : (rz.) appraisal; (rz.) classification
+[klasyfikator]klasyfikator (PL) : (rz.) classic; (rz.) classifier; (rz.) classifiers
+[klasyfikowanie]klasyfikowanie (PL) : (rz.) grading; (rz.) screening
+[klasyfikowac]klasyfikować (PL) : (cz.) assort; (cz.) categorize; (cz.) class; (cz.) classify; (cz.) group; (cz.) sort
+[klasyk]klasyk (PL) : (rz.) classic; (rz.) classicist
+[klasyka]klasyka (PL) : (rz.) classic
+[klasztor]klasztor (PL) : (rz.) cloister; (rz.) convent; (rz.) monastery; (rz.) nunnery; (rz.) priory
+[klasztorny]klasztorny (PL) : (p.) cloistral; (p.) monastic
+[klasowka]klasówka (PL) : (rz.) test
+[klatka]klatka (PL) : (rz.) bird-cage; (rz.) cage; (rz.) chest; (rz.) coop; (rz.) frame; (rz.) hutch; (rz.) mew
+[klaun]klaun (PL) : (rz.) clown
+[klaustrofobia]klaustrofobia (PL) : (rz.) claustrophobia
+[klaustrofobiczny]klaustrofobiczny (PL) : (p.) claustrophobic
+[klauzula]klauzula (PL) : (rz.) clause; (rz.) condition; (rz.) provision; (rz.) proviso; (rz.) stipulation
+[klauzura]klauzura (PL) : (rz.) enclosure
+[klauzurowy]klauzurowy (PL) : (p.) pent
+[klawesyn]klawesyn (PL) : (rz.) harpsichord
+[klawiatura]klawiatura (PL) : (rz.) fingerboard; (rz.) keyboard; (rz.) keypad
+[klawikord]klawikord (PL) : (rz.) clavichord; (rz.) clavichords; (rz.) harpsichord
+[klawisz]klawisz (PL) : (rz.) jailer; (rz.) jailor; (rz.) key; (rz.) pushbutton; (rz.) screw
+[klasniecie]klaśnięcie (PL) : (rz.) clap
+[klecenie]klecenie (PL) : (rz.) hutch
+[klecha]klecha (PL) : (rz.) priest
+[klechda]klechda (PL) : (rz.) myth
+[klecic]klecić (PL) : (cz.) bungle
+[kleik]kleik (PL) : (rz.) gruel; (rz.) mush; (rz.) pap
+[kleistosc]kleistość (PL) : (rz.) viscosity
+[kleisty]kleisty (PL) : (p.) gluey; (p.) glutinous; (p.) gooey; (p.) limy; (p.) sticky; (p.) tacky
+[kleic]kleić (PL) : (cz.) glue; (cz.) paste; (cz.) splice; (cz.) stick
+[klej]klej (PL) : (rz.) adhesive; (rz.) glue; (rz.) gum; (rz.) paste; (rz.) size; (rz.) stick
+[klejarka]klejarka (PL) : (rz.) gluer
+[klejenie]klejenie (PL) : (rz.) bonding; (rz.) cementation; (rz.) slashing
+[klejnot]klejnot (PL) : (rz.) bijou; (rz.) gem; (rz.) jewel
+[klejonka]klejonka (PL) : (rz.) buckram; (rz.) dressing; (rz.) plywood
+[klekot]klekot (PL) : (rz.) clack; (rz.) clatter; (rz.) rattle
+[klekotac]klekotać (PL) : (cz.) chatter; (cz.) clack
+[kleks]kleks (PL) : (rz.) biota; (rz.) blob; (rz.) blot; (rz.) smudge
+[klepanie]klepanie (PL) : (rz.) clap; (rz.) dressing; (rz.) slut
+[kleparka]kleparka (PL) : (rz.) willow
+[klepac]klepać (PL) : (cz.) chase; (cz.) clap; (cz.) dab; (cz.) pat; (cz.) slap; (cz.) spank; (cz.) tap
+[klepisko]klepisko (PL) : (rz.) floor; (rz.) threshing-floor
+[klepka]klepka (PL) : (rz.) plank; (rz.) stave
+[klepniecie]klepnięcie (PL) : (rz.) pat; (rz.) slap
+[klepnac]klepnąć (PL) : (cz.) pat; (cz.) smack
+[klepsydra]klepsydra (PL) : (rz.) clepsydra; (rz.) hourglass; (rz.) hour-glass; (rz.) sandglass; (rz.) sand-glass
+[kleptoman]kleptoman (PL) : (rz.) kleptomaniac
+[kler]kler (PL) : (rz.) clergy; (rz.) ministry; (rz.) priesthood
+[kleryk]kleryk (PL) : (rz.) clergyman; (rz.) cleric
+[klerykalizm]klerykalizm (PL) : (rz.) clericalism
+[klerykalny]klerykalny (PL) : (p.) clerical; (p.) popish
+[klerykal]klerykał (PL) : (rz.) clericalist
+[kleszcz]kleszcz (PL) : (rz.) tick
+[kleszcze]kleszcze (PL) : (rz.) forceps; (rz.) pincers; (rz.) tick; (rz.) tong; (rz.) tongs
+[kleszczowy]kleszczowy (PL) : (p.) instrumental
+[klen]kleń (PL) : (rz.) chub
+[klient]klient (PL) : (rz.) acquirer; (rz.) buyer; (rz.) client; (rz.) consumer; (rz.) customer; (rz.) customers; (rz.) shopper
+[klient-serwer]klient-serwer (PL) : (rz.) client/server; (rz.) client-server
+[klientela]klientela (PL) : (rz.) clientele; (rz.) custom; (rz.) customers
+[klif]klif (PL) : (rz.) cliff
+[klik]klik (PL) : (rz.) click; (rz.) cliques
+[klika]klika (PL) : (rz.) caucus; (rz.) clan; (rz.) clique; (rz.) faction; (rz.) junta
+[klikanie]klikanie (PL) : (rz.) click
+[klikac]klikać (PL) : (cz.) click
+[klimakterium]klimakterium (PL) : (rz.) climacteric; (rz.) menopausal; (rz.) menopause
+[klimakteryczny]klimakteryczny (PL) : (p.) climacteric
+[klimat]klimat (PL) : (rz.) climate; (rz.) clime
+[klimatolog]klimatolog (PL) : (rz.) climatologist
+[klimatologia]klimatologia (PL) : (rz.) climatology
+[klimatycznie]klimatycznie (PL) : (p-sł.) climatically
+[klimatyczny]klimatyczny (PL) : (p.) climatic
+[klimatyzacja]klimatyzacja (PL) : (rz.) air-conditioning; (rz.) conditioning
+[klimatyzowanie]klimatyzowanie (PL) : (rz.) conditioning
+[klimatyzowany]klimatyzowany (PL) : (p.) air-conditioned
+[klimatyzowac]klimatyzować (PL) : (cz.) condition
+[klin]klin (PL) : (rz.) chock; (rz.) gore; (rz.) gusset; (rz.) jigger; (rz.) key; (rz.) quoin
+[klinga]klinga (PL) : (rz.) blade
+[klinicysta]klinicysta (PL) : (rz.) clinician
+[klinicznie]klinicznie (PL) : (p-sł.) clinically
+[kliniczny]kliniczny (PL) : (p.) clinical
+[klinika]klinika (PL) : (rz.) clinic
+[klinkier]klinkier (PL) : (rz.) clinker
+[klinowaty]klinowaty (PL) : (p.) cuneiform; (p.) wedge-shaped
+[klinowac]klinować (PL) : (cz.) wedge
+[klinowy]klinowy (PL) : (p.) wedge-shaped
+[klipa]klipa (PL) : (rz.) clip
+[kliper]kliper (PL) : (rz.) clipper
+[klips]klips (PL) : (rz.) clip
+[kliring]kliring (PL) : (rz.) clearing
+[klistron]klistron (PL) : (rz.) klystron
+[klisza]klisza (PL) : (rz.) block; (rz.) plate
+[klitka]klitka (PL) : (rz.) cubicle; (rz.) hutch
+[kliwaz]kliważ (PL) : (rz.) cleavage
+[kliwer]kliwer (PL) : (rz.) jib
+[kloaka]kloaka (PL) : (rz.) cesspit; (rz.) latrine
+[kloc]kloc (PL) : (rz.) block; (rz.) chump; (rz.) chunk; (rz.) clod; (rz.) log
+[klocek]klocek (PL) : (rz.) block; (rz.) domino; (rz.) planer
+[klocowaty]klocowaty (PL) : (p.) loutish; (p.) stumpy
+[klomb]klomb (PL) : (rz.) flowerbed; (rz.) flower-bed; (rz.) parterre; (rz.) rosary
+[klon]klon (PL) : (rz.) clone; (rz.) maple
+[klonowanie]klonowanie (PL) : (rz.) cloning
+[klonowac]klonować (PL) : (cz.) clone
+[klop]klop (PL) : (rz.) growler
+[klops]klops (PL) : (rz.) meatball; (rz.) meatloaf; (rz.) quenelle
+[klosz]klosz (PL) : (rz.) cloche; (rz.) lampshade; (rz.) shade
+[kloszowy]kloszowy (PL) : (p.) bell-shaped; (p.) flaring
+[klown]klown (PL) : (rz.) clown; (rz.) tumbler
+[klozet]klozet (PL) : (rz.) closet; (rz.) privy; (rz.) restroom; (rz.) toilet
+[klub]klub (PL) : (rz.) club; (rz.) clubhouse; (rz.) sorority
+[klucha]klucha (PL) : (rz.) noodle
+[klucie]klucie (PL) : (rz.) hatching; (rz.) 'sticker'
+[klucz]klucz (PL) : (rz.) clef; (rz.) clue; (rz.) glossary; (rz.) key; (rz.) latchkey; (rz.) spanner; (rz.) switch
+[klucznik]klucznik (PL) : (rz.) steward; (rz.) turnkey
+[kluczowanie]kluczowanie (PL) : (rz.) key
+[kluczowy]kluczowy (PL) : (p.) critical; (p.) crucial
+[kluczyk]kluczyk (PL) : (rz.) key
+[kluczyc]kluczyć (PL) : (cz.) dodge; (cz.) weave
+[kluska]kluska (PL) : (rz.) dumpling; (rz.) noodle
+[kluski]kluski (PL) : (rz.) noodles
+[klaskac]kląskać (PL) : (cz.) clap
+[klatwa]klątwa (PL) : (rz.) anathema; (rz.) ban; (rz.) curse; (rz.) excommunication
+[klac]kląć (PL) : (cz.) curse; (cz.) revile; (cz.) swear; (cz.) vituperate
+[kleczenie]klęczenie (PL) : (rz.) kneeler
+[kleczec]klęczeć (PL) : (cz.) kneel
+[klecznik]klęcznik (PL) : (rz.) stool
+[klekac]klękać (PL) : (cz.) kneel
+[klepa]klępa (PL) : (rz.) slut
+[kleska]klęska (PL) : (rz.) breakdown; (rz.) calamity; (rz.) debacle; (rz.) defeat; (rz.) disaster; (rz.) downfall; (rz.) famine; (rz.) plague
+[klesnac]klęsnąć (PL) : (cz.) subside
+[kmiec]kmieć (PL) : (rz.) serf; (rz.) yokel
+[kminek]kminek (PL) : (rz.) caraway; (rz.) cumin
+[kmiot]kmiot (PL) : (rz.) yokel
+[kmiotek]kmiotek (PL) : (rz.) yokel
+[knajpa]knajpa (PL) : (rz.) boozer; (rz.) joint; (rz.) pub; (rz.) tavern
+[knajpiarz]knajpiarz (PL) : (rz.) publican
+[knajpka]knajpka (PL) : (rz.) diner
+[knebel]knebel (PL) : (rz.) gag
+[kneblowac]kneblować (PL) : (cz.) gag
+[knedel]knedel (PL) : (rz.) dumpling
+[knedle]knedle (PL) : (rz.) dumplings
+[knieja]knieja (PL) : (rz.) dragnet; (rz.) forest
+[knocenie]knocenie (PL) : (rz.) botching
+[knocic]knocić (PL) : (cz.) botch; (cz.) bungle
+[knot]knot (PL) : (rz.) candlewick; (rz.) candle-wick; (rz.) strum; (rz.) wick
+[knowanie]knowanie (PL) : (rz.) intrigue
+[knucie]knucie (PL) : (rz.) knout
+[knur]knur (PL) : (rz.) boar; (rz.) hog
+[knut]knut (PL) : (rz.) knout
+[knuc]knuć (PL) : (cz.) plot; (cz.) scheme; (cz.) weave
+[knykiec]knykieć (PL) : (rz.) knuckle
+[knypel]knypel (PL) : (rz.) mallet
+[koagulacja]koagulacja (PL) : (rz.) coagulation
+[koagulant]koagulant (PL) : (rz.) coagulant
+[koagulat]koagulat (PL) : (rz.) coagulum
+[koagulator]koagulator (PL) : (rz.) coagulant
+[koagulowac]koagulować (PL) : (cz.) coagulate
+[koalescencja]koalescencja (PL) : (rz.) coalescence
+[koalicja]koalicja (PL) : (rz.) coalition
+[koasekuracja]koasekuracja (PL) : (rz.) coinsurance; (rz.) co-insurance
+[kobalt]kobalt (PL) : (rz.) cobalt
+[kobaltyn]kobaltyn (PL) : (rz.) cobaltite
+[kobieciarz]kobieciarz (PL) : (rz.) lady-killer; (rz.) wolf; (rz.) womanizer
+[kobiecina]kobiecina (PL) : (rz.) wife; (rz.) woman
+[kobiecosc]kobiecość (PL) : (rz.) femininity; (rz.) womanhood; (rz.) womanliness
+[kobiecy]kobiecy (PL) : (p.) female; (p.) feminine; (p.) womanish; (p.) womanly
+[kobierzec]kobierzec (PL) : (rz.) carpet
+[kobieta]kobieta (PL) : (rz.) bitch; (rz.) dame; (rz.) female; (rz.) femme; (rz.) mama; (rz.) missus; (rz.) woman; (rz.) women
+[kobiety]kobiety (PL) : (rz.) womanhood; (rz.) womankind; (rz.) womenfolk
+[kobra]kobra (PL) : (rz.) cobra
+[kobyla]kobyła (PL) : (rz.) mare
+[kobza]kobza (PL) : (rz.) bagpipe
+[kobziarz]kobziarz (PL) : (rz.) bagpiper; (rz.) piper
+[koc]koc (PL) : (rz.) blanket; (rz.) rug
+[kochajacy]kochający (PL) : (p.) affectionate
+[kochanek]kochanek (PL) : (rz.) lover; (rz.) paramour
+[kochanica]kochanica (PL) : (rz.) doxy; (rz.) mistress
+[kochanie]kochanie (PL) : (rz.) baby; (rz.) darling; (rz.) dear; (rz.) honey; (rz.) lovemaking; (rz.) love-making; (rz.) sweetheart
+[kochany]kochany (PL) : (p.) beloved
+[kochac]kochać (PL) : (cz.) adore; (cz.) love
+[kocher]kocher (PL) : (rz.) cooker
+[kochliwosc]kochliwość (PL) : (rz.) amorousness
+[kochliwy]kochliwy (PL) : (p.) amative; (p.) amorous
+[koci]koci (PL) : (p.) cattish; (p.) feline
+[kociak]kociak (PL) : (rz.) birdie; (rz.) kitten; (rz.) kitty
+[kocica]kocica (PL) : (rz.) she-cat
+[kociokwik]kociokwik (PL) : (rz.) hangover
+[kociol]kocioł (PL) : (rz.) boiler; (rz.) caldron; (rz.) cauldron; (rz.) kettle; (rz.) kettledrum; (rz.) kettle-drum
+[kociolek]kociołek (PL) : (rz.) kettle; (rz.) teapot
+[kociatko]kociątko (PL) : (rz.) cat; (rz.) cub; (rz.) kitten
+[kocic]kocić (PL) : (cz.) kitten
+[kocur]kocur (PL) : (rz.) male; (rz.) tomcat; (rz.) tom-cat
+[kocyk]kocyk (PL) : (rz.) blanket
+[kocz]kocz (PL) : (rz.) carriage
+[koczkodan]koczkodan (PL) : (rz.) fright
+[koczowac]koczować (PL) : (cz.) migrate
+[koczowisko]koczowisko (PL) : (rz.) lair
+[koczowniczy]koczowniczy (PL) : (p.) migrant; (p.) nomad; (p.) nomadic
+[koczownik]koczownik (PL) : (rz.) migrant; (rz.) nomad
+[koczujacy]koczujący (PL) : (p.) migratory
+[kod]kod (PL) : (rz.) code; (rz.) password
+[kodeina]kodeina (PL) : (rz.) codeine
+[kodek]kodek (PL) : (rz.) codec; (rz.) coder-decoder
+[kodeks]kodeks (PL) : (rz.) code; (rz.) codex; (rz.) statute-book
+[koder]koder (PL) : (rz.) coder; (rz.) encoder; (rz.) encoders
+[koder-dekoder]koder-dekoder (PL) : (rz.) codec; (rz.) coder-decoder
+[kodowanie]kodowanie (PL) : (rz.) encoder; (rz.) encrypting
+[kodowac]kodować (PL) : (cz.) code; (cz.) encode; (cz.) encrypt; (cz.) encrypting
+[kodycyl]kodycyl (PL) : (rz.) codicil
+[kodyfikacja]kodyfikacja (PL) : (rz.) codification
+[kodyfikator]kodyfikator (PL) : (rz.) codifier
+[kodyfikowac]kodyfikować (PL) : (cz.) codify
+[koedukacja]koedukacja (PL) : (rz.) coeducation; (rz.) co-education
+[koedukacyjny]koedukacyjny (PL) : (p.) coeducational; (p.) co-educational; (p.) mixed
+[koedycja]koedycja (PL) : (rz.) co-edition
+[koegzystencja]koegzystencja (PL) : (rz.) coexistence
+[koegzystowac]koegzystować (PL) : (cz.) coexist
+[koenzym]koenzym (PL) : (rz.) coenzyme
+[koercja]koercja (PL) : (rz.) coercion
+[kofeina]kofeina (PL) : (rz.) caffeine
+[koferdam]koferdam (PL) : (rz.) cofferdam
+[kognitywny]kognitywny (PL) : (p.) cognitive
+[kogut]kogut (PL) : (rz.) chanticleer; (rz.) cock; (rz.) fowl; (rz.) rooster
+[koherencja]koherencja (PL) : (rz.) coherence; (rz.) consistency
+[koherentny]koherentny (PL) : (p.) coherent
+[kohezja]kohezja (PL) : (rz.) cohesion
+[kohorta]kohorta (PL) : (rz.) cohort
+[koincydencja]koincydencja (PL) : (rz.) coincidence
+[koincydencyjny]koincydencyjny (PL) : (p.) coincident
+[koic]koić (PL) : (cz.) calm; (cz.) mollify; (cz.) soothe
+[koja]koja (PL) : (rz.) berth; (rz.) bunk; (rz.) cot
+[kojarzenie]kojarzenie (PL) : (rz.) association; (rz.) breeding; (rz.) mating
+[kojarzyc]kojarzyć (PL) : (cz.) associate; (cz.) conjoin; (cz.) join; (cz.) splice
+[kojec]kojec (PL) : (rz.) coop; (rz.) pen; (rz.) playpen
+[kojony]kojony (PL) : (p.) co-ions
+[kojot]kojot (PL) : (rz.) coyote
+[kojacy]kojący (PL) : (p.) balmy
+[kok]kok (PL) : (rz.) bun; (rz.) chignon; (rz.) topknot; (rz.) tress
+[koka]koka (PL) : (rz.) bun; (rz.) coca
+[kokaina]kokaina (PL) : (rz.) cocaine; (rz.) coke
+[kokainizowac]kokainizować (PL) : (cz.) cocainize
+[kokarda]kokarda (PL) : (rz.) bow; (rz.) bowknot; (rz.) cockade; (rz.) loop
+[kokardka]kokardka (PL) : (rz.) topknot
+[kokieteria]kokieteria (PL) : (rz.) coquetry
+[kokieteryjny]kokieteryjny (PL) : (p.) coquettish; (p.) saucy
+[kokietka]kokietka (PL) : (rz.) coquette; (rz.) jilt
+[kokietowac]kokietować (PL) : (cz.) coquet
+[kokila]kokila (PL) : (rz.) chill; (rz.) die
+[koklusz]koklusz (PL) : (rz.) whooping-cough
+[kokon]kokon (PL) : (rz.) cocoon; (rz.) follicle; (rz.) mothball; (rz.) pod
+[kokos]kokos (PL) : (rz.) coco; (rz.) cocoa; (rz.) coconut
+[kokosowiec]kokosowiec (PL) : (rz.) coco
+[kokoszka]kokoszka (PL) : (rz.) water-hen
+[kokota]kokota (PL) : (rz.) cocotte; (rz.) tart
+[kokpit]kokpit (PL) : (rz.) cockpit
+[koks]koks (PL) : (rz.) coke
+[koksiak]koksiak (PL) : (rz.) brazier; (rz.) fire-basket; (rz.) salamander
+[koksowanie]koksowanie (PL) : (rz.) carbonization; (rz.) carbonizing; (rz.) coking
+[koktajl]koktajl (PL) : (rz.) cocktail; (rz.) swizzle
+[kolaboracja]kolaboracja (PL) : (rz.) collaboration
+[kolaboracjonista]kolaboracjonista (PL) : (rz.) collaborationist
+[kolaborant]kolaborant (PL) : (rz.) collaborationist; (rz.) collaborator
+[kolaborowac]kolaborować (PL) : (cz.) collaborate
+[kolacja]kolacja (PL) : (rz.) board; (rz.) dinner; (rz.) supper
+[kolagen]kolagen (PL) : (rz.) collagen
+[kolanko]kolanko (PL) : (rz.) elbow; (rz.) knee
+[kolankowaty]kolankowaty (PL) : (p.) kneed
+[kolankowy]kolankowy (PL) : (p.) nodal
+[kolano]kolano (PL) : (rz.) bend; (rz.) elbow; (rz.) knee; (rz.) penstock
+[kolarski]kolarski (PL) : (p.) cyclist's
+[kolarstwo]kolarstwo (PL) : (rz.) cycling
+[kolarz]kolarz (PL) : (rz.) bicyclist; (rz.) cyclist
+[kolasa]kolasa (PL) : (rz.) calash
+[kolaska]kolaska (PL) : (rz.) calash
+[kolator]kolator (PL) : (rz.) collator; (rz.) interpolator; (rz.) presenter
+[kolaudacja]kolaudacja (PL) : (rz.) acceptation
+[kolaz]kolaż (PL) : (rz.) collage
+[kolba]kolba (PL) : (rz.) butt; (rz.) cob; (rz.) flask
+[kolcobrzuch]kolcobrzuch (PL) : (rz.) tambour
+[kolcowoj]kolcowój (PL) : (rz.) smilax
+[kolczasty]kolczasty (PL) : (p.) aculeate; (p.) barbed; (p.) hispid; (p.) prickly; (p.) spiky; (p.) thorny
+[kolczatka]kolczatka (PL) : (rz.) echidna
+[kolczuga]kolczuga (PL) : (rz.) chain-armour; (rz.) habergeon; (rz.) hauberk; (rz.) mail
+[kolczyk]kolczyk (PL) : (rz.) eardrop; (rz.) ear-drop; (rz.) earring; (rz.) ear-ring; (rz.) stud
+[kolczyki]kolczyki (PL) : (rz.) earrings
+[kolczykowac]kolczykować (PL) : (cz.) earmark
+[kolebka]kolebka (PL) : (rz.) birthplace; (rz.) cradle; (rz.) home
+[kolec]kolec (PL) : (rz.) barb; (rz.) prickle; (rz.) prong; (rz.) quill; (rz.) router; (rz.) spike; (rz.) spine; (rz.) spinelessly; (rz.) thorn
+[kolega]kolega (PL) : (rz.) associate; (rz.) boyfriend; (rz.) chum; (rz.) classmate; (rz.) colleague; (rz.) compeer; (rz.) comrade; (rz.) confrere; (rz.) feller; (rz.) fellow; (rz.) friend; (rz.) mate; (rz.) playmate; (rz.) workmate
+[kolegialnosc]kolegialność (PL) : (rz.) collegiality
+[kolegialny]kolegialny (PL) : (p.) collective; (p.) collegial; (p.) collegiate; (p.) joint
+[kolegium]kolegium (PL) : (rz.) board; (rz.) body; (rz.) college
+[koleina]koleina (PL) : (rz.) routine; (rz.) rut
+[kolej]kolej (PL) : (rz.) monorail; (rz.) rail; (rz.) railroad; (rz.) railway; (rz.) ropeway; (rz.) round; (rz.) turn
+[kolejarz]kolejarz (PL) : (rz.) railwayman
+[kolejka]kolejka (PL) : (rz.) line; (rz.) queue; (rz.) round; (rz.) train; (rz.) turn
+[kolejkowanie]kolejkowanie (PL) : (rz.) queuing
+[kolejnictwo]kolejnictwo (PL) : (rz.) railways
+[kolejno]kolejno (PL) : (p-sł.) alternately; (p-sł.) consecutively; (p-sł.) seriatim
+[kolejnosc]kolejność (PL) : (rz.) order; (rz.) rotation; (rz.) sequence; (rz.) spell; (rz.) subsequence; (rz.) succession; (rz.) tour; (rz.) turn
+[kolejny]kolejny (PL) : (p.) alternate; (p.) alternating; (p.) another; (p.) consecutive; (p.) next; (p.) serial; (p.) subsequent; (p.) successive; (p.) umpteenth; (p.) variable
+[kolekcja]kolekcja (PL) : (rz.) collection
+[kolekcjoner]kolekcjoner (PL) : (rz.) collector
+[kolekcjonowac]kolekcjonować (PL) : (cz.) collect
+[kolekta]kolekta (PL) : (rz.) collect
+[kolektor]kolektor (PL) : (rz.) carrier; (rz.) collector
+[kolektyw]kolektyw (PL) : (rz.) collective; (rz.) staff
+[kolektywizacja]kolektywizacja (PL) : (rz.) collectivisation; (rz.) collectivization
+[kolektywizm]kolektywizm (PL) : (rz.) collectivism
+[kolektywizowac]kolektywizować (PL) : (cz.) collectivize
+[kolektywny]kolektywny (PL) : (p.) collective
+[kolender]kolender (PL) : (rz.) corianders
+[kolendra]kolendra (PL) : (rz.) coriander
+[kolen]koleń (PL) : (rz.) dogfish
+[koles]koleś (PL) : (rz.) feller; (rz.) guy
+[kolezenski]koleżeński (PL) : (p.) chummy; (p.) collegial; (p.) friendly
+[kolezenskosc]koleżeńskość (PL) : (rz.) comradeship
+[kolezenstwo]koleżeństwo (PL) : (rz.) camaraderie; (rz.) companionship; (rz.) comradeship; (rz.) fellowship
+[kolezka]koleżka (PL) : (rz.) cully
+[kolia]kolia (PL) : (rz.) necklace
+[koliber]koliber (PL) : (rz.) hummingbird; (rz.) humming-bird
+[kolidowac]kolidować (PL) : (cz.) clash; (cz.) interfere
+[koligacja]koligacja (PL) : (rz.) affinity
+[kolimacja]kolimacja (PL) : (rz.) collimation
+[kolistosc]kolistość (PL) : (rz.) circularity
+[kolisty]kolisty (PL) : (p.) circuitous; (p.) circular
+[kolizja]kolizja (PL) : (rz.) collision; (rz.) conflict
+[koliscie]koliście (PL) : (rz.) circuitously
+[kolka]kolka (PL) : (rz.) colic
+[kolmatacja]kolmatacja (PL) : (rz.) silting-up
+[kolofon]kolofon (PL) : (rz.) colophon
+[koloid]koloid (PL) : (rz.) colloid
+[koloidalny]koloidalny (PL) : (p.) colloidal
+[koloidy]koloidy (PL) : (rz.) colloids
+[kolokacja]kolokacja (PL) : (rz.) collocation
+[kolokwializm]kolokwializm (PL) : (rz.) colloquialism
+[kolokwialny]kolokwialny (PL) : (p.) colloquial
+[kolokwium]kolokwium (PL) : (rz.) colloquium; (rz.) test
+[kolonel]kolonel (PL) : (rz.) minion
+[kolonia]kolonia (PL) : (rz.) colony; (rz.) rookery; (rz.) settlement
+[kolonializm]kolonializm (PL) : (rz.) colonialism
+[kolonialnie]kolonialnie (PL) : (p-sł.) colonially
+[kolonialny]kolonialny (PL) : (p.) colonial
+[kolonista]kolonista (PL) : (rz.) colonist; (rz.) settler
+[kolonizacja]kolonizacja (PL) : (rz.) colonization
+[kolonizator]kolonizator (PL) : (rz.) colonizer
+[kolonizatorstwo]kolonizatorstwo (PL) : (rz.) colonization
+[kolonizowac]kolonizować (PL) : (cz.) colonize
+[kolor]kolor (PL) : (rz.) colour; (rz.) original; (rz.) suit
+[koloratka]koloratka (PL) : (rz.) dog-collar
+[koloratura]koloratura (PL) : (rz.) coloratura
+[kolorowanie]kolorowanie (PL) : (rz.) colorizing; (rz.) colouring
+[kolorowac]kolorować (PL) : (cz.) colour; (cz.) stain
+[kolorowosc]kolorowość (PL) : (rz.) chrominance
+[kolorowy]kolorowy (PL) : (p.) chromatic; (p.) coloured; (p.) colourful; (p.) motley
+[kolorymetr]kolorymetr (PL) : (rz.) colorimeter
+[kolorymetryczny]kolorymetryczny (PL) : (p.) colorimetric
+[kolorystyczny]kolorystyczny (PL) : (p.) colouristic
+[kolorystyka]kolorystyka (PL) : (rz.) colouring
+[koloryt]koloryt (PL) : (rz.) coloration; (rz.) colouring
+[koloryzacja]koloryzacja (PL) : (rz.) colorization; (rz.) exaggeration
+[koloryzowac]koloryzować (PL) : (cz.) embellish; (cz.) embroider
+[kolos]kolos (PL) : (rz.) colossus; (rz.) giant; (rz.) hulk; (rz.) thumper; (rz.) whopper
+[kolosalnie]kolosalnie (PL) : (p-sł.) enormously
+[kolosalny]kolosalny (PL) : (p.) colossal
+[kolportaz]kolportaż (PL) : (rz.) distribution; (rz.) handles
+[kolporter]kolporter (PL) : (rz.) distributor; (rz.) newsmonger
+[kolporterski]kolporterski (PL) : (p.) distributor's
+[kolportowac]kolportować (PL) : (cz.) hawk
+[kolubryna]kolubryna (PL) : (rz.) culverin
+[kolumbit]kolumbit (PL) : (rz.) tantalite
+[kolumienka]kolumienka (PL) : (rz.) bedpost; (rz.) column; (rz.) stanchion
+[kolumna]kolumna (PL) : (rz.) column; (rz.) tower
+[kolumnada]kolumnada (PL) : (rz.) colonnade
+[kolumnowy]kolumnowy (PL) : (p.) columnar
+[kolacy]kolący (PL) : (p.) thorny
+[koleda]kolęda (PL) : (rz.) carol
+[koledowac]kolędować (PL) : (cz.) carol
+[koma]koma (PL) : (rz.) coma
+[komando]komando (PL) : (rz.) commando
+[komandor]komandor (PL) : (rz.) captain; (rz.) commander; (rz.) commodore
+[komandorski]komandorski (PL) : (p.) commander's
+[komandos]komandos (PL) : (rz.) commando; (rz.) raider
+[komar]komar (PL) : (rz.) gnat; (rz.) midge; (rz.) mosquito
+[komarnica]komarnica (PL) : (rz.) daddy-longlegs; (rz.) daddy-long-legs
+[kombajn]kombajn (PL) : (rz.) harvester
+[kombatant]kombatant (PL) : (rz.) combatant; (rz.) veteran
+[kombi]kombi (PL) : (rz.) estate
+[kombinacja]kombinacja (PL) : (rz.) cami-knickers; (rz.) combination; (rz.) event; (rz.) rearrangement
+[kombinacyjny]kombinacyjny (PL) : (p.) combinative
+[kombinat]kombinat (PL) : (rz.) associate; (rz.) plant
+[kombinator]kombinator (PL) : (rz.) schemer
+[kombinatoryczny]kombinatoryczny (PL) : (p.) combinatorial
+[kombinerki]kombinerki (PL) : (rz.) pliers
+[kombinezon]kombinezon (PL) : (rz.) coveralls; (rz.) overall; (rz.) overalls; (rz.) spacesuit; (rz.) suit
+[kombinowac]kombinować (PL) : (cz.) combine; (cz.) combined
+[komedia]komedia (PL) : (rz.) comedy; (rz.) slapstick
+[komediancki]komediancki (PL) : (p.) faked
+[komedianctwo]komedianctwo (PL) : (rz.) sham
+[komediant]komediant (PL) : (rz.) comedian
+[komediopisarz]komediopisarz (PL) : (rz.) comedy
+[komediowy]komediowy (PL) : (p.) comedic; (p.) comic; (p.) comical
+[komenda]komenda (PL) : (rz.) command; (rz.) headquarters
+[komendant]komendant (PL) : (rz.) commandant; (rz.) commander; (rz.) marshal; (rz.) scoutmaster
+[komendantura]komendantura (PL) : (rz.) headquarters
+[komenderowac]komenderować (PL) : (cz.) command
+[komentarz]komentarz (PL) : (rz.) annotation; (rz.) comment; (rz.) commentary; (rz.) footnote; (rz.) foot-note
+[komentator]komentator (PL) : (rz.) commentator; (rz.) interpreter
+[komentowanie]komentowanie (PL) : (rz.) comment
+[komentowac]komentować (PL) : (cz.) annotate; (cz.) comment; (cz.) include
+[komercja]komercja (PL) : (rz.) commerce
+[komercjalizacja]komercjalizacja (PL) : (rz.) commercialization
+[komercjalizm]komercjalizm (PL) : (rz.) commercialism
+[komercjalnie]komercjalnie (PL) : (p-sł.) commercially
+[komercjalny]komercjalny (PL) : (p.) commercial
+[komercyjnie]komercyjnie (PL) : (p-sł.) commercially
+[komercyjny]komercyjny (PL) : (p.) commercial
+[kometa]kometa (PL) : (rz.) comet
+[kometka]kometka (PL) : (rz.) badminton
+[komfort]komfort (PL) : (rz.) comfort; (rz.) convenience
+[komfortowo]komfortowo (PL) : (p-sł.) comfortably
+[komfortowy]komfortowy (PL) : (p.) comfortable; (p.) comfy
+[komicznie]komicznie (PL) : (p-sł.) comically; (p-sł.) funnily
+[komicznosc]komiczność (PL) : (rz.) comicality
+[komiczny]komiczny (PL) : (p.) burlesque; (p.) comic; (p.) comical; (p.) hilarious
+[komik]komik (PL) : (rz.) comedian; (rz.) comic; (rz.) entertainer
+[komiks]komiks (PL) : (rz.) cartoon; (rz.) comic; (rz.) strip
+[komin]komin (PL) : (rz.) chimney; (rz.) flue; (rz.) funnel; (rz.) smokestack; (rz.) stack; (rz.) stalk
+[kominek]kominek (PL) : (rz.) fire; (rz.) fireplace; (rz.) fire-place; (rz.) fireside; (rz.) hearth
+[kominiarka]kominiarka (PL) : (rz.) balaclava
+[kominiarz]kominiarz (PL) : (rz.) chimney; (rz.) chimneysweep; (rz.) chimney-sweep; (rz.) chimneysweeper; (rz.) chimney-sweeper
+[komis]komis (PL) : (rz.) commission
+[komisant]komisant (PL) : (rz.) consignees
+[komisariat]komisariat (PL) : (rz.) commissariat; (rz.) police-station; (rz.) station
+[komisarz]komisarz (PL) : (rz.) commissar; (rz.) commissioner; (rz.) inquirer; (rz.) superintendent
+[komisja]komisja (PL) : (rz.) board; (rz.) commission; (rz.) committee; (rz.) panel
+[komisyjny]komisyjny (PL) : (p.) corporate
+[komitent]komitent (PL) : (rz.) consigner; (rz.) consignor
+[komitet]komitet (PL) : (rz.) board; (rz.) committee; (rz.) panel
+[komiwojazer]komiwojażer (PL) : (rz.) bagman; (rz.) traveller
+[komizm]komizm (PL) : (rz.) comedy; (rz.) comicality
+[komnata]komnata (PL) : (rz.) apartment; (rz.) chamber; (rz.) room
+[komoda]komoda (PL) : (rz.) chest; (rz.) commode; (rz.) dresser; (rz.) tallboy
+[komodor]komodor (PL) : (rz.) commodore
+[komora]komora (PL) : (rz.) chamber; (rz.) compartment; (rz.) header; (rz.) ventricle
+[komorne]komorne (PL) : (rz.) rent; (rz.) rental
+[komornik]komornik (PL) : (rz.) bailiff
+[komorowy]komorowy (PL) : (p.) ventricular
+[kompakt]kompakt (PL) : (rz.) compact
+[kompaktowy]kompaktowy (PL) : (p.) compact
+[kompan]kompan (PL) : (rz.) buddy; (rz.) companion; (rz.) pal
+[kompania]kompania (PL) : (rz.) companionship; (rz.) company
+[komparator]komparator (PL) : (rz.) comparator
+[komparatystyka]komparatystyka (PL) : (rz.) benchmarking
+[kompas]kompas (PL) : (rz.) compass
+[kompatybilnie]kompatybilnie (PL) : (p-sł.) compatibly
+[kompatybilnosc]kompatybilność (PL) : (rz.) compatibility; (rz.) conformity
+[kompatybilny]kompatybilny (PL) : (p.) compatible
+[kompendium]kompendium (PL) : (rz.) compendium; (rz.) digest
+[kompensacja]kompensacja (PL) : (rz.) compensation
+[kompensacyjny]kompensacyjny (PL) : (p.) compensative; (p.) compensatory
+[kompensata]kompensata (PL) : (rz.) compensation; (rz.) setoff; (rz.) set-off
+[kompensator]kompensator (PL) : (rz.) compensator; (rz.) equalizer
+[kompensowac]kompensować (PL) : (cz.) compensate
+[kompetencja]kompetencja (PL) : (rz.) ability; (rz.) attribution; (rz.) capacity; (rz.) cognizance; (rz.) competence; (rz.) competency; (rz.) jurisdiction; (rz.) remit
+[kompetentnie]kompetentnie (PL) : (p-sł.) competently
+[kompetentny]kompetentny (PL) : (p.) adequate; (p.) capable; (p.) cognizant; (p.) competent; (p.) pertinent
+[kompilacja]kompilacja (PL) : (rz.) compilation
+[kompilator]kompilator (PL) : (rz.) compiler
+[kompilator-asembler]kompilator-asembler (PL) : (rz.) compiler-assembler
+[kompilowanie]kompilowanie (PL) : (rz.) combination
+[kompilowac]kompilować (PL) : (cz.) build; (cz.) compile
+[kompleks]kompleks (PL) : (rz.) aggregate; (rz.) complex
+[kompleksowosc]kompleksowość (PL) : (rz.) complexity
+[kompleksowy]kompleksowy (PL) : (p.) complex; (p.) comprehensive
+[komplement]komplement (PL) : (rz.) compliment
+[komplet]komplet (PL) : (rz.) bucket; (rz.) kit; (rz.) nest; (rz.) set; (rz.) suite
+[kompletnie]kompletnie (PL) : (p-sł.) completely; (p-sł.) throughout
+[kompletnosc]kompletność (PL) : (rz.) completeness; (rz.) exhaustiveness
+[kompletny]kompletny (PL) : (p.) complete; (p.) full; (p.) stark; (p.) total; (p.) unmitigated
+[kompletowac]kompletować (PL) : (cz.) compile; (cz.) complement; (cz.) complete
+[komplikacja]komplikacja (PL) : (rz.) complication; (rz.) intricacy; (rz.) obstacle
+[komplikowac]komplikować (PL) : (cz.) complicate; (cz.) complicated; (cz.) involve
+[komponent]komponent (PL) : (rz.) component
+[komponentowy]komponentowy (PL) : (p.) component-based
+[komponowanie]komponowanie (PL) : (rz.) composition
+[komponowac]komponować (PL) : (cz.) compose; (cz.) fold
+[kompost]kompost (PL) : (rz.) compost
+[kompostowac]kompostować (PL) : (cz.) compost
+[kompot]kompot (PL) : (rz.) compote
+[kompozycja]kompozycja (PL) : (rz.) composition; (rz.) dance; (rz.) makeup; (rz.) make-up; (rz.) theme
+[kompozycyjny]kompozycyjny (PL) : (p.) compositional
+[kompozyt]kompozyt (PL) : (rz.) composite
+[kompozytor]kompozytor (PL) : (rz.) composer
+[kompozytowy]kompozytowy (PL) : (p.) composite
+[kompres]kompres (PL) : (rz.) compress
+[kompresja]kompresja (PL) : (rz.) compression
+[kompresor]kompresor (PL) : (rz.) compressor; (rz.) packer
+[kompresowac]kompresować (PL) : (cz.) compress
+[kompromis]kompromis (PL) : (rz.) balance; (rz.) compromise; (rz.) trade-off
+[kompromisowosc]kompromisowość (PL) : (rz.) compliance
+[kompromisowy]kompromisowy (PL) : (p.) accommodating
+[kompromitacja]kompromitacja (PL) : (rz.) disrepute; (rz.) embarrassment; (rz.) shame
+[kompromitowac]kompromitować (PL) : (cz.) compromise; (cz.) discredit; (cz.) disgrace
+[komprymowac]komprymować (PL) : (cz.) compress
+[komputer]komputer (PL) : (rz.) computer; (rz.) pc
+[komputeryzacja]komputeryzacja (PL) : (rz.) computerization
+[komputeryzowac]komputeryzować (PL) : (cz.) computerize
+[komtur]komtur (PL) : (rz.) commander
+[komuch]komuch (PL) : (rz.) commie
+[komuna]komuna (PL) : (rz.) commune
+[komunalny]komunalny (PL) : (p.) communal; (p.) communality; (p.) municipal
+[komunard]komunard (PL) : (rz.) communard
+[komunal]komunał (PL) : (rz.) commonplace; (rz.) truism
+[komunia]komunia (PL) : (rz.) communion; (rz.) ordinance
+[komunikacja]komunikacja (PL) : (rz.) communication; (rz.) messaging; (rz.) traffic; (rz.) transport
+[komunikacyjny]komunikacyjny (PL) : (p.) front-end
+[komunikant]komunikant (PL) : (rz.) communicant
+[komunikat]komunikat (PL) : (rz.) announcement; (rz.) bulletin; (rz.) communication; (rz.) message
+[komunikator]komunikator (PL) : (rz.) communicator
+[komunikatywnosc]komunikatywność (PL) : (rz.) communicativeness
+[komunikatywny]komunikatywny (PL) : (p.) articulate; (p.) communicative
+[komunikowanie]komunikowanie (PL) : (rz.) communication; (rz.) messaging
+[komunikowac]komunikować (PL) : (cz.) advise; (cz.) announce; (cz.) communicate; (cz.) interact; (cz.) talk
+[komunista]komunista (PL) : (rz.) communist; (rz.) red
+[komunistyczny]komunistyczny (PL) : (p.) communist; (p.) communistic
+[komunizm]komunizm (PL) : (rz.) communism
+[komutacja]komutacja (PL) : (rz.) commutation
+[komutowac]komutować (PL) : (cz.) commutate; (cz.) commute
+[komutujacy]komutujący (PL) : (p.) commutative
+[komorka]komórka (PL) : (rz.) cell; (rz.) cellule; (rz.) cubicle; (rz.) shed
+[komorkowaty]komórkowaty (PL) : (p.) cellular
+[komorkowy]komórkowy (PL) : (p.) celled; (p.) cellular
+[komza]komża (PL) : (rz.) alb; (rz.) alba; (rz.) cotta; (rz.) surplice
+[konar]konar (PL) : (rz.) arm; (rz.) bough; (rz.) brachium; (rz.) branch; (rz.) limb
+[konac]konać (PL) : (cz.) agonise; (cz.) die
+[koncentracja]koncentracja (PL) : (rz.) concentration; (rz.) focus
+[koncentrat]koncentrat (PL) : (rz.) concentrate
+[koncentrator]koncentrator (PL) : (rz.) concentrator; (rz.) hub
+[koncentrowac]koncentrować (PL) : (cz.) concentrate; (cz.) mass
+[koncentrycznie]koncentrycznie (PL) : (p-sł.) concentrically
+[koncentrycznosc]koncentryczność (PL) : (rz.) concentricity
+[koncentryczny]koncentryczny (PL) : (p.) concentric
+[koncepcja]koncepcja (PL) : (rz.) concept; (rz.) conception; (rz.) notion
+[koncepcyjny]koncepcyjny (PL) : (p.) conceptual
+[koncept]koncept (PL) : (rz.) concept
+[konceptualnie]konceptualnie (PL) : (p-sł.) conceptually
+[konceptualny]konceptualny (PL) : (p.) conceptual
+[koncern]koncern (PL) : (rz.) concern; (rz.) group
+[koncert]koncert (PL) : (rz.) accordance; (rz.) concert; (rz.) concerto; (rz.) gig; (rz.) show
+[koncertmistrz]koncertmistrz (PL) : (rz.) concertmaster
+[koncesja]koncesja (PL) : (rz.) concession; (rz.) franchise; (rz.) licence; (rz.) license
+[koncesjonariusz]koncesjonariusz (PL) : (rz.) concessionaire; (rz.) licensee
+[koncesjonowac]koncesjonować (PL) : (cz.) license
+[koncesyjny]koncesyjny (PL) : (p.) concessionary; (p.) concessive
+[koncha]koncha (PL) : (rz.) conch
+[koncyliacja]koncyliacja (PL) : (rz.) conciliation
+[koncypowac]koncypować (PL) : (cz.) devise
+[kondensacja]kondensacja (PL) : (rz.) condensation
+[kondensacyjny]kondensacyjny (PL) : (p.) condensed
+[kondensat]kondensat (PL) : (rz.) condensate; (rz.) condensates
+[kondensator]kondensator (PL) : (rz.) capacitor; (rz.) condenser
+[kondensowac]kondensować (PL) : (cz.) compress; (cz.) condense; (cz.) encapsulate; (cz.) solidify
+[kondolencja]kondolencja (PL) : (rz.) condolence; (rz.) empathy
+[kondolencje]kondolencje (PL) : (rz.) condolence
+[kondolencyjny]kondolencyjny (PL) : (p.) condolatory
+[kondom]kondom (PL) : (rz.) condom
+[kondor]kondor (PL) : (rz.) condor
+[kondotier]kondotier (PL) : (rz.) condottiere
+[konduktor]konduktor (PL) : (rz.) busman; (rz.) conductor; (rz.) guard; (rz.) liner
+[konduktorka]konduktorka (PL) : (rz.) conductress
+[konduktywnosc]konduktywność (PL) : (rz.) conductivity
+[kondycja]kondycja (PL) : (rz.) condition; (rz.) constitution; (rz.) fitness; (rz.) form; (rz.) shape
+[kondycjonowanie]kondycjonowanie (PL) : (rz.) preconditioning
+[kondygnacja]kondygnacja (PL) : (rz.) flight; (rz.) storey; (rz.) story; (rz.) tier
+[koneksja]koneksja (PL) : (rz.) connection; (rz.) connexion; (rz.) interrelation
+[koneser]koneser (PL) : (rz.) connoisseur
+[konewka]konewka (PL) : (rz.) watering-can
+[konfabulacja]konfabulacja (PL) : (rz.) confabulation
+[konfederacja]konfederacja (PL) : (rz.) confederacy; (rz.) confederation
+[konfederat]konfederat (PL) : (rz.) confederate
+[konfekcja]konfekcja (PL) : (rz.) confection; (rz.) slops
+[konfekcyjny]konfekcyjny (PL) : (p.) ready-made
+[konferansjer]konferansjer (PL) : (rz.) announcer; (rz.) entertainer; (rz.) host
+[konferencja]konferencja (PL) : (rz.) conference
+[konferowac]konferować (PL) : (cz.) confer
+[konfesjonal]konfesjonał (PL) : (rz.) confessional
+[konfetti]konfetti (PL) : (rz.) confetti
+[konfidencjonalny]konfidencjonalny (PL) : (p.) confidential; (p.) familiar
+[konfident]konfident (PL) : (rz.) informer
+[konfiguracja]konfiguracja (PL) : (rz.) configuration; (rz.) topology
+[konfigurowalny]konfigurowalny (PL) : (p.) configurable
+[konfigurowanie]konfigurowanie (PL) : (rz.) configuration; (rz.) configuring
+[konfigurowac]konfigurować (PL) : (cz.) configure
+[konfirmacja]konfirmacja (PL) : (rz.) confirmation; (rz.) sanction
+[konfirmowac]konfirmować (PL) : (cz.) confirm; (cz.) sanction
+[konfiskata]konfiskata (PL) : (rz.) confiscation; (rz.) seizure
+[konfiskowanie]konfiskowanie (PL) : (rz.) confiscation
+[konfiskowac]konfiskować (PL) : (cz.) confiscate; (cz.) confiscated; (cz.) impound
+[konfitura]konfitura (PL) : (rz.) jam
+[konfitury]konfitury (PL) : (rz.) jam; (rz.) preserve
+[konflikt]konflikt (PL) : (rz.) conflict; (rz.) disagreement; (rz.) strife
+[konfliktowy]konfliktowy (PL) : (p.) abrasive; (p.) conflicting
+[konforemny]konforemny (PL) : (p.) conformal
+[konformacja]konformacja (PL) : (rz.) conformation
+[konformista]konformista (PL) : (rz.) conformist
+[konformizm]konformizm (PL) : (rz.) conformism; (rz.) conformity
+[konfrontacja]konfrontacja (PL) : (rz.) comparison; (rz.) confrontation
+[konfrontacyjny]konfrontacyjny (PL) : (p.) confrontational; (p.) hawkish
+[konfrontowac]konfrontować (PL) : (cz.) compare; (cz.) confront
+[konfucjanizm]konfucjanizm (PL) : (rz.) Confucianism
+[konfundowac]konfundować (PL) : (cz.) confound
+[kongenialny]kongenialny (PL) : (p.) masterly
+[konger]konger (PL) : (rz.) conger
+[konglomeracja]konglomeracja (PL) : (rz.) conglomeration
+[konglomerat]konglomerat (PL) : (rz.) conglomerate; (rz.) conglomeration
+[kongregacja]kongregacja (PL) : (rz.) congregation
+[kongres]kongres (PL) : (rz.) congress; (rz.) convention
+[kongresman]kongresman (PL) : (rz.) congressman
+[kongresowy]kongresowy (PL) : (p.) congressional
+[kongruencja]kongruencja (PL) : (rz.) congruence
+[kongruentny]kongruentny (PL) : (p.) congruent
+[koniak]koniak (PL) : (rz.) brandy; (rz.) cognac
+[koniczyna]koniczyna (PL) : (rz.) clover; (rz.) shamrock; (rz.) trefoil
+[koniec]koniec (PL) : (rz.) close; (rz.) counterpart; (rz.) demise; (rz.) end; (rz.) ending; (rz.) expiration; (rz.) extremity; (rz.) finish; (rz.) finisher; (rz.) stop; (rz.) tail; (rz.) taper; (rz.) terminal; (rz.) termination; (rz.) terminus; (rz.) tip; (rz.) tipi; (rz.) upshot
+[koniecznie]koniecznie (PL) : (p-sł.) absolutely; (p-sł.) imperatively; (p-sł.) necessarily
+[koniecznosc]konieczność (PL) : (rz.) imperative; (rz.) indispensability; (rz.) necessity; (rz.) need
+[konieczny]konieczny (PL) : (p.) imperative; (p.) necessary; (p.) needful; (p.) required; (p.) requisite
+[koniina]koniina (PL) : (rz.) coniine
+[konik]konik (PL) : (rz.) exchanger; (rz.) hobby; (rz.) hobbyhorse; (rz.) horse; (rz.) knight; (rz.) pony
+[konina]konina (PL) : (rz.) horse; (rz.) horsemeat
+[koniokrad]koniokrad (PL) : (rz.) cattle-lifter; (rz.) rustler
+[koniuch]koniuch (PL) : (rz.) groom
+[koniugacja]koniugacja (PL) : (rz.) conjugation
+[koniugowac]koniugować (PL) : (cz.) conjugate
+[koniunkcja]koniunkcja (PL) : (rz.) conjunction
+[koniunktura]koniunktura (PL) : (rz.) conjuncture; (rz.) juncture; (rz.) prosperity
+[koniunkturalista]koniunkturalista (PL) : (rz.) timeserver; (rz.) time-server
+[koniunkturalny]koniunkturalny (PL) : (p.) economic; (p.) passing
+[koniunktywny]koniunktywny (PL) : (p.) conjunctive
+[koniuszy]koniuszy (PL) : (rz.) equerry; (rz.) groom
+[konkatenacja]konkatenacja (PL) : (rz.) concatenation
+[konklawe]konklawe (PL) : (rz.) conclave
+[konkludowac]konkludować (PL) : (cz.) conclude; (cz.) infer
+[konkluzja]konkluzja (PL) : (rz.) conclusion; (rz.) inference; (rz.) submersion
+[konkordancja]konkordancja (PL) : (rz.) concordance
+[konkordat]konkordat (PL) : (rz.) concordat
+[konkrecja]konkrecja (PL) : (rz.) concretion
+[konkret]konkret (PL) : (rz.) concrete; (rz.) fact; (rz.) instance; (rz.) nitty-gritty
+[konkretnie]konkretnie (PL) : (p-sł.) concretely; (p-sł.) specifically
+[konkretny]konkretny (PL) : (p.) businesslike; (p.) concrete; (p.) concreteness; (p.) particular; (p.) real; (p.) solid; (p.) specific; (p.) substantial
+[konkretyzacja]konkretyzacja (PL) : (rz.) instantiation; (rz.) materialization
+[konkretyzowac]konkretyzować (PL) : (cz.) instantiate; (cz.) jell; (cz.) reify; (cz.) specify
+[konkubent]konkubent (PL) : (rz.) cohabitant; (rz.) cohabiter
+[konkubina]konkubina (PL) : (rz.) concubine
+[konkubinat]konkubinat (PL) : (rz.) cohabitation
+[konkurencja]konkurencja (PL) : (rz.) competition; (rz.) event
+[konkurencyjnie]konkurencyjnie (PL) : (p-sł.) competitively
+[konkurencyjnosc]konkurencyjność (PL) : (rz.) competitiveness
+[konkurencyjny]konkurencyjny (PL) : (p.) competitive
+[konkurent]konkurent (PL) : (rz.) competitor; (rz.) concurrent; (rz.) rival; (rz.) suitor
+[konkurowac]konkurować (PL) : (cz.) compete
+[konkurs]konkurs (PL) : (rz.) competition; (rz.) contest
+[konkursowy]konkursowy (PL) : (p.) competitive
+[konkury]konkury (PL) : (rz.) courtship; (rz.) suit
+[konkwistador]konkwistador (PL) : (rz.) conquistador
+[konnica]konnica (PL) : (rz.) cavalry
+[konno]konno (PL) : (p-sł.) horseback
+[konny]konny (PL) : (p.) equestrian; (p.) mounted
+[konopi]konopi (PL) : (rz.) hackle
+[konopie]konopie (PL) : (rz.) cannabis; (rz.) hemps
+[konopny]konopny (PL) : (p.) hempen
+[konosament]konosament (PL) : (rz.) bill
+[konotacja]konotacja (PL) : (rz.) connotation
+[konotowac]konotować (PL) : (cz.) connote
+[konowal]konował (PL) : (rz.) quack; (rz.) sawbones
+[konsekracja]konsekracja (PL) : (rz.) consecration
+[konsekrowac]konsekrować (PL) : (cz.) consecrate
+[konsekutywny]konsekutywny (PL) : (p.) consecutive
+[konsekwencja]konsekwencja (PL) : (rz.) coherence; (rz.) coherency; (rz.) consequence; (rz.) conservation; (rz.) consistence; (rz.) consistency; (rz.) implication
+[konsekwencji]konsekwencji (PL) : (rz.) incongruity
+[konsekwentnie]konsekwentnie (PL) : (p-sł.) consistently
+[konsekwentny]konsekwentny (PL) : (p.) consequent; (p.) consistent
+[konsensualny]konsensualny (PL) : (p.) consensual
+[konsensus]konsensus (PL) : (rz.) consensus
+[konserwa]konserwa (PL) : (rz.) maintenance; (rz.) preserve
+[konserwacja]konserwacja (PL) : (rz.) conservancy; (rz.) conservation; (rz.) maintenance; (rz.) preservation
+[konserwant]konserwant (PL) : (rz.) preservative
+[konserwator]konserwator (PL) : (rz.) conservationist; (rz.) conservator; (rz.) restorer
+[konserwatorium]konserwatorium (PL) : (rz.) conservatoire; (rz.) conservatory; (rz.) hothouse
+[konserwatorski]konserwatorski (PL) : (p.) conservational
+[konserwatysta]konserwatysta (PL) : (rz.) conservative; (rz.) diehard
+[konserwatywnie]konserwatywnie (PL) : (p-sł.) conservatively
+[konserwatywny]konserwatywny (PL) : (p.) conservative
+[konserwatyzm]konserwatyzm (PL) : (rz.) conservatism
+[konserwowanie]konserwowanie (PL) : (rz.) curing; (rz.) preservation
+[konserwowac]konserwować (PL) : (cz.) conserve; (cz.) maintain; (cz.) preserve; (cz.) tin
+[konserwowy]konserwowy (PL) : (p.) canned; (p.) pickled; (p.) tinned
+[konskrypcja]konskrypcja (PL) : (rz.) conscription
+[konsola]konsola (PL) : (rz.) bracket; (rz.) console
+[konsolacja]konsolacja (PL) : (rz.) consolation
+[konsoleta]konsoleta (PL) : (rz.) console; (rz.) mixer
+[konsolidacja]konsolidacja (PL) : (rz.) consolidation; (rz.) funding; (rz.) linking
+[konsolidator]konsolidator (PL) : (rz.) linker
+[konsolidowac]konsolidować (PL) : (cz.) consolidate
+[konsonans]konsonans (PL) : (rz.) consonance
+[konsonant]konsonant (PL) : (rz.) consonant
+[konsorcjum]konsorcjum (PL) : (rz.) consortium; (rz.) syndicate
+[konspekt]konspekt (PL) : (rz.) blueprint; (rz.) conspectus; (rz.) draft; (rz.) outline; (rz.) syllabus; (rz.) synopsis
+[konspiracja]konspiracja (PL) : (rz.) conspiracy; (rz.) underground
+[konspiracyjny]konspiracyjny (PL) : (p.) secret
+[konspirator]konspirator (PL) : (rz.) conspirator
+[konspiratorski]konspiratorski (PL) : (p.) conspiratorial
+[konspirowac]konspirować (PL) : (cz.) conspire; (cz.) plot
+[konstabl]konstabl (PL) : (rz.) bobby; (rz.) constable
+[konstanta]konstanta (PL) : (rz.) constant
+[konstatacja]konstatacja (PL) : (rz.) finding; (rz.) statement
+[konstatowac]konstatować (PL) : (cz.) ascertain
+[konstelacja]konstelacja (PL) : (rz.) constellation
+[konsternacja]konsternacja (PL) : (rz.) consternation; (rz.) dismay
+[konsternowac]konsternować (PL) : (cz.) dismay
+[konstrukcja]konstrukcja (PL) : (rz.) build; (rz.) construction; (rz.) framework; (rz.) structure; (rz.) sturdiness
+[konstrukcyjny]konstrukcyjny (PL) : (p.) constructional; (p.) constructive; (p.) structural
+[konstruktor]konstruktor (PL) : (rz.) constructor; (rz.) designer; (rz.) maker
+[konstruktywistyczny]konstruktywistyczny (PL) : (p.) constructivist
+[konstruktywizm]konstruktywizm (PL) : (rz.) constructivism
+[konstruktywnie]konstruktywnie (PL) : (p-sł.) constructively
+[konstruktywny]konstruktywny (PL) : (p.) constructive
+[konstruowanie]konstruowanie (PL) : (rz.) construction; (rz.) designing
+[konstruowac]konstruować (PL) : (cz.) build; (cz.) construct; (cz.) frame
+[konstytucja]konstytucja (PL) : (rz.) constitution
+[konstytucjonalista]konstytucjonalista (PL) : (rz.) constitutionalist
+[konstytucjonalizm]konstytucjonalizm (PL) : (rz.) constitutionalism
+[konstytucyjnie]konstytucyjnie (PL) : (p-sł.) constitutionally
+[konstytucyjnosc]konstytucyjność (PL) : (rz.) constitutionality
+[konstytucyjny]konstytucyjny (PL) : (p.) constitutional
+[konstytutywny]konstytutywny (PL) : (p.) constitutive
+[konsul]konsul (PL) : (rz.) consul
+[konsularny]konsularny (PL) : (p.) consular
+[konsulat]konsulat (PL) : (rz.) consulate
+[konsultacja]konsultacja (PL) : (rz.) consultancy; (rz.) consultation
+[konsultacyjny]konsultacyjny (PL) : (p.) consultative
+[konsultant]konsultant (PL) : (rz.) advisor; (rz.) consultant
+[konsultatywny]konsultatywny (PL) : (p.) consultative
+[konsulting]konsulting (PL) : (rz.) consultancy; (rz.) consulting
+[konsultingowy]konsultingowy (PL) : (p.) consulting
+[konsultowac]konsultować (PL) : (cz.) consult
+[konsument]konsument (PL) : (rz.) consumer; (rz.) customer
+[konsumeryzm]konsumeryzm (PL) : (rz.) consumerism
+[konsumowac]konsumować (PL) : (cz.) consume
+[konsumpcja]konsumpcja (PL) : (rz.) consumption
+[konsumpcyjny]konsumpcyjny (PL) : (p.) consumable; (p.) consumptive
+[konsygnacja]konsygnacja (PL) : (rz.) consignment
+[konsygnatariusz]konsygnatariusz (PL) : (rz.) consignee; (rz.) cosignatory
+[konsygnowac]konsygnować (PL) : (cz.) consign
+[konsylium]konsylium (PL) : (rz.) consultation; (rz.) council
+[konsystencja]konsystencja (PL) : (rz.) consistence; (rz.) consistency; (rz.) texture
+[konsystorski]konsystorski (PL) : (p.) consistorial
+[konsystorz]konsystorz (PL) : (rz.) consistory
+[konszachty]konszachty (PL) : (rz.) collusion; (rz.) collusions
+[kontakt]kontakt (PL) : (rz.) connection; (rz.) connexion; (rz.) contact; (rz.) contacts; (rz.) intercourse; (rz.) jack; (rz.) socket; (rz.) switch; (rz.) touch
+[kontaktowac]kontaktować (PL) : (cz.) contact; (cz.) deal; (cz.) reach
+[kontaminacja]kontaminacja (PL) : (rz.) contamination
+[kontekst]kontekst (PL) : (rz.) context
+[kontekstowy]kontekstowy (PL) : (p.) contextual
+[kontemplacja]kontemplacja (PL) : (rz.) contemplation
+[kontemplacyjny]kontemplacyjny (PL) : (p.) contemplative; (p.) meditative
+[kontemplowanie]kontemplowanie (PL) : (rz.) contemplation
+[kontemplowac]kontemplować (PL) : (cz.) contemplate
+[kontenans]kontenans (PL) : (rz.) countenance
+[kontener]kontener (PL) : (rz.) container; (rz.) skip
+[konteneryzacja]konteneryzacja (PL) : (rz.) containerization
+[kontestator]kontestator (PL) : (rz.) contests
+[konto]konto (PL) : (rz.) account
+[kontowac]kontować (PL) : (cz.) enter
+[kontrabanda]kontrabanda (PL) : (rz.) contraband
+[kontrabandzista]kontrabandzista (PL) : (rz.) contrabandist
+[kontrabas]kontrabas (PL) : (rz.) bass; (rz.) bass-viol; (rz.) contrabass; (rz.) double-bass
+[kontrabasista]kontrabasista (PL) : (rz.) contrabassist
+[kontradmiral]kontradmirał (PL) : (rz.) rear-admiral
+[kontradykcja]kontradykcja (PL) : (rz.) contradiction
+[kontrafalda]kontrafałda (PL) : (rz.) box-pleat; (rz.) double
+[kontrahent]kontrahent (PL) : (rz.) contractor
+[kontrakcja]kontrakcja (PL) : (rz.) contraction
+[kontrakt]kontrakt (PL) : (rz.) contract; (rz.) indenture
+[kontraktowac]kontraktować (PL) : (cz.) contract
+[kontraktowy]kontraktowy (PL) : (p.) contracted; (p.) contractual
+[kontralt]kontralt (PL) : (rz.) alto; (rz.) contralto
+[kontrapozycja]kontrapozycja (PL) : (rz.) contraposition
+[kontrapunkcista]kontrapunkcista (PL) : (rz.) contrapuntist
+[kontrapunkt]kontrapunkt (PL) : (rz.) counterpoint
+[kontrapunktowy]kontrapunktowy (PL) : (p.) contrapuntal
+[kontrargument]kontrargument (PL) : (rz.) counterargument
+[kontrast]kontrast (PL) : (rz.) anticlimax; (rz.) contrast; (rz.) setoff; (rz.) set-off
+[kontrastowanie]kontrastowanie (PL) : (rz.) contrast
+[kontrastowac]kontrastować (PL) : (cz.) contrast
+[kontrastowosc]kontrastowość (PL) : (rz.) contrast
+[kontrasygnata]kontrasygnata (PL) : (rz.) countersignature
+[kontrasygnatura]kontrasygnatura (PL) : (rz.) countersign
+[kontrasygnowanie]kontrasygnowanie (PL) : (rz.) countersign
+[kontrasygnowac]kontrasygnować (PL) : (cz.) countersign
+[kontratak]kontratak (PL) : (rz.) counter; (rz.) counter-attack
+[kontratakowanie]kontratakowanie (PL) : (rz.) counter-attacking
+[kontratakowac]kontratakować (PL) : (cz.) counterattack; (cz.) counter-attack
+[kontratenor]kontratenor (PL) : (rz.) countertenor
+[kontredans]kontredans (PL) : (rz.) quadrille
+[kontrkandydat]kontrkandydat (PL) : (rz.) opponent
+[kontrofensywa]kontrofensywa (PL) : (rz.) counteroffensive
+[kontroferta]kontroferta (PL) : (rz.) counteroffer
+[kontrola]kontrola (PL) : (rz.) audit; (rz.) check; (rz.) checking; (rz.) control; (rz.) examination; (rz.) inspection; (rz.) investigation; (rz.) monitoring; (rz.) rehearsal; (rz.) supervision; (rz.) verification
+[kontroler]kontroler (PL) : (rz.) accountant; (rz.) checker; (rz.) controller; (rz.) driver; (rz.) inspector; (rz.) supervisor; (rz.) surveyor; (rz.) tester; (rz.) ticket-inspector
+[kontrolka]kontrolka (PL) : (rz.) control; (rz.) index; (rz.) indicator
+[kontrolny]kontrolny (PL) : (p.) supervisory; (p.) testing
+[kontrolowanie]kontrolowanie (PL) : (rz.) control
+[kontrolowac]kontrolować (PL) : (cz.) audit; (cz.) check; (cz.) control; (cz.) discipline; (cz.) inquire; (cz.) inspect; (cz.) monitor; (cz.) oversee; (cz.) rein; (cz.) superintend; (cz.) supervise
+[kontrowanie]kontrowanie (PL) : (rz.) doubling
+[kontrowac]kontrować (PL) : (cz.) double
+[kontrowersja]kontrowersja (PL) : (rz.) controversy
+[kontrowersyjny]kontrowersyjny (PL) : (p.) contentious; (p.) controversial; (p.) controvertible; (p.) traversable
+[kontrpropaganda]kontrpropaganda (PL) : (rz.) counter-propaganda
+[kontrpropozycja]kontrpropozycja (PL) : (rz.) counterproposal; (rz.) counter-proposal
+[kontrprzyklad]kontrprzykład (PL) : (rz.) counter-example
+[kontrreformacja]kontrreformacja (PL) : (rz.) counterreformation; (rz.) counter-reformation
+[kontrrewolucja]kontrrewolucja (PL) : (rz.) counterrevolution; (rz.) counter-revolution
+[kontrrewolucjonista]kontrrewolucjonista (PL) : (rz.) counterrevolutionary; (rz.) counter-revolutionary
+[kontrrewolucyjny]kontrrewolucyjny (PL) : (p.) counterrevolutionary; (p.) counter-revolutionary
+[kontrtorpedowiec]kontrtorpedowiec (PL) : (rz.) destroyer
+[kontrwywiad]kontrwywiad (PL) : (rz.) counterespionage; (rz.) counter-espionage; (rz.) counterintelligence; (rz.) counter-intelligence
+[kontrybucja]kontrybucja (PL) : (rz.) contribution
+[kontuar]kontuar (PL) : (rz.) counter
+[kontur]kontur (PL) : (rz.) contour; (rz.) outline
+[konturowka]konturówka (PL) : (rz.) eyeliner
+[kontusz]kontusz (PL) : (rz.) robe
+[kontuzja]kontuzja (PL) : (rz.) concussion; (rz.) contusion; (rz.) injury
+[kontuzje]kontuzje (PL) : (rz.) injuries
+[kontuzjowany]kontuzjowany (PL) : (p.) injured
+[kontuzjowac]kontuzjować (PL) : (cz.) bruise; (cz.) contuse
+[kontynent]kontynent (PL) : (rz.) continent; (rz.) mainland
+[kontynentalny]kontynentalny (PL) : (p.) continental
+[kontynentu]kontynentu (PL) : (rz.) drift
+[kontyngencja]kontyngencja (PL) : (rz.) contingency
+[kontyngent]kontyngent (PL) : (rz.) contingent; (rz.) quota
+[kontynuacja]kontynuacja (PL) : (rz.) continuation; (rz.) follow-up; (rz.) resumption
+[kontynuator]kontynuator (PL) : (rz.) continuator
+[kontynuowac]kontynuować (PL) : (cz.) continue; (cz.) proceed; (cz.) pursue
+[konurbacja]konurbacja (PL) : (rz.) conurbation
+[konus]konus (PL) : (rz.) cone; (rz.) shrimp
+[konwalidacja]konwalidacja (PL) : (rz.) validation
+[konwekcja]konwekcja (PL) : (rz.) convection
+[konwekcyjny]konwekcyjny (PL) : (p.) convective
+[konwektor]konwektor (PL) : (rz.) convector
+[konwenans]konwenans (PL) : (rz.) convention; (rz.) etiquette
+[konwenanse]konwenanse (PL) : (rz.) convention; (rz.) etiquette
+[konwenansowy]konwenansowy (PL) : (p.) conventional
+[konwencja]konwencja (PL) : (rz.) convention; (rz.) covenant
+[konwencjonalizm]konwencjonalizm (PL) : (rz.) conventionalism
+[konwencjonalnie]konwencjonalnie (PL) : (p-sł.) conventionally
+[konwencjonalnosc]konwencjonalność (PL) : (rz.) conventionality
+[konwencjonalny]konwencjonalny (PL) : (p.) conventional; (p.) orthodox
+[konwencyjny]konwencyjny (PL) : (p.) conventional
+[konwent]konwent (PL) : (rz.) convent; (rz.) convention; (rz.) monastery
+[konwergencja]konwergencja (PL) : (rz.) convergence
+[konwersacja]konwersacja (PL) : (rz.) conversation
+[konwersacyjnie]konwersacyjnie (PL) : (p-sł.) conversationally
+[konwersacyjny]konwersacyjny (PL) : (p.) colloquial; (p.) conversational
+[konwersja]konwersja (PL) : (rz.) conversion; (rz.) transfiguration
+[konwersowanie]konwersowanie (PL) : (rz.) converse
+[konwersowac]konwersować (PL) : (cz.) converse
+[konwersyjny]konwersyjny (PL) : (p.) conversional
+[konwerter]konwerter (PL) : (rz.) converter
+[konwertoplan]konwertoplan (PL) : (rz.) convertiplane
+[konwertor]konwertor (PL) : (rz.) converter; (rz.) translator
+[konwertowanie]konwertowanie (PL) : (rz.) converting
+[konwertowac]konwertować (PL) : (cz.) convert
+[konwertyta]konwertyta (PL) : (rz.) convert
+[konwojent]konwojent (PL) : (rz.) escort
+[konwojowac]konwojować (PL) : (cz.) convoy; (cz.) escort
+[konwulsja]konwulsja (PL) : (rz.) convolution; (rz.) convulsion
+[konwulsyjnie]konwulsyjnie (PL) : (p-sł.) convulsively
+[konwulsyjny]konwulsyjny (PL) : (p.) convulsive
+[konwoj]konwój (PL) : (rz.) convoy; (rz.) escort
+[kooperacja]kooperacja (PL) : (rz.) cooperation; (rz.) co-operation
+[kooperacyjne]kooperacyjne (PL) : (rz.) groupware
+[kooperacyjnie]kooperacyjnie (PL) : (p-sł.) cooperatively
+[kooperacyjny]kooperacyjny (PL) : (p.) cooperative
+[kooperator]kooperator (PL) : (rz.) co-operator
+[kooperatywa]kooperatywa (PL) : (rz.) co-op
+[kooperowac]kooperować (PL) : (cz.) cooperate; (cz.) co-operate
+[kooptacja]kooptacja (PL) : (rz.) cooptation; (rz.) co-optation; (rz.) cooption; (rz.) co-option
+[kooptowanie]kooptowanie (PL) : (rz.) cooptation; (rz.) co-optation
+[kooptowac]kooptować (PL) : (cz.) co-opt
+[koordynacja]koordynacja (PL) : (rz.) coordination; (rz.) co-ordination
+[koordynator]koordynator (PL) : (rz.) coordinator; (rz.) co-ordinator
+[koordynowanie]koordynowanie (PL) : (rz.) aliasing; (rz.) coordinate; (rz.) co-ordinating
+[koordynowac]koordynować (PL) : (cz.) coordinate; (cz.) co-ordinate; (cz.) synchronize
+[kopa]kopa (PL) : (rz.) stack; (rz.) threescore
+[kopacz]kopacz (PL) : (rz.) digger; (rz.) navvy
+[kopaczka]kopaczka (PL) : (rz.) digger
+[kopal]kopal (PL) : (rz.) copal; (rz.) fossil
+[kopalina]kopalina (PL) : (rz.) mineral
+[kopalnia]kopalnia (PL) : (rz.) coalmine; (rz.) coal-mine; (rz.) mine; (rz.) pit; (rz.) storehouse
+[kopalniany]kopalniany (PL) : (p.) mine
+[kopalnictwo]kopalnictwo (PL) : (rz.) mining
+[kopalnie]kopalnie (PL) : (rz.) pit
+[kopalny]kopalny (PL) : (p.) fossil; (p.) mineral
+[kopanie]kopanie (PL) : (rz.) digging; (rz.) ditching; (rz.) kicking
+[koparka]koparka (PL) : (rz.) backhoe; (rz.) digger; (rz.) ditcher; (rz.) excavator; (rz.) shovel
+[kopac]kopać (PL) : (cz.) bulldoze; (cz.) delve; (cz.) dig; (cz.) excavate; (cz.) hack; (cz.) kick; (cz.) mine; (cz.) pick
+[kopcenie]kopcenie (PL) : (rz.) hill; (rz.) smoking
+[kopcic]kopcić (PL) : (cz.) reek; (cz.) smoke
+[kopcowac]kopcować (PL) : (cz.) clamp
+[kopczyk]kopczyk (PL) : (rz.) hillock; (rz.) mound
+[koper]koper (PL) : (rz.) dill; (rz.) fennel
+[koperek]koperek (PL) : (rz.) dill
+[koperta]koperta (PL) : (rz.) cover; (rz.) envelope
+[kopec]kopeć (PL) : (rz.) smoke; (rz.) soot
+[kopia]kopia (PL) : (rz.) carbon; (rz.) copy; (rz.) counterpart; (rz.) duplicate; (rz.) ectype; (rz.) facsimile; (rz.) lance; (rz.) print; (rz.) replica; (rz.) reproduction; (rz.) spear; (rz.) transcript; (rz.) transcription
+[kopiarka]kopiarka (PL) : (rz.) copier; (rz.) duplicator; (rz.) mimeograph; (rz.) photocopier
+[kopica]kopica (PL) : (rz.) cock
+[kopiec]kopiec (PL) : (rz.) barrow; (rz.) knoll; (rz.) mound
+[kopiejka]kopiejka (PL) : (rz.) kopeck; (rz.) kopek
+[kopiowanie]kopiowanie (PL) : (rz.) copy; (rz.) copying; (rz.) duplication; (rz.) printing
+[kopiowac]kopiować (PL) : (cz.) copy; (cz.) download; (cz.) duplicate; (cz.) reiterate; (cz.) transcribe
+[kopista]kopista (PL) : (rz.) copyist
+[kopka]kopka (PL) : (rz.) cop
+[kopniak]kopniak (PL) : (rz.) kick
+[kopniecie]kopnięcie (PL) : (rz.) kick
+[kopnac]kopnąć (PL) : (cz.) kick
+[kopolimer]kopolimer (PL) : (rz.) copolymer
+[kopolimeryzacja]kopolimeryzacja (PL) : (rz.) copolymerization
+[kopra]kopra (PL) : (rz.) copra; (rz.) dill
+[koprocesor]koprocesor (PL) : (rz.) coprocessor
+[koproducent]koproducent (PL) : (rz.) co-producer
+[koprodukcja]koprodukcja (PL) : (rz.) co-production; (rz.) co-productions
+[kopulacja]kopulacja (PL) : (rz.) copulation
+[kopulacyjny]kopulacyjny (PL) : (p.) copulative
+[kopulasty]kopulasty (PL) : (p.) arched; (p.) domed; (p.) dome-like; (p.) dome-shaped
+[kopulowac]kopulować (PL) : (cz.) copulate
+[kopula]kopuła (PL) : (rz.) cupola; (rz.) dome
+[kopulka]kopułka (PL) : (rz.) dome
+[kopulowy]kopułowy (PL) : (p.) domical
+[kopyta]kopyta (PL) : (rz.) hooves
+[kopytko]kopytko (PL) : (rz.) hoof
+[kopytkowy]kopytkowy (PL) : (p.) neat's-foot
+[kopytny]kopytny (PL) : (p.) ungulate
+[kopyto]kopyto (PL) : (rz.) hoof
+[kopysc]kopyść (PL) : (rz.) ladle
+[kora]kora (PL) : (rz.) bark; (rz.) cortex; (rz.) crust; (rz.) rind; (rz.) seersucker; (rz.) trunk
+[koral]koral (PL) : (rz.) coral
+[koralik]koralik (PL) : (rz.) bead
+[koralowiec]koralowiec (PL) : (rz.) coral
+[koralowy]koralowy (PL) : (p.) coral; (p.) coralline
+[korba]korba (PL) : (rz.) crank; (rz.) windlass
+[korbka]korbka (PL) : (rz.) crank
+[korbowod]korbowód (PL) : (rz.) connecting-rod
+[kord]kord (PL) : (rz.) cord; (rz.) cutlass
+[kordegarda]kordegarda (PL) : (rz.) guard
+[kordelas]kordelas (PL) : (rz.) cutlass
+[kordialny]kordialny (PL) : (p.) cordial; (p.) hearty
+[kordieryt]kordieryt (PL) : (rz.) cordierite; (rz.) iolite
+[kordon]kordon (PL) : (rz.) border; (rz.) cordon
+[kordonek]kordonek (PL) : (rz.) chenille; (rz.) cord
+[korek]korek (PL) : (rz.) bung; (rz.) cork; (rz.) fuse; (rz.) gridlock; (rz.) jam; (rz.) logjam; (rz.) plug; (rz.) stopper
+[korekcja]korekcja (PL) : (rz.) correction; (rz.) equalization
+[korekcyjny]korekcyjny (PL) : (p.) corrective; (p.) remedial
+[korekta]korekta (PL) : (rz.) amendment; (rz.) correction; (rz.) corrigendum; (rz.) proof
+[korektor]korektor (PL) : (rz.) corrector; (rz.) equalizer; (rz.) proof-reader; (rz.) reviser
+[korektura]korektura (PL) : (rz.) correction
+[korelacja]korelacja (PL) : (rz.) correlation; (rz.) interconnection
+[korelat]korelat (PL) : (rz.) correlative
+[korelowac]korelować (PL) : (cz.) correlate
+[korepetycja]korepetycja (PL) : (rz.) coaching; (rz.) rehearsal
+[korepetytor]korepetytor (PL) : (rz.) coach; (rz.) crammer; (rz.) tutor
+[korespondencja]korespondencja (PL) : (rz.) coincidence; (rz.) correspondence; (rz.) mail; (rz.) postbag
+[korespondent]korespondent (PL) : (rz.) correspondent
+[korespondowac]korespondować (PL) : (cz.) correspond
+[korkociag]korkociąg (PL) : (rz.) corkscrew; (rz.) cork-screw; (rz.) spin; (rz.) tailspin; (rz.) tail-spin
+[korkowanie]korkowanie (PL) : (rz.) cork
+[korkowac]korkować (PL) : (cz.) choke; (cz.) jam
+[korkowiec]korkowiec (PL) : (rz.) pop
+[korkowy]korkowy (PL) : (p.) corky
+[kormoran]kormoran (PL) : (rz.) cormorant
+[kornak]kornak (PL) : (rz.) mahout
+[kornecista]kornecista (PL) : (rz.) cornet
+[korner]korner (PL) : (rz.) corner
+[kornet]kornet (PL) : (rz.) coif; (rz.) comet; (rz.) cornet
+[kornik]kornik (PL) : (rz.) borer; (rz.) woodworm
+[korniszon]korniszon (PL) : (rz.) gherkin; (rz.) gherkins; (rz.) pickle
+[korny]korny (PL) : (p.) humble; (p.) lowly
+[korodowac]korodować (PL) : (cz.) corrode
+[korodujacy]korodujący (PL) : (p.) corrodible
+[korona]korona (PL) : (rz.) acme; (rz.) corolla; (rz.) corona; (rz.) crown; (rz.) fritillary
+[koronacja]koronacja (PL) : (rz.) coronation
+[koronka]koronka (PL) : (rz.) crown; (rz.) lace; (rz.) lacing
+[koronkarstwo]koronkarstwo (PL) : (rz.) lace-making
+[koronkowy]koronkowy (PL) : (p.) lacy
+[koronny]koronny (PL) : (p.) royal
+[koronowanie]koronowanie (PL) : (rz.) enthronement
+[koronowac]koronować (PL) : (cz.) crown
+[korowanie]korowanie (PL) : (rz.) peeling
+[korowarka]korowarka (PL) : (rz.) barker
+[korowac]korować (PL) : (cz.) bark; (cz.) peel
+[korowy]korowy (PL) : (p.) cortical
+[korowod]korowód (PL) : (rz.) pageant; (rz.) procession
+[korozja]korozja (PL) : (rz.) corrosion
+[korozyjny]korozyjny (PL) : (p.) corrosive
+[korporacja]korporacja (PL) : (rz.) corporality; (rz.) corporation; (rz.) guild
+[korporacyjny]korporacyjny (PL) : (p.) corporate
+[korporal]korporał (PL) : (rz.) corporal
+[korpulentnosc]korpulentność (PL) : (rz.) portliness
+[korpulentny]korpulentny (PL) : (p.) corpulent; (p.) obese; (p.) stout
+[korpus]korpus (PL) : (rz.) bed; (rz.) body; (rz.) corps; (rz.) trunk
+[korpuskularny]korpuskularny (PL) : (p.) corpuscular
+[korrida]korrida (PL) : (rz.) bullfight
+[korsarski]korsarski (PL) : (p.) piratical
+[korsarstwo]korsarstwo (PL) : (rz.) piracy
+[korsarz]korsarz (PL) : (rz.) buccaneer; (rz.) corsair; (rz.) filibuster; (rz.) freebooter; (rz.) pirate; (rz.) rower
+[kort]kort (PL) : (rz.) court; (rz.) tennis-court
+[kortyzon]kortyzon (PL) : (rz.) cortisone
+[korumpowac]korumpować (PL) : (cz.) bribe; (cz.) corrupt
+[korund]korund (PL) : (rz.) alumina; (rz.) corundum
+[korupcja]korupcja (PL) : (rz.) corruption; (rz.) venality
+[korweta]korweta (PL) : (rz.) corvette
+[korygowac]korygować (PL) : (cz.) amend; (cz.) correct; (cz.) etch
+[koryncki]koryncki (PL) : (p.) Corinthian
+[korytarz]korytarz (PL) : (rz.) corridor; (rz.) hall; (rz.) hallway; (rz.) passage
+[korytko]korytko (PL) : (rz.) channel
+[koryto]koryto (PL) : (rz.) channel; (rz.) flume; (rz.) manger; (rz.) riverbed; (rz.) trough
+[korzec]korzec (PL) : (rz.) bushel
+[korzenic]korzenić (PL) : (cz.) root
+[korzenny]korzenny (PL) : (p.) spicy
+[korzen]korzeń (PL) : (rz.) cock; (rz.) radix; (rz.) root; (rz.) spice
+[korzonek]korzonek (PL) : (rz.) rootlet
+[korzonkowy]korzonkowy (PL) : (p.) radical
+[korzystanie]korzystanie (PL) : (rz.) benefiting; (rz.) enjoyment; (rz.) use
+[korzystac]korzystać (PL) : (cz.) benefit; (cz.) exercise; (cz.) profit; (cz.) use
+[korzystnie]korzystnie (PL) : (p-sł.) expediently; (p-sł.) favourably; (p-sł.) profitably
+[korzystny]korzystny (PL) : (p.) advantageous; (p.) beneficial; (p.) expedient; (p.) favourable; (p.) fetching; (p.) gainful; (p.) positive; (p.) profitable
+[korzyc]korzyć (PL) : (cz.) humiliate
+[korzysc]korzyść (PL) : (rz.) advantage; (rz.) avail; (rz.) behalf; (rz.) benefit; (rz.) employ; (rz.) expedience; (rz.) expediency; (rz.) gain; (rz.) profit; (rz.) service; (rz.) stead; (rz.) use
+[kos]kos (PL) : (rz.) blackbird; (rz.) merle; (rz.) ouzel
+[kosa]kosa (PL) : (rz.) blackbird; (rz.) scythe
+[kosaciec]kosaciec (PL) : (rz.) iris
+[kosarz]kosarz (PL) : (rz.) daddy-long-legs; (rz.) legs
+[kosiarka]kosiarka (PL) : (rz.) lawnmower; (rz.) mower
+[kosiarz]kosiarz (PL) : (rz.) haymaker; (rz.) mower
+[kosic]kosić (PL) : (cz.) mow; (cz.) reap
+[kosmatosc]kosmatość (PL) : (rz.) hairiness
+[kosmaty]kosmaty (PL) : (p.) cottony; (p.) hairy; (p.) hirsute; (p.) hispid; (p.) shaggy
+[kosmetologia]kosmetologia (PL) : (rz.) cosmetology
+[kosmetyczka]kosmetyczka (PL) : (rz.) beautician; (rz.) cosmetician
+[kosmetyczny]kosmetyczny (PL) : (p.) cosmetic
+[kosmetyk]kosmetyk (PL) : (rz.) cosmetic
+[kosmetyka]kosmetyka (PL) : (rz.) cosmetic; (rz.) cosmetics; (rz.) cosmetology
+[kosmetykow]kosmetyków (PL) : (rz.) cosmetics
+[kosmiczny]kosmiczny (PL) : (p.) cosmic
+[kosmita]kosmita (PL) : (rz.) alien; (rz.) extraterrestrial
+[kosmodrom]kosmodrom (PL) : (rz.) spaceport
+[kosmogonia]kosmogonia (PL) : (rz.) cosmogony
+[kosmografia]kosmografia (PL) : (rz.) cosmography
+[kosmograficzny]kosmograficzny (PL) : (p.) cosmographic
+[kosmolog]kosmolog (PL) : (rz.) cosmologist
+[kosmologia]kosmologia (PL) : (rz.) cosmology
+[kosmologiczny]kosmologiczny (PL) : (p.) cosmological
+[kosmonauta]kosmonauta (PL) : (rz.) astronaut; (rz.) cosmonaut; (rz.) spaceman
+[kosmonautyka]kosmonautyka (PL) : (rz.) astronautics; (rz.) cosmonautics; (rz.) space
+[kosmopolita]kosmopolita (PL) : (rz.) cosmopolitan; (rz.) cosmopolite
+[kosmopolityczny]kosmopolityczny (PL) : (p.) cosmopolitan
+[kosmopolityzm]kosmopolityzm (PL) : (rz.) cosmopolitanism; (rz.) cosmopolitism
+[kosmos]kosmos (PL) : (rz.) cosmos; (rz.) space
+[kosmotron]kosmotron (PL) : (rz.) cosmotron
+[kosmyk]kosmyk (PL) : (rz.) cowlick; (rz.) flock; (rz.) forelock; (rz.) lock; (rz.) strand; (rz.) wisp
+[kostium]kostium (PL) : (rz.) costume; (rz.) disguise; (rz.) suit; (rz.) swimsuit
+[kostiumer]kostiumer (PL) : (rz.) costumer
+[kostiumernia]kostiumernia (PL) : (rz.) wardrobe
+[kostiumy]kostiumy (PL) : (rz.) costumes
+[kostka]kostka (PL) : (rz.) ankle; (rz.) bar; (rz.) cube; (rz.) dice; (rz.) domino; (rz.) knuckle
+[kostkowanie]kostkowanie (PL) : (rz.) frosting
+[kostnica]kostnica (PL) : (rz.) morgue; (rz.) mortuary
+[kostnienie]kostnienie (PL) : (rz.) ossification
+[kostniec]kostnieć (PL) : (cz.) freeze; (cz.) ossify
+[kostny]kostny (PL) : (p.) osseous
+[kostropaty]kostropaty (PL) : (p.) rough
+[kostucha]kostucha (PL) : (rz.) banshee; (rz.) death
+[kostur]kostur (PL) : (rz.) stick
+[kostycznosc]kostyczność (PL) : (rz.) causticity
+[kostyczny]kostyczny (PL) : (p.) caustic; (p.) scathing
+[kosz]kosz (PL) : (rz.) basket; (rz.) bin; (rz.) cost; (rz.) dustbin; (rz.) dust-bin; (rz.) foretop; (rz.) hamper; (rz.) pannier; (rz.) scuttle
+[koszara]koszara (PL) : (rz.) barracks
+[koszarka]koszarka (PL) : (rz.) houseboat
+[koszarowanie]koszarowanie (PL) : (rz.) barracking; (rz.) barracks
+[koszary]koszary (PL) : (rz.) barrack; (rz.) barracks; (rz.) casern
+[koszatka]koszatka (PL) : (rz.) dormouse
+[koszalka]koszałka (PL) : (rz.) hamper
+[koszenie]koszenie (PL) : (rz.) mowing
+[koszenila]koszenila (PL) : (rz.) cochineal
+[koszerny]koszerny (PL) : (p.) kosher
+[koszmar]koszmar (PL) : (rz.) incubus; (rz.) nightmare; (rz.) rigmarole
+[koszmarny]koszmarny (PL) : (p.) ghastly; (p.) nightmarish
+[koszt]koszt (PL) : (rz.) charge; (rz.) cost; (rz.) expense
+[kosztorys]kosztorys (PL) : (rz.) estimate; (rz.) quote
+[kosztorysant]kosztorysant (PL) : (rz.) estimator
+[kosztowanie]kosztowanie (PL) : (rz.) cost
+[kosztowac]kosztować (PL) : (cz.) cost; (cz.) taste
+[kosztownie]kosztownie (PL) : (p-sł.) expensively
+[kosztownosci]kosztowności (PL) : (rz.) valuables
+[kosztownosc]kosztowność (PL) : (rz.) costliness; (rz.) resources; (rz.) valuable
+[kosztowny]kosztowny (PL) : (p.) costly; (p.) dear; (p.) expensive; (p.) pricey; (p.) pricy
+[koszula]koszula (PL) : (rz.) shirt
+[koszulka]koszulka (PL) : (rz.) boot; (rz.) can; (rz.) cladding; (rz.) shirt; (rz.) t-shirt
+[koszyk]koszyk (PL) : (rz.) basket; (rz.) cart; (rz.) creel
+[koszykarstwo]koszykarstwo (PL) : (rz.) basketry; (rz.) basketwork; (rz.) wickerwork; (rz.) wicker-work
+[koszykarz]koszykarz (PL) : (rz.) basketball
+[koszykowy]koszykowy (PL) : (p.) basket-work; (p.) wicker
+[koszykowka]koszykówka (PL) : (rz.) basket; (rz.) basketball; (rz.) basket-ball
+[koszowka]koszówka (PL) : (rz.) psyche
+[kot]kot (PL) : (rz.) cat; (rz.) puss; (rz.) pussy
+[kotangens]kotangens (PL) : (rz.) cotangent
+[kotara]kotara (PL) : (rz.) curtain
+[kotbelka]kotbelka (PL) : (rz.) cathead
+[kotek]kotek (PL) : (rz.) cats; (rz.) kitten; (rz.) puss; (rz.) pussy
+[koteria]koteria (PL) : (rz.) cabal; (rz.) caucus; (rz.) coterie
+[kotew]kotew (PL) : (rz.) stay
+[kotewka]kotewka (PL) : (rz.) caltrop
+[kotlarstwo]kotlarstwo (PL) : (rz.) boiler-making
+[kotlarz]kotlarz (PL) : (rz.) boilermaker; (rz.) boiler-maker; (rz.) boiler-smith; (rz.) brazier
+[kotlet]kotlet (PL) : (rz.) chop; (rz.) cutlet
+[kotlina]kotlina (PL) : (rz.) cirque; (rz.) dell; (rz.) hollow; (rz.) valley
+[kotowac]kotować (PL) : (cz.) mark
+[koturn]koturn (PL) : (rz.) buskin
+[koturnowy]koturnowy (PL) : (p.) buskined; (p.) stilted
+[kotwica]kotwica (PL) : (rz.) anchor
+[kotwicowisko]kotwicowisko (PL) : (rz.) anchorage
+[kotwiczenie]kotwiczenie (PL) : (rz.) anchor; (rz.) anchoring; (rz.) groundage
+[kotwiczne]kotwiczne (PL) : (rz.) anchor; (rz.) anchorage; (rz.) groundage
+[kotwiczny]kotwiczny (PL) : (p.) anchoring
+[kotwiczyc]kotwiczyć (PL) : (cz.) anchor
+[kotwic]kotwić (PL) : (cz.) brace
+[kotylion]kotylion (PL) : (rz.) cotillion
+[kotlowanina]kotłowanina (PL) : (rz.) turmoil
+[kotlowac]kotłować (PL) : (cz.) jumble; (cz.) seethe; (cz.) surge; (cz.) welter
+[kotlowiec]kotłowiec (PL) : (rz.) scale
+[kotlownia]kotłownia (PL) : (rz.) boiler; (rz.) boiler-room; (rz.) stokehold
+[kowadelko]kowadełko (PL) : (rz.) anvil
+[kowadlo]kowadło (PL) : (rz.) anvil
+[kowal]kowal (PL) : (rz.) blacksmith; (rz.) forger; (rz.) smith
+[kowalencyjnosc]kowalencyjność (PL) : (rz.) covalence
+[kowalentny]kowalentny (PL) : (p.) covalent
+[kowalik]kowalik (PL) : (rz.) nuthatch
+[kowalnosc]kowalność (PL) : (rz.) ductility
+[kowalny]kowalny (PL) : (p.) forgeable; (p.) malleable
+[kowalski]kowalski (PL) : (p.) smith's
+[kowariancja]kowariancja (PL) : (rz.) covariance
+[kowariantny]kowariantny (PL) : (p.) covariant
+[kowboj]kowboj (PL) : (rz.) cowboy; (rz.) vaquero; (rz.) wrangler
+[koza]koza (PL) : (rz.) filly; (rz.) goat; (rz.) nanny-goat
+[kozactwo]kozactwo (PL) : (rz.) Cossacks
+[kozaczek]kozaczek (PL) : (rz.) boot
+[kozak]kozak (PL) : (rz.) Cossack; (rz.) troublemaker; (rz.) yob
+[kozetka]kozetka (PL) : (rz.) couch
+[kozi]kozi (PL) : (p.) goat's; (p.) hircine
+[koziarz]koziarz (PL) : (rz.) goatherd
+[kozica]kozica (PL) : (rz.) chamois; (rz.) goat
+[kozieradka]kozieradka (PL) : (rz.) fenugreek
+[kozik]kozik (PL) : (rz.) clasp-knife; (rz.) knife
+[koziorozec]koziorożec (PL) : (rz.) Capricorn; (rz.) ibex
+[koziol]kozioł (PL) : (rz.) andiron; (rz.) buck; (rz.) bucking; (rz.) goat; (rz.) trestle
+[koziolkowac]koziołkować (PL) : (cz.) roll; (cz.) somersaults
+[kozodoj]kozodój (PL) : (rz.) goatsucker; (rz.) nightjar
+[kozubek]kozubek (PL) : (rz.) cricket
+[kozlowac]kozłować (PL) : (cz.) dribble
+[kozlowy]kozłowy (PL) : (p.) buckish
+[kolacz]kołacz (PL) : (rz.) cake
+[kolatanie]kołatanie (PL) : (rz.) din; (rz.) flutter
+[kolatac]kołatać (PL) : (cz.) palpitate; (cz.) pant
+[kolatka]kołatka (PL) : (rz.) knock; (rz.) knocker; (rz.) rapper; (rz.) swat
+[kolchoz]kołchoz (PL) : (rz.) kolkhoz
+[kolczan]kołczan (PL) : (rz.) quiver
+[koldra]kołdra (PL) : (rz.) counterpane; (rz.) duvet; (rz.) eiderdown; (rz.) quill; (rz.) quilt
+[kolek]kołek (PL) : (rz.) dowel; (rz.) hob; (rz.) knag; (rz.) lummox; (rz.) peg; (rz.) picker; (rz.) picket; (rz.) pin; (rz.) stake; (rz.) toggle
+[kolkowac]kołkować (PL) : (cz.) peg
+[kolnierz]kołnierz (PL) : (rz.) choker; (rz.) collar; (rz.) flange; (rz.) neck; (rz.) ruff; (rz.) tippet
+[kolnierzyk]kołnierzyk (PL) : (rz.) collar
+[kolo]koło (PL) : (rz.) cartwheel; (rz.) circle; (rz.) compass; (rz.) past; (rz.) pulley; (rz.) rind; (rz.) rundle; (rz.) wheel
+[kolodziej]kołodziej (PL) : (rz.) wheeler; (rz.) wheelwright
+[kolowaciec]kołowacieć (PL) : (cz.) stiffen
+[kolowacizna]kołowacizna (PL) : (rz.) confusion
+[kolowanie]kołowanie (PL) : (rz.) taxi
+[kolowac]kołować (PL) : (cz.) circle; (cz.) taxi
+[kolowiec]kołowiec (PL) : (rz.) paddle-plane
+[kolowrotek]kołowrotek (PL) : (rz.) reel; (rz.) spinning-wheel; (rz.) turnstile
+[kolowrot]kołowrót (PL) : (rz.) gin; (rz.) turnstile; (rz.) windlass
+[kolowy]kołowy (PL) : (p.) circular; (p.) vehicular
+[kolpak]kołpak (PL) : (rz.) cap; (rz.) hubcap
+[koltun]kołtun (PL) : (rz.) fussbudget
+[koltuneria]kołtuneria (PL) : (rz.) philistinism
+[koltuniasty]kołtuniasty (PL) : (p.) matted
+[koltunic]kołtunić (PL) : (cz.) tangle
+[koltunski]kołtuński (PL) : (p.) smug
+[kolysanie]kołysanie (PL) : (rz.) cradle; (rz.) sway; (rz.) swinging; (rz.) wow
+[kolysanka]kołysanka (PL) : (rz.) lullaby
+[kolysac]kołysać (PL) : (cz.) cradle; (cz.) dandle; (cz.) rock; (cz.) sway; (cz.) swing; (cz.) toss
+[kolyska]kołyska (PL) : (rz.) bassinet; (rz.) cradle
+[kon]koń (PL) : (rz.) horse; (rz.) knight
+[koncowy]końcowy (PL) : (p.) conclusive; (p.) eventual; (p.) final; (p.) finite; (p.) rearmost; (p.) terminable; (p.) terminal
+[konczenie]kończenie (PL) : (rz.) conclusion; (rz.) end; (rz.) finishing; (rz.) peter; (rz.) taper
+[konczyna]kończyna (PL) : (rz.) artery; (rz.) extremity; (rz.) leg; (rz.) limb
+[konczyc]kończyć (PL) : (cz.) accomplish; (cz.) cease; (cz.) close; (cz.) complete; (cz.) conclude; (cz.) end; (cz.) finalize; (cz.) finish; (cz.) result; (cz.) terminate; (cz.) timeout; (cz.) wreck
+[koncowka]końcówka (PL) : (rz.) cock; (rz.) end; (rz.) ending; (rz.) nozzle; (rz.) terminal; (rz.) termination
+[konski]koński (PL) : (p.) equine; (p.) horsy
+[kosba]kośba (PL) : (rz.) sweep
+[kosciec]kościec (PL) : (rz.) skeleton
+[koscielny]kościelny (PL) : (p.) ecclesiastic; (p.) ecclesiastical; (p.) ministerial
+[kosciotrup]kościotrup (PL) : (rz.) skeleton
+[kosciotrupi]kościotrupi (PL) : (p.) skeletal
+[koscisty]kościsty (PL) : (p.) angular; (p.) bony; (p.) osseous
+[kosciol]kościół (PL) : (rz.) church
+[koslawic]koślawić (PL) : (cz.) crook
+[koslawy]koślawy (PL) : (p.) crooked; (p.) knock-kneed; (p.) rickety
+[kosc]kość (PL) : (rz.) bone; (rz.) dice
+[kozle]koźle (PL) : (rz.) kid
+[kozli]koźli (PL) : (p.) buckish
+[kozlatko]koźlątko (PL) : (rz.) kid
+[kozuch]kożuch (PL) : (rz.) head; (rz.) sheepskin; (rz.) skin
+[kozusznik]kożusznik (PL) : (rz.) furrier
+[kpiarski]kpiarski (PL) : (p.) derisory; (p.) mocking; (p.) quizzical; (p.) waggish
+[kpiarstwo]kpiarstwo (PL) : (rz.) mockery
+[kpiarz]kpiarz (PL) : (rz.) giber; (rz.) quiz; (rz.) scoffer; (rz.) tease; (rz.) teaser; (rz.) wag
+[kpienie]kpienie (PL) : (rz.) mock
+[kpina]kpina (PL) : (rz.) gibe; (rz.) jeer; (rz.) mockery
+[kpinkowac]kpinkować (PL) : (cz.) banter
+[kpiny]kpiny (PL) : (rz.) raillery
+[kpiaco]kpiąco (PL) : (p-sł.) derisively; (p-sł.) scornfully
+[kpiacy]kpiący (PL) : (p.) mocking
+[kpic]kpić (PL) : (cz.) diddle; (cz.) flout; (cz.) gibe; (cz.) gird; (cz.) jibe; (cz.) jockey; (cz.) mock; (cz.) scoff
+[kra]kra (PL) : (rz.) floe; (rz.) ice-floe
+[krab]krab (PL) : (rz.) crab
+[krach]krach (PL) : (rz.) crash; (rz.) slump
+[kraciasty]kraciasty (PL) : (p.) checked; (p.) chequered
+[kradziez]kradzież (PL) : (rz.) heist; (rz.) larceny; (rz.) theft; (rz.) thievery; (rz.) thieving
+[kraina]kraina (PL) : (rz.) land; (rz.) region
+[kraj]kraj (PL) : (rz.) country; (rz.) land; (rz.) nation; (rz.) southern; (rz.) state; (rz.) terrene
+[krajalnica]krajalnica (PL) : (rz.) cutter
+[krajan]krajan (PL) : (rz.) compatriot; (rz.) countryman
+[krajarka]krajarka (PL) : (rz.) cutter; (rz.) guillotine
+[krajac]krajać (PL) : (cz.) carve; (cz.) chip; (cz.) chop; (cz.) cut; (cz.) mangle; (cz.) slice
+[krajka]krajka (PL) : (rz.) strip
+[krajobraz]krajobraz (PL) : (rz.) countryside; (rz.) landscape; (rz.) scenery
+[krajobrazu]krajobrazu (PL) : (rz.) rejuvenation
+[krajowiec]krajowiec (PL) : (rz.) native
+[krajowo]krajowo (PL) : (p-sł.) nationally
+[krajowy]krajowy (PL) : (p.) domestic; (p.) home; (p.) homemade; (p.) inland; (p.) internal; (p.) national; (p.) native; (p.) vernacular
+[krajoznawca]krajoznawca (PL) : (rz.) excursionist; (rz.) sightseer
+[krajoznawczy]krajoznawczy (PL) : (p.) national
+[krajoznawstwo]krajoznawstwo (PL) : (rz.) sightseeing
+[krakanie]krakanie (PL) : (rz.) caw; (rz.) crow
+[krakac]krakać (PL) : (cz.) caw; (cz.) croak
+[krakers]krakers (PL) : (rz.) cracker
+[kraking]kraking (PL) : (rz.) cracking
+[krakowanie]krakowanie (PL) : (rz.) cracking
+[kraksa]kraksa (PL) : (rz.) accident; (rz.) crash; (rz.) smash
+[kram]kram (PL) : (rz.) booth; (rz.) stall
+[kramarz]kramarz (PL) : (rz.) chandler; (rz.) huckster
+[kran]kran (PL) : (rz.) faucet; (rz.) tap
+[kraniec]kraniec (PL) : (rz.) border; (rz.) end; (rz.) extreme; (rz.) outskirt; (rz.) outskirts; (rz.) utmost; (rz.) uttermost; (rz.) verge
+[kraplak]kraplak (PL) : (rz.) madder
+[krasa]krasa (PL) : (rz.) beauty; (rz.) pulchritude
+[krasic]krasić (PL) : (cz.) decorate
+[krasnal]krasnal (PL) : (rz.) brownie; (rz.) dwarf
+[krasnolud]krasnolud (PL) : (rz.) brownie; (rz.) dwarf
+[krasnoludek]krasnoludek (PL) : (rz.) brownie; (rz.) dwarf; (rz.) elf; (rz.) sprite
+[krasny]krasny (PL) : (p.) beautiful
+[krasomowca]krasomówca (PL) : (rz.) orator
+[krasomowczy]krasomówczy (PL) : (p.) oratorical
+[krasomowstwo]krasomówstwo (PL) : (rz.) elocution; (rz.) eloquence; (rz.) oratory
+[krata]krata (PL) : (rz.) bar; (rz.) bars; (rz.) check; (rz.) crate; (rz.) grate; (rz.) grating; (rz.) grill; (rz.) grille; (rz.) grizzly; (rz.) hearth; (rz.) lattice; (rz.) latticework; (rz.) trellis
+[krater]krater (PL) : (rz.) caldera; (rz.) crater
+[kratka]kratka (PL) : (rz.) blank; (rz.) check; (rz.) gingham; (rz.) grid; (rz.) grille
+[kratkowac]kratkować (PL) : (cz.) chequer; (cz.) square
+[kratownica]kratownica (PL) : (rz.) framework; (rz.) grate; (rz.) grid; (rz.) lattice; (rz.) latticework; (rz.) lattice-work; (rz.) truss
+[kraty]kraty (PL) : (rz.) bars
+[kraul]kraul (PL) : (rz.) crawl
+[krawat]krawat (PL) : (rz.) cravat; (rz.) neck-cloth; (rz.) necktie; (rz.) neck-tie; (rz.) tie
+[krawatka]krawatka (PL) : (rz.) ruff; (rz.) tie
+[krawcowa]krawcowa (PL) : (rz.) dressmaker
+[krawiec]krawiec (PL) : (rz.) dressmaker; (rz.) fitter; (rz.) tailor
+[krawiecki]krawiecki (PL) : (p.) sartorial
+[krawiectwo]krawiectwo (PL) : (rz.) dressmaking; (rz.) tailoring
+[krawedziowanie]krawędziowanie (PL) : (rz.) edging
+[krawedz]krawędź (PL) : (rz.) border; (rz.) brim; (rz.) brink; (rz.) edge; (rz.) fringe; (rz.) groin; (rz.) lip; (rz.) margin; (rz.) ridge; (rz.) rim; (rz.) verge
+[kraweznik]krawężnik (PL) : (rz.) cop; (rz.) curb; (rz.) flatfoot; (rz.) kerb; (rz.) kerbstone
+[krancowo]krańcowo (PL) : (p-sł.) extremely; (p-sł.) utterly
+[krancowosc]krańcowość (PL) : (rz.) extreme; (rz.) extremeness
+[krancowy]krańcowy (PL) : (p.) extreme; (p.) marginal; (p.) ultra; (p.) utmost; (p.) utter
+[krasniec]kraśnieć (PL) : (cz.) blush
+[krasc]kraść (PL) : (cz.) purloin; (cz.) steal; (cz.) swipe; (cz.) thieve
+[kreacja]kreacja (PL) : (rz.) creation
+[kreacjonista]kreacjonista (PL) : (rz.) creationist
+[kreacjonizm]kreacjonizm (PL) : (rz.) creationism
+[kreator]kreator (PL) : (rz.) creator; (rz.) wizard
+[kreatura]kreatura (PL) : (rz.) creature; (rz.) scoundrel
+[kreatywnosc]kreatywność (PL) : (rz.) creativity
+[kreatywny]kreatywny (PL) : (p.) creative
+[kreda]kreda (PL) : (rz.) chalk; (rz.) cretaceous
+[kredens]kredens (PL) : (rz.) buffet; (rz.) credence; (rz.) cupboard; (rz.) dresser; (rz.) pantry; (rz.) sideboard
+[kredka]kredka (PL) : (rz.) chalk; (rz.) crayon; (rz.) lipstick; (rz.) pencil
+[kredo]kredo (PL) : (rz.) credo; (rz.) creed; (rz.) cretaceous
+[kredowy]kredowy (PL) : (p.) chalky; (p.) cretaceous
+[kredyt]kredyt (PL) : (rz.) account; (rz.) credit; (rz.) loan; (rz.) tick
+[kredytobiorca]kredytobiorca (PL) : (rz.) borrower
+[kredytodawca]kredytodawca (PL) : (rz.) creditor; (rz.) lender; (rz.) moneylender
+[kredytowanie]kredytowanie (PL) : (rz.) credit
+[kredytowac]kredytować (PL) : (cz.) credit
+[krem]krem (PL) : (rz.) cream; (rz.) creme
+[kremacja]kremacja (PL) : (rz.) cremation
+[krematorium]krematorium (PL) : (rz.) crematorium; (rz.) crematory; (rz.) incinerator
+[kremowanie]kremowanie (PL) : (rz.) cream; (rz.) incineration
+[kremowac]kremować (PL) : (cz.) cremate
+[kremowo]kremowo (PL) : (p-sł.) creamily
+[kremowy]kremowy (PL) : (p.) cream-coloured; (p.) creamy
+[kremowka]kremówka (PL) : (rz.) fondant
+[kreowac]kreować (PL) : (cz.) create
+[kreozot]kreozot (PL) : (rz.) creosote
+[krepa]krepa (PL) : (rz.) crape; (rz.) crepe
+[krepina]krepina (PL) : (rz.) fringe
+[krepowanie]krepowanie (PL) : (rz.) creping
+[krepowac]krepować (PL) : (cz.) incommode
+[kres]kres (PL) : (rz.) borderland; (rz.) end; (rz.) limit; (rz.) terminal
+[kresa]kresa (PL) : (rz.) scar
+[kreska]kreska (PL) : (rz.) accent; (rz.) dash; (rz.) hyphen; (rz.) line; (rz.) mark; (rz.) score; (rz.) stripe; (rz.) stroke; (rz.) virgule
+[kreskowanie]kreskowanie (PL) : (rz.) hatching; (rz.) lining; (rz.) shading
+[kreskowac]kreskować (PL) : (cz.) hachure; (cz.) hatch; (cz.) shade
+[kreskowka]kreskówka (PL) : (rz.) animation; (rz.) cartoon
+[kresowiec]kresowiec (PL) : (rz.) borderer
+[kresy]kresy (PL) : (rz.) outskirts
+[kret]kret (PL) : (rz.) mole
+[kreton]kreton (PL) : (rz.) cretonne
+[kretowisko]kretowisko (PL) : (rz.) molehill; (rz.) mole-hill; (rz.) molehills
+[kretyn]kretyn (PL) : (rz.) cretin; (rz.) dork; (rz.) goon; (rz.) idiot; (rz.) moron
+[kretynizm]kretynizm (PL) : (rz.) cretinism
+[kretynski]kretyński (PL) : (p.) idiotic; (p.) imbecile; (p.) moronic
+[krew]krew (PL) : (rz.) blood; (rz.) bloodline; (rz.) claret; (rz.) lifeblood
+[krewetka]krewetka (PL) : (rz.) prawn; (rz.) shrimp
+[krewetki]krewetki (PL) : (rz.) shrimps
+[krewki]krewki (PL) : (p.) hot-blooded; (p.) irascible
+[krewkosc]krewkość (PL) : (rz.) irascibility
+[krewna]krewna (PL) : (rz.) cousin; (rz.) kinswoman; (rz.) relative
+[krewni]krewni (PL) : (rz.) kindred; (rz.) kinsfolk; (rz.) relatives
+[krewniak]krewniak (PL) : (rz.) relative
+[krewny]krewny (PL) : (p.) akin; (p.) allied; (p.) distant; (p.) relative
+[kreza]kreza (PL) : (rz.) frill; (rz.) ruche; (rz.) ruff
+[krezka]krezka (PL) : (rz.) mesentery
+[krezkowy]krezkowy (PL) : (p.) mesenteric
+[krezol]krezol (PL) : (rz.) cresol
+[krezus]krezus (PL) : (rz.) Croesus
+[kreslak]kreślak (PL) : (rz.) plotter
+[kreslarstwo]kreślarstwo (PL) : (rz.) draughtsmanship
+[kreslarz]kreślarz (PL) : (rz.) designer; (rz.) draftsman; (rz.) draughtsman; (rz.) plotter; (rz.) tracer
+[kreslenie]kreślenie (PL) : (rz.) drafting
+[kreslic]kreślić (PL) : (cz.) line; (cz.) pen; (cz.) plot; (cz.) sketch; (cz.) trace
+[kriobiologia]kriobiologia (PL) : (rz.) cryobiology
+[kriochirurgia]kriochirurgia (PL) : (rz.) cryosurgery
+[kriogeniczny]kriogeniczny (PL) : (p.) cryogenic
+[kriogenika]kriogenika (PL) : (rz.) cryogenics
+[kriohydrat]kriohydrat (PL) : (rz.) cryohydrate
+[kriometria]kriometria (PL) : (rz.) cryoscopy
+[kriostat]kriostat (PL) : (rz.) cryostat
+[kriotron]kriotron (PL) : (rz.) cryotron
+[krnabrnie]krnąbrnie (PL) : (p-sł.) unmanageably
+[krnabrnosc]krnąbrność (PL) : (rz.) contumacy; (rz.) defiance; (rz.) intractability; (rz.) recalcitrance
+[krnabrny]krnąbrny (PL) : (p.) balky; (p.) contumacious; (p.) defiant; (p.) fractious; (p.) insubordinate; (p.) intractable; (p.) recalcitrant; (p.) restive; (p.) unmanageable; (p.) unruly; (p.) wayward
+[krochmal]krochmal (PL) : (rz.) starch
+[krochmalenie]krochmalenie (PL) : (rz.) starch
+[krochmalic]krochmalić (PL) : (cz.) starch
+[krocie]krocie (PL) : (rz.) lots; (rz.) myriad; (rz.) treasure
+[krociowy]krociowy (PL) : (p.) enormous
+[krocz]krocz (PL) : (rz.) episiotomy; (rz.) stride; (rz.) tread
+[krocze]krocze (PL) : (rz.) crotch; (rz.) perineum
+[kroczyc]kroczyć (PL) : (cz.) clump; (cz.) pace; (cz.) stalk; (cz.) step; (cz.) stride; (cz.) strode; (cz.) tread; (cz.) trod; (cz.) walk
+[krogulec]krogulec (PL) : (rz.) sparrow-hawk
+[kroic]kroić (PL) : (cz.) carve; (cz.) cut; (cz.) slice
+[krojczy]krojczy (PL) : (rz.) cutter
+[krojenie]krojenie (PL) : (rz.) cut; (rz.) cutting
+[krok]krok (PL) : (rz.) crotch; (rz.) footfall; (rz.) footstep; (rz.) gait; (rz.) ozone; (rz.) pace; (rz.) pas; (rz.) step; (rz.) stride
+[krokiet]krokiet (PL) : (rz.) croquet; (rz.) croquette
+[krokietowac]krokietować (PL) : (cz.) croquet
+[krokiew]krokiew (PL) : (rz.) rafter
+[krokiewka]krokiewka (PL) : (rz.) carline; (rz.) jack-rafter; (rz.) stripe
+[krokodyl]krokodyl (PL) : (rz.) crocodile
+[krokomierz]krokomierz (PL) : (rz.) pedometer
+[kroksztyn]kroksztyn (PL) : (rz.) bracket; (rz.) cantilever
+[krokus]krokus (PL) : (rz.) crocus; (rz.) saffron
+[kromka]kromka (PL) : (rz.) chunk; (rz.) slice
+[kron]kron (PL) : (rz.) crown
+[kronika]kronika (PL) : (rz.) annals; (rz.) chronicle; (rz.) memorial
+[kronikarski]kronikarski (PL) : (p.) annalistic
+[kronikarz]kronikarz (PL) : (rz.) annalist; (rz.) chronicler; (rz.) recorder
+[kropelka]kropelka (PL) : (rz.) blob; (rz.) droplet; (rz.) tot
+[kropidlo]kropidło (PL) : (rz.) aspergillum
+[kropielnica]kropielnica (PL) : (rz.) laver
+[kropic]kropić (PL) : (cz.) drop; (cz.) gulp; (cz.) spit; (cz.) sprinkle
+[kropka]kropka (PL) : (rz.) dot; (rz.) fleck; (rz.) period; (rz.) point; (rz.) spot; (rz.) stop
+[kropkowac]kropkować (PL) : (cz.) dot; (cz.) fleck; (cz.) stipple
+[kropla]kropla (PL) : (rz.) bead; (rz.) blob; (rz.) drop; (rz.) gob; (rz.) gout; (rz.) raindrop
+[kroplomierz]kroplomierz (PL) : (rz.) dropper
+[kroplowka]kroplówka (PL) : (rz.) drip
+[krosno]krosno (PL) : (rz.) lathe; (rz.) loom
+[krosta]krosta (PL) : (rz.) blain; (rz.) blotch; (rz.) pimple; (rz.) pustule; (rz.) spot
+[krostka]krostka (PL) : (rz.) pock; (rz.) pustule; (rz.) wheal
+[krostowaty]krostowaty (PL) : (p.) pimpled; (p.) spotty
+[krotnosc]krotność (PL) : (rz.) multiplicity; (rz.) times
+[krotochwilny]krotochwilny (PL) : (p.) facetious
+[krowa]krowa (PL) : (rz.) cow
+[krowianka]krowianka (PL) : (rz.) cowpox; (rz.) vaccine
+[krowiarka]krowiarka (PL) : (rz.) dairymaid
+[krowiarz]krowiarz (PL) : (rz.) cowboy
+[krtaniowy]krtaniowy (PL) : (p.) laryngeal
+[krtan]krtań (PL) : (rz.) larynx; (rz.) pharynx
+[kruchosc]kruchość (PL) : (rz.) brittleness; (rz.) crispness; (rz.) crustiness; (rz.) fragility; (rz.) friability; (rz.) shortness; (rz.) tenderness
+[kruchta]kruchta (PL) : (rz.) porch
+[kruchy]kruchy (PL) : (p.) breakable; (p.) brittle; (p.) crisp; (p.) crispy; (p.) crumbly; (p.) crusty; (p.) flimsy; (p.) fragile; (p.) frail; (p.) friable; (p.) slight; (p.) tender
+[krucjata]krucjata (PL) : (rz.) crusade; (rz.) jihad
+[krucyfiks]krucyfiks (PL) : (rz.) crucifix
+[kruczoczarny]kruczoczarny (PL) : (p.) blue-black
+[kruczy]kruczy (PL) : (p.) corvine; (p.) raven; (p.) raven-black
+[kruk]kruk (PL) : (rz.) crow; (rz.) raven
+[krupiasty]krupiasty (PL) : (p.) gritty
+[krupier]krupier (PL) : (rz.) croupier; (rz.) dealer
+[krupic]krupić (PL) : (cz.) clot
+[krupon]krupon (PL) : (rz.) butt
+[kruszarka]kruszarka (PL) : (rz.) crusher; (rz.) splitter
+[kruszarka-kologniot]kruszarka-kołogniot (PL) : (rz.) chaser
+[kruszcowy]kruszcowy (PL) : (p.) metallic
+[kruszec]kruszec (PL) : (rz.) bullion; (rz.) ore
+[kruszenie]kruszenie (PL) : (rz.) crushing
+[krusznosc]kruszność (PL) : (rz.) brisance
+[kruszon]kruszon (PL) : (rz.) bishop; (rz.) sangria
+[kruszonka]kruszonka (PL) : (rz.) crumble
+[kruszyna]kruszyna (PL) : (rz.) crumb
+[kruszynka]kruszynka (PL) : (rz.) mite
+[kruszyc]kruszyć (PL) : (cz.) crumble; (cz.) crush; (cz.) disrupt; (cz.) mince; (cz.) moulder
+[kruszacy]kruszący (PL) : (p.) disruptive
+[kruzganek]krużganek (PL) : (rz.) cloister; (rz.) gallery
+[kruzgankowy]krużgankowy (PL) : (p.) cloistered
+[krwawica]krwawica (PL) : (rz.) bleeding; (rz.) toil
+[krwawienie]krwawienie (PL) : (rz.) bleeding
+[krwawic]krwawić (PL) : (cz.) bleed
+[krwawnica]krwawnica (PL) : (rz.) loosestrife
+[krwawnik]krwawnik (PL) : (rz.) bloodstone; (rz.) blood-stone; (rz.) cornelian; (rz.) milfoil; (rz.) yarrow
+[krwawy]krwawy (PL) : (p.) bloody; (p.) ensanguined; (p.) gory; (p.) red; (p.) sanguinary; (p.) sanguine; (p.) sanguineous
+[krwiak]krwiak (PL) : (rz.) haematoma
+[krwinka]krwinka (PL) : (rz.) corpuscle
+[krwiobieg]krwiobieg (PL) : (rz.) bloodstream
+[krwiodawca]krwiodawca (PL) : (rz.) blood-giver
+[krwiozerczosc]krwiożerczość (PL) : (rz.) bloodthirstiness
+[krwiozerczy]krwiożerczy (PL) : (p.) bloodthirsty; (p.) blood-thirsty; (p.) sanguinary
+[krwistoczerwony]krwistoczerwony (PL) : (p.) sanguineous
+[krwistosc]krwistość (PL) : (rz.) ruddiness
+[krwisty]krwisty (PL) : (p.) bloodied; (p.) rare; (p.) sanguinary; (p.) underdone
+[krwisciag]krwiściąg (PL) : (rz.) burnet
+[krwotoczny]krwotoczny (PL) : (p.) haemorrhagic; (p.) hemorrhagic
+[krwotok]krwotok (PL) : (rz.) flux; (rz.) haemorrhage
+[krycie]krycie (PL) : (rz.) mating
+[krygowac]krygować (PL) : (cz.) mince
+[kryjowka]kryjówka (PL) : (rz.) cache; (rz.) haunt; (rz.) hideaway; (rz.) hideout; (rz.) hide-out; (rz.) hiding-place; (rz.) lair; (rz.) lurking-place; (rz.) recess; (rz.) repair
+[krykiet]krykiet (PL) : (rz.) cricket; (rz.) infield
+[kryl]kryl (PL) : (rz.) krill
+[kryminalista]kryminalista (PL) : (rz.) criminal; (rz.) gaolbird; (rz.) gaol-bird; (rz.) jailbird
+[kryminalny]kryminalny (PL) : (p.) criminal; (p.) felonious
+[kryminal]kryminał (PL) : (rz.) calaboose; (rz.) crime; (rz.) slammer; (rz.) whodunit
+[kryminolog]kryminolog (PL) : (rz.) criminologist
+[kryminologia]kryminologia (PL) : (rz.) criminology
+[kryminologiczny]kryminologiczny (PL) : (p.) criminological
+[krynica]krynica (PL) : (rz.) fount; (rz.) source; (rz.) spring
+[kryniczny]kryniczny (PL) : (p.) spring
+[krynolina]krynolina (PL) : (rz.) crinoline; (rz.) skirt
+[krypa]krypa (PL) : (rz.) punt; (rz.) scow
+[krypta]krypta (PL) : (rz.) crypt
+[kryptograf]kryptograf (PL) : (rz.) cryptographer
+[kryptografia]kryptografia (PL) : (rz.) cryptography; (rz.) encryption
+[kryptograficzny]kryptograficzny (PL) : (p.) cryptographic
+[kryptogram]kryptogram (PL) : (rz.) cryptogram; (rz.) cryptograph
+[kryptolog]kryptolog (PL) : (rz.) cryptographer
+[kryptologia]kryptologia (PL) : (rz.) cryptology
+[krypton]krypton (PL) : (rz.) krypton
+[kryptonim]kryptonim (PL) : (rz.) codename; (rz.) cryptonym
+[kryptoreklama]kryptoreklama (PL) : (rz.) advertorial
+[krystaliczny]krystaliczny (PL) : (p.) crystalline
+[krystalit]krystalit (PL) : (rz.) crystallite
+[krystalizacja]krystalizacja (PL) : (rz.) crystallization
+[krystalizowac]krystalizować (PL) : (cz.) crystallize; (cz.) solidify
+[krystalograf]krystalograf (PL) : (rz.) crystallographer
+[krystalografia]krystalografia (PL) : (rz.) crystallography
+[krystalograficzny]krystalograficzny (PL) : (p.) crystallographic
+[krystaloid]krystaloid (PL) : (rz.) crystalloid
+[krysztal]kryształ (PL) : (rz.) crystal
+[krysztalowosc]kryształowość (PL) : (rz.) limpidity
+[kryterium]kryterium (PL) : (rz.) benchmark; (rz.) canon; (rz.) criterion; (rz.) yardstick
+[krytycyzm]krytycyzm (PL) : (rz.) criticism
+[krytycznie]krytycznie (PL) : (p-sł.) critically
+[krytyczny]krytyczny (PL) : (p.) censorial; (p.) censorious; (p.) critical; (p.) criticality; (p.) crucial; (p.) judicial
+[krytyk]krytyk (PL) : (rz.) critic; (rz.) detractor; (rz.) drama; (rz.) reviewer
+[krytyka]krytyka (PL) : (rz.) animadversion; (rz.) arraignment; (rz.) censure; (rz.) condemnation; (rz.) critic; (rz.) criticality; (rz.) criticism; (rz.) critique; (rz.) stricture
+[krytykant]krytykant (PL) : (rz.) criticaster
+[krytykowanie]krytykowanie (PL) : (rz.) clobber; (rz.) criticism
+[krytykowac]krytykować (PL) : (cz.) animadvert; (cz.) censure; (cz.) clobber; (cz.) criticize; (cz.) impeach
+[kryza]kryza (PL) : (rz.) flange; (rz.) orifice; (rz.) ruff
+[kryzys]kryzys (PL) : (rz.) crisis; (rz.) depression; (rz.) juncture; (rz.) slump
+[kryzysowy]kryzysowy (PL) : (p.) critical
+[kryc]kryć (PL) : (cz.) hide; (cz.) mask; (cz.) skulk; (cz.) underlie
+[krzaczasty]krzaczasty (PL) : (p.) brushy; (p.) bushy; (p.) shaggy; (p.) shrubby
+[krzak]krzak (PL) : (rz.) brush; (rz.) bush; (rz.) scrub; (rz.) shrub
+[krzem]krzem (PL) : (rz.) silicon
+[krzemian]krzemian (PL) : (rz.) silicate
+[krzemianowy]krzemianowy (PL) : (p.) siliceous
+[krzemica]krzemica (PL) : (rz.) silicosis
+[krzemienisty]krzemienisty (PL) : (p.) flinty
+[krzemienny]krzemienny (PL) : (p.) flinty
+[krzemien]krzemień (PL) : (rz.) firestone; (rz.) flint
+[krzemionka]krzemionka (PL) : (rz.) silica
+[krzemionkowy]krzemionkowy (PL) : (p.) siliceous
+[krzepa]krzepa (PL) : (rz.) brawn; (rz.) moxie; (rz.) punch; (rz.) vim
+[krzepic]krzepić (PL) : (cz.) invigorate; (cz.) refresh; (cz.) strengthen
+[krzepki]krzepki (PL) : (p.) bouncing; (p.) brawny; (p.) burly; (p.) hale; (p.) husky; (p.) lusty; (p.) nervy; (p.) robust; (p.) sturdy; (p.) virile
+[krzepko]krzepko (PL) : (p-sł.) huskily; (p-sł.) vigorously
+[krzepkosc]krzepkość (PL) : (rz.) burliness; (rz.) lustiness; (rz.) sprightliness
+[krzepnienie]krzepnienie (PL) : (rz.) solidification
+[krzepniecie]krzepnięcie (PL) : (rz.) coagulation; (rz.) fixation; (rz.) freezing; (rz.) solidification
+[krzepnac]krzepnąć (PL) : (cz.) coagulate; (cz.) solidify
+[krzesac]krzesać (PL) : (cz.) strike
+[krzeselko]krzesełko (PL) : (rz.) chair
+[krzesiwo]krzesiwo (PL) : (rz.) flint
+[krzeslo]krzesło (PL) : (rz.) armchair; (rz.) chair; (rz.) pew; (rz.) seat
+[krzew]krzew (PL) : (rz.) bush; (rz.) guava; (rz.) shrub
+[krzewiasty]krzewiasty (PL) : (p.) shrubby
+[krzewiciel]krzewiciel (PL) : (rz.) propagator
+[krzewienie]krzewienie (PL) : (rz.) promotion
+[krzewic]krzewić (PL) : (cz.) graft; (cz.) promote; (cz.) pullulate
+[krzta]krzta (PL) : (rz.) title
+[krztusic]krztusić (PL) : (cz.) choke; (cz.) gulp
+[krztyna]krztyna (PL) : (rz.) jot; (rz.) scrap
+[krzyczec]krzyczeć (PL) : (cz.) cry; (cz.) honk; (cz.) hoot; (cz.) rant; (cz.) scream; (cz.) shout; (cz.) shriek; (cz.) squall; (cz.) squawk; (cz.) squeak; (cz.) whoop; (cz.) yell
+[krzyczaco]krzycząco (PL) : (p-sł.) blatantly; (p-sł.) glaringly
+[krzyk]krzyk (PL) : (rz.) call; (rz.) clamour; (rz.) cry; (rz.) exclamation; (rz.) honk; (rz.) outcry; (rz.) rant; (rz.) scream; (rz.) shout; (rz.) shriek; (rz.) squawk; (rz.) squeak; (rz.) vociferation; (rz.) yell
+[krzykactwo]krzykactwo (PL) : (rz.) tub-thumping
+[krzykacz]krzykacz (PL) : (rz.) crier; (rz.) heckler; (rz.) screamer; (rz.) shout; (rz.) shouter
+[krzykliwie]krzykliwie (PL) : (p-sł.) loudly
+[krzykliwosc]krzykliwość (PL) : (rz.) blatancy
+[krzykliwy]krzykliwy (PL) : (p.) blatant; (p.) bold; (p.) clamorous; (p.) flamboyant; (p.) flaring; (p.) gaudy; (p.) jazzy; (p.) loud; (p.) meretricious; (p.) noisy; (p.) randy; (p.) showy; (p.) shrill; (p.) tawdry; (p.) vociferous
+[krzyknac]krzyknąć (PL) : (cz.) shout
+[krzywa]krzywa (PL) : (rz.) curve; (rz.) graph; (rz.) scroll
+[krzywda]krzywda (PL) : (rz.) grievance; (rz.) harm; (rz.) injury; (rz.) injustice; (rz.) mischief; (rz.) wrongdoing; (rz.) wrong-doing
+[krzywdzenie]krzywdzenie (PL) : (rz.) harm
+[krzywdziciel]krzywdziciel (PL) : (rz.) wrong-doer
+[krzywdzic]krzywdzić (PL) : (cz.) aggrieve; (cz.) grieve; (cz.) injure
+[krzywdzacy]krzywdzący (PL) : (p.) wrongful
+[krzywica]krzywica (PL) : (rz.) rickets
+[krzywiczny]krzywiczny (PL) : (p.) rachitic; (p.) rickety
+[krzywizna]krzywizna (PL) : (rz.) curvature; (rz.) slope
+[krzywic]krzywić (PL) : (cz.) bend; (cz.) contort; (cz.) crook; (cz.) curve; (cz.) hook; (cz.) lour; (cz.) scowl
+[krzywka]krzywka (PL) : (rz.) cam
+[krzywo]krzywo (PL) : (p-sł.) askew; (p-sł.) awry; (p-sł.) clumsily; (p-sł.) crookedly
+[krzywolinijny]krzywolinijny (PL) : (p.) curvilinear
+[krzywoliniowosc]krzywoliniowość (PL) : (rz.) bendiness
+[krzywoliniowy]krzywoliniowy (PL) : (p.) curvilinear
+[krzywonogi]krzywonogi (PL) : (p.) bandy-legged; (p.) bow-legged; (p.) knock-kneed
+[krzywoprzysiegac]krzywoprzysięgać (PL) : (cz.) perjure
+[krzywoprzysiestwo]krzywoprzysięstwo (PL) : (rz.) perjury
+[krzywoprzysiezca]krzywoprzysięzca (PL) : (rz.) perjurer
+[krzywy]krzywy (PL) : (p.) awry; (p.) bandy; (p.) crooked; (p.) lopsided; (p.) skew; (p.) uneven; (p.) wry
+[krzyz]krzyż (PL) : (rz.) back; (rz.) cross; (rz.) crux
+[krzyzak]krzyżak (PL) : (rz.) cross; (rz.) crusader; (rz.) spider; (rz.) star-piece; (rz.) X-bit
+[krzyzakowy]krzyżakowy (PL) : (p.) cross
+[krzyzmo]krzyżmo (PL) : (rz.) chrism; (rz.) chrisom
+[krzyzowanie]krzyżowanie (PL) : (rz.) cross-breeding; (rz.) crossing; (rz.) hybridization; (rz.) miscegenation
+[krzyzowac]krzyżować (PL) : (cz.) baffle; (cz.) cross; (cz.) crucify; (cz.) frustrate; (cz.) hybridize; (cz.) interbreed; (cz.) thwart; (cz.) traverse
+[krzyzowiec]krzyżowiec (PL) : (rz.) crusader
+[krzyzownica]krzyżownica (PL) : (rz.) frog
+[krzyzowy]krzyżowy (PL) : (p.) cross; (p.) spinal
+[krzyzyk]krzyżyk (PL) : (rz.) cross; (rz.) crossbar; (rz.) crosshair; (rz.) cross-hair; (rz.) sharp
+[krzyzykowy]krzyżykowy (PL) : (p.) crosshairs
+[krzyzowka]krzyżówka (PL) : (rz.) aitchbone; (rz.) cross; (rz.) crossword; (rz.) hybridization; (rz.) sirloin
+[krzatanina]krzątanina (PL) : (rz.) bustle; (rz.) clutter; (rz.) fuss; (rz.) hustle; (rz.) stir; (rz.) to-do
+[krzatac]krzątać (PL) : (cz.) hustle
+[krociec]króciec (PL) : (rz.) prevention
+[kroj]krój (PL) : (rz.) coulter; (rz.) courier; (rz.) cut; (rz.) fit; (rz.) font; (rz.) pattern; (rz.) style; (rz.) type
+[krol]król (PL) : (rz.) king; (rz.) kingpin
+[krolestwo]królestwo (PL) : (rz.) kingdom; (rz.) kingship; (rz.) realm
+[krolewicz]królewicz (PL) : (rz.) prince
+[krolewiatko]królewiątko (PL) : (rz.) kinglet
+[krolewski]królewski (PL) : (p.) kingly; (p.) majestic; (p.) queenly; (p.) regal; (p.) royal
+[krolewskosc]królewskość (PL) : (rz.) kingship; (rz.) royalty
+[krolica]królica (PL) : (rz.) doe
+[kroliczy]króliczy (PL) : (p.) rabbit's
+[krolik]królik (PL) : (rz.) buck; (rz.) bunny; (rz.) kinglet; (rz.) lapin; (rz.) rabbit; (rz.) shuttle
+[krolikarnia]królikarnia (PL) : (rz.) warren
+[krolobojca]królobójca (PL) : (rz.) regicide
+[krolobojstwo]królobójstwo (PL) : (rz.) regicide
+[krolowa]królowa (PL) : (rz.) queen
+[krolowanie]królowanie (PL) : (rz.) kingdom
+[krolowac]królować (PL) : (cz.) reign
+[krotki]krótki (PL) : (p.) brief; (p.) briefer; (p.) compendious; (p.) concise; (p.) short; (p.) succinct; (p.) summary
+[krotko]krótko (PL) : (p-sł.) briefly; (p-sł.) concisely; (p-sł.) curtly; (p-sł.) short; (p-sł.) shortly
+[krotkodystansowy]krótkodystansowy (PL) : (p.) short; (p.) short-distance; (p.) shorted
+[krotkofalowy]krótkofalowy (PL) : (p.) short; (p.) shortwave; (p.) short-wave
+[krotkofalowka]krótkofalówka (PL) : (rz.) shortwave
+[krotkometrazowy]krótkometrażowy (PL) : (p.) short
+[krotkookresowy]krótkookresowy (PL) : (p.) short-term
+[krotkoterminowy]krótkoterminowy (PL) : (p.) shortest; (p.) short-term
+[krotkotrwale]krótkotrwale (PL) : (p-sł.) short; (p-sł.) transiently
+[krotkotrwalosc]krótkotrwałość (PL) : (rz.) brevity; (rz.) brief; (rz.) fleetness; (rz.) transience
+[krotkowzrocznosc]krótkowzroczność (PL) : (rz.) myopia; (rz.) nearsightedness
+[krotkowzroczny]krótkowzroczny (PL) : (p.) myopic; (p.) nearsighted; (p.) near-sighted; (p.) short-sighted
+[krotkowlosy]krótkowłosy (PL) : (p.) shorthaired; (p.) short-haired
+[krotkosc]krótkość (PL) : (rz.) brevity; (rz.) curtness; (rz.) shortness
+[krag]krąg (PL) : (rz.) circle; (rz.) coil; (rz.) range; (rz.) rind; (rz.) round; (rz.) sphere
+[krazek]krążek (PL) : (rz.) disc; (rz.) disk; (rz.) pulley; (rz.) roll; (rz.) roundel
+[krazenie]krążenie (PL) : (rz.) circulation
+[krazeniowy]krążeniowy (PL) : (p.) circulatory
+[krazkowy]krążkowy (PL) : (p.) rotary
+[krazownik]krążownik (PL) : (rz.) battle-cruiser; (rz.) cruise; (rz.) cruiser
+[krazyc]krążyć (PL) : (cz.) circle; (cz.) circulate; (cz.) cruise; (cz.) revolve; (cz.) rotate
+[krecenie]kręcenie (PL) : (rz.) spin
+[krecic]kręcić (PL) : (cz.) circle; (cz.) curl; (cz.) frizz; (cz.) gyrate; (cz.) mix; (cz.) palter; (cz.) prevaricate; (cz.) pussyfoot; (cz.) reel; (cz.) revolve; (cz.) spin; (cz.) squirm; (cz.) swirl; (cz.) turn; (cz.) twiddle; (cz.) twirl; (cz.) twist; (cz.) wheel; (cz.) whirl; (cz.) wriggle
+[krecony]kręcony (PL) : (p.) curly
+[kreg]kręg (PL) : (rz.) vertebra
+[kregarz]kręgarz (PL) : (rz.) chiropractor
+[kregiel]kręgiel (PL) : (rz.) bowling; (rz.) skittle; (rz.) tenpin
+[kregielnia]kręgielnia (PL) : (rz.) bowling
+[kreglarstwo]kręglarstwo (PL) : (rz.) osteopathic
+[kreglarz]kręglarz (PL) : (rz.) bowler
+[kregle]kręgle (PL) : (rz.) ninepins
+[kregoslup]kręgosłup (PL) : (rz.) backbone; (rz.) spine
+[kregowiec]kręgowiec (PL) : (rz.) vertebrate
+[kregowy]kręgowy (PL) : (p.) vertebral
+[krepowac]krępować (PL) : (cz.) constrain; (cz.) cramp; (cz.) incommode
+[krepulec]krępulec (PL) : (rz.) tourniquet
+[krepy]krępy (PL) : (p.) chunky; (p.) dumpy; (p.) square-built; (p.) stocky; (p.) stubby; (p.) stumpy; (p.) thickset
+[kret]kręt (PL) : (rz.) mole
+[kretacki]krętacki (PL) : (p.) pettifogging
+[kretactwo]krętactwo (PL) : (rz.) prevarication
+[kretacz]krętacz (PL) : (rz.) cheater; (rz.) double-dealer; (rz.) pettifogger; (rz.) shuffler; (rz.) wriggler
+[kretanina]krętanina (PL) : (rz.) tangle
+[kretoglow]krętogłów (PL) : (rz.) wryneck
+[kretosc]krętość (PL) : (rz.) sinuosity
+[krety]kręty (PL) : (p.) sinuous; (p.) spiral; (p.) tortuous
+[ksantofil]ksantofil (PL) : (rz.) xanthophylls
+[ksenofobia]ksenofobia (PL) : (rz.) xenophobia
+[ksenofobiczny]ksenofobiczny (PL) : (p.) xenophobic
+[ksenon]ksenon (PL) : (rz.) xenon
+[ksero]ksero (PL) : (rz.) photocopier
+[kserograf]kserograf (PL) : (rz.) copier
+[kserografia]kserografia (PL) : (rz.) xerography
+[kserograficzny]kserograficzny (PL) : (p.) xerographic
+[kserokopia]kserokopia (PL) : (rz.) photocopy
+[kserokopiarka]kserokopiarka (PL) : (rz.) copier
+[kserowac]kserować (PL) : (cz.) copy
+[ksiadz]ksiądz (PL) : (rz.) clergyman; (rz.) father; (rz.) padre; (rz.) priest; (rz.) reverend; (rz.) skids
+[ksiazka]książka (PL) : (rz.) bible; (rz.) book; (rz.) paperback
+[ksiazki]książki (PL) : (rz.) format
+[ksiazkowy]książkowy (PL) : (p.) bookish
+[ksiaznica]książnica (PL) : (rz.) library
+[ksiaze]książę (PL) : (rz.) prince
+[ksiazecy]książęcy (PL) : (p.) ducal; (p.) princely
+[ksiega]księga (PL) : (rz.) book; (rz.) paper; (rz.) register; (rz.) tome
+[ksiegarnia]księgarnia (PL) : (rz.) bookshop; (rz.) book-shop; (rz.) bookstore
+[ksiegarstwo]księgarstwo (PL) : (rz.) bookselling
+[ksiegarz]księgarz (PL) : (rz.) bookseller; (rz.) librarian
+[ksiegowa]księgowa (PL) : (rz.) accountant
+[ksiegowanie]księgowanie (PL) : (rz.) accounting; (rz.) journaling; (rz.) posting
+[ksiegowac]księgować (PL) : (cz.) book
+[ksiegowosc]księgowość (PL) : (rz.) accountancy; (rz.) accounting; (rz.) accounts; (rz.) bookkeeping; (rz.) book-keeping
+[ksiegozbior]księgozbiór (PL) : (rz.) library
+[ksiegoznawstwo]księgoznawstwo (PL) : (rz.) bibliography
+[ksiestwo]księstwo (PL) : (rz.) duchy; (rz.) dukedom; (rz.) principality
+[ksiezyc]księżyc (PL) : (rz.) moon
+[ksiezycowy]księżycowy (PL) : (p.) lunar; (p.) moonlit; (p.) moony
+[ksylofon]ksylofon (PL) : (rz.) xylophone
+[ksylografia]ksylografia (PL) : (rz.) xylograph; (rz.) xylography
+[ksywa]ksywa (PL) : (rz.) nick; (rz.) nickname
+[ksywka]ksywka (PL) : (rz.) moniker; (rz.) nickname
+[ksztalcenie]kształcenie (PL) : (rz.) training
+[ksztalcic]kształcić (PL) : (cz.) educate; (cz.) instruct; (cz.) study; (cz.) train
+[ksztalt]kształt (PL) : (rz.) configuration; (rz.) courier; (rz.) figure; (rz.) shape; (rz.) waveform
+[ksztaltka]kształtka (PL) : (rz.) shape
+[ksztaltnosc]kształtność (PL) : (rz.) neatness
+[ksztaltny]kształtny (PL) : (p.) clean-cut; (p.) neat; (p.) shapely
+[ksztaltowanie]kształtowanie (PL) : (rz.) cultivation; (rz.) figuration; (rz.) shape; (rz.) shaping; (rz.) styling
+[ksztaltowac]kształtować (PL) : (cz.) fashion; (cz.) figure; (cz.) form; (cz.) formalize; (cz.) mould; (cz.) shape; (cz.) structure
+[ksztaltownik]kształtownik (PL) : (rz.) section; (rz.) swage
+[kszyk]kszyk (PL) : (rz.) snipe
+[ktokolwiek]ktokolwiek (PL) : (p.) one
+[ktos]ktoś (PL) : (rz.) anybody; (rz.) go-getter; (rz.) people; (rz.) someone
+[ktorykolwiek]którykolwiek (PL) : (p.) any; (p.) whichever
+[ku]ku (PL) : (p-im.) against; (p-im.) to; (p-im.) toward; (p-im.) towards; (p-im.) unto
+[kubatura]kubatura (PL) : (rz.) airspace; (rz.) capacity; (rz.) cubage; (rz.) cubature; (rz.) volume
+[kubek]kubek (PL) : (rz.) beaker; (rz.) cannikin; (rz.) cup; (rz.) jug; (rz.) mug; (rz.) noggin; (rz.) teacup; (rz.) tumbler
+[kubel]kubeł (PL) : (rz.) bin; (rz.) bucket; (rz.) kibble; (rz.) kit; (rz.) pail; (rz.) scoop
+[kubiczny]kubiczny (PL) : (p.) cubic; (p.) cubical
+[kubista]kubista (PL) : (rz.) cubist
+[kubizm]kubizm (PL) : (rz.) cubism
+[kubrak]kubrak (PL) : (rz.) doublet
+[kubryk]kubryk (PL) : (rz.) forecastle
+[kuc]kuc (PL) : (rz.) pony
+[kucanie]kucanie (PL) : (rz.) squat
+[kucac]kucać (PL) : (cz.) crouch; (cz.) hunker; (cz.) squat
+[kucharski]kucharski (PL) : (p.) cook's
+[kucharstwo]kucharstwo (PL) : (rz.) cookery; (rz.) cooking
+[kucharz]kucharz (PL) : (rz.) chef; (rz.) cook
+[kuchenka]kuchenka (PL) : (rz.) cooker; (rz.) cooking-range; (rz.) kitchenette; (rz.) stove
+[kuchmistrz]kuchmistrz (PL) : (rz.) chef
+[kuchnia]kuchnia (PL) : (rz.) caboose; (rz.) cookhouse; (rz.) cook-house; (rz.) cooking; (rz.) cuddy; (rz.) cuisine; (rz.) kitchen
+[kucyk]kucyk (PL) : (rz.) cob; (rz.) nag; (rz.) pigtail; (rz.) pony; (rz.) ponytail
+[kudlaty]kudłaty (PL) : (p.) fluey; (p.) hairy; (p.) hirsute; (p.) shaggy
+[kudly]kudły (PL) : (rz.) shag
+[kufel]kufel (PL) : (rz.) beer-mug; (rz.) growler; (rz.) mug; (rz.) tankard
+[kufer]kufer (PL) : (rz.) chest; (rz.) coffer; (rz.) trunk
+[kuferek]kuferek (PL) : (rz.) paunch
+[kuglarstwo]kuglarstwo (PL) : (rz.) jugglery; (rz.) legerdemain
+[kuglarz]kuglarz (PL) : (rz.) conjurer; (rz.) conjuror; (rz.) juggler; (rz.) tumbler
+[kuguar]kuguar (PL) : (rz.) cougar
+[kujny]kujny (PL) : (p.) forgeable
+[kujon]kujon (PL) : (rz.) crammer; (rz.) grind; (rz.) swat; (rz.) swot
+[kukielka]kukiełka (PL) : (rz.) doll; (rz.) puppet
+[kuksaniec]kuksaniec (PL) : (rz.) nudge; (rz.) poke
+[kukurydza]kukurydza (PL) : (rz.) corn; (rz.) maize
+[kukulka]kukułka (PL) : (rz.) cuckoo
+[kukla]kukła (PL) : (rz.) dummy; (rz.) effigy; (rz.) puppet
+[kula]kula (PL) : (rz.) ball; (rz.) bowl; (rz.) bullet; (rz.) crutch; (rz.) globe; (rz.) orb; (rz.) shot; (rz.) snowball; (rz.) sphere
+[kulas]kulas (PL) : (rz.) cripple; (rz.) scribble
+[kulawiec]kulawieć (PL) : (cz.) hobble
+[kulawka]kulawka (PL) : (rz.) cripple-timber; (rz.) hobble; (rz.) jack-rafter
+[kulawo]kulawo (PL) : (p-sł.) lamely
+[kulawy]kulawy (PL) : (p.) lame; (p.) rickety
+[kulac]kulać (PL) : (cz.) limp
+[kulbak]kulbak (PL) : (rz.) saddles
+[kulbaka]kulbaka (PL) : (rz.) saddle
+[kulec]kuleć (PL) : (cz.) flag; (cz.) hobble; (cz.) limp
+[kulfon]kulfon (PL) : (rz.) dump; (rz.) squab
+[kulfoniasty]kulfoniasty (PL) : (p.) hulking
+[kulik]kulik (PL) : (rz.) curlew
+[kulinarny]kulinarny (PL) : (p.) culinary
+[kulisa]kulisa (PL) : (rz.) coolie
+[kulistosc]kulistość (PL) : (rz.) roundness
+[kulisty]kulisty (PL) : (p.) ball-shaped; (p.) globular; (p.) nodular; (p.) round; (p.) spherical
+[kulic]kulić (PL) : (cz.) cower; (cz.) cringe; (cz.) crouch; (cz.) duck; (cz.) hunch; (cz.) nestle; (cz.) squat
+[kulka]kulka (PL) : (rz.) ball; (rz.) bead; (rz.) blob; (rz.) bullet; (rz.) globule; (rz.) marble; (rz.) nodule; (rz.) pellet; (rz.) slug
+[kulminacja]kulminacja (PL) : (rz.) culmination
+[kulminacyjny]kulminacyjny (PL) : (p.) culminant
+[kulminowac]kulminować (PL) : (cz.) culminate
+[kulochwyt]kulochwyt (PL) : (rz.) butt
+[kulomb]kulomb (PL) : (rz.) ampere-second; (rz.) coulomb
+[kulometr]kulometr (PL) : (rz.) coulometer
+[kulon]kulon (PL) : (rz.) curlew; (rz.) stonecutter
+[kuloodporny]kuloodporny (PL) : (p.) bullet-proof
+[kulszowy]kulszowy (PL) : (p.) sciatic
+[kult]kult (PL) : (rz.) cult; (rz.) reverence
+[kultura]kultura (PL) : (rz.) civilization; (rz.) culture; (rz.) material
+[kulturalnie]kulturalnie (PL) : (p-sł.) culturally
+[kulturalny]kulturalny (PL) : (p.) civilized; (p.) cultivated; (p.) cultural; (p.) cultured; (p.) mannerly; (p.) polite
+[kulturowy]kulturowy (PL) : (p.) cultural
+[kulturysta]kulturysta (PL) : (rz.) body; (rz.) bodybuilder; (rz.) body-builder
+[kulturystyka]kulturystyka (PL) : (rz.) bodybuilding; (rz.) body-building
+[kultywacja]kultywacja (PL) : (rz.) cultivation
+[kultywator]kultywator (PL) : (rz.) cultivator
+[kultywowanie]kultywowanie (PL) : (rz.) cultivation
+[kultywowac]kultywować (PL) : (cz.) cultivate; (cz.) cultivated
+[kuluary]kuluary (PL) : (rz.) corridors; (rz.) lobby
+[kum]kum (PL) : (rz.) chum; (rz.) fellow; (rz.) gaffer
+[kumaron]kumaron (PL) : (rz.) coumarone
+[kumkac]kumkać (PL) : (cz.) croak
+[kumoszka]kumoszka (PL) : (rz.) co-mother; (rz.) crone; (rz.) wife
+[kumoter]kumoter (PL) : (rz.) crony; (rz.) gaffer
+[kumoterstwo]kumoterstwo (PL) : (rz.) logrolling; (rz.) log-rolling; (rz.) nepotism
+[kumpel]kumpel (PL) : (rz.) buddy; (rz.) buddy-buddy; (rz.) chum; (rz.) crony; (rz.) feller; (rz.) fellow; (rz.) friend; (rz.) mate; (rz.) pal; (rz.) pall; (rz.) sidekick
+[kumulacja]kumulacja (PL) : (rz.) accumulation
+[kumulacyjnie]kumulacyjnie (PL) : (p-sł.) cumulatively
+[kumulacyjny]kumulacyjny (PL) : (p.) cumulative
+[kumulatywny]kumulatywny (PL) : (p.) cumulative
+[kumulowac]kumulować (PL) : (cz.) accumulate; (cz.) cumulate
+[kuna]kuna (PL) : (rz.) marten
+[kundel]kundel (PL) : (rz.) cur; (rz.) mongrel; (rz.) mutt; (rz.) pooch; (rz.) tyke
+[kundle]kundle (PL) : (rz.) mongrels
+[kunktatorstwo]kunktatorstwo (PL) : (rz.) procrastination
+[kunszt]kunszt (PL) : (rz.) art; (rz.) artistry; (rz.) craft; (rz.) craftsmanship
+[kunsztownie]kunsztownie (PL) : (p-sł.) minutely
+[kunsztownosc]kunsztowność (PL) : (rz.) artistry; (rz.) elaborateness
+[kunsztowny]kunsztowny (PL) : (p.) artistic; (p.) elaborate; (p.) minute
+[kupa]kupa (PL) : (rz.) heap; (rz.) huddle; (rz.) jumble; (rz.) peck; (rz.) pile; (rz.) ton
+[kupczyc]kupczyć (PL) : (cz.) traffic
+[kupelacja]kupelacja (PL) : (rz.) cupellation
+[kupelowac]kupelować (PL) : (cz.) assay
+[kuper]kuper (PL) : (rz.) rump
+[kupido]kupido (PL) : (rz.) cupid
+[kupiec]kupiec (PL) : (rz.) businessman; (rz.) buyer; (rz.) chandler; (rz.) dealer; (rz.) merchant; (rz.) shopkeeper; (rz.) storekeeper; (rz.) trader; (rz.) tradesman
+[kupiecki]kupiecki (PL) : (p.) mercantile
+[kupiectwo]kupiectwo (PL) : (rz.) commerce; (rz.) dealership
+[kupic]kupić (PL) : (cz.) buy; (cz.) get; (cz.) take
+[kupka]kupka (PL) : (rz.) heap
+[kuplet]kuplet (PL) : (rz.) couplet
+[kupno]kupno (PL) : (rz.) bargain; (rz.) buy; (rz.) buying; (rz.) purchase
+[kupny]kupny (PL) : (p.) purchasable; (p.) venal
+[kupon]kupon (PL) : (rz.) coupon; (rz.) stamp; (rz.) ticket; (rz.) voucher
+[kupowanie]kupowanie (PL) : (rz.) buy; (rz.) buying; (rz.) shopping
+[kupowac]kupować (PL) : (cz.) buy; (cz.) purchase; (cz.) shop
+[kur]kur (PL) : (rz.) hens; (rz.) measles
+[kura]kura (PL) : (rz.) hen; (rz.) measles
+[kuracja]kuracja (PL) : (rz.) cure; (rz.) treatment
+[kuracjusz]kuracjusz (PL) : (rz.) bather; (rz.) patient
+[kuracjuszka]kuracjuszka (PL) : (rz.) patient
+[kuracyjny]kuracyjny (PL) : (p.) curative; (p.) therapeutic
+[kurak]kurak (PL) : (rz.) cock
+[kurant]kurant (PL) : (rz.) chime
+[kurara]kurara (PL) : (rz.) curare
+[kuratela]kuratela (PL) : (rz.) guardianship; (rz.) tutelage
+[kurator]kurator (PL) : (rz.) curator; (rz.) custodian; (rz.) keeper; (rz.) probation; (rz.) trustee; (rz.) warden
+[kuraz]kuraż (PL) : (rz.) moxie
+[kurcz]kurcz (PL) : (rz.) cramp; (rz.) spasm
+[kurczak]kurczak (PL) : (rz.) biddy; (rz.) broiler; (rz.) chick; (rz.) chicken
+[kurczenie]kurczenie (PL) : (rz.) contraction; (rz.) shrinkage
+[kurczliwy]kurczliwy (PL) : (p.) contractible; (p.) retractile; (p.) shrinkable
+[kurczowo]kurczowo (PL) : (p-sł.) tightly
+[kurczowy]kurczowy (PL) : (p.) jerky; (p.) spasmodic; (p.) spastic; (p.) tight
+[kurczyc]kurczyć (PL) : (cz.) contract; (cz.) dwindle; (cz.) shrink; (cz.) twitch
+[kurczatko]kurczątko (PL) : (rz.) chicken; (rz.) chuck
+[kurcze]kurczę (PL) : (rz.) chicken
+[kurdupel]kurdupel (PL) : (rz.) shrimp
+[kurdyban]kurdyban (PL) : (rz.) cordovan
+[kurek]kurek (PL) : (rz.) cock; (rz.) faucet; (rz.) rooster; (rz.) spout; (rz.) stopcock; (rz.) tap; (rz.) weathercock
+[kurhan]kurhan (PL) : (rz.) barrow; (rz.) tumulus
+[kuria]kuria (PL) : (rz.) curia
+[kurier]kurier (PL) : (rz.) courier; (rz.) messenger
+[kuriozum]kuriozum (PL) : (rz.) curiosity
+[kurka]kurka (PL) : (rz.) cock; (rz.) pullet
+[kurkuma]kurkuma (PL) : (rz.) turmeric
+[kurnik]kurnik (PL) : (rz.) barn; (rz.) coop; (rz.) shed
+[kuropatwa]kuropatwa (PL) : (rz.) grouse; (rz.) partridge
+[kurort]kurort (PL) : (rz.) resort; (rz.) spa
+[kurowac]kurować (PL) : (cz.) treat
+[kurs]kurs (PL) : (rz.) class; (rz.) course; (rz.) head; (rz.) heading; (rz.) ride; (rz.) sailing; (rz.) set-down
+[kursant]kursant (PL) : (rz.) trainee
+[kursor]kursor (PL) : (rz.) cursor
+[kursowanie]kursowanie (PL) : (rz.) running
+[kursowac]kursować (PL) : (cz.) circulate; (cz.) ply
+[kursywa]kursywa (PL) : (rz.) italics
+[kurtaz]kurtaż (PL) : (rz.) court
+[kurtka]kurtka (PL) : (rz.) anorak; (rz.) blazer; (rz.) coat; (rz.) jacket; (rz.) jerkin; (rz.) kirtle; (rz.) reefer
+[kurtuazja]kurtuazja (PL) : (rz.) comity; (rz.) courtesy
+[kurtuazyjny]kurtuazyjny (PL) : (p.) courteous
+[kurtyna]kurtyna (PL) : (rz.) curtain
+[kurtyzana]kurtyzana (PL) : (rz.) courtesan
+[kurz]kurz (PL) : (rz.) dirt; (rz.) dust; (rz.) dusting
+[kurzajka]kurzajka (PL) : (rz.) wart
+[kurzawa]kurzawa (PL) : (rz.) dust; (rz.) quicksand; (rz.) snowstorm
+[kurzawka]kurzawka (PL) : (rz.) quicksand
+[kurzy]kurzy (PL) : (p.) hen's
+[kurzyc]kurzyć (PL) : (cz.) dust; (cz.) reek
+[kurzyslad]kurzyślad (PL) : (rz.) pimpernel
+[kusiciel]kusiciel (PL) : (rz.) tempter
+[kusicielski]kusicielski (PL) : (p.) enticing; (p.) tempting
+[kusic]kusić (PL) : (cz.) allure; (cz.) attract; (cz.) beckon; (cz.) entice; (cz.) lure; (cz.) seduce; (cz.) tantalize; (cz.) tempt
+[kuskus]kuskus (PL) : (rz.) couscous
+[kustodia]kustodia (PL) : (rz.) custody
+[kustosz]kustosz (PL) : (rz.) conservator; (rz.) curator; (rz.) custodian; (rz.) keeper
+[kusy]kusy (PL) : (p.) bad
+[kusza]kusza (PL) : (rz.) arbalest; (rz.) crossbow; (rz.) cross-bow
+[kuszenie]kuszenie (PL) : (rz.) temptation
+[kuszetka]kuszetka (PL) : (rz.) berth; (rz.) couchette
+[kusznik]kusznik (PL) : (rz.) crossbowman
+[kutas]kutas (PL) : (rz.) cock; (rz.) dick; (rz.) dong; (rz.) prick
+[kuter]kuter (PL) : (rz.) cutter; (rz.) keelboat
+[kutner]kutner (PL) : (rz.) nap
+[kutwa]kutwa (PL) : (rz.) hunks; (rz.) miser; (rz.) moneygrubber; (rz.) money-grubber; (rz.) skin
+[kuweta]kuweta (PL) : (rz.) dish
+[kuzyn]kuzyn (PL) : (rz.) cousin
+[kuzynostwo]kuzynostwo (PL) : (rz.) cousinhood
+[kuc]kuć (PL) : (cz.) coin; (cz.) forge; (cz.) hew; (cz.) swot; (cz.) whack
+[kulak]kułak (PL) : (rz.) fist; (rz.) kulak
+[kusnierstwo]kuśnierstwo (PL) : (rz.) furriery
+[kusnierz]kuśnierz (PL) : (rz.) furrier
+[kustykac]kuśtykać (PL) : (cz.) hitch; (cz.) limp
+[kuznia]kuźnia (PL) : (rz.) forge; (rz.) smithy
+[kuzniarka]kuźniarka (PL) : (rz.) header
+[kwacz]kwacz (PL) : (rz.) swab
+[kwadra]kwadra (PL) : (rz.) quarter; (rz.) square
+[kwadrans]kwadrans (PL) : (rz.) minutes; (rz.) quarter
+[kwadrant]kwadrant (PL) : (rz.) quadrant; (rz.) quadrants
+[kwadrat]kwadrat (PL) : (rz.) canon; (rz.) quad; (rz.) square
+[kwadratowy]kwadratowy (PL) : (p.) quadratic; (p.) quadric; (p.) square
+[kwadrylion]kwadrylion (PL) : (rz.) quadrillion; (rz.) septillion
+[kwakanie]kwakanie (PL) : (rz.) quack; (rz.) squawk
+[kwakac]kwakać (PL) : (cz.) quack; (cz.) squawk
+[kwakier]kwakier (PL) : (rz.) Quaker
+[kwalifikacja]kwalifikacja (PL) : (rz.) eligibility; (rz.) qualification
+[kwalifikacje]kwalifikacje (PL) : (rz.) qualifications
+[kwalifikacyjny]kwalifikacyjny (PL) : (p.) qualifying
+[kwalifikator]kwalifikator (PL) : (rz.) label; (rz.) qualifier
+[kwalifikowany]kwalifikowany (PL) : (p.) qualified
+[kwalifikowac]kwalifikować (PL) : (cz.) classify; (cz.) qualify
+[kwant]kwant (PL) : (rz.) quantum
+[kwantowanie]kwantowanie (PL) : (rz.) quantization; (rz.) quantum
+[kwantum]kwantum (PL) : (rz.) quantum; (rz.) sum
+[kwantyfikacja]kwantyfikacja (PL) : (rz.) quantification
+[kwantyfikator]kwantyfikator (PL) : (rz.) qualifier; (rz.) quantifier
+[kwantyfikowac]kwantyfikować (PL) : (cz.) quantified
+[kwantytatywnie]kwantytatywnie (PL) : (p-sł.) quantitatively
+[kwantytatywny]kwantytatywny (PL) : (p.) quantitative
+[kwantyzacja]kwantyzacja (PL) : (rz.) quantization
+[kwarantanna]kwarantanna (PL) : (rz.) quarantine
+[kwarc]kwarc (PL) : (rz.) quartz
+[kwarcyt]kwarcyt (PL) : (rz.) quartzite
+[kwarcowka]kwarcówka (PL) : (rz.) sunlamp
+[kwark]kwark (PL) : (rz.) quark
+[kwarta]kwarta (PL) : (rz.) carte; (rz.) quart; (rz.) quarter
+[kwartalnie]kwartalnie (PL) : (p-sł.) quarterly
+[kwartalnik]kwartalnik (PL) : (rz.) quarterly
+[kwartalny]kwartalny (PL) : (p.) quarterly; (p.) terminable
+[kwartal]kwartał (PL) : (rz.) quarter; (rz.) term
+[kwartet]kwartet (PL) : (rz.) quartet
+[kwas]kwas (PL) : (rz.) acid; (rz.) barbital
+[kwasek]kwasek (PL) : (rz.) acid
+[kwasica]kwasica (PL) : (rz.) acidosis
+[kwasic]kwasić (PL) : (cz.) idle; (cz.) sour
+[kwaskowatosc]kwaskowatość (PL) : (rz.) acridity
+[kwaskowaty]kwaskowaty (PL) : (p.) acidic; (p.) acidulous; (p.) acrid; (p.) shrewd
+[kwaskowy]kwaskowy (PL) : (p.) acidulous
+[kwasoodporny]kwasoodporny (PL) : (p.) acid-proof; (p.) acid-resistant
+[kwasoryt]kwasoryt (PL) : (rz.) knit
+[kwasota]kwasota (PL) : (rz.) acidity
+[kwasotworczy]kwasotwórczy (PL) : (p.) acid-forming; (p.) acidic
+[kwasowosc]kwasowość (PL) : (rz.) acidity
+[kwasowy]kwasowy (PL) : (p.) acid; (p.) acidic
+[kwaszenie]kwaszenie (PL) : (rz.) acidifying
+[kwatera]kwatera (PL) : (rz.) accommodation; (rz.) billet; (rz.) headquarters; (rz.) lodging; (rz.) lodgings
+[kwaterka]kwaterka (PL) : (rz.) noggin; (rz.) pint
+[kwatermistrz]kwatermistrz (PL) : (rz.) quartermaster
+[kwatermistrzostwo]kwatermistrzostwo (PL) : (rz.) logistics
+[kwatermistrzowski]kwatermistrzowski (PL) : (p.) quartermaster's
+[kwaternion]kwaternion (PL) : (rz.) quaternion
+[kwaterowanie]kwaterowanie (PL) : (rz.) accommodation
+[kwaterowac]kwaterować (PL) : (cz.) billet; (cz.) lodge; (cz.) quarter
+[kwaterunek]kwaterunek (PL) : (rz.) billet; (rz.) cantonment; (rz.) lodging
+[kwazar]kwazar (PL) : (rz.) quasar
+[kwasnica]kwaśnica (PL) : (rz.) barberry
+[kwasnienie]kwaśnienie (PL) : (rz.) acidification
+[kwasniec]kwaśnieć (PL) : (cz.) acidify; (cz.) sour; (cz.) turn
+[kwasno]kwaśno (PL) : (p-sł.) acidly
+[kwasnosc]kwaśność (PL) : (rz.) acidity; (rz.) sourness; (rz.) tartness
+[kwasny]kwaśny (PL) : (p.) acid; (p.) acidic; (p.) sour
+[kwef]kwef (PL) : (rz.) yashmak
+[kwerenda]kwerenda (PL) : (rz.) enquiry; (rz.) query
+[kwesta]kwesta (PL) : (rz.) collection
+[kwestarz]kwestarz (PL) : (rz.) collector
+[kwestia]kwestia (PL) : (rz.) affair; (rz.) issue; (rz.) matter; (rz.) point; (rz.) purview; (rz.) question
+[kwestionariusz]kwestionariusz (PL) : (rz.) questionnaire
+[kwestionowanie]kwestionowanie (PL) : (rz.) challenge
+[kwestionowac]kwestionować (PL) : (cz.) contest; (cz.) controvert; (cz.) dispute; (cz.) impugn; (cz.) query; (cz.) question
+[kwestor]kwestor (PL) : (rz.) bursar
+[kwestowac]kwestować (PL) : (cz.) collect
+[kwestura]kwestura (PL) : (rz.) bursary
+[kwiaciarnia]kwiaciarnia (PL) : (rz.) florin; (rz.) florist; (rz.) florist's
+[kwiaciarski]kwiaciarski (PL) : (p.) floricultural
+[kwiaciarstwo]kwiaciarstwo (PL) : (rz.) floriculture
+[kwiaciarz]kwiaciarz (PL) : (rz.) florin; (rz.) florist
+[kwiat]kwiat (PL) : (rz.) bloom; (rz.) blossom; (rz.) cornflower; (rz.) corn-flower; (rz.) flower
+[kwiatek]kwiatek (PL) : (rz.) floret; (rz.) flower
+[kwiaton]kwiaton (PL) : (rz.) finial
+[kwiatostan]kwiatostan (PL) : (rz.) blossom; (rz.) inflorescence; (rz.) inflorescences
+[kwiatowy]kwiatowy (PL) : (p.) floral; (p.) flowered; (p.) flowery
+[kwiczec]kwiczeć (PL) : (cz.) grunt; (cz.) squeak; (cz.) squeal
+[kwiczol]kwiczoł (PL) : (rz.) fieldfare
+[kwiecie]kwiecie (PL) : (rz.) blossom; (rz.) flower
+[kwiecien]kwiecień (PL) : (rz.) April
+[kwiecistosc]kwiecistość (PL) : (rz.) flamboyance; (rz.) floridity
+[kwiecisty]kwiecisty (PL) : (p.) flamboyant; (p.) florid; (p.) flowered; (p.) flowery; (p.) ornate
+[kwieciscie]kwieciście (PL) : (p-sł.) floridly
+[kwietnik]kwietnik (PL) : (rz.) flowerbed; (rz.) flower-bed
+[kwik]kwik (PL) : (rz.) grunt; (rz.) squeak; (rz.) squeal
+[kwilic]kwilić (PL) : (cz.) mewl; (cz.) whimper; (cz.) whine
+[kwinkunks]kwinkunks (PL) : (rz.) quincunx
+[kwintal]kwintal (PL) : (rz.) quintal
+[kwintesencja]kwintesencja (PL) : (rz.) quintessence
+[kwintet]kwintet (PL) : (rz.) quintet
+[kwintylion]kwintylion (PL) : (rz.) nonillion; (rz.) quintillion; (rz.) trillion
+[kwit]kwit (PL) : (rz.) bill; (rz.) receipt; (rz.) slip; (rz.) voucher
+[kwita]kwita (PL) : (rz.) square
+[kwitariusz]kwitariusz (PL) : (rz.) receipt; (rz.) receipt-book
+[kwitek]kwitek (PL) : (rz.) receipt
+[kwitnienie]kwitnienie (PL) : (rz.) efflorescence; (rz.) flowering
+[kwitniecie]kwitnięcie (PL) : (rz.) florescence; (rz.) flowering
+[kwitnacy]kwitnący (PL) : (p.) rosy
+[kwitnac]kwitnąć (PL) : (cz.) bloom; (cz.) blossom; (cz.) blow; (cz.) flourish; (cz.) flower; (cz.) thrive
+[kwitowac]kwitować (PL) : (cz.) quit; (cz.) receipt
+[kwiz]kwiz (PL) : (rz.) quiz
+[kwoka]kwoka (PL) : (rz.) brooder; (rz.) sitter
+[kwokac]kwokać (PL) : (cz.) cluck
+[kworum]kworum (PL) : (rz.) quorum
+[kwota]kwota (PL) : (rz.) amount; (rz.) sum
+[kwekac]kwękać (PL) : (cz.) grouse
+[koleczko]kółeczko (PL) : (rz.) circlet; (rz.) ringlet
+[kolko]kółko (PL) : (rz.) castor; (rz.) circle; (rz.) pulley; (rz.) ring; (rz.) ringlet; (rz.) rowel
+[kolkowac]kółkować (PL) : (cz.) peg
+[kadziel]kądziel (PL) : (rz.) distaff
+[kakol]kąkol (PL) : (rz.) cockle; (rz.) corn-cockle
+[kapanie]kąpanie (PL) : (rz.) swimming
+[kapac]kąpać (PL) : (cz.) bath; (cz.) bathe; (cz.) swim
+[kapiel]kąpiel (PL) : (rz.) bath; (rz.) bathe; (rz.) bathing; (rz.) dip
+[kapielisko]kąpielisko (PL) : (rz.) baths; (rz.) lido; (rz.) watering-place
+[kasac]kąsać (PL) : (cz.) bite
+[kasek]kąsek (PL) : (rz.) bit; (rz.) bite; (rz.) morsel
+[kat]kąt (PL) : (rz.) angle; (rz.) chevron; (rz.) corner; (rz.) nook
+[katomierz]kątomierz (PL) : (rz.) protractor
+[katownica]kątownica (PL) : (rz.) square
+[katownik]kątownik (PL) : (rz.) angle
+[katowy]kątowy (PL) : (p.) angular
+[kasliwie]kąśliwie (PL) : (p-sł.) poignantly; (p-sł.) sharply
+[kasliwy]kąśliwy (PL) : (p.) bitchy; (p.) cutting; (p.) sharp
+[kedzierzawienie]kędzierzawienie (PL) : (rz.) curling; (rz.) friezing
+[kedzierzawic]kędzierzawić (PL) : (cz.) crimple; (cz.) curl
+[kedzierzawosc]kędzierzawość (PL) : (rz.) fuzziness
+[kedzierzawy]kędzierzawy (PL) : (p.) crimpy; (p.) crisp; (p.) crispy; (p.) curly; (p.) frizzy; (p.) fuzzy; (p.) woolly
+[kedzior]kędzior (PL) : (rz.) curl
+[kepa]kępa (PL) : (rz.) clump; (rz.) cluster
+[kepka]kępka (PL) : (rz.) cluster; (rz.) tuft
+[kes]kęs (PL) : (rz.) billet; (rz.) bit; (rz.) bite; (rz.) gobbet; (rz.) hunk; (rz.) morsel; (rz.) mouthful; (rz.) snatch
+[klaczasty]kłaczasty (PL) : (p.) barbate; (p.) flocky; (p.) fluffy
+[klaczkowaty]kłaczkowaty (PL) : (p.) flocculent; (p.) flocky
+[klad]kład (PL) : (rz.) example
+[kladka]kładka (PL) : (rz.) bridge; (rz.) catwalk; (rz.) footbridge; (rz.) gangway; (rz.) slat
+[klak]kłak (PL) : (rz.) floccus; (rz.) flock; (rz.) mop; (rz.) tuft
+[klam]kłam (PL) : (rz.) lie
+[klamac]kłamać (PL) : (cz.) lie
+[klamca]kłamca (PL) : (rz.) deceiver; (rz.) fibber; (rz.) liar; (rz.) lire; (rz.) twister
+[klamczuch]kłamczuch (PL) : (rz.) fibber; (rz.) fibster; (rz.) liar
+[klamiacy]kłamiący (PL) : (p.) mendacious
+[klamliwie]kłamliwie (PL) : (p-sł.) deceitfully
+[klamliwosc]kłamliwość (PL) : (rz.) deceitfulness; (rz.) mendacity
+[klamliwy]kłamliwy (PL) : (p.) deceitful; (p.) false; (p.) mendacious
+[klamstwo]kłamstwo (PL) : (rz.) falsehood; (rz.) fib; (rz.) lid; (rz.) lie
+[klaniac]kłaniać (PL) : (cz.) bow; (cz.) greet; (cz.) nod; (cz.) salute; (cz.) tend
+[klapac]kłapać (PL) : (cz.) snap
+[klapouch]kłapouch (PL) : (rz.) lop-ear
+[klasc]kłaść (PL) : (cz.) fall; (cz.) lay; (cz.) place; (cz.) put; (cz.) putt
+[kloda]kłoda (PL) : (rz.) clod; (rz.) clog; (rz.) log
+[klonica]kłonica (PL) : (rz.) stake; (rz.) stanchion
+[klonic]kłonić (PL) : (cz.) stake
+[klopot]kłopot (PL) : (rz.) annoyance; (rz.) bother; (rz.) cumbrance; (rz.) difficulty; (rz.) embarrassment; (rz.) fix; (rz.) hassle; (rz.) inconvenience; (rz.) matter; (rz.) mess; (rz.) object; (rz.) predicament; (rz.) problem; (rz.) quandary; (rz.) trouble
+[klopotac]kłopotać (PL) : (cz.) bother; (cz.) embarrass; (cz.) trouble; (cz.) worry
+[klopotliwie]kłopotliwie (PL) : (p-sł.) embarrassingly; (p-sł.) inconveniently
+[klopotliwy]kłopotliwy (PL) : (p.) awkward; (p.) baffling; (p.) bothersome; (p.) incommodious; (p.) inconvenient; (p.) knotty; (p.) messy; (p.) perplexing; (p.) troublesome; (p.) worrisome
+[klos]kłos (PL) : (rz.) ear; (rz.) spike
+[klosowanie]kłosowanie (PL) : (rz.) ears
+[klucie]kłucie (PL) : (rz.) 'sticker'; (rz.) sting; (rz.) stitch; (rz.) tingle
+[klujacy]kłujący (PL) : (p.) poignant; (p.) pungent
+[klus]kłus (PL) : (rz.) amble; (rz.) jog; (rz.) jogtrot; (rz.) trot
+[klusak]kłusak (PL) : (rz.) trotter
+[klusowac]kłusować (PL) : (cz.) amble; (cz.) poach; (cz.) trot
+[klusownik]kłusownik (PL) : (rz.) poach; (rz.) poacher; (rz.) trespasser
+[kluc]kłuć (PL) : (cz.) goad; (cz.) pierce; (cz.) prick; (cz.) prickle; (cz.) prod; (cz.) stab; (cz.) tingle
+[klykiec]kłykieć (PL) : (rz.) knuckle
+[klocenie]kłócenie (PL) : (rz.) blocks
+[klocic]kłócić (PL) : (cz.) argue; (cz.) bicker; (cz.) clashed; (cz.) fight; (cz.) quarrel; (cz.) spar
+[klodka]kłódka (PL) : (rz.) lock; (rz.) padlock
+[klotliwosc]kłótliwość (PL) : (rz.) pugnacity; (rz.) puissance; (rz.) quarrelsomeness
+[klotliwy]kłótliwy (PL) : (p.) aggressive; (p.) argumentative; (p.) cantankerous; (p.) contentious; (p.) factious; (p.) quarrelsome; (p.) querulous; (p.) randy
+[klotnia]kłótnia (PL) : (rz.) altercation; (rz.) argument; (rz.) bicker; (rz.) bickering; (rz.) brawl; (rz.) broil; (rz.) disagreement; (rz.) fight; (rz.) jar; (rz.) quarrel; (rz.) rift; (rz.) row; (rz.) squabble; (rz.) tiff
+[kloc]kłóć (PL) : (cz.) block
+[klab]kłąb (PL) : (rz.) puff; (rz.) skein; (rz.) swirl
+[klacze]kłącze (PL) : (rz.) rhizome; (rz.) rhizomes
+[klebek]kłębek (PL) : (rz.) ball; (rz.) clew; (rz.) clue; (rz.) hank
+[klebic]kłębić (PL) : (cz.) churn; (cz.) roll; (cz.) wreathe
+[klebowisko]kłębowisko (PL) : (rz.) cloud; (rz.) vortex

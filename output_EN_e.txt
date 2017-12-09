@@ -1,0 +1,1578 @@
+[easter]Easter (EN) : (rz.) Wielkanoc
+[eden]Eden (EN) : (rz.) raj
+[edith]Edith (EN) : (rz.) Edyta
+[edward]Edward (EN) : (rz.) Edward
+[eleanor]Eleanor (EN) : (rz.) Eleonora
+[elisabeth]Elisabeth (EN) : (rz.) Elżbieta
+[emily]Emily (EN) : (rz.) Emilia
+[eric]Eric (EN) : (rz.) Eryk
+[eucharist]Eucharist (EN) : (rz.) eucharystia
+[eurodollar]Eurodollar (EN) : (rz.) eurodolar
+[eva]Eva (EN) : (rz.) Ewa
+[each]each (EN) : (p.) każdorazowy; (p.) poszczególny
+[eager]eager (EN) : (p.) chętny; (p.) gorliwy; (p.) skwapliwy; (p.) żądny; (p.) zapalony
+[eagerly]eagerly (EN) : (p-sł.) chętnie; (p-sł.) gorliwie; (p-sł.) niecierpliwie; (p-sł.) ochoczo; (p-sł.) skwapliwie
+[eagerness]eagerness (EN) : (rz.) gorliwość; (rz.) gotowość; (rz.) pragnienie; (rz.) skwapliwość; (rz.) zapał
+[eagle]eagle (EN) : (rz.) orzeł
+[eagle-owl]eagle-owl (EN) : (rz.) puchacz
+[eaglet]eaglet (EN) : (rz.) orlątko
+[ear]ear (EN) : (rz.) kłos; (rz.) słuch; (rz.) ucha; (rz.) ucho
+[ear-drop]ear-drop (EN) : (rz.) kolczyk
+[ear-drum]ear-drum (EN) : (rz.) bębenek
+[ear-ring]ear-ring (EN) : (rz.) kolczyk
+[ear-wax]ear-wax (EN) : (rz.) woskowina; (rz.) woszczyna
+[earache]earache (EN) : (rz.) ból
+[eardrop]eardrop (EN) : (rz.) kolczyk
+[eardrum]eardrum (EN) : (rz.) bębenek
+[earl]earl (EN) : (rz.) hrabia
+[earlap]earlap (EN) : (rz.) klapa; (rz.) nausznik
+[earldom]earldom (EN) : (rz.) hrabiostwo
+[earlier]earlier (EN) : (p-sł.) wcześnie
+[early]early (EN) : (p.) dawny; (p.) przedterminowy; (p.) przedwczesny; (p.) rychły; (p.) wczesnochrześcijański; (p.) wczesny; (p-sł.) przedwcześnie; (p-sł.) wcześnie
+[early-spring]early-spring (EN) : (p.) wczesnowiosenny
+[earmark]earmark (EN) : (cz.) asygnować; (cz.) kolczykować; (cz.) znaczyć
+[earn]earn (EN) : (cz.) przynosić; (cz.) utrzymywać; (cz.) wypracować; (cz.) zarabiać; (cz.) zarobić; (cz.) zasługiwać; (cz.) zasłużyć; (cz.) zyskać; (cz.) zyskiwać
+[earner]earner (EN) : (rz.) zarabianie
+[earnest]earnest (EN) : (p.) gorliwy; (p.) poważny; (p.) zaliczkowy; (p.) zasadniczy; (rz.) powaga; (rz.) zadatek
+[earnestly]earnestly (EN) : (p-sł.) gorliwie; (p-sł.) poważnie; (p-sł.) żarliwie
+[earnestness]earnestness (EN) : (rz.) powaga; (rz.) uczciwość; (rz.) żarliwość
+[earnings]earnings (EN) : (rz.) płaca; (rz.) zarobek; (rz.) zarobki
+[earphone]earphone (EN) : (rz.) słuchawka
+[earpiece]earpiece (EN) : (rz.) nausznik
+[earplug]earplug (EN) : (rz.) stoper
+[earring]earring (EN) : (rz.) kolczyk
+[earrings]earrings (EN) : (rz.) kolczyki
+[ears]ears (EN) : (rz.) kłosowanie
+[earth]earth (EN) : (cz.) uziemiać; (rz.) świat; (rz.) uziemienie; (rz.) uziom; (rz.) ziemia
+[earth-worm]earth-worm (EN) : (rz.) glista
+[earthbound]earthbound (EN) : (p.) przyziemny
+[earthen]earthen (EN) : (p.) gliniany; (p.) ziemny
+[earthiness]earthiness (EN) : (rz.) ziemia; (rz.) ziemistość
+[earthly]earthly (EN) : (p.) doczesny; (p.) ziemski
+[earthly-minded]earthly-minded (EN) : (p.) przyziemny
+[earthquake]earthquake (EN) : (rz.) szarpnięcie; (rz.) trzęsienie; (rz.) wstrząs
+[earthwork]earthwork (EN) : (rz.) fortyfikacja; (rz.) nasyp; (rz.) szaniec
+[earthworm]earthworm (EN) : (rz.) dżdżownica; (rz.) glista
+[earthy]earthy (EN) : (p.) bezwstydny; (p.) prymitywny; (p.) rubaszny; (p.) ziemisty; (p.) ziemski
+[earwax]earwax (EN) : (rz.) woskowina; (rz.) woszczyna
+[earwig]earwig (EN) : (rz.) skorek; (rz.) szczypawka
+[ease]ease (EN) : (cz.) łagodzić; (cz.) popuścić; (cz.) ułatwiać; (cz.) uspokajać; (cz.) załagadzać; (cz.) zmniejszać; (rz.) beztroska; (rz.) dostatek; (rz.) łatwość; (rz.) lekkość; (rz.) spokój; (rz.) swoboda; (rz.) udogodnienie; (rz.) wygoda
+[easeful]easeful (EN) : (p.) bezczynny; (p.) łagodny; (p.) spokojny
+[easel]easel (EN) : (rz.) sztaluga
+[easement]easement (EN) : (rz.) serwitut; (rz.) udogodnienie
+[easily]easily (EN) : (p-sł.) bezproblemowo; (p-sł.) łatwo; (p-sł.) lekko; (p-sł.) śmiało
+[easiness]easiness (EN) : (rz.) łatwość; (rz.) swoboda; (rz.) wygoda
+[east]east (EN) : (rz.) wschód; (rz.) wschodni
+[easterly]easterly (EN) : (rz.) wschodni
+[easy]easy (EN) : (p.) beztroski; (p.) łatwy; (p.) prosty; (p.) spokojny; (p.) swobodny; (p.) wygodny; (p-sł.) łatwo
+[easy-going]easy-going (EN) : (p.) niefrasobliwy; (p.) spokojny; (p.) wyrozumiały
+[easygoing]easygoing (EN) : (p.) spokojny
+[eat]eat (EN) : (cz.) jadać; (cz.) jeść; (cz.) najeść; (cz.) pojeść; (cz.) posilić; (cz.) spożyć; (cz.) spożywać; (cz.) wyżerać; (cz.) zjadać; (cz.) zjeść; (cz.) żreć
+[eatable]eatable (EN) : (p.) jadalny; (p.) smaczny
+[eatables]eatables (EN) : (rz.) prowiant; (rz.) żywność
+[eater]eater (EN) : (rz.) ludojad; (rz.) ludożerca; (rz.) wyjadacz; (rz.) zjadacz
+[eatery]eatery (EN) : (rz.) jadłodajnia
+[eating]eating (EN) : (rz.) jedzenie; (rz.) spożywanie
+[eating-house]eating-house (EN) : (rz.) jadłodajnia
+[eave]eave (EN) : (rz.) okap
+[eaves]eaves (EN) : (rz.) okap; (rz.) podstrzesze
+[eavesdrop]eavesdrop (EN) : (cz.) podsłuchiwać
+[eavesdropper]eavesdropper (EN) : (rz.) szpicel
+[ebb]ebb (EN) : (cz.) niknąć; (cz.) odpływać; (cz.) opadać; (cz.) słabnąć; (rz.) odpływ; (rz.) opadanie; (rz.) rura; (rz.) ubytek; (rz.) upadek
+[ebb-tide]ebb-tide (EN) : (rz.) odpływ
+[ebonite]ebonite (EN) : (rz.) ebonit
+[ebony]ebony (EN) : (p.) ebonitowy; (p.) hebanowy; (rz.) heban
+[ebullience]ebullience (EN) : (rz.) wrzenie; (rz.) wybujałość; (rz.) wykipienie
+[ebullient]ebullient (EN) : (p.) entuzjastyczny
+[ebullition]ebullition (EN) : (rz.) wrzenie; (rz.) wybuch; (rz.) wzburzanie; (rz.) wzburzenie
+[eccentric]eccentric (EN) : (p.) dziwaczny; (p.) ekscentryczny; (p.) ekstrawagancki; (p.) mimośrodowy
+[eccentrically]eccentrically (EN) : (p-sł.) ekscentrycznie; (p-sł.) ekstrawagancko
+[eccentricity]eccentricity (EN) : (rz.) dziwactwo; (rz.) dziwaczność; (rz.) ekscentryczność; (rz.) ekstrawagancja; (rz.) mimośród; (rz.) mimośrodowość
+[ecclesiastic]ecclesiastic (EN) : (p.) duchowny; (p.) eklezjastyczny; (p.) kościelny
+[ecclesiastical]ecclesiastical (EN) : (p.) duchowny; (p.) eklezjastyczny; (p.) kościelny
+[ecclesiology]ecclesiology (EN) : (rz.) eklezjologia
+[echelon]echelon (EN) : (rz.) eszelon
+[echidna]echidna (EN) : (rz.) kolczatka
+[echinoderm]echinoderm (EN) : (rz.) szkarłupień
+[echo]echo (EN) : (cz.) odbijać; (cz.) powtarzać; (cz.) wracać; (rz.) echo; (rz.) oddźwięk; (rz.) odgłos; (rz.) odzew; (rz.) reakcja
+[echo-free]echo-free (EN) : (p.) bezechowy
+[echoic]echoic (EN) : (p.) dźwiękonaśladowczy
+[echolocation]echolocation (EN) : (rz.) echolokacja
+[eclectic]eclectic (EN) : (p.) eklektyczny; (rz.) eklektyk
+[eclectically]eclectically (EN) : (p-sł.) eklektycznie
+[eclecticism]eclecticism (EN) : (rz.) eklektyzm
+[eclipse]eclipse (EN) : (cz.) gasić; (cz.) zaciemniać; (rz.) zaciemnienie; (rz.) zaćmienie
+[ecliptic]ecliptic (EN) : (p.) ekliptyczny; (p.) zaćmieniowy; (rz.) ekliptyka
+[eclogue]eclogue (EN) : (rz.) sielanka
+[eco]eco (EN) : (p-sł.) ekologicznie
+[ecological]ecological (EN) : (p.) ekologiczny
+[ecologically]ecologically (EN) : (p-sł.) ekologicznie
+[ecologist]ecologist (EN) : (rz.) ekolog
+[ecology]ecology (EN) : (rz.) ekologia
+[econometric]econometric (EN) : (p.) ekonometryczny
+[econometrics]econometrics (EN) : (rz.) ekonometria
+[economic]economic (EN) : (p.) ekonomiczny; (p.) gospodarczy; (p.) gospodarny; (p.) koniunkturalny; (p.) oszczędny; (p.) zyskowny
+[economical]economical (EN) : (p.) ekonomiczny; (p.) gospodarczy; (p.) gospodarny; (p.) oszczędny; (p.) zyskowny
+[economically]economically (EN) : (p-sł.) ekonomicznie; (p-sł.) finansowo; (p-sł.) oszczędnie
+[economics]economics (EN) : (rz.) ekonomia; (rz.) ekonomika; (rz.) gospodarka
+[economist]economist (EN) : (rz.) ekonom; (rz.) ekonomista
+[economize]economize (EN) : (cz.) oszczędzać; (cz.) zaoszczędzać; (cz.) zaoszczędzić
+[economizer]economizer (EN) : (rz.) ekonomizer; (rz.) oszczędność
+[economy]economy (EN) : (rz.) ekonomia; (rz.) gospodarka; (rz.) gospodarność; (rz.) oszczędność
+[ecosphere]ecosphere (EN) : (rz.) ekosfera
+[ecosystem]ecosystem (EN) : (rz.) ekosystem
+[ecotype]ecotype (EN) : (rz.) ekotyp
+[ecstasy]ecstasy (EN) : (rz.) ekstaza; (rz.) upojenie; (rz.) zachwyt
+[ecstatic]ecstatic (EN) : (p.) ekstatyczny; (p.) rozentuzjazmowany
+[ectoderm]ectoderm (EN) : (rz.) ektoderma
+[ectoplasm]ectoplasm (EN) : (rz.) ektoplazma
+[ectype]ectype (EN) : (rz.) kopia; (rz.) odbitka; (rz.) reprodukcja
+[ecumenical]ecumenical (EN) : (p.) ekumeniczny
+[ecumenism]ecumenism (EN) : (rz.) ekumenizm
+[eczema]eczema (EN) : (rz.) egzema; (rz.) wyprysk
+[eddy]eddy (EN) : (cz.) wirować; (cz.) zakłębić; (rz.) wir
+[edelweiss]edelweiss (EN) : (rz.) szarotka
+[edentate]edentate (EN) : (p.) bezzębny
+[edge]edge (EN) : (cz.) obdziergać; (cz.) obramować; (cz.) obszyć; (cz.) odsuwać; (cz.) ostrzyć; (cz.) sunąć; (cz.) toczyć; (rz.) brzeg; (rz.) brzeżek; (rz.) kant; (rz.) krawędź; (rz.) obrzeże; (rz.) ostrze; (rz.) skraj
+[edgeways]edgeways (EN) : (p-sł.) sztorcem
+[edgewise]edgewise (EN) : (p-sł.) kantem
+[edging]edging (EN) : (rz.) brzeg; (rz.) krawędziowanie; (rz.) lamówka; (rz.) obramowanie; (rz.) obszycie; (rz.) przesuwanie; (rz.) rąbek; (rz.) wypustka
+[edgings]edgings (EN) : (rz.) wypustek
+[edgy]edgy (EN) : (p.) drażliwy
+[edibility]edibility (EN) : (rz.) jadalność
+[edible]edible (EN) : (p.) jadalny; (rz.) żywność
+[edict]edict (EN) : (rz.) dekowanie; (rz.) dekret; (rz.) edykt; (rz.) rozporządzenie
+[edification]edification (EN) : (rz.) nauka
+[edifice]edifice (EN) : (rz.) budowla; (rz.) budynek; (rz.) gmach; (rz.) struktura
+[edify]edify (EN) : (cz.) budować; (cz.) pouczać; (cz.) zbudować
+[edit]edit (EN) : (cz.) adiustować; (cz.) edytować; (cz.) modyfikować; (cz.) montować; (cz.) redagować; (cz.) wydawać; (cz.) zmieniać; (cz.) zmodyfikować; (cz.) zredagować
+[editable]editable (EN) : (p.) edytowalny; (p.) redagowalny
+[edition]edition (EN) : (rz.) edycja; (rz.) nakład; (rz.) wydanie; (rz.) zredagowanie
+[editor]editor (EN) : (rz.) adiustator; (rz.) edytor; (rz.) montażysta; (rz.) redaktor; (rz.) wydawca
+[editor's]editor's (EN) : (p.) edytorski; (p.) odredakcyjny
+[editorial]editorial (EN) : (p.) edytorski; (p.) odredakcyjny; (p.) redakcyjny; (p.) redaktorski; (p.) wydawniczy; (rz.) artykuł; (rz.) wstępniak
+[editorially]editorially (EN) : (p-sł.) redakcyjnie
+[editors]editors (EN) : (rz.) redakcja
+[editorship]editorship (EN) : (rz.) redagowanie; (rz.) redakcja; (rz.) wydawnictwo
+[educate]educate (EN) : (cz.) edukować; (cz.) informować; (cz.) kształcić; (cz.) pouczać; (cz.) szkolić; (cz.) uświadamiać; (cz.) wychowywać; (cz.) wykształcać
+[educated]educated (EN) : (p.) wykształcony
+[education]education (EN) : (rz.) edukacja; (rz.) nauka; (rz.) oświata; (rz.) szkolnictwo; (rz.) wychowanie; (rz.) wychowywanie; (rz.) wykształcenie
+[educational]educational (EN) : (p.) edukacyjny; (p.) oświatowy; (p.) wychowawczy
+[educationalist]educationalist (EN) : (rz.) metodyk
+[educationally]educationally (EN) : (p-sł.) naukowo; (p-sł.) pedagogicznie
+[educative]educative (EN) : (p.) wychowawczy
+[educator]educator (EN) : (rz.) nauczyciel; (rz.) pedagog; (rz.) wychowawca
+[educe]educe (EN) : (cz.) nauczyć; (cz.) uczyć; (cz.) wyciągać; (cz.) wydobyć; (cz.) wydobywać; (cz.) wydzielać; (cz.) wywiązywać
+[eel]eel (EN) : (rz.) węgorz
+[eerie]eerie (EN) : (p.) cerowy; (p.) dziwny; (p.) niesamowity
+[eerily]eerily (EN) : (p-sł.) strasznie
+[efface]efface (EN) : (cz.) ścierać; (cz.) tuszować; (cz.) wycierać; (cz.) wymazywać; (cz.) wytrzeć; (cz.) zacierać; (cz.) zmazywać
+[effaceable]effaceable (EN) : (p.) ścieralny
+[effacement]effacement (EN) : (rz.) starcie; (rz.) zmazanie
+[effect]effect (EN) : (cz.) powodować; (cz.) spełniać; (cz.) wpływać; (cz.) wykonywać; (rz.) dobytek; (rz.) działanie; (rz.) efekt; (rz.) rezultat; (rz.) skutek; (rz.) wpływ; (rz.) wrażenie; (rz.) wynik
+[effective]effective (EN) : (p.) aktualny; (p.) efektowny; (p.) efektywny; (p.) faktyczny; (p.) rzeczywisty; (p.) skuteczny; (p.) sprawny; (p.) ważny; (p.) wydajny
+[effectively]effectively (EN) : (p-sł.) efektywnie; (p-sł.) skutecznie
+[effectiveness]effectiveness (EN) : (rz.) efekciarstwo; (rz.) efektywność; (rz.) skuteczność
+[effectuate]effectuate (EN) : (cz.) dokonać
+[effeminacy]effeminacy (EN) : (rz.) zniewieściałość
+[effendi]effendi (EN) : (rz.) efendi
+[efferent]efferent (EN) : (p.) wyprowadzający
+[effervesce]effervesce (EN) : (cz.) musować
+[effervescence]effervescence (EN) : (rz.) musowanie; (rz.) ożywienie; (rz.) wrzenie
+[effete]effete (EN) : (p.) bezpłodny; (p.) słaby
+[efficacious]efficacious (EN) : (p.) skuteczny
+[efficacy]efficacy (EN) : (rz.) skuteczność
+[efficiency]efficiency (EN) : (rz.) dorzeczność; (rz.) efektywność; (rz.) operatywność; (rz.) skuteczność; (rz.) sprawność; (rz.) uzysk; (rz.) wydajność; (rz.) wydolność
+[efficient]efficient (EN) : (p.) efektywny; (p.) operatywny; (p.) skuteczny; (p.) sprawny; (p.) wydajny; (p.) wydolny; (p.) zdolny
+[efficiently]efficiently (EN) : (p-sł.) efektywnie; (p-sł.) skutecznie
+[effigy]effigy (EN) : (rz.) kukła; (rz.) podobizna; (rz.) statua; (rz.) wizerunek
+[efflorescence]efflorescence (EN) : (rz.) kwitnienie; (rz.) rozkwit; (rz.) wykwit
+[effluence]effluence (EN) : (rz.) wypływ
+[effluent]effluent (EN) : (rz.) odpływ; (rz.) ściek; (rz.) wyciek
+[effluvium]effluvium (EN) : (rz.) strumień; (rz.) wyziew
+[efflux]efflux (EN) : (rz.) odciek; (rz.) ścieki; (rz.) wyciek; (rz.) wypływ
+[effort]effort (EN) : (rz.) dokonanie; (rz.) próba; (rz.) wyczyn; (rz.) wysiłek
+[effortless]effortless (EN) : (p.) łatwy; (p.) lekki
+[effrontery]effrontery (EN) : (rz.) bezczelność; (rz.) czelność
+[effulgence]effulgence (EN) : (rz.) blask; (rz.) promieniowanie
+[effulgent]effulgent (EN) : (p.) promienisty; (p.) promienny
+[effusion]effusion (EN) : (rz.) rozlew; (rz.) wybroczyna; (rz.) wybuch; (rz.) wylew; (rz.) wynurzenie
+[effusive]effusive (EN) : (p.) wylewny
+[effusively]effusively (EN) : (p-sł.) wybuchowo; (p-sł.) wylewnie
+[effusiveness]effusiveness (EN) : (rz.) wybuchowość
+[egalitarian]egalitarian (EN) : (p.) egalitarny; (p.) egalitarystyczny
+[egalitarianism]egalitarianism (EN) : (rz.) egalitaryzm
+[egg]egg (EN) : (rz.) jajko; (rz.) jajo
+[egg-headed]egg-headed (EN) : (p.) jajogłowy
+[egg-plant]egg-plant (EN) : (rz.) oberżyna
+[egg-producing]egg-producing (EN) : (p.) jajczarski
+[egg-shaped]egg-shaped (EN) : (p.) jajowaty
+[eggbeater]eggbeater (EN) : (rz.) helikopter; (rz.) śmigłowiec
+[eggcup]eggcup (EN) : (rz.) kieliszek
+[egger]egger (EN) : (rz.) prządkówka
+[eggnog]eggnog (EN) : (rz.) napój
+[eggplant]eggplant (EN) : (rz.) bakłażan; (rz.) oberżyna
+[eggs]eggs (EN) : (rz.) ikra; (rz.) ikrzenie
+[eggshell]eggshell (EN) : (rz.) skorupa; (rz.) skorupka
+[ego]ego (EN) : (rz.) ego; (rz.) jaźń
+[egocentric]egocentric (EN) : (p.) egocentryczny
+[egocentrically]egocentrically (EN) : (p-sł.) egocentrycznie
+[egocentricity]egocentricity (EN) : (p.) egocentryczny
+[egoism]egoism (EN) : (rz.) egoizm; (rz.) samolubstwo
+[egoist]egoist (EN) : (rz.) egoista; (rz.) samolub; (rz.) sobek
+[egoistic]egoistic (EN) : (p.) egoistyczny; (p.) samolubny
+[egotism]egotism (EN) : (rz.) egotyzm
+[egotist]egotist (EN) : (rz.) egotysta
+[egregious]egregious (EN) : (p.) wierutny
+[egress]egress (EN) : (rz.) wyjście
+[egression]egression (EN) : (rz.) uchodzenie
+[egret]egret (EN) : (rz.) czapla; (rz.) egreta
+[eider]eider (EN) : (rz.) edredon
+[eiderdown]eiderdown (EN) : (rz.) kołdra; (rz.) pierzyna; (rz.) puch
+[eidolon]eidolon (EN) : (rz.) wizerunek; (rz.) zjawa
+[eighteenth]eighteenth (EN) : (p.) osiemnasty
+[eightfold]eightfold (EN) : (p.) ośmiokrotny; (p-sł.) ośmiokrotnie
+[eighth]eighth (EN) : (p.) ósmy
+[einsteinium]einsteinium (EN) : (rz.) ajnsztajn; (rz.) einstein
+[either]either (EN) : (p-sł.) jakikolwiek; (p-sł.) także; (p-sł.) też
+[ejaculate]ejaculate (EN) : (cz.) tryskać; (cz.) wykrzykiwać; (cz.) wypowiedzieć; (cz.) wyrzucać; (cz.) wyrzucić; (cz.) wytryskać; (cz.) wytryskiwać
+[ejaculation]ejaculation (EN) : (rz.) ejakulacja; (rz.) okrzyk; (rz.) wytrysk
+[eject]eject (EN) : (cz.) buchać; (cz.) katapultować; (cz.) usuwać; (cz.) wydalać; (cz.) wydalić; (cz.) wyjąć; (cz.) wyrzucać; (cz.) wyrzucić
+[ejected]ejected (EN) : (cz.) wyskoczyć
+[ejection]ejection (EN) : (rz.) eksmisja; (rz.) tryskanie; (rz.) wypychanie; (rz.) wyrzucanie; (rz.) wyrzucenie
+[ejector]ejector (EN) : (rz.) ejektor; (rz.) smoczek; (rz.) wypychacz; (rz.) wyrzutnik
+[eke]eke (EN) : (cz.) dodawać; (cz.) radzić; (cz.) sztukować; (cz.) uzupełniać
+[elaborate]elaborate (EN) : (cz.) dopracowywać; (cz.) opracować; (cz.) opracowywać; (cz.) rozszerzać; (cz.) rozwijać; (cz.) uzupełniać; (cz.) wypracować; (p.) kunsztowny; (p.) misterny; (p.) wymyślny; (p.) wypracowany; (p.) zawiły
+[elaborately]elaborately (EN) : (p-sł.) pracowicie; (p-sł.) zawile
+[elaborateness]elaborateness (EN) : (rz.) kunsztowność; (rz.) staranność
+[elaboration]elaboration (EN) : (rz.) opracowanie; (rz.) przetworzenie; (rz.) wypracowanie
+[elaborations]elaborations (EN) : (rz.) przetworzenie
+[elapse]elapse (EN) : (cz.) mijać; (cz.) przemijać; (cz.) uciekać; (cz.) upływać
+[elastic]elastic (EN) : (p.) elastyczny; (p.) giętki; (p.) prężny; (p.) rozciągliwy; (p.) sprężysty; (rz.) elastomer; (rz.) guma; (rz.) gumka
+[elastically]elastically (EN) : (p-sł.) elastycznie
+[elasticity]elasticity (EN) : (rz.) elastyczność; (rz.) sprężystość
+[elation]elation (EN) : (rz.) podniecenie; (rz.) uniesienie
+[elbow]elbow (EN) : (rz.) kolanko; (rz.) kolano; (rz.) łokieć
+[elbow-grease]elbow-grease (EN) : (rz.) harówka
+[elder]elder (EN) : (p.) bzowy; (p.) starszy; (rz.) bzowina; (rz.) dotychczasowość; (rz.) starość; (rz.) starszyzna; (rz.) tradycyjność
+[elderly]elderly (EN) : (p.) leciwy; (p.) starodawny; (p.) starszy; (p.) stary
+[elders]elders (EN) : (rz.) starszyzna
+[eldest]eldest (EN) : (p.) najstarszy
+[eldritch]eldritch (EN) : (p.) niesamowity; (p.) ohydny
+[elecampane]elecampane (EN) : (rz.) cukierek; (rz.) oman
+[elect]elect (EN) : (cz.) chcieć; (cz.) wybierać; (rz.) elekt
+[election]election (EN) : (rz.) elekcja; (rz.) wybór; (rz.) wybory
+[electioneer]electioneer (EN) : (cz.) agitować
+[elections]elections (EN) : (rz.) wybór; (rz.) wybory
+[elective]elective (EN) : (p.) elekcyjny; (p.) obieralny; (p.) wybieralny; (p.) wyborczy
+[elector]elector (EN) : (rz.) elektor; (rz.) wyborca
+[electoral]electoral (EN) : (p.) elektorski; (p.) wyborczy
+[electorate]electorate (EN) : (rz.) elektorat
+[electric]electric (EN) : (p.) elektryczny
+[electrical]electrical (EN) : (p.) elektrotechniczny; (p.) elektryczny; (p.) energetyczny
+[electrically]electrically (EN) : (p-sł.) elektrycznie
+[electrician]electrician (EN) : (rz.) elektromonter; (rz.) elektrotechnik; (rz.) elektryk
+[electricity]electricity (EN) : (rz.) elektrotechnika; (rz.) elektryczność; (rz.) elektryka; (rz.) prąd
+[electrification]electrification (EN) : (rz.) elektryfikacja; (rz.) elektryzowanie
+[electrify]electrify (EN) : (cz.) elektryfikować; (cz.) elektryzować; (cz.) naelektryzować; (cz.) zelektryfikować; (cz.) zelektryzować
+[electro]electro (EN) : (p.) elektronowy; (rz.) galwanotyp
+[electro-acoustics]electro-acoustics (EN) : (rz.) elektroakustyka
+[electro-dynamics]electro-dynamics (EN) : (rz.) elektrodynamika
+[electro-magnet]electro-magnet (EN) : (rz.) elektromagnes
+[electro-magnetic]electro-magnetic (EN) : (p.) elektromagnetyczny
+[electro-mechanical]electro-mechanical (EN) : (p.) elektromechaniczny
+[electrocardiogram]electrocardiogram (EN) : (rz.) elektrokardiogram
+[electrocardiograph]electrocardiograph (EN) : (rz.) elektrokardiograf
+[electrocardiography]electrocardiography (EN) : (rz.) elektrokardiografia
+[electrochemical]electrochemical (EN) : (p.) elektrochemiczny
+[electrochemistry]electrochemistry (EN) : (rz.) elektrochemia
+[electrocution]electrocution (EN) : (rz.) porażenie
+[electrode]electrode (EN) : (rz.) elektroda
+[electrodynamics]electrodynamics (EN) : (rz.) elektrodynamika
+[electroencephalogram]electroencephalogram (EN) : (rz.) elektroencefalogram
+[electroencephalograph]electroencephalograph (EN) : (rz.) elektroencefalograf
+[electroencephalographic]electroencephalographic (EN) : (p.) elektroencefalograficzny
+[electroencephalography]electroencephalography (EN) : (rz.) elektroencefalografia
+[electroforming]electroforming (EN) : (rz.) galwanoplastyka
+[electroluminescence]electroluminescence (EN) : (rz.) elektroluminescencja
+[electrolyser]electrolyser (EN) : (rz.) elektrolizer
+[electrolysis]electrolysis (EN) : (rz.) elektroliza
+[electrolyte]electrolyte (EN) : (rz.) elektrolit
+[electrolytic]electrolytic (EN) : (p.) elektrolitowy; (p.) elektrolityczny
+[electrolyze]electrolyze (EN) : (cz.) elektrolizować
+[electromagnet]electromagnet (EN) : (rz.) elektromagnes
+[electromagnetic]electromagnetic (EN) : (p.) elektromagnetyczny
+[electromagnetically]electromagnetically (EN) : (p-sł.) elektromagnetycznie
+[electromagnetism]electromagnetism (EN) : (rz.) elektromagnetyzm
+[electromechanical]electromechanical (EN) : (p.) elektromechaniczny
+[electrometallurgy]electrometallurgy (EN) : (rz.) elektrometalurgia
+[electrometer]electrometer (EN) : (rz.) elektrometr
+[electromotive]electromotive (EN) : (p.) elektromotoryczny
+[electromotor]electromotor (EN) : (rz.) elektromotor
+[electron]electron (EN) : (rz.) elektron
+[electron-volt]electron-volt (EN) : (rz.) elektronowolt
+[electronegative]electronegative (EN) : (p.) elektroujemny
+[electronic]electronic (EN) : (p.) elektroniczny; (p.) elektronowy; (p.) internetowy
+[electronically]electronically (EN) : (p-sł.) elektronicznie
+[electronics]electronics (EN) : (rz.) elektronika
+[electrophoresis]electrophoresis (EN) : (rz.) elektroforeza; (rz.) kataforeza
+[electrophorus]electrophorus (EN) : (rz.) elektrofor
+[electrophysiological]electrophysiological (EN) : (rz.) elektrofizjologia
+[electroplater]electroplater (EN) : (rz.) galwanotechnik
+[electroplating]electroplating (EN) : (rz.) galwanizacja; (rz.) galwanizowanie; (rz.) galwanotechnika
+[electroscope]electroscope (EN) : (rz.) elektroskop
+[electroshock]electroshock (EN) : (rz.) elektrowstrząs
+[electrostatic]electrostatic (EN) : (p.) elektrostatyczny
+[electrostatics]electrostatics (EN) : (rz.) elektrostatyka
+[electrostriction]electrostriction (EN) : (rz.) elektrostrykcja
+[electrotherapy]electrotherapy (EN) : (rz.) elektroterapia
+[electrotype]electrotype (EN) : (rz.) galwanotyp
+[electrotyping]electrotyping (EN) : (rz.) galwanotypia
+[electrum]electrum (EN) : (rz.) elektron
+[electuary]electuary (EN) : (rz.) powidełko
+[elegance]elegance (EN) : (rz.) elegancja; (rz.) gustowność; (rz.) szyk; (rz.) wykwint; (rz.) wytworność
+[elegant]elegant (EN) : (p.) elegancki; (p.) reprezentacyjny; (p.) szykowny; (p.) wytworny
+[elegantly]elegantly (EN) : (p-sł.) elegancko; (p-sł.) wykwintnie
+[elegiac]elegiac (EN) : (p.) elegijny
+[elegy]elegy (EN) : (rz.) elegia
+[element]element (EN) : (rz.) cień; (rz.) część; (rz.) człon; (rz.) doza; (rz.) element; (rz.) grzałka; (rz.) pierwiastek; (rz.) składnik; (rz.) żywioł
+[elemental]elemental (EN) : (p.) elementarny; (p.) pierwiastkowy; (p.) podstawowy; (p.) żywiołowy
+[elementarily]elementarily (EN) : (p-sł.) elementarnie
+[elementary]elementary (EN) : (p.) elementarny; (p.) niepodzielny; (p.) podstawowy
+[elephant]elephant (EN) : (rz.) słoń
+[elephantiasis]elephantiasis (EN) : (rz.) słoniowatość
+[elephantine]elephantine (EN) : (p.) słoniowaty
+[elevate]elevate (EN) : (cz.) podnieść; (cz.) podnosić; (cz.) podwyższać; (cz.) podwyższyć; (cz.) umoralniać; (cz.) wynosić; (cz.) wywiesić; (cz.) wywyższać; (cz.) wznosić
+[elevation]elevation (EN) : (rz.) dźwiganie; (rz.) elewacja; (rz.) podniesienie; (rz.) podnoszenie; (rz.) umoralnianie; (rz.) wyniesienie; (rz.) wyniosłość; (rz.) wysokość; (rz.) wzniesienie
+[elevator]elevator (EN) : (rz.) dźwig; (rz.) dźwigacz; (rz.) elewator; (rz.) winda
+[eleven]eleven (EN) : (rz.) jedenasta
+[elevenses]elevenses (EN) : (rz.) przegryzka
+[eleventh]eleventh (EN) : (p.) jedenasty; (rz.) jedenasta
+[elf]elf (EN) : (rz.) krasnoludek
+[elfish]elfish (EN) : (p.) psotny
+[elicit]elicit (EN) : (cz.) spowodować; (cz.) ujawniać; (cz.) wyciągać; (cz.) wydobywać; (cz.) wywołać; (cz.) wywoływać
+[elide]elide (EN) : (cz.) opuścić; (cz.) opuszczać
+[eligibility]eligibility (EN) : (rz.) kwalifikacja; (rz.) obieralność; (rz.) wybieralność
+[eligible]eligible (EN) : (p.) obieralny; (p.) odpowiedni; (p.) wybieralny
+[eliminate]eliminate (EN) : (cz.) eliminować; (cz.) likwidować; (cz.) rugować; (cz.) spłacać; (cz.) usuwać; (cz.) wyabstrahować; (cz.) wyeliminować; (cz.) wykluczać
+[eliminated]eliminated (EN) : (cz.) eliminować; (cz.) wyeliminować
+[elimination]elimination (EN) : (rz.) eliminacja; (rz.) eliminowanie; (rz.) likwidacja; (rz.) wyeliminowanie
+[eliminator]eliminator (EN) : (rz.) eliminator
+[eliminators]eliminators (EN) : (rz.) eliminator
+[elision]elision (EN) : (rz.) elizja
+[elite]elite (EN) : (rz.) elita
+[elitism]elitism (EN) : (rz.) elitarność
+[elixir]elixir (EN) : (rz.) eliksir
+[elk]elk (EN) : (rz.) łoś; (rz.) wapiti
+[ell]ell (EN) : (rz.) łokieć
+[ellipse]ellipse (EN) : (rz.) elipsa
+[ellipsis]ellipsis (EN) : (rz.) elipsa; (rz.) wielokropek
+[ellipsoid]ellipsoid (EN) : (rz.) elipsoida
+[ellipsoidal]ellipsoidal (EN) : (p.) elipsoidalny
+[ellipsoids]ellipsoids (EN) : (rz.) elipsoida
+[elliptic]elliptic (EN) : (p.) eliptyczny
+[elliptical]elliptical (EN) : (p.) eliptyczny
+[elliptically]elliptically (EN) : (p-sł.) eliptycznie
+[elm]elm (EN) : (rz.) wiąz
+[elocution]elocution (EN) : (rz.) dykcja; (rz.) krasomówstwo; (rz.) wymowa; (rz.) wysławianie
+[elongate]elongate (EN) : (cz.) wydłużać; (cz.) wydłużyć
+[elongation]elongation (EN) : (rz.) elongacja; (rz.) rozciągliwość; (rz.) wydłużenie
+[elope]elope (EN) : (cz.) uciekać
+[elopement]elopement (EN) : (rz.) ucieczka
+[eloquence]eloquence (EN) : (rz.) elokwencja; (rz.) krasomówstwo; (rz.) oratorstwo; (rz.) swada; (rz.) wymowa; (rz.) wymowność
+[eloquent]eloquent (EN) : (p.) elokwentny; (p.) wymowny
+[eloquently]eloquently (EN) : (p-sł.) elokwentnie; (p-sł.) wymownie
+[else]else (EN) : (p-sł.) przeciwnie
+[elsewhere]elsewhere (EN) : (p-sł.) gdzie; (p-sł.) gdziekolwiek
+[elucidate]elucidate (EN) : (cz.) klarować; (cz.) naświetlać; (cz.) wyjaśniać; (cz.) wyświetlać; (cz.) wyświetlić
+[elucidation]elucidation (EN) : (rz.) wyjaśnienie
+[elude]elude (EN) : (cz.) uciekać; (cz.) umykać; (cz.) unikać; (cz.) wymijać; (cz.) zwodzić
+[elusion]elusion (EN) : (rz.) unikanie; (rz.) wymijanie; (rz.) wymknięcie
+[elusive]elusive (EN) : (p.) nieuchwytny; (p.) ulotny; (p.) wykrętny; (p.) zawodny
+[elusiveness]elusiveness (EN) : (rz.) nieuchwytność; (rz.) ulotność
+[elusory]elusory (EN) : (p.) złudny; (p.) zwodniczy
+[elution]elution (EN) : (rz.) wymywanie
+[elutriate]elutriate (EN) : (cz.) filtrować; (cz.) odmulać; (cz.) szlamować; (cz.) wyklarować
+[emaciate]emaciate (EN) : (cz.) wycieńczać; (cz.) wycieńczyć; (cz.) wyjaławiać; (cz.) wyniszczać; (cz.) zamorzyć
+[emaciated]emaciated (EN) : (cz.) wycieńczać; (cz.) wycieńczyć; (cz.) wyjaławiać
+[emaciation]emaciation (EN) : (rz.) wychudnięcie; (rz.) wychudzenie; (rz.) wycieńczenie; (rz.) wyniszczenie
+[emanate]emanate (EN) : (cz.) emanować; (cz.) pochodzić; (cz.) promieniować; (cz.) wypływać
+[emanation]emanation (EN) : (rz.) emanacja
+[emancipate]emancipate (EN) : (cz.) emancypować; (cz.) usamowolniać; (cz.) wyemancypować; (cz.) wyswobodzić; (cz.) wyzwalać
+[emancipation]emancipation (EN) : (rz.) emancypacja; (rz.) wyzwolenie
+[emancipist]emancipist (EN) : (rz.) skazaniec
+[emasculate]emasculate (EN) : (cz.) kastrować; (cz.) osłabiać; (cz.) wykastrować; (cz.) zniewieścieć
+[emasculation]emasculation (EN) : (rz.) kastracja; (rz.) niemota; (rz.) wykastrowanie
+[embalm]embalm (EN) : (cz.) balsamować; (cz.) perfumować; (cz.) zabalsamować
+[embalmer]embalmer (EN) : (rz.) balsamista
+[embalmment]embalmment (EN) : (rz.) balsamowanie; (rz.) zabalsamowanie
+[embank]embank (EN) : (cz.) obwałować
+[embankment]embankment (EN) : (rz.) bulwar; (rz.) grobla; (rz.) nabrzeże; (rz.) nasyp; (rz.) obmurowanie; (rz.) wał
+[embargo]embargo (EN) : (rz.) embargo
+[embark]embark (EN) : (cz.) ładować; (cz.) puszczać; (cz.) wchodzić; (cz.) wsiadać; (cz.) zaczynać; (cz.) załadowywać; (cz.) zaokrętować
+[embarkation]embarkation (EN) : (rz.) desant; (rz.) ładowanie; (rz.) wejście; (rz.) wlot; (rz.) wsiadanie
+[embarrass]embarrass (EN) : (cz.) kłopotać; (cz.) przeszkadzać; (cz.) zakłopotać; (cz.) zawstydzać; (cz.) zażenować; (cz.) żenować
+[embarrassingly]embarrassingly (EN) : (p-sł.) kłopotliwie
+[embarrassment]embarrassment (EN) : (rz.) ambaras; (rz.) kłopot; (rz.) kompromitacja; (rz.) onieśmielenie; (rz.) skrępowanie; (rz.) zaaferowanie; (rz.) zakłopotanie; (rz.) zażenowanie; (rz.) zgrzyt
+[embassy]embassy (EN) : (rz.) ambasada
+[embattle]embattle (EN) : (rz.) rozstaw
+[embay]embay (EN) : (cz.) zamykać
+[embed]embed (EN) : (cz.) osadzać; (cz.) osadzić; (cz.) wbić; (cz.) wbijać; (cz.) wkopać; (cz.) wmurować
+[embellish]embellish (EN) : (cz.) koloryzować; (cz.) ozdabiać; (cz.) przystrajać; (cz.) upiększać
+[embellishment]embellishment (EN) : (rz.) ozdobnik; (rz.) przystrojenie; (rz.) upiększenie; (rz.) zdobienie
+[ember]ember (EN) : (rz.) niedopałek; (rz.) żar
+[embers]embers (EN) : (rz.) zarzewie
+[embezzle]embezzle (EN) : (cz.) defraudować; (cz.) przywłaszczać; (cz.) sprzeniewierzać; (cz.) sprzeniewierzyć; (cz.) zdefraudować
+[embezzlement]embezzlement (EN) : (rz.) defraudacja; (rz.) malwersacja; (rz.) sprzeniewierzenie
+[embezzler]embezzler (EN) : (rz.) defraudant; (rz.) malwersant; (rz.) przeniewierca
+[embitter]embitter (EN) : (cz.) rozgoryczać; (cz.) rozjątrzać; (cz.) rozżalać; (cz.) szczuć
+[embitterment]embitterment (EN) : (rz.) rozgoryczenie
+[emblem]emblem (EN) : (rz.) emblemat; (rz.) godło; (rz.) oznaka; (rz.) symbol
+[emblematic]emblematic (EN) : (p.) emblematyczny; (p.) symboliczny
+[emblematical]emblematical (EN) : (p.) emblematyczny; (p.) symboliczny
+[embodiment]embodiment (EN) : (rz.) ucieleśnienie; (rz.) uosobienie; (rz.) wcielenie
+[embody]embody (EN) : (cz.) łączyć; (cz.) obejmować; (cz.) ucieleśniać; (cz.) uosabiać; (cz.) uwzględniać; (cz.) wbudować; (cz.) wcielać; (cz.) włączać; (cz.) wyrażać; (cz.) zawierać
+[embolden]embolden (EN) : (cz.) ośmielać; (cz.) rozzuchwalać
+[embolic]embolic (EN) : (p.) zatorowy
+[embolism]embolism (EN) : (rz.) embolia; (rz.) zator
+[emboss]emboss (EN) : (cz.) gofrować; (cz.) ryć; (cz.) tłoczyć; (cz.) uwypuklać; (cz.) uwypuklić; (cz.) wytłaczać; (cz.) wytłoczyć
+[embossment]embossment (EN) : (rz.) nierówność; (rz.) wypukłość; (rz.) wyrycie; (rz.) wytłoczenie
+[embouchure]embouchure (EN) : (rz.) ustnik
+[embowel]embowel (EN) : (cz.) patroszyć
+[embower]embower (EN) : (cz.) zacieniać
+[embrace]embrace (EN) : (cz.) obejmować; (cz.) objąć; (cz.) ogarniać; (cz.) przyjmować; (cz.) przystawać; (cz.) ściskać; (cz.) uściskać; (cz.) zawierać; (rz.) objęcie; (rz.) ucisk; (rz.) uścisk
+[embranchment]embranchment (EN) : (rz.) rozwidlanie; (rz.) rozwidlenie
+[embrasure]embrasure (EN) : (rz.) glif; (rz.) rozglifienie; (rz.) strzelnica
+[embroider]embroider (EN) : (cz.) haftować; (cz.) koloryzować; (cz.) wyhaftować; (cz.) wyszywać
+[embroiderer]embroiderer (EN) : (rz.) hafciarz
+[embroidery]embroidery (EN) : (rz.) hafciarstwo; (rz.) haft; (rz.) haftowanie; (rz.) wyszywanie; (rz.) wyszywanka
+[embroil]embroil (EN) : (cz.) powikłać; (cz.) uwikłać; (cz.) wdawać; (cz.) wplątać; (cz.) zagmatwać
+[embroilment]embroilment (EN) : (rz.) gmatwanina; (rz.) poplątanie; (rz.) zagmatwanie
+[embryo]embryo (EN) : (rz.) embrion; (rz.) zalążek; (rz.) zarodek
+[embryological]embryological (EN) : (p.) embriologiczny
+[embryologist]embryologist (EN) : (rz.) embriolog
+[embryology]embryology (EN) : (rz.) embriologia
+[embryonic]embryonic (EN) : (p.) embrionalny; (p.) zarodkowy
+[emcee]emcee (EN) : (rz.) mistrz
+[emend]emend (EN) : (cz.) poprawiać
+[emendation]emendation (EN) : (rz.) poprawka
+[emerald]emerald (EN) : (rz.) szmaragd
+[emerge]emerge (EN) : (cz.) pojawiać; (cz.) pokazywać; (cz.) ujawniać; (cz.) wychodzić; (cz.) wyłaniać; (cz.) wyłonić; (cz.) wynurzać
+[emergence]emergence (EN) : (rz.) pojawienie; (rz.) wynurzanie; (rz.) wynurzenie
+[emergency]emergency (EN) : (rz.) katastrofa; (rz.) pogotowie; (rz.) ratownictwo
+[emeritus]emeritus (EN) : (p.) honorowy
+[emery]emery (EN) : (rz.) szmergiel
+[emetic]emetic (EN) : (p.) wymiotny; (rz.) emetyk
+[emetine]emetine (EN) : (rz.) emetyna
+[emigrant]emigrant (EN) : (rz.) emigrant
+[emigrate]emigrate (EN) : (cz.) emigrować; (cz.) wyemigrować
+[emigration]emigration (EN) : (rz.) emigracja; (rz.) emigrowanie; (rz.) odpływ; (rz.) wychodźstwo
+[emigre]emigre (EN) : (rz.) uchodźca
+[eminence]eminence (EN) : (rz.) eminencja; (rz.) wzniesienie; (rz.) znakomitość
+[eminency]eminency (EN) : (rz.) eminencja
+[eminent]eminent (EN) : (p.) wybitny; (p.) znakomity; (p.) znamienity
+[eminently]eminently (EN) : (p-sł.) przeważnie; (p-sł.) wybitnie; (p-sł.) znakomicie
+[emir]emir (EN) : (rz.) emir
+[emirate]emirate (EN) : (rz.) emirat
+[emissary]emissary (EN) : (rz.) emisariusz
+[emission]emission (EN) : (rz.) emisja; (rz.) wydalanie; (rz.) wydzielanie
+[emissions]emissions (EN) : (rz.) emisja
+[emit]emit (EN) : (cz.) emitować; (cz.) imitować; (cz.) wydawać; (cz.) wydzielać; (cz.) wyemitować
+[emitter]emitter (EN) : (rz.) emiter; (rz.) nadajnik
+[emitter-base]emitter-base (EN) : (rz.) emiter-baza
+[emolument]emolument (EN) : (rz.) uposażenie; (rz.) wynagrodzenie
+[emoticon]emoticon (EN) : (rz.) minka
+[emotion]emotion (EN) : (rz.) afekt; (rz.) ekscytacja; (rz.) emocja; (rz.) rozczulenie; (rz.) uczucie; (rz.) wzruszenie
+[emotional]emotional (EN) : (p.) emocjonalny; (p.) uczuciowy; (p.) wzruszający
+[emotionalism]emotionalism (EN) : (rz.) emocjonalizm
+[emotionality]emotionality (EN) : (rz.) emocjonalność; (rz.) uczuciowość
+[emotionally]emotionally (EN) : (p-sł.) emocjonalnie; (p-sł.) uczuciowo
+[emotive]emotive (EN) : (p.) emocjonalny; (p.) uczuciowy
+[empathic]empathic (EN) : (p.) empatyczny
+[empathy]empathy (EN) : (rz.) empatia; (rz.) kondolencja
+[emperor]emperor (EN) : (rz.) cesarz; (rz.) imperator
+[empery]empery (EN) : (rz.) cesarstwo
+[emphasis]emphasis (EN) : (rz.) akcent; (rz.) akcentowanie; (rz.) dobitność; (rz.) emfaza; (rz.) nacisk; (rz.) podkreślenie; (rz.) uwydatnianie; (rz.) uwypuklenie; (rz.) wyróżnienie; (rz.) znaczenie
+[emphasise]emphasise (EN) : (cz.) uwydatniać; (cz.) uwypuklać
+[emphasising]emphasising (EN) : (rz.) uwydatnianie; (rz.) uwypuklenie
+[emphasize]emphasize (EN) : (cz.) akcentować; (cz.) podkreślać; (cz.) uwypuklać
+[emphatic]emphatic (EN) : (p.) dobitny; (p.) emfatyczny; (p.) kategoryczny; (p.) stanowczy; (p.) wyrazisty
+[emphatically]emphatically (EN) : (p-sł.) emfatycznie
+[emphysema]emphysema (EN) : (rz.) rozedma
+[empire]empire (EN) : (rz.) cesarstwo; (rz.) imperium; (rz.) panowanie
+[empiric]empiric (EN) : (p.) empiryczny; (rz.) empiryk
+[empirical]empirical (EN) : (p.) empiryczny
+[empirically]empirically (EN) : (p-sł.) doświadczalnie; (p-sł.) empirycznie
+[empiricism]empiricism (EN) : (rz.) empiria; (rz.) empiryzm
+[empiricist]empiricist (EN) : (rz.) empiryk
+[emplacement]emplacement (EN) : (rz.) stanowisko
+[emplane]emplane (EN) : (cz.) ładować
+[employ]employ (EN) : (cz.) posługiwać; (cz.) spożytkowywać; (cz.) stosować; (cz.) używać; (cz.) zastosować; (cz.) zatrudniać; (cz.) zatrudnić; (rz.) korzyść; (rz.) użytek
+[employable]employable (EN) : (p.) użyteczny
+[employee]employee (EN) : (rz.) pracobiorca; (rz.) pracownik
+[employees]employees (EN) : (rz.) kadra
+[employer]employer (EN) : (rz.) chlebodawca; (rz.) chlebodawczyni; (rz.) pracodawca; (rz.) zleceniodawca
+[employment]employment (EN) : (rz.) posada; (rz.) praca; (rz.) użycie; (rz.) zajęcie; (rz.) zastosowanie; (rz.) zatrudnienie
+[empoison]empoison (EN) : (cz.) zatruwać
+[empower]empower (EN) : (cz.) upełnomocnić; (cz.) upoważniać
+[empowerment]empowerment (EN) : (rz.) umocowanie; (rz.) upełnomocnienie; (rz.) upoważnienie
+[emprise]emprise (EN) : (rz.) sprawa
+[emptiest]emptiest (EN) : (p.) gołosłowny; (p.) pusty
+[emptily]emptily (EN) : (p-sł.) próżno; (p-sł.) pusto
+[emptiness]emptiness (EN) : (rz.) próżnia; (rz.) pustka; (rz.) pustość
+[emption]emption (EN) : (rz.) zakup
+[empty]empty (EN) : (cz.) opróżniać; (cz.) opróżnić; (cz.) opustoszeć; (cz.) usuwać; (cz.) wyczyścić; (cz.) wylewać; (cz.) wypróżniać; (p.) beztreściowy; (p.) czczy; (p.) gołosłowny; (p.) próżny; (p.) pusty
+[emulate]emulate (EN) : (cz.) emulować; (cz.) naśladować; (cz.) rywalizować
+[emulation]emulation (EN) : (rz.) emulacja; (rz.) imitowanie; (rz.) rywalizacja; (rz.) symulacja; (rz.) współzawodnictwo
+[emulator]emulator (EN) : (rz.) emulator
+[emulsification]emulsification (EN) : (rz.) emulgowanie
+[emulsifier]emulsifier (EN) : (rz.) emulgator
+[emulsify]emulsify (EN) : (cz.) emulgować; (cz.) zemulgować
+[emulsion]emulsion (EN) : (rz.) emulsja; (rz.) zawiesina
+[en]en (EN) : (rz.) półfiret; (rz.) punkt
+[enable]enable (EN) : (cz.) pozwalać; (cz.) umożliwiać; (cz.) umożliwić; (cz.) upoważniać; (cz.) uzdalniać; (cz.) uzdolnić; (cz.) włączać; (cz.) włączyć
+[enact]enact (EN) : (cz.) odgrywać; (cz.) odtwarzać; (cz.) postanawiać; (cz.) przeprowadzać; (cz.) przeprowadzić; (cz.) statuować
+[enactment]enactment (EN) : (rz.) odegranie
+[enamel]enamel (EN) : (cz.) emaliować; (cz.) polewać; (rz.) emalia; (rz.) emaliowanie; (rz.) szkliwo
+[enamelled]enamelled (EN) : (p.) emaliowany
+[enameller]enameller (EN) : (rz.) emaliernik
+[enantiomorphism]enantiomorphism (EN) : (rz.) enancjomorfizm
+[encamp]encamp (EN) : (cz.) obozować
+[encampment]encampment (EN) : (rz.) obóz; (rz.) obozowanie; (rz.) obozowisko
+[encapsulate]encapsulate (EN) : (cz.) hermetyzować; (cz.) kapsułkować; (cz.) kondensować; (cz.) obejmować; (cz.) zamykać
+[encapsulated]encapsulated (EN) : (p.) hermetyzowany; (p.) kapsułkowany; (rz.) obudowanie
+[encapsulation]encapsulation (EN) : (rz.) hermetyzacja; (rz.) kapsułkowanie; (rz.) obudowa; (rz.) zamknięcie
+[encarnalize]encarnalize (EN) : (cz.) ucieleśniać
+[encase]encase (EN) : (cz.) obramowywać; (cz.) obudować; (cz.) okrywać; (cz.) oprawiać; (cz.) oprawić; (cz.) zamykać
+[encephalograph]encephalograph (EN) : (rz.) encefalograf
+[encephalographic]encephalographic (EN) : (p.) encefalograficzny
+[encephalography]encephalography (EN) : (rz.) encefalografia
+[encephalopathy]encephalopathy (EN) : (rz.) encefalopatia
+[enchain]enchain (EN) : (cz.) ujarzmiać
+[enchant]enchant (EN) : (cz.) oczarować; (cz.) oczarowywać; (cz.) olśnić; (cz.) porwać; (cz.) porywać; (cz.) zachwycać; (cz.) zachwycić
+[enchanter]enchanter (EN) : (rz.) czarownik
+[enchantment]enchantment (EN) : (rz.) oczarowanie; (rz.) zachwyt; (rz.) zauroczenie
+[enchase]enchase (EN) : (cz.) oprawiać
+[encipher]encipher (EN) : (cz.) szyfrować
+[enciphered]enciphered (EN) : (cz.) szyfrować
+[enciphering]enciphering (EN) : (rz.) szyfrowanie
+[encircle]encircle (EN) : (cz.) obramowywać; (cz.) okrążać; (cz.) osaczać; (cz.) osączać; (cz.) otaczać; (cz.) zakreślać
+[encirclement]encirclement (EN) : (rz.) okrążenie; (rz.) osaczenie; (rz.) otoczenie
+[encirclements]encirclements (EN) : (rz.) otaczanie
+[encircling]encircling (EN) : (p.) okołoksiężycowy; (p.) okołosłoneczny
+[enclave]enclave (EN) : (rz.) enklawa; (rz.) inkluzja
+[enclitic]enclitic (EN) : (p.) enklityczny; (rz.) enklityka
+[enclose]enclose (EN) : (cz.) dołączać; (cz.) grodzić; (cz.) obejmować; (cz.) ogrodzić; (cz.) otaczać; (cz.) otoczyć; (cz.) załączać; (cz.) załączyć; (cz.) zawierać
+[enclosure]enclosure (EN) : (rz.) aneks; (rz.) dodatek; (rz.) klauzura; (rz.) ogrodzenie; (rz.) załącznik
+[encode]encode (EN) : (cz.) kodować; (cz.) szyfrować; (cz.) zakodować
+[encoder]encoder (EN) : (rz.) koder; (rz.) kodowanie; (rz.) szyfrator
+[encoders]encoders (EN) : (rz.) koder
+[encomiast]encomiast (EN) : (rz.) panegirysta
+[encomium]encomium (EN) : (rz.) chwalba; (rz.) pochwała
+[encompass]encompass (EN) : (cz.) obejmować; (cz.) okrążać; (cz.) otaczać
+[encore]encore (EN) : (cz.) bisować; (rz.) bis; (rz.) bisowanie
+[encounter]encounter (EN) : (cz.) napotykać; (cz.) spotkać; (cz.) spotykać; (rz.) doznawanie; (rz.) napotkanie; (rz.) napotykanie; (rz.) natknięcie; (rz.) potyczka; (rz.) spotkanie; (rz.) starcie
+[encourage]encourage (EN) : (cz.) namawiać; (cz.) odważyć; (cz.) ośmielać; (cz.) popierać; (cz.) zachęcać; (cz.) zachęcić
+[encouragement]encouragement (EN) : (rz.) poparcie; (rz.) zachęcanie; (rz.) zachęta
+[encouraging]encouraging (EN) : (p.) dopingowy
+[encroach]encroach (EN) : (cz.) naruszać; (cz.) targać; (cz.) wdzierać; (cz.) wtargnąć
+[encroachment]encroachment (EN) : (rz.) wkroczenie
+[encrust]encrust (EN) : (cz.) inkrustować; (cz.) otoczyć; (cz.) zaskorupieć
+[encrypt]encrypt (EN) : (cz.) kodować; (cz.) szyfrować; (cz.) utajniać; (cz.) zaszyfrować
+[encrypting]encrypting (EN) : (cz.) kodować; (cz.) szyfrować; (rz.) kodowanie
+[encryption]encryption (EN) : (rz.) kryptografia; (rz.) szyfrowanie; (rz.) utajnianie; (rz.) zaszyfrowanie
+[encumber]encumber (EN) : (cz.) obciążyć; (cz.) utrudniać; (cz.) zatłoczyć; (cz.) zawadzać; (cz.) zawalać; (cz.) zawalić
+[encumbrance]encumbrance (EN) : (rz.) obciążenie; (rz.) skrępowanie; (rz.) utrudnienie; (rz.) wierzytelność; (rz.) zawada
+[encyclical]encyclical (EN) : (p.) encykliczny; (rz.) encyklika
+[encyclopaedia]encyclopaedia (EN) : (rz.) encyklopedia
+[encyclopaedic]encyclopaedic (EN) : (p.) encyklopedyczny
+[end]end (EN) : (cz.) kończyć; (cz.) skończyć; (cz.) zakończyć; (rz.) cel; (rz.) końcówka; (rz.) kończenie; (rz.) koniec; (rz.) kraniec; (rz.) kres; (rz.) schyłek; (rz.) zakończenie
+[end-to-end]end-to-end (EN) : (p.) całościowy; (p.) zupełny
+[endanger]endanger (EN) : (cz.) narażać; (cz.) zagrażać
+[endangerment]endangerment (EN) : (rz.) zagrożenie
+[endear]endear (EN) : (cz.) podrażać; (cz.) przywiązać; (cz.) przywiązywać
+[endearingly]endearingly (EN) : (p-sł.) rozczulająco
+[endearment]endearment (EN) : (rz.) pieszczota; (rz.) pieszczotliwość
+[endeavour]endeavour (EN) : (cz.) dążyć; (cz.) starać; (cz.) usiłować; (rz.) wysiłek
+[endemic]endemic (EN) : (p.) endemiczny; (p.) miejscowy
+[endemically]endemically (EN) : (p-sł.) endemicznie
+[ending]ending (EN) : (rz.) końcówka; (rz.) koniec; (rz.) skończenie; (rz.) zakończenie
+[endive]endive (EN) : (rz.) cykoria; (rz.) endywia
+[endless]endless (EN) : (p.) bezkresny; (p.) bezustanny; (p.) ciągły; (p.) nieskończony; (p.) ustawiczny
+[endlessly]endlessly (EN) : (p-sł.) nieskończenie
+[endlessness]endlessness (EN) : (rz.) nieskończoność
+[endmost]endmost (EN) : (p.) ostatni
+[endnote]endnote (EN) : (rz.) przypis
+[endocrine]endocrine (EN) : (p.) dokrewny
+[endocrinology]endocrinology (EN) : (rz.) endokrynologia
+[endodermis]endodermis (EN) : (rz.) śródskórnia
+[endoergic]endoergic (EN) : (p.) endoenergetyczny
+[endogamous]endogamous (EN) : (p.) endogamiczny
+[endogamy]endogamy (EN) : (rz.) endogamia
+[endogenous]endogenous (EN) : (p.) endogeniczny; (p.) endogenny; (p.) wewnątrzpochodny
+[endomorphism]endomorphism (EN) : (rz.) endomorfizm
+[endoplasm]endoplasm (EN) : (rz.) endoplazma
+[endorse]endorse (EN) : (cz.) indosować; (cz.) podpisać; (cz.) popierać; (cz.) potwierdzać; (cz.) żyrować
+[endorsee]endorsee (EN) : (rz.) indosat
+[endorsement]endorsement (EN) : (rz.) adnotacja; (rz.) indos; (rz.) poparcie; (rz.) żyro
+[endorser]endorser (EN) : (rz.) żyrant
+[endoscope]endoscope (EN) : (rz.) endoskop
+[endosperm]endosperm (EN) : (rz.) bielmo
+[endothelium]endothelium (EN) : (rz.) śródbłonek
+[endothermic]endothermic (EN) : (p.) endotermiczny
+[endow]endow (EN) : (cz.) fundować; (cz.) obdarować; (cz.) obdarowywać; (cz.) obdarzać; (cz.) obdzielać; (cz.) wyposażać; (cz.) zaopatrzyć
+[endowment]endowment (EN) : (rz.) dotacja; (rz.) fundacja; (rz.) wyposażenie
+[endue]endue (EN) : (cz.) obdarzyć; (cz.) wdziać
+[endurable]endurable (EN) : (p.) znośny
+[endurance]endurance (EN) : (rz.) trwałość; (rz.) twardość; (rz.) wytrwałość; (rz.) wytrwanie; (rz.) wytrzymałość; (rz.) zasięg
+[endure]endure (EN) : (cz.) cierpieć; (cz.) przecierpieć; (cz.) przetrwać; (cz.) trwać; (cz.) wycierpieć; (cz.) wytrzymać; (cz.) wytrzymywać; (cz.) znosić
+[endways]endways (EN) : (p-sł.) sztorcem
+[endwise]endwise (EN) : (p-sł.) rzędem; (p-sł.) sztorcem
+[enema]enema (EN) : (rz.) lewatywa
+[enemas]enemas (EN) : (rz.) wlewek
+[enemy]enemy (EN) : (rz.) nieprzyjaciel; (rz.) przeciwnik; (rz.) wróg
+[energetic]energetic (EN) : (p.) dynamiczny; (p.) energetyczny; (p.) energiczny; (p.) sprężysty
+[energetically]energetically (EN) : (p-sł.) energicznie
+[energize]energize (EN) : (cz.) pobudzać
+[energizer]energizer (EN) : (rz.) aktywator
+[energy]energy (EN) : (rz.) energetyka; (rz.) energia; (rz.) energochłonność
+[energy-consuming]energy-consuming (EN) : (p.) energochłonny
+[energy-saving]energy-saving (EN) : (p.) energooszczędny
+[enervate]enervate (EN) : (cz.) osłabiać; (cz.) osłabić; (cz.) wyczerpywać; (p.) niemrawy; (p.) słaby
+[enervation]enervation (EN) : (rz.) osłabianie; (rz.) osłabienie
+[enface]enface (EN) : (cz.) zaopatrywać
+[enfeeble]enfeeble (EN) : (cz.) osłabiać
+[enfold]enfold (EN) : (cz.) objąć; (cz.) otaczać; (cz.) otulać; (cz.) otulić; (cz.) zawijać
+[enforce]enforce (EN) : (cz.) egzekwować; (cz.) narzucać; (cz.) przeprowadzać; (cz.) przeprowadzić; (cz.) rzucać; (cz.) wprowadzać; (cz.) wymuszać
+[enforceability]enforceability (EN) : (rz.) wykonalność
+[enforceable]enforceable (EN) : (p.) egzekwowalny; (p.) wykonalny; (p.) zdolny
+[enforced]enforced (EN) : (cz.) wyegzekwować
+[enforcement]enforcement (EN) : (rz.) egzekucja; (rz.) narzucanie; (rz.) narzucenie; (rz.) przestrzeganie; (rz.) wykonywanie; (rz.) wymuszenie
+[enforcer]enforcer (EN) : (rz.) goryl; (rz.) ochroniarz
+[enfranchise]enfranchise (EN) : (cz.) nadawać; (cz.) uwalniać; (cz.) uwłaszczać; (cz.) uwolnić
+[enfranchisement]enfranchisement (EN) : (rz.) uwłaszczenie
+[engage]engage (EN) : (cz.) angażować; (cz.) najmować; (cz.) przyjmować; (cz.) rezerwować; (cz.) rozpoczynać; (cz.) ścierać; (cz.) włączać; (cz.) zaangażować; (cz.) zajmować; (cz.) zatrudniać; (cz.) zatrudnić; (cz.) zazębić; (cz.) zetrzeć; (cz.) zobowiązywać
+[engaged]engaged (EN) : (p.) zajęty
+[engagement]engagement (EN) : (rz.) angaż; (rz.) bitwa; (rz.) narzeczeństwo; (rz.) obietnica; (rz.) spotkanie; (rz.) umowa; (rz.) zaangażowanie; (rz.) zaczepienie; (rz.) zajęcie; (rz.) zaręczyny; (rz.) zatrudnienie; (rz.) zobowiązanie
+[engaging]engaging (EN) : (p.) miły
+[engagingly]engagingly (EN) : (p-sł.) ujmująco; (p-sł.) zachęcająco
+[engender]engender (EN) : (cz.) rodzić; (cz.) wywoływać
+[engine]engine (EN) : (rz.) lokomotywa; (rz.) maszyna; (rz.) maszynista; (rz.) maszynownia; (rz.) mechanizm; (rz.) parowóz; (rz.) silnik
+[engine-driver]engine-driver (EN) : (rz.) maszynista; (rz.) silnik; (rz.) sterownik
+[engine-house]engine-house (EN) : (rz.) parowozownia
+[engine-room]engine-room (EN) : (rz.) maszynownia
+[engineer]engineer (EN) : (cz.) zmajstrować; (rz.) instalator; (rz.) inżynier; (rz.) maszynista; (rz.) mechanik; (rz.) mechanika; (rz.) technik
+[engineering]engineering (EN) : (p.) inżynieryjny; (rz.) inżynieria; (rz.) mechanika; (rz.) radiotechnika; (rz.) technika
+[engineless]engineless (EN) : (p.) bezsilnikowy
+[enginery]enginery (EN) : (rz.) maszyneria
+[engird]engird (EN) : (cz.) opasywać
+[engorgement]engorgement (EN) : (rz.) pożeranie
+[engrave]engrave (EN) : (cz.) grawerować; (cz.) ryć; (cz.) wryć; (cz.) wygrawerować; (cz.) wyryć; (cz.) zryć
+[engraver]engraver (EN) : (rz.) grawer; (rz.) rytownik; (rz.) sztycharz
+[engraving]engraving (EN) : (rz.) drzeworyt; (rz.) grafika; (rz.) grawerowanie; (rz.) grawerunek; (rz.) grawiura; (rz.) rycina; (rz.) rytowanie; (rz.) rytownictwo; (rz.) sztych; (rz.) sztycharstwo; (rz.) wygrawerowanie
+[engross]engross (EN) : (cz.) monopolizować; (cz.) opanować; (cz.) pochłaniać; (cz.) przywłaszczyć; (cz.) zmonopolizować
+[engulf]engulf (EN) : (cz.) ogarniać; (cz.) pochłaniać; (cz.) porywać; (cz.) przytłoczyć
+[engulfment]engulfment (EN) : (rz.) pochłonięcie
+[enhance]enhance (EN) : (cz.) podnieść; (cz.) podnosić; (cz.) podwyższyć; (cz.) polepszać; (cz.) powiększyć; (cz.) spotęgować; (cz.) ugruntowywać; (cz.) ulepszać; (cz.) uwydatniać; (cz.) uwydatnić; (cz.) uwypuklać; (cz.) uwypuklić; (cz.) wzbogacać; (cz.) wzbogacić; (cz.) wzmagać; (cz.) zwiększać
+[enhancement]enhancement (EN) : (rz.) polepszenie; (rz.) poprawa; (rz.) ulepszenie; (rz.) usprawnienie; (rz.) uwydatnienie; (rz.) wzbogacenie
+[enharmonic]enharmonic (EN) : (p.) enharmoniczny
+[enigma]enigma (EN) : (rz.) mistyfikacja; (rz.) zagadka
+[enigmatic]enigmatic (EN) : (p.) enigmatyczny; (p.) sfinksowy; (p.) zagadkowy
+[enigmatical]enigmatical (EN) : (p.) enigmatyczny; (p.) zagadkowy
+[enigmatically]enigmatically (EN) : (p-sł.) enigmatycznie
+[enjoin]enjoin (EN) : (cz.) nakazywać; (cz.) zalecać
+[enjoy]enjoy (EN) : (cz.) cieszyć; (cz.) delektować; (cz.) lubić; (cz.) polubić; (cz.) rozkoszować; (cz.) używać
+[enjoyable]enjoyable (EN) : (p.) miły; (p.) przyjemny
+[enjoyably]enjoyably (EN) : (p-sł.) miło; (p-sł.) radośnie
+[enjoyment]enjoyment (EN) : (rz.) korzystanie; (rz.) przyjemność; (rz.) radość; (rz.) rozrywka; (rz.) uciecha; (rz.) zabawa; (rz.) zadowolenie
+[enkindle]enkindle (EN) : (cz.) rozpalać; (cz.) wzniecać
+[enlace]enlace (EN) : (cz.) opasać
+[enlarge]enlarge (EN) : (cz.) powiększać; (cz.) powiększyć; (cz.) rozpowiadać; (cz.) rozwodzić
+[enlargement]enlargement (EN) : (rz.) powiększenie; (rz.) rozwodzenie
+[enlarger]enlarger (EN) : (rz.) powiększalnik
+[enlighten]enlighten (EN) : (cz.) oświecać; (cz.) oświecić; (cz.) uświadamiać; (cz.) uświadomić
+[enlightened]enlightened (EN) : (p.) światły
+[enlightenment]enlightenment (EN) : (rz.) oświecenie
+[enlist]enlist (EN) : (cz.) werbować; (cz.) zaciągać; (cz.) zaokrętować; (cz.) zwerbować
+[enlisted]enlisted (EN) : (p.) zaciężny
+[enlistment]enlistment (EN) : (rz.) pobór; (rz.) zaciąg
+[enliven]enliven (EN) : (cz.) animować; (cz.) ożywiać; (cz.) rozochocić
+[enmity]enmity (EN) : (rz.) nienawiść; (rz.) nieprzyjaźń; (rz.) wrogość
+[ennoble]ennoble (EN) : (cz.) nobilitować; (cz.) uczłowieczać; (cz.) uszlachetniać; (cz.) uszlachetnić
+[ennoblement]ennoblement (EN) : (rz.) nobilitacja; (rz.) uszlachetnienie
+[ennui]ennui (EN) : (rz.) nuda
+[enormity]enormity (EN) : (rz.) ogrom; (rz.) potworność
+[enormous]enormous (EN) : (p.) krociowy; (p.) ogromny; (p.) olbrzymi
+[enormously]enormously (EN) : (p-sł.) kolosalnie; (p-sł.) ogromnie
+[enough]enough (EN) : (p.) dostateczny; (p.) odpowiedni; (p.) starczy; (p-sł.) dość; (p-sł.) dosyć; (p-sł.) niezawodnie; (p-sł.) wystarczająco
+[enounce]enounce (EN) : (cz.) wymawiać; (cz.) wypowiedzieć
+[enquire]enquire (EN) : (cz.) dowiadywać; (cz.) pytać; (cz.) spytać; (cz.) zapytywać
+[enquiry]enquiry (EN) : (rz.) badanie; (rz.) kwerenda; (rz.) pytanie; (rz.) śledztwo; (rz.) zapytanie; (rz.) zasięganie
+[enrage]enrage (EN) : (cz.) rozbestwiać; (cz.) rozjuszać; (cz.) rozwścieczać
+[enrapture]enrapture (EN) : (cz.) zachwycać
+[enrich]enrich (EN) : (cz.) ubogacać; (cz.) ubogacić; (cz.) ulepszyć; (cz.) usprawniać; (cz.) użyźniać; (cz.) wzbogacać; (cz.) wzbogacić
+[enrichment]enrichment (EN) : (rz.) udoskonalenie; (rz.) wzbogacenie
+[enrol]enrol (EN) : (cz.) angażować; (cz.) rejestrować; (cz.) zapisywać
+[enrolment]enrolment (EN) : (rz.) rejestracja
+[ensanguined]ensanguined (EN) : (p.) krwawy
+[ensconce]ensconce (EN) : (cz.) ukryć
+[ensemble]ensemble (EN) : (rz.) zbiór; (rz.) zespół
+[enshrine]enshrine (EN) : (cz.) czcić
+[enshroud]enshroud (EN) : (cz.) osłaniać; (cz.) spowijać
+[ensign]ensign (EN) : (rz.) bandera; (rz.) chorągiew; (rz.) insygnia; (rz.) odznaka
+[ensilage]ensilage (EN) : (cz.) silosować; (cz.) zasilosować; (rz.) kiszonka; (rz.) silosowanie
+[ensiling]ensiling (EN) : (rz.) zakiszanie; (rz.) zakiszenie
+[enslave]enslave (EN) : (cz.) podbijać; (cz.) ujarzmiać; (cz.) ujarzmić; (cz.) zniewalać; (cz.) zniewolić
+[enslavement]enslavement (EN) : (rz.) ujarzmienie
+[ensnare]ensnare (EN) : (cz.) usidlać; (cz.) usidlić; (cz.) złapać
+[ensue]ensue (EN) : (cz.) nastąpić; (cz.) następować; (cz.) wynikać
+[ensure]ensure (EN) : (cz.) gwarantować; (cz.) sprawdzać; (cz.) sprawdzić; (cz.) ubezpieczyć; (cz.) upewnić; (cz.) zabezpieczać; (cz.) zagwarantować; (cz.) zapewniać; (cz.) zapewnić
+[enswathe]enswathe (EN) : (cz.) spowijać
+[entablature]entablature (EN) : (rz.) belkowanie
+[entail]entail (EN) : (cz.) chlipać; (cz.) pociągać; (cz.) powodować; (cz.) spowodować; (cz.) wymagać
+[entailment]entailment (EN) : (rz.) majorat
+[entangle]entangle (EN) : (cz.) gmatwać; (cz.) motać; (cz.) oplatać; (cz.) plątać; (cz.) przyplątać; (cz.) uwikłać; (cz.) wikłać; (cz.) zaplątać
+[entanglement]entanglement (EN) : (rz.) splot; (rz.) uwikłanie; (rz.) zagmatwanie; (rz.) związek
+[entelechy]entelechy (EN) : (rz.) entelechia
+[entente]entente (EN) : (rz.) ententa; (rz.) porozumienie; (rz.) sojusz
+[enter]enter (EN) : (cz.) kontować; (cz.) przedostać; (cz.) uczestniczyć; (cz.) wchodzić; (cz.) wjechać; (cz.) wjeżdżać; (cz.) wkroczyć; (cz.) wpisać; (cz.) wprowadzać; (cz.) wprowadzić; (cz.) wstępować; (cz.) zaprzychodować; (cz.) zgłaszać
+[enteric]enteric (EN) : (p.) jelitowy
+[enterprise]enterprise (EN) : (rz.) firma; (rz.) inicjatywa; (rz.) przedsiębiorczość; (rz.) przedsiębiorstwo; (rz.) przedsięwzięcie
+[enterprising]enterprising (EN) : (p.) przedsiębiorczy
+[entertain]entertain (EN) : (cz.) bawić; (cz.) gościć; (cz.) podejmować; (cz.) podtrzymywać; (cz.) przyjmować; (cz.) ugaszczać; (cz.) utrzymywać; (cz.) zabawiać; (cz.) żywić
+[entertainer]entertainer (EN) : (rz.) artysta; (rz.) gospodarz; (rz.) komik; (rz.) konferansjer
+[entertaining]entertaining (EN) : (p.) rozrywkowy; (p.) zabawny
+[entertainingly]entertainingly (EN) : (p-sł.) zabawnie
+[entertainment]entertainment (EN) : (rz.) przyjęcie; (rz.) rozrywka; (rz.) ugoszczenie; (rz.) zabawa
+[enthalpy]enthalpy (EN) : (rz.) entalpia
+[enthral]enthral (EN) : (cz.) czarować; (cz.) fascynować; (cz.) oczarować; (cz.) oczarowywać
+[enthralling]enthralling (EN) : (p.) czarujący
+[enthrone]enthrone (EN) : (cz.) intronizować
+[enthronement]enthronement (EN) : (rz.) intronizacja; (rz.) koronowanie
+[enthuse]enthuse (EN) : (cz.) entuzjazmować
+[enthusiasm]enthusiasm (EN) : (rz.) entuzjazm; (rz.) poryw; (rz.) swada; (rz.) zapał
+[enthusiast]enthusiast (EN) : (rz.) entuzjasta; (rz.) zapaleniec
+[enthusiastic]enthusiastic (EN) : (p.) entuzjastyczny; (p.) owacyjny
+[enthusiastically]enthusiastically (EN) : (p-sł.) entuzjastycznie; (p-sł.) ochoczo
+[enthymeme]enthymeme (EN) : (rz.) entymemat
+[entice]entice (EN) : (cz.) kusić; (cz.) łudzić; (cz.) nęcić; (cz.) uwodzić; (cz.) wabić
+[enticement]enticement (EN) : (rz.) pokusa
+[enticing]enticing (EN) : (p.) kusicielski
+[entire]entire (EN) : (p.) całkowity; (p.) cały; (p.) zupełny
+[entirely]entirely (EN) : (p-sł.) całkiem; (p-sł.) całkowicie; (p-sł.) wyłącznie; (p-sł.) zupełnie
+[entirety]entirety (EN) : (rz.) całość
+[entitle]entitle (EN) : (cz.) nazwać; (cz.) tytułować; (cz.) upoważniać; (cz.) uprawniać; (cz.) uprawnić; (cz.) zatytułować; (cz.) zwać
+[entitlement]entitlement (EN) : (rz.) upoważnienie
+[entitling]entitling (EN) : (cz.) uprawniać
+[entity]entity (EN) : (rz.) byt; (rz.) istota; (rz.) jednostka; (rz.) podmiot
+[entomological]entomological (EN) : (p.) entomologiczny
+[entomologist]entomologist (EN) : (rz.) entomolog
+[entomology]entomology (EN) : (rz.) entomologia; (rz.) owadoznawstwo
+[entourage]entourage (EN) : (rz.) otoczenie
+[entrain]entrain (EN) : (cz.) ładować
+[entrainment]entrainment (EN) : (rz.) porywanie
+[entrance]entrance (EN) : (rz.) dostęp; (rz.) ujście; (rz.) wejście; (rz.) wejściówka; (rz.) wjazd; (rz.) wstąpienie; (rz.) wstęp
+[entrap]entrap (EN) : (cz.) schwytać; (cz.) usidlać; (cz.) usidlić; (cz.) zamknąć; (cz.) zatrzymać
+[entrapment]entrapment (EN) : (rz.) prowokacja; (rz.) pułapka
+[entreat]entreat (EN) : (cz.) błagać; (cz.) prosić; (cz.) wybłagać
+[entreaty]entreaty (EN) : (rz.) błaganie; (rz.) prośba
+[entrecote]entrecote (EN) : (rz.) antrykot
+[entree]entree (EN) : (rz.) wstęp
+[entrench]entrench (EN) : (cz.) okopać; (cz.) okopywać; (cz.) oszańcować; (cz.) otaczać; (cz.) utrwalać; (cz.) utrwalić
+[entrenchment]entrenchment (EN) : (rz.) okop; (rz.) okopanie; (rz.) oszańcowanie; (rz.) szaniec
+[entrepreneur]entrepreneur (EN) : (rz.) handlowiec; (rz.) przedsiębiorca
+[entrepreneurial]entrepreneurial (EN) : (p.) inwestycyjny; (p.) przedsiębiorczy
+[entrepreneurship]entrepreneurship (EN) : (rz.) przedsiębiorczość
+[entresol]entresol (EN) : (rz.) antresola; (rz.) mezanin; (rz.) półpiętro; (rz.) półpiętrze
+[entropy]entropy (EN) : (rz.) entropia
+[entrust]entrust (EN) : (cz.) powierzać; (cz.) powierzyć; (cz.) zawierzyć
+[entry]entry (EN) : (rz.) hasło; (rz.) notatka; (rz.) pozycja; (rz.) przystąpienie; (rz.) uczestnictwo; (rz.) wchodzenie; (rz.) wejście; (rz.) wjazd; (rz.) wpis; (rz.) wstąpienie; (rz.) wstęp; (rz.) wtargnięcie; (rz.) wwóz; (rz.) zapis; (rz.) zgłoszenie
+[entryway]entryway (EN) : (rz.) przejście
+[entrée]entrée (EN) : (rz.) przystawka
+[entwine]entwine (EN) : (cz.) oplatać; (cz.) oplątać; (cz.) owijać; (cz.) splatać
+[entwist]entwist (EN) : (cz.) skręcać; (cz.) splatać; (cz.) zakręcać
+[enumerable]enumerable (EN) : (p.) przeliczalny
+[enumerate]enumerate (EN) : (cz.) wyliczać; (cz.) wymieniać
+[enumeration]enumeration (EN) : (rz.) numeracja; (rz.) wykaz; (rz.) wyliczanie; (rz.) wyliczenie; (rz.) wymienienie
+[enumerator]enumerator (EN) : (rz.) ankieter; (rz.) licznik; (rz.) numerator; (rz.) rachmistrz
+[enunciate]enunciate (EN) : (cz.) ogłaszać; (cz.) oświadczyć; (cz.) wyłuszczać; (cz.) wymawiać; (cz.) wymówić; (cz.) wypowiedzieć
+[enunciation]enunciation (EN) : (rz.) enuncjacja; (rz.) twierdzenie; (rz.) wyrażenie; (rz.) zapewnienie
+[envelop]envelop (EN) : (cz.) okrywać; (cz.) osnuć; (cz.) otulać; (cz.) owijać; (cz.) spowijać
+[envelope]envelope (EN) : (rz.) koperta; (rz.) obwiednia; (rz.) otoczka; (rz.) pokrywa; (rz.) powłoka
+[envelopment]envelopment (EN) : (rz.) okrążenie
+[envenom]envenom (EN) : (cz.) zatruć
+[enviable]enviable (EN) : (p.) zazdrosny
+[envious]envious (EN) : (p.) zawistny; (p.) zazdrosny
+[enviously]enviously (EN) : (p-sł.) zawistnie; (p-sł.) zazdrośnie
+[environ]environ (EN) : (cz.) otaczać
+[environment]environment (EN) : (rz.) otoczenie; (rz.) środowisko
+[environmental]environmental (EN) : (p.) przyrodniczy; (p.) środowiskowy
+[environmentalist]environmentalist (EN) : (rz.) ekolog
+[environs]environs (EN) : (rz.) okolica; (rz.) sąsiedztwo
+[envisage]envisage (EN) : (cz.) przewidywać; (cz.) rozpatrywać; (cz.) wyobrażać
+[envision]envision (EN) : (cz.) przewidywać; (cz.) wyobrażać
+[envoy]envoy (EN) : (rz.) emisariusz; (rz.) poseł; (rz.) wysłannik
+[envy]envy (EN) : (cz.) pozazdrościć; (cz.) zazdrościć; (rz.) zawiść; (rz.) zazdrość; (rz.) zazdroszczenie; (rz.) żółtaczka
+[enwrap]enwrap (EN) : (cz.) opiąć; (cz.) owiać; (cz.) owijać; (cz.) pogrążać; (cz.) zawijać
+[enwreathe]enwreathe (EN) : (cz.) splatać; (cz.) wieńczyć
+[enzootic]enzootic (EN) : (rz.) enzootia
+[enzymatic]enzymatic (EN) : (p.) enzymatyczny
+[enzyme]enzyme (EN) : (rz.) enzym; (rz.) ferment
+[eolith]eolith (EN) : (rz.) eolit
+[eparchy]eparchy (EN) : (rz.) eparchia
+[epaulet]epaulet (EN) : (rz.) epolet; (rz.) naramiennik
+[epaulette]epaulette (EN) : (rz.) epolet; (rz.) naramiennik
+[epee]epee (EN) : (rz.) szpada
+[epenthesis]epenthesis (EN) : (rz.) epenteza
+[epenthetic]epenthetic (EN) : (p.) epentetyczny
+[epergne]epergne (EN) : (rz.) patera
+[ephedrine]ephedrine (EN) : (rz.) efedryna
+[ephemera]ephemera (EN) : (rz.) efemeryda
+[ephemeral]ephemeral (EN) : (p.) efemeryczny
+[ephemeris]ephemeris (EN) : (rz.) efemeryda
+[epic]epic (EN) : (p.) bohaterski; (p.) epicki; (p.) epiczny; (rz.) epika; (rz.) epopeja; (rz.) epos
+[epicene]epicene (EN) : (p.) obupłciowy
+[epicentre]epicentre (EN) : (rz.) epicentrum
+[epicurean]epicurean (EN) : (p.) epikurejski
+[epicycle]epicycle (EN) : (rz.) epicykl
+[epidemic]epidemic (EN) : (p.) epidemiczny; (p.) nagminny; (rz.) epidemia
+[epidemical]epidemical (EN) : (p.) epidemiczny; (p.) nagminny
+[epidemically]epidemically (EN) : (p-sł.) epidemicznie
+[epidemiological]epidemiological (EN) : (p.) epidemiologiczny
+[epidemiologist]epidemiologist (EN) : (rz.) epidemiolog
+[epidemiology]epidemiology (EN) : (rz.) epidemiologia
+[epidermal]epidermal (EN) : (p.) naskórkowy
+[epidermis]epidermis (EN) : (rz.) epiderma; (rz.) miazdra; (rz.) naskórek
+[epidiascope]epidiascope (EN) : (rz.) epidiaskop
+[epigenetic]epigenetic (EN) : (p.) epigenetyczny
+[epiglottis]epiglottis (EN) : (rz.) nagłośnia
+[epigone]epigone (EN) : (rz.) epigon
+[epigram]epigram (EN) : (rz.) epigramat; (rz.) fraszka
+[epigrammatic]epigrammatic (EN) : (p.) epigramatyczny
+[epigraph]epigraph (EN) : (rz.) epigraf
+[epigraphic]epigraphic (EN) : (p.) epigraficzny
+[epilator]epilator (EN) : (rz.) depilator
+[epilepsy]epilepsy (EN) : (rz.) epilepsja; (rz.) padaczka
+[epileptic]epileptic (EN) : (p.) epileptyczny; (p.) padaczkowy; (rz.) epileptyk
+[epilogue]epilogue (EN) : (rz.) epilog
+[epimerization]epimerization (EN) : (rz.) epimeryzacja
+[epinephrine]epinephrine (EN) : (rz.) adrenalina
+[epiphenomenon]epiphenomenon (EN) : (rz.) epifenomen
+[epiphysis]epiphysis (EN) : (rz.) nasada
+[epiphyte]epiphyte (EN) : (rz.) epifit; (rz.) porosłe; (rz.) porośle
+[epiphytes]epiphytes (EN) : (rz.) narost
+[epiphytical]epiphytical (EN) : (p.) epifityczny
+[episcopacy]episcopacy (EN) : (rz.) episkopat
+[episcopate]episcopate (EN) : (rz.) biskupstwo; (rz.) episkopat
+[episcope]episcope (EN) : (rz.) episkop
+[episiotomy]episiotomy (EN) : (rz.) krocz
+[episode]episode (EN) : (rz.) epizod; (rz.) odcinek; (rz.) zdarzenie
+[episodic]episodic (EN) : (p.) epizodyczny
+[episodically]episodically (EN) : (p-sł.) epizodycznie
+[epistemological]epistemological (EN) : (p.) epistemologiczny
+[epistemology]epistemology (EN) : (rz.) epistemologia
+[epistle]epistle (EN) : (rz.) epistoła
+[epistolary]epistolary (EN) : (p.) epistolarny; (p.) listowy
+[epistyle]epistyle (EN) : (rz.) epistyl
+[epitaph]epitaph (EN) : (rz.) epitafium
+[epithelial]epithelial (EN) : (p.) nabłonkowy
+[epithelium]epithelium (EN) : (rz.) nabłonek
+[epithet]epithet (EN) : (rz.) epitet; (rz.) określenie
+[epitome]epitome (EN) : (rz.) skrót; (rz.) ucieleśnienie; (rz.) uosobienie; (rz.) wzór
+[epitomize]epitomize (EN) : (cz.) obrazować; (cz.) przedstawiać; (cz.) streścić; (cz.) streszczać
+[epizootic]epizootic (EN) : (p.) epizootyczny; (rz.) epizootia; (rz.) pomór; (rz.) pomorze
+[epoch]epoch (EN) : (rz.) epoka
+[epoch-making]epoch-making (EN) : (p.) epokowy
+[epochal]epochal (EN) : (p.) epokowy
+[epode]epode (EN) : (rz.) epoda
+[eponymous]eponymous (EN) : (p.) tytułowy
+[epopee]epopee (EN) : (rz.) epika; (rz.) epopeja
+[epos]epos (EN) : (rz.) epika; (rz.) epos
+[epoxy]epoxy (EN) : (p.) epoksydowy
+[equability]equability (EN) : (rz.) równomierność; (rz.) równość
+[equable]equable (EN) : (p.) równomierny; (p.) spokojny
+[equal]equal (EN) : (cz.) dorównywać; (cz.) równać; (cz.) wynosić; (p.) jednakowy; (p.) odpowiedni; (p.) równoprawny; (p.) równorzędny; (p.) równy; (p.) zdolny
+[equal-sided]equal-sided (EN) : (p.) równoboczny
+[equality]equality (EN) : (rz.) parytet; (rz.) równość; (rz.) równouprawnienie
+[equalization]equalization (EN) : (rz.) korekcja; (rz.) wyrównywanie; (rz.) zrównanie
+[equalize]equalize (EN) : (cz.) dorównywać; (cz.) wyrównać; (cz.) wyrównywać; (cz.) zrównać; (cz.) zrównoważać; (cz.) zrównywać
+[equalizer]equalizer (EN) : (rz.) bujak; (rz.) kompensator; (rz.) korektor; (rz.) wyrównywacz
+[equally]equally (EN) : (p-sł.) jednakowo; (p-sł.) równie; (p-sł.) równo
+[equanimity]equanimity (EN) : (rz.) opanowanie; (rz.) spokój
+[equate]equate (EN) : (cz.) przyrównać; (cz.) przyrównywać; (cz.) wyrównać; (cz.) zrównać; (cz.) zrównywać
+[equation]equation (EN) : (rz.) równanie; (rz.) równość; (rz.) wyrównywanie; (rz.) zrównoważenie
+[equations]equations (EN) : (rz.) równanie; (rz.) wyrównywanie
+[equator]equator (EN) : (rz.) równik
+[equatorial]equatorial (EN) : (p.) podrównikowy; (p.) równikowy; (p.) tropikalny
+[equerry]equerry (EN) : (rz.) koniuszy
+[equestrian]equestrian (EN) : (p.) hipiczny; (p.) jeździecki; (p.) konny; (rz.) jeździec
+[equiangular]equiangular (EN) : (p.) równokątny
+[equidistant]equidistant (EN) : (p.) odległy; (p.) równoodległy
+[equilateral]equilateral (EN) : (p.) równoboczny; (p.) równoległoboczny
+[equilibrate]equilibrate (EN) : (cz.) bonifikować; (cz.) równoważyć; (cz.) zachowywać
+[equilibration]equilibration (EN) : (rz.) zrównoważenie
+[equilibrist]equilibrist (EN) : (rz.) ekwilibrysta; (rz.) linoskoczek
+[equilibrium]equilibrium (EN) : (rz.) równowaga; (rz.) statyka
+[equine]equine (EN) : (p.) koński
+[equinoctial]equinoctial (EN) : (p.) równonocny
+[equinox]equinox (EN) : (rz.) ekwinokcjum; (rz.) równonoc
+[equip]equip (EN) : (cz.) dawać; (cz.) ekwipować; (cz.) przygotowywać; (cz.) wyekwipować; (cz.) wyposażać; (cz.) wyposażyć; (cz.) zaopatrywać
+[equipage]equipage (EN) : (rz.) ekwipaż
+[equipment]equipment (EN) : (rz.) ekwipunek; (rz.) oporządzenie; (rz.) osprzęt; (rz.) sprzęt; (rz.) urządzenie; (rz.) uzbrojenie; (rz.) wyposażenie
+[equipoise]equipoise (EN) : (rz.) przeciwciężar; (rz.) równoważnik
+[equipollent]equipollent (EN) : (p.) jednakowy; (p.) równowartościowy; (p.) równoważny
+[equiponderate]equiponderate (EN) : (cz.) równoważyć
+[equitable]equitable (EN) : (p.) bezstronny; (p.) słuszny; (p.) sprawiedliwy
+[equitably]equitably (EN) : (p-sł.) sprawiedliwie
+[equitation]equitation (EN) : (rz.) hipika
+[equity]equity (EN) : (rz.) kapitał; (rz.) równość; (rz.) słuszność; (rz.) sprawiedliwość
+[equivalence]equivalence (EN) : (rz.) ekwiwalencja; (rz.) równorzędność; (rz.) równowartość; (rz.) równoważność
+[equivalency]equivalency (EN) : (rz.) ekwiwalencja; (rz.) równowartość; (rz.) równoważność
+[equivalent]equivalent (EN) : (p.) ekwiwalentny; (p.) równorzędny; (p.) równoważny; (p.) równoznaczny; (rz.) ekwiwalent; (rz.) odpowiednik; (rz.) równowartość; (rz.) równoważnia; (rz.) równoważnik
+[equivalently]equivalently (EN) : (p-sł.) ekwiwalentnie; (p-sł.) równie
+[equivocal]equivocal (EN) : (p.) dwuznaczny; (p.) niejednoznaczny; (p.) wymijający
+[equivocally]equivocally (EN) : (p-sł.) dwuznacznie
+[equivocation]equivocation (EN) : (rz.) dwuznaczność; (rz.) ekwiwokacja
+[equivoque]equivoque (EN) : (rz.) dwuznacznik; (rz.) dwuznaczność
+[era]era (EN) : (rz.) epoka; (rz.) era; (rz.) okres
+[eradiate]eradiate (EN) : (cz.) emanować; (cz.) promieniować
+[eradiation]eradiation (EN) : (rz.) emanacja; (rz.) promieniowanie
+[eradicable]eradicable (EN) : (cz.) wytępiać; (cz.) wytępić
+[eradicate]eradicate (EN) : (cz.) wykorzeniać
+[eradication]eradication (EN) : (rz.) wykorzenienie; (rz.) wytępienie; (rz.) zwalczenie
+[erasable]erasable (EN) : (p.) kasowalny; (p.) wymazywalny
+[erase]erase (EN) : (cz.) kasować; (cz.) przekreślać; (cz.) przekreślić; (cz.) ścierać; (cz.) skasować; (cz.) usuwać; (cz.) wycierać; (cz.) wykasować; (cz.) wymazać; (cz.) wymazywać; (cz.) zeskrobać; (cz.) zmazać
+[eraser]eraser (EN) : (rz.) gumka
+[erasure]erasure (EN) : (rz.) wymazanie; (rz.) wymazywanie
+[erbium]erbium (EN) : (rz.) erb
+[erect]erect (EN) : (cz.) budować; (cz.) montować; (cz.) naprostować; (cz.) nastroszyć; (cz.) składać; (cz.) stawiać; (cz.) wyprostować; (cz.) wznieść; (cz.) wznosić; (cz.) zbudować; (p.) prosty; (p.) stojący; (p.) wyprostowany
+[erection]erection (EN) : (rz.) budowa; (rz.) erekcja; (rz.) wyprostowanie; (rz.) wzniesienie; (rz.) wznoszenie; (rz.) wzwód
+[erector]erector (EN) : (rz.) podajnik
+[erelong]erelong (EN) : (p-sł.) niebawem
+[eremite]eremite (EN) : (rz.) eremita; (rz.) pustelnik
+[erg]erg (EN) : (rz.) erg
+[ergonomic]ergonomic (EN) : (p.) ergonomiczny
+[ergonomically]ergonomically (EN) : (p-sł.) ergonomicznie
+[ergonomics]ergonomics (EN) : (rz.) ergonomia
+[ergot]ergot (EN) : (rz.) sporysz
+[ergotamine]ergotamine (EN) : (rz.) ergotamina
+[eristic]eristic (EN) : (rz.) erystyka
+[ermine]ermine (EN) : (rz.) gronostaj
+[erne]erne (EN) : (rz.) bielik
+[erode]erode (EN) : (cz.) erodować; (cz.) podkopywać; (cz.) podminowywać; (cz.) wydrążać; (cz.) wygryzać; (cz.) wyżerać; (cz.) wyżłobić; (cz.) wyżreć; (cz.) żłobić
+[erogenous]erogenous (EN) : (p.) erogenny
+[erosion]erosion (EN) : (rz.) erozja; (rz.) nadżerka; (rz.) żłobienie
+[erosive]erosive (EN) : (p.) erozyjny
+[erotic]erotic (EN) : (p.) erotyczny
+[erotica]erotica (EN) : (rz.) erotyka
+[erotically]erotically (EN) : (p-sł.) erotycznie
+[eroticism]eroticism (EN) : (rz.) erotyczność; (rz.) erotyka; (rz.) erotyzm
+[err]err (EN) : (cz.) błądzić; (cz.) mylić; (cz.) zbaczać; (cz.) zbłądzić
+[errand]errand (EN) : (rz.) posyłka; (rz.) sprawa; (rz.) sprawunek; (rz.) zlecenie
+[errand-boy]errand-boy (EN) : (rz.) goniec
+[errant]errant (EN) : (p.) błędny
+[errantry]errantry (EN) : (rz.) donkiszoteria
+[errata]errata (EN) : (rz.) errata
+[erratic]erratic (EN) : (p.) błędny; (p.) eratyczny; (p.) kapryśny; (p.) narzutowy; (p.) niekonsekwentny; (p.) nieobliczalny; (p.) niepewny; (p.) nieregularny; (p.) zmienny
+[erratically]erratically (EN) : (p-sł.) nieregularnie
+[erratum]erratum (EN) : (rz.) błąd; (rz.) errata
+[erroneous]erroneous (EN) : (p.) błędny; (p.) fałszywy; (p.) mylny; (p.) niesłuszny; (p.) omyłkowy; (p.) opaczny
+[erroneously]erroneously (EN) : (p-sł.) błędnie; (p-sł.) fałszywie; (p-sł.) mylnie
+[erroneousness]erroneousness (EN) : (rz.) fałszywość; (rz.) omylność
+[error]error (EN) : (rz.) błąd; (rz.) błędność; (rz.) defekt; (rz.) omyłka; (rz.) pomyłka; (rz.) uchyb
+[error-free]error-free (EN) : (p.) bezbłędny
+[ersatz]ersatz (EN) : (rz.) namiastka
+[eruct]eruct (EN) : (cz.) odbić; (cz.) odbijać
+[eructation]eructation (EN) : (rz.) czkanie; (rz.) odbijanie
+[erudite]erudite (EN) : (rz.) erudyta
+[erudition]erudition (EN) : (rz.) erudycja; (rz.) naukowość
+[erupt]erupt (EN) : (cz.) eksplodować; (cz.) wrzeć; (cz.) wybuchać; (cz.) wysypywać
+[eruption]eruption (EN) : (rz.) erupcja; (rz.) wybuch; (rz.) wysypka
+[eruptional]eruptional (EN) : (p.) erupcyjny
+[eruptive]eruptive (EN) : (p.) erupcyjny; (p.) wyrzutowy; (p.) wysypkowy
+[erysipelas]erysipelas (EN) : (rz.) róża; (rz.) różyczka
+[erythrocyte]erythrocyte (EN) : (rz.) erytrocyt
+[erythromycin]erythromycin (EN) : (rz.) erytromycyna
+[escalade]escalade (EN) : (rz.) szturm
+[escalate]escalate (EN) : (cz.) eskalować; (cz.) nasilać; (cz.) wzmagać; (cz.) wzrastać
+[escalation]escalation (EN) : (rz.) eskalacja; (rz.) narastanie; (rz.) przekazywanie; (rz.) wzmożenie; (rz.) wzrost
+[escalator]escalator (EN) : (rz.) eskalator
+[escapade]escapade (EN) : (rz.) eskapada
+[escape]escape (EN) : (cz.) uchodzić; (cz.) uchować; (cz.) uciekać; (cz.) ulatywać; (cz.) umykać; (cz.) unikać; (cz.) uniknąć; (cz.) wychodzić; (cz.) wydostawać; (cz.) wydzielać; (cz.) wyrywać; (rz.) ratunek; (rz.) uciec; (rz.) ucieczka; (rz.) wyciek; (rz.) wyjście
+[escapee]escapee (EN) : (rz.) zbieg
+[escapement]escapement (EN) : (rz.) wychwyt; (rz.) wymyk
+[escapism]escapism (EN) : (rz.) eskapizm
+[escarp]escarp (EN) : (rz.) skarpa
+[escarpment]escarpment (EN) : (rz.) skarpa
+[eschatology]eschatology (EN) : (rz.) eschatologia
+[eschew]eschew (EN) : (cz.) unikać; (cz.) wystrzegać
+[escort]escort (EN) : (cz.) doprowadzać; (cz.) eskortować; (cz.) konwojować; (cz.) towarzyszyć; (rz.) asysta; (rz.) eskorta; (rz.) konwój; (rz.) konwojent; (rz.) straż; (rz.) towarzysz
+[escorts]escorts (EN) : (rz.) eskorta
+[escritoire]escritoire (EN) : (rz.) sekretarzyk
+[escrow]escrow (EN) : (rz.) depozyt
+[esculent]esculent (EN) : (p.) jadalny
+[escutcheon]escutcheon (EN) : (rz.) pawęż
+[esoteric]esoteric (EN) : (p.) ezoteryczny
+[espalier]espalier (EN) : (rz.) szpaler
+[esparto]esparto (EN) : (rz.) esparto
+[especial]especial (EN) : (p.) osobliwy; (p.) specjalny; (p.) szczególny
+[especially]especially (EN) : (p-sł.) specjalnie; (p-sł.) szczególnie
+[esperantist]esperantist (EN) : (rz.) esperantysta
+[espial]espial (EN) : (rz.) podglądanie; (rz.) przeszpiegi
+[espionage]espionage (EN) : (rz.) szpiegostwo
+[esplanade]esplanade (EN) : (rz.) esplanada
+[espousal]espousal (EN) : (rz.) orędownictwo
+[espouse]espouse (EN) : (cz.) optować; (cz.) popierać; (cz.) poślubiać; (cz.) poślubić; (cz.) wspierać
+[esprit]esprit (EN) : (rz.) dowcip; (rz.) duch
+[essay]essay (EN) : (rz.) esej; (rz.) próba; (rz.) rozprawka; (rz.) szkic; (rz.) wypracowanie
+[essayist]essayist (EN) : (rz.) eseista
+[essence]essence (EN) : (rz.) esencja; (rz.) istota; (rz.) meritum; (rz.) podstawa; (rz.) sedno; (rz.) sens; (rz.) treść; (rz.) wyciąg
+[essential]essential (EN) : (p.) istotny; (p.) nieodzowny; (p.) niezbędny; (p.) podstawowy; (p.) rdzenny; (p.) zasadniczy
+[essentially]essentially (EN) : (p-sł.) istotnie; (p-sł.) zasadniczo
+[essentials]essentials (EN) : (rz.) podstawa
+[establish]establish (EN) : (cz.) nawiązywać; (cz.) ustalać; (cz.) ustalić; (cz.) ustanawiać; (cz.) ustanowić; (cz.) zakładać; (cz.) założyć
+[establishment]establishment (EN) : (rz.) domostwo; (rz.) firma; (rz.) instytucja; (rz.) organizacja; (rz.) placówka; (rz.) przedsiębiorstwo; (rz.) urządzenie; (rz.) ustanowienie; (rz.) zakład; (rz.) założenie
+[estaminet]estaminet (EN) : (rz.) bar; (rz.) kawiarenka
+[estate]estate (EN) : (rz.) dzielnica; (rz.) kombi; (rz.) majątek; (rz.) mienie; (rz.) nieruchomość; (rz.) osiedle; (rz.) posesja; (rz.) posiadłość; (rz.) spadek; (rz.) stan; (rz.) własność
+[esteem]esteem (EN) : (cz.) cenić; (cz.) oceniać; (cz.) poważać; (cz.) szacować; (cz.) szanować; (rz.) cześć; (rz.) estyma; (rz.) poważanie; (rz.) respekt; (rz.) szacunek
+[ester]ester (EN) : (rz.) ester
+[estimable]estimable (EN) : (p.) szacowny
+[estimate]estimate (EN) : (cz.) obliczać; (cz.) oceniać; (cz.) oszacować; (cz.) szacować; (cz.) szanować; (cz.) wyceniać; (cz.) wykalkulować; (rz.) kosztorys; (rz.) ocena; (rz.) oszacowanie; (rz.) szacowanie; (rz.) szacunek; (rz.) wycena
+[estimated]estimated (EN) : (cz.) oszacowywać; (cz.) szacować
+[estimation]estimation (EN) : (rz.) estyma; (rz.) estymacja; (rz.) ocena; (rz.) opinia; (rz.) oszacowanie; (rz.) szacunek
+[estimator]estimator (EN) : (rz.) estymator; (rz.) kosztorysant; (rz.) taksator
+[estrange]estrange (EN) : (cz.) separować; (cz.) zrażać
+[estrangement]estrangement (EN) : (rz.) oddalenie; (rz.) odsunięcie; (rz.) zniechęcenie
+[estrogens]estrogens (EN) : (p.) estrogeny
+[estuary]estuary (EN) : (rz.) estuarium; (rz.) ujście
+[esurient]esurient (EN) : (p.) żarłoczny
+[etalon]etalon (EN) : (rz.) etalon
+[etch]etch (EN) : (cz.) grawerować; (cz.) korygować; (cz.) ryć; (cz.) sztychować; (cz.) trawić; (cz.) wytrawiać
+[etcher]etcher (EN) : (rz.) akwaforcista; (rz.) grawer; (rz.) rytownik
+[etching]etching (EN) : (rz.) akwaforta; (rz.) grawerowanie; (rz.) rycina; (rz.) rytowanie; (rz.) sztych; (rz.) trawienie; (rz.) wygrawerowanie; (rz.) wytrawianie
+[etching-needle]etching-needle (EN) : (rz.) rylec
+[eternal]eternal (EN) : (p.) bezustanny; (p.) nieśmiertelny; (p.) niezmienny; (p.) odwieczny; (p.) przedwieczny; (p.) wieczny; (p.) wiekuisty
+[eternally]eternally (EN) : (p-sł.) odwiecznie; (p-sł.) wiecznie
+[eternity]eternity (EN) : (rz.) wieczność; (rz.) wiek
+[eternize]eternize (EN) : (cz.) uwiecznić
+[ethane]ethane (EN) : (rz.) etan
+[ethanol]ethanol (EN) : (rz.) etanol
+[ether]ether (EN) : (rz.) eter
+[ethereal]ethereal (EN) : (p.) eteryczny; (p.) lotny; (p.) zwiewny
+[ethereality]ethereality (EN) : (rz.) wiotkość
+[ethereally]ethereally (EN) : (p-sł.) eterycznie
+[ethic]ethic (EN) : (p.) etniczny; (p.) etyczny; (rz.) etos; (rz.) etyka
+[ethical]ethical (EN) : (p.) etyczny; (p.) moralny
+[ethically]ethically (EN) : (p-sł.) etycznie
+[ethicist]ethicist (EN) : (rz.) etyk; (rz.) etyka
+[ethics]ethics (EN) : (rz.) etyk; (rz.) etyka
+[ethnic]ethnic (EN) : (p.) etniczny; (p.) narodowościowy
+[ethnical]ethnical (EN) : (p.) etniczny; (p.) narodowościowy
+[ethnicity]ethnicity (EN) : (rz.) narodowość
+[ethnographer]ethnographer (EN) : (rz.) etnograf
+[ethnographic]ethnographic (EN) : (p.) etnograficzny
+[ethnographical]ethnographical (EN) : (p.) etnograficzny
+[ethnography]ethnography (EN) : (rz.) etnografia; (rz.) ludoznawstwo
+[ethnologic]ethnologic (EN) : (p.) etnologiczny
+[ethnological]ethnological (EN) : (p.) etnologiczny
+[ethnologist]ethnologist (EN) : (rz.) etnolog
+[ethnology]ethnology (EN) : (rz.) etnologia; (rz.) etologia; (rz.) ludoznawstwo
+[ethologic]ethologic (EN) : (p.) etnologiczny
+[ethos]ethos (EN) : (rz.) etos
+[ethyl]ethyl (EN) : (rz.) etyl
+[ethylene]ethylene (EN) : (p.) etylenowy; (rz.) etylen
+[etiologic]etiologic (EN) : (p.) etiologiczny; (p.) przyczynowy
+[etiological]etiological (EN) : (p.) etiologiczny
+[etiquette]etiquette (EN) : (rz.) ceremoniał; (rz.) etykieta; (rz.) konwenans; (rz.) konwenanse; (rz.) zachowanie
+[etude]etude (EN) : (rz.) etiuda
+[etui]etui (EN) : (rz.) etui; (rz.) futeralik
+[etymological]etymological (EN) : (p.) etymologiczny
+[etymologist]etymologist (EN) : (rz.) etymolog
+[etymology]etymology (EN) : (rz.) etymologia
+[etymon]etymon (EN) : (rz.) źródłosłów
+[eucalyptus]eucalyptus (EN) : (rz.) eukaliptus
+[eudiometer]eudiometer (EN) : (rz.) eudiometr
+[eugenic]eugenic (EN) : (p.) eugeniczny
+[eugenics]eugenics (EN) : (rz.) eugenika
+[eulogist]eulogist (EN) : (rz.) chwalca; (rz.) panegirysta; (rz.) piewca
+[eulogistic]eulogistic (EN) : (p.) panegiryczny
+[eulogize]eulogize (EN) : (cz.) wychwalać
+[eulogy]eulogy (EN) : (rz.) chwalba; (rz.) mowa; (rz.) panegiryk; (rz.) pochwała
+[eunuch]eunuch (EN) : (rz.) rzezaniec
+[euphemism]euphemism (EN) : (rz.) eufemizm
+[euphemistic]euphemistic (EN) : (p.) eufemiczny; (p.) eufemistyczny
+[euphemistically]euphemistically (EN) : (p-sł.) eufemistycznie
+[euphonic]euphonic (EN) : (p.) eufoniczny
+[euphonious]euphonious (EN) : (p.) eufoniczny
+[euphony]euphony (EN) : (rz.) eufonia
+[euphorbia]euphorbia (EN) : (rz.) euforbia; (rz.) ostromlecz; (rz.) wilczomlecz
+[euphoria]euphoria (EN) : (rz.) euforia
+[euphoric]euphoric (EN) : (p.) euforyczny
+[euphrasy]euphrasy (EN) : (rz.) świetlik
+[eurhythmics]eurhythmics (EN) : (rz.) eurytmia
+[euro]euro (EN) : (p-sł.) europejsko
+[europium]europium (EN) : (rz.) europ
+[eutectic]eutectic (EN) : (p.) eutektyczny
+[eutectoid]eutectoid (EN) : (rz.) eutektoid
+[euthanasia]euthanasia (EN) : (rz.) eutanazja
+[evacuate]evacuate (EN) : (cz.) ewakuować; (cz.) opróżniać
+[evacuation]evacuation (EN) : (rz.) ewakuacja; (rz.) opróżnianie
+[evacuee]evacuee (EN) : (rz.) ewakuant; (rz.) wysiedleniec
+[evade]evade (EN) : (cz.) obchodzić; (cz.) odchylać; (cz.) omijać; (cz.) pomijać; (cz.) uchylać; (cz.) umykać; (cz.) unikać; (cz.) uwikłać; (cz.) wymigać; (cz.) wymijać; (cz.) wymykać
+[evaluate]evaluate (EN) : (cz.) analizować; (cz.) obliczać; (cz.) oceniać; (cz.) oszacować; (cz.) otaksować; (cz.) szacować
+[evaluation]evaluation (EN) : (rz.) analiza; (rz.) ekspertyza; (rz.) ewaluacja; (rz.) ocena; (rz.) ocenianie; (rz.) oszacowanie; (rz.) wycena; (rz.) wyznaczanie
+[evanescence]evanescence (EN) : (rz.) efemeryczność; (rz.) nikłość; (rz.) przelotność
+[evanescent]evanescent (EN) : (p.) przelotny
+[evangelic]evangelic (EN) : (p.) ewangelicki; (p.) ewangeliczny; (p.) protestancki
+[evangelical]evangelical (EN) : (p.) ewangelicki; (p.) ewangeliczny; (p.) protestancki; (rz.) ewangelik
+[evangelically]evangelically (EN) : (p-sł.) ewangelicznie
+[evangelism]evangelism (EN) : (rz.) ewangelizm
+[evangelist]evangelist (EN) : (rz.) ewangelista
+[evangelize]evangelize (EN) : (cz.) apostołować; (cz.) ewangelizować
+[evanish]evanish (EN) : (cz.) zanikać; (cz.) znikać
+[evaporate]evaporate (EN) : (cz.) odparować; (cz.) odparowywać; (cz.) parować; (cz.) ulatniać; (cz.) wyparować; (cz.) wyparowywać; (cz.) wywietrzeć
+[evaporation]evaporation (EN) : (rz.) naparowanie; (rz.) odparowanie; (rz.) odparowywanie; (rz.) parowanie; (rz.) ulatnianie; (rz.) wyparowanie
+[evaporator]evaporator (EN) : (rz.) parownik; (rz.) wyparka
+[evasion]evasion (EN) : (rz.) obchodzenie; (rz.) omijanie; (rz.) uchylanie; (rz.) uchylenie; (rz.) unikanie; (rz.) uniknięcie; (rz.) wybieg; (rz.) wykręcanie; (rz.) wykręt; (rz.) wymówka
+[evasive]evasive (EN) : (p.) powściągliwy; (p.) wykrętny; (p.) wymijający
+[evasively]evasively (EN) : (p-sł.) wymijająco
+[eve]eve (EN) : (rz.) przeddzień; (rz.) wieczerza; (rz.) wigilia; (rz.) wilia
+[evection]evection (EN) : (rz.) ewekcja
+[even]even (EN) : (cz.) wyrównać; (cz.) wyrównywać; (p.) gładki; (p.) parzysty; (p.) równomierny; (p.) równy; (p-sł.) nawet; (p-sł.) równo; (p-sł.) właśnie; (p-sł.) wręcz
+[even-tempered]even-tempered (EN) : (p.) spokojny
+[evener]evener (EN) : (cz.) zrównywać; (rz.) orczyca; (rz.) waga
+[evening]evening (EN) : (rz.) wieczór; (rz.) wieczorek
+[evenly]evenly (EN) : (p-sł.) parzyście; (p-sł.) równo; (p-sł.) równomiernie
+[evenness]evenness (EN) : (rz.) bezstronność; (rz.) jednostajność; (rz.) równość; (rz.) spokój
+[event]event (EN) : (rz.) dyscyplina; (rz.) impreza; (rz.) kombinacja; (rz.) konkurencja; (rz.) osuwisko; (rz.) spotkanie; (rz.) wydarzenie; (rz.) wypadek; (rz.) zaszłość; (rz.) zdarzenie
+[eventful]eventful (EN) : (p.) burzliwy; (p.) doniosły; (p.) pamiętny
+[eventual]eventual (EN) : (p.) ewentualny; (p.) końcowy; (p.) możliwy; (p.) ostateczny
+[eventuality]eventuality (EN) : (rz.) ewentualność; (rz.) możliwość
+[eventually]eventually (EN) : (p-sł.) nawet; (p-sł.) ostatecznie
+[ever]ever (EN) : (p-sł.) coraz; (p-sł.) kiedy; (p-sł.) kiedykolwiek; (p-sł.) kiedyś; (p-sł.) nigdy; (p-sł.) przeważnie; (p-sł.) wciąż; (p-sł.) zawsze
+[evergreen]evergreen (EN) : (p.) wiecznozielony; (p.) zimozielony
+[everlasting]everlasting (EN) : (p.) nieśmiertelny; (p.) odwieczny; (p.) wieczny
+[everlastingly]everlastingly (EN) : (p-sł.) odwiecznie
+[evermore]evermore (EN) : (p-sł.) zawsze
+[every]every (EN) : (p.) wszelaki; (p.) wszelki
+[everyday]everyday (EN) : (p.) codzienny; (p.) powszedni; (p.) zwykły
+[everyplace]everyplace (EN) : (p-sł.) wszędzie
+[everywhere]everywhere (EN) : (p-sł.) gdziekolwiek; (p-sł.) wszędzie
+[evict]evict (EN) : (cz.) eksmitować; (cz.) wyeksmitować; (cz.) wykwaterować; (cz.) wysiedlać
+[eviction]eviction (EN) : (rz.) eksmisja; (rz.) eksmitowanie; (rz.) wysiedlenie
+[evidence]evidence (EN) : (cz.) unaoczniać; (cz.) unaocznić; (rz.) dowód; (rz.) oczywistość; (rz.) oznaka; (rz.) zeznanie
+[evident]evident (EN) : (p.) ewidentny; (p.) jawny; (p.) oczywisty; (p.) widoczny; (p.) wyraźny
+[evidential]evidential (EN) : (p.) dowodowy
+[evidently]evidently (EN) : (p-sł.) ewidentnie; (p-sł.) oczywiście
+[evil]evil (EN) : (p.) zły; (rz.) licho; (rz.) zło; (rz.) zły
+[evil-minded]evil-minded (EN) : (p.) złośliwy
+[evilly]evilly (EN) : (p-sł.) perfidnie; (p-sł.) źle
+[evince]evince (EN) : (cz.) przejawiać; (cz.) ujawniać; (cz.) zdradzać
+[eviscerate]eviscerate (EN) : (cz.) osłabiać; (cz.) osłabić; (cz.) patroszyć; (cz.) wypatroszyć
+[evisceration]evisceration (EN) : (rz.) wypatroszenie
+[evocation]evocation (EN) : (rz.) ewokacja; (rz.) przywołanie; (rz.) wywoływanie
+[evocative]evocative (EN) : (p.) sugestywny
+[evoke]evoke (EN) : (cz.) przywoływać; (cz.) wydobywać; (cz.) wywołać; (cz.) wywoływać
+[evolution]evolution (EN) : (rz.) ewolucja; (rz.) rozwój
+[evolutionary]evolutionary (EN) : (p.) ewolucyjny; (p.) rozwojowy
+[evolutionism]evolutionism (EN) : (rz.) ewolucjonizm
+[evolutionist]evolutionist (EN) : (rz.) ewolucjonista
+[evolve]evolve (EN) : (cz.) ewoluować; (cz.) przekształcać; (cz.) rozwijać
+[ewe]ewe (EN) : (rz.) maciorka; (rz.) owca
+[ewer]ewer (EN) : (rz.) dzban; (rz.) dzbanek
+[exacerbate]exacerbate (EN) : (cz.) podrażniać; (cz.) pogarszać; (cz.) rozjątrzać; (cz.) rozjątrzyć; (cz.) zaostrzać; (cz.) zaostrzyć
+[exacerbation]exacerbation (EN) : (rz.) rozdrażnienie; (rz.) zadrażnienie
+[exact]exact (EN) : (cz.) egzekwować; (cz.) wymagać; (p.) akuratny; (p.) dokładny; (p.) trafny
+[exaction]exaction (EN) : (rz.) ściąganie; (rz.) wymaganie; (rz.) wymuszanie
+[exactitude]exactitude (EN) : (rz.) dokładność; (rz.) precyzja; (rz.) ścisłość
+[exactly]exactly (EN) : (p-sł.) dokładnie; (p-sł.) precyzyjnie; (p-sł.) ściśle; (p-sł.) skrupulatnie; (p-sł.) właśnie; (p-sł.) zupełnie
+[exactness]exactness (EN) : (rz.) dokładność; (rz.) ścisłość
+[exactor]exactor (EN) : (rz.) poborca
+[exaggerate]exaggerate (EN) : (cz.) amplifikować; (cz.) przejaskrawiać; (cz.) przesadzać; (cz.) wyolbrzymiać
+[exaggerated]exaggerated (EN) : (p.) przesadny
+[exaggeratedly]exaggeratedly (EN) : (p-sł.) przesadnie
+[exaggeration]exaggeration (EN) : (rz.) koloryzacja; (rz.) przechwalanie; (rz.) przesada; (rz.) przesadzanie; (rz.) wyolbrzymienie
+[exalt]exalt (EN) : (cz.) pobudzać; (cz.) podnosić; (cz.) potęgować; (cz.) wychwalać; (cz.) wynosić; (cz.) wywyższać
+[exaltation]exaltation (EN) : (rz.) egzaltacja; (rz.) podniesienie; (rz.) wywyższenie; (rz.) zachwyt
+[exalted]exalted (EN) : (p.) wysoki
+[exam]exam (EN) : (rz.) badanie; (rz.) dociekanie; (rz.) egzamin
+[examination]examination (EN) : (rz.) analiza; (rz.) badanie; (rz.) dociekanie; (rz.) egzamin; (rz.) kontrola; (rz.) oględziny; (rz.) przesłuchanie; (rz.) rozpatrywanie; (rz.) rozpatrzenie
+[examine]examine (EN) : (cz.) badać; (cz.) egzaminować; (cz.) oglądać; (cz.) przeegzaminować; (cz.) przestudiować; (cz.) rozpatrywać; (cz.) sprawdzać; (cz.) sprawdzić; (cz.) zanalizować; (cz.) zbadać
+[examined]examined (EN) : (cz.) przebadać
+[examiner]examiner (EN) : (rz.) egzaminator
+[example]example (EN) : (rz.) kład; (rz.) przykład; (rz.) wzór
+[exanimate]exanimate (EN) : (p.) bezduszny; (p.) martwy
+[exanthema]exanthema (EN) : (rz.) wykwit; (rz.) wysypka
+[exarchate]exarchate (EN) : (rz.) egzarchat
+[exasperate]exasperate (EN) : (cz.) drażnić; (cz.) dręczyć; (cz.) irytować; (cz.) rozdrażniać; (cz.) rozdrażnić; (cz.) rozjątrzać; (cz.) zgniewać; (cz.) zirytować
+[exasperation]exasperation (EN) : (rz.) irytacja; (rz.) rozdrażnienie
+[excaudate]excaudate (EN) : (p.) bezogonowy
+[excavate]excavate (EN) : (cz.) kopać; (cz.) odkopywać; (cz.) przekopywać; (cz.) wykopywać
+[excavation]excavation (EN) : (rz.) wykop; (rz.) wykopalisko; (rz.) wykopywanie; (rz.) wyrobisko
+[excavator]excavator (EN) : (rz.) czerpaczka; (rz.) czerparka; (rz.) ekskawator; (rz.) koparka
+[exceed]exceed (EN) : (cz.) przekraczać; (cz.) przewyższać; (cz.) przewyższyć; (cz.) wybijać
+[exceeding]exceeding (EN) : (p.) nadzwyczajny; (p.) niezmierzony
+[exceedingly]exceedingly (EN) : (p-sł.) nadzwyczaj; (p-sł.) niezmiernie; (p-sł.) niezwykle
+[excel]excel (EN) : (cz.) celować; (cz.) górować; (cz.) przewyższać; (cz.) przodować; (cz.) wcelować; (cz.) wybijać; (cz.) wyróżniać; (cz.) zakasować
+[excellence]excellence (EN) : (rz.) doborowość; (rz.) doskonałość; (rz.) ekscelencja; (rz.) perfekcja; (rz.) przodowanie; (rz.) pyszność; (rz.) wspaniałość; (rz.) wybitność; (rz.) wyborność; (rz.) wyśmienitość; (rz.) wyższość
+[excellent]excellent (EN) : (p.) doborowy; (p.) doskonały; (p.) piękny; (p.) przepyszny; (p.) przewyborny; (p.) świetny; (p.) wyborny; (p.) wyborowy; (p.) wyśmienity; (p.) znakomity
+[excellently]excellently (EN) : (p-sł.) wspaniale; (p-sł.) znakomicie
+[except]except (EN) : (cz.) wykluczać; (cz.) wyłączyć; (p-im.) oprócz; (p-im.) prócz
+[excepting]excepting (EN) : (p-im.) oprócz; (p-im.) prócz
+[exception]exception (EN) : (rz.) odstępstwo; (rz.) sprzeciw; (rz.) sytuacja; (rz.) wyjątek; (rz.) zarzut; (rz.) zastrzeżenie
+[exceptionable]exceptionable (EN) : (p.) naganny; (p.) sporny
+[exceptional]exceptional (EN) : (p.) wyjątkowy
+[exceptionality]exceptionality (EN) : (rz.) wyjątkowość
+[exceptionally]exceptionally (EN) : (p-sł.) wyjątkowo
+[exceptive]exceptive (EN) : (p.) podchwytliwy
+[excerpt]excerpt (EN) : (rz.) ekscerpcja; (rz.) urywek; (rz.) wyciąg; (rz.) wyimek; (rz.) wyjątek
+[excerption]excerption (EN) : (rz.) ekscerpcja
+[excess]excess (EN) : (p.) dodatkowy; (p.) nadmierny; (p.) zbyteczny; (rz.) eksces; (rz.) nadbagaż; (rz.) nadmiar; (rz.) nadużycie; (rz.) przekroczenie; (rz.) przerost; (rz.) wybryk; (rz.) wyskok
+[excessive]excessive (EN) : (p.) nadmierny; (p.) ponadnormatywny; (p.) przesadny; (p.) zbytni
+[excessively]excessively (EN) : (p-sł.) nader; (p-sł.) nadmiernie; (p-sł.) przesadnie; (p-sł.) zanadto; (p-sł.) zbytnio
+[exchange]exchange (EN) : (cz.) wymieniać; (cz.) wymienić; (rz.) centrala; (rz.) giełda; (rz.) wymiana; (rz.) wymięcie; (rz.) wymień; (rz.) wymieniacz; (rz.) wymienienie; (rz.) zamiana
+[exchangeable]exchangeable (EN) : (p.) wymienialny; (p.) wymienny; (p.) zamienny
+[exchanger]exchanger (EN) : (rz.) cinkciarz; (rz.) jonit; (rz.) konik; (rz.) wymiennik
+[exchequer]exchequer (EN) : (rz.) skarb
+[excise]excise (EN) : (cz.) amputować; (cz.) wycinać; (rz.) akcyza
+[excision]excision (EN) : (rz.) wycięcie; (rz.) wycinanie
+[excitability]excitability (EN) : (rz.) pobudliwość
+[excitable]excitable (EN) : (p.) pobudliwy
+[excitation]excitation (EN) : (rz.) ekscytacja; (rz.) pobudzanie; (rz.) podniecenie; (rz.) wzbudzanie; (rz.) wzbudzenie
+[excite]excite (EN) : (cz.) ekscytować; (cz.) emocjonować; (cz.) pasjonować; (cz.) pobudzać; (cz.) podniecać; (cz.) podniecić; (cz.) rozognić; (cz.) wzniecać
+[excited]excited (EN) : (cz.) ekscytować
+[excitement]excitement (EN) : (rz.) alteracja; (rz.) atrakcja; (rz.) bieganina; (rz.) denerwowanie; (rz.) ekscytacja; (rz.) podekscytowanie; (rz.) podniecenie; (rz.) podnieta; (rz.) podrażnienie; (rz.) wzbudzenie; (rz.) wzruszenie; (rz.) zdenerwowanie
+[exciter]exciter (EN) : (rz.) wzbudnica
+[exciting]exciting (EN) : (p.) ekscytujący; (p.) pasjonujący
+[excitingly]excitingly (EN) : (p-sł.) pasjonująco
+[exclaim]exclaim (EN) : (cz.) wołać; (cz.) wykrzykiwać; (cz.) wykrzyknąć; (cz.) zakrzykiwać; (cz.) zawołać
+[exclamation]exclamation (EN) : (rz.) eksklamacja; (rz.) krzyk; (rz.) okrzyk; (rz.) wykrzyknięcie; (rz.) wykrzyknienie; (rz.) wykrzyknik
+[exclamatory]exclamatory (EN) : (p.) wykrzyknikowy
+[exclude]exclude (EN) : (cz.) pomijać; (cz.) wykluczać; (cz.) wykluczyć; (cz.) wyłączać
+[exclusion]exclusion (EN) : (rz.) ekskluzja; (rz.) pominięcie; (rz.) wydalenie; (rz.) wykluczanie; (rz.) wykluczenie; (rz.) wyłączenie; (rz.) zastrzeżenie
+[exclusive]exclusive (EN) : (p.) ekskluzywny; (p.) pierwszorzędny; (p.) wyłączny
+[exclusively]exclusively (EN) : (p-sł.) tylko; (p-sł.) wyłącznie
+[exclusiveness]exclusiveness (EN) : (rz.) ekskluzywność
+[exclusivity]exclusivity (EN) : (rz.) elitaryzm; (rz.) wyłączność
+[excogitate]excogitate (EN) : (cz.) wykoncypować; (cz.) wymyślać; (cz.) wymyślić
+[excommunicate]excommunicate (EN) : (cz.) ekskomunikować; (cz.) wykląć; (cz.) wyklinać
+[excommunication]excommunication (EN) : (rz.) ekskomunika; (rz.) klątwa
+[excrement]excrement (EN) : (rz.) ekskrement; (rz.) kał; (rz.) odchody; (rz.) stolec
+[excrescence]excrescence (EN) : (rz.) wyrost
+[excrescent]excrescent (EN) : (p.) zbyteczny
+[excrete]excrete (EN) : (cz.) wydalać; (cz.) wydzielać
+[excretion]excretion (EN) : (rz.) ekskrecja; (rz.) wydalanie; (rz.) wydalina
+[excretive]excretive (EN) : (p.) wydalniczy; (p.) wydzielniczy
+[excretory]excretory (EN) : (p.) wydalniczy
+[excruciating]excruciating (EN) : (p.) nieznośny; (p.) potworny; (p.) straszliwy
+[excruciatingly]excruciatingly (EN) : (p-sł.) rozdzierająco
+[exculpate]exculpate (EN) : (cz.) uniewinniać; (cz.) uniewinnić; (cz.) wybraniać
+[exculpation]exculpation (EN) : (rz.) uniewinnienie; (rz.) usprawiedliwienie
+[excursion]excursion (EN) : (rz.) przejażdżka; (rz.) wycieczka; (rz.) wypad; (rz.) wyprawa
+[excursionist]excursionist (EN) : (rz.) krajoznawca; (rz.) turysta; (rz.) wycieczkowicz
+[excusable]excusable (EN) : (p.) wybaczalny
+[excuse]excuse (EN) : (cz.) justować; (cz.) uniewinnić; (cz.) usprawiedliwiać; (cz.) uzasadniać; (cz.) wybaczać; (cz.) wybaczyć; (cz.) zwalniać; (rz.) pretekst; (rz.) usprawiedliwienie; (rz.) wykręt; (rz.) wymówka; (rz.) wytłumaczenie
+[execrable]execrable (EN) : (p.) ohydny; (p.) wstrętny
+[execrate]execrate (EN) : (cz.) brzydzić; (cz.) przeklinać; (cz.) złorzeczyć
+[execration]execration (EN) : (rz.) obrzydzenie; (rz.) złorzeczenie
+[executable]executable (EN) : (p.) realizowalny; (p.) wykonywalny
+[execute]execute (EN) : (cz.) działać; (cz.) egzekwować; (cz.) przeprowadzać; (cz.) stracić; (cz.) tracić; (cz.) uruchamiać; (cz.) uruchomić; (cz.) wykonywać
+[execution]execution (EN) : (rz.) egzekucja; (rz.) przeprowadzenie; (rz.) realizacja; (rz.) rozstrzelanie; (rz.) stracenie; (rz.) wykonanie; (rz.) wykonawstwo; (rz.) wykonywanie
+[executioner]executioner (EN) : (rz.) egzekutor; (rz.) kat
+[executive]executive (EN) : (p.) kierowniczy; (p.) wykonawczy; (rz.) dyrektor; (rz.) egzekutor; (rz.) egzekutywa; (rz.) kierownik; (rz.) menadżer; (rz.) pracownik; (rz.) wykonawca; (rz.) zarząd
+[executives]executives (EN) : (rz.) kierownictwo
+[executor]executor (EN) : (rz.) egzekutor; (rz.) realizator; (rz.) wykonawca
+[exegesis]exegesis (EN) : (rz.) egzegeza
+[exemplar]exemplar (EN) : (rz.) przykład; (rz.) wzór; (rz.) wzorzec
+[exemplary]exemplary (EN) : (p.) popisowy; (p.) przykładny; (p.) przykładowy; (p.) wzorowy
+[exemplification]exemplification (EN) : (rz.) egzemplifikacja; (rz.) przykład; (rz.) zilustrowanie
+[exemplify]exemplify (EN) : (cz.) ilustrować; (cz.) obrazować; (cz.) popierać; (cz.) zilustrować
+[exempt]exempt (EN) : (cz.) uwalniać; (cz.) uwolnić; (cz.) zwalniać; (p.) wolny
+[exemption]exemption (EN) : (rz.) uwolnienie; (rz.) wyłączenie; (rz.) zwolnienie
+[exercise]exercise (EN) : (cz.) ćwiczyć; (cz.) egzekwować; (cz.) gimnastykować; (cz.) korzystać; (cz.) pełnić; (cz.) sprawować; (cz.) uprawiać; (cz.) używać; (cz.) wykonywać; (cz.) wywierać; (rz.) ćwiczenie; (rz.) sprawowanie; (rz.) użycie; (rz.) wprawka; (rz.) wykonywanie; (rz.) wysiłek; (rz.) zadanie; (rz.) zeszyt
+[exercise-book]exercise-book (EN) : (p.) zeszytowy
+[exercises]exercises (EN) : (cz.) gimnastykować
+[exercitation]exercitation (EN) : (rz.) ćwiczenie
+[exergue]exergue (EN) : (rz.) odcinek
+[exert]exert (EN) : (cz.) biedzić; (cz.) okazywać; (cz.) silić; (cz.) używać; (cz.) wysilać; (cz.) wytężać; (cz.) wywierać
+[exertion]exertion (EN) : (rz.) mozół; (rz.) natężenie; (rz.) stosowanie; (rz.) wysiłek
+[exeunt]exeunt (EN) : (cz.) wyjść
+[exfoliate]exfoliate (EN) : (cz.) złuszczać
+[exfoliation]exfoliation (EN) : (rz.) eksfoliacja; (rz.) odwarstwianie
+[exhalation]exhalation (EN) : (rz.) parowanie; (rz.) wydech; (rz.) wydychanie; (rz.) wyziew
+[exhale]exhale (EN) : (cz.) parować; (cz.) wydychać; (cz.) wydzielać; (cz.) wypuszczać
+[exhaust]exhaust (EN) : (cz.) opróżniać; (cz.) opróżnić; (cz.) pompować; (cz.) potrudzić; (cz.) wyczerpać; (cz.) wyczerpywać; (cz.) wypróżniać; (cz.) zmęczyć; (cz.) zużyć; (cz.) zużywać; (rz.) tłumik; (rz.) wydech; (rz.) wydmuch; (rz.) wylot
+[exhausted]exhausted (EN) : (p.) skończony; (p.) wyczerpany
+[exhauster]exhauster (EN) : (rz.) ekshaustor
+[exhausting]exhausting (EN) : (p.) znojny
+[exhaustion]exhaustion (EN) : (rz.) obezwładnienie; (rz.) opróżnienie; (rz.) ssanie; (rz.) wyczerpanie; (rz.) wyjałowienie; (rz.) zmęczenie; (rz.) zużycie
+[exhaustive]exhaustive (EN) : (p.) gruntowny
+[exhaustively]exhaustively (EN) : (p-sł.) wyczerpująco
+[exhaustiveness]exhaustiveness (EN) : (rz.) kompletność
+[exhibit]exhibit (EN) : (cz.) okazywać; (cz.) pokazywać; (cz.) wystawiać; (rz.) eksponat; (rz.) okaz; (rz.) wystawa
+[exhibition]exhibition (EN) : (rz.) ekspozycja; (rz.) pokaz; (rz.) ukazanie; (rz.) wystawa
+[exhibitioner]exhibitioner (EN) : (rz.) stypendysta
+[exhibitionism]exhibitionism (EN) : (rz.) ekshibicjonizm
+[exhibitionist]exhibitionist (EN) : (rz.) ekshibicjonista
+[exhibitor]exhibitor (EN) : (rz.) wystawca
+[exhibitory]exhibitory (EN) : (p.) wystawowy
+[exhilarate]exhilarate (EN) : (cz.) ożywiać; (cz.) rozradować; (cz.) rozweselać; (cz.) weselić
+[exhilarating]exhilarating (EN) : (p.) radosny
+[exhilaration]exhilaration (EN) : (rz.) euforia; (rz.) podekscytowanie; (rz.) radość; (rz.) rausz; (rz.) rozradowanie; (rz.) rozweselenie
+[exhort]exhort (EN) : (cz.) namawiać; (cz.) napominać; (cz.) nawoływać; (cz.) popierać; (cz.) upominać
+[exhortation]exhortation (EN) : (rz.) napomnienie; (rz.) upomnienie
+[exhumation]exhumation (EN) : (rz.) ekshumacja
+[exhume]exhume (EN) : (cz.) ekshumować
+[exigency]exigency (EN) : (rz.) ostateczność; (rz.) potrzeba
+[exiguity]exiguity (EN) : (rz.) ciasnota; (rz.) szczupłość
+[exiguous]exiguous (EN) : (p.) szczupły; (p.) znikomy
+[exile]exile (EN) : (cz.) wygnać; (rz.) banicja; (rz.) banita; (rz.) emigracja; (rz.) obczyzna; (rz.) tułactwo; (rz.) uchodźca; (rz.) uchodźstwo; (rz.) wygnanie; (rz.) wygnaniec; (rz.) zesłanie; (rz.) zesłaniec; (rz.) zsyłka
+[exist]exist (EN) : (cz.) bytować; (cz.) egzystować; (cz.) istnieć; (cz.) zaistnieć; (cz.) żyć
+[existence]existence (EN) : (rz.) byt; (rz.) egzystencja; (rz.) istnienie; (rz.) życie
+[existential]existential (EN) : (p.) egzystencjalny
+[existentialism]existentialism (EN) : (rz.) egzystencjalizm
+[existentialist]existentialist (EN) : (rz.) egzystencjalista
+[exit]exit (EN) : (cz.) opuścić; (cz.) opuszczać; (cz.) wyjść; (cz.) zakończyć; (cz.) zjechać; (rz.) odejście; (rz.) wyjazd; (rz.) wyjście; (rz.) wyłaz; (rz.) wylot; (rz.) wyprowadzenie; (rz.) zjazd
+[exodus]exodus (EN) : (rz.) exodus
+[exogamous]exogamous (EN) : (p.) egzogamiczny
+[exogamy]exogamy (EN) : (rz.) egzogamia
+[exogenous]exogenous (EN) : (p.) egzogenny
+[exonerate]exonerate (EN) : (cz.) uniewinniać; (cz.) uniewinnić; (cz.) usprawiedliwiać; (cz.) usprawiedliwić
+[exoneration]exoneration (EN) : (rz.) uwolnienie
+[exorbitance]exorbitance (EN) : (rz.) zdzierstwo
+[exorbitant]exorbitant (EN) : (p.) nadmierny; (p.) przesadny; (p.) wygórowany
+[exorcise]exorcise (EN) : (cz.) egzorcyzmować
+[exorcism]exorcism (EN) : (rz.) egzorcyzm; (rz.) zaklęcie
+[exorcist]exorcist (EN) : (rz.) egzorcysta; (rz.) zaklinacz
+[exorcize]exorcize (EN) : (cz.) egzorcyzmować; (cz.) usuwać; (cz.) zaklinać
+[exordium]exordium (EN) : (rz.) dodatek; (rz.) początek; (rz.) wstęp
+[exosphere]exosphere (EN) : (rz.) egzosfera
+[exoteric]exoteric (EN) : (p.) egzoteryczny
+[exothermic]exothermic (EN) : (p.) egzotermiczny
+[exotic]exotic (EN) : (p.) egzotyczny; (rz.) egzotyk; (rz.) egzotyka; (rz.) egzotyzm
+[exotically]exotically (EN) : (p-sł.) egzotycznie
+[exoticism]exoticism (EN) : (rz.) egzotyka
+[exoticisms]exoticisms (EN) : (rz.) egzotyk
+[expand]expand (EN) : (cz.) pęcznieć; (cz.) poszerzać; (cz.) poszerzyć; (cz.) powiększać; (cz.) rozbudować; (cz.) rozepchać; (cz.) rozeprzeć; (cz.) rozpęczać; (cz.) rozprzestrzeniać; (cz.) rozszerzać; (cz.) roztłaczać; (cz.) rozwijać
+[expandability]expandability (EN) : (rz.) rozszerzalność
+[expandable]expandable (EN) : (p.) elastyczny; (p.) rozkładany; (p.) rozszerzalny; (p.) rozwijalny
+[expander]expander (EN) : (rz.) ekspander; (rz.) rozprężacz; (rz.) rozprężarka; (rz.) rozszerzenie
+[expanders]expanders (EN) : (rz.) rozprężarka
+[expanse]expanse (EN) : (rz.) obszar; (rz.) powierzchnia; (rz.) przestrzeń; (rz.) przestwór; (rz.) przestworze
+[expansibility]expansibility (EN) : (rz.) ekspansywność
+[expansible]expansible (EN) : (p.) rozciągliwy; (p.) rozszerzalny
+[expansion]expansion (EN) : (rz.) ekspansja; (rz.) pęcznienie; (rz.) powiększenie; (rz.) rozbudowa; (rz.) rozkład; (rz.) rozprzestrzenienie; (rz.) rozszerzalność; (rz.) rozszerzanie; (rz.) rozwinięcie; (rz.) rozwój; (rz.) wzrost; (rz.) zwiększanie
+[expansionism]expansionism (EN) : (rz.) ekspansjonizm
+[expansionist]expansionist (EN) : (rz.) ekspansjonista
+[expansive]expansive (EN) : (p.) ekspansywny; (p.) rozległy
+[expansively]expansively (EN) : (p-sł.) ekspansywnie; (p-sł.) wylewnie
+[expansiveness]expansiveness (EN) : (rz.) ekspansywność; (rz.) wylewność
+[expatiate]expatiate (EN) : (cz.) pokutować
+[expatriate]expatriate (EN) : (cz.) ekspatriować; (rz.) uchodźca
+[expatriation]expatriation (EN) : (rz.) ekspatriacja
+[expect]expect (EN) : (cz.) czekać; (cz.) oczekiwać; (cz.) przypuszczać; (cz.) spodziewać; (cz.) usługiwać
+[expectancy]expectancy (EN) : (rz.) nadzieja; (rz.) perspektywa
+[expectantly]expectantly (EN) : (p-sł.) niecierpliwie; (p-sł.) wyczekująco
+[expectation]expectation (EN) : (rz.) nadzieja; (rz.) przewidywanie; (rz.) wyczekiwanie
+[expected]expected (EN) : (cz.) oczekiwać; (cz.) spodziewać
+[expectorate]expectorate (EN) : (cz.) wykrztusić; (cz.) wypluć
+[expectoration]expectoration (EN) : (rz.) odkrztuszanie; (rz.) plwocina; (rz.) wykrztuszenie
+[expedience]expedience (EN) : (rz.) dostosowanie; (rz.) korzyść; (rz.) oportunizm; (rz.) praktyczność; (rz.) stosowność
+[expediency]expediency (EN) : (rz.) dostosowanie; (rz.) korzyść; (rz.) oportunizm; (rz.) praktyczność; (rz.) stosowność
+[expedient]expedient (EN) : (p.) celowy; (p.) korzystny; (p.) stosowny; (p.) wygodny; (rz.) zabieg
+[expediently]expediently (EN) : (p-sł.) korzystnie; (p-sł.) stosownie
+[expedite]expedite (EN) : (cz.) przyspieszać; (p.) szybki
+[expedition]expedition (EN) : (rz.) ekspedycja; (rz.) szybkość; (rz.) wyprawa; (rz.) zręczność
+[expeditionary]expeditionary (EN) : (p.) ekspedycyjny
+[expeditious]expeditious (EN) : (p.) pośpieszny; (p.) szybki; (p.) zręczny
+[expel]expel (EN) : (cz.) wydalać; (cz.) wydalić; (cz.) wyganiać; (cz.) wygnać; (cz.) wypędzać; (cz.) wypędzić
+[expellee]expellee (EN) : (rz.) wygnaniec
+[expend]expend (EN) : (cz.) wydatkować; (cz.) wydawać; (cz.) zużywać
+[expendable]expendable (EN) : (p.) zbędny
+[expenditure]expenditure (EN) : (rz.) nakład; (rz.) rozchód; (rz.) wydatek; (rz.) wydatkowanie
+[expense]expense (EN) : (rz.) koszt; (rz.) rozchód; (rz.) rozchody; (rz.) wydatek
+[expenses]expenses (EN) : (rz.) wydatki
+[expensive]expensive (EN) : (p.) drogi; (p.) kosztowny
+[expensively]expensively (EN) : (p-sł.) drogo; (p-sł.) kosztownie
+[experience]experience (EN) : (cz.) doświadczać; (cz.) doświadczyć; (cz.) doznać; (cz.) doznawać; (cz.) przezywać; (cz.) przeżywać; (rz.) doświadczenie; (rz.) doznanie; (rz.) praktyka; (rz.) przeżycie; (rz.) przygoda; (rz.) rutyna
+[experienced]experienced (EN) : (p.) doświadczony; (p.) wprawny
+[experiment]experiment (EN) : (cz.) doświadczać; (cz.) eksperymentować; (rz.) doświadczenie; (rz.) eksperyment; (rz.) eksperymentowanie; (rz.) próba
+[experimental]experimental (EN) : (p.) doświadczalny; (p.) eksperymentalny
+[experimentalist]experimentalist (EN) : (rz.) eksperymentator
+[experimentally]experimentally (EN) : (p-sł.) doświadczalnie; (p-sł.) eksperymentalnie
+[experimentation]experimentation (EN) : (rz.) eksperymentowanie
+[experimenter]experimenter (EN) : (rz.) eksperymentator
+[expert]expert (EN) : (p.) biegły; (p.) doświadczony; (p.) ekspertowy; (p.) umiejętny; (p.) wprawny; (rz.) doradztwo; (rz.) ekspert; (rz.) fachowiec; (rz.) rzeczoznawca; (rz.) specjalista; (rz.) znawca
+[expertise]expertise (EN) : (rz.) doświadczenie; (rz.) ekspertyza; (rz.) fachowość; (rz.) umiejętność; (rz.) wiedza
+[expertly]expertly (EN) : (p-sł.) biegle; (p-sł.) fachowo; (p-sł.) wprawnie
+[expiate]expiate (EN) : (cz.) odcierpieć; (cz.) odpokutować; (cz.) pokutować
+[expiation]expiation (EN) : (rz.) ekspiacja; (rz.) odkupienie; (rz.) pokuta
+[expiatory]expiatory (EN) : (p.) ekspiacyjny; (p.) pokutniczy
+[expiration]expiration (EN) : (rz.) ekspiracja; (rz.) koniec; (rz.) przedawnienie; (rz.) śmierć; (rz.) upłynięcie; (rz.) upływ; (rz.) wydech; (rz.) wydychanie; (rz.) wygaśnięcie
+[expiratory]expiratory (EN) : (p.) wydechowy
+[expire]expire (EN) : (cz.) przedawnić; (cz.) przekraczać; (cz.) przeterminować; (cz.) skonać; (cz.) umierać; (cz.) upływać; (cz.) wydychać; (cz.) wygasać
+[expiry]expiry (EN) : (rz.) upłynięcie; (rz.) wyga; (rz.) wygaśnięcie
+[explain]explain (EN) : (cz.) naświetlać; (cz.) objaśniać; (cz.) objaśnić; (cz.) tłumaczyć; (cz.) wyjaśniać; (cz.) wyjaśnić; (cz.) wytłumaczyć
+[explainable]explainable (EN) : (p.) wytłumaczalny
+[explained]explained (EN) : (cz.) wytłumaczyć
+[explanation]explanation (EN) : (rz.) objaśnienie; (rz.) wyjaśnienie; (rz.) wytłumaczenie
+[explanatory]explanatory (EN) : (p.) objaśniający
+[expletive]expletive (EN) : (rz.) wykrzyknik
+[explicable]explicable (EN) : (p.) wytłumaczalny
+[explicit]explicit (EN) : (p.) jasny; (p.) jawny; (p.) wyraźny
+[explicitly]explicitly (EN) : (p-sł.) jawnie; (p-sł.) wyraźnie
+[explicitness]explicitness (EN) : (rz.) dosadność
+[explode]explode (EN) : (cz.) eksplodować; (cz.) obalać; (cz.) obalić; (cz.) rozsadzać; (cz.) wybuchać; (cz.) wybuchnąć; (cz.) wysadzać; (cz.) wysadzić; (cz.) zdetonować
+[exploder]exploder (EN) : (rz.) pobudzacz; (rz.) zapalarka
+[exploit]exploit (EN) : (cz.) eksploatować; (cz.) wydobywać; (cz.) wykorzystać; (cz.) wyzyskiwać; (rz.) nadużycie; (rz.) wyczyn
+[exploitation]exploitation (EN) : (rz.) eksploatacja; (rz.) wyzysk
+[exploiter]exploiter (EN) : (rz.) eksploatator; (rz.) wydobywca; (rz.) wyzyskiwacz
+[exploiters]exploiters (EN) : (rz.) eksploatator
+[exploration]exploration (EN) : (rz.) badanie; (rz.) eksploracja; (rz.) odkrywanie; (rz.) poszukiwanie; (rz.) zgłębianie
+[explorative]explorative (EN) : (p.) odkrywczy; (p.) orientacyjny
+[exploratory]exploratory (EN) : (p.) badawczy; (p.) odkrywczy; (p.) sondażowy
+[explore]explore (EN) : (cz.) analizować; (cz.) badać; (cz.) eksplorować; (cz.) zbadać; (cz.) zgłębiać; (cz.) zgłębić
+[explorer]explorer (EN) : (rz.) badacz; (rz.) eksplorator; (rz.) odkrywca; (rz.) szperacz; (rz.) wyszukiwarka
+[explosion]explosion (EN) : (rz.) detonacja; (rz.) eksplozja; (rz.) huk; (rz.) wybuch
+[explosion-proof]explosion-proof (EN) : (p.) przeciwwybuchowy
+[explosive]explosive (EN) : (p.) eksplozyjny; (p.) wybuchowy
+[explosively]explosively (EN) : (p-sł.) gwałtownie; (p-sł.) wybuchowo
+[expo]expo (EN) : (rz.) wystawa
+[exponent]exponent (EN) : (rz.) interpretator; (rz.) przedstawiciel; (rz.) wykładnik; (rz.) wyraziciel
+[exponential]exponential (EN) : (p.) wykładniczy
+[exponentially]exponentially (EN) : (p-sł.) ekspotencjalnie; (p-sł.) wykładniczo
+[exponentials]exponentials (EN) : (p.) wykładniczy
+[export]export (EN) : (cz.) eksportować; (cz.) wyeksportować; (cz.) wywieźć; (cz.) wywozić; (rz.) eksport; (rz.) wysyłanie; (rz.) wywóz
+[exportation]exportation (EN) : (rz.) eksportacja; (rz.) wywóz
+[exporter]exporter (EN) : (rz.) eksporter
+[expose]expose (EN) : (cz.) demaskować; (cz.) napromieniać; (cz.) narażać; (cz.) narazić; (cz.) naświetlać; (cz.) odsłaniać; (cz.) udostępniać; (cz.) ujawniać; (cz.) ujawnić; (cz.) ułatwiać; (cz.) wyeksponować; (cz.) wystawiać; (cz.) zdemaskować; (cz.) wystawiać
+[exposition]exposition (EN) : (rz.) ekspozycja; (rz.) naświetlenie; (rz.) przedstawienie; (rz.) wyjaśnienie; (rz.) wykład; (rz.) wystawa
+[exposure]exposure (EN) : (rz.) demitologizacja; (rz.) ekspozycja; (rz.) narażenie; (rz.) naświetlanie; (rz.) obnażenie; (rz.) odsłonięcie; (rz.) podleganie; (rz.) ujawnianie; (rz.) ujawnienie; (rz.) wystawa; (rz.) wystawienie; (rz.) zdemaskowanie
+[expound]expound (EN) : (cz.) objaśniać; (cz.) tłumaczyć; (cz.) wyjaśniać; (cz.) wyjaśnić; (cz.) wyłożyć
+[express]express (EN) : (cz.) wyrażać; (cz.) wyrazić; (p.) ekspresowy; (p.) szybkostrzelny; (p.) wyraźny; (rz.) ekspres
+[expressible]expressible (EN) : (p.) wyrażalny
+[expression]expression (EN) : (rz.) ekspresja; (rz.) formułka; (rz.) mina; (rz.) sformułowanie; (rz.) ujęcie; (rz.) wyraz; (rz.) wyrażanie; (rz.) wyrażenie; (rz.) wysłowienie; (rz.) zwrot
+[expressionism]expressionism (EN) : (rz.) ekspresjonizm
+[expressionist]expressionist (EN) : (rz.) ekspresjonista
+[expressionless]expressionless (EN) : (p.) bezwyrazowy
+[expressive]expressive (EN) : (p.) dobitny; (p.) ekspresyjny; (p.) ekspresywny; (p.) wyrazisty
+[expressively]expressively (EN) : (p-sł.) wyraziście
+[expressiveness]expressiveness (EN) : (rz.) ekspresyjność; (rz.) ekspresywność; (rz.) wyrazistość
+[expressivity]expressivity (EN) : (rz.) wyrazistość
+[expressly]expressly (EN) : (p-sł.) kategorycznie; (p-sł.) wyraźnie
+[expressway]expressway (EN) : (rz.) autostrada
+[expropriate]expropriate (EN) : (cz.) wywłaszczać; (cz.) zająć; (cz.) zawłaszczać
+[expropriation]expropriation (EN) : (rz.) ekspropriacja; (rz.) wywłaszczanie; (rz.) wywłaszczenie; (rz.) zagarnięcie
+[expulsion]expulsion (EN) : (rz.) eksmisja; (rz.) usuwanie; (rz.) wydalanie; (rz.) wydalenie; (rz.) wygnanie; (rz.) wypędzenie
+[expunge]expunge (EN) : (cz.) skasować; (cz.) wykreślić; (cz.) wymazywać
+[expurgate]expurgate (EN) : (cz.) oczyszczać; (cz.) okrajać; (cz.) okroić
+[expurgation]expurgation (EN) : (rz.) oczyszczanie; (rz.) okrawanie
+[exquisite]exquisite (EN) : (p.) delikatny; (p.) główny; (p.) kapitalny; (p.) przepiękny; (p.) wyborny; (p.) wykwintny; (p.) wyśmienity; (p.) wytworny; (p.) znakomity
+[exquisitely]exquisitely (EN) : (p-sł.) nienagannie; (p-sł.) wybornie; (p-sł.) wykwintnie; (p-sł.) znakomicie
+[exsiccate]exsiccate (EN) : (cz.) osuszać; (cz.) suszyć
+[extemporaneously]extemporaneously (EN) : (p-sł.) doraźnie
+[extemporize]extemporize (EN) : (cz.) improwizować; (cz.) zaimprowizować
+[extend]extend (EN) : (cz.) objąć; (cz.) poszerzyć; (cz.) powiększać; (cz.) powiększyć; (cz.) przedłużać; (cz.) rozciągać; (cz.) rozszerzać; (cz.) rozszerzyć
+[extendable]extendable (EN) : (p.) rozszerzalny
+[extended]extended (EN) : (p.) poszerzony; (p.) rozszerzony; (p.) wzbogacony
+[extender]extender (EN) : (rz.) napełniacz; (rz.) obciążacz; (rz.) przedłużacz; (rz.) rozcieńczalnik; (rz.) wypełniacz
+[extendible]extendible (EN) : (p.) rozstawny; (p.) rozszerzalny
+[extensibility]extensibility (EN) : (rz.) rozciągliwość; (rz.) rozszerzalność
+[extensible]extensible (EN) : (p.) rozciągliwy; (p.) rozszerzalny
+[extension]extension (EN) : (rz.) dobudówka; (rz.) ekstensja; (rz.) nadbudówka; (rz.) poszerzenie; (rz.) prolongata; (rz.) przedłużacz; (rz.) przedłużenie; (rz.) rozbudowa; (rz.) rozciągniecie; (rz.) rozciągnięcie; (rz.) rozszerzenie; (rz.) wydłużanie; (rz.) wydłużenie
+[extensionality]extensionality (EN) : (rz.) ekstensjonalność
+[extensive]extensive (EN) : (p.) ekstensywny; (p.) obszerny; (p.) rozległy; (p.) szczegółowy
+[extensively]extensively (EN) : (p-sł.) obszernie; (p-sł.) rozlegle
+[extensor]extensor (EN) : (rz.) prostownik
+[extent]extent (EN) : (rz.) obszar; (rz.) oszacowanie; (rz.) rozciągłość; (rz.) rozległość; (rz.) rozmiar; (rz.) stopień; (rz.) zakres; (rz.) zasięg
+[extenuate]extenuate (EN) : (cz.) łagodzić; (cz.) osłabiać; (cz.) pomniejszać; (cz.) umniejszać; (cz.) zmniejszać
+[extenuation]extenuation (EN) : (rz.) pomniejszenie; (rz.) zmniejszenie
+[exterior]exterior (EN) : (p.) zewnętrzny; (rz.) eksterier; (rz.) fasada; (rz.) powierzchowność
+[exterminate]exterminate (EN) : (cz.) eksterminować; (cz.) niszczyć; (cz.) tępić; (cz.) trzebić; (cz.) wyniszczyć; (cz.) wytępiać; (cz.) wytępić
+[extermination]extermination (EN) : (rz.) eksterminacja; (rz.) wytępienie; (rz.) zagłada
+[exterminator]exterminator (EN) : (rz.) tępiciel
+[exterminatory]exterminatory (EN) : (p.) eksterminacyjny
+[extern]extern (EN) : (rz.) ekstern; (rz.) eksternista
+[external]external (EN) : (p.) transcendentny; (p.) zewnętrzny
+[externalise]externalise (EN) : (cz.) uzewnętrznić
+[externally]externally (EN) : (p-sł.) pozornie; (p-sł.) zewnętrznie
+[exterritorial]exterritorial (EN) : (p.) eksterytorialny
+[extinct]extinct (EN) : (p.) wygasły; (p.) wymarły
+[extinction]extinction (EN) : (rz.) gaśniecie; (rz.) ugaszenie; (rz.) upływ; (rz.) wygaśnięcie; (rz.) wygaszanie; (rz.) wygaszenie; (rz.) wyginięcie; (rz.) wymarcie; (rz.) zanik
+[extinguish]extinguish (EN) : (cz.) gasić; (cz.) kasować; (cz.) tłumić; (cz.) ugasić; (cz.) ugaszać; (cz.) uśmierzać; (cz.) wygasić; (cz.) wygaszać; (cz.) wytępić; (cz.) zgasić; (cz.) zniszczyć
+[extinguisher]extinguisher (EN) : (rz.) gaśnica
+[extinguishing]extinguishing (EN) : (rz.) wygaszenie
+[extirpate]extirpate (EN) : (cz.) wykorzeniać; (cz.) wykorzenić; (cz.) wyniszczyć; (cz.) wytępić
+[extirpation]extirpation (EN) : (rz.) trzebież; (rz.) wykorzenienie
+[extirpator]extirpator (EN) : (rz.) ekstyrpator
+[extol]extol (EN) : (cz.) rozsławić; (cz.) wychwalać; (cz.) wynosić
+[extort]extort (EN) : (cz.) wydrzeć; (cz.) wydusić; (cz.) wymuszać
+[extortion]extortion (EN) : (rz.) wydzieranie; (rz.) wymuszanie; (rz.) wymuszenie
+[extra]extra (EN) : (p.) dodatkowy; (p.) luksusowy; (p.) nadzwyczajny; (p.) oddzielny; (p.) ponadplanowy; (p.) specjalny; (p-sł.) dodatkowo; (p-sł.) ekstra; (p-sł.) oddzielnie; (rz.) dodatek; (rz.) dopłata; (rz.) statysta
+[extra-territorial]extra-territorial (EN) : (p.) eksterytorialny
+[extract]extract (EN) : (cz.) ekstrahować; (cz.) uzyskać; (cz.) wyciągać; (cz.) wydobyć; (cz.) wydobywać; (cz.) wyłudzać; (cz.) wyłudzić; (cz.) wyodrębniać; (cz.) wyodrębnić; (cz.) wypruć; (cz.) wyrwać; (cz.) wyrywać
+[extraction]extraction (EN) : (rz.) ekskrecja; (rz.) ekstrahowanie; (rz.) ekstrakcja; (rz.) miodobranie; (rz.) odprowadzenie; (rz.) pochodzenie; (rz.) rozpakowywanie; (rz.) wydobycie; (rz.) wydobywanie; (rz.) wydzielanie; (rz.) wyjęcie; (rz.) wyrwanie
+[extractor]extractor (EN) : (rz.) ekstraktor; (rz.) wyciąg
+[extracurricular]extracurricular (EN) : (p.) ponadprogramowy
+[extradite]extradite (EN) : (cz.) ekstradować; (cz.) wydać
+[extradition]extradition (EN) : (rz.) ekstradycja; (rz.) wydanie
+[extragalactic]extragalactic (EN) : (p.) pozagalaktyczny
+[extramarital]extramarital (EN) : (p.) pozamałżeński
+[extramural]extramural (EN) : (p.) eksternistyczny; (p.) pozauniwersytecki; (p.) zaoczny
+[extraneous]extraneous (EN) : (p.) obcy; (p.) uboczny
+[extranet]extranet (EN) : (rz.) ekstranet
+[extraordinarily]extraordinarily (EN) : (p-sł.) nadzwyczajnie; (p-sł.) niezwykle; (p-sł.) zadziwiająco
+[extraordinariness]extraordinariness (EN) : (rz.) nadzwyczajność; (rz.) niezwykłość
+[extraordinary]extraordinary (EN) : (p.) nadzwyczajny; (p.) niesamowity; (p.) nietuzinkowy; (p.) niezmierny; (p.) niezwykły
+[extrapolate]extrapolate (EN) : (cz.) ekstrapolować
+[extrapolated]extrapolated (EN) : (cz.) ekstrapolować
+[extrapolation]extrapolation (EN) : (rz.) ekstrapolacja
+[extraprofessional]extraprofessional (EN) : (p.) pozazawodowy
+[extrasensory]extrasensory (EN) : (p.) pozazmysłowy
+[extraterrestrial]extraterrestrial (EN) : (p.) pozaziemski; (rz.) kosmita
+[extraterritorial]extraterritorial (EN) : (p.) eksterytorialny
+[extraterritoriality]extraterritoriality (EN) : (rz.) eksterytorialność
+[extravagance]extravagance (EN) : (rz.) ekstrawagancja; (rz.) przesada; (rz.) rozrzutność
+[extravagant]extravagant (EN) : (p.) dziwaczny; (p.) ekstrawagancki; (p.) lekkomyślny; (p.) marnotrawny; (p.) nadmierny; (p.) nowatorski; (p.) przesadny; (p.) rozrzutny; (p.) wystawny
+[extravagantly]extravagantly (EN) : (p-sł.) ekstrawagancko; (p-sł.) luksusowo; (p-sł.) nadmiernie; (p-sł.) rozrzutnie
+[extravaganza]extravaganza (EN) : (rz.) ekstrawagancja; (rz.) fantazja
+[extraversion]extraversion (EN) : (rz.) ekstrawersja
+[extravert]extravert (EN) : (rz.) ekstrawertyk
+[extreme]extreme (EN) : (p.) ekstremalny; (p.) krańcowy; (p.) niepomierny; (p.) ostateczny; (p.) skrajny; (rz.) ekstremalność; (rz.) ekstremizm; (rz.) ekstremum; (rz.) krańcowość; (rz.) kraniec; (rz.) ostateczność; (rz.) skrajność; (rz.) temperatura
+[extremely]extremely (EN) : (p-sł.) bajecznie; (p-sł.) bezgranicznie; (p-sł.) ekstremalnie; (p-sł.) krańcowo; (p-sł.) nadzwyczaj; (p-sł.) nadzwyczajnie; (p-sł.) niebywale; (p-sł.) niesłychanie; (p-sł.) niezmiernie; (p-sł.) niezwykle; (p-sł.) ogromnie; (p-sł.) skrajnie; (p-sł.) szalenie; (p-sł.) uprzedzająco; (p-sł.) wybitnie; (p-sł.) wyjątkowo; (p-sł.) wysoce
+[extremeness]extremeness (EN) : (rz.) krańcowość
+[extremism]extremism (EN) : (rz.) ekstremizm
+[extremist]extremist (EN) : (rz.) ekstremista
+[extremity]extremity (EN) : (rz.) kończyna; (rz.) koniec; (rz.) ostateczność; (rz.) skrajność
+[extricate]extricate (EN) : (cz.) wyplątać; (cz.) wywikłać; (cz.) wyzwalać; (cz.) wyzwolić
+[extrication]extrication (EN) : (rz.) oddzielenie
+[extrinsic]extrinsic (EN) : (p.) zewnętrzny
+[extroversion]extroversion (EN) : (rz.) ekstrawersja
+[extrovert]extrovert (EN) : (rz.) ekstrawertyk
+[extrude]extrude (EN) : (cz.) wyciskać; (cz.) wypychać; (cz.) wytłaczać
+[extruder]extruder (EN) : (rz.) wytłaczarka
+[extrusion]extrusion (EN) : (rz.) ekstruzja; (rz.) wyciskanie; (rz.) wytłaczanie
+[exuberance]exuberance (EN) : (rz.) bujność; (rz.) obfitość; (rz.) wylewność; (rz.) zbytek
+[exuberant]exuberant (EN) : (p.) bujny; (p.) obfity; (p.) płodny
+[exuberantly]exuberantly (EN) : (p-sł.) bujnie
+[exudation]exudation (EN) : (rz.) wyciekanie; (rz.) wypacanie; (rz.) wysięk
+[exude]exude (EN) : (cz.) wydzielać; (cz.) wydzielić
+[exult]exult (EN) : (cz.) radować; (cz.) triumfować; (cz.) uradować
+[exultation]exultation (EN) : (rz.) triumf; (rz.) uniesienie
+[eye]eye (EN) : (cz.) patrzeć; (cz.) przypatrywać; (cz.) wpatrywać; (rz.) oczko; (rz.) oko; (rz.) ślepie
+[eye-piece]eye-piece (EN) : (p.) okularowy; (rz.) okular
+[eye-tooth]eye-tooth (EN) : (rz.) kieł
+[eyebrow]eyebrow (EN) : (rz.) brew; (rz.) brwi
+[eyedropper]eyedropper (EN) : (rz.) zakraplacz
+[eyeglass]eyeglass (EN) : (rz.) monokl; (rz.) soczewka
+[eyeglasses]eyeglasses (EN) : (rz.) binokle; (rz.) okulary
+[eyehole]eyehole (EN) : (rz.) wziernik
+[eyelash]eyelash (EN) : (rz.) rzęsa
+[eyelet]eyelet (EN) : (rz.) oczko; (rz.) otworek; (rz.) remizka
+[eyelid]eyelid (EN) : (rz.) powieka
+[eyeliner]eyeliner (EN) : (rz.) konturówka
+[eyepiece]eyepiece (EN) : (rz.) okular
+[eyes]eyes (EN) : (rz.) binokle; (rz.) oczy
+[eyesight]eyesight (EN) : (rz.) wzrok
+[eyesore]eyesore (EN) : (rz.) brzydactwo; (rz.) brzydota; (rz.) szkarada
+[eyewash]eyewash (EN) : (rz.) oszustwo

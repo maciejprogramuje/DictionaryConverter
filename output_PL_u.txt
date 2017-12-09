@@ -1,0 +1,1265 @@
+[u-rurka]U-rurka (PL) : (rz.) u-tube
+[urszula]Urszula (PL) : (rz.) Ursula
+[u]u (PL) : (p-im.) at; (p-im.) on; (p-im.) upon; (p-im.) with
+[uaktualniac]uaktualniać (PL) : (cz.) update; (cz.) upgrade
+[uaktualnienie]uaktualnienie (PL) : (rz.) update
+[uaktualnic]uaktualnić (PL) : (cz.) upgrade
+[uaktywniac]uaktywniać (PL) : (cz.) activated; (cz.) revitalize
+[uaktywnic]uaktywnić (PL) : (cz.) activate
+[uargumentowac]uargumentować (PL) : (cz.) plead
+[ubabrac]ubabrać (PL) : (cz.) dirty
+[ubarwienie]ubarwienie (PL) : (rz.) colouration
+[ubaw]ubaw (PL) : (rz.) fun
+[ubawic]ubawić (PL) : (cz.) amuse
+[ubezpieczalnia]ubezpieczalnia (PL) : (rz.) insurance
+[ubezpieczac]ubezpieczać (PL) : (cz.) assure; (cz.) cover; (cz.) insure; (cz.) underwrite
+[ubezpieczenie]ubezpieczenie (PL) : (rz.) assertion; (rz.) assurance; (rz.) insurance
+[ubezpieczeniowy]ubezpieczeniowy (PL) : (p.) actuarial
+[ubezpieczyciel]ubezpieczyciel (PL) : (rz.) insurer; (rz.) underwriter
+[ubezpieczyc]ubezpieczyć (PL) : (cz.) ensure; (cz.) insure
+[ubezwlasnowolnienie]ubezwłasnowolnienie (PL) : (rz.) disability; (rz.) incapacitation; (rz.) restraints
+[ubezwlasnowolnic]ubezwłasnowolnić (PL) : (cz.) incapacitate
+[ubiczowac]ubiczować (PL) : (cz.) flagellate
+[ubiegac]ubiegać (PL) : (cz.) apply; (cz.) canvass; (cz.) contest; (cz.) request; (cz.) solicit
+[ubieralnia]ubieralnia (PL) : (rz.) dressing-room
+[ubieranie]ubieranie (PL) : (rz.) dressing
+[ubierac]ubierać (PL) : (cz.) attire; (cz.) clothe; (cz.) dress; (cz.) suit; (cz.) wear
+[ubijacz]ubijacz (PL) : (rz.) beetle; (rz.) rammer
+[ubijak]ubijak (PL) : (rz.) beater; (rz.) beetle; (rz.) compactor; (rz.) rammer
+[ubijanie]ubijanie (PL) : (rz.) beating
+[ubijarka]ubijarka (PL) : (rz.) compactor
+[ubijac]ubijać (PL) : (cz.) beat; (cz.) pun; (cz.) slaughter; (cz.) tamp; (cz.) whip; (cz.) whisk
+[ubikacja]ubikacja (PL) : (rz.) bathrooms; (rz.) lavatory; (rz.) loo; (rz.) toilet; (rz.) water-closet
+[ubior]ubiór (PL) : (rz.) attire; (rz.) clothes; (rz.) clothing; (rz.) costume; (rz.) dress; (rz.) garb; (rz.) habiliment; (rz.) suit
+[ubic]ubić (PL) : (cz.) kill; (cz.) tamp
+[ublizac]ubliżać (PL) : (cz.) disparage
+[ubocznie]ubocznie (PL) : (p-sł.) incidentally
+[uboczny]uboczny (PL) : (p.) accidental; (p.) adventitious; (p.) circumstantial; (p.) collateral; (p.) digressive; (p.) extraneous; (p.) incidental; (p.) peripheral
+[ubogacac]ubogacać (PL) : (cz.) enrich
+[ubogacic]ubogacić (PL) : (cz.) enrich
+[ubogi]ubogi (PL) : (p.) hungry; (p.) impecunious; (p.) lean; (p.) meagre; (p.) penurious; (p.) poky; (p.) poor; (p.) scanty
+[ubogo]ubogo (PL) : (p-sł.) meagrely; (p-sł.) poorly
+[ubojnia]ubojnia (PL) : (rz.) slaughterhouse
+[ubolewanie]ubolewanie (PL) : (rz.) condolence; (rz.) regret; (rz.) sympathy
+[ubolewac]ubolewać (PL) : (cz.) deplore; (cz.) grieve; (cz.) lament
+[ubrania]ubrania (PL) : (rz.) clothes
+[ubranie]ubranie (PL) : (rz.) attire; (rz.) cloth; (rz.) clothes; (rz.) clothing; (rz.) coat; (rz.) dress; (rz.) duds; (rz.) iron; (rz.) suit; (rz.) thing
+[ubrac]ubrać (PL) : (cz.) attire; (cz.) clothe; (cz.) invest; (cz.) wear
+[ubrudzenie]ubrudzenie (PL) : (rz.) muddying
+[ubrudzic]ubrudzić (PL) : (cz.) dirty
+[ubycie]ubycie (PL) : (rz.) loss; (rz.) wane
+[ubytek]ubytek (PL) : (rz.) cavity; (rz.) decrease; (rz.) decrement; (rz.) ebb; (rz.) lessening; (rz.) loss; (rz.) shrinkage; (rz.) wastage
+[ubywac]ubywać (PL) : (cz.) decrease; (cz.) diminish; (cz.) subside
+[uboj]ubój (PL) : (rz.) butchery; (rz.) slaughter
+[ubostwianie]ubóstwianie (PL) : (rz.) adoration; (rz.) deification
+[ubostwiac]ubóstwiać (PL) : (cz.) adore; (cz.) deify; (cz.) dote; (cz.) idolise; (cz.) idolize; (cz.) love; (cz.) worship
+[ubostwienie]ubóstwienie (PL) : (rz.) deification
+[ubostwo]ubóstwo (PL) : (rz.) bareness; (rz.) destitution; (rz.) penury; (rz.) poverty
+[ucapic]ucapić (PL) : (cz.) catch
+[ucalowanie]ucałowanie (PL) : (rz.) kiss
+[ucalowac]ucałować (PL) : (cz.) kiss
+[ucha]ucha (PL) : (rz.) ear
+[ucharakteryzowanie]ucharakteryzowanie (PL) : (rz.) characterization
+[ucharakteryzowac]ucharakteryzować (PL) : (cz.) disguise
+[uchatka]uchatka (PL) : (rz.) sea-lion
+[ucho]ucho (PL) : (rz.) cringle; (rz.) ear; (rz.) handle; (rz.) tab
+[uchodzenie]uchodzenie (PL) : (rz.) egression; (rz.) ooze; (rz.) passing
+[uchodzic]uchodzić (PL) : (cz.) bleed; (cz.) escape; (cz.) pass
+[uchodzca]uchodźca (PL) : (rz.) émigré; (rz.) exile; (rz.) expatriate; (rz.) refugee
+[uchodzstwo]uchodźstwo (PL) : (rz.) exile
+[uchowac]uchować (PL) : (cz.) escape
+[uchronienie]uchronienie (PL) : (rz.) preservation
+[uchronic]uchronić (PL) : (cz.) save
+[uchwalac]uchwalać (PL) : (cz.) carry; (cz.) decree; (cz.) pass; (cz.) vote
+[uchwalic]uchwalić (PL) : (cz.) adopt
+[uchwala]uchwała (PL) : (rz.) act; (rz.) credit; (rz.) decision; (rz.) resolution; (rz.) vote
+[uchwycenie]uchwycenie (PL) : (rz.) capturing; (rz.) seizing
+[uchwycic]uchwycić (PL) : (cz.) apprehend; (cz.) capture; (cz.) grasp; (cz.) grasped; (cz.) seize
+[uchwyt]uchwyt (PL) : (rz.) catching; (rz.) chuck; (rz.) clamper; (rz.) clip; (rz.) fang; (rz.) grasp; (rz.) grip; (rz.) handhold; (rz.) handle; (rz.) holder; (rz.) nip; (rz.) shank; (rz.) tag
+[uchwytem]uchwytem (PL) : (rz.) platter
+[uchwytny]uchwytny (PL) : (p.) attainable; (p.) audible; (p.) graspable; (p.) noticeable; (p.) perceptible; (p.) reachable; (p.) sensible; (p.) tangible
+[uchyb]uchyb (PL) : (rz.) deviation; (rz.) error; (rz.) offset
+[uchybiac]uchybiać (PL) : (cz.) offend
+[uchybienie]uchybienie (PL) : (rz.) default; (rz.) failure; (rz.) fault; (rz.) inadvertence; (rz.) inadvertency; (rz.) indiscretion; (rz.) lapse; (rz.) offence; (rz.) shortcoming; (rz.) solecism; (rz.) transgression
+[uchybic]uchybić (PL) : (cz.) fail; (cz.) offend
+[uchylanie]uchylanie (PL) : (rz.) avoidance; (rz.) evasion
+[uchylac]uchylać (PL) : (cz.) avoid; (cz.) boggle; (cz.) deactivate; (cz.) deviate; (cz.) disconnect; (cz.) evade; (cz.) flinch; (cz.) lift; (cz.) lurch; (cz.) overrule; (cz.) quash; (cz.) raise; (cz.) remove; (cz.) repeal; (cz.) revoke; (cz.) shirk
+[uchylenie]uchylenie (PL) : (rz.) annulling; (rz.) annulment; (rz.) derogation; (rz.) evasion; (rz.) repeal; (rz.) rescission; (rz.) reversal; (rz.) waiver
+[uchylic]uchylić (PL) : (cz.) defeat; (cz.) repealed; (cz.) waive
+[ucichac]ucichać (PL) : (cz.) subside
+[ucichniecie]ucichnięcie (PL) : (rz.) calm
+[ucichnac]ucichnąć (PL) : (cz.) hush
+[uciec]uciec (PL) : (rz.) escape
+[uciecha]uciecha (PL) : (rz.) delight; (rz.) enjoyment; (rz.) fun; (rz.) glee; (rz.) joy; (rz.) merriment; (rz.) merrymaking; (rz.) merry-making; (rz.) pleasance
+[ucieczka]ucieczka (PL) : (rz.) bolt; (rz.) elopement; (rz.) escape; (rz.) flight; (rz.) flit; (rz.) getaway; (rz.) recourse; (rz.) resort; (rz.) retreat; (rz.) scamper; (rz.) scud; (rz.) scurry; (rz.) scuttle
+[uciekanie]uciekanie (PL) : (rz.) recourse; (rz.) resort
+[uciekac]uciekać (PL) : (cz.) abscond; (cz.) appeal; (cz.) decamp; (cz.) defect; (cz.) elapse; (cz.) elope; (cz.) elude; (cz.) escape; (cz.) flee; (cz.) recur; (cz.) resort; (cz.) run; (cz.) scurry
+[uciekinier]uciekinier (PL) : (rz.) absconder; (rz.) defector; (rz.) deserter; (rz.) fugitive; (rz.) refugee; (rz.) runaway
+[ucielesniac]ucieleśniać (PL) : (cz.) embody; (cz.) encarnalize; (cz.) impersonate; (cz.) personify
+[ucielesnienie]ucieleśnienie (PL) : (rz.) embodiment; (rz.) epitome; (rz.) impersonation
+[ucielesnic]ucieleśnić (PL) : (cz.) incorporate; (cz.) materialize
+[uciemiezac]uciemiężać (PL) : (cz.) burden; (cz.) burthen; (cz.) oppress
+[ucieraczka]ucieraczka (PL) : (rz.) snuffer
+[ucieranie]ucieranie (PL) : (rz.) grating
+[ucierac]ucierać (PL) : (cz.) mix; (cz.) pound
+[ucierpiec]ucierpieć (PL) : (cz.) suffered
+[ucieszny]ucieszny (PL) : (p.) droll; (p.) funny
+[ucieszyc]ucieszyć (PL) : (cz.) cheer; (cz.) gratify
+[ucinanie]ucinanie (PL) : (rz.) cut; (rz.) cutting
+[ucinac]ucinać (PL) : (cz.) cut; (cz.) decapitate; (cz.) nip
+[ucisk]ucisk (PL) : (rz.) constriction; (rz.) embrace; (rz.) oppression; (rz.) oppressiveness; (rz.) pinch; (rz.) pressure; (rz.) repression
+[uciskajacy]uciskający (PL) : (p.) oppressive
+[uciskanie]uciskanie (PL) : (rz.) constriction; (rz.) pressing
+[uciskac]uciskać (PL) : (cz.) constrict; (cz.) oppress; (cz.) press; (cz.) quell; (cz.) repress; (cz.) screw
+[uciszac]uciszać (PL) : (cz.) calm; (cz.) hush; (cz.) quieten; (cz.) silence; (cz.) silenced; (cz.) subside
+[uciszenie]uciszenie (PL) : (rz.) appeasement; (rz.) silence
+[uciszyc]uciszyć (PL) : (cz.) allay; (cz.) appease; (cz.) calm; (cz.) hush; (cz.) silence
+[uciulac]uciułać (PL) : (cz.) save
+[uciac]uciąć (PL) : (cz.) curtail; (cz.) cut
+[uciazliwosc]uciążliwość (PL) : (rz.) arduousness
+[uciazliwy]uciążliwy (PL) : (p.) acute; (p.) awkward; (p.) burdensome; (p.) cumbersome; (p.) inconvenient; (p.) onerous; (p.) oppressive; (p.) troublesome; (p.) uphill
+[ucywilizowanie]ucywilizowanie (PL) : (rz.) domestication
+[ucywilizowac]ucywilizować (PL) : (cz.) civilize
+[uczciwie]uczciwie (PL) : (p-sł.) fair; (p-sł.) fairly; (p-sł.) honestly; (p-sł.) uprightly
+[uczciwosc]uczciwość (PL) : (rz.) candour; (rz.) earnestness; (rz.) honesty; (rz.) integrity; (rz.) rectitude
+[uczciwy]uczciwy (PL) : (p.) aboveboard; (p.) clean-handed; (p.) fair; (p.) faithful; (p.) honest; (p.) honourable; (p.) outright; (p.) round; (p.) straight; (p.) upright
+[uczcic]uczcić (PL) : (cz.) celebrate; (cz.) commemorate; (cz.) dignify
+[uczczenie]uczczenie (PL) : (rz.) celebration
+[uczelnia]uczelnia (PL) : (rz.) academy; (rz.) college; (rz.) school; (rz.) university
+[uczenie]uczenie (PL) : (p-sł.) learnedly
+[uczennica]uczennica (PL) : (rz.) scholar; (rz.) schoolgirl
+[uczep]uczep (PL) : (rz.) hitch
+[uczepic]uczepić (PL) : (cz.) hitch
+[uczesanie]uczesanie (PL) : (rz.) dressing; (rz.) hairdo; (rz.) hair-do; (rz.) hairstyle
+[uczesac]uczesać (PL) : (cz.) comb
+[uczestnictwo]uczestnictwo (PL) : (rz.) entry; (rz.) participation
+[uczestniczyc]uczestniczyć (PL) : (cz.) enter; (cz.) part; (cz.) partake; (cz.) participate; (cz.) partook; (cz.) share
+[uczestnik]uczestnik (PL) : (rz.) attendee; (rz.) competitor; (rz.) contender; (rz.) contestant; (rz.) partaker; (rz.) participant; (rz.) participator; (rz.) partner; (rz.) party
+[uczen]uczeń (PL) : (rz.) apprentice; (rz.) disciple; (rz.) learner; (rz.) pupil; (rz.) scholar; (rz.) schoolboy; (rz.) schoolchild; (rz.) student
+[uczniak]uczniak (PL) : (rz.) schoolboy
+[uczonosc]uczoność (PL) : (rz.) learning; (rz.) scholarship
+[uczta]uczta (PL) : (rz.) banquet; (rz.) feast; (rz.) regale; (rz.) revel; (rz.) revelry; (rz.) treat; (rz.) wassail
+[ucztowanie]ucztowanie (PL) : (rz.) revelry
+[ucztowac]ucztować (PL) : (cz.) banquet; (cz.) feast; (cz.) quaff; (cz.) revel
+[uczucie]uczucie (PL) : (rz.) affection; (rz.) emotion; (rz.) feeling; (rz.) guilt; (rz.) sensation; (rz.) sense; (rz.) sentiment
+[uczuciowo]uczuciowo (PL) : (p-sł.) emotionally
+[uczuciowosc]uczuciowość (PL) : (rz.) emotionality; (rz.) sensibility
+[uczuciowy]uczuciowy (PL) : (p.) affectionate; (p.) emotional; (p.) emotive; (p.) intense; (p.) sensible; (p.) sensitive; (p.) sensual; (p.) sentimental
+[uczulacz]uczulacz (PL) : (rz.) sensitizer
+[uczulac]uczulać (PL) : (cz.) sensitize
+[uczulenie]uczulenie (PL) : (rz.) allergy; (rz.) idiosyncrasy; (rz.) sensitization
+[uczuleniowy]uczuleniowy (PL) : (p.) allergic; (p.) idiosyncratic
+[uczulic]uczulić (PL) : (cz.) sensitize
+[uczulony]uczulony (PL) : (p.) allergic
+[uczynek]uczynek (PL) : (rz.) act; (rz.) deed
+[uczynic]uczynić (PL) : (cz.) done; (cz.) make
+[uczynnie]uczynnie (PL) : (p-sł.) helpfully; (p-sł.) obligingly
+[uczynnosc]uczynność (PL) : (rz.) helpfulness; (rz.) kindness
+[uczynny]uczynny (PL) : (p.) cooperative; (p.) co-operative; (p.) helpful; (p.) obliging
+[uczyc]uczyć (PL) : (cz.) educe; (cz.) instruct; (cz.) learn; (cz.) school; (cz.) study; (cz.) taught; (cz.) teach; (cz.) train; (cz.) undeceive
+[uczeszczanie]uczęszczanie (PL) : (rz.) attendance
+[uczeszczac]uczęszczać (PL) : (cz.) attend; (cz.) frequent; (cz.) resort
+[uczlowieczac]uczłowieczać (PL) : (cz.) ennoble; (cz.) humanize
+[udany]udany (PL) : (p.) successful
+[udar]udar (PL) : (rz.) apoplexy; (rz.) ictus; (rz.) inrush; (rz.) stroke; (rz.) surge
+[udaremniac]udaremniać (PL) : (cz.) baffle; (cz.) balk; (cz.) blight; (cz.) confute; (cz.) countermine; (cz.) discomfit; (cz.) foil; (cz.) frustrate; (cz.) pre-empt; (cz.) scotch; (cz.) stultify; (cz.) thwart
+[udaremnienie]udaremnienie (PL) : (rz.) frustration
+[udaremnic]udaremnić (PL) : (cz.) balk; (cz.) countermine; (cz.) discomfit; (cz.) foil; (cz.) frustrate; (cz.) stultify
+[udarowy]udarowy (PL) : (p.) percussive
+[udatnosc]udatność (PL) : (rz.) adroitness; (rz.) deftness
+[udatny]udatny (PL) : (p.) deft; (p.) fine; (p.) good
+[udawanie]udawanie (PL) : (rz.) affectation; (rz.) assumption; (rz.) dissimulation; (rz.) falseness; (rz.) feint; (rz.) game; (rz.) pretence; (rz.) pretender; (rz.) sham; (rz.) simulation
+[udawac]udawać (PL) : (cz.) affect; (cz.) assume; (cz.) betake; (cz.) dissemble; (cz.) dissimulate; (cz.) feign; (cz.) go; (cz.) imitate; (cz.) playact; (cz.) play-act; (cz.) pose; (cz.) pretend; (cz.) repair; (cz.) sham; (cz.) simulate; (cz.) thrive
+[udekorowac]udekorować (PL) : (cz.) decorate
+[udeptac]udeptać (PL) : (cz.) tread
+[udeptywac]udeptywać (PL) : (cz.) tread
+[uderzajaco]uderzająco (PL) : (p-sł.) strikingly
+[uderzajacy]uderzający (PL) : (p.) striking
+[uderzak]uderzak (PL) : (rz.) go-devil
+[uderzanie]uderzanie (PL) : (rz.) percussion
+[uderzac]uderzać (PL) : (cz.) bang; (cz.) beat; (cz.) box; (cz.) bump; (cz.) butt; (cz.) hammer; (cz.) hit; (cz.) hurtle; (cz.) impinge; (cz.) knock; (cz.) pluck; (cz.) poke; (cz.) slap; (cz.) smite; (cz.) strike
+[uderzenie]uderzenie (PL) : (rz.) backhand; (rz.) bang; (rz.) beat; (rz.) blow; (rz.) box; (rz.) buffet; (rz.) bump; (rz.) flap; (rz.) flapping; (rz.) heartbeat; (rz.) hit; (rz.) impact; (rz.) impingement; (rz.) inrush; (rz.) knock; (rz.) percussion; (rz.) ping; (rz.) punch; (rz.) putt; (rz.) shot; (rz.) slap; (rz.) smash; (rz.) strike; (rz.) stroke; (rz.) swipe; (rz.) swoop; (rz.) thump
+[uderzeniowy]uderzeniowy (PL) : (p.) percussive; (p.) striking
+[uderzyc]uderzyć (PL) : (cz.) bash; (cz.) bump; (cz.) clobber; (cz.) hit; (cz.) hurtle; (cz.) knock; (cz.) punch; (cz.) slap; (cz.) slog; (cz.) smack; (cz.) smash; (cz.) smite; (cz.) snap; (cz.) strike; (cz.) swat; (cz.) tomahawk; (cz.) wipe
+[udo]udo (PL) : (rz.) thigh
+[udobruchanie]udobruchanie (PL) : (rz.) appeasement; (rz.) conciliation
+[udobruchac]udobruchać (PL) : (cz.) coax
+[udogodnienie]udogodnienie (PL) : (rz.) convenience; (rz.) ease; (rz.) easement; (rz.) facility
+[udogodnic]udogodnić (PL) : (cz.) facilitate
+[udokumentowany]udokumentowany (PL) : (p.) documentaries
+[udokumentowac]udokumentować (PL) : (cz.) documented
+[udomawiac]udomawiać (PL) : (cz.) domesticate
+[udomowic]udomowić (PL) : (cz.) domesticate
+[udoskonalac]udoskonalać (PL) : (cz.) advance; (cz.) ameliorate; (cz.) improve; (cz.) improved; (cz.) upgrade
+[udoskonalenie]udoskonalenie (PL) : (rz.) amelioration; (rz.) enrichment; (rz.) improvement; (rz.) perfection
+[udoskonalic]udoskonalić (PL) : (cz.) ameliorate; (cz.) improve; (cz.) upgrade
+[udostepniac]udostępniać (PL) : (cz.) expose; (cz.) facilitate; (cz.) share; (cz.) support
+[udostepnienie]udostępnienie (PL) : (rz.) provision; (rz.) release
+[udostepnic]udostępnić (PL) : (cz.) facilitate; (cz.) share
+[udowadniac]udowadniać (PL) : (cz.) argue; (cz.) convict; (cz.) demonstrate; (cz.) prove; (cz.) proven
+[udowodnienie]udowodnienie (PL) : (rz.) manifestation; (rz.) proof; (rz.) substantiation
+[udowodnic]udowodnić (PL) : (cz.) convict; (cz.) prove; (cz.) substantiate
+[udowy]udowy (PL) : (p.) femoral
+[udramatyzowac]udramatyzować (PL) : (cz.) dramatize
+[udrapowac]udrapować (PL) : (cz.) drape
+[udreczac]udręczać (PL) : (cz.) distress
+[udreczenie]udręczenie (PL) : (rz.) anguish; (rz.) torment
+[udreczyc]udręczyć (PL) : (cz.) torment
+[udreka]udręka (PL) : (rz.) agony; (rz.) anguish; (rz.) distress; (rz.) incubus; (rz.) suffering; (rz.) torment; (rz.) vexation
+[uduchowienie]uduchowienie (PL) : (rz.) soulfulness; (rz.) spiritualization
+[uduchowic]uduchowić (PL) : (cz.) spiritualize
+[udusic]udusić (PL) : (cz.) asphyxiate; (cz.) quash; (cz.) stew; (cz.) stifle; (cz.) strangle; (cz.) suffocate; (cz.) throttle
+[uduszenie]uduszenie (PL) : (rz.) asphyxia; (rz.) asphyxiation; (rz.) strangulation; (rz.) suffocation
+[udzial]udział (PL) : (rz.) appearance; (rz.) contribution; (rz.) hand; (rz.) input; (rz.) interest; (rz.) lot; (rz.) part; (rz.) participation; (rz.) quota; (rz.) rake-off; (rz.) share; (rz.) snack; (rz.) stake
+[udzialowiec]udziałowiec (PL) : (rz.) contributor; (rz.) partner; (rz.) shareholder; (rz.) sharer; (rz.) stakeholder; (rz.) stockholder
+[udzialowy]udziałowy (PL) : (p.) joint
+[udziec]udziec (PL) : (rz.) cutlet; (rz.) haunch; (rz.) hind; (rz.) leg; (rz.) round
+[udzielac]udzielać (PL) : (cz.) accord; (cz.) allot; (cz.) dispense; (cz.) grant; (cz.) impart; (cz.) lecture; (cz.) lend; (cz.) socialize; (cz.) vest; (cz.) vouchsafe
+[udzielenie]udzielenie (PL) : (rz.) grant; (rz.) impartment
+[udzielic]udzielić (PL) : (cz.) accord; (cz.) grant; (cz.) lecture; (cz.) vest; (cz.) vouchsafe
+[udzielny]udzielny (PL) : (p.) sovereign
+[udoj]udój (PL) : (rz.) dairy
+[udlawic]udławić (PL) : (cz.) choke
+[udzwig]udźwig (PL) : (rz.) capacity
+[udzwieczniac]udźwięczniać (PL) : (cz.) voiced
+[udzwiekowienie]udźwiękowienie (PL) : (rz.) sound
+[ufac]ufać (PL) : (cz.) confide; (cz.) credit; (cz.) trust
+[ufetowac]ufetować (PL) : (cz.) fete
+[ufnie]ufnie (PL) : (p-sł.) confidentially; (p-sł.) confidently; (p-sł.) trustfully; (p-sł.) trustingly
+[ufnosc]ufność (PL) : (rz.) affiance; (rz.) confidence; (rz.) faith; (rz.) trust; (rz.) trustfulness
+[ufny]ufny (PL) : (p.) bold; (p.) confident; (p.) reliant; (p.) sanguine; (p.) trustful
+[uformowac]uformować (PL) : (cz.) form
+[ufortyfikowac]ufortyfikować (PL) : (cz.) fortify
+[ufryzowanie]ufryzowanie (PL) : (rz.) coiffure; (rz.) headdress; (rz.) head-dress
+[ufryzowac]ufryzować (PL) : (cz.) curl
+[ufundowanie]ufundowanie (PL) : (rz.) foundation
+[ufundowac]ufundować (PL) : (cz.) found
+[uganiac]uganiać (PL) : (cz.) seek
+[ugarnirowac]ugarnirować (PL) : (cz.) trim
+[ugasic]ugasić (PL) : (cz.) extinguish; (cz.) quench; (cz.) quenched
+[ugaszac]ugaszać (PL) : (cz.) extinguish; (cz.) quench
+[ugaszczac]ugaszczać (PL) : (cz.) entertain
+[ugaszenie]ugaszenie (PL) : (rz.) extinction
+[ugier]ugier (PL) : (rz.) ochre
+[uginanie]uginanie (PL) : (rz.) bending; (rz.) cambering; (rz.) deflection; (rz.) diffraction
+[uginac]uginać (PL) : (cz.) bend; (cz.) sag
+[ugiac]ugiąć (PL) : (cz.) bow
+[ugiecie]ugięcie (PL) : (rz.) deflection
+[ugniatacz]ugniatacz (PL) : (rz.) kneader
+[ugniatanie]ugniatanie (PL) : (rz.) crushing; (rz.) kneading; (rz.) pressure
+[ugniatarka]ugniatarka (PL) : (rz.) kneader
+[ugniatac]ugniatać (PL) : (cz.) knead; (cz.) pinch; (cz.) screw
+[ugoda]ugoda (PL) : (rz.) accommodation; (rz.) agreement; (rz.) compromise; (rz.) conciliation; (rz.) concord
+[ugodowosc]ugodowość (PL) : (rz.) amicability
+[ugodowy]ugodowy (PL) : (p.) amicable; (p.) conciliatory; (p.) consensual
+[ugorowy]ugorowy (PL) : (p.) fallow
+[ugoszczenie]ugoszczenie (PL) : (rz.) entertainment
+[ugotowac]ugotować (PL) : (cz.) cook
+[ugoscic]ugościć (PL) : (cz.) seat
+[ugruntowac]ugruntować (PL) : (cz.) base
+[ugruntowywac]ugruntowywać (PL) : (cz.) enhance
+[ugrupowanie]ugrupowanie (PL) : (rz.) formation; (rz.) group
+[ugrupowac]ugrupować (PL) : (cz.) arrange
+[ugryzienie]ugryzienie (PL) : (rz.) bite
+[ugryzc]ugryźć (PL) : (cz.) bite; (cz.) snap
+[ugrzeczniony]ugrzeczniony (PL) : (p.) urbane
+[ugrzeznac]ugrzęznąć (PL) : (cz.) stall
+[ugor]ugór (PL) : (rz.) fallow
+[uglaskac]ugłaskać (PL) : (cz.) coax; (cz.) tame
+[uiszczac]uiszczać (PL) : (cz.) acquit; (cz.) pay
+[uiszczenie]uiszczenie (PL) : (rz.) payment
+[uiscic]uiścić (PL) : (cz.) pay
+[ujadanie]ujadanie (PL) : (rz.) bay; (rz.) bicker; (rz.) gulf; (rz.) yap
+[ujadac]ujadać (PL) : (cz.) bay; (cz.) yap; (cz.) yip
+[ujarzmiac]ujarzmiać (PL) : (cz.) enchain; (cz.) enslave; (cz.) subdue; (cz.) subjugate; (cz.) yoke
+[ujarzmienie]ujarzmienie (PL) : (rz.) enslavement; (rz.) subjection; (rz.) subjugation
+[ujarzmic]ujarzmić (PL) : (cz.) enslave; (cz.) harnessed; (cz.) subdue; (cz.) subjugate; (cz.) yoke
+[ujawnianie]ujawnianie (PL) : (rz.) disclosure; (rz.) exposure
+[ujawniac]ujawniać (PL) : (cz.) betray; (cz.) declassify; (cz.) disclose; (cz.) display; (cz.) elicit; (cz.) emerge; (cz.) evince; (cz.) expose; (cz.) leak; (cz.) reveal; (cz.) share; (cz.) support; (cz.) trickle; (cz.) unfold; (cz.) unmask
+[ujawnienie]ujawnienie (PL) : (rz.) betrayal; (rz.) disclosure; (rz.) discovery; (rz.) exposure
+[ujawnic]ujawnić (PL) : (cz.) declassify; (cz.) disclose; (cz.) display; (cz.) expose; (cz.) reveal; (cz.) trickle
+[ujechac]ujechać (PL) : (cz.) travel
+[ujednolicac]ujednolicać (PL) : (cz.) harmonize; (cz.) make; (cz.) standardise; (cz.) standardize; (cz.) unify
+[ujednolicenie]ujednolicenie (PL) : (rz.) unification
+[ujednolicic]ujednolicić (PL) : (cz.) align; (cz.) make
+[ujednorodnianie]ujednorodnianie (PL) : (rz.) homogenizing
+[ujednorodnienie]ujednorodnienie (PL) : (rz.) homogenisation
+[ujednostajnianie]ujednostajnianie (PL) : (rz.) regulation
+[ujednostajnienie]ujednostajnienie (PL) : (rz.) regulation
+[ujednoznaczniac]ujednoznaczniać (PL) : (cz.) disambiguate; (cz.) disambiguated; (cz.) disambiguates; (cz.) disambiguating
+[ujednoznacznienie]ujednoznacznienie (PL) : (rz.) disambiguate; (rz.) disambiguation
+[ujemnie]ujemnie (PL) : (p-sł.) negatively
+[ujemny]ujemny (PL) : (p.) deleterious; (p.) dyslogistic; (p.) harmful; (p.) negative
+[ujezdzic]ujeździć (PL) : (cz.) break
+[ujezdzacz]ujeżdżacz (PL) : (rz.) horse-breaker; (rz.) roughrider; (rz.) trainer
+[ujma]ujma (PL) : (rz.) detriment; (rz.) disparagement; (rz.) outrage; (rz.) prejudice
+[ujmowanie]ujmowanie (PL) : (rz.) capturing; (rz.) recognition
+[ujmowac]ujmować (PL) : (cz.) account; (cz.) detract; (cz.) plead; (cz.) take
+[ujmujaco]ujmująco (PL) : (p-sł.) engagingly; (p-sł.) insinuatingly
+[ujmujacy]ujmujący (PL) : (p.) captivating; (p.) pleasing
+[ujrzec]ujrzeć (PL) : (cz.) beheld; (cz.) behold; (cz.) descry; (cz.) glimpse; (cz.) see
+[ujac]ująć (PL) : (cz.) captivate; (cz.) formulate; (cz.) grip; (cz.) include; (cz.) seize
+[ujecie]ujęcie (PL) : (rz.) conceptualization; (rz.) expression; (rz.) grasp; (rz.) shot; (rz.) snap
+[ujscie]ujście (PL) : (rz.) entrance; (rz.) estuary; (rz.) influx; (rz.) mouth; (rz.) orifice; (rz.) outfall; (rz.) outlet; (rz.) vent
+[ukajac]ukajać (PL) : (cz.) appease; (cz.) soothe
+[ukamienowac]ukamienować (PL) : (cz.) lapidate; (cz.) stone
+[ukaranie]ukaranie (PL) : (rz.) infliction; (rz.) punishment
+[ukarac]ukarać (PL) : (cz.) chasten; (cz.) chastise; (cz.) punish
+[ukartowac]ukartować (PL) : (cz.) contrive; (cz.) plot
+[ukaz]ukaz (PL) : (rz.) ukase
+[ukazanie]ukazanie (PL) : (rz.) apparition; (rz.) appearance; (rz.) exhibition; (rz.) manifestation; (rz.) show
+[ukazac]ukazać (PL) : (cz.) appear; (cz.) arise; (cz.) show
+[ukazywac]ukazywać (PL) : (cz.) appear; (cz.) reappear; (cz.) show
+[ukierunkowac]ukierunkować (PL) : (cz.) canalize
+[ukierunkowywanie]ukierunkowywanie (PL) : (rz.) orientation; (rz.) steering
+[ukleknac]uklęknąć (PL) : (cz.) genuflect; (cz.) kneel
+[uknuc]uknuć (PL) : (cz.) frame
+[ukochana]ukochana (PL) : (rz.) sweetheart
+[ukoic]ukoić (PL) : (cz.) appease; (cz.) soothe
+[ukojenie]ukojenie (PL) : (rz.) alleviation; (rz.) comfort; (rz.) consolation; (rz.) relief; (rz.) solace
+[ukonstytuowac]ukonstytuować (PL) : (cz.) constitute
+[ukop]ukop (PL) : (rz.) diggings
+[ukoronowac]ukoronować (PL) : (cz.) crown
+[ukorzeniac]ukorzeniać (PL) : (cz.) root
+[ukorzenie]ukorzenie (PL) : (rz.) abasement
+[ukos]ukos (PL) : (rz.) betel; (rz.) bevel; (rz.) bias; (rz.) incline; (rz.) scarf; (rz.) slant
+[ukosowanie]ukosowanie (PL) : (rz.) bevelling
+[ukolysac]ukołysać (PL) : (cz.) lull
+[ukonczenie]ukończenie (PL) : (rz.) completion; (rz.) gradation
+[ukonczyc]ukończyć (PL) : (cz.) complete
+[ukosnie]ukośnie (PL) : (p-sł.) agley; (p-sł.) askance; (p-sł.) aslant; (p-sł.) atilt; (p-sł.) diagonally; (p-sł.) obliquely
+[ukosnik]ukośnik (PL) : (rz.) rhomb; (rz.) slash
+[ukosnosc]ukośność (PL) : (rz.) obliquity
+[ukosny]ukośny (PL) : (p.) atilt; (p.) diagonal; (p.) oblique; (p.) skew
+[ukracac]ukracać (PL) : (cz.) curb
+[ukradkiem]ukradkiem (PL) : (p-sł.) furtively; (p-sł.) stealthily; (p-sł.) surreptitiously
+[ukradkowo]ukradkowo (PL) : (p-sł.) furtively; (p-sł.) stealthily
+[ukradkowy]ukradkowy (PL) : (p.) covert; (p.) furtive; (p.) sidelong; (p.) slinky; (p.) sneaky; (p.) stealthy; (p.) surreptitious
+[ukrasc]ukraść (PL) : (cz.) filch; (cz.) pinch; (cz.) purloin; (cz.) snaffle; (cz.) snoop; (cz.) steal; (cz.) thieve
+[ukruszyc]ukruszyć (PL) : (cz.) crumble
+[ukrycie]ukrycie (PL) : (rz.) concealment; (rz.) hide; (rz.) hiding-place; (rz.) stealth
+[ukryty]ukryty (PL) : (p.) implicit; (p.) latent; (p.) underlying
+[ukrywanie]ukrywanie (PL) : (rz.) concealment; (rz.) cover-up; (rz.) hide; (rz.) hiding; (rz.) shelter
+[ukrywac]ukrywać (PL) : (cz.) calfskin; (cz.) conceal; (cz.) dissemble; (cz.) dissimulate; (cz.) hid; (cz.) hidden; (cz.) hide; (cz.) hoodwink; (cz.) mask; (cz.) obscure; (cz.) secrete; (cz.) shroud; (cz.) skulk; (cz.) suppress
+[ukryc]ukryć (PL) : (cz.) blind; (cz.) cloak; (cz.) conceal; (cz.) ensconce; (cz.) hide
+[ukrzyzowanie]ukrzyżowanie (PL) : (rz.) crucifixion
+[ukrzyzowac]ukrzyżować (PL) : (cz.) crucify
+[ukrocenie]ukrócenie (PL) : (rz.) suppression
+[ukrocic]ukrócić (PL) : (cz.) suppress
+[ukrecic]ukręcić (PL) : (cz.) tear; (cz.) wring
+[uksztaltowanie]ukształtowanie (PL) : (rz.) configuration; (rz.) shape
+[uksztaltowac]ukształtować (PL) : (cz.) formalize; (cz.) shape
+[ukuc]ukuć (PL) : (cz.) coin
+[ukasic]ukąsić (PL) : (cz.) bite; (cz.) snap; (cz.) sting
+[ukaszenie]ukąszenie (PL) : (rz.) bite; (rz.) sting
+[uklad]układ (PL) : (rz.) agreement; (rz.) arrangement; (rz.) array; (rz.) circuit; (rz.) complex; (rz.) configuration; (rz.) layout; (rz.) lay-out; (rz.) makeup; (rz.) make-up; (rz.) network; (rz.) ordination; (rz.) pact; (rz.) scheme; (rz.) selling; (rz.) setting; (rz.) setup; (rz.) stipulation; (rz.) system
+[ukladacz]układacz (PL) : (rz.) layer
+[ukladanie]układanie (PL) : (rz.) alignment; (rz.) conditioning; (rz.) formation; (rz.) stagger; (rz.) tiling
+[ukladanka]układanka (PL) : (rz.) jigsaw; (rz.) puzzle
+[ukladac]układać (PL) : (cz.) arrange; (cz.) cast; (cz.) clump; (cz.) collocate; (cz.) compose; (cz.) file; (cz.) lay; (cz.) stipulate; (cz.) transact
+[ukladny]układny (PL) : (p.) courteous; (p.) polite; (p.) sleek; (p.) smooth-faced; (p.) suave; (p.) urbane
+[ukladowy]układowy (PL) : (p.) hard-wired; (p.) systemic; (p.) wired-in
+[uklon]ukłon (PL) : (rz.) bow; (rz.) compliment; (rz.) curtsey; (rz.) curtsy; (rz.) dipping; (rz.) nod; (rz.) obeisance; (rz.) regard; (rz.) salute
+[uklonic]ukłonić (PL) : (cz.) bow; (cz.) nod
+[uklucie]ukłucie (PL) : (rz.) prick; (rz.) sting
+[ukluc]ukłuć (PL) : (cz.) jab; (cz.) pique; (cz.) prick; (cz.) stab; (cz.) sting
+[ul]ul (PL) : (rz.) beehive; (rz.) hive
+[ulatac]ulatać (PL) : (cz.) soar
+[ulatnianie]ulatnianie (PL) : (rz.) evaporation; (rz.) leakage
+[ulatniac]ulatniać (PL) : (cz.) evaporate; (cz.) leak; (cz.) melt; (cz.) volatilize
+[ulatywac]ulatywać (PL) : (cz.) escape
+[ulac]ulać (PL) : (cz.) cast; (cz.) mould
+[uleczalnosc]uleczalność (PL) : (rz.) curability
+[uleczalny]uleczalny (PL) : (p.) curable; (p.) remediable; (p.) treatable
+[uleczyc]uleczyć (PL) : (cz.) heal
+[uleganie]uleganie (PL) : (rz.) compliance; (rz.) deference
+[ulegac]ulegać (PL) : (cz.) defer; (cz.) subject; (cz.) succumb; (cz.) undergo; (cz.) yield
+[uleglosc]uległość (PL) : (rz.) deference; (rz.) docility; (rz.) submersion; (rz.) submission; (rz.) submissiveness; (rz.) subordination; (rz.) tameness
+[ulegly]uległy (PL) : (p.) obsequious; (p.) submissive; (p.) tame
+[ulepek]ulepek (PL) : (rz.) julep; (rz.) syrup
+[ulepszanie]ulepszanie (PL) : (rz.) better; (rz.) improvement
+[ulepszac]ulepszać (PL) : (cz.) ameliorate; (cz.) amend; (cz.) enhance; (cz.) improve; (cz.) meliorate; (cz.) revamped; (cz.) upgrade
+[ulepszenie]ulepszenie (PL) : (rz.) amelioration; (rz.) enhancement; (rz.) improvement; (rz.) melioration
+[ulepszyc]ulepszyć (PL) : (cz.) ameliorate; (cz.) enrich; (cz.) improved; (cz.) streamline
+[ulewa]ulewa (PL) : (rz.) downpour; (rz.) gush; (rz.) rain; (rz.) rainstorm; (rz.) shower; (rz.) storm; (rz.) torrent
+[ulewny]ulewny (PL) : (p.) pouring; (p.) rainy; (p.) showery; (p.) torrential
+[ulga]ulga (PL) : (rz.) abatement; (rz.) alleviation; (rz.) allowance; (rz.) comfort; (rz.) relief; (rz.) remission; (rz.) respite; (rz.) solace
+[ulgowo]ulgowo (PL) : (p-sł.) indulgently
+[ulgowy]ulgowy (PL) : (p.) cheap; (p.) concessionary; (p.) reduced
+[ulica]ulica (PL) : (rz.) alley; (rz.) avenue; (rz.) boulevard; (rz.) crescent; (rz.) road; (rz.) street; (rz.) thoroughfare
+[uliczka]uliczka (PL) : (rz.) alley; (rz.) avenue; (rz.) backstreet; (rz.) bystreet; (rz.) lane; (rz.) mew
+[ulicznik]ulicznik (PL) : (rz.) gamin; (rz.) guttersnipe; (rz.) nipper; (rz.) urchin
+[ulistnienie]ulistnienie (PL) : (rz.) foliage; (rz.) leafage
+[ulokowac]ulokować (PL) : (cz.) accommodate; (cz.) house; (cz.) place
+[ulot]ulot (PL) : (rz.) corona
+[ulotka]ulotka (PL) : (rz.) airman; (rz.) bill; (rz.) flier; (rz.) flyer; (rz.) flysheet; (rz.) folder; (rz.) handbill; (rz.) hand-bill; (rz.) handout; (rz.) leaflet; (rz.) pamphlet
+[ulotnosc]ulotność (PL) : (rz.) elusiveness; (rz.) fleetness; (rz.) volatility
+[ulotny]ulotny (PL) : (p.) elusive; (p.) faint; (p.) transient; (p.) volatile
+[ultimatum]ultimatum (PL) : (rz.) ultimatum
+[ultradzwiek]ultradźwięk (PL) : (rz.) ultrasound
+[ultradzwiekowy]ultradźwiękowy (PL) : (p.) supersonic; (p.) ultrasonic
+[ultrafiolet]ultrafiolet (PL) : (rz.) ultraviolet
+[ultrafioletowy]ultrafioletowy (PL) : (p.) ultra-violet
+[ultrakonserwatywny]ultrakonserwatywny (PL) : (p.) ultraconservative
+[ultramaryna]ultramaryna (PL) : (rz.) blue
+[ultramikroskopowy]ultramikroskopowy (PL) : (p.) ultramicroscopic
+[ultranowoczesny]ultranowoczesny (PL) : (p.) ultramodern
+[ultrasonograf]ultrasonograf (PL) : (rz.) ultrasound
+[ultrasonografia]ultrasonografia (PL) : (rz.) ultrasound
+[ultrawirowka]ultrawirówka (PL) : (rz.) ultracentrifuge
+[ulubieniec]ulubieniec (PL) : (rz.) darling; (rz.) favourite; (rz.) minion; (rz.) pet
+[ulubiony]ulubiony (PL) : (p.) favourite
+[ulegac]ulęgać (PL) : (cz.) subject
+[ulzyc]ulżyć (PL) : (cz.) alleviate; (cz.) lighten; (cz.) relieve; (cz.) relive; (cz.) unburden
+[umacniac]umacniać (PL) : (cz.) cement; (cz.) confirm; (cz.) fortify; (cz.) harden; (cz.) reinforce; (cz.) strengthen; (cz.) strengthened
+[umalowac]umalować (PL) : (cz.) paint
+[umartwianie]umartwianie (PL) : (rz.) mortification
+[umartwiac]umartwiać (PL) : (cz.) mortify
+[umartwienie]umartwienie (PL) : (rz.) mortification
+[umarzalny]umarzalny (PL) : (p.) redeemable
+[umarzac]umarzać (PL) : (cz.) amortise; (cz.) redeem
+[umawiac]umawiać (PL) : (cz.) appoint; (cz.) arrange; (cz.) bargain; (cz.) treat
+[umazac]umazać (PL) : (cz.) smear
+[umeblowanie]umeblowanie (PL) : (rz.) furnishings; (rz.) furniture
+[umeblowany]umeblowany (PL) : (p.) furnished
+[umeblowac]umeblować (PL) : (cz.) fit
+[umiar]umiar (PL) : (rz.) moderation; (rz.) temperance
+[umiarkowanie]umiarkowanie (PL) : (p-sł.) moderately; (p-sł.) temperately
+[umiarkowany]umiarkowany (PL) : (p.) moderate; (p.) reasonable; (p.) temperate
+[umiejscawiac]umiejscawiać (PL) : (cz.) localize; (cz.) locate; (cz.) occur; (cz.) situate
+[umiejscowienie]umiejscowienie (PL) : (rz.) localization; (rz.) location; (rz.) locus; (rz.) position; (rz.) putting
+[umiejscowic]umiejscowić (PL) : (cz.) localize; (cz.) locate; (cz.) occur; (cz.) place; (cz.) situate
+[umiejetnie]umiejętnie (PL) : (p-sł.) ably; (p-sł.) competently
+[umiejetnosci]umiejętności (PL) : (rz.) incompetence
+[umiejetnosc]umiejętność (PL) : (rz.) ability; (rz.) art; (rz.) capability; (rz.) expertise; (rz.) know-how; (rz.) literacy; (rz.) prowess; (rz.) skill; (rz.) technique
+[umiejetny]umiejętny (PL) : (p.) able; (p.) expert; (p.) scientific; (p.) skilful
+[umieralnosc]umieralność (PL) : (rz.) mortality
+[umieranie]umieranie (PL) : (rz.) dying
+[umierac]umierać (PL) : (cz.) decease; (cz.) die; (cz.) expire
+[umieszczanie]umieszczanie (PL) : (rz.) placement; (rz.) placing
+[umieszczac]umieszczać (PL) : (cz.) adapt; (cz.) deputize; (cz.) install; (cz.) locate; (cz.) lodge; (cz.) place; (cz.) plant; (cz.) put; (cz.) putt; (cz.) set; (cz.) situate; (cz.) stow
+[umieszczenie]umieszczenie (PL) : (rz.) accommodation; (rz.) affixation; (rz.) allocation; (rz.) location; (rz.) placement
+[umieszczony]umieszczony (PL) : (p.) situated
+[umiec]umieć (PL) : (cz.) can; (cz.) know
+[umiescic]umieścić (PL) : (cz.) deputize; (cz.) house; (cz.) locate; (cz.) lodge; (cz.) place; (cz.) put; (cz.) putt; (cz.) set; (cz.) situate; (cz.) stow
+[umiesc]umieść (PL) : (cz.) place
+[umilic]umilić (PL) : (cz.) make
+[umizgac]umizgać (PL) : (cz.) spoon
+[umiedzynarodowienie]umiędzynarodowienie (PL) : (rz.) internationalization
+[umiedzynarodowic]umiędzynarodowić (PL) : (cz.) internationalize
+[umiesnienie]umięśnienie (PL) : (rz.) musculature
+[umilowanie]umiłowanie (PL) : (rz.) love
+[umilowac]umiłować (PL) : (cz.) cherish
+[umniejszanie]umniejszanie (PL) : (rz.) detraction
+[umniejszac]umniejszać (PL) : (cz.) belittle; (cz.) derogate; (cz.) detract; (cz.) extenuate; (cz.) lessen; (cz.) underplay; (cz.) understate
+[umniejszyc]umniejszyć (PL) : (cz.) undermine
+[umocnienia]umocnienia (PL) : (rz.) defences
+[umocnienie]umocnienie (PL) : (rz.) confirmation; (rz.) consolidation; (rz.) fortification; (rz.) overwork
+[umocnic]umocnić (PL) : (cz.) harden; (cz.) reinforce; (cz.) strengthen
+[umocowanie]umocowanie (PL) : (rz.) clamp; (rz.) empowerment
+[umocowac]umocować (PL) : (cz.) anchor; (cz.) attach; (cz.) fasten; (cz.) hitch; (cz.) secure
+[umocowywac]umocowywać (PL) : (cz.) hitch; (cz.) moor
+[umoczyc]umoczyć (PL) : (cz.) dip; (cz.) soak
+[umodelowac]umodelować (PL) : (cz.) mould
+[umoralnianie]umoralnianie (PL) : (rz.) elevation
+[umoralniac]umoralniać (PL) : (cz.) elevate; (cz.) moralize
+[umorusac]umorusać (PL) : (cz.) soil
+[umorzenie]umorzenie (PL) : (rz.) discontinuance; (rz.) remission
+[umorzyc]umorzyć (PL) : (cz.) closed; (cz.) remit
+[umotywowac]umotywować (PL) : (cz.) justify; (cz.) unmotivated
+[umowa]umowa (PL) : (rz.) agreement; (rz.) arrangement; (rz.) bargain; (rz.) bargaining; (rz.) bet; (rz.) contract; (rz.) convention; (rz.) covenant; (rz.) engagement; (rz.) indenture; (rz.) pact; (rz.) settlement; (rz.) treaty
+[umownie]umownie (PL) : (p-sł.) conventionally
+[umownosc]umowność (PL) : (rz.) conventionality
+[umowny]umowny (PL) : (p.) arbitrary; (p.) collusive; (p.) conventional
+[umozliwiac]umożliwiać (PL) : (cz.) enable; (cz.) facilitate; (cz.) let
+[umozliwienie]umożliwienie (PL) : (rz.) capacitance
+[umozliwic]umożliwić (PL) : (cz.) enable
+[umrzec]umrzeć (PL) : (cz.) decease; (cz.) die
+[umrzyk]umrzyk (PL) : (rz.) corpse
+[umundurowanie]umundurowanie (PL) : (rz.) uniform
+[umycie]umycie (PL) : (rz.) ablution; (rz.) washing
+[umykanie]umykanie (PL) : (rz.) scamper
+[umykac]umykać (PL) : (cz.) elude; (cz.) escape; (cz.) evade
+[umysl]umysł (PL) : (rz.) brain; (rz.) head; (rz.) intellect; (rz.) memory; (rz.) mind; (rz.) spirit
+[umyslowo]umysłowo (PL) : (p-sł.) intellectually; (p-sł.) mentally
+[umyslowosc]umysłowość (PL) : (rz.) mentality
+[umyslowy]umysłowy (PL) : (p.) intellectual; (p.) mental; (p.) spiritual; (p.) white-collar
+[umywalka]umywalka (PL) : (rz.) basin; (rz.) commode; (rz.) sink; (rz.) washbasin; (rz.) wash-basin; (rz.) washbowl; (rz.) washstand; (rz.) wash-stand
+[umywalnia]umywalnia (PL) : (rz.) basin; (rz.) lavatory; (rz.) laver; (rz.) sink; (rz.) washbasin; (rz.) washroom; (rz.) wash-room; (rz.) washstand; (rz.) wash-stand
+[umywac]umywać (PL) : (cz.) wash
+[umyc]umyć (PL) : (cz.) lave; (cz.) wash
+[umyslic]umyślić (PL) : (cz.) decide
+[umyslnie]umyślnie (PL) : (p-sł.) deliberately; (p-sł.) designedly; (p-sł.) intentionally; (p-sł.) knowingly; (p-sł.) presumably; (p-sł.) purposely
+[umyslnosc]umyślność (PL) : (rz.) intent
+[umyslny]umyślny (PL) : (p.) deliberate; (p.) deliberateness; (p.) intentional; (p.) wilful
+[umowic]umówić (PL) : (cz.) arrange
+[umeczyc]umęczyć (PL) : (cz.) crucify
+[unaoczniac]unaoczniać (PL) : (cz.) confront; (cz.) demonstrate; (cz.) evidence; (cz.) visualize
+[unaocznic]unaocznić (PL) : (cz.) demonstrate; (cz.) evidence; (cz.) highlight; (cz.) visualize
+[unarodowienie]unarodowienie (PL) : (rz.) nationalization
+[unarodowic]unarodowić (PL) : (cz.) nationalize
+[uncja]uncja (PL) : (rz.) ounce; (rz.) ounces
+[unerwiac]unerwiać (PL) : (cz.) innervate
+[unerwienie]unerwienie (PL) : (rz.) nervure
+[unia]unia (PL) : (rz.) union
+[unicestwiac]unicestwiać (PL) : (cz.) annihilate
+[unicestwienie]unicestwienie (PL) : (rz.) annihilation; (rz.) frustration
+[unicestwic]unicestwić (PL) : (cz.) annihilate; (cz.) kill
+[uniemozliwiac]uniemożliwiać (PL) : (cz.) disenable; (cz.) prevent; (cz.) stymie
+[uniemozliwic]uniemożliwić (PL) : (cz.) prevent
+[unieruchamiac]unieruchamiać (PL) : (cz.) arrest; (cz.) immobilise; (cz.) immobilize; (cz.) inactivate; (cz.) transfix
+[unieruchomienie]unieruchomienie (PL) : (rz.) arrestment; (rz.) immobilisation; (rz.) immobilization; (rz.) standstill
+[unieruchomiony]unieruchomiony (PL) : (p.) stranded
+[unieruchomic]unieruchomić (PL) : (cz.) disable; (cz.) immobilize; (cz.) inactivate; (cz.) transfix
+[uniesienie]uniesienie (PL) : (rz.) elation; (rz.) exultation; (rz.) lift; (rz.) passion; (rz.) rapture
+[unieszczesliwiac]unieszczęśliwiać (PL) : (cz.) distress
+[unieszkodliwiac]unieszkodliwiać (PL) : (cz.) disable
+[unieszkodliwienie]unieszkodliwienie (PL) : (rz.) disposal
+[unieszkodliwic]unieszkodliwić (PL) : (cz.) disable; (cz.) disposed
+[uniewazniac]unieważniać (PL) : (cz.) annul; (cz.) cancel; (cz.) disannul; (cz.) invalidate; (cz.) nullify; (cz.) quash; (cz.) repeal; (cz.) rescind; (cz.) revoke; (cz.) void
+[uniewaznienie]unieważnienie (PL) : (rz.) annulling; (rz.) annulment; (rz.) cancellation; (rz.) defeasance; (rz.) invalidation; (rz.) nullification; (rz.) nullity; (rz.) rescission; (rz.) reversal; (rz.) revocation
+[uniewaznic]unieważnić (PL) : (cz.) annul; (cz.) cancel; (cz.) invalidate; (cz.) rescind; (cz.) undo; (cz.) void
+[uniewinniac]uniewinniać (PL) : (cz.) acquit; (cz.) exculpate; (cz.) exonerate
+[uniewinnienie]uniewinnienie (PL) : (rz.) acquittal; (rz.) exculpation
+[uniewinnic]uniewinnić (PL) : (cz.) acquit; (cz.) exculpate; (cz.) excuse; (cz.) exonerate
+[uniesmiertelniac]unieśmiertelniać (PL) : (cz.) immortalize
+[uniesmiertelnienie]unieśmiertelnienie (PL) : (rz.) immortality
+[uniesc]unieść (PL) : (cz.) carry; (cz.) rhapsodize
+[unifikacja]unifikacja (PL) : (rz.) unification
+[unifikator]unifikator (PL) : (rz.) unifier
+[unifikowac]unifikować (PL) : (cz.) unify
+[uniform]uniform (PL) : (rz.) uniform
+[uniformizacja]uniformizacja (PL) : (rz.) standardization
+[unik]unik (PL) : (rz.) dodge; (rz.) hedge
+[unikalnie]unikalnie (PL) : (p-sł.) uniquely
+[unikalny]unikalny (PL) : (p.) quaint; (p.) unique
+[unikanie]unikanie (PL) : (rz.) avoidance; (rz.) elusion; (rz.) evasion
+[unikat]unikat (PL) : (rz.) curiosity; (rz.) nonpareil; (rz.) rarity
+[unikatowy]unikatowy (PL) : (p.) unique
+[unikac]unikać (PL) : (cz.) avoid; (cz.) avoided; (cz.) burke; (cz.) elude; (cz.) escape; (cz.) eschew; (cz.) evade; (cz.) parry; (cz.) pussyfoot; (cz.) shirk; (cz.) shun
+[unikniecie]uniknięcie (PL) : (rz.) evasion
+[uniknac]uniknąć (PL) : (cz.) escape
+[unionista]unionista (PL) : (rz.) unionist
+[uniwerek]uniwerek (PL) : (rz.) varsity
+[uniwersalia]uniwersalia (PL) : (rz.) universals
+[uniwersalizm]uniwersalizm (PL) : (rz.) universalism
+[uniwersalnosc]uniwersalność (PL) : (rz.) universality; (rz.) versatility
+[uniwersalny]uniwersalny (PL) : (p.) all-around; (p.) all-purpose; (p.) all-round; (p.) catholic; (p.) generalized; (p.) general-purpose; (p.) multipurpose; (p.) universal; (p.) versatile
+[uniwersytet]uniwersytet (PL) : (rz.) school; (rz.) university
+[unizonosc]uniżoność (PL) : (rz.) humbleness; (rz.) humility
+[unormowac]unormować (PL) : (cz.) normalize
+[unosic]unosić (PL) : (cz.) bear; (cz.) float; (cz.) hoist; (cz.) hover; (cz.) rave; (cz.) soar; (cz.) waft
+[unoszenie]unoszenie (PL) : (rz.) convection; (rz.) lifting
+[unowoczesniac]unowocześniać (PL) : (cz.) innovate; (cz.) update; (cz.) upgrade
+[unowoczesnienie]unowocześnienie (PL) : (rz.) modernization
+[unowoczesnic]unowocześnić (PL) : (cz.) upgrade
+[uobecnienie]uobecnienie (PL) : (rz.) actuation
+[uodpornianie]uodpornianie (PL) : (rz.) immunization
+[uodporniac]uodporniać (PL) : (cz.) immunize; (cz.) proof
+[uodpornienie]uodpornienie (PL) : (rz.) immunization; (rz.) robustness
+[uodpornic]uodpornić (PL) : (cz.) harden; (cz.) immunize; (cz.) proof
+[uogolnianie]uogólnianie (PL) : (rz.) generalization
+[uogolniac]uogólniać (PL) : (cz.) generalize
+[uogolnienie]uogólnienie (PL) : (rz.) generalisation; (rz.) generalization
+[uogolnic]uogólnić (PL) : (cz.) generalized
+[uosabianie]uosabianie (PL) : (rz.) impersonation
+[uosabiac]uosabiać (PL) : (cz.) embody; (cz.) impersonate; (cz.) personalize; (cz.) personify; (cz.) typify
+[uosobienie]uosobienie (PL) : (rz.) embodiment; (rz.) epitome; (rz.) impersonation; (rz.) incarnation; (rz.) paragon; (rz.) personification
+[upad]upad (PL) : (rz.) bankruptcy
+[upadanie]upadanie (PL) : (rz.) falling; (rz.) falls
+[upadac]upadać (PL) : (cz.) drop; (cz.) fall; (cz.) fell; (cz.) rain; (cz.) sag; (cz.) wince
+[upadek]upadek (PL) : (rz.) breakdown; (rz.) break-up; (rz.) burst-up; (rz.) collapse; (rz.) crash; (rz.) decadence; (rz.) decadency; (rz.) decay; (rz.) degeneracy; (rz.) degradation; (rz.) downfall; (rz.) ebb; (rz.) fall; (rz.) flop; (rz.) labefaction; (rz.) ruin; (rz.) ruination; (rz.) tumble
+[upadlac]upadlać (PL) : (cz.) degrade
+[upadlosc]upadłość (PL) : (rz.) bankruptcy; (rz.) insolvency
+[upajac]upajać (PL) : (cz.) intoxicate
+[upakowanie]upakowanie (PL) : (rz.) compaction
+[upakowac]upakować (PL) : (cz.) pack
+[upakowywanie]upakowywanie (PL) : (rz.) packing
+[upalny]upalny (PL) : (p.) hot; (p.) sweltering; (p.) torrid
+[upamietniac]upamiętniać (PL) : (cz.) commemorate; (cz.) memorialize
+[upamietnic]upamiętnić (PL) : (cz.) commemorate; (cz.) memorialize
+[uparcie]uparcie (PL) : (p-sł.) doggedly; (p-sł.) insistently; (p-sł.) obstinately; (p-sł.) persistently; (p-sł.) stubbornly
+[uparciuch]uparciuch (PL) : (rz.) mule
+[upartosc]upartość (PL) : (rz.) stubbornness
+[uparty]uparty (PL) : (p.) hardboiled; (p.) intractable; (p.) obdurate; (p.) obstinate; (p.) refractory; (p.) stubborn; (p.) wilful
+[upatrywac]upatrywać (PL) : (cz.) found
+[upal]upał (PL) : (rz.) heat
+[upanstwawiac]upaństwawiać (PL) : (cz.) nationalize; (cz.) socialize
+[upanstwowienie]upaństwowienie (PL) : (rz.) nationalisation; (rz.) nationalization
+[upanstwowic]upaństwowić (PL) : (cz.) nationalize; (cz.) socialize
+[upasc]upaść (PL) : (cz.) collapse; (cz.) drop; (cz.) fall; (cz.) tumble
+[upewniac]upewniać (PL) : (cz.) ascertain; (cz.) assure; (cz.) insure; (cz.) satisfy; (cz.) secure; (cz.) warrant
+[upewnienie]upewnienie (PL) : (rz.) ascertainment; (rz.) assurance; (rz.) dependability
+[upewnic]upewnić (PL) : (cz.) ascertain; (cz.) ensure; (cz.) secure; (cz.) warrant
+[upelnomocniac]upełnomocniać (PL) : (cz.) accredit; (cz.) commission; (cz.) delegate; (cz.) depute
+[upelnomocnienie]upełnomocnienie (PL) : (rz.) empowerment
+[upelnomocnic]upełnomocnić (PL) : (cz.) accredit; (cz.) commission; (cz.) delegate; (cz.) depute; (cz.) empower
+[upicie]upicie (PL) : (rz.) intoxication
+[upierac]upierać (PL) : (cz.) insist; (cz.) persevere; (cz.) persist
+[upierzenie]upierzenie (PL) : (rz.) feathers; (rz.) plumage
+[upierzyc]upierzyć (PL) : (cz.) feather
+[upijac]upijać (PL) : (cz.) intoxicate
+[upilnowac]upilnować (PL) : (cz.) look
+[upiorny]upiorny (PL) : (p.) ghastly; (p.) ghostlike; (p.) ghostly; (p.) lurid; (p.) shadowy; (p.) spectral; (p.) spooky; (p.) weird
+[upior]upiór (PL) : (rz.) apparition; (rz.) ghost; (rz.) ghoul; (rz.) revenant; (rz.) vampire
+[upic]upić (PL) : (cz.) booze; (cz.) intoxicate
+[upiekszanie]upiększanie (PL) : (rz.) adornment
+[upiekszac]upiększać (PL) : (cz.) adorn; (cz.) beautify; (cz.) brighten; (cz.) deck; (cz.) embellish; (cz.) garnish; (cz.) ornament; (cz.) prettify; (cz.) streamline
+[upiekszenie]upiększenie (PL) : (rz.) embellishment; (rz.) figuration; (rz.) titivation
+[upiekszyc]upiększyć (PL) : (cz.) beautify
+[uplastycznianie]uplastycznianie (PL) : (rz.) fluxing
+[uplastyczniac]uplastyczniać (PL) : (cz.) plasticize
+[uplastycznic]uplastycznić (PL) : (cz.) plasticize
+[uplesc]upleść (PL) : (cz.) plait
+[upodabniac]upodabniać (PL) : (cz.) assimilate; (cz.) liken
+[upodlac]upodlać (PL) : (cz.) vilify
+[upodlenie]upodlenie (PL) : (rz.) abjection; (rz.) debasement; (rz.) degradation
+[upodlic]upodlić (PL) : (cz.) debase; (cz.) vilify
+[upodobanie]upodobanie (PL) : (rz.) fancy; (rz.) inclination; (rz.) liking; (rz.) partiality; (rz.) penchant; (rz.) pleasure; (rz.) relish
+[upodobac]upodobać (PL) : (cz.) fancy; (cz.) like; (cz.) liking; (cz.) please
+[upodobnienie]upodobnienie (PL) : (rz.) assimilation
+[upojenie]upojenie (PL) : (rz.) ecstasy; (rz.) inebriation; (rz.) intoxication; (rz.) rapture
+[upojny]upojny (PL) : (p.) heady; (p.) intoxicating
+[upokarzac]upokarzać (PL) : (cz.) abase; (cz.) humble; (cz.) humiliate; (cz.) mortify
+[upokorzenie]upokorzenie (PL) : (rz.) abasement; (rz.) humiliation
+[upokorzyc]upokorzyć (PL) : (cz.) abase; (cz.) humble; (cz.) humiliate; (cz.) snub
+[upolowac]upolować (PL) : (cz.) shoot
+[upominanie]upominanie (PL) : (rz.) admonition; (rz.) calls
+[upominac]upominać (PL) : (cz.) admonish; (cz.) exhort; (cz.) rebuke; (cz.) remonstrate; (cz.) warn
+[upominek]upominek (PL) : (rz.) freebie; (rz.) gift; (rz.) keepsake; (rz.) souvenir; (rz.) testimonial
+[upomnienie]upomnienie (PL) : (rz.) admonishment; (rz.) admonition; (rz.) censure; (rz.) exhortation; (rz.) reminder; (rz.) warning
+[uporanie]uporanie (PL) : (rz.) coping; (rz.) dealing; (rz.) tackling
+[uporac]uporać (PL) : (cz.) deal; (cz.) manage; (cz.) tackle
+[uporczywie]uporczywie (PL) : (p-sł.) insistently; (p-sł.) obstinately; (p-sł.) persistently; (p-sł.) stubbornly
+[uporczywosc]uporczywość (PL) : (rz.) insistence; (rz.) obstinacy; (rz.) persistence; (rz.) persistency; (rz.) pertinacity
+[uporczywy]uporczywy (PL) : (p.) insistent; (p.) inveterate; (p.) obstinate; (p.) persistent; (p.) pertinacious; (p.) severe; (p.) stubborn; (p.) tenacious; (p.) unrelenting; (p.) wrongheaded; (p.) wrong-headed
+[uporzadkowanie]uporządkowanie (PL) : (rz.) adjustment; (rz.) alignment; (rz.) arrangement; (rz.) orderliness; (rz.) regularization; (rz.) sequencing; (rz.) setup; (rz.) trimming
+[uporzadkowac]uporządkować (PL) : (cz.) adjust; (cz.) fix; (cz.) rearrange; (cz.) regularize; (cz.) sort; (cz.) straighten; (cz.) trim
+[uporzadkowywac]uporządkowywać (PL) : (cz.) regularize
+[uposazenie]uposażenie (PL) : (rz.) emolument; (rz.) pay; (rz.) salary
+[uposazyc]uposażyć (PL) : (cz.) dower
+[upowazniac]upoważniać (PL) : (cz.) authorize; (cz.) empower; (cz.) enable; (cz.) entitle; (cz.) license; (cz.) qualify
+[upowaznienie]upoważnienie (PL) : (rz.) authorization; (rz.) empowerment; (rz.) entitlement; (rz.) warrant
+[upowaznic]upoważnić (PL) : (cz.) authorize
+[upowszechnianie]upowszechnianie (PL) : (rz.) promotion
+[upowszechniac]upowszechniać (PL) : (cz.) publicize; (cz.) spread
+[upowszechnic]upowszechnić (PL) : (cz.) spread
+[upozorowac]upozorować (PL) : (cz.) simulate
+[upozorowywac]upozorowywać (PL) : (cz.) fake
+[uposledzac]upośledzać (PL) : (cz.) impair
+[uposledzenie]upośledzenie (PL) : (rz.) disability; (rz.) handicap; (rz.) impairment
+[uposledzony]upośledzony (PL) : (p.) disabled
+[upraszanie]upraszanie (PL) : (rz.) requests
+[upraszac]upraszać (PL) : (cz.) ask
+[upraszczanie]upraszczanie (PL) : (rz.) simplification
+[upraszczac]upraszczać (PL) : (cz.) abbreviate; (cz.) oversimplify; (cz.) simplify
+[uprawa]uprawa (PL) : (rz.) arboriculture; (rz.) crop; (rz.) cultivation; (rz.) culture; (rz.) tillage
+[uprawianie]uprawianie (PL) : (rz.) growing; (rz.) practicing; (rz.) pursuance
+[uprawiac]uprawiać (PL) : (cz.) addict; (cz.) cultivate; (cz.) exercise; (cz.) grow; (cz.) pursue; (cz.) till
+[uprawnianie]uprawnianie (PL) : (rz.) authorization
+[uprawniac]uprawniać (PL) : (cz.) authorise; (cz.) entitle; (cz.) entitling; (cz.) warrant
+[uprawnienie]uprawnienie (PL) : (rz.) authorisation; (rz.) authority; (rz.) capability; (rz.) freedom; (rz.) power; (rz.) right; (rz.) title; (rz.) warrant
+[uprawniony]uprawniony (PL) : (p.) qualified
+[uprawnic]uprawnić (PL) : (cz.) authorise; (cz.) delegate; (cz.) entitle; (cz.) warrant
+[uprawny]uprawny (PL) : (p.) arable; (p.) cultivable; (p.) cultivated
+[uprawomocniac]uprawomocniać (PL) : (cz.) validate
+[uprawomocnienie]uprawomocnienie (PL) : (rz.) legalization; (rz.) validation
+[uprawomocnic]uprawomocnić (PL) : (cz.) validate
+[uprawowy]uprawowy (PL) : (p.) agricultural; (p.) cultivated
+[uprac]uprać (PL) : (cz.) wash
+[uprazyc]uprażyć (PL) : (cz.) roast
+[uprosic]uprosić (PL) : (cz.) ask
+[uproszczenie]uproszczenie (PL) : (rz.) oversimplification; (rz.) simplification
+[uprowadzac]uprowadzać (PL) : (cz.) abduct; (cz.) kidnap
+[uprowadzenie]uprowadzenie (PL) : (rz.) abduction; (rz.) hijacking; (rz.) ravishment
+[uprowadzic]uprowadzić (PL) : (cz.) abduct; (cz.) kidnap
+[uproscic]uprościć (PL) : (cz.) simplify; (cz.) streamline
+[uprzedmiotowienie]uprzedmiotowienie (PL) : (rz.) reification
+[uprzedni]uprzedni (PL) : (p.) anterior; (p.) perfect; (p.) previous; (p.) prior
+[uprzednio]uprzednio (PL) : (p-sł.) beforehand; (p-sł.) previously
+[uprzedzajaco]uprzedzająco (PL) : (p-sł.) extremely; (p-sł.) suspiciously
+[uprzedzac]uprzedzać (PL) : (cz.) anticipate; (cz.) forestall; (cz.) preconceive; (cz.) predict; (cz.) pre-empt; (cz.) preoccupy; (cz.) prepossess; (cz.) warn
+[uprzedzenie]uprzedzenie (PL) : (rz.) anticipation; (rz.) bias; (rz.) preconception; (rz.) prejudice; (rz.) preoccupation; (rz.) warning
+[uprzedzic]uprzedzić (PL) : (cz.) preconceive; (cz.) warned
+[uprzedzony]uprzedzony (PL) : (p.) prejudiced
+[uprzejmie]uprzejmie (PL) : (p-sł.) affably; (p-sł.) blandly; (p-sł.) civilly; (p-sł.) courteously; (p-sł.) gently; (p-sł.) graciously; (p-sł.) kindly; (p-sł.) nicely; (p-sł.) obligingly; (p-sł.) politely
+[uprzejmosc]uprzejmość (PL) : (rz.) affability; (rz.) amenity; (rz.) amiability; (rz.) attention; (rz.) blandness; (rz.) civility; (rz.) complaisance; (rz.) courtesy; (rz.) goodness; (rz.) kindliness; (rz.) kindness; (rz.) politeness; (rz.) urbanity
+[uprzejmy]uprzejmy (PL) : (p.) accommodating; (p.) affable; (p.) amiable; (p.) attentive; (p.) complaisant; (p.) considerate; (p.) courteous; (p.) gallant; (p.) genial; (p.) good-natured; (p.) kind; (p.) kindly; (p.) obliging; (p.) officious; (p.) polite; (p.) suave; (p.) unprecedented; (p.) urbane
+[uprzemyslawiac]uprzemysławiać (PL) : (cz.) industrialize
+[uprzemyslowienie]uprzemysłowienie (PL) : (rz.) industrialization
+[uprzemyslowic]uprzemysłowić (PL) : (cz.) industrialize
+[uprzec]uprzeć (PL) : (cz.) stiffen
+[uprzykrzac]uprzykrzać (PL) : (cz.) bedevil; (cz.) molest; (cz.) resent; (cz.) spoil
+[uprzywilejowanie]uprzywilejowanie (PL) : (rz.) charter; (rz.) preference; (rz.) privilege
+[uprzywilejowany]uprzywilejowany (PL) : (p.) privileged
+[uprzatac]uprzątać (PL) : (cz.) remove; (cz.) tidy
+[uprzasc]uprząść (PL) : (cz.) spin
+[uprzaz]uprząż (PL) : (rz.) harness; (rz.) tackling
+[upstrzenie]upstrzenie (PL) : (rz.) specking
+[upstrzyc]upstrzyć (PL) : (cz.) speckle; (cz.) variegate
+[upudrowac]upudrować (PL) : (cz.) powder
+[upust]upust (PL) : (rz.) bleeder; (rz.) discount; (rz.) floodgate; (rz.) vent
+[upuszczac]upuszczać (PL) : (cz.) drop
+[upuscic]upuścić (PL) : (cz.) drop
+[upychacz]upychacz (PL) : (rz.) plumper
+[upychac]upychać (PL) : (cz.) stuff
+[upoj]upój (PL) : (rz.) intoxication
+[upor]upór (PL) : (rz.) doggedness; (rz.) obduracy; (rz.) obstinacy; (rz.) persistence; (rz.) persistency; (rz.) pertinacity; (rz.) perverseness; (rz.) recalcitrance; (rz.) stubbornness; (rz.) tenacity
+[uplyniecie]upłynięcie (PL) : (rz.) expiration; (rz.) expiry
+[uplynniac]upłynniać (PL) : (cz.) fluidize; (cz.) sell
+[uplynnienie]upłynnienie (PL) : (rz.) realisation
+[uplynnic]upłynnić (PL) : (cz.) fluidize; (cz.) liquidate
+[uplyw]upływ (PL) : (rz.) expiration; (rz.) extinction; (rz.) flux; (rz.) lapse; (rz.) passage
+[uplywac]upływać (PL) : (cz.) elapse; (cz.) expire; (cz.) pass
+[uplywnosc]upływność (PL) : (rz.) leakage
+[urabialny]urabialny (PL) : (p.) workable
+[urabianie]urabianie (PL) : (rz.) breaking; (rz.) mining
+[urabiarka]urabiarka (PL) : (rz.) getter
+[urabiac]urabiać (PL) : (cz.) knead; (cz.) mould; (cz.) shape; (cz.) win
+[uraczyc]uraczyć (PL) : (cz.) regale
+[uradowanie]uradowanie (PL) : (rz.) joy; (rz.) rejoicing
+[uradowac]uradować (PL) : (cz.) exult; (cz.) gladden
+[uradzac]uradzać (PL) : (cz.) decide
+[uradzic]uradzić (PL) : (cz.) decide
+[uran]uran (PL) : (rz.) uranium
+[uraninit]uraninit (PL) : (rz.) pitchblende
+[urastac]urastać (PL) : (cz.) grow
+[uratowac]uratować (PL) : (cz.) redeem; (cz.) rescue; (cz.) salvage; (cz.) save
+[uraz]uraz (PL) : (rz.) injury; (rz.) trauma
+[uraza]uraza (PL) : (rz.) animosity; (rz.) bitterness; (rz.) grievance; (rz.) grudge; (rz.) ill-feeling; (rz.) pique; (rz.) rancour; (rz.) resentment; (rz.) spite; (rz.) umbrage
+[urazic]urazić (PL) : (cz.) offend
+[urazowosc]urazowość (PL) : (rz.) traumatism
+[urazowy]urazowy (PL) : (p.) traumatic
+[urazac]urażać (PL) : (cz.) displease; (cz.) offend
+[urazenie]urażenie (PL) : (rz.) injury
+[urazony]urażony (PL) : (p.) resentful
+[urbanista]urbanista (PL) : (rz.) planner; (rz.) town-planner
+[urbanistyczny]urbanistyczny (PL) : (p.) urban
+[urbanistyka]urbanistyka (PL) : (rz.) town-planning
+[urbanizacja]urbanizacja (PL) : (rz.) urbanization
+[urbanizowac]urbanizować (PL) : (cz.) urbanize
+[uregulowanie]uregulowanie (PL) : (rz.) regulation; (rz.) settlement
+[uregulowac]uregulować (PL) : (cz.) adjust; (cz.) regularize; (cz.) regulate; (cz.) settle
+[uremia]uremia (PL) : (rz.) uraemia
+[uretan]uretan (PL) : (rz.) urethane
+[urlop]urlop (PL) : (rz.) break; (rz.) furlough; (rz.) holidays; (rz.) leave; (rz.) vacation
+[urlopowicz]urlopowicz (PL) : (rz.) holidaymaker; (rz.) holiday-maker; (rz.) vacationer
+[urna]urna (PL) : (rz.) ballot-box; (rz.) urn
+[urobek]urobek (PL) : (rz.) output
+[uroczo]uroczo (PL) : (p-sł.) charmingly
+[uroczy]uroczy (PL) : (p.) adorable; (p.) charming; (p.) cute; (p.) lovely; (p.) sweet; (p.) winsome
+[uroczysko]uroczysko (PL) : (rz.) range
+[uroczystosc]uroczystość (PL) : (rz.) celebration; (rz.) ceremony; (rz.) feast; (rz.) festivity; (rz.) occasion; (rz.) solemnity; (rz.) state
+[uroczysty]uroczysty (PL) : (p.) ceremonial; (p.) ceremonious; (p.) festive; (p.) grand; (p.) solemn; (p.) unctuous
+[uroczyscie]uroczyście (PL) : (p-sł.) solemnly
+[uroda]uroda (PL) : (rz.) beauty; (rz.) comeliness; (rz.) prettiness; (rz.) pulchritude
+[urodzaj]urodzaj (PL) : (rz.) abundance; (rz.) crop; (rz.) harvest
+[urodzajnosc]urodzajność (PL) : (rz.) fertilely; (rz.) fertility
+[urodzajny]urodzajny (PL) : (p.) fertile; (p.) good
+[urodzenie]urodzenie (PL) : (rz.) birth
+[urodzinowy]urodzinowy (PL) : (p.) natal
+[urodziny]urodziny (PL) : (rz.) birthday; (rz.) birthdays
+[urodziwy]urodziwy (PL) : (p.) bonny; (p.) comely; (p.) good-looking; (p.) handsome
+[urodzic]urodzić (PL) : (cz.) born; (cz.) yean
+[uroic]uroić (PL) : (cz.) dream; (cz.) imagine
+[urojenie]urojenie (PL) : (rz.) conceit; (rz.) fantasise; (rz.) fiction; (rz.) illusion; (rz.) maggot; (rz.) presumption; (rz.) whimsy
+[urojeniowy]urojeniowy (PL) : (p.) delusional
+[urojony]urojony (PL) : (p.) imaginary
+[urok]urok (PL) : (rz.) appeal; (rz.) attraction; (rz.) beauty; (rz.) captivation; (rz.) charm; (rz.) fascination; (rz.) glamour; (rz.) hex; (rz.) spell
+[urokliwy]urokliwy (PL) : (p.) captivating; (p.) charming
+[urolog]urolog (PL) : (rz.) urologist
+[urologia]urologia (PL) : (rz.) urology
+[urologiczny]urologiczny (PL) : (p.) urinary; (p.) urological
+[uronic]uronić (PL) : (cz.) shed
+[urotropina]urotropina (PL) : (rz.) hexamethylenetetramine
+[urozmaicac]urozmaicać (PL) : (cz.) diversify; (cz.) intersperse; (cz.) vary
+[urozmaicenie]urozmaicenie (PL) : (rz.) diversification; (rz.) diversity; (rz.) variety
+[urozmaicic]urozmaicić (PL) : (cz.) intersperse; (cz.) make
+[urozmaicony]urozmaicony (PL) : (p.) variegated
+[uruchamiac]uruchamiać (PL) : (cz.) activate; (cz.) actuate; (cz.) debug; (cz.) execute; (cz.) liberate; (cz.) run; (cz.) start
+[uruchomienie]uruchomienie (PL) : (rz.) actuation; (rz.) flotation; (rz.) mobilization; (rz.) takeoff
+[uruchomic]uruchomić (PL) : (cz.) execute; (cz.) start
+[urwac]urwać (PL) : (cz.) intermit; (cz.) snap
+[urwipolec]urwipołeć (PL) : (rz.) scapegrace
+[urwis]urwis (PL) : (rz.) dickens; (rz.) jackanapes; (rz.) rascal; (rz.) scapegrace; (rz.) tomboy; (rz.) tyke; (rz.) urchin
+[urwisko]urwisko (PL) : (rz.) bluff; (rz.) cliff; (rz.) crag; (rz.) precipice; (rz.) scarp
+[urwisowski]urwisowski (PL) : (p.) arch; (p.) prankish
+[urwisty]urwisty (PL) : (p.) cliffy; (p.) craggy; (p.) precipitous; (p.) rugged; (p.) steep
+[uryna]uryna (PL) : (rz.) urine
+[urynal]urynał (PL) : (rz.) urinal
+[urywac]urywać (PL) : (cz.) sever
+[urywek]urywek (PL) : (rz.) excerpt; (rz.) fragment; (rz.) movement; (rz.) paragraph; (rz.) passage; (rz.) scrap; (rz.) snatch; (rz.) snippet
+[urywkowy]urywkowy (PL) : (p.) discursive; (p.) fragmentary
+[urzeczenie]urzeczenie (PL) : (rz.) bewitchment; (rz.) captivation; (rz.) charm
+[urzeczony]urzeczony (PL) : (p.) spellbound
+[urzeczowienie]urzeczowienie (PL) : (rz.) reification
+[urzeczywistniac]urzeczywistniać (PL) : (cz.) actualize; (cz.) materialize; (cz.) realize; (cz.) seek
+[urzeczywistnienie]urzeczywistnienie (PL) : (rz.) fruition; (rz.) realisation; (rz.) realization
+[urzeczywistnic]urzeczywistnić (PL) : (cz.) actualize; (cz.) materialize
+[urzekac]urzekać (PL) : (cz.) bewitch; (cz.) captivate
+[urzad]urząd (PL) : (rz.) agency; (rz.) bureau; (rz.) clerkship; (rz.) commission; (rz.) department; (rz.) magistracy; (rz.) office; (rz.) ordinary; (rz.) post; (rz.) station; (rz.) status
+[urzadzac]urządzać (PL) : (cz.) arrange; (cz.) furnish; (cz.) institute; (cz.) mount; (cz.) nestle; (cz.) organize; (cz.) plant
+[urzadzenia]urządzenia (PL) : (rz.) facilities; (rz.) trouble
+[urzadzenie]urządzenie (PL) : (rz.) apparatus; (rz.) appliance; (rz.) arrangement; (rz.) attachment; (rz.) contraption; (rz.) contrivance; (rz.) device; (rz.) equipment; (rz.) establishment; (rz.) fitment; (rz.) fitting; (rz.) fixture; (rz.) furnishings; (rz.) gadget; (rz.) gimmick; (rz.) installation; (rz.) opener
+[urzadzic]urządzić (PL) : (cz.) fit; (cz.) nestle
+[urzedniczy]urzędniczy (PL) : (p.) clerical
+[urzednik]urzędnik (PL) : (rz.) clerk; (rz.) magistrate; (rz.) officer; (rz.) official; (rz.) registrar; (rz.) serviceman
+[urzedowanie]urzędowanie (PL) : (rz.) office; (rz.) tenure
+[urzedowac]urzędować (PL) : (cz.) officiate; (cz.) serve
+[urzedowo]urzędowo (PL) : (p-sł.) officially
+[urzedowy]urzędowy (PL) : (p.) formal; (p.) official; (p.) standard
+[uraganie]urąganie (PL) : (rz.) outrage
+[uragac]urągać (PL) : (cz.) baffle; (cz.) insult; (cz.) revile
+[uragliwy]urągliwy (PL) : (p.) derisive
+[uragowisko]urągowisko (PL) : (rz.) mockery
+[usadowic]usadowić (PL) : (cz.) settle
+[usadzac]usadzać (PL) : (cz.) seat; (cz.) station
+[usadzic]usadzić (PL) : (cz.) station
+[usamowolniac]usamowolniać (PL) : (cz.) emancipate
+[usankcjonowac]usankcjonować (PL) : (cz.) assent; (cz.) legitimize
+[usatysfakcjonowac]usatysfakcjonować (PL) : (cz.) satisfied; (cz.) satisfy
+[uschniecie]uschnięcie (PL) : (rz.) withers
+[usiac]usiać (PL) : (cz.) stud
+[usidlac]usidlać (PL) : (cz.) ensnare; (cz.) entrap; (cz.) snare
+[usidlic]usidlić (PL) : (cz.) ensnare; (cz.) entrap; (cz.) noose; (cz.) snare
+[usiedziec]usiedzieć (PL) : (cz.) sit
+[usilnie]usilnie (PL) : (p-sł.) insistently; (p-sł.) strongly
+[usilny]usilny (PL) : (p.) hard; (p.) insistent; (p.) intense; (p.) strenuous; (p.) urgent
+[usiasc]usiąść (PL) : (cz.) sit
+[usilowanie]usiłowanie (PL) : (rz.) attempt; (rz.) striving
+[usilowac]usiłować (PL) : (cz.) attempt; (cz.) endeavour; (cz.) seek; (cz.) strive
+[uskakiwac]uskakiwać (PL) : (cz.) dodge
+[uskarzac]uskarżać (PL) : (cz.) complain
+[uskok]uskok (PL) : (rz.) horst; (rz.) jump
+[uskuteczniac]uskuteczniać (PL) : (cz.) render
+[uskladac]uskładać (PL) : (cz.) save
+[usmarowac]usmarować (PL) : (cz.) dirty; (cz.) grime; (cz.) smear
+[usmazyc]usmażyć (PL) : (cz.) frizzle; (cz.) fry
+[usnuc]usnuć (PL) : (cz.) spin
+[uspakajac]uspakajać (PL) : (cz.) allay; (cz.) calm; (cz.) conciliate; (cz.) pacify; (cz.) quiet; (cz.) settle; (cz.) soothe; (cz.) steady
+[uspokajajaco]uspokajająco (PL) : (p-sł.) reassuringly
+[uspokajajacy]uspokajający (PL) : (p.) ataractic
+[uspokajac]uspokajać (PL) : (cz.) appease; (cz.) assuage; (cz.) becalm; (cz.) calm; (cz.) compose; (cz.) ease; (cz.) heal; (cz.) lull; (cz.) mitigate; (cz.) moderate; (cz.) pacify; (cz.) placate; (cz.) quiet; (cz.) quieten; (cz.) reassure; (cz.) salve; (cz.) silence; (cz.) sober; (cz.) steady; (cz.) tranquillize
+[uspokoic]uspokoić (PL) : (cz.) allay; (cz.) appease; (cz.) calm; (cz.) conciliate; (cz.) pacify; (cz.) quiet; (cz.) reassure; (cz.) settle; (cz.) soothe; (cz.) steady
+[uspokojenie]uspokojenie (PL) : (rz.) assuagement; (rz.) calm; (rz.) sedation
+[uspokojony]uspokojony (PL) : (p.) relieved
+[usposabiac]usposabiać (PL) : (cz.) prepossess
+[usposobienie]usposobienie (PL) : (rz.) disposition; (rz.) mettle; (rz.) mood; (rz.) nature; (rz.) temper
+[uspoleczniac]uspołeczniać (PL) : (cz.) socialize
+[uspolecznic]uspołecznić (PL) : (cz.) civilize; (cz.) socialize
+[usprawiedliwiac]usprawiedliwiać (PL) : (cz.) apologize; (cz.) excuse; (cz.) exonerate; (cz.) justify; (cz.) legitimize; (cz.) warrant
+[usprawiedliwienie]usprawiedliwienie (PL) : (rz.) alibi; (rz.) apology; (rz.) exculpation; (rz.) excuse; (rz.) justification; (rz.) plea; (rz.) vindication
+[usprawiedliwic]usprawiedliwić (PL) : (cz.) apologize; (cz.) exonerate; (cz.) justify; (cz.) warrant
+[usprawnianie]usprawnianie (PL) : (rz.) perfection; (rz.) streamlining
+[usprawniac]usprawniać (PL) : (cz.) amend; (cz.) enrich; (cz.) improved; (cz.) modify; (cz.) rationalise; (cz.) revamped; (cz.) streamline
+[usprawnienie]usprawnienie (PL) : (rz.) enhancement; (rz.) improvement; (rz.) innovation
+[usprawnic]usprawnić (PL) : (cz.) improved; (cz.) modify; (cz.) streamline
+[usta]usta (PL) : (rz.) kisser; (rz.) mouth; (rz.) mouths; (rz.) stoma
+[ustabilizowac]ustabilizować (PL) : (cz.) stabilize
+[ustalanie]ustalanie (PL) : (rz.) ranking; (rz.) setting
+[ustalac]ustalać (PL) : (cz.) adjust; (cz.) arrange; (cz.) ascertain; (cz.) assign; (cz.) determine; (cz.) establish; (cz.) fix; (cz.) predetermine; (cz.) set; (cz.) solidify; (cz.) state; (cz.) steady; (cz.) stipulate
+[ustalenie]ustalenie (PL) : (rz.) decision; (rz.) finding; (rz.) fix; (rz.) settlement
+[ustalic]ustalić (PL) : (cz.) ascertain; (cz.) establish; (cz.) fix; (cz.) set; (cz.) solidify; (cz.) steady
+[ustalony]ustalony (PL) : (p.) appointed; (p.) fixed; (p.) hard-coded; (p.) steady
+[ustanawianie]ustanawianie (PL) : (rz.) setting
+[ustanawiac]ustanawiać (PL) : (cz.) constitute; (cz.) establish; (cz.) form; (cz.) institute; (cz.) legislate; (cz.) settle; (cz.) start
+[ustanowienie]ustanowienie (PL) : (rz.) constitution; (rz.) establishment; (rz.) institution
+[ustanowic]ustanowić (PL) : (cz.) establish; (cz.) form; (cz.) settle; (cz.) start
+[ustawa]ustawa (PL) : (rz.) act; (rz.) constitution; (rz.) copyright; (rz.) law; (rz.) statute
+[ustawac]ustawać (PL) : (cz.) cease; (cz.) discontinue; (cz.) stop; (cz.) subside
+[ustawiacz]ustawiacz (PL) : (rz.) adjuster
+[ustawianie]ustawianie (PL) : (rz.) placing; (rz.) ranking; (rz.) set; (rz.) setting; (rz.) setup; (rz.) setups
+[ustawiac]ustawiać (PL) : (cz.) align; (cz.) arrange; (cz.) array; (cz.) attune; (cz.) determine; (cz.) dispose; (cz.) juxtapose; (cz.) marshal; (cz.) plant; (cz.) preset; (cz.) set; (cz.) situate
+[ustawicznie]ustawicznie (PL) : (p-sł.) constantly; (p-sł.) persistently
+[ustawiczny]ustawiczny (PL) : (p.) constant; (p.) endless; (p.) incessant; (p.) persistent
+[ustawienia]ustawienia (PL) : (rz.) preferences; (rz.) settings
+[ustawienie]ustawienie (PL) : (rz.) alignment; (rz.) arrangement; (rz.) aspect; (rz.) configuration; (rz.) line-up; (rz.) setting; (rz.) setup
+[ustawic]ustawić (PL) : (cz.) array; (cz.) attune; (cz.) juxtapose; (cz.) set; (cz.) situate
+[ustawny]ustawny (PL) : (p.) well-designed
+[ustawodawca]ustawodawca (PL) : (rz.) lawmaker; (rz.) legislator; (rz.) legislature
+[ustawodawczy]ustawodawczy (PL) : (p.) constitutive; (p.) legislative
+[ustawodawstwo]ustawodawstwo (PL) : (rz.) lawmaking; (rz.) legislation
+[ustawowy]ustawowy (PL) : (p.) legal; (p.) statutory
+[ustac]ustać (PL) : (cz.) intermit
+[usterka]usterka (PL) : (rz.) defect; (rz.) fault; (rz.) glitch; (rz.) imperfection; (rz.) shortcoming
+[usterzenie]usterzenie (PL) : (rz.) tail
+[ustnie]ustnie (PL) : (p-sł.) orally; (p-sł.) verbally
+[ustnik]ustnik (PL) : (rz.) embouchure; (rz.) mouthpiece
+[ustny]ustny (PL) : (p.) oral; (p.) spoken; (p.) verbal
+[ustokrotnic]ustokrotnić (PL) : (cz.) centuplicate
+[ustosunkowanie]ustosunkowanie (PL) : (rz.) answer; (rz.) attitude
+[ustosunkowac]ustosunkować (PL) : (cz.) comment
+[ustosunkowywac]ustosunkowywać (PL) : (cz.) respond
+[ustrajac]ustrajać (PL) : (cz.) attire
+[ustroic]ustroić (PL) : (cz.) array; (cz.) attire
+[ustrojenie]ustrojenie (PL) : (rz.) deck
+[ustrojowy]ustrojowy (PL) : (p.) constitutional; (p.) political
+[ustrojstwo]ustrojstwo (PL) : (rz.) contraption; (rz.) gizmo
+[ustronie]ustronie (PL) : (rz.) retreat; (rz.) seclusion
+[ustronny]ustronny (PL) : (p.) outlandish; (p.) private; (p.) retired; (p.) secluded; (p.) solitary
+[ustrzec]ustrzec (PL) : (cz.) obviate
+[ustrzelic]ustrzelić (PL) : (cz.) pot
+[ustroj]ustrój (PL) : (rz.) government; (rz.) polity; (rz.) regime; (rz.) system
+[ustapienie]ustąpienie (PL) : (rz.) abdication; (rz.) resignation; (rz.) resolution
+[ustapic]ustąpić (PL) : (cz.) abate; (cz.) cede; (cz.) concede; (cz.) relent; (cz.) resign; (cz.) surrender
+[ustep]ustęp (PL) : (rz.) closet; (rz.) latrine; (rz.) paragraph; (rz.) passage; (rz.) subhead; (rz.) toilet
+[ustepliwosc]ustępliwość (PL) : (rz.) compliance; (rz.) tractability
+[ustepliwy]ustępliwy (PL) : (p.) amenable; (p.) compliant; (p.) pliable; (p.) pliant; (p.) resilient
+[ustepowanie]ustępowanie (PL) : (rz.) abating; (rz.) paragraphs
+[ustepowac]ustępować (PL) : (cz.) abate; (cz.) cede; (cz.) concede; (cz.) ground; (cz.) relent; (cz.) resign; (cz.) retreat; (cz.) yield
+[ustepstwo]ustępstwo (PL) : (rz.) appeasement; (rz.) climb-down; (rz.) concession
+[usuniecie]usunięcie (PL) : (rz.) abstraction; (rz.) deletion; (rz.) deposition; (rz.) dislodgement; (rz.) disposal; (rz.) removal; (rz.) remove; (rz.) solution
+[usunac]usunąć (PL) : (cz.) delete; (cz.) obviate; (cz.) remove
+[ususzyc]ususzyć (PL) : (cz.) dry
+[usuwalny]usuwalny (PL) : (p.) removable
+[usuwanie]usuwanie (PL) : (rz.) aborting; (rz.) deletion; (rz.) disposal; (rz.) expulsion; (rz.) pop; (rz.) removal
+[usuwac]usuwać (PL) : (cz.) abolish; (cz.) debug; (cz.) delete; (cz.) deplete; (cz.) dislodge; (cz.) eject; (cz.) eliminate; (cz.) empty; (cz.) erase; (cz.) exorcize; (cz.) lift; (cz.) obliterate; (cz.) oust; (cz.) purge; (cz.) remove; (cz.) retire; (cz.) sidle; (cz.) sink; (cz.) unload; (cz.) winkle; (cz.) withdraw
+[usuwisko]usuwisko (PL) : (rz.) landslip
+[usychac]usychać (PL) : (cz.) shrivel; (cz.) wither
+[usypac]usypać (PL) : (cz.) slip
+[usypiac]usypiać (PL) : (cz.) advertise; (cz.) anaesthetize; (cz.) lull
+[usypisko]usypisko (PL) : (rz.) dump; (rz.) heap
+[usystematyzowac]usystematyzować (PL) : (cz.) systematize; (cz.) systemize
+[usytuowanie]usytuowanie (PL) : (rz.) location
+[usytuowac]usytuować (PL) : (cz.) place
+[uszanowanie]uszanowanie (PL) : (rz.) respect
+[uszanowac]uszanować (PL) : (cz.) respect; (cz.) spare
+[uszczegolawianie]uszczegóławianie (PL) : (rz.) drilldown; (rz.) drill-down
+[uszczegolowianie]uszczegółowianie (PL) : (rz.) precision; (rz.) specialization
+[uszczegolowic]uszczegółowić (PL) : (cz.) detail
+[uszczelka]uszczelka (PL) : (rz.) gasket; (rz.) seal; (rz.) washer
+[uszczelniacz]uszczelniacz (PL) : (rz.) sealant
+[uszczelnianie]uszczelnianie (PL) : (rz.) sealing
+[uszczelniac]uszczelniać (PL) : (cz.) caulk; (cz.) pack; (cz.) seal; (cz.) tighten
+[uszczelnienie]uszczelnienie (PL) : (rz.) packing; (rz.) seal
+[uszczelnic]uszczelnić (PL) : (cz.) caulk; (cz.) sealed
+[uszczerbek]uszczerbek (PL) : (rz.) damage; (rz.) dent; (rz.) detriment; (rz.) disservice; (rz.) injury; (rz.) prejudice
+[uszczuplac]uszczuplać (PL) : (cz.) deplete; (cz.) detract; (cz.) hole; (cz.) reduce
+[uszczuplenie]uszczuplenie (PL) : (rz.) depletion; (rz.) diminution
+[uszczypliwosc]uszczypliwość (PL) : (rz.) acerbity; (rz.) causticity; (rz.) poignancy
+[uszczypliwy]uszczypliwy (PL) : (p.) acrimonious; (p.) biting; (p.) catty; (p.) poignant; (p.) pointed; (p.) snappish; (p.) tart
+[uszczypniecie]uszczypniecie (PL) : (rz.) nip
+[uszczypniecie]uszczypnięcie (PL) : (rz.) nip; (rz.) pinch; (rz.) tweak
+[uszczesliwienie]uszczęśliwienie (PL) : (rz.) happiness
+[uszeregowanie]uszeregowanie (PL) : (rz.) priority
+[uszeregowac]uszeregować (PL) : (cz.) serialize; (cz.) sort
+[uszkadzac]uszkadzać (PL) : (cz.) cripple; (cz.) damage; (cz.) impair; (cz.) injure
+[uszko]uszko (PL) : (rz.) damage; (rz.) handle; (rz.) ravioli
+[uszkodzenie]uszkodzenie (PL) : (rz.) corruption; (rz.) damage; (rz.) decay; (rz.) failure; (rz.) fault; (rz.) injury; (rz.) lesion
+[uszkodzic]uszkodzić (PL) : (cz.) cripple; (cz.) damage; (cz.) impair; (cz.) injure
+[uszlachetniac]uszlachetniać (PL) : (cz.) dignify; (cz.) dress; (cz.) ennoble; (cz.) meliorate; (cz.) refine
+[uszlachetnienie]uszlachetnienie (PL) : (rz.) ennoblement
+[uszlachetnic]uszlachetnić (PL) : (cz.) dignify; (cz.) ennoble
+[uszny]uszny (PL) : (p.) aural; (p.) auricular
+[usztywniacz]usztywniacz (PL) : (rz.) stiffener; (rz.) stiffeners
+[usztywnianie]usztywnianie (PL) : (rz.) bracing
+[usztywniac]usztywniać (PL) : (cz.) stay; (cz.) stiffen
+[usztywnienie]usztywnienie (PL) : (rz.) backstay; (rz.) stiffener
+[usztywnic]usztywnić (PL) : (cz.) stiffen
+[uszykowac]uszykować (PL) : (cz.) marshal
+[uszyc]uszyć (PL) : (cz.) sew
+[uslac]usłać (PL) : (cz.) lie
+[uslonecznienie]usłonecznienie (PL) : (rz.) sunshine
+[usluchac]usłuchać (PL) : (cz.) listen; (cz.) obey
+[usluga]usługa (PL) : (rz.) service
+[uslugiwac]usługiwać (PL) : (cz.) expect; (cz.) serve; (cz.) valet; (cz.) wait
+[uslugobiorca]usługobiorca (PL) : (rz.) recipient
+[uslugodawca]usługodawca (PL) : (rz.) provider
+[usluznie]usłużnie (PL) : (p-sł.) obligingly
+[usluznosc]usłużność (PL) : (rz.) complaisance
+[usluzny]usłużny (PL) : (p.) accommodating; (p.) attentive; (p.) complaisant; (p.) ministerial; (p.) officious
+[uslyszec]usłyszeć (PL) : (cz.) hear
+[utaic]utaić (PL) : (cz.) conceal; (cz.) suppress
+[utajac]utajać (PL) : (cz.) conceal
+[utajenie]utajenie (PL) : (rz.) latency
+[utajnianie]utajnianie (PL) : (rz.) encryption
+[utajniac]utajniać (PL) : (cz.) encrypt
+[utajony]utajony (PL) : (p.) latent
+[utalentowany]utalentowany (PL) : (p.) accomplished; (p.) gifted; (p.) talented
+[utapirowac]utapirować (PL) : (cz.) backcomb; (cz.) back-comb
+[utarczka]utarczka (PL) : (rz.) brush; (rz.) melee; (rz.) skirmish; (rz.) squabble
+[utarg]utarg (PL) : (rz.) taking; (rz.) takings
+[utargowac]utargować (PL) : (cz.) gain
+[utemperowac]utemperować (PL) : (cz.) chasten; (cz.) curb
+[utensylia]utensylia (PL) : (rz.) utensils
+[utkac]utkać (PL) : (cz.) intertwine; (cz.) unwoven
+[utknac]utknąć (PL) : (cz.) stall; (cz.) stop
+[utkwic]utkwić (PL) : (cz.) balk; (cz.) fix; (cz.) inhere; (cz.) rivet; (cz.) stick
+[utleniacz]utleniacz (PL) : (rz.) oxidant; (rz.) oxidiser; (rz.) oxidizer
+[utlenianie]utlenianie (PL) : (rz.) oxidation; (rz.) oxygenation
+[utleniac]utleniać (PL) : (cz.) oxidize; (cz.) oxygenate; (cz.) ventilate
+[utlenienie]utlenienie (PL) : (rz.) oxidation; (rz.) oxygenation
+[utlenic]utlenić (PL) : (cz.) oxygenize
+[utonac]utonąć (PL) : (cz.) drown; (cz.) sink
+[utopia]utopia (PL) : (rz.) utopia
+[utopista]utopista (PL) : (rz.) utopian
+[utopic]utopić (PL) : (cz.) drown; (cz.) melt
+[utorowac]utorować (PL) : (cz.) pave
+[utozsamianie]utożsamianie (PL) : (rz.) aliasing; (rz.) identification
+[utozsamiac]utożsamiać (PL) : (cz.) confused; (cz.) identify
+[utozsamienie]utożsamienie (PL) : (rz.) identification
+[utozsamic]utożsamić (PL) : (cz.) identify
+[utracenie]utracenie (PL) : (rz.) losing
+[utracic]utracić (PL) : (cz.) loose
+[utracjusz]utracjusz (PL) : (rz.) prodigal; (rz.) spender; (rz.) spendthrift
+[utracony]utracony (PL) : (p.) lost
+[utrapienie]utrapienie (PL) : (rz.) nuisance; (rz.) peeve; (rz.) plague; (rz.) trouble; (rz.) vexation
+[utrata]utrata (PL) : (rz.) deprivation; (rz.) drop; (rz.) forfeiture; (rz.) loss; (rz.) privation
+[utrudnianie]utrudnianie (PL) : (rz.) hindrance; (rz.) obstruction
+[utrudniac]utrudniać (PL) : (cz.) aggravate; (cz.) encumber; (cz.) hamper; (cz.) impede; (cz.) obstruct; (cz.) stymie
+[utrudnienie]utrudnienie (PL) : (rz.) aggravation; (rz.) bind; (rz.) difficulty; (rz.) encumbrance; (rz.) handicap; (rz.) hindrance; (rz.) impediment
+[utrudnic]utrudnić (PL) : (cz.) aggravate; (cz.) obstruct
+[utrudzenie]utrudzenie (PL) : (rz.) fatigue
+[utrwalacz]utrwalacz (PL) : (rz.) fixative; (rz.) fixer
+[utrwalanie]utrwalanie (PL) : (rz.) recording
+[utrwalac]utrwalać (PL) : (cz.) entrench; (cz.) fix; (cz.) preserve; (cz.) solidify; (cz.) strengthen
+[utrwalenie]utrwalenie (PL) : (rz.) consolidation; (rz.) fixation; (rz.) refresher
+[utrwalic]utrwalić (PL) : (cz.) entrench; (cz.) fix
+[utrwalony]utrwalony (PL) : (p.) fixed
+[utrzymanie]utrzymanie (PL) : (rz.) aliment; (rz.) bread; (rz.) keep; (rz.) keeping; (rz.) livelihood; (rz.) living; (rz.) maintenance; (rz.) subsistence; (rz.) sustenance; (rz.) upkeep
+[utrzymac]utrzymać (PL) : (cz.) maintain; (cz.) retain
+[utrzymywanie]utrzymywanie (PL) : (rz.) maintenance; (rz.) support
+[utrzymywac]utrzymywać (PL) : (cz.) affirm; (cz.) allege; (cz.) continue; (cz.) detain; (cz.) earn; (cz.) entertain; (cz.) keep; (cz.) maintain; (cz.) obtain; (cz.) persist; (cz.) retain; (cz.) support; (cz.) sustain
+[utracic]utrącić (PL) : (cz.) abate; (cz.) overthrow
+[utuczyc]utuczyć (PL) : (cz.) fatten
+[utulic]utulić (PL) : (cz.) comfort; (cz.) console; (cz.) nestle
+[utwardzacz]utwardzacz (PL) : (rz.) hardener
+[utwardzanie]utwardzanie (PL) : (rz.) cure; (rz.) curing; (rz.) hardening
+[utwardzac]utwardzać (PL) : (cz.) harden; (cz.) indurate; (cz.) stiffen; (cz.) toughen
+[utwardzenie]utwardzenie (PL) : (rz.) hardening
+[utwardzic]utwardzić (PL) : (cz.) toughen
+[utwierdzanie]utwierdzanie (PL) : (rz.) fastening
+[utwierdzac]utwierdzać (PL) : (cz.) cement; (cz.) confirm; (cz.) consolidate; (cz.) reassure; (cz.) restrain; (cz.) steady; (cz.) vindicate
+[utwierdzenie]utwierdzenie (PL) : (rz.) anchoring; (rz.) restraint
+[utwierdzic]utwierdzić (PL) : (cz.) assert; (cz.) reassure; (cz.) steady
+[utworzenie]utworzenie (PL) : (rz.) creation; (rz.) rise
+[utworzyc]utworzyć (PL) : (cz.) compose; (cz.) constitute; (cz.) create; (cz.) develop
+[utwor]utwór (PL) : (rz.) composition; (rz.) poem; (rz.) track; (rz.) work
+[utykanie]utykanie (PL) : (rz.) halt; (rz.) hobble
+[utykac]utykać (PL) : (cz.) hobble; (cz.) limp; (cz.) tamp
+[utylitarnosc]utylitarność (PL) : (rz.) utilitarianism
+[utylitarny]utylitarny (PL) : (p.) useful; (p.) utilitarian
+[utylitarysta]utylitarysta (PL) : (rz.) utilitarian
+[utylitarystyczny]utylitarystyczny (PL) : (p.) utilitarian
+[utylitaryzm]utylitaryzm (PL) : (rz.) utilitarianism
+[utylizacja]utylizacja (PL) : (rz.) disposal; (rz.) utilisation; (rz.) utilization
+[utylizowanie]utylizowanie (PL) : (rz.) disposal
+[utylizowac]utylizować (PL) : (cz.) disposed; (cz.) utilize
+[utyskiwanie]utyskiwanie (PL) : (rz.) complaints
+[utyskiwac]utyskiwać (PL) : (cz.) grumble; (cz.) scold
+[utytlac]utytłać (PL) : (cz.) smear
+[utyc]utyć (PL) : (cz.) fatten
+[uwadniac]uwadniać (PL) : (cz.) hydrate
+[uwaga]uwaga (PL) : (rz.) annotation; (rz.) application; (rz.) attendance; (rz.) attention; (rz.) caution; (rz.) cautiousness; (rz.) comment; (rz.) consideration; (rz.) heed; (rz.) note; (rz.) notice; (rz.) observation; (rz.) oyez; (rz.) reflection; (rz.) regard; (rz.) remark
+[uwalac]uwalać (PL) : (cz.) dirty
+[uwalniac]uwalniać (PL) : (cz.) absolve; (cz.) acquit; (cz.) affranchise; (cz.) assoil; (cz.) disencumber; (cz.) disengage; (cz.) divest; (cz.) enfranchise; (cz.) exempt; (cz.) free; (cz.) justify; (cz.) liberate; (cz.) loosen; (cz.) redeem; (cz.) release; (cz.) rid; (cz.) shelve; (cz.) unchain; (cz.) unleash; (cz.) unshackle
+[uwarstwienia]uwarstwienia (PL) : (rz.) stratification
+[uwarstwienie]uwarstwienie (PL) : (rz.) lamination; (rz.) stratification
+[uwarunkowanie]uwarunkowanie (PL) : (rz.) conditionality; (rz.) conditioning
+[uwarunkowany]uwarunkowany (PL) : (p.) provisory
+[uwalowac]uwałować (PL) : (cz.) roll
+[uwazanie]uważanie (PL) : (rz.) treatment
+[uwazac]uważać (PL) : (cz.) account; (cz.) believe; (cz.) count; (cz.) deem; (cz.) heed; (cz.) judge; (cz.) mind; (cz.) overlook; (cz.) reckon; (cz.) repute; (cz.) think; (cz.) treat; (cz.) watch
+[uwaznie]uważnie (PL) : (p-sł.) attentively; (p-sł.) carefully; (p-sł.) closely; (p-sł.) intently; (p-sł.) studiously
+[uwazny]uważny (PL) : (p.) attentive; (p.) careful; (p.) cautious; (p.) chary; (p.) considerate; (p.) heedful; (p.) intent; (p.) mindful; (p.) observant; (p.) particular; (p.) watchful
+[uwertura]uwertura (PL) : (rz.) overtone; (rz.) overture
+[uwiarygodniac]uwiarygodniać (PL) : (cz.) authenticate
+[uwiarygodnic]uwiarygodnić (PL) : (cz.) authenticate
+[uwidaczniac]uwidaczniać (PL) : (cz.) demonstrate; (cz.) show
+[uwidocznienie]uwidocznienie (PL) : (rz.) visibility; (rz.) visualization
+[uwidocznic]uwidocznić (PL) : (cz.) show
+[uwiecznianie]uwiecznianie (PL) : (rz.) immortalise; (rz.) immortalization
+[uwieczniac]uwieczniać (PL) : (cz.) immortalize; (cz.) perpetuate; (cz.) record
+[uwiecznienie]uwiecznienie (PL) : (rz.) immortalization; (rz.) perpetuation
+[uwiecznic]uwiecznić (PL) : (cz.) eternize
+[uwiedzenie]uwiedzenie (PL) : (rz.) seduction
+[uwielbiac]uwielbiać (PL) : (cz.) admire; (cz.) adore; (cz.) idolize; (cz.) love; (cz.) worship
+[uwielbienie]uwielbienie (PL) : (rz.) adoration; (rz.) reverence; (rz.) worshipfulness
+[uwielbic]uwielbić (PL) : (cz.) praise
+[uwielokrotniac]uwielokrotniać (PL) : (cz.) multiply
+[uwierac]uwierać (PL) : (cz.) rub
+[uwierzytelniac]uwierzytelniać (PL) : (cz.) authenticate
+[uwierzytelnienie]uwierzytelnienie (PL) : (rz.) accreditation; (rz.) authentication; (rz.) certification; (rz.) credential
+[uwierzytelnic]uwierzytelnić (PL) : (cz.) authenticate
+[uwierzyc]uwierzyć (PL) : (cz.) believe
+[uwienczenie]uwieńczenie (PL) : (rz.) consummation
+[uwienczyc]uwieńczyć (PL) : (cz.) consummate; (cz.) crown
+[uwiesc]uwieść (PL) : (cz.) seduce; (cz.) seduced
+[uwijanie]uwijanie (PL) : (rz.) bustling
+[uwijac]uwijać (PL) : (cz.) spin
+[uwiklanie]uwikłanie (PL) : (rz.) entanglement; (rz.) implication; (rz.) involvement
+[uwiklac]uwikłać (PL) : (cz.) embroil; (cz.) entangle; (cz.) evade; (cz.) involve; (cz.) mesh; (cz.) noose
+[uwiad]uwiąd (PL) : (rz.) decay; (rz.) decrepitude
+[uwiazanie]uwiązanie (PL) : (rz.) affection; (rz.) attachment
+[uwiazac]uwiązać (PL) : (cz.) tie
+[uwiednac]uwiędnąć (PL) : (cz.) wither
+[uwiezienie]uwięzienie (PL) : (rz.) confinement; (rz.) detention; (rz.) durance; (rz.) imprisonment
+[uwieziony]uwięziony (PL) : (p.) captive
+[uwiezic]uwięzić (PL) : (cz.) confine; (cz.) gaol; (cz.) immure; (cz.) imprison; (cz.) incarcerate; (cz.) jail
+[uwiez]uwięź (PL) : (rz.) tether
+[uwiezniecie]uwięźnięcie (PL) : (rz.) incarceration
+[uwodnienie]uwodnienie (PL) : (rz.) hydration
+[uwodniony]uwodniony (PL) : (p.) hydrated
+[uwodornianie]uwodornianie (PL) : (rz.) hydrogenation; (rz.) hydrogenize
+[uwodorniac]uwodorniać (PL) : (cz.) hydrogenate
+[uwodornienie]uwodornienie (PL) : (rz.) hydrogenize
+[uwodzenie]uwodzenie (PL) : (rz.) seduction
+[uwodziciel]uwodziciel (PL) : (rz.) charmer; (rz.) seducer
+[uwodzicielski]uwodzicielski (PL) : (p.) alluring; (p.) seductive
+[uwodzicielsko]uwodzicielsko (PL) : (p-sł.) seductively
+[uwodzic]uwodzić (PL) : (cz.) abduct; (cz.) allure; (cz.) cajole; (cz.) entice; (cz.) inveigle; (cz.) rape; (cz.) ravish; (cz.) seduce; (cz.) woo
+[uwolnienie]uwolnienie (PL) : (rz.) disengagement; (rz.) exemption; (rz.) exoneration; (rz.) liberation; (rz.) quittance; (rz.) redemption; (rz.) release; (rz.) riddance
+[uwolnic]uwolnić (PL) : (cz.) absolve; (cz.) acquit; (cz.) disencumber; (cz.) disengage; (cz.) enfranchise; (cz.) exempt; (cz.) free; (cz.) justify; (cz.) liberate; (cz.) loosen; (cz.) redeem; (cz.) release; (cz.) rid; (cz.) shelve; (cz.) unchain; (cz.) unclasp
+[uwrazliwiac]uwrażliwiać (PL) : (cz.) sensitize
+[uwrazliwic]uwrażliwić (PL) : (cz.) sensitize
+[uwularny]uwularny (PL) : (p.) uvular
+[uwydatnianie]uwydatnianie (PL) : (rz.) emphasis; (rz.) emphasising
+[uwydatniac]uwydatniać (PL) : (cz.) accentuate; (cz.) emphasise; (cz.) enhance; (cz.) feature; (cz.) highlight
+[uwydatnienie]uwydatnienie (PL) : (rz.) enhancement; (rz.) prominence
+[uwydatnic]uwydatnić (PL) : (cz.) accentuate; (cz.) enhance; (cz.) feature; (cz.) highlight
+[uwypuklac]uwypuklać (PL) : (cz.) accentuate; (cz.) emboss; (cz.) emphasise; (cz.) emphasize; (cz.) enhance; (cz.) feature; (cz.) highlight
+[uwypuklenie]uwypuklenie (PL) : (rz.) emphasis; (rz.) emphasising
+[uwypuklic]uwypuklić (PL) : (cz.) emboss; (cz.) enhance; (cz.) feature; (cz.) highlight
+[uwzgledniac]uwzględniać (PL) : (cz.) account; (cz.) allow; (cz.) embody
+[uwzglednic]uwzględnić (PL) : (cz.) include
+[uwznioslac]uwznioślać (PL) : (cz.) idealize
+[uwedzic]uwędzić (PL) : (cz.) bloat
+[uwlaczac]uwłaczać (PL) : (cz.) belittle; (cz.) defame; (cz.) derogate; (cz.) insult; (cz.) outrage
+[uwlaszczac]uwłaszczać (PL) : (cz.) enfranchise
+[uwlaszczenie]uwłaszczenie (PL) : (rz.) enfranchisement
+[uwlosienie]uwłosienie (PL) : (rz.) pelage
+[uzaleznianie]uzależnianie (PL) : (rz.) addicting; (rz.) making
+[uzalezniac]uzależniać (PL) : (cz.) make; (cz.) necessitate
+[uzaleznienie]uzależnienie (PL) : (rz.) addiction; (rz.) dependence; (rz.) dependency
+[uzaleznic]uzależnić (PL) : (cz.) subject
+[uzasadniac]uzasadniać (PL) : (cz.) excuse; (cz.) found; (cz.) guarantee; (cz.) justify; (cz.) legitimize; (cz.) substantiate
+[uzasadnienie]uzasadnienie (PL) : (rz.) justification; (rz.) reason
+[uzasadnic]uzasadnić (PL) : (cz.) justify; (cz.) substantiate
+[uzbierac]uzbierać (PL) : (cz.) donated
+[uzbrajanie]uzbrajanie (PL) : (rz.) arming
+[uzbrajac]uzbrajać (PL) : (cz.) arm; (cz.) prime
+[uzbroic]uzbroić (PL) : (cz.) arm
+[uzbrojenie]uzbrojenie (PL) : (rz.) actuation; (rz.) armament; (rz.) armature; (rz.) arming; (rz.) arms; (rz.) equipment; (rz.) ordnance
+[uzda]uzda (PL) : (rz.) bridle; (rz.) curb
+[uzdalniac]uzdalniać (PL) : (cz.) enable
+[uzdatniac]uzdatniać (PL) : (cz.) debug
+[uzdatnic]uzdatnić (PL) : (cz.) treated
+[uzdolnienie]uzdolnienie (PL) : (rz.) abilities; (rz.) accomplishment; (rz.) aptitude; (rz.) aptness; (rz.) faculty; (rz.) gift; (rz.) proclivity; (rz.) talent
+[uzdolnic]uzdolnić (PL) : (cz.) enable; (cz.) qualify
+[uzdrawiacz]uzdrawiacz (PL) : (rz.) healer
+[uzdrawianie]uzdrawianie (PL) : (rz.) healing
+[uzdrawiac]uzdrawiać (PL) : (cz.) cure; (cz.) heal
+[uzdrowiciel]uzdrowiciel (PL) : (rz.) healer
+[uzdrowienie]uzdrowienie (PL) : (rz.) healing
+[uzdrowisko]uzdrowisko (PL) : (rz.) sanatorium; (rz.) spa
+[uzdrowic]uzdrowić (PL) : (cz.) heal
+[uzewnetrznic]uzewnętrznić (PL) : (cz.) externalise
+[uzgadnianie]uzgadnianie (PL) : (rz.) co-ordinating; (rz.) handshaking; (rz.) transfer
+[uzgadniac]uzgadniać (PL) : (cz.) accord; (cz.) agree; (cz.) negotiate; (cz.) reconcile
+[uzgodnienie]uzgodnienie (PL) : (rz.) accord; (rz.) adjustment; (rz.) agreement; (rz.) co-ordination; (rz.) handshake; (rz.) reconciliation; (rz.) stipulation
+[uzgodniony]uzgodniony (PL) : (p.) agreed-upon
+[uzgodnic]uzgodnić (PL) : (cz.) agree; (cz.) reconcile
+[uziemianie]uziemianie (PL) : (rz.) grounding
+[uziemiac]uziemiać (PL) : (cz.) earth
+[uziemienie]uziemienie (PL) : (rz.) earth; (rz.) ground
+[uziemic]uziemić (PL) : (cz.) ground
+[uziom]uziom (PL) : (rz.) earth
+[uzmyslawiac]uzmysławiać (PL) : (cz.) visualize
+[uzmyslowic]uzmysłowić (PL) : (cz.) illustrate; (cz.) visualize
+[uznanie]uznanie (PL) : (rz.) acclaim; (rz.) accolade; (rz.) acknowledgement; (rz.) acknowledgment; (rz.) allowance; (rz.) appreciation; (rz.) approbation; (rz.) approval; (rz.) credit; (rz.) discretion; (rz.) recognition
+[uznaniowosc]uznaniowość (PL) : (rz.) discretion
+[uznany]uznany (PL) : (p.) reputed
+[uznawanie]uznawanie (PL) : (rz.) acclaiming; (rz.) recognition
+[uznawac]uznawać (PL) : (cz.) acknowledge; (cz.) allow; (cz.) approve; (cz.) assent; (cz.) receive; (cz.) recognize
+[uznac]uznać (PL) : (cz.) acknowledge; (cz.) allot; (cz.) appreciate; (cz.) considered; (cz.) recognize
+[uzupelniajacy]uzupełniający (PL) : (p.) complementary
+[uzupelnianie]uzupełnianie (PL) : (rz.) addition; (rz.) complement; (rz.) topping-up
+[uzupelniac]uzupełniać (PL) : (cz.) complement; (cz.) complete; (cz.) eke; (cz.) elaborate; (cz.) integrate; (cz.) replenish; (cz.) restock; (cz.) supplement
+[uzupelnienie]uzupełnienie (PL) : (rz.) addendum; (rz.) adjunct; (rz.) appendage; (rz.) appendix; (rz.) attachment; (rz.) complement; (rz.) completion; (rz.) integration; (rz.) replenishment; (rz.) supplement
+[uzupelnic]uzupełnić (PL) : (cz.) complement; (cz.) complete; (cz.) fill; (cz.) integrate; (cz.) restock; (cz.) supplement
+[uzurpacja]uzurpacja (PL) : (rz.) usurpation
+[uzurpator]uzurpator (PL) : (rz.) usurper
+[uzurpowac]uzurpować (PL) : (cz.) usurp
+[uzysk]uzysk (PL) : (rz.) efficiency; (rz.) output
+[uzyskanie]uzyskanie (PL) : (rz.) gain; (rz.) obtainment
+[uzyskac]uzyskać (PL) : (cz.) acquire; (cz.) attain; (cz.) extract; (cz.) gain; (cz.) obtain; (cz.) qualify
+[uzyskiwanie]uzyskiwanie (PL) : (rz.) gain; (rz.) obtainment
+[uzyskiwac]uzyskiwać (PL) : (cz.) acquire; (cz.) derive; (cz.) gain; (cz.) obtain
+[uzebienie]uzębienie (PL) : (rz.) dentition; (rz.) teeth
+[ulagodzic]ułagodzić (PL) : (cz.) placate
+[ulamek]ułamek (PL) : (rz.) fractal; (rz.) fraction; (rz.) fragment; (rz.) scrap; (rz.) shiver
+[ulamkowy]ułamkowy (PL) : (p.) fractional; (p.) fragmentary; (p.) horizontal
+[ulan]ułan (PL) : (rz.) lancer
+[ulaskawiac]ułaskawiać (PL) : (cz.) pardon
+[ulaskawienie]ułaskawienie (PL) : (rz.) clemency; (rz.) pardon
+[ulaskawic]ułaskawić (PL) : (cz.) patronize
+[ulatwiac]ułatwiać (PL) : (cz.) ease; (cz.) expose; (cz.) facilitate; (cz.) simplify; (cz.) streamline
+[ulatwienie]ułatwienie (PL) : (rz.) facilitation; (rz.) facility
+[ulatwic]ułatwić (PL) : (cz.) facilitate; (cz.) help; (cz.) streamline
+[ulomnie]ułomnie (PL) : (p-sł.) defectively
+[ulomnosc]ułomność (PL) : (rz.) disability; (rz.) flaw; (rz.) frailty; (rz.) handicap; (rz.) infirmity; (rz.) lameness; (rz.) vice
+[ulomny]ułomny (PL) : (p.) cripple; (p.) defective; (p.) disabled; (p.) handicapped; (p.) invalid; (p.) lame
+[ulozenie]ułożenie (PL) : (rz.) arrangement; (rz.) position; (rz.) selling
+[ulozyc]ułożyć (PL) : (cz.) arrange; (cz.) sort; (cz.) stack; (cz.) transact
+[uluda]ułuda (PL) : (rz.) delusion; (rz.) illusion; (rz.) phantom
+[uludny]ułudny (PL) : (p.) delusory
+[uscisk]uścisk (PL) : (rz.) clutch; (rz.) embrace; (rz.) grasp; (rz.) grip; (rz.) handshake; (rz.) hug; (rz.) squeeze
+[usciskac]uściskać (PL) : (cz.) clamp; (cz.) clasp; (cz.) embrace; (cz.) hug
+[uscislanie]uściślanie (PL) : (rz.) clarification; (rz.) reification
+[uscislac]uściślać (PL) : (cz.) qualify; (cz.) specify
+[uscislenie]uściślenie (PL) : (rz.) clarification; (rz.) refinement
+[uscislic]uściślić (PL) : (cz.) refine
+[uscisniecie]uściśnięcie (PL) : (rz.) squeeze
+[usmiac]uśmiać (PL) : (cz.) laugh
+[usmiech]uśmiech (PL) : (rz.) grin; (rz.) smile
+[usmiechac]uśmiechać (PL) : (cz.) beam; (cz.) grin; (cz.) smile
+[usmiercac]uśmiercać (PL) : (cz.) destroy; (cz.) kill; (cz.) slay
+[usmiercic]uśmiercić (PL) : (cz.) killed
+[usmierzac]uśmierzać (PL) : (cz.) allay; (cz.) assuage; (cz.) extinguish; (cz.) kill; (cz.) lull; (cz.) mitigate; (cz.) quell; (cz.) relieve; (cz.) soothe
+[usmierzenie]uśmierzenie (PL) : (rz.) assuagement
+[usmierzyc]uśmierzyć (PL) : (cz.) allay; (cz.) appease; (cz.) heal; (cz.) palliate; (cz.) soothe
+[uspienie]uśpienie (PL) : (rz.) hibernation; (rz.) narcosis; (rz.) sleep
+[uspic]uśpić (PL) : (cz.) anaesthetize; (cz.) snooze
+[usredniac]uśredniać (PL) : (cz.) average
+[usredniony]uśredniony (PL) : (p.) averaging
+[usrednic]uśrednić (PL) : (cz.) averaged
+[uswiadamiac]uświadamiać (PL) : (cz.) awake; (cz.) educate; (cz.) enlighten; (cz.) imagine; (cz.) impress; (cz.) realize; (cz.) visualize
+[uswiadomienie]uświadomienie (PL) : (rz.) awareness; (rz.) consciousness; (rz.) information; (rz.) realization
+[uswiadomic]uświadomić (PL) : (cz.) awake; (cz.) enlighten; (cz.) imagine; (cz.) impress; (cz.) visualize
+[uswietniac]uświetniać (PL) : (cz.) signalize
+[uswietnienie]uświetnienie (PL) : (rz.) make
+[uswietnic]uświetnić (PL) : (cz.) celebrate; (cz.) signalize
+[uswinic]uświnić (PL) : (cz.) dirty
+[uswiecac]uświęcać (PL) : (cz.) hallow; (cz.) sanctify
+[uswiecenie]uświęcenie (PL) : (rz.) sanctification
+[uswiecic]uświęcić (PL) : (cz.) sanctify
+[uzdzienica]uździenica (PL) : (rz.) halter
+[uzalac]użalać (PL) : (cz.) bewail
+[uzebrowanie]użebrowanie (PL) : (rz.) ribbing
+[uzebrowany]użebrowany (PL) : (p.) filmed
+[uzerac]użerać (PL) : (cz.) squabble; (cz.) wrangle
+[uzycie]użycie (PL) : (rz.) appliance; (rz.) application; (rz.) consumption; (rz.) employment; (rz.) exercise; (rz.) usage; (rz.) use
+[uzyczac]użyczać (PL) : (cz.) grant; (cz.) lend; (cz.) vest
+[uzyczyc]użyczyć (PL) : (cz.) afford; (cz.) bestow; (cz.) impart; (cz.) spare
+[uzytecznie]użytecznie (PL) : (p-sł.) helpfully; (p-sł.) usefully
+[uzytecznosc]użyteczność (PL) : (rz.) helpfulness; (rz.) usability; (rz.) usefulness; (rz.) utility
+[uzyteczny]użyteczny (PL) : (p.) employable; (p.) helpful; (p.) serviceable; (p.) usable; (p.) useful; (p.) utilitarian; (p.) viewable
+[uzytek]użytek (PL) : (rz.) employ; (rz.) use
+[uzytkowanie]użytkowanie (PL) : (rz.) operation; (rz.) usage; (rz.) use; (rz.) utilization
+[uzytkowac]użytkować (PL) : (cz.) use; (cz.) utilize
+[uzytkownik]użytkownik (PL) : (rz.) occupant; (rz.) occupier; (rz.) resident; (rz.) user
+[uzytkowosc]użytkowość (PL) : (rz.) usefulness
+[uzytkowy]użytkowy (PL) : (p.) applied; (p.) utilitarian
+[uzywalnosc]używalność (PL) : (rz.) reusability; (rz.) usability
+[uzywalny]używalny (PL) : (p.) usable
+[uzywanie]używanie (PL) : (rz.) use
+[uzywany]używany (PL) : (p.) second-hand
+[uzywac]używać (PL) : (cz.) apply; (cz.) employ; (cz.) enjoy; (cz.) exercise; (cz.) exert; (cz.) use
+[uzywka]używka (PL) : (rz.) stimulant
+[uzywki]używki (PL) : (rz.) stimulants
+[uzyc]użyć (PL) : (cz.) use
+[uzyznianie]użyźnianie (PL) : (rz.) fertilization
+[uzyzniac]użyźniać (PL) : (cz.) enrich; (cz.) fatten; (cz.) fertilise; (cz.) fertilize
+[uzyznienie]użyźnienie (PL) : (rz.) fertilization
+[uzadlenie]użądlenie (PL) : (rz.) sting
+[uzadlic]użądlić (PL) : (cz.) sting

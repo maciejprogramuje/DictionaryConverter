@@ -1,0 +1,587 @@
+[indie]Indie (PL) : (rz.) India
+[internet]Internet (PL) : (rz.) Internet; (rz.) net
+[irena]Irena (PL) : (rz.) Irene
+[iris]Iris (PL) : (rz.) iris
+[izabella]Izabella (PL) : (rz.) Isabel
+[i]i (PL) : (spójnik) and
+[ibis]ibis (PL) : (rz.) ibis
+[ichtiolog]ichtiolog (PL) : (rz.) ichthyologist
+[ichtiologia]ichtiologia (PL) : (rz.) ichthyology
+[ichtiozaur]ichtiozaur (PL) : (rz.) ichthyosaurus
+[idea]idea (PL) : (rz.) idea
+[ideacja]ideacja (PL) : (rz.) ideation
+[idealista]idealista (PL) : (rz.) idealist
+[idealistycznie]idealistycznie (PL) : (p-sł.) idealistically
+[idealistyczny]idealistyczny (PL) : (p.) idealistic
+[idealizacja]idealizacja (PL) : (rz.) idealization
+[idealizm]idealizm (PL) : (rz.) idealism
+[idealizowac]idealizować (PL) : (cz.) idealize; (cz.) sublimate
+[idealnie]idealnie (PL) : (p-sł.) ideally; (p-sł.) perfectly; (p-sł.) superbly
+[idealny]idealny (PL) : (p.) ideal; (p.) perfect
+[ideal]ideał (PL) : (rz.) ideal
+[identycznie]identycznie (PL) : (p-sł.) identically
+[identycznosc]identyczność (PL) : (rz.) identity; (rz.) sameness
+[identyczny]identyczny (PL) : (p.) identical; (p.) same; (p.) uniform
+[identyfikacja]identyfikacja (PL) : (rz.) authentication; (rz.) identification; (rz.) recognition; (rz.) traceability
+[identyfikacyjny]identyfikacyjny (PL) : (p.) id
+[identyfikator]identyfikator (PL) : (rz.) id; (rz.) identifier
+[identyfikowanie]identyfikowanie (PL) : (rz.) identifying
+[identyfikowac]identyfikować (PL) : (cz.) identify
+[ideograficzny]ideograficzny (PL) : (p.) ideographic
+[ideogram]ideogram (PL) : (rz.) ideogram; (rz.) ideograph
+[ideolog]ideolog (PL) : (rz.) ideologist; (rz.) ideologue
+[ideologia]ideologia (PL) : (rz.) ideology
+[ideologicznie]ideologicznie (PL) : (p-sł.) ideologically
+[ideologiczny]ideologiczny (PL) : (p.) ideological
+[ideowiec]ideowiec (PL) : (rz.) ideologist
+[ideowy]ideowy (PL) : (p.) ideational; (p.) ideological
+[idiom]idiom (PL) : (rz.) idiom
+[idiomatycznie]idiomatycznie (PL) : (p-sł.) idiomatically
+[idiomatyczny]idiomatyczny (PL) : (p.) idiomatic; (p.) idiomatical
+[idiosynkrazja]idiosynkrazja (PL) : (rz.) dislike; (rz.) idiosyncrasy
+[idiota]idiota (PL) : (rz.) dope; (rz.) idiot; (rz.) oaf; (rz.) prick; (rz.) twerp; (rz.) yuk
+[idiotycznie]idiotycznie (PL) : (p-sł.) idiotically
+[idiotycznosc]idiotyczność (PL) : (rz.) idiocy
+[idiotyczny]idiotyczny (PL) : (p.) absurd; (p.) asinine; (p.) brainless; (p.) crass; (p.) dumb; (p.) idiotic; (p.) senseless
+[idiotyzm]idiotyzm (PL) : (rz.) idiocy; (rz.) idiotism; (rz.) stupidity
+[idol]idol (PL) : (rz.) hero; (rz.) idol
+[idylla]idylla (PL) : (rz.) idyll
+[idylliczny]idylliczny (PL) : (p.) idyllic
+[igielnik]igielnik (PL) : (rz.) needle-case; (rz.) pincushion
+[igielkowaty]igiełkowaty (PL) : (p.) needle-shaped
+[iglasty]iglasty (PL) : (p.) acicular; (p.) aciform; (p.) coniferous
+[iglica]iglica (PL) : (rz.) aglet; (rz.) nipple; (rz.) peak; (rz.) spear; (rz.) spire; (rz.) steeple; (rz.) stylus
+[iglicznia]iglicznia (PL) : (rz.) pipefish
+[ignitron]ignitron (PL) : (rz.) ignitron
+[ignorancja]ignorancja (PL) : (rz.) ignorance; (rz.) innocence
+[ignorancki]ignorancki (PL) : (p.) ignorant
+[ignorant]ignorant (PL) : (rz.) ignoramus
+[ignorowac]ignorować (PL) : (cz.) disregard; (cz.) ignore
+[igraszka]igraszka (PL) : (rz.) frolic; (rz.) trifle
+[igrac]igrać (PL) : (cz.) play; (cz.) toy
+[igrzyska]igrzyska (PL) : (rz.) game
+[igla]igła (PL) : (rz.) needle; (rz.) pin; (rz.) stylus
+[ikona]ikona (PL) : (rz.) icon
+[ikonografia]ikonografia (PL) : (rz.) iconography
+[ikonograficzny]ikonograficzny (PL) : (p.) iconographic
+[ikonoklasta]ikonoklasta (PL) : (rz.) iconoclast
+[ikonoklazm]ikonoklazm (PL) : (rz.) iconoclasm
+[ikonoskop]ikonoskop (PL) : (rz.) iconoscope
+[ikra]ikra (PL) : (rz.) eggs; (rz.) roe; (rz.) spat; (rz.) spawn; (rz.) spunk
+[ikrzenie]ikrzenie (PL) : (rz.) eggs; (rz.) spawning
+[ikrzyc]ikrzyć (PL) : (cz.) spawn
+[ilasty]ilasty (PL) : (p.) loamy
+[ile]ile (PL) : (p-sł.) while
+[iloczas]iloczas (PL) : (rz.) quantity
+[iloczyn]iloczyn (PL) : (rz.) product
+[iloraz]iloraz (PL) : (rz.) quotient
+[ilosciowo]ilościowo (PL) : (p-sł.) quantitatively
+[ilosciowy]ilościowy (PL) : (p.) quantitative
+[ilosc]ilość (PL) : (rz.) amount; (rz.) average; (rz.) deal; (rz.) number; (rz.) quantity; (rz.) volume
+[iluminacja]iluminacja (PL) : (rz.) illumination
+[iluminator]iluminator (PL) : (rz.) porthole
+[iluminowac]iluminować (PL) : (cz.) floodlight; (cz.) flood-light; (cz.) illuminate; (cz.) illumine
+[ilustracja]ilustracja (PL) : (rz.) figure; (rz.) illustration; (rz.) image; (rz.) picture; (rz.) setting
+[ilustracyjny]ilustracyjny (PL) : (p.) illustrative
+[ilustrator]ilustrator (PL) : (rz.) illustrator
+[ilustrowany]ilustrowany (PL) : (p.) glossy; (p.) pictorial
+[ilustrowac]ilustrować (PL) : (cz.) exemplify; (cz.) illustrate; (cz.) show
+[ilustrujacy]ilustrujący (PL) : (p.) illustrative
+[iluzja]iluzja (PL) : (rz.) delusion; (rz.) illusion
+[iluzjonista]iluzjonista (PL) : (rz.) conjurer; (rz.) conjuror; (rz.) dreamer; (rz.) illusionist; (rz.) magician
+[iluzorycznosc]iluzoryczność (PL) : (rz.) fiction
+[iluzoryczny]iluzoryczny (PL) : (p.) delusive; (p.) delusory; (p.) illusive; (p.) illusory
+[imadlo]imadło (PL) : (rz.) clamp; (rz.) jaw; (rz.) jig; (rz.) vice
+[imaginacja]imaginacja (PL) : (rz.) imagination
+[imaginacyjny]imaginacyjny (PL) : (p.) imaginary; (p.) imaginative
+[imak]imak (PL) : (rz.) gripper
+[imbecyl]imbecyl (PL) : (rz.) imbecile
+[imbecylizm]imbecylizm (PL) : (rz.) imbecility
+[imbir]imbir (PL) : (rz.) ginger
+[imbirowy]imbirowy (PL) : (p.) gingery
+[imbryk]imbryk (PL) : (rz.) kettle; (rz.) teakettle; (rz.) teapot; (rz.) tea-pot
+[imieniny]imieniny (PL) : (rz.) name-day; (rz.) name-days
+[imiennik]imiennik (PL) : (rz.) nameplate; (rz.) namesake
+[imienny]imienny (PL) : (p.) nominal; (p.) personal
+[imieslowowy]imiesłowowy (PL) : (p.) participial
+[imieslow]imiesłów (PL) : (rz.) participle
+[imigracja]imigracja (PL) : (rz.) immigration
+[imigrant]imigrant (PL) : (rz.) immigrant
+[imigrowac]imigrować (PL) : (cz.) immigrate
+[imitacja]imitacja (PL) : (rz.) clone; (rz.) dummy; (rz.) imitation; (rz.) look-alike
+[imitator]imitator (PL) : (rz.) simulator
+[imitowanie]imitowanie (PL) : (rz.) emulation
+[imitowac]imitować (PL) : (cz.) emit; (cz.) imitate; (cz.) simulate
+[imie]imię (PL) : (rz.) appellation; (rz.) forename; (rz.) name
+[immanentnie]immanentnie (PL) : (p-sł.) immanently
+[immanentnosc]immanentność (PL) : (rz.) immanence
+[immanentny]immanentny (PL) : (p.) immanent
+[immatrykulacja]immatrykulacja (PL) : (rz.) matriculation
+[immatrykulowac]immatrykulować (PL) : (cz.) matriculate
+[immersja]immersja (PL) : (rz.) immersion
+[immunitet]immunitet (PL) : (rz.) immunity; (rz.) privilege
+[immunizacja]immunizacja (PL) : (rz.) immunization
+[immunizowac]immunizować (PL) : (cz.) immunize
+[immunoglobulina]immunoglobulina (PL) : (rz.) immunoglobulin
+[immunolog]immunolog (PL) : (rz.) immunologist
+[immunologia]immunologia (PL) : (rz.) immunology
+[immunologiczny]immunologiczny (PL) : (p.) immune; (p.) immunological
+[immunoterapia]immunoterapia (PL) : (rz.) immunotherapy
+[impas]impas (PL) : (rz.) deadlock; (rz.) impasse; (rz.) nonplus; (rz.) standoff
+[impedancja]impedancja (PL) : (rz.) impedance
+[imperator]imperator (PL) : (rz.) emperor
+[imperatorski]imperatorski (PL) : (p.) imperatorial
+[imperatyw]imperatyw (PL) : (rz.) imperative
+[imperatywny]imperatywny (PL) : (p.) imperatival; (p.) imperative
+[imperialista]imperialista (PL) : (rz.) imperialist
+[imperialistyczny]imperialistyczny (PL) : (p.) imperialistic
+[imperializm]imperializm (PL) : (rz.) imperialism
+[imperialny]imperialny (PL) : (p.) imperial
+[imperium]imperium (PL) : (rz.) empire
+[impertynencja]impertynencja (PL) : (rz.) backchat; (rz.) impertinence; (rz.) impertinency; (rz.) sauce
+[impertynencki]impertynencki (PL) : (p.) flippant; (p.) impertinent; (p.) sassy; (p.) saucy
+[impertynencko]impertynencko (PL) : (p-sł.) impertinently; (p-sł.) pertly
+[impertynent]impertynent (PL) : (rz.) whippersnapper
+[impet]impet (PL) : (rz.) brunt; (rz.) impetus; (rz.) momentum
+[implantacja]implantacja (PL) : (rz.) implantation
+[implementacja]implementacja (PL) : (rz.) implementation
+[implementowac]implementować (PL) : (cz.) implement
+[implikacja]implikacja (PL) : (rz.) implication; (rz.) overtone
+[implikowac]implikować (PL) : (cz.) implicate; (cz.) imply; (cz.) presuppose
+[implodowac]implodować (PL) : (cz.) implode
+[implozja]implozja (PL) : (rz.) implosion
+[imponowanie]imponowanie (PL) : (rz.) splurge
+[imponowac]imponować (PL) : (cz.) impose; (cz.) impress; (cz.) prepossess
+[imponujacy]imponujący (PL) : (p.) grand; (p.) imposing; (p.) striking
+[import]import (PL) : (rz.) import
+[importer]importer (PL) : (rz.) importer
+[importowanie]importowanie (PL) : (rz.) importation
+[importowac]importować (PL) : (cz.) import
+[importowy]importowy (PL) : (p.) importable
+[impotencja]impotencja (PL) : (rz.) impotence
+[impregnacja]impregnacja (PL) : (rz.) impregnation
+[impregnowany]impregnowany (PL) : (p.) impregnated
+[impregnowac]impregnować (PL) : (cz.) bark; (cz.) impregnate; (cz.) pad; (cz.) saturate
+[impresario]impresario (PL) : (rz.) impresario
+[impresja]impresja (PL) : (rz.) impression
+[impresjonista]impresjonista (PL) : (rz.) impressionist
+[impresjonistyczny]impresjonistyczny (PL) : (p.) impressionistic
+[impresjonizm]impresjonizm (PL) : (rz.) impressionism
+[impreza]impreza (PL) : (rz.) carousal; (rz.) event; (rz.) fixture; (rz.) party; (rz.) spree
+[improwizacja]improwizacja (PL) : (rz.) improvisation
+[improwizator]improwizator (PL) : (rz.) improviser
+[improwizatorski]improwizatorski (PL) : (p.) improvisational
+[improwizowany]improwizowany (PL) : (p.) impromptu; (p.) offhand
+[improwizowac]improwizować (PL) : (cz.) adlib; (cz.) ad-lib; (cz.) extemporize; (cz.) improvise
+[impuls]impuls (PL) : (rz.) impetus; (rz.) impulse; (rz.) impulsion; (rz.) propulsion; (rz.) pulse
+[impulsywnie]impulsywnie (PL) : (p-sł.) impulsively
+[impulsywnosc]impulsywność (PL) : (rz.) impulsiveness
+[impulsywny]impulsywny (PL) : (p.) impulsive
+[imputowanie]imputowanie (PL) : (rz.) imputing
+[imputowac]imputować (PL) : (cz.) imputable; (cz.) impute
+[inauguracja]inauguracja (PL) : (rz.) inauguration; (rz.) opening
+[inauguracyjny]inauguracyjny (PL) : (p.) inaugural
+[inaugurowac]inaugurować (PL) : (cz.) inaugurate; (cz.) open
+[incydent]incydent (PL) : (rz.) incident
+[incydentalny]incydentalny (PL) : (p.) incidental
+[ind]ind (PL) : (rz.) indium; (rz.) lascar
+[indagacja]indagacja (PL) : (rz.) interrogatory
+[indagowac]indagować (PL) : (cz.) interrogate
+[indeks]indeks (PL) : (rz.) index; (rz.) list
+[indeksacja]indeksacja (PL) : (rz.) index; (rz.) indexation
+[indemnizacja]indemnizacja (PL) : (rz.) indemnification; (rz.) indemnity
+[inden]inden (PL) : (rz.) indene
+[indoktrynacja]indoktrynacja (PL) : (rz.) indoctrination
+[indoktrynowac]indoktrynować (PL) : (cz.) indoctrinate
+[indolencja]indolencja (PL) : (rz.) indolence
+[indor]indor (PL) : (rz.) gobbler; (rz.) turkey-cock
+[indos]indos (PL) : (rz.) endorsement
+[indosat]indosat (PL) : (rz.) endorsee
+[indosowac]indosować (PL) : (cz.) endorse; (cz.) indorse
+[indukcja]indukcja (PL) : (rz.) induction
+[indukcyjnie]indukcyjnie (PL) : (p-sł.) inductively
+[indukcyjnosc]indukcyjność (PL) : (rz.) inductance; (rz.) inductances
+[indukcyjnosc-pojemnosc]indukcyjność-pojemność (PL) : (rz.) inductance-capacitance
+[indukcyjny]indukcyjny (PL) : (p.) inductive
+[indukowac]indukować (PL) : (cz.) induce
+[induktor]induktor (PL) : (rz.) coil; (rz.) inducer; (rz.) inductor; (rz.) magneto
+[industrializacja]industrializacja (PL) : (rz.) industrialization
+[industrializm]industrializm (PL) : (rz.) industrialism
+[indygo]indygo (PL) : (rz.) indigo
+[indyk]indyk (PL) : (rz.) turkey
+[indykator]indykator (PL) : (rz.) indicator
+[indywidualista]indywidualista (PL) : (rz.) individualist; (rz.) maverick
+[indywidualistyczny]indywidualistyczny (PL) : (p.) individualistic
+[indywidualizacja]indywidualizacja (PL) : (rz.) individualisation; (rz.) individualization
+[indywidualizm]indywidualizm (PL) : (rz.) individualism
+[indywidualizowac]indywidualizować (PL) : (cz.) customize; (cz.) individualize; (cz.) individuate
+[indywidualnie]indywidualnie (PL) : (p-sł.) individually; (p-sł.) severally
+[indywidualnosc]indywidualność (PL) : (rz.) individuality; (rz.) personality
+[indywidualny]indywidualny (PL) : (p.) individual; (p.) personal; (p.) respective; (p.) separate; (p.) singular
+[indywiduum]indywiduum (PL) : (rz.) individual; (rz.) person
+[inercja]inercja (PL) : (rz.) inertia
+[inercjalny]inercjalny (PL) : (p.) inertial
+[inercyjny]inercyjny (PL) : (p.) inert; (p.) inertial
+[infamia]infamia (PL) : (rz.) infamy
+[infantylizm]infantylizm (PL) : (rz.) infantilism
+[infantylny]infantylny (PL) : (p.) childish; (p.) infantile; (p.) infantine; (p.) puerile
+[infekcja]infekcja (PL) : (rz.) infection
+[infekcyjny]infekcyjny (PL) : (p.) infectious; (p.) infective
+[infekowac]infekować (PL) : (cz.) infect
+[infiltracja]infiltracja (PL) : (rz.) compromise; (rz.) infiltration; (rz.) intrusion
+[infiltrowac]infiltrować (PL) : (cz.) infiltrate
+[infirmeria]infirmeria (PL) : (rz.) infirmary
+[inflacja]inflacja (PL) : (rz.) inflation
+[inflacyjny]inflacyjny (PL) : (p.) inflationary
+[influenca]influenca (PL) : (rz.) influence
+[informacja]informacja (PL) : (rz.) communication; (rz.) data; (rz.) guidance; (rz.) info; (rz.) information; (rz.) intelligence; (rz.) poop
+[informacyjny]informacyjny (PL) : (p.) informational; (p.) informative
+[informator]informator (PL) : (rz.) brochure; (rz.) capper; (rz.) communicant; (rz.) handbook; (rz.) indicator; (rz.) informant; (rz.) informer; (rz.) inquirer; (rz.) newsletter
+[informatycznego]informatycznego (PL) : (rz.) corpus
+[informatyk]informatyk (PL) : (rz.) hardware
+[informatyka]informatyka (PL) : (rz.) computing; (rz.) informatics; (rz.) programmer
+[informatyzacja]informatyzacja (PL) : (rz.) computerization
+[informowanie]informowanie (PL) : (rz.) information; (rz.) informing
+[informowac]informować (PL) : (cz.) apprise; (cz.) educate; (cz.) inform; (cz.) instruct; (cz.) misinformed
+[infradzwiek]infradźwięk (PL) : (rz.) infrasound
+[infradzwiekowy]infradźwiękowy (PL) : (p.) infrasonic; (p.) subsonic
+[infrastruktura]infrastruktura (PL) : (rz.) fabric; (rz.) infrastructure; (rz.) instrumentation; (rz.) warp
+[infrastrukturalny]infrastrukturalny (PL) : (p.) infrastructural
+[infuzja]infuzja (PL) : (rz.) infusion
+[infula]infuła (PL) : (rz.) mitre
+[ingerencja]ingerencja (PL) : (rz.) interference; (rz.) intervention
+[ingerowac]ingerować (PL) : (cz.) interfere; (cz.) intervene
+[ingrediencja]ingrediencja (PL) : (rz.) ingredient
+[inhalacja]inhalacja (PL) : (rz.) inhalation
+[inhalacyjny]inhalacyjny (PL) : (p.) inhalant
+[inhalator]inhalator (PL) : (rz.) inhaler
+[inhalowac]inhalować (PL) : (cz.) inhale
+[inhibicja]inhibicja (PL) : (rz.) inhibition
+[inicjacja]inicjacja (PL) : (rz.) initiation
+[inicjalizacja]inicjalizacja (PL) : (rz.) initialization
+[inicjalizowac]inicjalizować (PL) : (cz.) initialize
+[inicjator]inicjator (PL) : (rz.) initiator; (rz.) originator
+[inicjatywa]inicjatywa (PL) : (rz.) affair; (rz.) enterprise; (rz.) gumption; (rz.) initiative; (rz.) motion
+[inicjatywnosc]inicjatywność (PL) : (rz.) initiative
+[inicjal]inicjał (PL) : (rz.) drop-cap; (rz.) initial
+[inicjaly]inicjały (PL) : (rz.) initials
+[inicjowanie]inicjowanie (PL) : (rz.) boot; (rz.) bootstrap; (rz.) initialization; (rz.) initiate; (rz.) initiating
+[inicjowac]inicjować (PL) : (cz.) boot; (cz.) initialize; (cz.) initiate
+[iniekcja]iniekcja (PL) : (rz.) injection
+[iniektor]iniektor (PL) : (rz.) injector
+[inkarnacja]inkarnacja (PL) : (rz.) incarnation
+[inkarnat]inkarnat (PL) : (rz.) damask
+[inkasent]inkasent (PL) : (rz.) collector
+[inkaso]inkaso (PL) : (rz.) collection
+[inkasowanie]inkasowanie (PL) : (rz.) collection
+[inkasowac]inkasować (PL) : (cz.) cash; (cz.) collect
+[inklinacja]inklinacja (PL) : (rz.) bias; (rz.) inclination; (rz.) propensity
+[inklinometr]inklinometr (PL) : (rz.) inclinometer
+[inkluzja]inkluzja (PL) : (rz.) enclave; (rz.) inclusion; (rz.) intercalation
+[inkoherencja]inkoherencja (PL) : (rz.) incoherence; (rz.) incoherency
+[inkorporacja]inkorporacja (PL) : (rz.) incorporation
+[inkorporowac]inkorporować (PL) : (cz.) incorporate
+[inkrementacja]inkrementacja (PL) : (rz.) increment; (rz.) incrementing
+[inkrustacja]inkrustacja (PL) : (rz.) incrustation; (rz.) inlay; (rz.) tit
+[inkrustowac]inkrustować (PL) : (cz.) encrust; (cz.) incrust; (cz.) inlay
+[inkryminowac]inkryminować (PL) : (cz.) incriminate
+[inkubacja]inkubacja (PL) : (rz.) incubation
+[inkubator]inkubator (PL) : (rz.) incubator
+[inkunabul]inkunabuł (PL) : (rz.) incunabula; (rz.) incunabulum
+[inkwizycja]inkwizycja (PL) : (rz.) inquisition
+[inkwizycyjny]inkwizycyjny (PL) : (p.) inquisitional
+[inkwizytor]inkwizytor (PL) : (rz.) inquisitor
+[inkwizytorski]inkwizytorski (PL) : (p.) inquisitorial
+[inlet]inlet (PL) : (rz.) ticking
+[innowacja]innowacja (PL) : (rz.) innovation; (rz.) novelty
+[innowacyjnosc]innowacyjność (PL) : (rz.) innovation
+[innowacyjny]innowacyjny (PL) : (p.) innovative
+[innowator]innowator (PL) : (rz.) innovator
+[innowierca]innowierca (PL) : (rz.) dissenter; (rz.) infidel
+[innowierczy]innowierczy (PL) : (p.) heterodox
+[innowierstwo]innowierstwo (PL) : (rz.) heresy; (rz.) heterodoxy
+[innosc]inność (PL) : (rz.) disaccord
+[inny]inny (PL) : (p.) alternative; (p.) another; (p.) different; (p.) new; (p.) other; (p.) variant
+[inokulacja]inokulacja (PL) : (rz.) inoculation
+[inscenizacja]inscenizacja (PL) : (rz.) selling; (rz.) setting; (rz.) staging
+[inscenizacyjny]inscenizacyjny (PL) : (p.) producer's
+[inscenizator]inscenizator (PL) : (rz.) producer; (rz.) stage-manager
+[inscenizowac]inscenizować (PL) : (cz.) stage
+[insekt]insekt (PL) : (rz.) insect
+[insektycyd]insektycyd (PL) : (rz.) insecticide
+[inseminacja]inseminacja (PL) : (rz.) insemination
+[inskrypcja]inskrypcja (PL) : (rz.) inscription
+[inspekcja]inspekcja (PL) : (rz.) inspection; (rz.) survey
+[inspekcyjny]inspekcyjny (PL) : (p.) inspective
+[inspekt]inspekt (PL) : (rz.) hotbed
+[inspektor]inspektor (PL) : (rz.) inspector; (rz.) surveyor
+[inspektorat]inspektorat (PL) : (rz.) inspectorate
+[inspiracja]inspiracja (PL) : (rz.) inspiration
+[inspirator]inspirator (PL) : (rz.) impeller; (rz.) inspector
+[inspirowac]inspirować (PL) : (cz.) inspire
+[instalacja]instalacja (PL) : (rz.) installation; (rz.) plant; (rz.) plumbing
+[instalacyjny]instalacyjny (PL) : (p.) installing
+[instalator]instalator (PL) : (rz.) engineer; (rz.) fitter; (rz.) installer
+[instalatorstwo]instalatorstwo (PL) : (rz.) plumbing
+[instalowanie]instalowanie (PL) : (rz.) installing
+[instalowac]instalować (PL) : (cz.) install; (cz.) load; (cz.) plumb; (cz.) settle
+[instancja]instancja (PL) : (rz.) authority; (rz.) instance
+[instrukcja]instrukcja (PL) : (rz.) instruction; (rz.) manual; (rz.) statement
+[instrukcyjny]instrukcyjny (PL) : (p.) instructional
+[instruktaz]instruktaż (PL) : (rz.) instruction; (rz.) training
+[instruktazowy]instruktażowy (PL) : (p.) informative
+[instruktor]instruktor (PL) : (rz.) instructor; (rz.) preceptor; (rz.) trainer
+[instruktywny]instruktywny (PL) : (p.) instructive
+[instrument]instrument (PL) : (rz.) instrument; (rz.) tool
+[instrumentacja]instrumentacja (PL) : (rz.) fishing; (rz.) instrumentation
+[instrumentalista]instrumentalista (PL) : (rz.) instrumentalist
+[instrumentalnie]instrumentalnie (PL) : (p-sł.) instrumentally
+[instrumentalny]instrumentalny (PL) : (p.) instrumental; (p.) instrumentals
+[instrumentarium]instrumentarium (PL) : (rz.) instruments; (rz.) orchestra
+[instrumentowac]instrumentować (PL) : (cz.) fish
+[instruowanie]instruowanie (PL) : (rz.) instruction
+[instruowac]instruować (PL) : (cz.) instruct
+[instynkt]instynkt (PL) : (rz.) instinct
+[instynktownie]instynktownie (PL) : (p-sł.) instinctively
+[instynktowny]instynktowny (PL) : (p.) instinctive; (p.) instinctual; (p.) unconditioned
+[instynktowy]instynktowy (PL) : (p.) instinctive
+[instytucja]instytucja (PL) : (rz.) establishment; (rz.) institution; (rz.) organisation
+[instytucjonalizacja]instytucjonalizacja (PL) : (rz.) institutionalization
+[instytucjonalizowac]instytucjonalizować (PL) : (cz.) institutionalize
+[instytucjonalnie]instytucjonalnie (PL) : (p-sł.) institutionally
+[instytucjonalny]instytucjonalny (PL) : (p.) institutional
+[instytut]instytut (PL) : (rz.) department; (rz.) institute; (rz.) school
+[insulina]insulina (PL) : (rz.) insulin
+[insurekcja]insurekcja (PL) : (rz.) insurrection; (rz.) uprising
+[insygnia]insygnia (PL) : (rz.) ensign; (rz.) insignia; (rz.) regalia
+[insynuacja]insynuacja (PL) : (rz.) innuendo; (rz.) insinuation
+[insynuacyjny]insynuacyjny (PL) : (p.) insinuating
+[insynuowac]insynuować (PL) : (cz.) hint; (cz.) imply; (cz.) insinuate
+[intarsja]intarsja (PL) : (rz.) inlay; (rz.) intarsia
+[integracja]integracja (PL) : (rz.) integration
+[integralnosc]integralność (PL) : (rz.) integrity
+[integralny]integralny (PL) : (p.) integral
+[integrator]integrator (PL) : (rz.) integrator
+[integrowac]integrować (PL) : (cz.) integrate
+[intelekt]intelekt (PL) : (rz.) intellect
+[intelektualista]intelektualista (PL) : (rz.) highbrow; (rz.) intellectual; (rz.) intellectualist
+[intelektualizowac]intelektualizować (PL) : (cz.) intellectualize
+[intelektualnie]intelektualnie (PL) : (p-sł.) intellectually
+[intelektualny]intelektualny (PL) : (p.) cerebral; (p.) intellectual
+[inteligencja]inteligencja (PL) : (rz.) intelligence; (rz.) intelligentsia; (rz.) mind; (rz.) wit
+[inteligencki]inteligencki (PL) : (p.) intellectual
+[inteligent]inteligent (PL) : (rz.) highbrow; (rz.) intellectual
+[inteligentnie]inteligentnie (PL) : (p-sł.) intelligently
+[inteligentny]inteligentny (PL) : (p.) adaptive; (p.) bright; (p.) brilliant; (p.) clever; (p.) intelligent
+[intencja]intencja (PL) : (rz.) intension; (rz.) intention
+[intendent]intendent (PL) : (rz.) commissary; (rz.) officer; (rz.) purser; (rz.) steward
+[intendentura]intendentura (PL) : (rz.) commissariat; (rz.) stewardship
+[intensyfikacja]intensyfikacja (PL) : (rz.) intensification
+[intensyfikowac]intensyfikować (PL) : (cz.) intensify
+[intensywnie]intensywnie (PL) : (p-sł.) badly; (p-sł.) intensely; (p-sł.) intensively
+[intensywnosc]intensywność (PL) : (rz.) intenseness; (rz.) intensity
+[intensywny]intensywny (PL) : (p.) deep; (p.) heavy; (p.) intense; (p.) intensive; (p.) strong
+[interakcja]interakcja (PL) : (rz.) interaction; (rz.) interactivity
+[interakcyjnie]interakcyjnie (PL) : (p-sł.) interactively
+[interakcyjny]interakcyjny (PL) : (p.) interactive
+[interaktywnie]interaktywnie (PL) : (p-sł.) interactively; (p-sł.) wholly
+[interaktywnosc]interaktywność (PL) : (rz.) interactivity
+[interaktywny]interaktywny (PL) : (p.) interactive
+[intercyza]intercyza (PL) : (rz.) marriage
+[interdykt]interdykt (PL) : (rz.) ban; (rz.) interdict
+[interdyscyplinarny]interdyscyplinarny (PL) : (p.) interdisciplinary
+[interes]interes (PL) : (rz.) affair; (rz.) bargain; (rz.) business; (rz.) deal; (rz.) interest; (rz.) job; (rz.) shop; (rz.) trade
+[interesant]interesant (PL) : (rz.) client
+[interesowac]interesować (PL) : (cz.) concern; (cz.) interest
+[interesownosc]interesowność (PL) : (rz.) interest
+[interesowny]interesowny (PL) : (p.) mercenary
+[interesujaco]interesująco (PL) : (p-sł.) interestingly
+[interesujacy]interesujący (PL) : (p.) interesting
+[interfejs]interfejs (PL) : (rz.) interface; (rz.) interfaced; (rz.) interfacing
+[interferencja]interferencja (PL) : (rz.) interference
+[interferometr]interferometr (PL) : (rz.) interferometer
+[interferon]interferon (PL) : (rz.) interferon
+[interferowac]interferować (PL) : (cz.) interfere
+[interfon]interfon (PL) : (rz.) interphone
+[interglacjalny]interglacjalny (PL) : (p.) interglacial
+[interkom]interkom (PL) : (rz.) intercom
+[interlinearny]interlinearny (PL) : (p.) interlineal; (p.) interlinear
+[interlinia]interlinia (PL) : (rz.) interline; (rz.) space; (rz.) spacing
+[interliniowac]interliniować (PL) : (cz.) lead
+[interlokutor]interlokutor (PL) : (rz.) interlocutor
+[interludium]interludium (PL) : (rz.) interlude
+[intermedium]intermedium (PL) : (rz.) interlude
+[internacjonalista]internacjonalista (PL) : (rz.) internationalist
+[internacjonalizacja]internacjonalizacja (PL) : (rz.) internationalization
+[internacjonalizm]internacjonalizm (PL) : (rz.) internationalism
+[internacjonalny]internacjonalny (PL) : (p.) international
+[internalizacja]internalizacja (PL) : (rz.) internalisation; (rz.) internalization
+[internat]internat (PL) : (rz.) boarding-house; (rz.) boarding-school; (rz.) dormitory; (rz.) hostel
+[internauta]internauta (PL) : (rz.) web
+[internetowy]internetowy (PL) : (p.) electronic
+[internista]internista (PL) : (rz.) internist
+[internowanie]internowanie (PL) : (rz.) internment
+[internowac]internować (PL) : (cz.) intern; (cz.) interning
+[interpelacja]interpelacja (PL) : (rz.) interpellation
+[interpelant]interpelant (PL) : (rz.) questioner
+[interpersonalny]interpersonalny (PL) : (p.) interpersonal
+[interpolacja]interpolacja (PL) : (rz.) interpolation
+[interpolator]interpolator (PL) : (rz.) interpolator
+[interpolowac]interpolować (PL) : (cz.) interpolate
+[interpretacja]interpretacja (PL) : (rz.) approach; (rz.) interpretation; (rz.) rendering; (rz.) rendition
+[interpretacyjny]interpretacyjny (PL) : (p.) interpretative; (p.) interpretive
+[interpretator]interpretator (PL) : (rz.) exponent; (rz.) interpreter
+[interpreter]interpreter (PL) : (rz.) interpreter
+[interpretowac]interpretować (PL) : (cz.) construe; (cz.) interpret; (cz.) misinterpret; (cz.) read
+[interpretujacy]interpretujący (PL) : (p.) interpretive
+[interpunkcja]interpunkcja (PL) : (rz.) punctuation
+[intertyp]intertyp (PL) : (rz.) intertype
+[interwal]interwał (PL) : (rz.) compartment; (rz.) interval; (rz.) space
+[interwencja]interwencja (PL) : (rz.) intervention
+[interwencjonizm]interwencjonizm (PL) : (rz.) intervention
+[interwenient]interwenient (PL) : (rz.) intervener
+[interweniowac]interweniować (PL) : (cz.) intercede; (cz.) interfere; (cz.) intervene
+[interwent]interwent (PL) : (rz.) intervener
+[intoksykacja]intoksykacja (PL) : (rz.) intoxication
+[intonacja]intonacja (PL) : (rz.) cadence; (rz.) intonation
+[intonowac]intonować (PL) : (cz.) intone
+[intranet]intranet (PL) : (rz.) intranet
+[intratnosc]intratność (PL) : (rz.) gain
+[intratny]intratny (PL) : (p.) cushy; (p.) lucrative
+[introdukcja]introdukcja (PL) : (rz.) introduction
+[introligator]introligator (PL) : (rz.) binder; (rz.) bookbinder
+[introligatornia]introligatornia (PL) : (rz.) bindery; (rz.) bookbindery
+[introligatorstwo]introligatorstwo (PL) : (rz.) binding; (rz.) bookbindery; (rz.) bookbinding
+[intronizacja]intronizacja (PL) : (rz.) enthronement
+[intronizowac]intronizować (PL) : (cz.) enthrone
+[introspekcja]introspekcja (PL) : (rz.) introspection
+[introspekcyjny]introspekcyjny (PL) : (p.) introspective
+[introspektywny]introspektywny (PL) : (p.) indrawn; (p.) introspective
+[introwersja]introwersja (PL) : (rz.) introversion
+[introwersyjny]introwersyjny (PL) : (p.) introverted
+[introwertyk]introwertyk (PL) : (rz.) introvert
+[intruz]intruz (PL) : (rz.) interloper; (rz.) interrupter; (rz.) intruder; (rz.) trespasser
+[intruzja]intruzją (PL) : (rz.) intrusion
+[intryga]intryga (PL) : (rz.) cabal; (rz.) intrigue; (rz.) plot; (rz.) schema; (rz.) scheme
+[intrygancki]intrygancki (PL) : (p.) intriguing
+[intrygant]intrygant (PL) : (rz.) intriguer; (rz.) mischief-maker; (rz.) plotter; (rz.) schemer; (rz.) stirrer; (rz.) troublemaker
+[intrygowanie]intrygowanie (PL) : (rz.) machination
+[intrygowac]intrygować (PL) : (cz.) intrigue; (cz.) machinate; (cz.) plot; (cz.) scheme
+[intuicja]intuicja (PL) : (rz.) insight; (rz.) intuition
+[intuicjonizm]intuicjonizm (PL) : (rz.) intuitionism
+[intuicyjnie]intuicyjnie (PL) : (p-sł.) intuitively
+[intuicyjny]intuicyjny (PL) : (p.) intuitive
+[intymnie]intymnie (PL) : (p-sł.) intimately; (p-sł.) privately
+[intymnosc]intymność (PL) : (rz.) intimacy
+[intymny]intymny (PL) : (p.) intimate
+[inwalida]inwalida (PL) : (rz.) cripple; (rz.) invalid
+[inwalidztwo]inwalidztwo (PL) : (rz.) disability; (rz.) invalidism
+[inwar]inwar (PL) : (rz.) invar
+[inwariant]inwariant (PL) : (rz.) invariant
+[inwazja]inwazja (PL) : (rz.) inroad; (rz.) invasion
+[inwazyjny]inwazyjny (PL) : (p.) invasive
+[inwektywa]inwektywa (PL) : (rz.) invective
+[inwencja]inwencja (PL) : (rz.) creativity; (rz.) invention; (rz.) inventiveness
+[inwentaryzacja]inwentaryzacja (PL) : (rz.) inventory; (rz.) stocktaking; (rz.) stock-taking
+[inwentaryzator]inwentaryzator (PL) : (rz.) cataloguer
+[inwentarz]inwentarz (PL) : (rz.) inventory; (rz.) stock
+[inwentarzowy]inwentarzowy (PL) : (p.) inventorial
+[inwersja]inwersja (PL) : (rz.) inversion
+[inwertor]inwertor (PL) : (rz.) inverter
+[inwestor]inwestor (PL) : (rz.) developer; (rz.) investor
+[inwestowanie]inwestowanie (PL) : (rz.) investment
+[inwestowac]inwestować (PL) : (cz.) invest
+[inwestycja]inwestycja (PL) : (rz.) investment
+[inwestycyjny]inwestycyjny (PL) : (p.) entrepreneurial
+[inwestytura]inwestytura (PL) : (rz.) investiture
+[inwigilacja]inwigilacja (PL) : (rz.) surveillance
+[inwigilowac]inwigilować (PL) : (cz.) invigilate; (cz.) superintend; (cz.) watch
+[inwit]inwit (PL) : (rz.) invite
+[inwokacja]inwokacja (PL) : (rz.) invocation
+[inwokacyjny]inwokacyjny (PL) : (p.) invocatory
+[inwolucja]inwolucja (PL) : (rz.) involution
+[inzynier]inżynier (PL) : (rz.) engineer
+[inzynieria]inżynieria (PL) : (rz.) engineering
+[inzynieryjny]inżynieryjny (PL) : (p.) engineering
+[ircha]ircha (PL) : (rz.) chamois; (rz.) deerskin; (rz.) doeskin; (rz.) suede; (rz.) whitleather
+[ironia]ironia (PL) : (rz.) irony
+[ironicznie]ironicznie (PL) : (p-sł.) ironically
+[ironiczny]ironiczny (PL) : (p.) dried; (p.) driest; (p.) dry; (p.) ironic; (p.) ironical
+[ironista]ironista (PL) : (rz.) ironist
+[irracjonalizm]irracjonalizm (PL) : (rz.) irrationalism
+[irracjonalnie]irracjonalnie (PL) : (p-sł.) irrationally
+[irracjonalnosc]irracjonalność (PL) : (rz.) irrationality
+[irracjonalny]irracjonalny (PL) : (p.) irrational
+[irradiacja]irradiacja (PL) : (rz.) irradiation
+[iryd]iryd (PL) : (rz.) iridium
+[irygacja]irygacja (PL) : (rz.) irrigation
+[irygacyjny]irygacyjny (PL) : (p.) irrigational
+[irygator]irygator (PL) : (rz.) irrigator
+[irygowac]irygować (PL) : (cz.) irrigate
+[irys]irys (PL) : (rz.) iris; (rz.) toffee
+[irytacja]irytacja (PL) : (rz.) aggravation; (rz.) annoyance; (rz.) exasperation; (rz.) fix; (rz.) huff; (rz.) irritation; (rz.) testiness
+[irytowac]irytować (PL) : (cz.) annoy; (cz.) chafe; (cz.) displease; (cz.) exasperate; (cz.) irritate; (cz.) nettle; (cz.) rile; (cz.) vex
+[irytujaco]irytująco (PL) : (p-sł.) annoyingly
+[irytujacy]irytujący (PL) : (p.) irritating
+[ischias]ischias (PL) : (rz.) sciatica
+[iskierka]iskierka (PL) : (rz.) spark; (rz.) sparkle
+[iskra]iskra (PL) : (rz.) flake; (rz.) spark; (rz.) sparkle
+[iskrownik]iskrownik (PL) : (rz.) magneto
+[iskrzenie]iskrzenie (PL) : (rz.) kindling; (rz.) scintillation; (rz.) sparkle; (rz.) sparks; (rz.) twinkle; (rz.) twinkling
+[iskrzyc]iskrzyć (PL) : (cz.) coruscate; (cz.) kindle; (cz.) scintillate; (cz.) spark; (cz.) sparkle
+[istnienie]istnienie (PL) : (rz.) availability; (rz.) being; (rz.) existence; (rz.) subsistence
+[istniec]istnieć (PL) : (cz.) be; (cz.) exist; (cz.) subsist
+[istny]istny (PL) : (p.) rank; (p.) real; (p.) regular; (p.) veritable
+[istota]istota (PL) : (rz.) backbone; (rz.) being; (rz.) creature; (rz.) entity; (rz.) essence; (rz.) inbeing; (rz.) inwardness; (rz.) matter; (rz.) spirit; (rz.) stuff; (rz.) substance; (rz.) tenor; (rz.) thing
+[istotnie]istotnie (PL) : (p-sł.) actually; (p-sł.) essentially; (p-sł.) indeed; (p-sł.) significantly; (p-sł.) substantially; (p-sł.) substantively; (p-sł.) vitally
+[istotnosc]istotność (PL) : (rz.) pertinence; (rz.) significance
+[istotny]istotny (PL) : (p.) constitutive; (p.) essential; (p.) fundamental; (p.) imperative; (p.) intrinsic; (p.) quintessential; (p.) relevant; (p.) significant; (p.) substantial; (p.) valid; (p.) very; (p.) vital
+[iteracja]iteracja (PL) : (rz.) iteration
+[iteracyjny]iteracyjny (PL) : (p.) iterative
+[iteratywny]iteratywny (PL) : (p.) iterative
+[iterb]iterb (PL) : (rz.) ytterbium
+[itr]itr (PL) : (rz.) yttrium
+[izarytma]izarytma (PL) : (rz.) isarithm
+[izba]izba (PL) : (rz.) chamber; (rz.) house; (rz.) infirmary; (rz.) room
+[izbica]izbica (PL) : (rz.) cutwater; (rz.) ice-apron; (rz.) ice-breaker; (rz.) starling
+[izdebka]izdebka (PL) : (rz.) cubby
+[izobar]izobar (PL) : (rz.) isobar
+[izobara]izobara (PL) : (rz.) isobar
+[izobaryczny]izobaryczny (PL) : (p.) isobaric
+[izobuten]izobuten (PL) : (rz.) isobutene
+[izochroniczny]izochroniczny (PL) : (p.) isochronal; (p.) isochronous
+[izohalina]izohalina (PL) : (rz.) isohaline
+[izolacja]izolacja (PL) : (rz.) delay; (rz.) detachment; (rz.) insulation; (rz.) isolation; (rz.) privacy; (rz.) recess; (rz.) seclusion
+[izolacjonista]izolacjonista (PL) : (rz.) isolationist
+[izolacjonizm]izolacjonizm (PL) : (rz.) isolationism
+[izolacyjnosc]izolacyjność (PL) : (rz.) insulation
+[izolacyjny]izolacyjny (PL) : (p.) insulating
+[izolatka]izolatka (PL) : (rz.) recess; (rz.) sickroom
+[izolator]izolator (PL) : (rz.) insulator; (rz.) isolator; (rz.) non-conductor
+[izolowanie]izolowanie (PL) : (rz.) isolation
+[izolowany]izolowany (PL) : (p.) insulated; (p.) isolated
+[izolowac]izolować (PL) : (cz.) insulate; (cz.) isolate
+[izomer]izomer (PL) : (rz.) isomer
+[izomeria]izomeria (PL) : (rz.) isomerism
+[izomeryczny]izomeryczny (PL) : (p.) isomeric
+[izometryczny]izometryczny (PL) : (p.) isometric
+[izomorficzny]izomorficzny (PL) : (p.) isomorphic
+[izomorfizm]izomorfizm (PL) : (rz.) isomorphism
+[izooktan]izooktan (PL) : (rz.) isooctane
+[izopren]izopren (PL) : (rz.) isoprene
+[izopropyl]izopropyl (PL) : (rz.) isopropyl
+[izoterma]izoterma (PL) : (rz.) isotherm
+[izotermiczny]izotermiczny (PL) : (p.) isothermal
+[izotoniczny]izotoniczny (PL) : (p.) isotonic
+[izotop]izotop (PL) : (rz.) isotope
+[izotopia]izotopia (PL) : (rz.) isotope
+[izotopowy]izotopowy (PL) : (p.) isotopic
+[izotropia]izotropia (PL) : (rz.) isotropy
+[izotropowosc]izotropowość (PL) : (rz.) isotropy
+[izotropowy]izotropowy (PL) : (p.) isotropic
+[il]ił (PL) : (rz.) clay; (rz.) loam; (rz.) silt
+[ilowiec]iłowiec (PL) : (rz.) mudstone
+[ilolupek]iłołupek (PL) : (rz.) clump; (rz.) mudstone; (rz.) shale
+[iscie]iście (PL) : (p-sł.) really
+[isc]iść (PL) : (cz.) follow; (cz.) go; (cz.) retire; (cz.) sashay; (cz.) stride; (cz.) trip; (cz.) walk
+[iz]iż (PL) : (spójnik) that

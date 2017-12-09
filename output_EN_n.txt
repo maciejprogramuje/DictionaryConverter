@@ -1,0 +1,750 @@
+[nathalie]Nathalie (EN) : (rz.) Natalia
+[nazi]Nazi (EN) : (p.) nazistowski; (rz.) hitlerowiec; (rz.) nazista
+[nazism]Nazism (EN) : (rz.) nazizm
+[nicholas]Nicholas (EN) : (rz.) Mikołaj
+[norman]Norman (EN) : (p.) normandzki
+[november]November (EN) : (rz.) listopad
+[n-port]n-port (EN) : (rz.) wielowrotnik
+[nab]nab (EN) : (cz.) łapać; (cz.) przydybać; (cz.) zaaresztować; (cz.) zwędzić
+[nabob]nabob (EN) : (rz.) bogacz; (rz.) nabab
+[nacelle]nacelle (EN) : (rz.) gondola
+[nacre]nacre (EN) : (rz.) perłowiec
+[nag]nag (EN) : (cz.) dokuczać; (cz.) dręczyć; (cz.) gderać; (cz.) prześladować; (cz.) zrzędzić; (rz.) kucyk; (rz.) narzekanie; (rz.) szkapa
+[nagging]nagging (EN) : (p.) dokuczliwy; (p.) swarliwy; (rz.) głód; (rz.) naprzykrzanie
+[naiad]naiad (EN) : (rz.) najada; (rz.) nimfa
+[nail]nail (EN) : (cz.) przybić; (cz.) przybijać; (cz.) przygwoździć; (cz.) przykuć; (cz.) złapać; (rz.) ćwiek; (rz.) gwóźdź; (rz.) gwoździowanie; (rz.) paznokieć; (rz.) pazur
+[naive]naive (EN) : (p.) naiwny
+[naively]naively (EN) : (p-sł.) naiwnie
+[naivety]naivety (EN) : (rz.) naiwność; (rz.) prostoduszność
+[naiveté]naiveté (EN) : (rz.) naiwność
+[naked]naked (EN) : (p.) goły; (p.) nagi
+[nakedly]nakedly (EN) : (p-sł.) nago
+[nakedness]nakedness (EN) : (rz.) golizna; (rz.) nagość
+[namby-pamby]namby-pamby (EN) : (p.) czułostkowy
+[name]name (EN) : (cz.) mianować; (cz.) nazywać; (cz.) wymieniać; (rz.) imię; (rz.) miano; (rz.) nazwa; (rz.) nazwanie; (rz.) nazwisko; (rz.) przydomek; (rz.) reputacja
+[name-calling]name-calling (EN) : (rz.) nazewnictwo
+[name-day]name-day (EN) : (rz.) imieniny
+[name-days]name-days (EN) : (rz.) imieniny
+[nameless]nameless (EN) : (p.) bezimienny; (p.) niewysłowiony; (p.) nieznany
+[namelessly]namelessly (EN) : (p-sł.) bezimiennie
+[namelessness]namelessness (EN) : (rz.) bezimienność
+[nameplate]nameplate (EN) : (rz.) imiennik; (rz.) plakietka
+[namesake]namesake (EN) : (rz.) imiennik
+[nankeen]nankeen (EN) : (rz.) nankin
+[nanny]nanny (EN) : (rz.) babcia; (rz.) niania
+[nanny-goat]nanny-goat (EN) : (rz.) koza
+[nanosecond]nanosecond (EN) : (rz.) nanosekunda
+[nanoseconds]nanoseconds (EN) : (rz.) nanosekunda
+[nap]nap (EN) : (cz.) drzemać; (rz.) drzemka; (rz.) kutner; (rz.) meszek
+[napalm]napalm (EN) : (rz.) napalm
+[nape]nape (EN) : (rz.) kark
+[naphtha]naphtha (EN) : (rz.) benzyna; (rz.) ropa
+[naphthalene]naphthalene (EN) : (rz.) naftalen; (rz.) naftalina
+[napkin]napkin (EN) : (rz.) chustka; (rz.) pieluszka; (rz.) serwetka
+[nappy]nappy (EN) : (rz.) pielucha; (rz.) pieluszka
+[narcissism]narcissism (EN) : (rz.) narcyzm
+[narcissistic]narcissistic (EN) : (p.) narcystyczny
+[narcissus]narcissus (EN) : (rz.) narcyz
+[narcosis]narcosis (EN) : (rz.) narkoza; (rz.) uśpienie
+[narcotic]narcotic (EN) : (p.) narkotyczny; (rz.) narkotyk
+[narcotize]narcotize (EN) : (cz.) narkotyzować
+[nark]nark (EN) : (rz.) szpieg
+[narrate]narrate (EN) : (cz.) opowiadać
+[narration]narration (EN) : (rz.) narracja; (rz.) opowiadanie
+[narrative]narrative (EN) : (p.) gawędziarski; (p.) narracyjny; (p.) narratorski; (p.) opisowy; (rz.) narracja; (rz.) opowiadanie; (rz.) relacja
+[narrator]narrator (EN) : (rz.) narrator
+[narrow]narrow (EN) : (cz.) ograniczyć; (cz.) zawężać; (cz.) zawęzić; (cz.) zwężać; (p.) ciasny; (p.) drobiazgowy; (p.) nieznaczny; (p.) wąski
+[narrow-minded]narrow-minded (EN) : (p.) ograniczony
+[narrowly]narrowly (EN) : (p-sł.) ledwo; (p-sł.) minimalnie
+[narrowness]narrowness (EN) : (rz.) wąskość
+[narwhal]narwhal (EN) : (rz.) narwal
+[nasal]nasal (EN) : (p.) nosowy; (rz.) nosówka
+[nasality]nasality (EN) : (rz.) nazalizacja; (rz.) nosowość
+[nasalization]nasalization (EN) : (rz.) nazalizacja
+[nasalize]nasalize (EN) : (cz.) nazalizować
+[nascent]nascent (EN) : (p.) powstający
+[nastily]nastily (EN) : (p-sł.) przykro; (p-sł.) złośliwie
+[nastiness]nastiness (EN) : (rz.) sprośność; (rz.) złośliwość
+[nasturtium]nasturtium (EN) : (rz.) nasturcja
+[nasty]nasty (EN) : (p.) groźny; (p.) nieprzyjemny; (p.) nieprzystojny; (p.) nieznośny; (p.) paskudny; (p.) przykry; (p.) wstrętny; (p.) złośliwy
+[natal]natal (EN) : (p.) noworodkowy; (p.) rodzinny; (p.) urodzinowy
+[nation]nation (EN) : (rz.) kraj; (rz.) lud; (rz.) nacja; (rz.) naród; (rz.) państwo
+[national]national (EN) : (p.) krajowy; (p.) krajoznawczy; (p.) narodowy; (p.) ogólnokrajowy; (p.) państwowy; (rz.) obywatel
+[nationalisation]nationalisation (EN) : (rz.) upaństwowienie
+[nationalism]nationalism (EN) : (rz.) nacjonalizm
+[nationalist]nationalist (EN) : (rz.) nacjonalista; (rz.) narodowiec
+[nationalistic]nationalistic (EN) : (p.) narodowościowy
+[nationality]nationality (EN) : (rz.) narodowość; (rz.) obywatelstwo
+[nationalization]nationalization (EN) : (rz.) nacjonalizacja; (rz.) naturalizacja; (rz.) unarodowienie; (rz.) upaństwowienie
+[nationalize]nationalize (EN) : (cz.) nacjonalizować; (cz.) nadać; (cz.) nadawać; (cz.) naturalizować; (cz.) unarodowić; (cz.) upaństwawiać; (cz.) upaństwowić
+[nationally]nationally (EN) : (p-sł.) krajowo; (p-sł.) narodowo
+[nationwide]nationwide (EN) : (p.) ogólnokrajowy; (p.) ogólnonarodowy; (p.) ogólnopaństwowy
+[native]native (EN) : (p.) autochtoniczny; (p.) krajowy; (p.) miejscowy; (p.) ojczysty; (p.) rodowity; (p.) rodzimy; (p.) rodzinny; (p.) tubylczy; (p.) zwykły; (rz.) krajowiec; (rz.) mieszkaniec; (rz.) rodak; (rz.) tubylec
+[natively]natively (EN) : (p-sł.) tubylczo
+[nativity]nativity (EN) : (rz.) horoskop; (rz.) narodzenie
+[natty]natty (EN) : (p.) czysty; (p.) schludny; (p.) staranny
+[natural]natural (EN) : (p.) dziki; (p.) naturalny; (p.) normalny; (p.) przyrodniczy; (p.) samorodny; (p.) szczery; (p.) żywiołowy; (rz.) kasownik
+[naturalism]naturalism (EN) : (rz.) naturalizm
+[naturalist]naturalist (EN) : (rz.) naturalista; (rz.) przyrodnik
+[naturalistic]naturalistic (EN) : (p.) naturalistyczny; (p.) przyrodniczy
+[naturalization]naturalization (EN) : (rz.) naturalizacja
+[naturalize]naturalize (EN) : (cz.) aklimatyzować; (cz.) naturalizować; (cz.) znaturalizować
+[naturally]naturally (EN) : (p-sł.) naturalnie; (p-sł.) oczywiście
+[naturalness]naturalness (EN) : (rz.) naturalność
+[nature]nature (EN) : (rz.) charakter; (rz.) jestestwo; (rz.) natura; (rz.) osobowość; (rz.) pierwotność; (rz.) przyroda; (rz.) rodzaj; (rz.) typ; (rz.) usposobienie
+[naturism]naturism (EN) : (rz.) naturyzm
+[naturist]naturist (EN) : (rz.) naturysta
+[naught]naught (EN) : (rz.) mdłości; (rz.) zero; (rz.) zły
+[naughtily]naughtily (EN) : (p-sł.) nieposłusznie
+[naughtiness]naughtiness (EN) : (rz.) niegrzeczność; (rz.) nieposłuszeństwo
+[naughty]naughty (EN) : (p.) niegrzeczny; (p.) nieposłuszny; (p.) nieprzyzwoity; (p.) paskudny; (p.) zły
+[nausea]nausea (EN) : (rz.) mdłości
+[nauseate]nauseate (EN) : (cz.) mdlić
+[nauseating]nauseating (EN) : (p.) mdły
+[nauseous]nauseous (EN) : (p.) mdły; (p.) obrzydliwy; (p.) wstrętny
+[nautical]nautical (EN) : (p.) marynarski; (p.) morski; (p.) nautyczny; (p.) żeglarski
+[naval]naval (EN) : (p.) marynarski; (p.) morski; (p.) okrętowy; (p.) żeglarski
+[nave]nave (EN) : (rz.) nawa; (rz.) piasta
+[navel]navel (EN) : (rz.) pępek; (rz.) rozłóg
+[navel-string]navel-string (EN) : (rz.) pępowina
+[navigability]navigability (EN) : (rz.) spławność; (rz.) sterowanie; (rz.) żeglowność
+[navigable]navigable (EN) : (p.) spławny; (p.) sterowny; (p.) żeglowny
+[navigate]navigate (EN) : (cz.) latać; (cz.) nawigować; (cz.) pilotować; (cz.) sterować; (cz.) żeglować
+[navigation]navigation (EN) : (rz.) nawigacja; (rz.) żeglarstwo; (rz.) żegluga
+[navigational]navigational (EN) : (p.) nawigacyjny
+[navigator]navigator (EN) : (rz.) nawigator; (rz.) pilot; (rz.) żeglarz
+[navvy]navvy (EN) : (rz.) kopacz
+[navy]navy (EN) : (rz.) flota; (rz.) granat; (rz.) marynarka
+[navy-blue]navy-blue (EN) : (p.) granatowy
+[nay]nay (EN) : (p-sł.) nawet; (p-sł.) nie; (rz.) sprzeciw
+[neap]neap (EN) : (p.) marny
+[near]near (EN) : (cz.) zbliżać; (cz.) zbliżyć; (p-im.) przy; (p.) bliski; (p.) dokładny; (p.) niedaleki; (p.) sąsiedni; (p-sł.) blisko; (p-sł.) niedaleko; (p-sł.) niemal; (p-sł.) nieopodal; (p-sł.) około; (p-sł.) opodal; (p-sł.) prawie
+[near-miss]near-miss (EN) : (rz.) bliskie
+[near-sighted]near-sighted (EN) : (p.) krótkowzroczny
+[nearby]nearby (EN) : (p.) niedaleki; (p.) pobliski; (p-sł.) opodal
+[nearly]nearly (EN) : (p-sł.) blisko; (p-sł.) niemal; (p-sł.) omal; (p-sł.) prawie
+[nearness]nearness (EN) : (rz.) bliskość; (rz.) oszczędność; (rz.) sąsiedztwo; (rz.) wierność
+[nearsighted]nearsighted (EN) : (p.) krótkowzroczny
+[nearsightedness]nearsightedness (EN) : (rz.) krótkowzroczność
+[neat]neat (EN) : (p.) czysty; (p.) grzeczny; (p.) gustowny; (p.) kształtny; (p.) miły; (p.) porządny; (p.) schludny; (p.) składny; (p.) staranny
+[neat's-foot]neat's-foot (EN) : (p.) kopytkowy
+[neaten]neaten (EN) : (cz.) poprawić
+[neatly]neatly (EN) : (p-sł.) porządnie; (p-sł.) schludnie; (p-sł.) starannie; (p-sł.) wykwintnie
+[neatness]neatness (EN) : (rz.) gustowność; (rz.) kształtność; (rz.) porządek; (rz.) schludność; (rz.) zgrabność
+[nebula]nebula (EN) : (rz.) mgławica
+[nebular]nebular (EN) : (p.) mgławicowy
+[nebulosity]nebulosity (EN) : (rz.) pochmurność
+[nebulous]nebulous (EN) : (p.) mgławicowy; (p.) mglisty; (p.) zamglony
+[necessarily]necessarily (EN) : (p-sł.) koniecznie
+[necessary]necessary (EN) : (p.) konieczny; (p.) niezbędny; (p.) potrzebny; (rz.) potrzeba
+[necessitate]necessitate (EN) : (cz.) uzależniać; (cz.) wymagać; (cz.) zmuszać
+[necessity]necessity (EN) : (rz.) bieda; (rz.) konieczność; (rz.) niezbędność; (rz.) potrzeba
+[neck]neck (EN) : (cz.) migdalić; (cz.) pieścić; (rz.) cieśnina; (rz.) gryf; (rz.) karczek; (rz.) kark; (rz.) karkówka; (rz.) kołnierz; (rz.) przesmyk; (rz.) szyja; (rz.) szyjka
+[neck-cloth]neck-cloth (EN) : (rz.) krawat; (rz.) szalik
+[neck-tie]neck-tie (EN) : (rz.) krawat
+[neckerchief]neckerchief (EN) : (rz.) apaszka; (rz.) chustka
+[necking]necking (EN) : (rz.) kark; (rz.) obciskanie; (rz.) pieszczenie; (rz.) przewężenie; (rz.) szyjka
+[necklace]necklace (EN) : (rz.) kolia; (rz.) naszyjnik
+[neckline]neckline (EN) : (rz.) dekolt; (rz.) wycięcie
+[necktie]necktie (EN) : (rz.) krawat
+[necrology]necrology (EN) : (rz.) nekrolog
+[necromancer]necromancer (EN) : (rz.) nekromanta
+[necromancy]necromancy (EN) : (rz.) nekromancja
+[necromantic]necromantic (EN) : (p.) neoromantyczny
+[necrophilia]necrophilia (EN) : (rz.) nekrofilia
+[necropolis]necropolis (EN) : (rz.) nekropola; (rz.) nekropolia
+[necrosis]necrosis (EN) : (rz.) martwica; (rz.) nekroza; (rz.) obumarcie
+[necrotic]necrotic (EN) : (p.) martwiczy; (p.) neurotyczny
+[nectar]nectar (EN) : (rz.) nektar
+[nectarine]nectarine (EN) : (p.) nektarowy; (rz.) nektaryna; (rz.) nektarynka
+[nectarines]nectarines (EN) : (rz.) nektaryna
+[need]need (EN) : (cz.) chcieć; (cz.) musieć; (cz.) potrzebować; (cz.) wymagać; (rz.) konieczność; (rz.) potrzeba; (rz.) zapotrzebowanie
+[needful]needful (EN) : (p.) konieczny; (p.) niezbędny; (p.) potrzebny; (p.) potrzebujący
+[needing]needing (EN) : (rz.) potrzebowanie
+[needle]needle (EN) : (cz.) dokuczać; (rz.) drut; (rz.) igła; (rz.) wskazówka
+[needle-beam]needle-beam (EN) : (rz.) belka-igła
+[needle-case]needle-case (EN) : (rz.) igielnik
+[needle-cuts]needle-cuts (EN) : (rz.) cetyna
+[needle-shaped]needle-shaped (EN) : (p.) igiełkowaty
+[needless]needless (EN) : (p.) niepotrzebny; (p.) nieproduktywny; (p.) zbędny; (p.) zbyteczny
+[needlessly]needlessly (EN) : (p-sł.) niepotrzebnie
+[needlewoman]needlewoman (EN) : (rz.) szwaczka
+[needlework]needlework (EN) : (rz.) szycie
+[nefarious]nefarious (EN) : (p.) niegodziwy; (p.) niemoralny
+[negate]negate (EN) : (cz.) negować; (cz.) zaprzeczać
+[negation]negation (EN) : (rz.) negacja; (rz.) negowanie; (rz.) odmowa; (rz.) przeczenie; (rz.) wyrzeczenie; (rz.) zaprzeczenie
+[negations]negations (EN) : (rz.) negowanie
+[negative]negative (EN) : (p.) minusowy; (p.) negatywny; (p.) negatywowy; (p.) niekorzystny; (p.) odmowny; (p.) pesymistyczny; (p.) przeczący; (p.) ujemny; (rz.) negatyw; (rz.) przeczenie
+[negatively]negatively (EN) : (p-sł.) odmownie; (p-sł.) przecząco; (p-sł.) ujemnie
+[negativism]negativism (EN) : (rz.) negatywizm
+[negativity]negativity (EN) : (rz.) negatywność
+[negatron]negatron (EN) : (rz.) dynatron; (rz.) negaton; (rz.) negatron
+[neglect]neglect (EN) : (cz.) wzgardzić; (cz.) zaniedbać; (cz.) zaniedbywać; (cz.) zlekceważyć; (rz.) lekceważenie; (rz.) niedopatrzenie; (rz.) poniewierka; (rz.) zaniechanie; (rz.) zaniedbanie
+[neglected]neglected (EN) : (p.) niegustowny; (p.) zaniedbany
+[neglectful]neglectful (EN) : (p.) niestaranny
+[negligee]negligee (EN) : (rz.) negliż; (rz.) szlafrok
+[negligence]negligence (EN) : (rz.) lekceważenie; (rz.) niedbalstwo; (rz.) nieobowiązkowość; (rz.) zaniechanie; (rz.) zaniedbanie; (rz.) zlekceważenie
+[negligent]negligent (EN) : (p.) niedokładny
+[negligently]negligently (EN) : (p-sł.) niedbale
+[negligible]negligible (EN) : (p.) nieistotny; (p.) nieznaczny; (p.) pomijalny; (p.) znikomy
+[negotiability]negotiability (EN) : (rz.) zbywalność
+[negotiable]negotiable (EN) : (p.) sprzedażny; (p.) zbywalny
+[negotiate]negotiate (EN) : (cz.) negocjować; (cz.) obracać; (cz.) omawiać; (cz.) paktować; (cz.) pertraktować; (cz.) rokować; (cz.) sprzedawać; (cz.) uzgadniać; (cz.) wydawać; (cz.) wynegocjować; (cz.) załatwiać
+[negotiation]negotiation (EN) : (rz.) dyskontowanie; (rz.) negocjacja; (rz.) pertraktacja; (rz.) porozumienie; (rz.) rokowanie; (rz.) rozumienie; (rz.) spieniężenie; (rz.) sprzedaż
+[negotiator]negotiator (EN) : (rz.) negocjator
+[negro]negro (EN) : (p.) murzyński; (rz.) murzyn
+[neigh]neigh (EN) : (cz.) rżeć; (rz.) rżenie
+[neighbour]neighbour (EN) : (rz.) bliźni; (rz.) sąsiad
+[neighbourhood]neighbourhood (EN) : (rz.) bliskość; (rz.) dzielnica; (rz.) okolica; (rz.) otoczenie; (rz.) sąsiedztwo
+[neighbouring]neighbouring (EN) : (p.) okoliczny; (p.) ościenny
+[neighbourly]neighbourly (EN) : (p.) przyjazny; (p.) życzliwy
+[neither]neither (EN) : (p.) żaden; (p-sł.) nie
+[nemesis]nemesis (EN) : (rz.) zagłada
+[neo]neo (EN) : (p.) neonazistowski; (rz.) neogen
+[neo-romanticism]neo-romanticism (EN) : (rz.) neoromantyzm
+[neoclassical]neoclassical (EN) : (p.) klasycystyczny; (p.) neoklasyczny
+[neoclassicism]neoclassicism (EN) : (rz.) neoklasycyzm
+[neodymium]neodymium (EN) : (rz.) neodym
+[neologism]neologism (EN) : (rz.) neologizm
+[neology]neology (EN) : (rz.) neologizm
+[neon]neon (EN) : (rz.) neon
+[neonatal]neonatal (EN) : (p.) noworodkowy
+[neonate]neonate (EN) : (rz.) noworodek
+[neophyte]neophyte (EN) : (rz.) neofita; (rz.) nowochrzczeniec
+[nephew]nephew (EN) : (rz.) bratanek; (rz.) siostrzeniec; (rz.) synowiec
+[nephrite]nephrite (EN) : (rz.) nefryt
+[nephrology]nephrology (EN) : (rz.) nefrologia
+[nepotism]nepotism (EN) : (rz.) kumoterstwo; (rz.) nepotyzm
+[neptunium]neptunium (EN) : (rz.) neptun
+[nerd]nerd (EN) : (rz.) głupek; (rz.) spec
+[nerve]nerve (EN) : (cz.) ośmielać; (cz.) wzmocnić; (rz.) bezczelność; (rz.) czelność; (rz.) energia; (rz.) nerw; (rz.) odwaga; (rz.) siła; (rz.) tupet
+[nerve-racking]nerve-racking (EN) : (p.) nerwowy
+[nerveless]nerveless (EN) : (p.) słaby; (p.) spokojny
+[nervous]nervous (EN) : (p.) nerwowy
+[nervously]nervously (EN) : (p-sł.) nerwowo
+[nervousness]nervousness (EN) : (rz.) nerwowość; (rz.) zdenerwowanie
+[nervure]nervure (EN) : (rz.) unerwienie
+[nervy]nervy (EN) : (p.) energiczny; (p.) krzepki
+[nest]nest (EN) : (cz.) gniazdować; (cz.) gnieździć; (cz.) włączać; (cz.) zagnieżdżać; (cz.) zagnieździć; (rz.) gniazdo; (rz.) gnieżdżenie; (rz.) grupa; (rz.) komplet; (rz.) seria; (rz.) siedlisko
+[nest-egg]nest-egg (EN) : (rz.) zaskórniak
+[nesting]nesting (EN) : (rz.) zagnieżdżanie
+[nestle]nestle (EN) : (cz.) gnieździć; (cz.) kulić; (cz.) przytulać; (cz.) skulić; (cz.) tulić; (cz.) urządzać; (cz.) urządzić; (cz.) utulić; (cz.) zagnieżdżać; (cz.) zagnieździć
+[nestling]nestling (EN) : (rz.) dzieciak
+[net]net (EN) : (p.) czysty; (rz.) bramka; (rz.) Internet; (rz.) netto; (rz.) siatka; (rz.) siatkowanie; (rz.) sieć; (rz.) wynik; (rz.) wynikanie
+[netting]netting (EN) : (rz.) siatka; (rz.) siatkowanie
+[nettle]nettle (EN) : (cz.) drażnić; (cz.) irytować; (cz.) parzyć; (cz.) przymawiać; (cz.) sparzyć; (rz.) jasnota; (rz.) pokrzywa
+[nettle-rash]nettle-rash (EN) : (rz.) pokrzywka
+[network]network (EN) : (rz.) obwód; (rz.) radio; (rz.) sieć; (rz.) układ
+[neural]neural (EN) : (p.) nerwowy
+[neuralgia]neuralgia (EN) : (rz.) nerwoból; (rz.) newralgia
+[neuralgic]neuralgic (EN) : (p.) neuralgiczny; (p.) newralgiczny
+[neurasthenia]neurasthenia (EN) : (rz.) neurastenia
+[neurasthenic]neurasthenic (EN) : (p.) neurasteniczny; (rz.) neurastenik
+[neurobiology]neurobiology (EN) : (rz.) neurobiologia
+[neurochemistry]neurochemistry (EN) : (rz.) neurochemia
+[neurological]neurological (EN) : (p.) neurologiczny
+[neurologist]neurologist (EN) : (rz.) neurolog
+[neurology]neurology (EN) : (rz.) neurologia
+[neuron]neuron (EN) : (rz.) neuron
+[neuronal]neuronal (EN) : (p.) neuronowy
+[neuropath]neuropath (EN) : (rz.) neuropata
+[neuropathology]neuropathology (EN) : (rz.) neuropatologia
+[neuropathy]neuropathy (EN) : (rz.) neuropatia
+[neurophysiology]neurophysiology (EN) : (rz.) neurofizjologia
+[neurosis]neurosis (EN) : (rz.) nerwica; (rz.) neuroza
+[neurosurgeon]neurosurgeon (EN) : (rz.) neurochirurg
+[neurosurgery]neurosurgery (EN) : (rz.) neurochirurgia
+[neurotic]neurotic (EN) : (p.) nerwicowy; (p.) neurotyczny; (p.) neutronowy; (rz.) neurotyk
+[neuter]neuter (EN) : (p.) neutralny; (p.) nieprzechodni; (p.) nijaki
+[neutral]neutral (EN) : (p.) bezstronny; (p.) neutralny; (p.) obojętny; (p.) zerowy; (rz.) neutralność; (rz.) pipeta
+[neutralism]neutralism (EN) : (rz.) neutralizm
+[neutrality]neutrality (EN) : (rz.) neutralność
+[neutralization]neutralization (EN) : (rz.) neutralizacja; (rz.) neutralizowanie; (rz.) zerowanie; (rz.) zobojętnianie; (rz.) zobojętnienie
+[neutralize]neutralize (EN) : (cz.) neutralizować; (cz.) zneutralizować; (cz.) zobojętniać; (cz.) zobojętnić
+[neutrally]neutrally (EN) : (p-sł.) neutralnie
+[neutrino]neutrino (EN) : (rz.) neutrino
+[neutron]neutron (EN) : (rz.) neutron
+[never]never (EN) : (p-sł.) nigdy; (p-sł.) wcale
+[never-ending]never-ending (EN) : (p.) wieczny
+[nevermore]nevermore (EN) : (p-sł.) nigdy
+[nevertheless]nevertheless (EN) : (p-sł.) wszelako
+[new]new (EN) : (p.) inny; (p.) nowatorski; (p.) noworoczny; (p.) nowy; (p.) świeży
+[new-fashioned]new-fashioned (EN) : (p.) nowomodny
+[newbie]newbie (EN) : (rz.) żółtodziób
+[newborn]newborn (EN) : (rz.) noworodek
+[newcomer]newcomer (EN) : (rz.) przybysz
+[newfangled]newfangled (EN) : (p.) nowoczesny; (p.) nowomodny
+[newly]newly (EN) : (p-sł.) niedawno; (p-sł.) nowo; (p-sł.) ostatnio; (p-sł.) świeżo
+[newness]newness (EN) : (rz.) nowość; (rz.) świeżość
+[news]news (EN) : (rz.) gazeta; (rz.) nowina; (rz.) nowość; (rz.) partyjka; (rz.) wiadomość; (rz.) wieść
+[news-boy]news-boy (EN) : (rz.) gazeciarz
+[newsagent]newsagent (EN) : (rz.) gazeciarz; (rz.) kioskarz
+[newsboy]newsboy (EN) : (rz.) gazeciarz; (rz.) goniec; (rz.) roznosiciel
+[newscast]newscast (EN) : (rz.) wiadomość
+[newsletter]newsletter (EN) : (rz.) biuletyn; (rz.) informator
+[newsman]newsman (EN) : (rz.) gazeciarz; (rz.) sprzedawca
+[newsmonger]newsmonger (EN) : (rz.) kolporter; (rz.) plotkarz
+[newspaper]newspaper (EN) : (rz.) dziennik; (rz.) gazeta; (rz.) gazetka
+[newsroom]newsroom (EN) : (rz.) redakcja
+[newsstand]newsstand (EN) : (rz.) stoisko
+[newsy]newsy (EN) : (p.) nowy; (p.) plotkarski
+[newt]newt (EN) : (rz.) traszka; (rz.) tryton
+[next]next (EN) : (p.) kolejny; (p.) następny; (p.) przyszły; (p-sł.) następnie; (p-sł.) potem
+[next-door]next-door (EN) : (p.) sąsiedni
+[nexus]nexus (EN) : (rz.) ogniwo; (rz.) splot; (rz.) zespół; (rz.) związek
+[niacin]niacin (EN) : (rz.) niacyna
+[nib]nib (EN) : (rz.) dziób; (rz.) dzióbek; (rz.) ostrze; (rz.) pióro; (rz.) stalówka
+[nibble]nibble (EN) : (cz.) czepiać; (cz.) gryźć; (cz.) nadgryzać; (cz.) obgryzać; (cz.) ogryzać; (cz.) przygryzać; (cz.) skubać; (rz.) dziobanie; (rz.) półbajt
+[nice]nice (EN) : (p.) delikatny; (p.) fajny; (p.) ładny; (p.) miły; (p.) przyjemny; (p.) subtelny; (p.) sympatyczny
+[nice-looking]nice-looking (EN) : (p.) atrakcyjny; (p.) przystojny
+[nicely]nicely (EN) : (p-sł.) grzecznie; (p-sł.) ładnie; (p-sł.) miło; (p-sł.) przyjemnie; (p-sł.) sympatycznie; (p-sł.) uprzejmie
+[niceness]niceness (EN) : (rz.) przyjemność; (rz.) wybredność
+[nicety]nicety (EN) : (rz.) delikatność; (rz.) dokładność; (rz.) precyzja; (rz.) subtelność; (rz.) szczegół; (rz.) wybredność
+[niche]niche (EN) : (rz.) nisza; (rz.) wnęka
+[nick]nick (EN) : (cz.) wyszczerbić; (rz.) karb; (rz.) ksywa; (rz.) nacięcie; (rz.) skaza; (rz.) szczerba; (rz.) wcięcie; (rz.) wyszczerbienie
+[nickel]nickel (EN) : (cz.) niklować; (rz.) nikiel; (rz.) pięciocentówka
+[nickel-plating]nickel-plating (EN) : (rz.) niklowanie
+[nickname]nickname (EN) : (cz.) przezwać; (cz.) przezywać; (rz.) ksywa; (rz.) ksywka; (rz.) przezwisko; (rz.) przydomek; (rz.) pseudonim
+[nicotine]nicotine (EN) : (rz.) nikotyna
+[nicotine-free]nicotine-free (EN) : (p.) beznikotynowy
+[nicotinic]nicotinic (EN) : (p.) nikotynowy
+[nictitate]nictitate (EN) : (cz.) mrugać
+[niece]niece (EN) : (rz.) bratanica; (rz.) siostrzenica
+[nifty]nifty (EN) : (p.) świetny; (p.) szykowny
+[niggard]niggard (EN) : (p.) skąpy; (rz.) dusigrosz; (rz.) skąpiec; (rz.) sknera
+[niggardly]niggardly (EN) : (p-sł.) skąpo
+[nigger]nigger (EN) : (rz.) czarnuch; (rz.) murzyn
+[niggling]niggling (EN) : (p.) drobiazgowy
+[nigh]nigh (EN) : (p.) bliski; (p.) nocny; (p-sł.) blisko; (p-sł.) niebawem
+[night]night (EN) : (rz.) noc; (rz.) somnambulizm; (rz.) wieczór
+[night-long]night-long (EN) : (p.) całonocny
+[night-time]night-time (EN) : (rz.) noc
+[night-walker]night-walker (EN) : (rz.) lunatyk
+[night-walking]night-walking (EN) : (rz.) somnambulizm
+[nightcap]nightcap (EN) : (rz.) szlafmyca
+[nightfall]nightfall (EN) : (rz.) zmierzch; (rz.) zmrok
+[nightgown]nightgown (EN) : (rz.) szlafrok
+[nightingale]nightingale (EN) : (rz.) skowronek; (rz.) słowik
+[nightjar]nightjar (EN) : (rz.) kozodój; (rz.) lelek
+[nightlong]nightlong (EN) : (p.) całonocny
+[nightly]nightly (EN) : (p.) conocny; (p.) nocny; (p.) wieczorny
+[nightmare]nightmare (EN) : (rz.) koszmar; (rz.) mara; (rz.) mary; (rz.) zmora
+[nightmarish]nightmarish (EN) : (p.) koszmarny
+[nightstick]nightstick (EN) : (rz.) pałka
+[nightwalker]nightwalker (EN) : (rz.) lunatyk
+[nihilism]nihilism (EN) : (rz.) nihilizm
+[nihilist]nihilist (EN) : (rz.) nihilista
+[nihilistic]nihilistic (EN) : (p.) nihilistyczny
+[nil]nil (EN) : (rz.) zero
+[nilpotent]nilpotent (EN) : (rz.) nilpotent
+[nimble]nimble (EN) : (p.) bystry; (p.) giętki; (p.) lekki; (p.) oszczędny; (p.) rączy; (p.) zgrabny; (p.) żwawy; (p.) zwinny
+[nimbleness]nimbleness (EN) : (rz.) bystrość; (rz.) sprężystość; (rz.) zwinność
+[nimbus]nimbus (EN) : (rz.) chmura; (rz.) nimb; (rz.) nimbus
+[nimiety]nimiety (EN) : (rz.) nadmiar
+[nincompoop]nincompoop (EN) : (rz.) błazen; (rz.) ciamajda; (rz.) fujara; (rz.) głupek; (rz.) głupiec
+[ninepins]ninepins (EN) : (rz.) kręgle
+[nineteenth]nineteenth (EN) : (p.) dziewiętnasty
+[ninetieth]ninetieth (EN) : (p.) dziewięćdziesiąty
+[ninny]ninny (EN) : (rz.) ciamajda; (rz.) fujara; (rz.) głupek; (rz.) głupiec
+[ninth]ninth (EN) : (p.) dziewiąty
+[niobium]niobium (EN) : (rz.) niob
+[nip]nip (EN) : (cz.) niszczyć; (cz.) obcinać; (cz.) szczypać; (cz.) ucinać; (cz.) zmrozić; (rz.) chwyt; (rz.) łyk; (rz.) przycięcie; (rz.) przyciśnięcie; (rz.) przyszczypnięcie; (rz.) uchwyt; (rz.) uszczypniecie; (rz.) uszczypnięcie; (rz.) zacisk
+[nipper]nipper (EN) : (rz.) kajdanki; (rz.) młodzik; (rz.) szczypce; (rz.) ulicznik; (rz.) zapinacz
+[nippers]nippers (EN) : (rz.) kajdanki; (rz.) szczypce
+[nipple]nipple (EN) : (rz.) bijnik; (rz.) brodawka; (rz.) cyc; (rz.) cycek; (rz.) iglica; (rz.) nasuwka; (rz.) smocze; (rz.) smoczek; (rz.) sutek; (rz.) sutka; (rz.) wzniesienie; (rz.) złączka; (rz.) zwornik
+[nippy]nippy (EN) : (p.) mroźny; (p.) ostry
+[nirvana]nirvana (EN) : (rz.) nirwana
+[nisus]nisus (EN) : (rz.) wysiłek
+[nit]nit (EN) : (rz.) głupek; (rz.) gnida; (rz.) nit
+[nitpick]nitpick (EN) : (cz.) czepiać; (cz.) zrzędzić
+[nitrate]nitrate (EN) : (cz.) nitrować; (rz.) azotan
+[nitration]nitration (EN) : (rz.) azotowanie; (rz.) nitrowanie
+[nitre]nitre (EN) : (rz.) saletra
+[nitric]nitric (EN) : (p.) azotowy; (p.) nitrowy; (p.) saletrowy
+[nitride]nitride (EN) : (rz.) azotek
+[nitrification]nitrification (EN) : (rz.) nitryfikacja
+[nitrify]nitrify (EN) : (cz.) azotować; (cz.) nitryfikować
+[nitrite]nitrite (EN) : (rz.) azotyn
+[nitro-compound]nitro-compound (EN) : (rz.) nitrozwiązek
+[nitro-compounds]nitro-compounds (EN) : (rz.) nitrozwiązki
+[nitro-glycerine]nitro-glycerine (EN) : (rz.) nitrogliceryna
+[nitrobenzene]nitrobenzene (EN) : (rz.) nitrobenzen
+[nitrocellulose]nitrocellulose (EN) : (rz.) nitroceluloza
+[nitrogen]nitrogen (EN) : (rz.) azot
+[nitrogenous]nitrogenous (EN) : (p.) azotowy
+[nitrous]nitrous (EN) : (p.) azotawy
+[nitty-gritty]nitty-gritty (EN) : (rz.) konkret; (rz.) sedno; (rz.) treść
+[nitwit]nitwit (EN) : (rz.) bałwan; (rz.) głupek; (rz.) półgłówek; (rz.) przygłup; (rz.) tuman
+[nix]nix (EN) : (rz.) wodnik
+[no]no (EN) : (p.) żaden; (p-sł.) nie; (rz.) odmowa; (rz.) świr; (rz.) wariat
+[no-fault]no-fault (EN) : (p.) niewadliwy
+[no-good]no-good (EN) : (p.) niegrzeczny; (p.) niemiły
+[no-lose]no-lose (EN) : (p.) nieobszerny
+[no-par]no-par (EN) : (p.) niewolny
+[nobelium]nobelium (EN) : (rz.) nobel
+[nobility]nobility (EN) : (rz.) arystokracja; (rz.) magnateria; (rz.) szlachectwo; (rz.) szlachetność; (rz.) szlachta
+[noble]noble (EN) : (p.) niebieski; (p.) nieszlachecki; (p.) nieszlachetny; (p.) szczytny; (p.) szlachecki; (p.) szlachetny; (p.) wielkoduszny; (rz.) szlachetność
+[noble-minded]noble-minded (EN) : (p.) nieszlachetny; (p.) szlachetny; (p.) wspaniałomyślny
+[nobleman]nobleman (EN) : (rz.) arystokrata; (rz.) szlachcic
+[nobleness]nobleness (EN) : (rz.) szlachetność; (rz.) wzniosłość
+[nobly]nobly (EN) : (p-sł.) szlachetnie; (p-sł.) wzniośle
+[nock]nock (EN) : (rz.) karb
+[nocturnal]nocturnal (EN) : (p.) nocny
+[nocturne]nocturne (EN) : (rz.) nokturn
+[nocuous]nocuous (EN) : (p.) łobuzerski
+[nod]nod (EN) : (cz.) drzemać; (cz.) kiwać; (cz.) kłaniać; (cz.) przytakiwać; (cz.) skinąć; (cz.) skłaniać; (cz.) skłonić; (cz.) ukłonić; (rz.) kiwnięcie; (rz.) skinienie; (rz.) ukłon
+[nodal]nodal (EN) : (p.) kolankowy; (p.) węzłowy
+[nodal-fired]nodal-fired (EN) : (p.) niezupełny
+[node]node (EN) : (rz.) węzeł; (rz.) wierzchołek
+[nodular]nodular (EN) : (p.) grudkowaty; (p.) guzkowaty; (p.) guzowaty; (p.) kulisty
+[nodule]nodule (EN) : (rz.) bryłka; (rz.) bufa; (rz.) guzek; (rz.) kulka; (rz.) węzełek
+[noggin]noggin (EN) : (rz.) czajnik; (rz.) kubek; (rz.) kwaterka; (rz.) łeb
+[noise]noise (EN) : (rz.) hałas; (rz.) harmider; (rz.) odgłos; (rz.) szum; (rz.) wrzawa; (rz.) zgiełk
+[noise-meter]noise-meter (EN) : (rz.) psofometr
+[noiseless]noiseless (EN) : (p.) bezgłośny; (p.) bezszelestny; (p.) bezszmerowy; (p.) cichy
+[noiselessly]noiselessly (EN) : (p-sł.) bezgłośnie; (p-sł.) cicho
+[noisily]noisily (EN) : (p-sł.) hałaśliwie
+[noisiness]noisiness (EN) : (rz.) hałaśliwość
+[noisome]noisome (EN) : (p.) hałaśliwy; (p.) niehałaśliwy; (p.) nieszkodliwy; (p.) niezdrowy; (p.) przykry; (p.) szkodliwy; (p.) wstrętny
+[noisy]noisy (EN) : (p.) gwarny; (p.) hałaśliwy; (p.) krzykliwy; (p.) niehałaśliwy; (p.) niekrzykliwy; (p.) wrzaskliwy
+[nomad]nomad (EN) : (p.) koczowniczy; (rz.) koczownik
+[nomadic]nomadic (EN) : (p.) koczowniczy; (p.) wędrowny
+[nomenclature]nomenclature (EN) : (rz.) mianownictwo; (rz.) nazewnictwo; (rz.) nomenklatura; (rz.) terminologia
+[nominal]nominal (EN) : (p.) imienny; (p.) nominalny; (p.) rzeczownikowy; (p.) symboliczny; (p.) tytularny
+[nominally]nominally (EN) : (p-sł.) nominalnie
+[nominate]nominate (EN) : (cz.) desygnować; (cz.) mianować; (cz.) nominować; (cz.) obierać; (cz.) wyznaczać
+[nomination]nomination (EN) : (rz.) desygnacja; (rz.) mianowanie; (rz.) nominacja; (rz.) powołanie
+[nominative]nominative (EN) : (p.) mianownikowy; (rz.) mianownik
+[nominee]nominee (EN) : (rz.) nominacja; (rz.) nominat
+[non]non (EN) : (p.) nieoryginalny; (p.) niepalny; (p.) pozakonkursowy; (rz.) nieinterwencja
+[non-acid]non-acid (EN) : (p.) niekwaśny; (p.) nieświeży; (rz.) niecierpki
+[non-aggression]non-aggression (EN) : (rz.) nieagresja
+[non-alcoholic]non-alcoholic (EN) : (p.) bezalkoholowy
+[non-appearance]non-appearance (EN) : (rz.) nieobecność; (rz.) niestawiennictwo
+[non-attendance]non-attendance (EN) : (rz.) nieobecność; (rz.) niestawiennictwo
+[non-claim]non-claim (EN) : (rz.) przedawnienie
+[non-com]non-com (EN) : (rz.) podoficer
+[non-combustible]non-combustible (EN) : (p.) niepalny
+[non-comparable]non-comparable (EN) : (p.) nieporównywalny
+[non-compatibility]non-compatibility (EN) : (rz.) niekompatybilność
+[non-conductor]non-conductor (EN) : (rz.) izolator; (rz.) nieprzewodnik
+[non-consecutive]non-consecutive (EN) : (p.) niekolejny
+[non-crystalline]non-crystalline (EN) : (p.) niekrystaliczny
+[non-dairy]non-dairy (EN) : (p.) niepowszedni
+[non-decreasing]non-decreasing (EN) : (p.) niemalejący
+[non-denominational]non-denominational (EN) : (p.) bezwyznaniowy
+[non-developable]non-developable (EN) : (p.) nierozwijalny
+[non-dimensional]non-dimensional (EN) : (p.) bezwymiarowy
+[non-directional]non-directional (EN) : (p.) bezkierunkowy
+[non-edible]non-edible (EN) : (p.) niejadalny
+[non-electrolyte]non-electrolyte (EN) : (rz.) nieelektrolit
+[non-empty]non-empty (EN) : (p.) niepusty
+[non-enumerable]non-enumerable (EN) : (p.) nieprzeliczalny
+[non-essential]non-essential (EN) : (p.) nieistotny; (p.) zbędny
+[non-event-tempered]non-event-tempered (EN) : (p.) niespokojny
+[non-existed]non-existed (EN) : (p.) nieobecny
+[non-existence]non-existence (EN) : (rz.) niebyt; (rz.) nieistnienie
+[non-fat]non-fat (EN) : (p.) niedaleki; (p.) nieodległy
+[non-fat-famed]non-fat-famed (EN) : (p.) niegłośny
+[non-ferrous]non-ferrous (EN) : (p.) nieżelazny
+[non-flammable]non-flammable (EN) : (p.) niepalny
+[non-homogenous]non-homogenous (EN) : (p.) niejednorodny
+[non-infectious]non-infectious (EN) : (p.) niezakaźny
+[non-intervention]non-intervention (EN) : (rz.) nieinterwencja
+[non-iron-pure]non-iron-pure (EN) : (p.) nierzeczywisty
+[non-judicial]non-judicial (EN) : (p.) pozasądowy
+[non-linear]non-linear (EN) : (p.) nieliniowy
+[non-linearity]non-linearity (EN) : (rz.) nieliniowość
+[non-local]non-local (EN) : (p.) nielokalny; (p.) zamiejscowy
+[non-malignant]non-malignant (EN) : (p.) niezłośliwy; (p.) niezły
+[non-metal]non-metal (EN) : (rz.) niemetal
+[non-metallic]non-metallic (EN) : (p.) niemetaliczny; (p.) niemetalowy
+[non-military]non-military (EN) : (p.) niebojowy
+[non-monotonous]non-monotonous (EN) : (p.) niejednostajny
+[non-musical]non-musical (EN) : (p.) niemelodyjny
+[non-negative]non-negative (EN) : (p.) nieujemny
+[non-nuclear]non-nuclear (EN) : (p.) nienuklearny
+[non-numeric]non-numeric (EN) : (p.) nienumeryczny
+[non-objective]non-objective (EN) : (p.) nierzeczowy
+[non-party]non-party (EN) : (p.) bezpartyjny
+[non-physical]non-physical (EN) : (p.) niecielesny
+[non-planar]non-planar (EN) : (p.) przestrzenny
+[non-poisonous]non-poisonous (EN) : (p.) niejadowity
+[non-political]non-political (EN) : (p.) apolityczny; (rz.) apolityczność
+[non-procedural]non-procedural (EN) : (p.) nieproceduralny
+[non-public]non-public (EN) : (p.) niejawny; (p.) niepaństwowy; (p.) niepubliczny; (p.) niespołeczny
+[non-racial]non-racial (EN) : (p.) niegwiaździsty
+[non-removable]non-removable (EN) : (p.) nieusuwalny
+[non-repudiation]non-repudiation (EN) : (rz.) niezaprzeczalność
+[non-return-to-reference]non-return-to-reference (EN) : (rz.) odczyt
+[non-return-to-zero]non-return-to-zero (EN) : (rz.) odczyt
+[non-returnable]non-returnable (EN) : (p.) bezzwrotny; (p.) niezwrotny
+[non-reversible]non-reversible (EN) : (p.) nieodwracalny
+[non-romantic]non-romantic (EN) : (p.) nieromantyczny
+[non-rusting]non-rusting (EN) : (p.) nierdzewny
+[non-saturated]non-saturated (EN) : (p.) nienasycony
+[non-scheduled]non-scheduled (EN) : (p.) nierejsowy
+[non-scientific]non-scientific (EN) : (p.) nieumiejętny
+[non-sequential]non-sequential (EN) : (p.) niesekwencyjny
+[non-skid]non-skid (EN) : (p.) przeciwślizgowy
+[non-skid-deep]non-skid-deep (EN) : (p.) niepowierzchowny; (p.) niepozorny
+[non-social]non-social (EN) : (p.) nietowarzyski
+[non-specific]non-specific (EN) : (p.) niegatunkowy
+[non-standard]non-standard (EN) : (p.) niestandardowy; (p.) nieurzędowy; (p.) nieznormalizowany
+[non-stop]non-stop (EN) : (p.) bezpośredni; (rz.) nieprzerwanie
+[non-switched]non-switched (EN) : (p.) niekomutowany
+[non-technical]non-technical (EN) : (p.) nietechniczny
+[non-toxic]non-toxic (EN) : (p.) nietoksyczny
+[non-transferable]non-transferable (EN) : (p.) nieprzenośny; (p.) niezbywalny
+[non-uniform]non-uniform (EN) : (p.) niejednorodny; (p.) niejednostajny; (p.) nierównomierny
+[non-vanishing]non-vanishing (EN) : (p.) niezerowy
+[non-variant]non-variant (EN) : (p.) niezmienny
+[non-void]non-void (EN) : (p.) niepusty
+[non-volatile]non-volatile (EN) : (p.) niezmienny
+[non-zero]non-zero (EN) : (p.) niezerowy
+[nonabrasive]nonabrasive (EN) : (p.) niekonfliktowy
+[nonadjustable]nonadjustable (EN) : (p.) nastawczy; (p.) nastawialny; (p.) nastawny
+[nonaggression]nonaggression (EN) : (rz.) nieagresja
+[nonbacterial]nonbacterial (EN) : (p.) niebakteryjny
+[nonbiased]nonbiased (EN) : (p.) nieprzychylny; (p.) niestronniczy
+[nonblank]nonblank (EN) : (p.) nieczysty; (p.) niepusty; (p.) nieślepy; (p.) niewesoły
+[nonbonding]nonbonding (EN) : (p.) nieenergiczny; (p.) niesłuszny
+[nonce]nonce (EN) : (rz.) okazja
+[nonce-through]nonce-through (EN) : (p.) nieprzezroczysty
+[nonchalance]nonchalance (EN) : (rz.) nonszalancja; (rz.) obojętność
+[nonchalant]nonchalant (EN) : (p.) nonszalancki
+[nonchalantly]nonchalantly (EN) : (p-sł.) nonszalancko
+[noncircular]noncircular (EN) : (p.) niecykliczny; (p.) nieokrągły
+[noncompliant]noncompliant (EN) : (p.) nieustępliwy; (p.) niezawiły; (p.) niezgodny
+[nonconformist]nonconformist (EN) : (rz.) dysydent; (rz.) nonkonformista
+[nonconformity]nonconformity (EN) : (rz.) niestosowanie; (rz.) niezgodność; (rz.) nonkonformizm
+[nonconvertible]nonconvertible (EN) : (p.) nieodwracalny; (p.) niewymienialny; (p.) niezamienny; (p.) niezmienny
+[nondenominational]nondenominational (EN) : (p.) bezwyznaniowy
+[nondependent]nondependent (EN) : (p.) niepodrzędny; (p.) niesamodzielny; (p.) niezależny
+[nondescript]nondescript (EN) : (p.) dziwaczny; (p.) nieokreślony; (p.) nijaki; (rz.) dziwactwo; (rz.) dziwak
+[nondeterministic]nondeterministic (EN) : (p.) niedeterministyczny
+[nondirective]nondirective (EN) : (p.) niestrawny; (p.) nieszczery
+[nondiscretionary]nondiscretionary (EN) : (p.) niedobrowolny; (p.) nieobowiązkowy
+[nondurable]nondurable (EN) : (p.) nieuleczalny
+[none]none (EN) : (p.) żaden; (rz.) beż
+[nonempty]nonempty (EN) : (p.) niepróżny; (p.) niepusty
+[nonentity]nonentity (EN) : (rz.) fikcja; (rz.) nicość; (rz.) niebyt
+[nonessential]nonessential (EN) : (p.) nieistotny; (p.) nieodzowny; (p.) niezbędny; (p.) zbędny
+[nonessentials]nonessentials (EN) : (p.) nieistotny
+[nonesuch]nonesuch (EN) : (rz.) lucerna
+[nonexclusive]nonexclusive (EN) : (p.) niewyłączny
+[nonexpendable]nonexpendable (EN) : (p.) niezbędny
+[nonfactual]nonfactual (EN) : (p.) nierzeczowy; (p.) nierzeczywisty
+[nonfatal]nonfatal (EN) : (p.) nieśmiertelny; (p.) nieuchronny
+[nonferrous]nonferrous (EN) : (p.) niewłóknisty
+[nonflexible]nonflexible (EN) : (p.) niedyspozycyjny; (p.) nieelastyczny
+[nongaseous]nongaseous (EN) : (p.) niegazowy; (p.) nielotny
+[nonghosted]nonghosted (EN) : (p.) niezręczny
+[nonhereditary]nonhereditary (EN) : (p.) niedziedziczny
+[nonhuman]nonhuman (EN) : (p.) nieczłowieczy
+[nonillion]nonillion (EN) : (p.) nieobcy; (p.) nieodmienny; (rz.) kwintylion
+[nonillion-fated]nonillion-fated (EN) : (p.) niefortunny
+[nonillion-tempered]nonillion-tempered (EN) : (p.) niezły
+[nonintersecting]nonintersecting (EN) : (p.) nieciekawy
+[nonlinear]nonlinear (EN) : (p.) nieliniowy
+[nonlinearity]nonlinearity (EN) : (rz.) nieliniowość
+[nonliving]nonliving (EN) : (p.) nieżywy
+[nonmagnetic]nonmagnetic (EN) : (p.) antymagnetyczny; (p.) niemagnetyczny
+[nonmaterial]nonmaterial (EN) : (p.) duchowy; (p.) nieistotny; (p.) niematerialny; (p.) nierzeczowy; (p.) nieważny
+[nonnegotiable]nonnegotiable (EN) : (p-sł.) niezbywalnie
+[nonnumeric]nonnumeric (EN) : (p.) nienumeryczny
+[nonofficial]nonofficial (EN) : (p.) nieoficjalny; (p.) nieurzędowy
+[nonparallel]nonparallel (EN) : (p.) niepodobny; (p.) nierównoległy
+[nonparametric]nonparametric (EN) : (p.) nieparametryczny
+[nonpareil]nonpareil (EN) : (p.) nieczysty; (rz.) nonparel; (rz.) unikat
+[nonpayer]nonpayer (EN) : (p.) niejasny
+[nonplus]nonplus (EN) : (cz.) szachować; (cz.) zakłopotać; (cz.) zażenować; (rz.) impas; (rz.) zakłopotanie
+[nonplussed]nonplussed (EN) : (p.) niepewny
+[nonporous]nonporous (EN) : (p.) nabożny; (p.) nędzny; (p.) niepobożny; (p.) nieporowaty
+[nonprime]nonprime (EN) : (p.) niekosztowny; (p.) niepełny; (p.) nieprawidłowy; (p.) nieschludny
+[nonprocedural]nonprocedural (EN) : (p.) nieproceduralny
+[nonprogrammable]nonprogrammable (EN) : (p.) nieprogramowalny
+[nonrandomized]nonrandomized (EN) : (p.) nielosowy
+[nonreciprocal]nonreciprocal (EN) : (p.) nieobopólny; (p.) niewzajemny
+[nonrecurring]nonrecurring (EN) : (p.) nieokresowy; (p.) niepowrotny
+[nonreligious]nonreligious (EN) : (p.) nabożny; (p.) niereligijny
+[nonsense]nonsense (EN) : (rz.) bezsens; (rz.) brednia; (rz.) bzdura; (rz.) głupstwo; (rz.) niedorzeczność; (rz.) nielogiczność; (rz.) nonsens
+[nonsensical]nonsensical (EN) : (p.) bezsensowny; (p.) bzdurny; (p.) nonsensowny
+[nonsensically]nonsensically (EN) : (p-sł.) absurdalnie
+[nonsexual]nonsexual (EN) : (p.) niecielesny; (p.) niezdolny
+[nonsolid]nonsolid (EN) : (p.) nieczysty; (p.) niegruntowny; (p.) niekonkretny; (p.) niemasywny; (p.) niemocny; (p.) niepewny; (p.) niepoważny; (p.) niesłaby; (p.) niesolidarny; (p.) niesolidny; (p.) niestary; (p.) niewyraźny; (rz.) niejeden
+[nonsolid-state]nonsolid-state (EN) : (p.) niemocny; (p.) niesolidny
+[nontrivial]nontrivial (EN) : (p.) niebanalny; (p.) niebłahy; (p.) niecodzienny; (p.) niepospolity; (p.) nietuzinkowy; (p.) nieważny
+[nonvascular]nonvascular (EN) : (p.) naczyniowy
+[nonverbal]nonverbal (EN) : (p.) niepowszedni; (p.) niesłowny; (p.) niewerbalny
+[nonviable]nonviable (EN) : (p.) niemiły; (p.) nieodpowiedzialny; (p.) nierealny; (p.) niewykonalny; (p.) nieżywotny
+[nonzero]nonzero (EN) : (p.) niewyłączny; (p.) niezerowy
+[noodle]noodle (EN) : (rz.) głuptas; (rz.) klucha; (rz.) kluska; (rz.) makaron
+[noodles]noodles (EN) : (rz.) kluski
+[nook]nook (EN) : (rz.) kąt; (rz.) południe; (rz.) wnęka; (rz.) zakątek
+[noon]noon (EN) : (rz.) południe; (rz.) szczyt
+[noonday]noonday (EN) : (p.) nieświecki; (rz.) południe
+[noontide]noontide (EN) : (rz.) południe
+[noose]noose (EN) : (cz.) usidlić; (cz.) uwikłać; (cz.) złapać; (rz.) matnia; (rz.) pętla; (rz.) stryczek; (rz.) węzeł
+[nope]nope (EN) : (p-sł.) nie
+[nor]nor (EN) : (spójnik) ani; (spójnik) ni
+[norm]norm (EN) : (rz.) norma; (rz.) normatyw
+[normal]normal (EN) : (p.) normalny; (p.) prawidłowy; (p.) prostopadły; (p.) zwyczajowy; (p.) zwykły
+[normalcy]normalcy (EN) : (rz.) normalność; (rz.) prawidłowość
+[normality]normality (EN) : (rz.) normalność; (rz.) prawidłowość
+[normalization]normalization (EN) : (rz.) normalizacja; (rz.) normalizowanie
+[normalize]normalize (EN) : (cz.) normalizować; (cz.) normować; (cz.) unormować; (cz.) znormalizować
+[normalized]normalized (EN) : (cz.) znormalizować
+[normally]normally (EN) : (p-sł.) normalnie; (p-sł.) zwykle
+[normative]normative (EN) : (p.) normatywny
+[north]north (EN) : (p.) północny; (rz.) północ
+[northeaster]northeaster (EN) : (rz.) wiatr
+[northerly]northerly (EN) : (p.) północny
+[northern]northern (EN) : (p.) północny
+[northing]northing (EN) : (rz.) kierunek
+[northland]northland (EN) : (rz.) północ
+[northward]northward (EN) : (p.) północny
+[northwest]northwest (EN) : (rz.) północ-zachód
+[nose]nose (EN) : (cz.) obwąchiwać; (cz.) węszyć; (cz.) wkręcać; (cz.) wynajdywać; (rz.) dziób; (rz.) klakson; (rz.) nochal; (rz.) nos; (rz.) nosek; (rz.) przód
+[nosedive]nosedive (EN) : (cz.) pikować; (rz.) nurkowanie; (rz.) pikowanie
+[nosegay]nosegay (EN) : (rz.) bukiet
+[nosh]nosh (EN) : (rz.) posiłek
+[nosiness]nosiness (EN) : (rz.) wścibstwo
+[nostalgia]nostalgia (EN) : (rz.) tęsknota
+[nostalgic]nostalgic (EN) : (p.) nostalgiczny
+[nostril]nostril (EN) : (rz.) chrapa; (rz.) nozdrze
+[nostrils]nostrils (EN) : (rz.) chrap
+[nostrum]nostrum (EN) : (rz.) panaceum
+[nosy]nosy (EN) : (p.) ciekawski; (p.) nosaty; (p.) wścibski
+[not]not (EN) : (p-sł.) nie; (p-sł.) niepoprawnie; (p-sł.) nieprawidłowo; (p-sł.) niezbyt
+[not-a-number]not-a-number (EN) : (rz.) nie-liczba
+[notability]notability (EN) : (rz.) rozgłos; (rz.) sława; (rz.) znakomitość
+[notable]notable (EN) : (p.) gospodarny; (p.) sławny; (p.) wybitny; (p.) znakomity; (rz.) dostojnik
+[notably]notably (EN) : (p-sł.) szczególnie; (p-sł.) znacznie; (p-sł.) znakomicie
+[notarized]notarized (EN) : (p.) notarialny
+[notary]notary (EN) : (rz.) notariusz; (rz.) rejent
+[notation]notation (EN) : (rz.) notacja; (rz.) oznaczanie; (rz.) znakowanie
+[notch]notch (EN) : (cz.) nacinać; (cz.) poszczerbić; (rz.) karb; (rz.) nacięcie; (rz.) nadcięcie; (rz.) nadtłuczenie; (rz.) przesmyk; (rz.) szczerba; (rz.) wcięcie; (rz.) wrąb; (rz.) wycięcie; (rz.) ząb
+[note]note (EN) : (cz.) notować; (cz.) pamiętać; (cz.) zanotować; (cz.) zauważać; (cz.) zauważyć; (rz.) banknot; (rz.) karteluszek; (rz.) nota; (rz.) notatka; (rz.) nuta; (rz.) nutka; (rz.) przypis; (rz.) przypisek; (rz.) rachunek; (rz.) uwaga; (rz.) wiadomość; (rz.) zapisek; (rz.) znaczenie; (rz.) znak
+[notebook]notebook (EN) : (rz.) brulion; (rz.) notatnik; (rz.) notes; (rz.) zeszyt
+[notecase]notecase (EN) : (rz.) portfel
+[noted]noted (EN) : (p.) wybitny; (p.) znakomity
+[notepad]notepad (EN) : (rz.) blok; (rz.) notatnik
+[noteworthy]noteworthy (EN) : (p.) wybitny
+[nothing]nothing (EN) : (rz.) drobnostka; (rz.) nicość; (rz.) nierób; (rz.) wałkoń
+[nothingness]nothingness (EN) : (rz.) nicość
+[notice]notice (EN) : (cz.) spostrzegać; (cz.) zauważać; (cz.) zauważyć; (rz.) awizo; (rz.) notatka; (rz.) notka; (rz.) obwieszczanie; (rz.) obwieszczenie; (rz.) ogłoszenie; (rz.) ostrzeżenie; (rz.) powiadomienie; (rz.) termin; (rz.) uwaga; (rz.) wiadomość; (rz.) wymówienie; (rz.) wypowiedzenie; (rz.) wywieszka; (rz.) zawiadomienie
+[noticeable]noticeable (EN) : (p.) dostrzegalny; (p.) odczuwalny; (p.) uchwytny; (p.) widoczny; (p.) wyczuwalny; (p.) zauważalny
+[noticeably]noticeably (EN) : (p-sł.) dostrzegalnie; (p-sł.) widocznie; (p-sł.) zauważalnie
+[notification]notification (EN) : (rz.) awizacja; (rz.) awizo; (rz.) notyfikacja; (rz.) ogłoszenie; (rz.) powiadomienie; (rz.) zawiadomienie; (rz.) zgłoszenie
+[notify]notify (EN) : (cz.) awizować; (cz.) notyfikować; (cz.) obwieścić; (cz.) ogłaszać; (cz.) oznajmiać; (cz.) powiadamiać; (cz.) zaawizować; (cz.) zawiadamiać; (cz.) zawiadomić
+[notion]notion (EN) : (rz.) koncepcja; (rz.) poczęcie; (rz.) pogląd; (rz.) pojęcie; (rz.) wyobrażenie
+[notional]notional (EN) : (p.) spekulatywny; (p.) wyobrażeniowy
+[notoriety]notoriety (EN) : (rz.) notoryczność; (rz.) rozgłos; (rz.) sława
+[notorious]notorious (EN) : (p.) głośny; (p.) niesławny; (p.) notoryczny; (p.) osłabiony; (p.) sławetny; (p.) wiadomy; (p.) wierutny
+[notoriously]notoriously (EN) : (p-sł.) notorycznie
+[notwithstanding]notwithstanding (EN) : (p-im.) mimo; (spójnik) jednak; (spójnik) jednakże
+[nougat]nougat (EN) : (rz.) nugat
+[nougat-at-able]nougat-at-able (EN) : (p.) nieosiągalny
+[nought]nought (EN) : (rz.) zero; (rz.) zły
+[noun]noun (EN) : (rz.) rzeczownik
+[nourish]nourish (EN) : (cz.) karmić; (cz.) nakarmić; (cz.) odżywiać; (cz.) podtrzymywać; (cz.) żywić
+[nourishing]nourishing (EN) : (p.) niepożywny; (p.) odżywczy; (p.) posilny; (p.) pożywny; (p.) sytny
+[nourishment]nourishment (EN) : (rz.) odżywianie; (rz.) pokarm; (rz.) pożywienie; (rz.) strawa
+[nouveau]nouveau (EN) : (p.) nowy
+[novel]novel (EN) : (p.) nowatorski; (p.) nowy; (rz.) nowela; (rz.) powieść
+[novelette]novelette (EN) : (rz.) nowela; (rz.) opowiadanie
+[novelise]novelise (EN) : (cz.) zbeletryzować
+[novelist]novelist (EN) : (rz.) nowelista; (rz.) powieściopisarz
+[novella]novella (EN) : (rz.) nowela
+[novelty]novelty (EN) : (rz.) innowacja; (rz.) nowatorstwo; (rz.) nowinka; (rz.) nowość; (rz.) odkrywczość
+[novena]novena (EN) : (rz.) nowenna
+[novice]novice (EN) : (rz.) aplikant; (rz.) nowicjusz
+[noviciate]noviciate (EN) : (rz.) nowicjat; (rz.) praktyka
+[novitiate]novitiate (EN) : (rz.) nowicjat
+[novocaine]novocaine (EN) : (rz.) nowokaina
+[now]now (EN) : (p-sł.) obecnie; (p-sł.) odtąd; (p-sł.) teraz; (p-sł.) zaraz; (rz.) nów
+[nowadays]nowadays (EN) : (p-sł.) obecnie; (p-sł.) teraz
+[nowhere]nowhere (EN) : (p-sł.) donikąd; (p-sł.) nigdzie; (p-sł.) znikąd
+[noxious]noxious (EN) : (p.) niezdrowy; (p.) obrzydliwy; (p.) szkodliwy
+[nozzle]nozzle (EN) : (rz.) dysza; (rz.) dyszka; (rz.) dziobek; (rz.) dzióbek; (rz.) końcówka; (rz.) wylot
+[nozzles]nozzles (EN) : (rz.) dyszenie
+[nuance]nuance (EN) : (rz.) niuans; (rz.) odcień
+[nub]nub (EN) : (rz.) supeł
+[nuclear]nuclear (EN) : (p.) atomowy; (p.) jądrowy; (p.) nuklearny
+[nucleation]nucleation (EN) : (rz.) zarodkowanie
+[nucleic]nucleic (EN) : (p.) nukleinowy
+[nucleolus]nucleolus (EN) : (rz.) jądro
+[nucleon]nucleon (EN) : (rz.) nukleon
+[nucleoside]nucleoside (EN) : (rz.) nukleozyd
+[nucleotide]nucleotide (EN) : (rz.) nukleotyd
+[nucleus]nucleus (EN) : (rz.) jądro; (rz.) zaczątek; (rz.) zaczyn; (rz.) zaród; (rz.) zaródź; (rz.) zawiązek
+[nuclide]nuclide (EN) : (rz.) nuklid
+[nude]nude (EN) : (p.) cielisty; (p.) goły; (p.) nagi; (rz.) akt; (rz.) golas
+[nudge]nudge (EN) : (cz.) szturchnąć; (cz.) trącić; (rz.) kuksaniec; (rz.) podsuwanie; (rz.) szturchaniec; (rz.) trącenie
+[nudism]nudism (EN) : (rz.) nudyzm
+[nudist]nudist (EN) : (rz.) nudysta
+[nudity]nudity (EN) : (rz.) akt; (rz.) nagość
+[nugatory]nugatory (EN) : (p.) bezskuteczny; (p.) błahy; (p.) nieważny
+[nugget]nugget (EN) : (rz.) bryłka; (rz.) samorodek
+[nuisance]nuisance (EN) : (rz.) dokuczliwość; (rz.) niedogodność; (rz.) nieprzyjemność; (rz.) przykrość; (rz.) utrapienie; (rz.) zawada
+[nuke]nuke (EN) : (rz.) bomba
+[null]null (EN) : (p.) brakujący; (p.) nieważny; (p.) nijaki; (p.) pusty
+[nullification]nullification (EN) : (rz.) anulowanie; (rz.) unieważnienie
+[nullify]nullify (EN) : (cz.) anulować; (cz.) unieważniać
+[nullity]nullity (EN) : (rz.) nicość; (rz.) nieważność; (rz.) unieważnienie
+[numb]numb (EN) : (cz.) zasiedzieć; (p.) drętwy; (p.) oszołomiony; (p.) zdrętwiały
+[number]number (EN) : (cz.) liczyć; (cz.) numerować; (cz.) ponumerować; (rz.) ilość; (rz.) kilka; (rz.) liczba; (rz.) liczebnik; (rz.) liczebność; (rz.) numer; (rz.) numeracja
+[numbered]numbered (EN) : (cz.) numerować
+[numbering]numbering (EN) : (rz.) numeracja; (rz.) numerowanie; (rz.) zaliczanie
+[numberless]numberless (EN) : (p.) niezliczony
+[numbness]numbness (EN) : (rz.) drętwienie; (rz.) drętwota; (rz.) martwota; (rz.) odrętwienie; (rz.) ścierpnięcie; (rz.) skostniałość; (rz.) skostnienie; (rz.) zdrętwienie
+[numerable]numerable (EN) : (p.) policzalny; (p.) przeliczalny
+[numeral]numeral (EN) : (rz.) cyfra; (rz.) liczebnik
+[numerate]numerate (EN) : (cz.) wyliczać
+[numeration]numeration (EN) : (rz.) liczenie; (rz.) numeracja; (rz.) numerowanie; (rz.) obliczanie
+[numerator]numerator (EN) : (rz.) licznik
+[numeric]numeric (EN) : (p.) cyfrowy; (p.) liczbowy; (p.) liczebny; (p.) numeryczny
+[numerical]numerical (EN) : (p.) cyfrowy; (p.) liczbowy; (p.) liczebny; (p.) numeryczny
+[numerically]numerically (EN) : (p-sł.) numerycznie
+[numerous]numerous (EN) : (p.) liczny; (p.) mnogi; (p.) tłumny; (p.) wielodzietny; (p.) wieloosobowy
+[numerously]numerously (EN) : (p-sł.) licznie
+[numerousness]numerousness (EN) : (rz.) liczność
+[numismatic]numismatic (EN) : (p.) numizmatyczny
+[numismatics]numismatics (EN) : (rz.) numizmatyka
+[numismatist]numismatist (EN) : (rz.) numizmatyk
+[numskull]numskull (EN) : (rz.) bałwan; (rz.) bezmózgowiec; (rz.) dureń; (rz.) gamajda; (rz.) głupek; (rz.) głupiec
+[nun]nun (EN) : (rz.) zakonnica
+[nuncio]nuncio (EN) : (rz.) nuncjusz
+[nunnery]nunnery (EN) : (rz.) klasztor
+[nuptial]nuptial (EN) : (p.) godowy; (p.) małżeński; (p.) ślubny; (p.) weselny; (rz.) ślub; (rz.) wesele
+[nurse]nurse (EN) : (cz.) doglądać; (cz.) niańczyć; (cz.) pielęgnować; (cz.) wypielęgnować; (rz.) mamka; (rz.) niańka; (rz.) pielęgniarka; (rz.) pielęgniarz
+[nurseling]nurseling (EN) : (rz.) osesek; (rz.) wychowanek
+[nursemaid]nursemaid (EN) : (rz.) niania
+[nursery]nursery (EN) : (rz.) ochronka; (rz.) szkółka; (rz.) szkółkowanie; (rz.) żłobek; (rz.) żłóbek
+[nursling]nursling (EN) : (rz.) osesek; (rz.) wychowanek
+[nurture]nurture (EN) : (cz.) karmić; (cz.) pielęgnować; (cz.) wychować; (cz.) wychowywać; (rz.) karmienie; (rz.) pielęgnowanie; (rz.) wychowanie
+[nurturing]nurturing (EN) : (rz.) pielęgnacja; (rz.) wykarmienie
+[nut]nut (EN) : (rz.) dokrętka; (rz.) mutra; (rz.) nakrętka; (rz.) orzech; (rz.) świr
+[nut-brown]nut-brown (EN) : (p.) orzechowy
+[nut-cracker]nut-cracker (EN) : (rz.) orzechówka
+[nutcracker]nutcracker (EN) : (rz.) orzechówka
+[nutgall]nutgall (EN) : (rz.) galasówka
+[nuthatch]nuthatch (EN) : (rz.) kowalik
+[nutmeg]nutmeg (EN) : (rz.) muszkat
+[nutria]nutria (EN) : (rz.) nutria
+[nutrient]nutrient (EN) : (p.) odżywczy; (p.) pożywny; (rz.) odzywka; (rz.) odżywka; (rz.) pokarm; (rz.) pożywka
+[nutriment]nutriment (EN) : (rz.) odżywka; (rz.) pokarm; (rz.) pożywienie
+[nutrition]nutrition (EN) : (rz.) dietetyk; (rz.) odżywianie; (rz.) odżywienie; (rz.) żywienie
+[nutritional]nutritional (EN) : (p.) odżywczy; (p.) żywieniowy
+[nutritionally]nutritionally (EN) : (p-sł.) odżywczo
+[nutritionist]nutritionist (EN) : (rz.) dietetyk; (rz.) żywieniowiec
+[nutritious]nutritious (EN) : (p.) odżywczy; (p.) pożywny
+[nutritive]nutritive (EN) : (p.) odżywczy; (p.) pożywny
+[nuts]nuts (EN) : (p.) głupi
+[nutshell]nutshell (EN) : (rz.) łupina
+[nuzzle]nuzzle (EN) : (cz.) ryć; (cz.) węszyć
+[nylon]nylon (EN) : (rz.) nylon
+[nymph]nymph (EN) : (rz.) boginka; (rz.) nimfa; (rz.) poczwarka
+[nymphomania]nymphomania (EN) : (rz.) nimfomania
+[nymphomaniac]nymphomaniac (EN) : (rz.) nimfomanka

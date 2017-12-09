@@ -1,0 +1,2799 @@
+[paramecium]Paramecium (EN) : (rz.) pantofelek
+[passover]Passover (EN) : (rz.) pascha
+[patty]Patty (EN) : (rz.) Patrycja
+[pauline]Pauline (EN) : (rz.) Paulina
+[peter]Peter (EN) : (rz.) Piotr
+[philip]Philip (EN) : (rz.) Filip
+[platonism]Platonism (EN) : (rz.) platonizm
+[plexiglas]Plexiglas (EN) : (rz.) pleksiglas
+[presbyterian]Presbyterian (EN) : (rz.) prezbiterianin
+[promethean]Promethean (EN) : (p.) prometejski
+[protestantism]Protestantism (EN) : (rz.) protestantyzm
+[punchinello]Punchinello (EN) : (rz.) poliszynel
+[pa]pa (EN) : (rz.) ojczulek; (rz.) ręka; (rz.) tata; (rz.) tatuś
+[pabulum]pabulum (EN) : (rz.) strawa
+[pace]pace (EN) : (cz.) kroczyć; (cz.) stąpać; (rz.) chód; (rz.) krok; (rz.) miara; (rz.) podium; (rz.) tempo
+[pacemaker]pacemaker (EN) : (rz.) rozrusznik
+[pacific]pacific (EN) : (p.) domowy; (p.) pacyficzny; (p.) pokojowy; (p.) spokojny
+[pacification]pacification (EN) : (rz.) pacyfikacja
+[pacifier]pacifier (EN) : (rz.) pacyfikator; (rz.) smoczek
+[pacifism]pacifism (EN) : (rz.) antymilitaryzm; (rz.) pacyfizm
+[pacifist]pacifist (EN) : (rz.) pacyfista
+[pacifistic]pacifistic (EN) : (p.) pacyfistyczny
+[pacify]pacify (EN) : (cz.) pacyfikować; (cz.) spacyfikować; (cz.) uspakajać; (cz.) uspokajać; (cz.) uspokoić
+[pack]pack (EN) : (cz.) paczkować; (cz.) pakować; (cz.) spakować; (cz.) upakować; (cz.) uszczelniać; (cz.) zapakować; (rz.) czereda; (rz.) opakowanie; (rz.) paczka; (rz.) partia; (rz.) plecak; (rz.) sfora; (rz.) stado; (rz.) talia; (rz.) tornister
+[package]package (EN) : (cz.) pakować; (rz.) obudowa; (rz.) opakowanie; (rz.) paczka; (rz.) pakiet; (rz.) pakunek; (rz.) zestaw
+[packaged]packaged (EN) : (cz.) opakowywać
+[packaging]packaging (EN) : (rz.) opakowanie; (rz.) paczkowanie; (rz.) pakowanie
+[packed]packed (EN) : (cz.) pakować; (p.) zapakowany
+[packer]packer (EN) : (rz.) kompresor; (rz.) opakowanie; (rz.) paczka; (rz.) pakiet; (rz.) pakowacz; (rz.) pakowaczka; (rz.) pakowarka; (rz.) podsadzkarz; (rz.) zawijarka
+[packet]packet (EN) : (rz.) karton; (rz.) opakowanie; (rz.) paczka; (rz.) paczuszka; (rz.) pakiet; (rz.) pakunek
+[packing]packing (EN) : (rz.) opakowanie; (rz.) pakowanie; (rz.) pakownia; (rz.) szczeliwo; (rz.) upakowywanie; (rz.) uszczelnienie; (rz.) zapakowanie
+[packman]packman (EN) : (rz.) domokrążca
+[packthread]packthread (EN) : (rz.) szpagat
+[pact]pact (EN) : (rz.) pakt; (rz.) układ; (rz.) umowa
+[pad]pad (EN) : (cz.) dopełniać; (cz.) impregnować; (cz.) mościć; (cz.) nabijać; (cz.) napawać; (cz.) nasycać; (cz.) natapiać; (cz.) obić; (cz.) podwatować; (cz.) watować; (cz.) wypychać; (cz.) wyściełać; (cz.) wywatować; (cz.) zaprawiać; (rz.) bibularz; (rz.) blok; (rz.) brzusiec; (rz.) droga; (rz.) mieszkanie; (rz.) nadlew; (rz.) ochraniacz; (rz.) podkładka; (rz.) podpaska; (rz.) poduszka; (rz.) przylga; (rz.) ścieżka; (rz.) tampon; (rz.) tłumik; (rz.) wierzchowiec; (rz.) wkładka; (rz.) wyściółka
+[padding]padding (EN) : (rz.) dopełnienie; (rz.) moszczenie; (rz.) obicie; (rz.) wyściółka
+[paddle]paddle (EN) : (cz.) brodzić; (cz.) pluskać; (cz.) wiosłować; (rz.) łopatka; (rz.) mieszadło; (rz.) pagaj; (rz.) rakietka; (rz.) wiosło
+[paddle-plane]paddle-plane (EN) : (rz.) kołowiec
+[paddock]paddock (EN) : (rz.) padok; (rz.) wybieg
+[paddy]paddy (EN) : (rz.) rozdrażnienie
+[padlock]padlock (EN) : (rz.) kłódka
+[padre]padre (EN) : (rz.) kapelan; (rz.) ksiądz
+[paean]paean (EN) : (rz.) pean
+[paediatric]paediatric (EN) : (p.) pediatryczny
+[paediatrician]paediatrician (EN) : (rz.) pediatra
+[paediatrics]paediatrics (EN) : (rz.) pediatria
+[paedophiliac]paedophiliac (EN) : (rz.) pedofil
+[pagan]pagan (EN) : (rz.) poganin; (rz.) pogaństwo
+[paganism]paganism (EN) : (rz.) pogaństwo
+[page]page (EN) : (cz.) przyzywać; (rz.) goniec; (rz.) kartka; (rz.) pagina; (rz.) paź; (rz.) strona; (rz.) stronica
+[pageant]pageant (EN) : (rz.) korowód; (rz.) parada; (rz.) pokaz; (rz.) widowisko
+[pageantry]pageantry (EN) : (rz.) parada; (rz.) widowiskowość
+[pager]pager (EN) : (rz.) pager
+[paginate]paginate (EN) : (cz.) numerować; (cz.) paginować
+[paginating]paginating (EN) : (rz.) paginowanie
+[pagination]pagination (EN) : (rz.) paginacja
+[pagoda]pagoda (EN) : (rz.) pagoda
+[paid]paid (EN) : (cz.) poświecić; (cz.) poświęcić; (p.) płatny; (p.) zarobkowy
+[pail]pail (EN) : (rz.) ceber; (rz.) kubeł; (rz.) skopek; (rz.) wiaderko; (rz.) wiadro
+[pain]pain (EN) : (cz.) boleć; (cz.) cierpieć; (cz.) strapić; (cz.) zasmucać; (rz.) ból; (rz.) boleść; (rz.) bolesność; (rz.) cierpienie; (rz.) kara; (rz.) męka; (rz.) obolałość; (rz.) troska; (rz.) trud
+[pain-killer]pain-killer (EN) : (p.) przeciwbólowy
+[painful]painful (EN) : (p.) bolesny; (p.) dolegliwy; (p.) dotkliwy; (p.) przykry; (p.) żmudny
+[painfully]painfully (EN) : (p-sł.) boleśnie; (p-sł.) dotkliwie; (p-sł.) poważnie
+[painfulness]painfulness (EN) : (rz.) bolesność
+[painkiller]painkiller (EN) : (rz.) centrum; (rz.) pobudzenie; (rz.) podnieta; (rz.) znieczulenie
+[painless]painless (EN) : (p.) bezbolesny; (p.) niebolesny
+[painlessly]painlessly (EN) : (p-sł.) bezboleśnie
+[painstaking]painstaking (EN) : (p.) dbały; (p.) drobiazgowy; (p.) pracowity; (p.) skrupulatny; (p.) staranny; (rz.) pracowitość
+[painstakingly]painstakingly (EN) : (p-sł.) starannie
+[paint]paint (EN) : (cz.) lakierować; (cz.) malować; (cz.) namalować; (cz.) pędzlować; (cz.) pomalować; (cz.) szminkować; (cz.) umalować; (rz.) farba; (rz.) farbka; (rz.) lakier; (rz.) pomalowanie
+[paintbrush]paintbrush (EN) : (rz.) pędzel
+[painter]painter (EN) : (rz.) lakiernik; (rz.) malarz
+[painter's]painter's (EN) : (p.) malarski
+[painting]painting (EN) : (rz.) lakierowanie; (rz.) malarnia; (rz.) malarstwo; (rz.) malowanie; (rz.) malowanka; (rz.) malowidło; (rz.) obraz; (rz.) pomalowanie
+[paintings]paintings (EN) : (rz.) obrazy
+[paintwork]paintwork (EN) : (rz.) farba
+[pair]pair (EN) : (cz.) łączyć; (cz.) parzyć; (rz.) para
+[pairing]pairing (EN) : (rz.) parowanie
+[pal]pal (EN) : (rz.) kompan; (rz.) kumpel; (rz.) przyjaciel; (rz.) towarzysz
+[palace]palace (EN) : (rz.) pałac; (rz.) pałacyk
+[paladin]paladin (EN) : (rz.) paladyn
+[palaeontologist]palaeontologist (EN) : (rz.) paleontolog
+[palaeontology]palaeontology (EN) : (rz.) paleontologia
+[palanquin]palanquin (EN) : (rz.) palankin
+[palatable]palatable (EN) : (p.) przyjemny; (p.) smaczny; (p.) strawny
+[palatal]palatal (EN) : (p.) palatalny; (p.) podniebienny
+[palatalize]palatalize (EN) : (cz.) palatalizować
+[palate]palate (EN) : (rz.) podniebienie; (rz.) smak
+[palatial]palatial (EN) : (p.) pałacowy
+[palatinate]palatinate (EN) : (rz.) palatynat
+[palatine]palatine (EN) : (rz.) palatyn
+[palaver]palaver (EN) : (rz.) gadanina; (rz.) paplanina; (rz.) rozmowa
+[pale]pale (EN) : (cz.) grodzić; (cz.) mierzchnąć; (cz.) ogrodzić; (cz.) zblednąć; (p.) blady; (p.) jasny; (p.) słaby
+[pale-faced]pale-faced (EN) : (p.) bladolicy
+[pale-red]pale-red (EN) : (p.) bladoczerwony
+[palely]palely (EN) : (p-sł.) blado
+[paleness]paleness (EN) : (rz.) bladość
+[palette]palette (EN) : (rz.) paleta
+[palette-knife]palette-knife (EN) : (rz.) szpachla
+[palfrey]palfrey (EN) : (rz.) rumak; (rz.) wierzchowiec
+[palindrome]palindrome (EN) : (rz.) palindrom
+[paling]paling (EN) : (rz.) parkan
+[palinode]palinode (EN) : (rz.) palinodia
+[palisade]palisade (EN) : (cz.) palisadować; (rz.) ostrokół; (rz.) palisada
+[pall]pall (EN) : (cz.) nudzić; (cz.) przejadać; (cz.) sprzykrzyć; (cz.) zbrzydnąć; (cz.) znudzić; (rz.) całun; (rz.) kumpel; (rz.) obłok
+[palladium]palladium (EN) : (rz.) pallad
+[pallbearer]pallbearer (EN) : (rz.) osobnik
+[pallet]pallet (EN) : (rz.) barłóg; (rz.) paleta; (rz.) siennik
+[palliate]palliate (EN) : (cz.) uśmierzyć
+[palliative]palliative (EN) : (p.) łagodzący; (p.) paliatywny; (p.) przeciwbólowy; (rz.) paliatyw; (rz.) półśrodek
+[pallid]pallid (EN) : (p.) bezbarwny; (p.) blady
+[pallor]pallor (EN) : (rz.) bladość
+[palm]palm (EN) : (cz.) wlepić; (rz.) dłoń; (rz.) palma
+[palmate]palmate (EN) : (p.) dłoniasty; (p.) płetwowaty
+[palmist]palmist (EN) : (rz.) chiromanta
+[palmistry]palmistry (EN) : (rz.) chiromancja
+[palpable]palpable (EN) : (p.) namacalny; (p.) odczuwalny
+[palpably]palpably (EN) : (p-sł.) wyczuwalnie
+[palpating]palpating (EN) : (rz.) obmacanie
+[palpation]palpation (EN) : (rz.) macanie; (rz.) palpacja
+[palpitate]palpitate (EN) : (cz.) bić; (cz.) drgać; (cz.) kołatać; (cz.) pulsować
+[palpitation]palpitation (EN) : (rz.) drganie; (rz.) palpitacja
+[palsy]palsy (EN) : (rz.) bezwład; (rz.) paraliż
+[palter]palter (EN) : (cz.) kaprysić; (cz.) kręcić
+[paltry]paltry (EN) : (p.) drobny; (p.) marny; (p.) nędzny; (p.) nikczemny
+[pampas]pampas (EN) : (rz.) pampasy
+[pamper]pamper (EN) : (cz.) cackać; (cz.) rozpieszczać
+[pamphlet]pamphlet (EN) : (rz.) broszura; (rz.) pamflet; (rz.) ulotka
+[pan]pan (EN) : (rz.) brytfanna; (rz.) chwyt; (rz.) garnek; (rz.) miska; (rz.) panew; (rz.) patelnia; (rz.) rondel; (rz.) szala
+[panacea]panacea (EN) : (rz.) panaceum
+[panache]panache (EN) : (rz.) buńczuk; (rz.) ostentacja; (rz.) pióropusz; (rz.) szyk
+[pancake]pancake (EN) : (rz.) naleśnik; (rz.) placek; (rz.) racuszek
+[pancakes]pancakes (EN) : (rz.) naleśniki
+[panchromatic]panchromatic (EN) : (p.) barwoczuły; (p.) panchromatyczny
+[pancreas]pancreas (EN) : (rz.) trzustka
+[pancreatic]pancreatic (EN) : (p.) trzustkowy
+[panda]panda (EN) : (rz.) panda
+[pandemic]pandemic (EN) : (rz.) pandemia
+[pandemonium]pandemonium (EN) : (rz.) wrzawa
+[pander]pander (EN) : (cz.) dogadzać; (cz.) raić; (cz.) stręczyć; (rz.) alfons; (rz.) pochlebca; (rz.) rajfur; (rz.) stręczyciel
+[pandowdy]pandowdy (EN) : (rz.) budyń
+[pane]pane (EN) : (rz.) okno; (rz.) panel; (rz.) płycina; (rz.) płyta; (rz.) pole; (rz.) rąb; (rz.) szyba; (rz.) tafla; (rz.) taflami; (rz.) taflowanie
+[panegyric]panegyric (EN) : (rz.) panegiryk
+[panel]panel (EN) : (rz.) kaseton; (rz.) komisja; (rz.) komitet; (rz.) lista; (rz.) półka; (rz.) tablica; (rz.) tafla
+[panelling]panelling (EN) : (rz.) boazeria
+[panellist]panellist (EN) : (rz.) dyskutant
+[pang]pang (EN) : (rz.) ból; (rz.) męka; (rz.) spazm
+[pangolin]pangolin (EN) : (rz.) łuskowiec
+[panic]panic (EN) : (cz.) panikować; (rz.) panika; (rz.) popłoch
+[panic-monger]panic-monger (EN) : (rz.) panikarz
+[panic-mongering]panic-mongering (EN) : (rz.) panikarstwo
+[panic-struck]panic-struck (EN) : (p.) paniczny
+[panicky]panicky (EN) : (p.) alarmistyczny; (p.) paniczny; (p.) panikarski
+[panicle]panicle (EN) : (rz.) wiecha
+[panjandrum]panjandrum (EN) : (rz.) ważniak
+[pannier]pannier (EN) : (rz.) kosz; (rz.) sakwa; (rz.) torba
+[panoply]panoply (EN) : (rz.) panoplia
+[panorama]panorama (EN) : (rz.) panorama; (rz.) widok
+[panoramic]panoramic (EN) : (p.) panoramiczny
+[panpipe]panpipe (EN) : (rz.) fujarka
+[pansy]pansy (EN) : (rz.) bratek
+[pant]pant (EN) : (cz.) bić; (cz.) dyszeć; (cz.) falować; (cz.) kołatać; (cz.) pożądać; (cz.) sapać; (cz.) wzdychać; (cz.) ziać; (cz.) ziajać; (rz.) sapanie
+[pantaloon]pantaloon (EN) : (rz.) majtki
+[pantheism]pantheism (EN) : (rz.) panteizm
+[pantheist]pantheist (EN) : (rz.) panteista
+[pantheistic]pantheistic (EN) : (p.) panteistyczny
+[pantheistical]pantheistical (EN) : (p.) panteistyczny
+[pantheon]pantheon (EN) : (rz.) panteon
+[panther]panther (EN) : (rz.) pantera
+[panties]panties (EN) : (rz.) majteczki; (rz.) majtki
+[pantograph]pantograph (EN) : (rz.) pantograf
+[pantomime]pantomime (EN) : (rz.) pantomima
+[pantomimic]pantomimic (EN) : (p.) pantomimiczny
+[pantry]pantry (EN) : (rz.) kredens; (rz.) pentra; (rz.) spiżarka; (rz.) spiżarnia
+[pants]pants (EN) : (rz.) gacie; (rz.) kalesony; (rz.) majtki; (rz.) portki; (rz.) slipy; (rz.) spodnie
+[pantyhose]pantyhose (EN) : (rz.) rajstopy
+[pap]pap (EN) : (rz.) kleik; (rz.) papka; (rz.) przecier; (rz.) przecieranie
+[papa]papa (EN) : (rz.) tata; (rz.) tatuś
+[papacy]papacy (EN) : (rz.) papiestwo
+[papal]papal (EN) : (p.) papieski
+[papaw]papaw (EN) : (rz.) melonowiec
+[papaya]papaya (EN) : (rz.) melonowiec; (rz.) papaja
+[paper]paper (EN) : (rz.) artykuł; (rz.) czasopismo; (rz.) gazeta; (rz.) księga; (rz.) makulatura; (rz.) papier; (rz.) papierek; (rz.) papiernia; (rz.) papiernictwo; (rz.) referat; (rz.) tapeta; (rz.) test
+[paper-fastener]paper-fastener (EN) : (rz.) spinacz
+[paper-hanger]paper-hanger (EN) : (rz.) tapeciarz
+[paper-mill]paper-mill (EN) : (rz.) papiernia
+[paper-weight]paper-weight (EN) : (rz.) przycisk
+[paperback]paperback (EN) : (rz.) broszurka; (rz.) książka
+[paperboard]paperboard (EN) : (rz.) karton
+[paperboy]paperboy (EN) : (rz.) gazeciarz
+[paperhanger]paperhanger (EN) : (rz.) tapeciarz
+[paperhanging]paperhanging (EN) : (rz.) tapetowanie
+[papermaking]papermaking (EN) : (rz.) papiernictwo
+[paperweight]paperweight (EN) : (rz.) przycisk
+[paperwork]paperwork (EN) : (rz.) dokumentacja
+[papery]papery (EN) : (p.) papierowy
+[papilla]papilla (EN) : (rz.) brodawka
+[papillary]papillary (EN) : (p.) brodawkowy; (p.) papilarny
+[papist]papist (EN) : (rz.) papista
+[papoose]papoose (EN) : (rz.) dziecko
+[pappy]pappy (EN) : (p.) papkowaty
+[paprika]paprika (EN) : (rz.) papryka
+[papule]papule (EN) : (rz.) pryszczyk
+[papyrus]papyrus (EN) : (rz.) papirus
+[par]par (EN) : (rz.) artykulik; (rz.) parytet; (rz.) równość
+[parable]parable (EN) : (rz.) parabola; (rz.) przypowieść
+[parabola]parabola (EN) : (rz.) parabola
+[parabolic]parabolic (EN) : (p.) paraboliczny; (p.) przypowieściowy
+[parachute]parachute (EN) : (rz.) spadochron
+[parachuting]parachuting (EN) : (rz.) spadochroniarstwo
+[parachutist]parachutist (EN) : (rz.) spadochroniarz
+[parade]parade (EN) : (rz.) defilada; (rz.) parada; (rz.) pochód; (rz.) pokaz; (rz.) popis; (rz.) przegląd; (rz.) rewia
+[paradigm]paradigm (EN) : (rz.) paradygmat
+[parading]parading (EN) : (rz.) defilowanie; (rz.) paradowanie
+[paradise]paradise (EN) : (rz.) raj
+[paradisiacal]paradisiacal (EN) : (p.) rajski
+[paradox]paradox (EN) : (rz.) paradoks
+[paradoxical]paradoxical (EN) : (p.) paradoksalny
+[paradoxically]paradoxically (EN) : (p-sł.) paradoksalnie
+[paraffin]paraffin (EN) : (cz.) parafinować; (rz.) nafta; (rz.) parafina; (rz.) parafinowanie
+[paragliding]paragliding (EN) : (rz.) paralotniarstwo
+[paragon]paragon (EN) : (rz.) dwugarmond; (rz.) uosobienie; (rz.) wzór
+[paragraph]paragraph (EN) : (rz.) akapit; (rz.) paragraf; (rz.) urywek; (rz.) ustęp
+[paragraphs]paragraphs (EN) : (rz.) ustępowanie
+[parakeet]parakeet (EN) : (rz.) papużka
+[paraldehyde]paraldehyde (EN) : (rz.) paraldehyd
+[paralinguistic]paralinguistic (EN) : (p.) pozajęzykowy
+[parallax]parallax (EN) : (rz.) paralaksa
+[parallel]parallel (EN) : (p.) paralelny; (p.) podobny; (p.) równoległy; (rz.) odpowiednik; (rz.) paralela; (rz.) porównanie; (rz.) równoleżnik
+[parallel-serial]parallel-serial (EN) : (p.) równoległo-szeregowy
+[parallel-to-serial]parallel-to-serial (EN) : (p.) równoległo-szeregowy
+[parallelepiped]parallelepiped (EN) : (rz.) równoległościan
+[parallelism]parallelism (EN) : (rz.) paralelizm; (rz.) prostoliniowość; (rz.) równoległość
+[parallelogram]parallelogram (EN) : (rz.) równoległobok
+[paralyse]paralyse (EN) : (cz.) paraliżować; (cz.) sparaliżować
+[paralysis]paralysis (EN) : (rz.) bezwład; (rz.) paraliż; (rz.) porażenie
+[paralytic]paralytic (EN) : (p.) paralityczny; (rz.) paralityk
+[paralyze]paralyze (EN) : (cz.) paraliżować; (cz.) sparaliżować
+[paramagnetic]paramagnetic (EN) : (p.) paramagnetyczny
+[paramedic]paramedic (EN) : (rz.) sanitariusz
+[paramedical]paramedical (EN) : (p.) paramedyczny
+[parameter]parameter (EN) : (rz.) parametr
+[parametric]parametric (EN) : (p.) parametryczny
+[paramilitary]paramilitary (EN) : (p.) paramilitarny
+[paramount]paramount (EN) : (p.) główny; (p.) nadrzędny; (p.) najważniejszy; (p.) najwyższy; (p.) zasadniczy
+[paramour]paramour (EN) : (rz.) kochanek
+[paranoia]paranoia (EN) : (rz.) paranoja
+[paranoiac]paranoiac (EN) : (rz.) paranoik
+[paranoid]paranoid (EN) : (p.) paranoiczny; (p.) paranoidalny
+[paranormal]paranormal (EN) : (p.) paranormalny
+[parapet]parapet (EN) : (rz.) balustrada; (rz.) bariera; (rz.) poręcz; (rz.) przedpiersie
+[paraphrase]paraphrase (EN) : (cz.) parafrazować; (cz.) sparafrazować; (rz.) parafraza
+[parapsychology]parapsychology (EN) : (rz.) parapsychologia
+[parasite]parasite (EN) : (rz.) darmozjad; (rz.) pasożyt
+[parasites]parasites (EN) : (rz.) pasożytowanie
+[parasitic]parasitic (EN) : (p.) pasożytniczy
+[parasitical]parasitical (EN) : (p.) pasożytniczy
+[parasitism]parasitism (EN) : (rz.) pasożytnictwo
+[parasitize]parasitize (EN) : (cz.) pasożytować
+[parasol]parasol (EN) : (rz.) parasolka
+[parasympathetic]parasympathetic (EN) : (p.) przywspółczulny
+[paratrooper]paratrooper (EN) : (rz.) spadochroniarz; (rz.) zrzutka
+[paratyphoid]paratyphoid (EN) : (rz.) paratyfus
+[parboil]parboil (EN) : (cz.) podgotować; (cz.) podgotowywać; (cz.) podsmażać; (cz.) sparzyć
+[parcel]parcel (EN) : (rz.) paczka; (rz.) pakunek; (rz.) parcela; (rz.) partia; (rz.) posyłka; (rz.) przesyłka; (rz.) wysłanie
+[parcelling]parcelling (EN) : (rz.) paczkowanie; (rz.) pakietowanie
+[parch]parch (EN) : (cz.) prażyć; (cz.) przypalać; (cz.) suszyć
+[parchment]parchment (EN) : (rz.) pergamin
+[pardon]pardon (EN) : (cz.) darować; (cz.) przebaczać; (cz.) przepraszać; (cz.) ułaskawiać; (cz.) wybaczyć; (rz.) odpust; (rz.) przebaczenie; (rz.) przepraszam; (rz.) ułaskawienie; (rz.) wybaczenie
+[pardonable]pardonable (EN) : (p.) wybaczalny
+[pare]pare (EN) : (cz.) obcinać; (cz.) okrawać; (cz.) ostrugać
+[pared]pared (EN) : (cz.) popierać
+[parent]parent (EN) : (rz.) rodzic
+[parentage]parentage (EN) : (rz.) pochodzenie; (rz.) ród
+[parental]parental (EN) : (p.) rodzicielski
+[parenthesis]parenthesis (EN) : (rz.) nawias
+[parenthetic]parenthetic (EN) : (p.) marginesowy
+[parenthetical]parenthetical (EN) : (p.) marginesowy; (p.) nawiasowy
+[parenthetically]parenthetically (EN) : (p-sł.) marginalnie
+[parenthood]parenthood (EN) : (rz.) rodzicielstwo
+[parenting]parenting (EN) : (rz.) wychowanie
+[parents]parents (EN) : (rz.) rodzice
+[parents-in-law]parents-in-law (EN) : (rz.) teściowie
+[paresis]paresis (EN) : (rz.) niedowład
+[pariah]pariah (EN) : (rz.) parias
+[parietal]parietal (EN) : (p.) ciemieniowy; (p.) przyścienny; (p.) ścienny
+[paring]paring (EN) : (rz.) obieranie
+[parish]parish (EN) : (rz.) gmina; (rz.) parafia
+[parish-priest]parish-priest (EN) : (rz.) proboszcz
+[parishioner]parishioner (EN) : (rz.) parafianin
+[parity]parity (EN) : (rz.) analogia; (rz.) analogiczność; (rz.) parytet; (rz.) parzystość; (rz.) równość; (rz.) równowartość
+[park]park (EN) : (cz.) parkować; (rz.) ogród; (rz.) park; (rz.) parkowanie
+[parking]parking (EN) : (rz.) parking; (rz.) parkowanie; (rz.) postój
+[parkinsonism]parkinsonism (EN) : (rz.) parkinsonizm
+[parkway]parkway (EN) : (rz.) aleja
+[parlance]parlance (EN) : (rz.) język; (rz.) mowa
+[parley]parley (EN) : (cz.) mówić; (cz.) paktować; (cz.) rozmawiać; (rz.) narada; (rz.) rokowania
+[parliament]parliament (EN) : (rz.) parlament; (rz.) sejm
+[parliamentarian]parliamentarian (EN) : (rz.) parlamentarzysta
+[parliamentary]parliamentary (EN) : (p.) parlamentarny; (p.) poselski; (p.) sejmowy
+[parlour]parlour (EN) : (rz.) bawialnia; (rz.) sala
+[parlous]parlous (EN) : (p.) niebezpieczny; (p.) niepewny; (p.) zły
+[parmesan]parmesan (EN) : (rz.) parmezan
+[parochial]parochial (EN) : (p.) parafialny; (p.) zaściankowy
+[parochialism]parochialism (EN) : (rz.) filisterstwo; (rz.) małomiasteczkowość; (rz.) zaściankowość
+[parochially]parochially (EN) : (p.) parochialny
+[parodist]parodist (EN) : (rz.) parodysta
+[parody]parody (EN) : (rz.) parodia
+[parole]parole (EN) : (cz.) zwalniać; (cz.) zwolnić; (rz.) hasło; (rz.) parol; (rz.) słowo
+[parotid]parotid (EN) : (p.) przyuszny; (rz.) przyusznica
+[paroxysm]paroxysm (EN) : (rz.) paroksyzm
+[paroxysmal]paroxysmal (EN) : (p.) napadowy; (p.) paroksyzmowy
+[parquet]parquet (EN) : (rz.) parkiet
+[parricidal]parricidal (EN) : (p.) ojcobójczy
+[parricide]parricide (EN) : (rz.) matkobójca; (rz.) matkobójstwo; (rz.) ojcobójca; (rz.) ojcobójstwo
+[parrot]parrot (EN) : (cz.) papugować; (cz.) powtarzać; (rz.) papuga
+[parroting]parroting (EN) : (rz.) papugowanie
+[parry]parry (EN) : (cz.) odparować; (cz.) odpierać; (cz.) parować; (cz.) unikać; (rz.) odbicie; (rz.) odparcie
+[parse]parse (EN) : (cz.) analizować; (cz.) przekształcać; (cz.) przetwarzać; (cz.) rozbierać; (cz.) zanalizować; (rz.) analiza; (rz.) rozbiór
+[parsec]parsec (EN) : (rz.) parsek
+[parsecs]parsecs (EN) : (rz.) płaszczyk
+[parser]parser (EN) : (rz.) praser
+[parsimonious]parsimonious (EN) : (p.) oszczędny; (p.) skąpy
+[parsimony]parsimony (EN) : (rz.) oszczędność; (rz.) skąpstwo
+[parsley]parsley (EN) : (rz.) natka; (rz.) pietruszka
+[parsnip]parsnip (EN) : (rz.) pasternak
+[parson]parson (EN) : (rz.) pleban; (rz.) proboszcz
+[parsonage]parsonage (EN) : (rz.) plebania; (rz.) probostwo
+[part]part (EN) : (cz.) oddzielać; (cz.) rozstawać; (cz.) uczestniczyć; (rz.) cześć; (rz.) część; (rz.) odcinek; (rz.) połać; (rz.) rola; (rz.) strona; (rz.) udział
+[partake]partake (EN) : (cz.) dzielić; (cz.) uczestniczyć
+[partaker]partaker (EN) : (rz.) uczestnik
+[parterre]parterre (EN) : (rz.) klomb
+[parthenogenesis]parthenogenesis (EN) : (rz.) dzieworództwo; (rz.) partenogeneza
+[partial]partial (EN) : (p.) cząstkowy; (p.) częściowy; (p.) przychylny; (p.) stronniczy
+[partiality]partiality (EN) : (rz.) słabość; (rz.) stronniczość; (rz.) upodobanie
+[partially]partially (EN) : (p-sł.) częściowo; (p-sł.) poniekąd; (p-sł.) stronniczo
+[participant]participant (EN) : (rz.) uczestnik; (rz.) współuczestnik
+[participate]participate (EN) : (cz.) partycypować; (cz.) podzielać; (cz.) uczestniczyć
+[participation]participation (EN) : (rz.) uczestnictwo; (rz.) udział; (rz.) współudział
+[participator]participator (EN) : (rz.) uczestnik; (rz.) współuczestnik
+[participatory]participatory (EN) : (p.) partycypacyjny
+[participial]participial (EN) : (p.) imiesłowowy
+[participle]participle (EN) : (rz.) imiesłów
+[particle]particle (EN) : (rz.) cząsteczka; (rz.) cząstka; (rz.) drobina; (rz.) partykuła
+[particular]particular (EN) : (p.) dokładny; (p.) grymaśny; (p.) konkretny; (p.) niezwyczajny; (p.) partykularny; (p.) poszczególny; (p.) prywatny; (p.) specjalny; (p.) szczególny; (p.) szczegółowy; (p.) uważny; (p.) wybredny; (rz.) szczegół
+[particularity]particularity (EN) : (rz.) część; (rz.) dokładność; (rz.) osobliwość; (rz.) szczegół
+[particularization]particularization (EN) : (rz.) wyszczególnienie
+[particularly]particularly (EN) : (p-sł.) szczególnie; (p-sł.) szczegółowo
+[particulate]particulate (EN) : (p.) cząsteczkowy
+[parting]parting (EN) : (rz.) przedział; (rz.) przedziałek; (rz.) rozdział; (rz.) rozdzielanie; (rz.) rozstanie
+[partisan]partisan (EN) : (rz.) partyzant; (rz.) stronnik; (rz.) zwolennik
+[partisanship]partisanship (EN) : (rz.) poplecznictwo
+[partition]partition (EN) : (cz.) dzielić; (rz.) partycja; (rz.) podział; (rz.) przedział; (rz.) przegroda; (rz.) przepierzenie; (rz.) rozbiór; (rz.) ściana; (rz.) strefa
+[partly]partly (EN) : (p-sł.) częściowo; (p-sł.) poniekąd
+[partner]partner (EN) : (rz.) partner; (rz.) towarzysz; (rz.) uczestnik; (rz.) udziałowiec; (rz.) wspólnik
+[partnership]partnership (EN) : (rz.) partnerstwo; (rz.) spółka; (rz.) wspólnota; (rz.) współudział
+[partook]partook (EN) : (cz.) uczestniczyć
+[partridge]partridge (EN) : (rz.) kuropatwa; (rz.) przepiórka
+[parts]parts (EN) : (rz.) szczątki
+[parturient]parturient (EN) : (p.) rodząca
+[parturition]parturition (EN) : (rz.) poród
+[party]party (EN) : (cz.) balować; (rz.) biba; (rz.) brygada; (rz.) ekipa; (rz.) impreza; (rz.) partia; (rz.) prywatka; (rz.) przyjęcie; (rz.) raut; (rz.) strona; (rz.) stronnictwo; (rz.) towarzystwo; (rz.) uczestnik; (rz.) wieczorek; (rz.) wieczornica; (rz.) zabawa
+[pas]pas (EN) : (rz.) krok; (rz.) pierwszeństwo; (rz.) taniec
+[paschal]paschal (EN) : (p.) paschalny
+[pasha]pasha (EN) : (rz.) basza; (rz.) pasza
+[pass]pass (EN) : (cz.) abstrahować; (cz.) mijać; (cz.) omijać; (cz.) podać; (cz.) podawać; (cz.) podrywać; (cz.) posłać; (cz.) przebrzmieć; (cz.) przebyć; (cz.) przechodzić; (cz.) przedostawać; (cz.) przejechać; (cz.) przekazać; (cz.) przekazywać; (cz.) przekraczać; (cz.) przelecieć; (cz.) przemijać; (cz.) przeprawiać; (cz.) przepuścić; (cz.) przepuszczać; (cz.) przerzucić; (cz.) spędzać; (cz.) uchodzić; (cz.) uchwalać; (cz.) upływać; (cz.) wydalać; (cz.) zdać; (cz.) zdawać; (rz.) bocznik; (rz.) legitymacja; (rz.) minięcie; (rz.) podanie; (rz.) przebieg; (rz.) przejście; (rz.) przełęcz; (rz.) przelot; (rz.) przepustka; (rz.) przesmyk; (rz.) przesuw; (rz.) trója; (rz.) zaliczenie
+[pass-by]pass-by (EN) : (rz.) mijanka
+[pass-key]pass-key (EN) : (rz.) wytrych
+[pass-through]pass-through (EN) : (rz.) tranzyt
+[passable]passable (EN) : (p.) dostateczny; (p.) prawdziwy; (p.) przechodni; (p.) przejezdny; (p.) znośny
+[passage]passage (EN) : (rz.) korytarz; (rz.) pasaż; (rz.) podróż; (rz.) przejazd; (rz.) przejście; (rz.) przełaz; (rz.) przelot; (rz.) tekst; (rz.) upływ; (rz.) urywek; (rz.) ustęp; (rz.) wypróżnianie; (rz.) wypróżnienie
+[passageway]passageway (EN) : (rz.) przedpokój; (rz.) przejście
+[passenger]passenger (EN) : (rz.) pasażer
+[passer-by]passer-by (EN) : (rz.) przechodzień
+[passerine]passerine (EN) : (p.) wróblowaty
+[passing]passing (EN) : (p.) dostateczny; (p.) koniunkturalny; (p.) przejezdny; (rz.) mijanie; (rz.) omijanie; (rz.) paszport; (rz.) podawanie; (rz.) przechodzenie; (rz.) przejście; (rz.) przepustka; (rz.) przepuszczenie; (rz.) przerzucanie; (rz.) uchodzenie
+[passion]passion (EN) : (rz.) namiętność; (rz.) pasja; (rz.) uniesienie; (rz.) zamiłowanie; (rz.) zapamiętałość
+[passionate]passionate (EN) : (p.) gwałtowny; (p.) namiętny
+[passionately]passionately (EN) : (p-sł.) mocno; (p-sł.) namiętnie
+[passive]passive (EN) : (p.) bezprocentowy; (p.) bezwolny; (p.) bierny; (p.) pasywny
+[passively]passively (EN) : (p-sł.) biernie
+[passivity]passivity (EN) : (rz.) bierność; (rz.) pasywność
+[passkey]passkey (EN) : (rz.) wytrych
+[passport]passport (EN) : (rz.) paszport
+[password]password (EN) : (rz.) hasło; (rz.) hasto; (rz.) kod; (rz.) parol
+[past]past (EN) : (p-im.) po; (p.) dawny; (p.) poprzedni; (p.) przeszły; (rz.) defilada; (rz.) koło; (rz.) obok; (rz.) przeszłość
+[pasta]pasta (EN) : (rz.) makaron; (rz.) pasta
+[paste]paste (EN) : (cz.) klajstrować; (cz.) kleić; (cz.) pastować; (cz.) przyklejać; (cz.) skleić; (cz.) sklejać; (cz.) wkleić; (cz.) wklejać; (cz.) zaklejać; (rz.) ciasto; (rz.) klajster; (rz.) klej; (rz.) papka; (rz.) pasta; (rz.) przecier; (rz.) wklejanie; (rz.) zaczyn
+[pasteboard]pasteboard (EN) : (rz.) karton; (rz.) stół; (rz.) tektura
+[pastel]pastel (EN) : (p.) pastelowy
+[pastern]pastern (EN) : (rz.) pęcina
+[pasteurization]pasteurization (EN) : (rz.) pasteryzacja
+[pasteurize]pasteurize (EN) : (cz.) pasteryzować
+[pasteurized]pasteurized (EN) : (cz.) pasteryzować
+[pasteurizer]pasteurizer (EN) : (rz.) pasteryzator
+[pasticcio]pasticcio (EN) : (rz.) pastisz
+[pastiche]pastiche (EN) : (rz.) pastisz
+[pastille]pastille (EN) : (rz.) pastylka
+[pastime]pastime (EN) : (rz.) rozrywka
+[pastiness]pastiness (EN) : (rz.) ciastowatość
+[pastor]pastor (EN) : (rz.) pasterz
+[pastoral]pastoral (EN) : (p.) duszpasterski; (p.) pasterski; (p.) pastoralny; (p.) sielankowy; (p.) sielski; (rz.) sztuka
+[pastry]pastry (EN) : (rz.) ciastko; (rz.) ciasto
+[pasturage]pasturage (EN) : (rz.) pastwisko; (rz.) wypas
+[pasture]pasture (EN) : (cz.) paść; (rz.) paśnik; (rz.) pastwisko; (rz.) pasza; (rz.) wygon
+[pasty]pasty (EN) : (rz.) pasztecik
+[pat]pat (EN) : (cz.) klepać; (cz.) klepnąć; (cz.) poklepać; (p-sł.) trafnie; (rz.) klaps; (rz.) klepnięcie
+[patch]patch (EN) : (cz.) łatać; (cz.) naprawiać; (cz.) załagodzić; (cz.) załatać; (rz.) grządka; (rz.) łata; (rz.) łatka; (rz.) plama; (rz.) plaster; (rz.) skrawek; (rz.) zagon; (rz.) złośnik
+[patches]patches (EN) : (rz.) łatek
+[patchouli]patchouli (EN) : (rz.) paczula
+[patchwork]patchwork (EN) : (rz.) łatanina; (rz.) splatanie
+[patchy]patchy (EN) : (p.) niejednolity
+[pate]pate (EN) : (rz.) głowa; (rz.) mózgownica; (rz.) pasztet
+[patella]patella (EN) : (rz.) rzepka
+[paten]paten (EN) : (rz.) patena
+[patent]patent (EN) : (cz.) patentować; (p.) jawny; (p.) oczywisty; (p.) otwarty; (p.) patentowy; (rz.) patent; (rz.) przywilej
+[patently]patently (EN) : (p-sł.) ewidentnie
+[paternal]paternal (EN) : (p.) ojcowski; (p.) ojczysty
+[paternalistic]paternalistic (EN) : (p.) paternalistyczny
+[paternity]paternity (EN) : (rz.) ojcostwo; (rz.) pochodzenie
+[paternoster]paternoster (EN) : (rz.) paternoster
+[path]path (EN) : (rz.) bieżnia; (rz.) ciek; (rz.) droga; (rz.) dróżka; (rz.) ścieżka; (rz.) szlak; (rz.) tor; (rz.) trasa
+[pathetic]pathetic (EN) : (p.) patetyczny; (p.) żałosny
+[pathetically]pathetically (EN) : (p-sł.) patetycznie
+[pathfinder]pathfinder (EN) : (rz.) pionier
+[pathname]pathname (EN) : (rz.) droga; (rz.) ścieżka
+[pathogen]pathogen (EN) : (rz.) zarazek
+[pathogenesis]pathogenesis (EN) : (rz.) chorobotwórczość; (rz.) patogeneza
+[pathogenic]pathogenic (EN) : (p.) chorobotwórczy; (p.) patogenny
+[pathological]pathological (EN) : (p.) chorobowy; (p.) nieprawidłowy; (p.) patologiczny
+[pathologically]pathologically (EN) : (p-sł.) patologicznie
+[pathologist]pathologist (EN) : (rz.) patolog
+[pathology]pathology (EN) : (rz.) patologia
+[pathos]pathos (EN) : (rz.) górność; (rz.) patos
+[pathway]pathway (EN) : (rz.) chodnik; (rz.) droga; (rz.) przejście; (rz.) ścieżka; (rz.) szlak
+[patience]patience (EN) : (rz.) cierpliwość; (rz.) pasjans; (rz.) wytrwałość
+[patient]patient (EN) : (p.) cierpliwy; (rz.) kuracjusz; (rz.) kuracjuszka; (rz.) pacjent
+[patiently]patiently (EN) : (p-sł.) cierpliwie
+[patients]patients (EN) : (rz.) pacjent
+[patina]patina (EN) : (rz.) patena; (rz.) patyna; (rz.) śniedź
+[patisserie]patisserie (EN) : (rz.) ciastkarnia; (rz.) cukiernia
+[patriarch]patriarch (EN) : (rz.) biskup; (rz.) patriarcha
+[patriarchal]patriarchal (EN) : (p.) patriarchalny
+[patriarchate]patriarchate (EN) : (rz.) patriarchat
+[patriarchy]patriarchy (EN) : (rz.) patriarchat
+[patrician]patrician (EN) : (p.) arystokratyczny; (p.) patrycjuszowski; (rz.) patrycjusz
+[patricide]patricide (EN) : (rz.) ojcobójca; (rz.) ojcobójstwo
+[patrimonial]patrimonial (EN) : (p.) dziedziczny
+[patrimony]patrimony (EN) : (rz.) dziedzictwo; (rz.) fundacja; (rz.) majątek; (rz.) ojcowizna
+[patriot]patriot (EN) : (rz.) patriota
+[patriotic]patriotic (EN) : (p.) patriotyczny
+[patriotically]patriotically (EN) : (p-sł.) patriotycznie
+[patriotism]patriotism (EN) : (rz.) patriotyzm
+[patrol]patrol (EN) : (cz.) patrolować; (rz.) opiekun; (rz.) patrol; (rz.) protektor; (rz.) zastęp
+[patron]patron (EN) : (rz.) gość; (rz.) mecenas; (rz.) opiekun; (rz.) patron
+[patronage]patronage (EN) : (rz.) auspicje; (rz.) mecenat; (rz.) opieka; (rz.) patronat; (rz.) protekcja
+[patronize]patronize (EN) : (cz.) opiekować; (cz.) patronować; (cz.) popierać; (cz.) protegować; (cz.) roztoczyć; (cz.) ułaskawić; (cz.) wspierać
+[patronizingly]patronizingly (EN) : (p-sł.) protekcjonalnie
+[patrons]patrons (EN) : (rz.) patronat
+[patronymic]patronymic (EN) : (p.) patronimiczny
+[patsy]patsy (EN) : (rz.) naiwniak
+[patter]patter (EN) : (cz.) dreptać; (cz.) gadać; (cz.) kapać; (cz.) paplać; (cz.) stukać; (rz.) gadanina; (rz.) gwara; (rz.) kapanie; (rz.) paplanie; (rz.) stukanie; (rz.) stukot; (rz.) trajkot; (rz.) tupanie; (rz.) tupot
+[pattern]pattern (EN) : (rz.) deseń; (rz.) krój; (rz.) model; (rz.) modelarnia; (rz.) próbka; (rz.) schemat; (rz.) szablon; (rz.) wykrój; (rz.) wykrojenie; (rz.) wzór; (rz.) wzorek; (rz.) wzorzec
+[pattern-designing]pattern-designing (EN) : (rz.) wzornictwo
+[pattern-shop]pattern-shop (EN) : (rz.) modelarnia
+[patterned]patterned (EN) : (p.) wzorzysty
+[patternmaker]patternmaker (EN) : (rz.) modelarz
+[patternmaking]patternmaking (EN) : (rz.) modelarstwo
+[patty]patty (EN) : (rz.) pasztecik
+[patulous]patulous (EN) : (p.) rozległy; (p.) rozłożysty
+[paucity]paucity (EN) : (rz.) brak; (rz.) niedostatek; (rz.) szczupłość
+[paunch]paunch (EN) : (rz.) brzuch; (rz.) kuferek; (rz.) żołądek
+[paunchy]paunchy (EN) : (p.) brzuchaty; (p.) wydatny
+[pauper]pauper (EN) : (rz.) biedak; (rz.) nędzarz; (rz.) żebrak
+[pauperism]pauperism (EN) : (rz.) pauperyzm
+[pauperization]pauperization (EN) : (rz.) pauperyzacja
+[pauperize]pauperize (EN) : (cz.) pauperyzować; (cz.) zubożeć; (cz.) zubożyć
+[pause]pause (EN) : (cz.) pauzować; (cz.) przerwać; (cz.) przerywać; (cz.) spauzować; (cz.) wstrzymać; (cz.) wstrzymywać; (cz.) zatrzymywać; (rz.) pauza; (rz.) przerwa; (rz.) wstrzymanie; (rz.) wstrzymywanie
+[pave]pave (EN) : (cz.) brukować; (cz.) torować; (cz.) utorować; (cz.) wybrukować; (cz.) wykładać; (cz.) wyłożyć; (cz.) wytyczać
+[pavement]pavement (EN) : (rz.) bruk; (rz.) chodnik; (rz.) nawierzchnia; (rz.) trotuar
+[pavilion]pavilion (EN) : (rz.) pawilon; (rz.) szatnia
+[paving]paving (EN) : (rz.) brukowanie; (rz.) torowanie
+[paw]paw (EN) : (rz.) graba; (rz.) łapa
+[pawl]pawl (EN) : (rz.) zapadka
+[pawn]pawn (EN) : (cz.) zakładać; (cz.) zastawiać; (rz.) fant; (rz.) pion; (rz.) pionek; (rz.) zastaw
+[pawnshop]pawnshop (EN) : (rz.) lombard
+[pay]pay (EN) : (cz.) dopłacić; (cz.) łożyć; (cz.) opłacać; (cz.) opłacić; (cz.) płacić; (cz.) pokryć; (cz.) prawić; (cz.) procentować; (cz.) spłacać; (cz.) uiścić; (cz.) uiszczać; (cz.) wpłacać; (cz.) wpłacić; (cz.) wypłacać; (cz.) wypłacić; (cz.) zapłacić; (cz.) zwracać; (rz.) opłacenie; (rz.) płaca; (rz.) płacenie; (rz.) spłacenie; (rz.) uposażenie; (rz.) wpłacenie; (rz.) wynagrodzenie; (rz.) wypłacenie; (rz.) zapłata; (rz.) żołd; (rz.) zwracanie; (rz.) zwrócenie
+[payable]payable (EN) : (p.) dochodowy; (p.) odpłatny; (p.) płatny
+[payback]payback (EN) : (rz.) spłata
+[payee]payee (EN) : (rz.) odbiorca; (rz.) remitent
+[payer]payer (EN) : (rz.) płatnik; (rz.) trasant; (rz.) zleceniodawca
+[payload]payload (EN) : (rz.) ładowność; (rz.) ładunek
+[paymaster]paymaster (EN) : (rz.) płatnik
+[payment]payment (EN) : (rz.) odpłatność; (rz.) opłacanie; (rz.) opłata; (rz.) płat; (rz.) płatność; (rz.) spłata; (rz.) uiszczenie; (rz.) wkładka; (rz.) wpłata; (rz.) wynagrodzenie; (rz.) wypłacanie; (rz.) wypłata; (rz.) zapłata
+[payoff]payoff (EN) : (rz.) łapówka; (rz.) odprawa; (rz.) opłacalność; (rz.) wypłata
+[payola]payola (EN) : (rz.) łapówka
+[payout]payout (EN) : (rz.) wydatkowanie; (rz.) wypłata
+[pc]pc (EN) : (rz.) komputer; (rz.) lanie
+[pea]pea (EN) : (rz.) groch; (rz.) groszek
+[pea-soup]pea-soup (EN) : (rz.) grochówka
+[peace]peace (EN) : (rz.) ład; (rz.) pokój; (rz.) spokój
+[peace-maker]peace-maker (EN) : (rz.) arbiter; (rz.) parlamentariusz; (rz.) rozjemca
+[peaceable]peaceable (EN) : (p.) pokojowy; (p.) zgodny
+[peaceably]peaceably (EN) : (p-sł.) zgodnie
+[peaceful]peaceful (EN) : (p.) bezkonfliktowy; (p.) cichy; (p.) niewojowniczy; (p.) pokojowy; (p.) spokojny
+[peacefully]peacefully (EN) : (p-sł.) pokojowo; (p-sł.) spokojnie
+[peacemaker]peacemaker (EN) : (rz.) arbiter; (rz.) rozjemca
+[peacemaking]peacemaking (EN) : (rz.) mediacja
+[peacetime]peacetime (EN) : (rz.) pokój
+[peach]peach (EN) : (p.) brzoskwiniowy; (rz.) brzoskwinia
+[peach-tree]peach-tree (EN) : (rz.) brzoskwinia
+[peachy]peachy (EN) : (p.) brzoskwiniowy
+[peacock]peacock (EN) : (rz.) paw
+[peak]peak (EN) : (cz.) zmarnieć; (rz.) cypel; (rz.) iglica; (rz.) pik; (rz.) szczyt; (rz.) szczytowanie; (rz.) szpic; (rz.) turnia; (rz.) wierzch; (rz.) wierzchołek; (rz.) wyż
+[peaked]peaked (EN) : (p.) daszkowy; (p.) szpiczasty
+[peaky]peaky (EN) : (p.) mizerny
+[peal]peal (EN) : (cz.) dźwięczeć; (cz.) huczeć; (cz.) obwieszczać; (cz.) rozbrzmiewać; (cz.) rozgłaszać; (rz.) bicie; (rz.) detonacja; (rz.) huk
+[peanut]peanut (EN) : (rz.) arachid; (rz.) fistaszek
+[pear]pear (EN) : (rz.) grusza; (rz.) gruszka
+[pear-shaped]pear-shaped (EN) : (p.) gruszkowaty
+[pear-tree]pear-tree (EN) : (rz.) grusza
+[pearl]pearl (EN) : (rz.) perła
+[pearly]pearly (EN) : (p.) perlisty; (p.) perłowy
+[peas]peas (EN) : (rz.) groch
+[peasant]peasant (EN) : (rz.) chłop; (rz.) wieśniak; (rz.) włościanin
+[peasantry]peasantry (EN) : (rz.) chłopstwo
+[peat]peat (EN) : (rz.) torf
+[peat-bog]peat-bog (EN) : (rz.) torfowisko
+[peat-moss]peat-moss (EN) : (rz.) torfowiec
+[peaty]peaty (EN) : (p.) torfiasty; (p.) torfowy
+[pebble]pebble (EN) : (rz.) kamyk; (rz.) otoczak; (rz.) żwir; (rz.) żwirowanie
+[pebbling]pebbling (EN) : (rz.) granulowanie
+[pebbly]pebbly (EN) : (p.) kamienisty
+[pecan]pecan (EN) : (rz.) leszczyna
+[peck]peck (EN) : (cz.) dziobać; (cz.) podziobać; (cz.) wydziobać; (cz.) wydziwiać; (cz.) zastukać; (rz.) dziobanie; (rz.) garniec; (rz.) kupa; (rz.) masa; (rz.) zgnilizna
+[pecker]pecker (EN) : (rz.) duch; (rz.) dzięcioł; (rz.) nos; (rz.) odwaga
+[peckish]peckish (EN) : (p.) głodny
+[pectin]pectin (EN) : (rz.) pektyna
+[pectoral]pectoral (EN) : (p.) piersiowy; (p.) sercowy
+[peculate]peculate (EN) : (cz.) defraudować; (cz.) przywłaszczać; (cz.) sprzeniewierzać
+[peculation]peculation (EN) : (rz.) defraudacja
+[peculator]peculator (EN) : (rz.) malwersant
+[peculiar]peculiar (EN) : (p.) dziwaczny; (p.) dziwny; (p.) osobisty; (p.) osobliwy; (p.) specyficzny; (p.) swoisty; (p.) szczególny
+[peculiarity]peculiarity (EN) : (rz.) charakterystyka; (rz.) osobliwość; (rz.) specyficzność; (rz.) właściwość; (rz.) wykres
+[peculiarly]peculiarly (EN) : (p-sł.) osobiście; (p-sł.) osobliwie; (p-sł.) szczególnie
+[pecuniary]pecuniary (EN) : (p.) pieniężny
+[pedagogic]pedagogic (EN) : (p.) pedagogiczny; (p.) wychowawczy
+[pedagogical]pedagogical (EN) : (p.) pedagogiczny
+[pedagogically]pedagogically (EN) : (p-sł.) pedagogicznie
+[pedagogue]pedagogue (EN) : (rz.) belfer; (rz.) pedagog; (rz.) wychowawca
+[pedagogy]pedagogy (EN) : (rz.) pedagogia; (rz.) pedagogika
+[pedal]pedal (EN) : (cz.) pedałować; (p.) pedałowy; (rz.) pedał; (rz.) pedałowanie
+[pedant]pedant (EN) : (rz.) pedant
+[pedantic]pedantic (EN) : (p.) pedantyczny
+[pedantry]pedantry (EN) : (rz.) drobiazgowość; (rz.) pedanteria
+[peddle]peddle (EN) : (cz.) bawić
+[peddler]peddler (EN) : (rz.) diler; (rz.) domokrążca; (rz.) przekupień
+[pederast]pederast (EN) : (rz.) pederasta
+[pederasty]pederasty (EN) : (rz.) pederastia
+[pedestal]pedestal (EN) : (rz.) cokół; (rz.) odstęp; (rz.) piedestał; (rz.) podstawa; (rz.) postument; (rz.) spacja
+[pedestrian]pedestrian (EN) : (p.) pieszy; (p.) przeciętny; (rz.) deptak; (rz.) przechodzień
+[pedicel]pedicel (EN) : (rz.) szypułka
+[pedicure]pedicure (EN) : (rz.) pedikiur
+[pedicurist]pedicurist (EN) : (rz.) pedikiurzysta
+[pedigree]pedigree (EN) : (rz.) metryka; (rz.) pochodzenie; (rz.) rodowód
+[pedometer]pedometer (EN) : (rz.) krokomierz
+[peduncle]peduncle (EN) : (rz.) szypułka
+[pee]pee (EN) : (cz.) odlać; (cz.) sikać; (cz.) siusiać; (rz.) siusianie
+[peeing]peeing (EN) : (rz.) siusianie
+[peek]peek (EN) : (cz.) zajrzeć; (cz.) zerkać; (rz.) pobranie; (rz.) sprowadzenie; (rz.) zerknięcie
+[peel]peel (EN) : (cz.) korować; (cz.) łuskać; (cz.) łuszczyć; (cz.) obierać; (cz.) obłupywać; (rz.) łupina; (rz.) skóra; (rz.) skórka
+[peeler]peeler (EN) : (rz.) łuszczarka; (rz.) nożyk; (rz.) obieraczka
+[peeling]peeling (EN) : (rz.) korowanie; (rz.) łuszczenie; (rz.) obieranie; (rz.) obierzyna
+[peen]peen (EN) : (rz.) nosek
+[peep]peep (EN) : (cz.) ćwierkać; (cz.) piszczeć; (cz.) podglądać; (cz.) podpatrywać; (cz.) zaglądać; (cz.) zerkać; (rz.) pisk; (rz.) spojrzenie; (rz.) zerknięcie
+[peephole]peephole (EN) : (rz.) otwór; (rz.) wizjer; (rz.) wziernik
+[peer]peer (EN) : (cz.) przyglądać; (cz.) wyzierać; (rz.) opinia; (rz.) papuga; (rz.) para; (rz.) patrzenie; (rz.) rówieśnik; (rz.) równoprawność; (rz.) równorzędność; (rz.) wygląd
+[peerage]peerage (EN) : (rz.) arystokracja; (rz.) godność; (rz.) parostwo; (rz.) szlachta
+[peerless]peerless (EN) : (p.) bezkonkurencyjny; (p.) zrównany
+[peers]peers (EN) : (rz.) parów
+[peeve]peeve (EN) : (rz.) utrapienie
+[peevish]peevish (EN) : (p.) drażliwy
+[peevishness]peevishness (EN) : (rz.) nerwowość
+[peewee]peewee (EN) : (rz.) maleństwo
+[peewit]peewit (EN) : (rz.) czajka
+[peg]peg (EN) : (cz.) kołkować; (cz.) kółkować; (cz.) palikować; (rz.) czop; (rz.) klamerka; (rz.) kołek; (rz.) palik; (rz.) wieszadło; (rz.) wieszak
+[pegboard]pegboard (EN) : (rz.) deska
+[pegmatite]pegmatite (EN) : (rz.) pegmatyt
+[peignoir]peignoir (EN) : (rz.) peniuar
+[pejorative]pejorative (EN) : (p.) pejoratywny; (p.) pogardliwy
+[pelage]pelage (EN) : (rz.) uwłosienie
+[pelagic]pelagic (EN) : (p.) pelagiczny
+[pelargonium]pelargonium (EN) : (rz.) pelargonia
+[pelerine]pelerine (EN) : (rz.) peleryna
+[pelf]pelf (EN) : (rz.) mamona
+[pelican]pelican (EN) : (rz.) pelikan
+[pelisse]pelisse (EN) : (rz.) pelisa
+[pell-mell]pell-mell (EN) : (p.) bezładny; (p-sł.) bezładnie; (p-sł.) chaotycznie; (rz.) mieszanina; (rz.) nieład; (rz.) zamieszanie
+[pellagra]pellagra (EN) : (rz.) pelagra
+[pellet]pellet (EN) : (rz.) granulat; (rz.) granulka; (rz.) grudka; (rz.) kulka; (rz.) wyro
+[pellicle]pellicle (EN) : (rz.) błona
+[pellucid]pellucid (EN) : (p.) niewidoczny; (p.) przezroczysty
+[pelmet]pelmet (EN) : (rz.) lambrekin
+[pelt]pelt (EN) : (cz.) bombardować; (cz.) obrzucać; (cz.) obrzucić; (cz.) pędzić; (cz.) walić; (rz.) futerko; (rz.) futro; (rz.) golizna; (rz.) skóra
+[pelvic]pelvic (EN) : (p.) biodrowy; (p.) miednicowy; (p.) miedniczny
+[pelvis]pelvis (EN) : (rz.) miednica
+[pen]pen (EN) : (cz.) kreślić; (cz.) pisać; (rz.) długopis; (rz.) kojec; (rz.) pióro; (rz.) pisak; (rz.) poeta; (rz.) stalówka; (rz.) wydawca; (rz.) zagroda
+[penal]penal (EN) : (p.) karalny; (p.) karny; (p.) penitencjarny
+[penalization]penalization (EN) : (rz.) karalność
+[penalize]penalize (EN) : (cz.) karać
+[penalty]penalty (EN) : (rz.) grzywna; (rz.) kara; (rz.) karencja; (rz.) karo
+[penance]penance (EN) : (rz.) pokuta
+[penchant]penchant (EN) : (rz.) skłonność; (rz.) upodobanie; (rz.) zamiłowanie
+[pencil]pencil (EN) : (rz.) kredka; (rz.) ołówek; (rz.) piórnik; (rz.) temperówka
+[pencil-case]pencil-case (EN) : (rz.) piórnik
+[pencil-sharpener]pencil-sharpener (EN) : (rz.) temperówka
+[pendant]pendant (EN) : (rz.) breloczek; (rz.) naszyjnik; (rz.) wisiorek; (rz.) zwieszak
+[pendent]pendent (EN) : (p.) wiszący
+[pending]pending (EN) : (p.) oczekiwany; (p.) oczekujący; (p.) odłożony; (p.) zawieszony
+[pendulous]pendulous (EN) : (p.) chwiejny; (p.) wahadłowy
+[pendulum]pendulum (EN) : (rz.) wahadło
+[penetrability]penetrability (EN) : (rz.) przenikalność
+[penetrable]penetrable (EN) : (p.) przenikalny; (p.) przenikliwy; (p.) przepuszczalny
+[penetrate]penetrate (EN) : (cz.) penetrować; (cz.) przedostać; (cz.) przedrzeć; (cz.) przedzierać; (cz.) przenikać; (cz.) spenetrować; (cz.) wedrzeć; (cz.) wnikać
+[penetrating]penetrating (EN) : (p.) bystry; (p.) głęboki; (p.) przenikliwy; (p.) wnikliwy
+[penetratingly]penetratingly (EN) : (p-sł.) przenikliwie; (p-sł.) wnikliwie
+[penetration]penetration (EN) : (rz.) domyślność; (rz.) penetracja; (rz.) penetrowanie; (rz.) przekłucie; (rz.) przenikanie; (rz.) przenikliwość; (rz.) przesiąkanie; (rz.) wdarcie; (rz.) wnikanie; (rz.) wnikliwość; (rz.) wniknięcie
+[penetrative]penetrative (EN) : (p.) przenikalny
+[penguin]penguin (EN) : (rz.) bezlotek; (rz.) pingwin
+[penholder]penholder (EN) : (rz.) obsadka
+[penicillin]penicillin (EN) : (rz.) penicylina
+[peninsula]peninsula (EN) : (rz.) półwysep
+[peninsular]peninsular (EN) : (p.) półwyspowy
+[penis]penis (EN) : (rz.) członek; (rz.) penis; (rz.) prącie
+[penitence]penitence (EN) : (rz.) pokuta; (rz.) skrucha
+[penitent]penitent (EN) : (rz.) penitent
+[penitential]penitential (EN) : (p.) karny; (p.) pokutniczy; (p.) pokutny
+[penitentiary]penitentiary (EN) : (rz.) penitencjariusz; (rz.) więzienie
+[penknife]penknife (EN) : (rz.) nożyk; (rz.) scyzoryk
+[penman]penman (EN) : (rz.) autor; (rz.) literat; (rz.) pisarz
+[penmanship]penmanship (EN) : (rz.) pisarstwo
+[penname]penname (EN) : (rz.) pseudonim
+[pennant]pennant (EN) : (rz.) chorągiewka; (rz.) proporczyk; (rz.) proporzec; (rz.) wczep
+[pennon]pennon (EN) : (rz.) flaga
+[penny]penny (EN) : (rz.) grosz; (rz.) pens; (rz.) szeląg
+[penny-pincher]penny-pincher (EN) : (rz.) dusigrosz; (rz.) skąpiec
+[pension]pension (EN) : (rz.) dożywocie; (rz.) emerytura; (rz.) renta
+[pensioner]pensioner (EN) : (rz.) emeryt; (rz.) rencista
+[pensive]pensive (EN) : (p.) zadumany
+[penstock]penstock (EN) : (rz.) kolano; (rz.) śluza; (rz.) zastawka
+[pent]pent (EN) : (p.) klauzurowy
+[pentacle]pentacle (EN) : (rz.) pentagram
+[pentad]pentad (EN) : (rz.) pięciolecie
+[pentagon]pentagon (EN) : (rz.) pięciobok; (rz.) pięciokąt
+[pentagram]pentagram (EN) : (rz.) pentagram
+[pentameter]pentameter (EN) : (rz.) pentametr
+[pentane]pentane (EN) : (rz.) pentan
+[pentathlon]pentathlon (EN) : (rz.) pięciobój
+[penthouse]penthouse (EN) : (rz.) apartament; (rz.) podcienie; (rz.) przybudówka; (rz.) wiata
+[pentode]pentode (EN) : (rz.) pentoda
+[pentose]pentose (EN) : (rz.) pentoza
+[penultimate]penultimate (EN) : (p.) przedostatni; (rz.) sylaba
+[penumbra]penumbra (EN) : (rz.) półcień
+[penurious]penurious (EN) : (p.) biedny; (p.) skąpy; (p.) ubogi
+[penury]penury (EN) : (rz.) bieda; (rz.) nędza; (rz.) skąpstwo; (rz.) ubóstwo
+[peon]peon (EN) : (rz.) czeladnik; (rz.) policjant; (rz.) wyrobnik
+[peony]peony (EN) : (rz.) peonia; (rz.) piwonia
+[people]people (EN) : (cz.) zaludniać; (rz.) ktoś; (rz.) lud; (rz.) ludzie; (rz.) naród; (rz.) populacja; (rz.) rodzina; (rz.) społeczeństwo
+[people's]people's (EN) : (p.) ludowy
+[pep]pep (EN) : (rz.) animusz; (rz.) werwa; (rz.) wigor
+[pepper]pepper (EN) : (cz.) opieprzyć; (cz.) pieprzyć; (rz.) papryka; (rz.) pieprz
+[pepper-and-salt]pepper-and-salt (EN) : (rz.) marengo
+[peppermint]peppermint (EN) : (rz.) mięta; (rz.) miętówka
+[peppery]peppery (EN) : (p.) ostry; (p.) pieprzny; (p.) zjadliwy
+[pepsin]pepsin (EN) : (rz.) pepsyna
+[peptic]peptic (EN) : (p.) trawienny
+[peptidases]peptidases (EN) : (p.) peptydazy; (p.) proteinazy
+[peptide]peptide (EN) : (rz.) peptyd
+[peptone]peptone (EN) : (rz.) pepton
+[per]per (EN) : (p-im.) na; (p-im.) przez
+[perambulate]perambulate (EN) : (cz.) chadzać; (cz.) wędrować
+[percale]percale (EN) : (rz.) perkal
+[perceivable]perceivable (EN) : (p.) postrzegalny
+[perceive]perceive (EN) : (cz.) dostrzegać; (cz.) odczuć; (cz.) percypować; (cz.) postrzegać; (cz.) schwycić; (cz.) spostrzegać; (cz.) zauważać; (cz.) zauważyć
+[percent]percent (EN) : (rz.) procent
+[percentage]percentage (EN) : (rz.) odsetek; (rz.) procent; (rz.) procentowość; (rz.) prowizja; (rz.) różnica
+[percentile]percentile (EN) : (p.) procentowy
+[perceptibility]perceptibility (EN) : (rz.) dostrzegalność; (rz.) odczuwalność; (rz.) wyczuwalność
+[perceptible]perceptible (EN) : (p.) odczuwalny; (p.) postrzegalny; (p.) uchwytny; (p.) wyczuwalny
+[perceptibly]perceptibly (EN) : (p-sł.) dostrzegalnie; (p-sł.) wyraźnie; (p-sł.) zauważalnie
+[perception]perception (EN) : (rz.) dostrzeganie; (rz.) percepcja; (rz.) postrzeganie; (rz.) postrzeżenie; (rz.) spostrzeganie; (rz.) spostrzeżenie
+[perceptive]perceptive (EN) : (p.) percepcyjny; (p.) postrzeżeniowy; (p.) spostrzegawczy
+[perceptiveness]perceptiveness (EN) : (rz.) dostrzeganie; (rz.) spostrzegawczość
+[perceptivity]perceptivity (EN) : (rz.) perceptywność; (rz.) spostrzegawczość
+[perceptual]perceptual (EN) : (p.) percepcyjny; (p.) postrzeżeniowy
+[perch]perch (EN) : (cz.) nakładać; (cz.) sadzać; (rz.) grzęda; (rz.) okoń; (rz.) rozwora; (rz.) szczupak; (rz.) tyczka; (rz.) żerdź
+[perchance]perchance (EN) : (p-sł.) może; (p-sł.) możliwe; (p-sł.) przypadkowo
+[percolate]percolate (EN) : (cz.) filtrować; (cz.) przeciekać; (cz.) przepuszczać; (cz.) przesiąkać
+[percolation]percolation (EN) : (rz.) perkolacja; (rz.) przesączanie
+[percolator]percolator (EN) : (rz.) filtr; (rz.) perkolator
+[percussion]percussion (EN) : (rz.) perkusja; (rz.) uderzanie; (rz.) uderzenie; (rz.) wstrząs; (rz.) zderzenie
+[percussive]percussive (EN) : (p.) perkusyjny; (p.) udarowy; (p.) uderzeniowy
+[perdition]perdition (EN) : (rz.) zatracenie
+[perdurable]perdurable (EN) : (p.) wieczny
+[peregrination]peregrination (EN) : (rz.) peregrynacja
+[peremptorily]peremptorily (EN) : (p-sł.) bezapelacyjnie; (p-sł.) kategorycznie; (p-sł.) stanowczo
+[peremptory]peremptory (EN) : (p.) bezwarunkowy; (p.) ostateczny; (p.) stanowczy
+[perennial]perennial (EN) : (p.) bylinowy; (p.) wieczysty; (p.) wieloletni; (rz.) bylina; (rz.) roślina
+[perestroika]perestroika (EN) : (rz.) pierestrojka
+[perfect]perfect (EN) : (cz.) doskonalić; (p.) bezbłędny; (p.) doskonały; (p.) idealny; (p.) perfekcyjny; (p.) skończony; (p.) uprzedni; (p.) zupełny
+[perfection]perfection (EN) : (rz.) bezbłędność; (rz.) doskonalenie; (rz.) doskonałość; (rz.) perfekcja; (rz.) udoskonalenie; (rz.) usprawnianie
+[perfectionism]perfectionism (EN) : (rz.) perfekcjonizm
+[perfectionist]perfectionist (EN) : (rz.) perfekcjonista
+[perfective]perfective (EN) : (p.) perfektywny
+[perfectly]perfectly (EN) : (p-sł.) doskonale; (p-sł.) idealnie; (p-sł.) perfekcyjnie; (p-sł.) wybornie
+[perfervid]perfervid (EN) : (p.) żarliwy
+[perfidious]perfidious (EN) : (p.) perfidny; (p.) przewrotny; (p.) wiarołomny
+[perfidy]perfidy (EN) : (rz.) perfidia; (rz.) przewrotność; (rz.) wiarołomstwo
+[perforate]perforate (EN) : (cz.) dziurawić; (cz.) dziurkować; (cz.) perforować; (cz.) przedziurawiać; (cz.) przedziurawić
+[perforation]perforation (EN) : (rz.) dziurkowanie; (rz.) otwór; (rz.) perforacja; (rz.) perforowanie; (rz.) przedziurawianie; (rz.) przedziurawienie; (rz.) ząbkowanie
+[perforator]perforator (EN) : (rz.) dziurkacz; (rz.) dziurkarka; (rz.) perforator; (rz.) przekłuwacz
+[perform]perform (EN) : (cz.) dokonywać; (cz.) grać; (cz.) odgrywać; (cz.) przedstawiać; (cz.) spełniać; (cz.) wykonać; (cz.) wykonywać; (cz.) wystawiać; (cz.) zagrać
+[performance]performance (EN) : (rz.) dokonanie; (rz.) efektywność; (rz.) osiągi; (rz.) przedstawienie; (rz.) seans; (rz.) spektakl; (rz.) spełnienie; (rz.) wydajność; (rz.) wykonanie; (rz.) wystawienie; (rz.) występ; (rz.) zobrazowanie
+[performed]performed (EN) : (cz.) wykonywać; (cz.) występować
+[performer]performer (EN) : (rz.) odtwórca; (rz.) odtwórczyni; (rz.) sztukmistrz; (rz.) wykonawca
+[perfume]perfume (EN) : (cz.) balsamować; (cz.) perfumować; (cz.) wykadzać; (rz.) pachnidło; (rz.) perfumy; (rz.) zapach
+[perfumery]perfumery (EN) : (rz.) perfumeria
+[perfumes]perfumes (EN) : (rz.) perfumy
+[perfunctory]perfunctory (EN) : (p.) niedbały; (p.) pobieżny; (p.) powierzchowny
+[perfusion]perfusion (EN) : (rz.) perfuzja; (rz.) przepłukiwanie
+[perhaps]perhaps (EN) : (p-sł.) ewentualnie; (p-sł.) może; (p-sł.) możliwe
+[periapt]periapt (EN) : (rz.) naszyjnik
+[pericardium]pericardium (EN) : (rz.) osierdzie
+[perigee]perigee (EN) : (rz.) perigeum; (rz.) perygeum
+[perihelion]perihelion (EN) : (rz.) perihelium; (rz.) peryhelium
+[peril]peril (EN) : (rz.) groza; (rz.) niebezpieczeństwo
+[perilous]perilous (EN) : (p.) niebezpieczny
+[perimeter]perimeter (EN) : (rz.) obwód; (rz.) perymetr
+[perineum]perineum (EN) : (rz.) krocze
+[period]period (EN) : (p.) stylowy; (rz.) cykl; (rz.) czas; (rz.) epoka; (rz.) godzina; (rz.) kropka; (rz.) miesiączka; (rz.) okres; (rz.) staż; (rz.) tercja; (rz.) turnus
+[periodic]periodic (EN) : (p.) okresowy; (p.) periodyczny
+[periodical]periodical (EN) : (p.) okresowy; (p.) periodyczny; (rz.) czasopismo; (rz.) periodyk
+[periodically]periodically (EN) : (p-sł.) okresowo
+[periodicity]periodicity (EN) : (rz.) okresowość; (rz.) periodyczność
+[periods]periods (EN) : (rz.) karencja
+[peripatetic]peripatetic (EN) : (p.) wędrowny
+[peripheral]peripheral (EN) : (p.) drugoplanowy; (p.) marginesowy; (p.) obrzeżny; (p.) obwodowy; (p.) peryferyczny; (p.) peryferyjny; (p.) uboczny
+[peripherally]peripherally (EN) : (p-sł.) peryferycznie
+[peripherals]peripherals (EN) : (rz.) peryferia
+[periphery]periphery (EN) : (rz.) obrzeże; (rz.) obwód; (rz.) peryferia; (rz.) peryferie
+[periphrasis]periphrasis (EN) : (rz.) peryfraza
+[periphrastic]periphrastic (EN) : (p.) omowny; (p.) peryfrastyczny
+[periscope]periscope (EN) : (rz.) peryskop
+[perish]perish (EN) : (cz.) ginąć; (cz.) przymierać; (cz.) rozpadać; (cz.) zaginać; (cz.) zaginąć
+[peristalsis]peristalsis (EN) : (rz.) perystaltyka
+[peristaltic]peristaltic (EN) : (p.) perystaltyczny
+[peritoneum]peritoneum (EN) : (rz.) otrzewna
+[periwig]periwig (EN) : (rz.) peruka
+[periwinkle]periwinkle (EN) : (rz.) barwinek
+[perjure]perjure (EN) : (cz.) krzywoprzysięgać
+[perjurer]perjurer (EN) : (rz.) krzywoprzysięzca
+[perjury]perjury (EN) : (rz.) krzywoprzysięstwo
+[perk]perk (EN) : (cz.) ożywiać; (cz.) zadzierać
+[perky]perky (EN) : (p.) czujny; (p.) żwawy
+[permafrost]permafrost (EN) : (rz.) zmarzlina
+[permanence]permanence (EN) : (rz.) ciągłość; (rz.) niezmienność; (rz.) permanencja; (rz.) stałość; (rz.) trwałość
+[permanency]permanency (EN) : (rz.) ciągłość; (rz.) niezmienność; (rz.) permanencja; (rz.) stałość; (rz.) trwałość
+[permanent]permanent (EN) : (p.) ciągły; (p.) permanentny; (p.) stały; (p.) trwały
+[permanently]permanently (EN) : (p-sł.) stale; (p-sł.) trwale
+[permanganate]permanganate (EN) : (rz.) nadmanganian
+[permeability]permeability (EN) : (rz.) drożność; (rz.) przemakalność; (rz.) przenikalność; (rz.) przenikliwość; (rz.) przepuszczalność
+[permeable]permeable (EN) : (p.) drożny; (p.) przemakający; (p.) przemakalny; (p.) przenikalny; (p.) przepuszczalny; (p.) przesiąkalny; (p.) przesiąkliwy
+[permeate]permeate (EN) : (cz.) przenikać; (cz.) przepuszczać
+[permeation]permeation (EN) : (rz.) przenikanie; (rz.) przesiąkanie
+[permissible]permissible (EN) : (p.) dopuszczalny
+[permission]permission (EN) : (rz.) pozwolenie; (rz.) przyzwolenie; (rz.) zezwolenie; (rz.) zgoda
+[permissive]permissive (EN) : (p.) permisywny; (p.) puszczalski
+[permissively]permissively (EN) : (p-sł.) przyzwalająco
+[permit]permit (EN) : (cz.) dozwolić; (cz.) postanawiać; (cz.) pozwalać; (cz.) zezwalać; (rz.) pozwolenie; (rz.) przepustka; (rz.) zezwolenie
+[permutation]permutation (EN) : (rz.) permutacja; (rz.) przemiana; (rz.) zmiana
+[permute]permute (EN) : (cz.) permutować; (cz.) przestawiać; (cz.) przestawić; (cz.) zmieniać
+[pernicious]pernicious (EN) : (p.) szkodliwy; (p.) zgubny
+[pernickety]pernickety (EN) : (p.) drobiazgowy; (p.) grymaśny
+[peroration]peroration (EN) : (rz.) perora
+[peroxide]peroxide (EN) : (rz.) nadtlenek
+[perpendicular]perpendicular (EN) : (p.) pionowy; (p.) prostopadły; (rz.) pion
+[perpendicularly]perpendicularly (EN) : (p-sł.) pionowo
+[perpetrate]perpetrate (EN) : (cz.) popełniać; (cz.) popełnić; (cz.) przeskrobać
+[perpetrator]perpetrator (EN) : (rz.) przestępca; (rz.) sprawca; (rz.) zamachowiec
+[perpetual]perpetual (EN) : (p.) ciągły; (p.) nieustanny; (p.) wieczny; (p.) wieczysty
+[perpetually]perpetually (EN) : (p-sł.) nieustannie; (p-sł.) wiecznie
+[perpetuate]perpetuate (EN) : (cz.) uwieczniać
+[perpetuation]perpetuation (EN) : (rz.) uwiecznienie
+[perpetuity]perpetuity (EN) : (rz.) wieczne; (rz.) wieczność
+[perplex]perplex (EN) : (cz.) zakłopotać; (cz.) zmieszać
+[perplexing]perplexing (EN) : (p.) kłopotliwy
+[perplexity]perplexity (EN) : (rz.) ambaras; (rz.) zakłopotanie
+[perquisite]perquisite (EN) : (rz.) napiwek
+[persecute]persecute (EN) : (cz.) napastować; (cz.) prześladować; (cz.) szykanować
+[persecution]persecution (EN) : (rz.) prześladowanie
+[persecutor]persecutor (EN) : (rz.) prześladowca
+[perseverance]perseverance (EN) : (rz.) wytrwałość
+[persevere]persevere (EN) : (cz.) trwać; (cz.) upierać; (cz.) wytrwać
+[persiflage]persiflage (EN) : (rz.) persyflaż
+[persist]persist (EN) : (cz.) obstawać; (cz.) trwać; (cz.) upierać; (cz.) utrzymywać
+[persistence]persistence (EN) : (rz.) samozaparcie; (rz.) trwałość; (rz.) upór; (rz.) uporczywość; (rz.) wytrwałość; (rz.) wytrwanie; (rz.) wytrzymałość
+[persistency]persistency (EN) : (rz.) samozaparcie; (rz.) trwałość; (rz.) upór; (rz.) uporczywość; (rz.) wytrwałość; (rz.) wytrwanie; (rz.) wytrzymałość
+[persistent]persistent (EN) : (p.) nieustępliwy; (p.) uporczywy; (p.) ustawiczny
+[persistently]persistently (EN) : (p-sł.) uparcie; (p-sł.) uporczywie; (p-sł.) ustawicznie; (p-sł.) wytrwale
+[person]person (EN) : (rz.) bezpaństwowiec; (rz.) indywiduum; (rz.) osoba; (rz.) postać
+[persona]persona (EN) : (rz.) osoba
+[personable]personable (EN) : (p.) przystojny
+[personage]personage (EN) : (rz.) osobistość; (rz.) osobowość; (rz.) postać
+[personal]personal (EN) : (p.) imienny; (p.) indywidualny; (p.) niedyskretny; (p.) osobisty; (p.) osobowy; (p.) personalny; (p.) prywatny
+[personality]personality (EN) : (rz.) indywidualność; (rz.) osobistość; (rz.) osobowość; (rz.) postawa
+[personalization]personalization (EN) : (rz.) personalizacja
+[personalize]personalize (EN) : (cz.) uosabiać
+[personally]personally (EN) : (p-sł.) osobiście
+[personate]personate (EN) : (cz.) przedstawiać; (cz.) występować
+[personification]personification (EN) : (rz.) personifikacja; (rz.) uosobienie
+[personify]personify (EN) : (cz.) personifikować; (cz.) ucieleśniać; (cz.) uosabiać
+[personnel]personnel (EN) : (rz.) biuro; (rz.) kadra; (rz.) kadry; (rz.) personel
+[persons]persons (EN) : (rz.) osoba
+[perspective]perspective (EN) : (rz.) perspektywa; (rz.) podgląd
+[perspicacious]perspicacious (EN) : (p.) bystry; (p.) przenikliwy
+[perspicacity]perspicacity (EN) : (rz.) bystrość; (rz.) przenikliwość
+[perspicuity]perspicuity (EN) : (rz.) jasność; (rz.) zrozumiałość
+[perspicuous]perspicuous (EN) : (p.) jasny; (p.) wyraźny; (p.) zrozumiały
+[perspiration]perspiration (EN) : (rz.) pot; (rz.) poty
+[perspire]perspire (EN) : (cz.) pocić; (cz.) przepacać; (cz.) przepocić; (cz.) wypacać
+[persuade]persuade (EN) : (cz.) nakłonić; (cz.) namawiać; (cz.) perswadować; (cz.) przekonywać; (cz.) wmawiać
+[persuaded]persuaded (EN) : (cz.) namówić
+[persuasion]persuasion (EN) : (rz.) perswazja; (rz.) przekonanie; (rz.) przekonywanie; (rz.) wyznanie
+[persuasions]persuasions (EN) : (rz.) namawianie
+[persuasive]persuasive (EN) : (p.) przekonywający
+[persuasively]persuasively (EN) : (p-sł.) przekonywająco
+[pert]pert (EN) : (p.) arogancki; (p.) bezczelny; (p.) pyskaty; (p.) wyzywający
+[pertain]pertain (EN) : (cz.) dotyczyć; (cz.) należeć; (cz.) odnosić
+[pertinacious]pertinacious (EN) : (p.) uporczywy; (p.) wytrwały
+[pertinacity]pertinacity (EN) : (rz.) upór; (rz.) uporczywość; (rz.) wytrwałość
+[pertinence]pertinence (EN) : (rz.) istotność; (rz.) odpowiedniość; (rz.) słuszność; (rz.) ważkość
+[pertinent]pertinent (EN) : (p.) adekwatny; (p.) celowy; (p.) kompetentny; (p.) odnośny; (p.) odpowiedni; (p.) stosowny
+[pertly]pertly (EN) : (p-sł.) impertynencko; (p-sł.) odpowiednio
+[pertness]pertness (EN) : (rz.) trafność
+[perturb]perturb (EN) : (cz.) niepokoić; (cz.) przeszkadzać; (cz.) zakłócać; (cz.) zaniepokoić; (cz.) zatrwożyć
+[perturbation]perturbation (EN) : (rz.) niepokój; (rz.) perturbacja; (rz.) popłoch; (rz.) zakłócenie; (rz.) zamieszanie
+[perusal]perusal (EN) : (rz.) oględziny; (rz.) przeglądanie; (rz.) przestudiowanie
+[peruse]peruse (EN) : (cz.) czytać; (cz.) przeczytać; (cz.) przeglądać
+[pervade]pervade (EN) : (cz.) napełniać; (cz.) nurtować; (cz.) ogarniać; (cz.) owładnąć; (cz.) przenikać; (cz.) szerzyć
+[pervasion]pervasion (EN) : (rz.) nurtowanie; (rz.) szerzenie
+[pervasive]pervasive (EN) : (p.) przenikliwy; (p.) szeroki
+[perverse]perverse (EN) : (p.) perwersyjny; (p.) przekorny; (p.) przewrotny; (p.) zboczony
+[perversely]perversely (EN) : (p-sł.) przewrotnie
+[perverseness]perverseness (EN) : (rz.) perwersja; (rz.) przewrotność; (rz.) upór
+[perversion]perversion (EN) : (rz.) perwersja; (rz.) przekręcenie; (rz.) spaczenie; (rz.) zboczenie
+[perversity]perversity (EN) : (rz.) perwersja; (rz.) perwersyjność; (rz.) przekora; (rz.) przewrotność
+[pervert]pervert (EN) : (cz.) demoralizować; (cz.) deprawować; (cz.) psuć; (cz.) wypaczyć; (cz.) zdemoralizować; (rz.) renegat; (rz.) zboczeniec
+[pervious]pervious (EN) : (p.) przepuszczalny
+[peseta]peseta (EN) : (rz.) peseta
+[pesewa]pesewa (EN) : (rz.) poszewka
+[pesky]pesky (EN) : (p.) dokuczliwy; (p.) natrętny
+[pessimism]pessimism (EN) : (rz.) pesymizm; (rz.) zwątpienie
+[pessimist]pessimist (EN) : (rz.) pesymista
+[pessimistic]pessimistic (EN) : (p.) pesymistyczny
+[pest]pest (EN) : (rz.) dżuma; (rz.) plaga; (rz.) szkodnik; (rz.) zaraza
+[pester]pester (EN) : (cz.) dokuczać; (cz.) dręczyć; (cz.) trapić; (cz.) wypraszać
+[pesticide]pesticide (EN) : (rz.) pestycyd
+[pestiferous]pestiferous (EN) : (p.) morowy
+[pestilence]pestilence (EN) : (rz.) epidemia; (rz.) zaraza
+[pestilent]pestilent (EN) : (p.) morowy; (p.) szkodliwy; (p.) zaraźliwy
+[pestilential]pestilential (EN) : (p.) morowy; (p.) nieznośny; (p.) szkodliwy; (p.) zaraźliwy
+[pestle]pestle (EN) : (cz.) tłuc; (rz.) tłuczek
+[pet]pet (EN) : (cz.) pieścić; (rz.) obraza; (rz.) pieszczoch; (rz.) ulubieniec
+[petal]petal (EN) : (rz.) płatek
+[petard]petard (EN) : (rz.) petarda
+[peter]peter (EN) : (rz.) kończenie
+[petiole]petiole (EN) : (rz.) ogonek
+[petite]petite (EN) : (p.) drobny
+[petition]petition (EN) : (rz.) petycja; (rz.) podanie; (rz.) pozew; (rz.) prośba
+[petitioner]petitioner (EN) : (rz.) petent; (rz.) powód; (rz.) wnioskodawca
+[petrifaction]petrifaction (EN) : (rz.) skamieniałość; (rz.) skamienienie
+[petrify]petrify (EN) : (cz.) osłupieć; (cz.) paraliżować; (cz.) petryfikować; (cz.) skamienieć
+[petrochemical]petrochemical (EN) : (p.) petrochemiczny
+[petrodollar]petrodollar (EN) : (rz.) petrodolar
+[petrography]petrography (EN) : (rz.) petrografia
+[petrol]petrol (EN) : (rz.) benzyna; (rz.) gazolina
+[petrol-can]petrol-can (EN) : (rz.) blaszanka
+[petrolatum]petrolatum (EN) : (rz.) wazelina
+[petroleum]petroleum (EN) : (rz.) nafta; (rz.) ropa
+[petrology]petrology (EN) : (rz.) petrologia
+[petticoat]petticoat (EN) : (rz.) białogłowa; (rz.) dessous; (rz.) halka
+[pettifogger]pettifogger (EN) : (rz.) awanturnik; (rz.) krętacz; (rz.) pieniacz
+[pettifogging]pettifogging (EN) : (p.) krętacki; (p.) pieniacki
+[pettily]pettily (EN) : (p-sł.) małostkowo
+[pettiness]pettiness (EN) : (rz.) drobność; (rz.) małostkowość
+[petting]petting (EN) : (rz.) pieszczenie
+[pettish]pettish (EN) : (p.) drażliwy; (p.) opryskliwy
+[petty]petty (EN) : (p.) błahy; (p.) drobny; (p.) małostkowy; (p.) nieistotny
+[petulance]petulance (EN) : (rz.) drażliwość; (rz.) napastliwość; (rz.) opryskliwość; (rz.) rozdrażnienie
+[petulant]petulant (EN) : (p.) opryskliwy
+[petunia]petunia (EN) : (rz.) petunia; (rz.) purpura
+[pew]pew (EN) : (rz.) krzesło; (rz.) ławka
+[pewit]pewit (EN) : (rz.) czajka
+[pewter]pewter (EN) : (rz.) cyna
+[pfennig]pfennig (EN) : (rz.) fenig
+[phagocyte]phagocyte (EN) : (rz.) fagocyt
+[phalange]phalange (EN) : (rz.) falanga; (rz.) gromada
+[phalanx]phalanx (EN) : (rz.) falanga
+[phallic]phallic (EN) : (p.) falliczny
+[phallus]phallus (EN) : (rz.) fallus; (rz.) prącie
+[phantasm]phantasm (EN) : (rz.) przywidzenie; (rz.) zjawa
+[phantasmagoria]phantasmagoria (EN) : (rz.) fantasmagoria
+[phantom]phantom (EN) : (rz.) fantom; (rz.) majak; (rz.) ułuda; (rz.) widmo; (rz.) widziadło; (rz.) zjawa
+[pharaoh]pharaoh (EN) : (rz.) faraon
+[pharmaceutical]pharmaceutical (EN) : (p.) apteczny; (p.) farmaceutyczny; (p.) farmakologiczny
+[pharmaceuticals]pharmaceuticals (EN) : (rz.) farmaceutyka
+[pharmaceutics]pharmaceutics (EN) : (rz.) farmacja; (rz.) lekoznawstwo
+[pharmacist]pharmacist (EN) : (rz.) aptekarz; (rz.) farmaceuta
+[pharmacological]pharmacological (EN) : (p.) farmakologiczny
+[pharmacologist]pharmacologist (EN) : (rz.) farmakolog
+[pharmacology]pharmacology (EN) : (rz.) farmacja; (rz.) farmakologia
+[pharmacopoeia]pharmacopoeia (EN) : (rz.) farmakopea; (rz.) lekospis
+[pharmacotherapy]pharmacotherapy (EN) : (rz.) farmakoterapia
+[pharmacy]pharmacy (EN) : (rz.) apteka; (rz.) aptekarstwo; (rz.) farmacja; (rz.) farmakologia
+[pharyngeal]pharyngeal (EN) : (p.) gardłowy
+[pharynx]pharynx (EN) : (rz.) gardło; (rz.) krtań
+[phase]phase (EN) : (rz.) etap; (rz.) faza; (rz.) stadium
+[pheasant]pheasant (EN) : (rz.) bażant
+[phenol]phenol (EN) : (rz.) fenol
+[phenolphthalein]phenolphthalein (EN) : (rz.) fenoloftaleina; (rz.) fenomenologia
+[phenomenal]phenomenal (EN) : (p.) fenomenalny; (p.) zjawiskowy
+[phenomenally]phenomenally (EN) : (p-sł.) fenomenalnie
+[phenomenology]phenomenology (EN) : (rz.) fenomenologia
+[phenomenon]phenomenon (EN) : (rz.) fenomen; (rz.) zjawisko
+[phenotype]phenotype (EN) : (rz.) fenotyp
+[phenyl]phenyl (EN) : (rz.) fenyl
+[phial]phial (EN) : (rz.) fiolka; (rz.) flakonik; (rz.) flaszeczka
+[philanderer]philanderer (EN) : (rz.) bałamut; (rz.) flirciarz
+[philanthropic]philanthropic (EN) : (p.) filantropijny
+[philanthropist]philanthropist (EN) : (rz.) filantrop
+[philanthropy]philanthropy (EN) : (rz.) dobroczynność; (rz.) filantropia
+[philatelist]philatelist (EN) : (rz.) filatelista
+[philately]philately (EN) : (rz.) filatelistyka
+[philharmonic]philharmonic (EN) : (p.) filharmoniczny; (p.) filharmonijny
+[philippic]philippic (EN) : (rz.) filipika
+[philistine]philistine (EN) : (rz.) filister; (rz.) mieszczanin; (rz.) mieszczuch
+[philistinism]philistinism (EN) : (rz.) kołtuneria
+[philodendron]philodendron (EN) : (rz.) filodendron
+[philological]philological (EN) : (p.) filologiczny
+[philologist]philologist (EN) : (rz.) filolog
+[philology]philology (EN) : (rz.) filologia
+[philosopher]philosopher (EN) : (rz.) filozof
+[philosophers]philosophers (EN) : (rz.) filozofowanie
+[philosophic]philosophic (EN) : (p.) filozoficzny
+[philosophical]philosophical (EN) : (p.) filozoficzny
+[philosophically]philosophically (EN) : (p-sł.) filozoficznie
+[philosophise]philosophise (EN) : (rz.) filozofowanie
+[philosophize]philosophize (EN) : (cz.) filozofować
+[philosophy]philosophy (EN) : (rz.) etyka; (rz.) filozofia
+[phlegm]phlegm (EN) : (rz.) flegma; (rz.) śluz
+[phlegmatic]phlegmatic (EN) : (p.) flegmatyczny; (p.) powolny; (p.) śluzowy
+[phloem]phloem (EN) : (rz.) łyko
+[phlox]phlox (EN) : (rz.) floks
+[phobia]phobia (EN) : (rz.) fobia; (rz.) lęk
+[phoenix]phoenix (EN) : (rz.) feniks
+[phonation]phonation (EN) : (rz.) fonacja
+[phone]phone (EN) : (cz.) dzwonić; (cz.) telefonować; (rz.) głoska; (rz.) telefon
+[phoneme]phoneme (EN) : (rz.) fonem
+[phonetic]phonetic (EN) : (p.) fonetyczny
+[phonetically]phonetically (EN) : (p-sł.) fonetycznie
+[phonetician]phonetician (EN) : (rz.) fonetyk
+[phonetics]phonetics (EN) : (rz.) fonetyka; (rz.) głosownia
+[phoney]phoney (EN) : (p.) fałszywy; (p.) nieprawdziwy; (p.) sztuczny
+[phonic]phonic (EN) : (p.) dźwiękowy; (p.) foniczny
+[phonogram]phonogram (EN) : (rz.) fonogram
+[phonograph]phonograph (EN) : (rz.) fonograf; (rz.) gramofon
+[phonographic]phonographic (EN) : (p.) fonograficzny
+[phonological]phonological (EN) : (p.) fonologiczny
+[phonology]phonology (EN) : (rz.) fonologia
+[phonon]phonon (EN) : (rz.) fonon
+[phosgene]phosgene (EN) : (rz.) fosgen
+[phosphate]phosphate (EN) : (p.) fosforanowy; (rz.) fosfat; (rz.) fosforan
+[phosphates]phosphates (EN) : (rz.) fosforan
+[phosphor]phosphor (EN) : (rz.) fosfor; (rz.) luminofor
+[phosphoresce]phosphoresce (EN) : (cz.) fosforyzować
+[phosphorescence]phosphorescence (EN) : (rz.) fosforescencja; (rz.) fosforyczność; (rz.) poświata
+[phosphorescent]phosphorescent (EN) : (p.) fosforyczny; (p.) fosforyzujący
+[phosphoric]phosphoric (EN) : (p.) fosforowy
+[phosphorous]phosphorous (EN) : (p.) fosforawy; (p.) fosforowy
+[phosphorus]phosphorus (EN) : (rz.) fosfor
+[phosphorus-32]phosphorus-32 (EN) : (rz.) radiofosfor
+[photo]photo (EN) : (rz.) fotka; (rz.) foto; (rz.) fotografia; (rz.) fotokatoda; (rz.) fotomontaż; (rz.) fotoreportaż; (rz.) zdjęcie
+[photo-cell]photo-cell (EN) : (rz.) fotokomórka
+[photo-montage]photo-montage (EN) : (rz.) fotomontaż
+[photo-mounting]photo-mounting (EN) : (rz.) fotomontaż
+[photoactive]photoactive (EN) : (p.) światłoczuły
+[photocathode]photocathode (EN) : (rz.) fotokatoda
+[photocell]photocell (EN) : (rz.) fotokomórka
+[photochemical]photochemical (EN) : (p.) fotochemiczny
+[photochemistry]photochemistry (EN) : (rz.) fotochemia
+[photocomposition]photocomposition (EN) : (rz.) fotoskład
+[photoconduction]photoconduction (EN) : (rz.) fotoprzewodnictwo
+[photoconductor]photoconductor (EN) : (rz.) fotoprzewodnik
+[photocopier]photocopier (EN) : (rz.) fotokopiarka; (rz.) kopiarka; (rz.) ksero
+[photocopy]photocopy (EN) : (rz.) fotokopia; (rz.) kserokopia
+[photodecomposition]photodecomposition (EN) : (rz.) fotoliza
+[photodiode]photodiode (EN) : (rz.) fotodioda
+[photoelectric]photoelectric (EN) : (p.) fotoelektryczny
+[photoelectron]photoelectron (EN) : (rz.) fotoelektron
+[photoemission]photoemission (EN) : (rz.) fotoemisja
+[photoengraving]photoengraving (EN) : (rz.) chemigrafia
+[photogenic]photogenic (EN) : (p.) fotogeniczny
+[photogram]photogram (EN) : (rz.) fotografia
+[photograph]photograph (EN) : (cz.) fotografować; (cz.) sfotografować; (rz.) fotografia; (rz.) zdjęcie
+[photographer]photographer (EN) : (rz.) fotograf; (rz.) fotografik; (rz.) fotografika
+[photographic]photographic (EN) : (p.) fotograficzny
+[photographically]photographically (EN) : (p-sł.) fotograficznie
+[photography]photography (EN) : (rz.) fotografia; (rz.) fotografika; (rz.) fotografowanie
+[photogravure]photogravure (EN) : (rz.) fotograwiura; (rz.) heliograwiura
+[photojournalism]photojournalism (EN) : (rz.) fotoreportaż
+[photojournalist]photojournalist (EN) : (rz.) fotoreporter
+[photolithography]photolithography (EN) : (rz.) fotolitografia
+[photoluminescence]photoluminescence (EN) : (rz.) fotoluminescencja
+[photolysis]photolysis (EN) : (rz.) fotoliza
+[photomechanical]photomechanical (EN) : (p.) fotomechaniczny
+[photometer]photometer (EN) : (rz.) fotometr; (rz.) światłomierz
+[photometric]photometric (EN) : (p.) fotometryczny
+[photometry]photometry (EN) : (rz.) fotometria
+[photomicrography]photomicrography (EN) : (rz.) fotomikrografia
+[photomultiplier]photomultiplier (EN) : (rz.) fotopowielacz
+[photon]photon (EN) : (rz.) foton; (rz.) lumityp
+[photophobia]photophobia (EN) : (rz.) światłowstręt
+[photophobic]photophobic (EN) : (p.) cieniolubny
+[photosensitive]photosensitive (EN) : (p.) światłoczuły
+[photosensitivity]photosensitivity (EN) : (rz.) światłoczułość
+[photosphere]photosphere (EN) : (rz.) fotosfera
+[photosynthesis]photosynthesis (EN) : (rz.) fotosynteza
+[phototherapy]phototherapy (EN) : (rz.) fototerapia; (rz.) światłolecznictwo
+[phototransistor]phototransistor (EN) : (rz.) fototranzystor
+[phototypesetting]phototypesetting (EN) : (rz.) fotoskład
+[phototypography]phototypography (EN) : (rz.) fototypia; (rz.) światłodruk
+[photovoltaic]photovoltaic (EN) : (p.) fotowoltaiczny
+[phrasal]phrasal (EN) : (p.) frazowy
+[phrase]phrase (EN) : (cz.) frazować; (rz.) fraza; (rz.) określenie; (rz.) wyrażenie; (rz.) zwrot
+[phraseology]phraseology (EN) : (rz.) frazeologia
+[phrenologist]phrenologist (EN) : (rz.) frenolog
+[phrenology]phrenology (EN) : (rz.) frenologia
+[phthisis]phthisis (EN) : (rz.) gruźlica; (rz.) wyniszczenie; (rz.) zanik
+[phylogeny]phylogeny (EN) : (rz.) filogeneza; (rz.) filogenia
+[phylum]phylum (EN) : (rz.) gromada
+[physic]physic (EN) : (rz.) lekarstwo; (rz.) medycyna
+[physical]physical (EN) : (p.) cielesny; (p.) fizyczny; (p.) fizykalny; (p.) materialny
+[physicality]physicality (EN) : (rz.) fizyczność
+[physically]physically (EN) : (p-sł.) fizycznie
+[physicals]physicals (EN) : (p.) fizyczny
+[physician]physician (EN) : (rz.) lekarz
+[physicist]physicist (EN) : (rz.) fizyk
+[physics]physics (EN) : (rz.) fizyk; (rz.) fizyka; (rz.) genetyka
+[physiognomic]physiognomic (EN) : (p.) fizjonomiczny
+[physiognomy]physiognomy (EN) : (rz.) fizjonomia
+[physiological]physiological (EN) : (p.) fizjologiczny
+[physiologically]physiologically (EN) : (p-sł.) fizjologicznie
+[physiologist]physiologist (EN) : (rz.) fizjolog
+[physiology]physiology (EN) : (rz.) fizjologia
+[physiotherapist]physiotherapist (EN) : (rz.) fizjoterapeuta; (rz.) fizykoterapeuta
+[physiotherapy]physiotherapy (EN) : (rz.) fizjoterapia; (rz.) fizykoterapia; (rz.) przyrodolecznictwo
+[physique]physique (EN) : (rz.) wygląd
+[phytoplankton]phytoplankton (EN) : (rz.) fitoplankton
+[pi-cell]pi-cell (EN) : (rz.) polaryzator
+[pi-meson]pi-meson (EN) : (rz.) pion
+[pianist]pianist (EN) : (rz.) pianista
+[piano]piano (EN) : (p.) fortepianowy; (p.) pianistyczny; (rz.) fortepian; (rz.) pianino
+[pianoforte]pianoforte (EN) : (rz.) fortepian
+[piazza]piazza (EN) : (rz.) dziedziniec; (rz.) plac
+[pica]pica (EN) : (rz.) cycero; (rz.) pica
+[picador]picador (EN) : (rz.) pikador
+[picaresque]picaresque (EN) : (p.) łotrzykowski
+[picayune]picayune (EN) : (rz.) bagatela; (rz.) moneta
+[piccolo]piccolo (EN) : (rz.) pikolo; (rz.) pikulina
+[pick]pick (EN) : (cz.) kopać; (cz.) odbierać; (cz.) ryć; (cz.) skubać; (cz.) sortować; (cz.) wybierać; (cz.) wybrać; (cz.) wydłubać; (cz.) wypróżniać; (cz.) wystrzelać; (cz.) zbierać; (cz.) zerwać; (cz.) zrywać; (rz.) czekan; (rz.) kilof; (rz.) motyka; (rz.) szpicak
+[pick-up]pick-up (EN) : (rz.) zbieracz; (rz.) zryw
+[pickaxe]pickaxe (EN) : (rz.) kilof; (rz.) oskard
+[picked]picked (EN) : (p.) doborowy
+[picker]picker (EN) : (rz.) kołek; (rz.) palowanie; (rz.) patrolowanie; (rz.) pikieta; (rz.) pikietowanie; (rz.) zbieracz
+[picket]picket (EN) : (cz.) pikietować; (rz.) kołek; (rz.) oddział; (rz.) pal; (rz.) palik; (rz.) pikieta; (rz.) szpica
+[picketing]picketing (EN) : (rz.) palikowanie; (rz.) pikietowanie
+[picking]picking (EN) : (rz.) ogryzienie; (rz.) przebieranie; (rz.) wybieranie
+[pickle]pickle (EN) : (cz.) bejcować; (cz.) kisić; (cz.) marynować; (cz.) peklować; (cz.) zabejcować; (cz.) zasolić; (rz.) korniszon; (rz.) łobuz; (rz.) marynata; (rz.) zalewa
+[pickled]pickled (EN) : (p.) konserwowy
+[picklock]picklock (EN) : (rz.) włamywacz; (rz.) wytrych
+[pickpocket]pickpocket (EN) : (rz.) kieszonkowiec
+[pickup]pickup (EN) : (rz.) adapter; (rz.) ciężarówka; (rz.) czujnik; (rz.) podbieracz; (rz.) półciężarówka; (rz.) przetwornik; (rz.) przyśpieszenie; (rz.) transduktor; (rz.) zryw
+[picky]picky (EN) : (p.) czepliwy
+[picnic]picnic (EN) : (rz.) altana; (rz.) majówka; (rz.) piknik
+[picot]picot (EN) : (rz.) pikotka
+[picric]picric (EN) : (p.) pikrynowy
+[pictogram]pictogram (EN) : (rz.) piktogram
+[pictograph]pictograph (EN) : (rz.) piktogram
+[pictography]pictography (EN) : (rz.) piktografia
+[pictorial]pictorial (EN) : (p.) ilustrowany; (p.) malarski; (p.) malowniczy; (p.) obrazowy; (p.) poglądowy
+[picture]picture (EN) : (cz.) malować; (cz.) namalować; (cz.) obrazować; (rz.) film; (rz.) ilustracja; (rz.) malowanka; (rz.) obraz; (rz.) opis; (rz.) portret; (rz.) rycina; (rz.) wizerunek; (rz.) wizja; (rz.) zdjęcie
+[picturesque]picturesque (EN) : (p.) malowniczy
+[picturesquely]picturesquely (EN) : (p-sł.) malowniczo
+[piddle]piddle (EN) : (cz.) siusiać
+[pidgin]pidgin (EN) : (rz.) żargon
+[pie]pie (EN) : (rz.) ciasto; (rz.) pasztet; (rz.) pieróg; (rz.) pierożek; (rz.) placek; (rz.) sroka; (rz.) szarlotka
+[piebald]piebald (EN) : (p.) łaciaty; (p.) pstry; (p.) srokaty
+[piece]piece (EN) : (cz.) łatać; (cz.) naddać; (rz.) część; (rz.) działo; (rz.) egzemplarz; (rz.) kawał; (rz.) kawałek; (rz.) moneta; (rz.) pionek; (rz.) płat; (rz.) sztuka
+[piece-work]piece-work (EN) : (rz.) akord
+[pieces]pieces (EN) : (cz.) kawałkować
+[pied]pied (EN) : (p.) pstrokaty
+[piedmont]piedmont (EN) : (rz.) podgórze
+[pier]pier (EN) : (rz.) filar; (rz.) grobla; (rz.) molo; (rz.) pomost; (rz.) przystań; (rz.) wał
+[pierce]pierce (EN) : (cz.) kłuć; (cz.) przebić; (cz.) przebijać; (cz.) przedziurawiać; (cz.) przekłuć; (cz.) przekłuwać; (cz.) przenikać; (cz.) prześwidrować; (cz.) przeszywać; (cz.) przewiercać
+[piercing]piercing (EN) : (p.) ostry; (p.) przenikliwy; (p.) wrzaskliwy; (rz.) dziurkowanie; (rz.) przebicie; (rz.) przebijanie; (rz.) przedziurawianie; (rz.) przedziurawienie
+[piercingly]piercingly (EN) : (p-sł.) przeszywająco
+[pietism]pietism (EN) : (rz.) pietyzm
+[pietistic]pietistic (EN) : (p.) pietystyczny
+[piety]piety (EN) : (rz.) nabożność; (rz.) pietyzm; (rz.) pobożność
+[piezoelectric]piezoelectric (EN) : (p.) piezoelektryczny
+[piezoelectricity]piezoelectricity (EN) : (rz.) piezoelektryczność
+[piffling]piffling (EN) : (p.) bzdurny
+[pig]pig (EN) : (cz.) oprosić; (rz.) paskuda; (rz.) paskudnik; (rz.) prosiak; (rz.) surówka; (rz.) świnia; (rz.) świniak; (rz.) wieprz
+[pig's]pig's (EN) : (p.) wieprzowy
+[pig-iron]pig-iron (EN) : (rz.) surówka; (rz.) żeliwo
+[pigeon]pigeon (EN) : (rz.) gołąb; (rz.) gołąbek
+[pigeon-hearted]pigeon-hearted (EN) : (p.) bojaźliwy
+[pigeon-home]pigeon-home (EN) : (rz.) gołębnik
+[pigeonhole]pigeonhole (EN) : (cz.) szufladkować
+[piggery]piggery (EN) : (rz.) chlewnia
+[piggish]piggish (EN) : (p.) brudny; (p.) wstrętny
+[piggy]piggy (EN) : (rz.) świnka
+[piggybank]piggybank (EN) : (rz.) skarbonka
+[pigheaded]pigheaded (EN) : (p.) głupi
+[piglet]piglet (EN) : (rz.) prosiak; (rz.) prosię; (rz.) warchlak
+[pigment]pigment (EN) : (rz.) barwnik; (rz.) pigment
+[pigmentation]pigmentation (EN) : (rz.) pigmentacja
+[pigmy]pigmy (EN) : (rz.) karzeł; (rz.) pigmej
+[pigpen]pigpen (EN) : (rz.) chlew
+[pigs]pigs (EN) : (rz.) golonka
+[pigsty]pigsty (EN) : (rz.) chlew; (rz.) kaszt; (rz.) śmietnik; (rz.) stos
+[pigswill]pigswill (EN) : (rz.) pomyje
+[pigtail]pigtail (EN) : (rz.) kucyk; (rz.) warkocz; (rz.) warkoczyk
+[pigwash]pigwash (EN) : (rz.) pomyje
+[pigweed]pigweed (EN) : (rz.) lebioda
+[pike]pike (EN) : (rz.) oskard; (rz.) pika; (rz.) szczupak; (rz.) włócznia
+[piker]piker (EN) : (rz.) sknera; (rz.) spekulant
+[pilaf]pilaf (EN) : (rz.) pilaw
+[pilaster]pilaster (EN) : (rz.) filar; (rz.) pilastr
+[pilchard]pilchard (EN) : (rz.) sardela; (rz.) sardynka
+[pile]pile (EN) : (cz.) pałować; (rz.) blok; (rz.) kupa; (rz.) palowanie; (rz.) pryzma; (rz.) sierść; (rz.) słup; (rz.) sterta; (rz.) stos
+[pile-up]pile-up (EN) : (rz.) nagromadzenie; (rz.) nawarstwienie; (rz.) skupienie; (rz.) spiętrzenie
+[pileup]pileup (EN) : (rz.) nagromadzenie
+[pilfer]pilfer (EN) : (cz.) plądrować; (cz.) zwędzić
+[pilferage]pilferage (EN) : (rz.) podkradanie; (rz.) wykradanie
+[pilgrim]pilgrim (EN) : (rz.) pątnik; (rz.) pielgrzym; (rz.) wędrowiec
+[pilgrimage]pilgrimage (EN) : (rz.) pielgrzymka; (rz.) wędrówka
+[piling]piling (EN) : (rz.) palowanie
+[piling-up]piling-up (EN) : (rz.) nagromadzenie; (rz.) spiętrzenie
+[pill]pill (EN) : (rz.) drażetka; (rz.) pigułka; (rz.) proszek
+[pillage]pillage (EN) : (cz.) rabować; (cz.) splądrować; (rz.) łupiestwo; (rz.) rabunek
+[pillar]pillar (EN) : (rz.) filar; (rz.) lęgnia; (rz.) lęgnięcie; (rz.) słup
+[pillbox]pillbox (EN) : (rz.) bunkier; (rz.) pudełko
+[pillion]pillion (EN) : (rz.) siodełko
+[pillory]pillory (EN) : (rz.) dyby; (rz.) pręgierz
+[pillow]pillow (EN) : (rz.) poduszka
+[pillow-case]pillow-case (EN) : (rz.) poszewka; (rz.) poszwa; (rz.) powłoczka
+[pillow-slip]pillow-slip (EN) : (rz.) poszewka; (rz.) poszwa
+[pillowcase]pillowcase (EN) : (rz.) podszewka; (rz.) poszewka; (rz.) poszwa; (rz.) powłoczka
+[pillowslip]pillowslip (EN) : (rz.) poszewka; (rz.) poszwa
+[pilot]pilot (EN) : (cz.) pilotować; (cz.) sterować; (rz.) lotnik; (rz.) pilot; (rz.) pilotaż; (rz.) pilotka; (rz.) sternik
+[pilot-fish]pilot-fish (EN) : (rz.) pilot
+[pilothouse]pilothouse (EN) : (rz.) sterówka; (rz.) sterownia
+[piloting]piloting (EN) : (rz.) modelowanie; (rz.) pilotowanie
+[pimp]pimp (EN) : (cz.) stręczyć; (rz.) alfons; (rz.) rajfur; (rz.) stręczyciel; (rz.) sutener
+[pimpernel]pimpernel (EN) : (rz.) kurzyślad
+[pimple]pimple (EN) : (rz.) krosta; (rz.) pęcherzyk; (rz.) pryszcz; (rz.) zachciewajka
+[pimpled]pimpled (EN) : (p.) krostowaty; (p.) pryszczaty
+[pimply]pimply (EN) : (p.) pryszczaty
+[pin]pin (EN) : (cz.) przyczepiać; (cz.) przyczepić; (cz.) przygwoździć; (cz.) przymocować; (cz.) przypiąć; (cz.) zawlekać; (rz.) bolec; (rz.) igła; (rz.) kołek; (rz.) odznaka; (rz.) pinezka; (rz.) spinka; (rz.) szpila; (rz.) szpilka; (rz.) sztyft
+[pinafore]pinafore (EN) : (rz.) bezrękawnik; (rz.) fartuch
+[pince-nez]pince-nez (EN) : (rz.) binokle
+[pincer]pincer (EN) : (rz.) cęgi; (rz.) pęseta; (rz.) szczypce
+[pincers]pincers (EN) : (rz.) cążki; (rz.) cęgi; (rz.) kleszcze; (rz.) obcęgi; (rz.) szczypce
+[pinch]pinch (EN) : (cz.) cisnąć; (cz.) dokuczać; (cz.) naściągać; (cz.) podwędzić; (cz.) przyskrzynić; (cz.) szczypać; (cz.) ugniatać; (cz.) ukraść; (rz.) niuch; (rz.) ściśnięcie; (rz.) szczypanie; (rz.) szczypnięcie; (rz.) szczypta; (rz.) ucisk; (rz.) uszczypnięcie; (rz.) zaciśnięcie
+[pinchbeck]pinchbeck (EN) : (rz.) tombak
+[pincushion]pincushion (EN) : (rz.) igielnik
+[pine]pine (EN) : (cz.) marnieć; (cz.) schnąć; (cz.) tęsknić; (rz.) choina; (rz.) choinka; (rz.) sosna
+[pineal]pineal (EN) : (p.) szyszkowaty
+[pineapple]pineapple (EN) : (rz.) ananas
+[pinecone]pinecone (EN) : (rz.) szyszka
+[ping]ping (EN) : (cz.) gwizdać; (rz.) uderzenie
+[pinhole]pinhole (EN) : (rz.) nakłucie; (rz.) punkt
+[pinion]pinion (EN) : (cz.) wiązać; (rz.) lotka; (rz.) pinia; (rz.) zębnik
+[pink]pink (EN) : (cz.) ażurować; (cz.) dziurkować; (cz.) przebijać; (cz.) zaróżowić; (p.) różowy; (rz.) dziurkarka; (rz.) goździk; (rz.) róż
+[pinkish]pinkish (EN) : (p.) różowawy
+[pinnacle]pinnacle (EN) : (cz.) zwieńczać; (rz.) pinakiel; (rz.) sterczyna; (rz.) szczyt; (rz.) wierzchołek; (rz.) wieżyczka
+[pinnate]pinnate (EN) : (p.) pierzasty
+[pinner]pinner (EN) : (rz.) czapka
+[pinpoint]pinpoint (EN) : (cz.) lokalizować; (cz.) precyzować; (cz.) sprecyzować; (p.) dokładny; (rz.) bagatela
+[pinscher]pinscher (EN) : (rz.) pinczer
+[pint]pint (EN) : (rz.) kwaterka; (rz.) porcja
+[pinto]pinto (EN) : (p.) łaciaty; (p.) srokaty
+[pinworm]pinworm (EN) : (rz.) owsik
+[piny]piny (EN) : (p.) sosnowy
+[pioneer]pioneer (EN) : (rz.) pionier; (rz.) pionierstwo; (rz.) torowanie
+[pioneering]pioneering (EN) : (p.) pionierski; (rz.) pionierstwo; (rz.) torowanie
+[pious]pious (EN) : (p.) bogobojny; (p.) nabożny; (p.) pobożny; (p.) zbożny
+[pip]pip (EN) : (cz.) balotować; (cz.) piszczeć; (cz.) postrzelić; (rz.) gwiazdka; (rz.) pestka; (rz.) pypeć; (rz.) ziarnko; (rz.) znak
+[pip-squeak]pip-squeak (EN) : (rz.) zero
+[pipe]pipe (EN) : (cz.) skanalizować; (cz.) świstać; (rz.) duda; (rz.) dudka; (rz.) fajka; (rz.) fujara; (rz.) fujarka; (rz.) lulka; (rz.) piszczałka; (rz.) potok; (rz.) rura; (rz.) rurka
+[pipefish]pipefish (EN) : (rz.) iglicznia
+[pipeline]pipeline (EN) : (rz.) gazociąg; (rz.) potok; (rz.) rurociąg
+[pipelined]pipelined (EN) : (p.) potokowy
+[piper]piper (EN) : (rz.) dudziarz; (rz.) kobziarz
+[pipette]pipette (EN) : (rz.) pipeta; (rz.) pipetka
+[piping]piping (EN) : (rz.) kanalizacja; (rz.) rurociąg
+[pipit]pipit (EN) : (rz.) świergotek
+[pippin]pippin (EN) : (rz.) reneta
+[pipsqueak]pipsqueak (EN) : (rz.) maluch; (rz.) zero
+[piquancy]piquancy (EN) : (rz.) pikantność
+[piquant]piquant (EN) : (p.) pikantny
+[piquantly]piquantly (EN) : (p-sł.) pikantnie
+[pique]pique (EN) : (cz.) dotknąć; (cz.) obrażać; (cz.) obrazić; (cz.) podrażniać; (cz.) podrażnić; (cz.) ukłuć; (cz.) zaciekawić; (rz.) obraza; (rz.) podrażnienie; (rz.) uraza
+[piquet]piquet (EN) : (rz.) pikieta
+[piracy]piracy (EN) : (rz.) kaptaż; (rz.) korsarstwo; (rz.) piractwo
+[piranha]piranha (EN) : (rz.) pirania
+[pirate]pirate (EN) : (rz.) korsarz; (rz.) pirat; (rz.) plagiator; (rz.) plagiatorstwo; (rz.) rozbójnik
+[piratical]piratical (EN) : (p.) korsarski; (p.) piracki
+[pirogue]pirogue (EN) : (rz.) młynek; (rz.) piroga; (rz.) piruet
+[pirouette]pirouette (EN) : (cz.) obracać; (rz.) piruet
+[piscatorial]piscatorial (EN) : (p.) rybacki; (p.) wędkarski
+[pismire]pismire (EN) : (rz.) mrówka
+[piss]piss (EN) : (cz.) odlać; (cz.) odlewać; (cz.) sikać; (cz.) siusiać; (cz.) szczać; (rz.) mocz; (rz.) sikanie
+[pistachio]pistachio (EN) : (rz.) pistacja
+[pistil]pistil (EN) : (rz.) słupek
+[pistol]pistol (EN) : (rz.) pistolet
+[piston]piston (EN) : (rz.) prasa; (rz.) recenzja; (rz.) tłok
+[pit]pit (EN) : (cz.) dołować; (rz.) dół; (rz.) dziura; (rz.) jama; (rz.) kopalnia; (rz.) kopalnie; (rz.) parter; (rz.) pestka; (rz.) szyb; (rz.) wądół; (rz.) wykop
+[pitch]pitch (EN) : (cz.) cisnąć; (cz.) rozbijać; (cz.) rzucać; (cz.) rzucić; (cz.) smolić; (cz.) smołować; (cz.) spaść; (cz.) stroić; (cz.) zazębiać; (rz.) boisko; (rz.) nachylenie; (rz.) pak; (rz.) pąk; (rz.) podziałka; (rz.) poziom; (rz.) śmigła; (rz.) smoła; (rz.) spadek; (rz.) tonacja; (rz.) wysokość
+[pitchblende]pitchblende (EN) : (rz.) uraninit
+[pitched]pitched (EN) : (p.) smołowy
+[pitcher]pitcher (EN) : (rz.) dzban; (rz.) miotacz
+[pitchfork]pitchfork (EN) : (rz.) kamerton; (rz.) widły
+[pitchman]pitchman (EN) : (rz.) straganiarz
+[pitchstone]pitchstone (EN) : (rz.) smołowiec
+[pitchy]pitchy (EN) : (p.) smolisty; (p.) smolny
+[piteous]piteous (EN) : (p.) nędzny; (p.) żałosny
+[pitfall]pitfall (EN) : (rz.) niebezpieczeństwo; (rz.) pułapka; (rz.) zagrożenie
+[pith]pith (EN) : (rz.) miękisz; (rz.) rdzeń; (rz.) szpik
+[pithead]pithead (EN) : (rz.) szyb
+[pithier]pithier (EN) : (p.) rdzeniowy
+[pithiest]pithiest (EN) : (p.) rdzeniowy; (p.) szpikowy
+[pithy]pithy (EN) : (p.) celny; (p.) energiczny; (p.) lapidarny; (p.) rdzeniowy; (p.) szpikowy; (p.) treściwy; (p.) zwięzły
+[pitiable]pitiable (EN) : (p.) nędzny; (p.) żałosny
+[pitiful]pitiful (EN) : (p.) litościwy; (p.) nędzny; (p.) współczujący; (p.) żałosny
+[pitifully]pitifully (EN) : (p-sł.) litościwie
+[pitiless]pitiless (EN) : (p.) bezlitosny; (p.) bezpardonowy; (p.) nielitościwy
+[pitman]pitman (EN) : (rz.) górnik; (rz.) łącznik
+[pittance]pittance (EN) : (rz.) ochłap; (rz.) odrobina
+[pitter-patter]pitter-patter (EN) : (rz.) stukot
+[pituitary]pituitary (EN) : (p.) przysadkowy; (rz.) przysadka
+[pity]pity (EN) : (cz.) litować; (rz.) litość; (rz.) politowanie; (rz.) szkoda; (rz.) współczucie; (rz.) żal; (rz.) zmiłowanie
+[pitying]pitying (EN) : (p.) litościwy
+[pityingly]pityingly (EN) : (p-sł.) litościwie
+[pivot]pivot (EN) : (rz.) czop; (rz.) oś; (rz.) sedno; (rz.) sworzeń; (rz.) trzpień
+[pivotal]pivotal (EN) : (p.) osiowy; (p.) podstawowy
+[pixel]pixel (EN) : (rz.) piksel; (rz.) punkt
+[pixie]pixie (EN) : (rz.) chochlik; (rz.) skrzat
+[pixy]pixy (EN) : (rz.) chochlik; (rz.) skrzat
+[pizza]pizza (EN) : (rz.) lokata; (rz.) pizza; (rz.) posada; (rz.) pozycja
+[pizzeria]pizzeria (EN) : (rz.) pizzeria
+[placard]placard (EN) : (cz.) plakatować; (rz.) afisz; (rz.) plakat
+[placate]placate (EN) : (cz.) godzić; (cz.) łagodzić; (cz.) przebłagać; (cz.) ułagodzić; (cz.) uspokajać; (cz.) złagodzić
+[placatory]placatory (EN) : (p.) pojednawczy
+[place]place (EN) : (cz.) kłaść; (cz.) lokować; (cz.) sadowić; (cz.) sadzać; (cz.) stawiać; (cz.) ulokować; (cz.) umiejscowić; (cz.) umieść; (cz.) umieścić; (cz.) umieszczać; (cz.) usytuować; (rz.) lokal; (rz.) lokata; (rz.) miejsce; (rz.) miejscowość; (rz.) mieszkanie; (rz.) plac; (rz.) zawód
+[placeholder]placeholder (EN) : (rz.) wypełniacz; (rz.) znak-wypełniacz
+[placement]placement (EN) : (rz.) położenie; (rz.) posada; (rz.) pośredniczenie; (rz.) rozmieszczenie; (rz.) umieszczanie; (rz.) umieszczenie
+[placenta]placenta (EN) : (rz.) łożysko
+[placental]placental (EN) : (p.) łożyskowy
+[placer]placer (EN) : (rz.) pakowacz
+[placid]placid (EN) : (p.) łagodny; (p.) łaskawy; (p.) spokojny
+[placidity]placidity (EN) : (rz.) łagodność; (rz.) spokój
+[placidly]placidly (EN) : (p-sł.) łagodnie; (p-sł.) spokojnie
+[placing]placing (EN) : (rz.) nasadzenie; (rz.) plasowanie; (rz.) umieszczanie; (rz.) ustawianie
+[placket]placket (EN) : (rz.) rozcięcie
+[plafond]plafond (EN) : (rz.) plafon
+[plagiarism]plagiarism (EN) : (rz.) plagiat; (rz.) plagiatorstwo
+[plagiarist]plagiarist (EN) : (rz.) plagiator
+[plagiary]plagiary (EN) : (rz.) plagiat; (rz.) plagiator
+[plagioclase]plagioclase (EN) : (rz.) plagioklaz
+[plague]plague (EN) : (cz.) trapić; (rz.) dżuma; (rz.) klęska; (rz.) mór; (rz.) plaga; (rz.) pomór; (rz.) skaranie; (rz.) utrapienie; (rz.) zaraza
+[plaice]plaice (EN) : (rz.) flądra; (rz.) gładzica; (rz.) płastuga
+[plaid]plaid (EN) : (rz.) pled
+[plain]plain (EN) : (p.) dosadny; (p.) gładki; (p.) jasny; (p.) niepozorny; (p.) nieurodziwy; (p.) oczywisty; (p.) pospolity; (p.) prosty; (p.) przeciętny; (p.) szczery; (p.) wyraźny; (p.) zwykły; (rz.) nizina; (rz.) równina
+[plainly]plainly (EN) : (p-sł.) wyraźnie
+[plainness]plainness (EN) : (rz.) jasność; (rz.) prostota
+[plaint]plaint (EN) : (rz.) powództwo
+[plaintiff]plaintiff (EN) : (rz.) oskarżyciel; (rz.) powód
+[plaintive]plaintive (EN) : (p.) płaczliwy; (p.) żałosny
+[plaintiveness]plaintiveness (EN) : (rz.) melancholijność
+[plait]plait (EN) : (cz.) pleść; (cz.) splatać; (cz.) upleść; (cz.) wplatać; (rz.) warkocz; (rz.) zakładka
+[plan]plan (EN) : (cz.) planować; (cz.) projektować; (cz.) zamierzać; (rz.) mapa; (rz.) plan; (rz.) projekt; (rz.) zamysł
+[planar]planar (EN) : (p.) planarny; (p.) płaski
+[plane]plane (EN) : (rz.) hebel; (rz.) płaszczyzna; (rz.) płat; (rz.) równia; (rz.) samolot; (rz.) strug
+[planer]planer (EN) : (rz.) heblarka; (rz.) klocek; (rz.) strugarka
+[planet]planet (EN) : (rz.) planet; (rz.) planeta
+[planetary]planetary (EN) : (p.) planetarny
+[planetoid]planetoid (EN) : (rz.) planetoida
+[plangent]plangent (EN) : (p.) donośny; (p.) głośny; (p.) jękliwy
+[plank]plank (EN) : (rz.) bal; (rz.) decha; (rz.) deska; (rz.) klepka
+[planking]planking (EN) : (rz.) deskowanie; (rz.) tarcica
+[plankton]plankton (EN) : (rz.) plankton
+[planned]planned (EN) : (p.) planowy
+[planner]planner (EN) : (rz.) planista; (rz.) rozkład; (rz.) urbanista
+[planning]planning (EN) : (rz.) planowanie; (rz.) programowanie
+[plant]plant (EN) : (cz.) flancować; (cz.) osiedlać; (cz.) rozkrzewić; (cz.) sadzać; (cz.) sadzić; (cz.) umieszczać; (cz.) urządzać; (cz.) ustawiać; (cz.) wprowadzać; (cz.) zakładać; (rz.) elektrownia; (rz.) fabryka; (rz.) instalacja; (rz.) kombinat; (rz.) posadzenie; (rz.) roślina; (rz.) sadzonka; (rz.) wytwórnia; (rz.) zakład
+[plantain]plantain (EN) : (rz.) babka
+[plantar]plantar (EN) : (p.) podeszwowy
+[plantation]plantation (EN) : (rz.) plantacja
+[planter]planter (EN) : (rz.) plantator; (rz.) sadzarka; (rz.) siewnik
+[plaque]plaque (EN) : (rz.) odznaka; (rz.) plakieta; (rz.) płytka; (rz.) tablica
+[plash]plash (EN) : (rz.) plusk
+[plasma]plasma (EN) : (rz.) osocze; (rz.) plazma
+[plasmatic]plasmatic (EN) : (p.) plazmatyczny
+[plasmid]plasmid (EN) : (rz.) plazmid
+[plaster]plaster (EN) : (cz.) gipsować; (cz.) tynkować; (rz.) gips; (rz.) gipsowanie; (rz.) naklejanie; (rz.) plaster; (rz.) pokrywanie; (rz.) tynk
+[plasterer]plasterer (EN) : (rz.) ekspedient; (rz.) gipsiarz; (rz.) sztukator; (rz.) tynkarz
+[plasterer's]plasterer's (EN) : (p.) tynkarski
+[plastic]plastic (EN) : (p.) plastikowy; (p.) plastyczny; (p.) plastykowy; (rz.) plastik; (rz.) plastyk
+[plasticity]plasticity (EN) : (rz.) modelunek; (rz.) plastyczność; (rz.) płyta
+[plasticize]plasticize (EN) : (cz.) uplastyczniać; (cz.) uplastycznić; (cz.) zmiękczać
+[plasticizer]plasticizer (EN) : (rz.) plastyfikator; (rz.) zmiękczacz
+[plastics]plastics (EN) : (rz.) plastik
+[plastron]plastron (EN) : (rz.) gors; (rz.) napierśnik; (rz.) plastron
+[plat]plat (EN) : (p.) płaski; (p-sł.) płasko; (rz.) danie; (rz.) platforma
+[plate]plate (EN) : (cz.) platerować; (rz.) klisza; (rz.) murłat; (rz.) patera; (rz.) plasowanie; (rz.) płyta; (rz.) płytka; (rz.) półmisek; (rz.) tabliczka; (rz.) taca; (rz.) talerz; (rz.) talerzyk
+[plate-armour]plate-armour (EN) : (rz.) opancerzenie
+[plateau]plateau (EN) : (rz.) płaskowyż; (rz.) płaskowzgórze; (rz.) pogórze; (rz.) taca
+[plateful]plateful (EN) : (rz.) talerz
+[platelayer]platelayer (EN) : (rz.) torowiec
+[platelet]platelet (EN) : (rz.) płytka
+[platen]platen (EN) : (rz.) stół; (rz.) strugarki; (rz.) wałek
+[plates]plates (EN) : (rz.) płytowanie
+[platform]platform (EN) : (rz.) estrada; (rz.) mównica; (rz.) peron; (rz.) platforma; (rz.) podest; (rz.) podwyższenie; (rz.) pomost; (rz.) skrzynia; (rz.) trybuna
+[plating]plating (EN) : (rz.) galwanizacja; (rz.) opancerzanie; (rz.) opancerzenie; (rz.) platerowanie
+[platinum]platinum (EN) : (rz.) platyna
+[platitude]platitude (EN) : (rz.) banał; (rz.) frazes; (rz.) płaskość; (rz.) płytkość
+[platitudinous]platitudinous (EN) : (p.) banalny
+[platonic]platonic (EN) : (p.) platoniczny
+[platoon]platoon (EN) : (rz.) pluton
+[platter]platter (EN) : (rz.) dysk; (rz.) półmisek; (rz.) szala; (rz.) taca; (rz.) uchwytem
+[platypus]platypus (EN) : (rz.) dziobak
+[plaudit]plaudit (EN) : (rz.) aplauz
+[plausibility]plausibility (EN) : (rz.) akceptowalność
+[plausible]plausible (EN) : (p.) prawdopodobny; (p.) słuszny; (p.) wiarogodny; (p.) wiarygodny
+[play]play (EN) : (cz.) bawić; (cz.) grać; (cz.) igrać; (cz.) migotać; (cz.) odegrać; (cz.) odgrywać; (cz.) odtwarzać; (cz.) odtworzyć; (cz.) ogrywać; (cz.) pobawić; (cz.) pograć; (cz.) rozegrać; (cz.) rozgrywać; (cz.) spłatać; (cz.) zagrać; (rz.) gra; (rz.) luz; (rz.) odegranie; (rz.) sztuka; (rz.) zabawa; (rz.) zagranie; (rz.) zajęcie
+[play-act]play-act (EN) : (cz.) błaznować; (cz.) udawać
+[play-off]play-off (EN) : (rz.) dogrywka
+[playact]playact (EN) : (cz.) błaznować; (cz.) udawać
+[playback]playback (EN) : (rz.) odtwarzanie; (rz.) przegrywanie
+[playbill]playbill (EN) : (rz.) afisz
+[playboy]playboy (EN) : (rz.) babiarz; (rz.) lekkoduch
+[player]player (EN) : (rz.) aktor; (rz.) gracz; (rz.) odtwarzacz; (rz.) zawodnik
+[playfellow]playfellow (EN) : (rz.) towarzysz
+[playful]playful (EN) : (p.) figlarny; (p.) filuterny; (p.) wesoły; (p.) żartobliwy; (p.) żwawy
+[playfully]playfully (EN) : (p-sł.) figlarnie
+[playfulness]playfulness (EN) : (rz.) figlarność; (rz.) filuterność; (rz.) żartobliwość
+[playground]playground (EN) : (rz.) boisko; (rz.) plac
+[playgroup]playgroup (EN) : (rz.) przedszkole; (rz.) zerówka
+[playhouse]playhouse (EN) : (rz.) teatr
+[playing]playing (EN) : (rz.) odegranie; (rz.) odtwarzanie; (rz.) zagranie
+[playmate]playmate (EN) : (rz.) kolega; (rz.) towarzysz
+[playoff]playoff (EN) : (rz.) dogrywka
+[playpen]playpen (EN) : (rz.) kojec
+[plaything]plaything (EN) : (rz.) zabawka
+[playtime]playtime (EN) : (rz.) przerwa
+[playwright]playwright (EN) : (rz.) dramatopisarz; (rz.) dramaturg
+[plaza]plaza (EN) : (rz.) plac; (rz.) rynek
+[plea]plea (EN) : (rz.) apel; (rz.) dowód; (rz.) obrona; (rz.) odpowiedź; (rz.) proces; (rz.) prośba; (rz.) usprawiedliwienie; (rz.) zarzut
+[plead]plead (EN) : (cz.) argumentować; (cz.) błagać; (cz.) bronić; (cz.) powoływać; (cz.) przyznawać; (cz.) tłumaczyć; (cz.) uargumentować; (cz.) ujmować; (cz.) wstawiać; (cz.) wypraszać
+[pleaded]pleaded (EN) : (cz.) błagać; (cz.) bronić; (cz.) prosić; (cz.) wstawiać
+[pleader]pleader (EN) : (rz.) adwokat; (rz.) obrońca
+[pleading]pleading (EN) : (rz.) oświadczenie
+[pleasance]pleasance (EN) : (rz.) uciecha
+[pleasant]pleasant (EN) : (p.) miły; (p.) przyjemny; (p.) sympatyczny
+[pleasantly]pleasantly (EN) : (p-sł.) miło; (p-sł.) przyjemnie; (p-sł.) sympatycznie
+[pleasantness]pleasantness (EN) : (rz.) łagodność
+[pleasantry]pleasantry (EN) : (rz.) dowcip; (rz.) figlarność; (rz.) humor; (rz.) wesołość; (rz.) żart
+[please]please (EN) : (cz.) dogadzać; (cz.) odpowiadać; (cz.) podobać; (cz.) satysfakcjonować; (cz.) upodobać; (cz.) zadawalać; (cz.) zadośćuczynić; (cz.) zadowalać; (cz.) zadowolić; (cz.) zaspokajać; (cz.) zaspokoić
+[pleased]pleased (EN) : (p.) zadowolony
+[pleasing]pleasing (EN) : (p.) miły; (p.) przyjemny; (p.) ujmujący
+[pleasingly]pleasingly (EN) : (p-sł.) sympatycznie
+[pleasurable]pleasurable (EN) : (p.) miły; (p.) przyjemny
+[pleasure]pleasure (EN) : (rz.) przyjemność; (rz.) rozkosz; (rz.) upodobanie; (rz.) zadowolenie
+[pleat]pleat (EN) : (cz.) fałdować; (cz.) plisować; (rz.) fałd; (rz.) fałda; (rz.) plisa; (rz.) splecenie; (rz.) warkocz; (rz.) zakładka
+[plebeian]plebeian (EN) : (p.) plebejski; (p.) plebejuszowski; (rz.) plebejusz
+[plebiscite]plebiscite (EN) : (rz.) plebiscyt
+[plectrum]plectrum (EN) : (rz.) plektron
+[pledge]pledge (EN) : (cz.) przyrzekać; (cz.) ręczyć; (cz.) zastawiać; (rz.) cyrograf; (rz.) gwarancja; (rz.) lombard; (rz.) obietnica; (rz.) przyrzeczenie; (rz.) ślubowanie; (rz.) zabezpieczenie; (rz.) zadatek; (rz.) zastaw; (rz.) zobowiązanie
+[plenary]plenary (EN) : (p.) całkowity; (p.) pełny; (p.) plenarny
+[plenipotentiary]plenipotentiary (EN) : (p.) pełnomocny; (rz.) pełnomocnik; (rz.) plenipotent
+[plenitude]plenitude (EN) : (rz.) nadmiar; (rz.) obfitość; (rz.) pełnia
+[plenteous]plenteous (EN) : (p.) bogaty; (p.) obfity
+[plentiful]plentiful (EN) : (p.) obfity; (p.) sowity
+[plenty]plenty (EN) : (p-sł.) bardzo; (p-sł.) dużo; (rz.) mnóstwo; (rz.) multum; (rz.) obfitość
+[pleonasm]pleonasm (EN) : (rz.) pleonazm
+[pleonastic]pleonastic (EN) : (p.) pleonastyczny
+[plesiosaur]plesiosaur (EN) : (rz.) plezjozaur
+[plethora]plethora (EN) : (rz.) nadmiar; (rz.) obfitość; (rz.) przekrwienie; (rz.) przesyt
+[pleura]pleura (EN) : (rz.) opłucna
+[pleural]pleural (EN) : (p.) opłucnowy
+[plexus]plexus (EN) : (rz.) splot
+[pliability]pliability (EN) : (rz.) elastyczność; (rz.) giętkość; (rz.) sprężystość
+[pliable]pliable (EN) : (p.) giętki; (p.) podatny; (p.) ustępliwy
+[pliancy]pliancy (EN) : (rz.) giętkość; (rz.) miękkość
+[pliant]pliant (EN) : (p.) chybki; (p.) giętki; (p.) ustępliwy; (p.) zgodliwy
+[pliers]pliers (EN) : (rz.) cążki; (rz.) cęgi; (rz.) kombinerki; (rz.) obcążki; (rz.) obcęgi; (rz.) szczypce
+[plight]plight (EN) : (cz.) ślubować; (cz.) zastawiać; (rz.) położenie; (rz.) postument; (rz.) przyrzeczenie; (rz.) ślubowanie
+[plinth]plinth (EN) : (rz.) cokół; (rz.) odsadzka; (rz.) plinta; (rz.) występ
+[plod]plod (EN) : (cz.) harować; (rz.) wlec
+[plodder]plodder (EN) : (rz.) peloteza; (rz.) ślimak
+[plop]plop (EN) : (rz.) plusk
+[plot]plot (EN) : (cz.) intrygować; (cz.) knuć; (cz.) konspirować; (cz.) kreślić; (cz.) spiskować; (cz.) ukartować; (rz.) działka; (rz.) fabuła; (rz.) intryga; (rz.) parcela; (rz.) spisek; (rz.) temat; (rz.) wątek; (rz.) wykres
+[plotter]plotter (EN) : (rz.) intrygant; (rz.) kreślak; (rz.) kreślarz; (rz.) pióro; (rz.) pisak; (rz.) ploter; (rz.) protraktor; (rz.) spiskowiec
+[plough]plough (EN) : (cz.) oblać; (cz.) orać; (cz.) przeorać; (cz.) zaorać; (rz.) pług
+[ploughboy]ploughboy (EN) : (rz.) parobczak
+[ploughman]ploughman (EN) : (rz.) oracz
+[ploughshare]ploughshare (EN) : (rz.) lemiesz
+[plover]plover (EN) : (rz.) siewka
+[ploy]ploy (EN) : (rz.) chwyt; (rz.) fortel; (rz.) wybieg
+[pluck]pluck (EN) : (cz.) ciągnąć; (cz.) oberwać; (cz.) oskubać; (cz.) rwać; (cz.) skubać; (cz.) szarpać; (cz.) uderzać; (cz.) wyrywać; (cz.) zebrać; (cz.) zrywać; (rz.) junactwo; (rz.) odwaga; (rz.) szarpnięcie
+[plucky]plucky (EN) : (p.) junacki; (p.) odważny; (p.) zuchowaty
+[plug]plug (EN) : (cz.) czopować; (cz.) tamponować; (cz.) zatykać; (rz.) czop; (rz.) korek; (rz.) prymka; (rz.) szpunt; (rz.) wkrętka; (rz.) wtyczka; (rz.) zaślepka; (rz.) zatyczka
+[plug-and-socket]plug-and-socket (EN) : (rz.) sprzęgnik
+[plug-in]plug-in (EN) : (rz.) dodatek; (rz.) rozszerzenie; (rz.) wstawka; (rz.) wtyczka
+[plughole]plughole (EN) : (rz.) odpływ
+[plum]plum (EN) : (rz.) delikates; (rz.) rodzynek; (rz.) śliwa; (rz.) śliwka
+[plumage]plumage (EN) : (rz.) pióra; (rz.) upierzenie
+[plumb]plumb (EN) : (cz.) instalować; (cz.) plombować; (p.) pionowy; (p.) prosty; (p-sł.) dokładnie; (p-sł.) pionowo; (p-sł.) zupełnie; (rz.) ołów; (rz.) pion
+[plumb-line]plumb-line (EN) : (rz.) pion
+[plumber]plumber (EN) : (rz.) hydraulik; (rz.) hydraulika; (rz.) monter
+[plumbing]plumbing (EN) : (rz.) instalacja; (rz.) instalatorstwo; (rz.) pionowanie; (rz.) sondowanie
+[plume]plume (EN) : (cz.) pysznić; (cz.) zdobić; (rz.) pióro; (rz.) pióropusz
+[plummet]plummet (EN) : (cz.) runąć; (cz.) spadać; (rz.) sonda
+[plumose]plumose (EN) : (p.) pierzasty
+[plump]plump (EN) : (cz.) nabrzmiewać; (cz.) tuczyć; (cz.) tyć; (p.) jawny; (p.) okrągły; (p.) prosty; (p.) pulchny; (p.) tłusty; (p.) zaokrąglony
+[plumper]plumper (EN) : (rz.) upychacz
+[plumpness]plumpness (EN) : (rz.) pulchność
+[plunder]plunder (EN) : (cz.) grabić; (cz.) łupić; (cz.) plądrować; (cz.) rabować; (rz.) grabież; (rz.) łup; (rz.) rabunek; (rz.) splądrowanie
+[plunderer]plunderer (EN) : (rz.) grabieżca
+[plunge]plunge (EN) : (cz.) nurkować; (cz.) pogrążyć; (cz.) rzucać; (cz.) spadać; (cz.) zagłębiać; (cz.) zagłębić; (cz.) zanurkować; (cz.) zanurzać; (cz.) zanurzyć; (cz.) zatapiać; (cz.) zatopić; (rz.) zanurzanie; (rz.) zanurzenie
+[plunger]plunger (EN) : (rz.) hazardzista; (rz.) nurek; (rz.) nurnik; (rz.) przepychacz; (rz.) tłoczek; (rz.) tłok
+[pluperfect]pluperfect (EN) : (p.) zaprzeszły
+[plural]plural (EN) : (p.) liczny; (p.) mnogi
+[pluralism]pluralism (EN) : (rz.) pluralizm
+[pluralist]pluralist (EN) : (rz.) pluralista
+[pluralistic]pluralistic (EN) : (p.) pluralistyczny
+[plurality]plurality (EN) : (rz.) mnogość; (rz.) pluralizm; (rz.) większość; (rz.) wielorakość; (rz.) wielość
+[plus]plus (EN) : (p.) dodatkowy; (p.) dodatni; (rz.) plus; (rz.) zaleta
+[plush]plush (EN) : (p.) luksusowy; (p.) pluszowy; (rz.) plusz; (rz.) włochacz
+[plutocracy]plutocracy (EN) : (rz.) plutokracja
+[plutocrat]plutocrat (EN) : (rz.) plutokrata
+[plutocratic]plutocratic (EN) : (p.) plutokratyczny
+[plutonic]plutonic (EN) : (p.) plutoniczny
+[plutonium]plutonium (EN) : (rz.) pluton
+[pluvial]pluvial (EN) : (p.) deszczowy; (p.) pluwialny
+[ply]ply (EN) : (cz.) kursować; (cz.) wykonywać; (rz.) warstwa; (rz.) zwój
+[plywood]plywood (EN) : (rz.) dykta; (rz.) klejonka; (rz.) sklejka
+[pneumatic]pneumatic (EN) : (p.) pneumatyczny
+[pneumatically]pneumatically (EN) : (p-sł.) pneumatycznie
+[pneumatics]pneumatics (EN) : (rz.) pneumatyk; (rz.) pneumatyka
+[pneumoconiosis]pneumoconiosis (EN) : (rz.) pylica
+[poach]poach (EN) : (cz.) gotować; (cz.) kłusować; (cz.) rozdeptać; (rz.) kłusownik
+[poacher]poacher (EN) : (rz.) kłusownik
+[pock]pock (EN) : (rz.) krostka
+[pock-marked]pock-marked (EN) : (p.) dziobaty; (p.) ospowaty
+[pocket]pocket (EN) : (cz.) przywłaszczać; (rz.) kieszeń; (rz.) kieszonka; (rz.) kieszonkowe
+[pocket-book]pocket-book (EN) : (rz.) notatnik; (rz.) portfel
+[pocket-knife]pocket-knife (EN) : (rz.) nożyk; (rz.) scyzoryk
+[pocket-money]pocket-money (EN) : (rz.) kieszonkowe
+[pocketbook]pocketbook (EN) : (rz.) notatnik; (rz.) portfel
+[pockmarked]pockmarked (EN) : (p.) dziobaty; (p.) ospowaty
+[pod]pod (EN) : (rz.) kokon; (rz.) łupina; (rz.) strączek; (rz.) strąk
+[podgy]podgy (EN) : (p.) pękaty
+[podium]podium (EN) : (rz.) podest; (rz.) podium
+[poem]poem (EN) : (rz.) poemat; (rz.) utwór; (rz.) wiersz; (rz.) wierszyk
+[poesy]poesy (EN) : (rz.) poezja
+[poet]poet (EN) : (rz.) poeta
+[poetaster]poetaster (EN) : (rz.) wierszokleta; (rz.) wierszorób
+[poetic]poetic (EN) : (p.) poetycki; (p.) poetyczny
+[poetical]poetical (EN) : (p.) poetycki; (p.) poetyczny
+[poetically]poetically (EN) : (p-sł.) poetycko; (p-sł.) poetycznie
+[poetics]poetics (EN) : (rz.) poetyka
+[poetry]poetry (EN) : (rz.) poetyckość; (rz.) poezja
+[pogrom]pogrom (EN) : (rz.) pogrom
+[poignancy]poignancy (EN) : (rz.) ostrość; (rz.) siła; (rz.) uszczypliwość; (rz.) zgryźliwość
+[poignant]poignant (EN) : (p.) kłujący; (p.) ostry; (p.) pikantny; (p.) sarkastyczny; (p.) uszczypliwy
+[poignantly]poignantly (EN) : (p-sł.) kąśliwie
+[point]point (EN) : (cz.) ostrzyć; (cz.) wskazać; (cz.) wskazywać; (rz.) cel; (rz.) kropka; (rz.) kwestia; (rz.) lit; (rz.) litera; (rz.) miejsce; (rz.) ostrze; (rz.) pointa; (rz.) przecinek; (rz.) puenta; (rz.) punkt; (rz.) sedno; (rz.) sens; (rz.) sprawa; (rz.) szpic; (rz.) zamiar
+[point-blank]point-blank (EN) : (p.) bezpośredni; (p-sł.) bezpośrednio; (p-sł.) wprost
+[point-duly]point-duly (EN) : (rz.) strzałka; (rz.) wskaźnik; (rz.) wskazówka
+[pointed]pointed (EN) : (p.) ostry; (p.) spiczasty; (p.) stanowczy; (p.) surowy; (p.) szpiczasty; (p.) uszczypliwy; (p.) zaostrzony
+[pointedly]pointedly (EN) : (p-sł.) dosadnie; (p-sł.) dowcipnie; (p-sł.) sarkastycznie
+[pointer]pointer (EN) : (rz.) legawiec; (rz.) przyrząd; (rz.) strzałka; (rz.) wskaźnik; (rz.) wskazówka
+[pointing]pointing (EN) : (rz.) cecha; (rz.) wskazywanie
+[pointless]pointless (EN) : (p.) bezcelowy; (p.) bezsensowny; (p.) nierzeczowy; (p.) tępy
+[pointlessness]pointlessness (EN) : (rz.) daremność
+[points]points (EN) : (rz.) ostrzegacz; (rz.) punk; (rz.) punktacja; (rz.) zwrotnica
+[pointy]pointy (EN) : (p.) szpiczasty
+[poise]poise (EN) : (cz.) równoważyć; (cz.) rozważać; (cz.) ważyć; (rz.) postawa; (rz.) puaz; (rz.) równowaga
+[poison]poison (EN) : (cz.) otruć; (cz.) struć; (cz.) truć; (cz.) zakażać; (cz.) zakazić; (cz.) zatruć; (rz.) jad; (rz.) trucizna; (rz.) trutka
+[poisoning]poisoning (EN) : (rz.) otrucie; (rz.) wytrucie; (rz.) zatrucie
+[poisonous]poisonous (EN) : (p.) jadowity; (p.) obrzydliwy; (p.) toksyczny; (p.) trujący; (p.) wstrętny
+[poisonwoods]poisonwoods (EN) : (p.) jadowity
+[poke]poke (EN) : (cz.) dłubać; (cz.) gmerać; (cz.) grzebać; (cz.) natrząsać; (cz.) pchać; (cz.) szperać; (cz.) szturchać; (cz.) uderzać; (cz.) wkładać; (cz.) wpychać; (cz.) wtykać; (cz.) wyszperać; (rz.) kuksaniec; (rz.) szturchnięcie
+[poker]poker (EN) : (rz.) pogrzebacz; (rz.) poker
+[poky]poky (EN) : (p.) ciasny; (p.) marny; (p.) przyciasny; (p.) ubogi
+[polar]polar (EN) : (p.) biegunowy; (p.) podbiegunowy; (p.) polarny
+[polarity]polarity (EN) : (rz.) biegunowość; (rz.) polarność
+[polarization]polarization (EN) : (rz.) polaryzacja
+[polarize]polarize (EN) : (cz.) polaryzować; (cz.) spolaryzować
+[polarizer]polarizer (EN) : (rz.) polaroid; (rz.) polaryzator
+[polder]polder (EN) : (rz.) polder
+[pole]pole (EN) : (rz.) biegun; (rz.) drąg; (rz.) dyszel; (rz.) słup; (rz.) tyczka; (rz.) żerdź
+[polecat]polecat (EN) : (rz.) tchórz
+[polemic]polemic (EN) : (p.) polemiczny; (rz.) polemika; (rz.) polemista
+[polemical]polemical (EN) : (p.) polemiczny; (rz.) polemika
+[polemically]polemically (EN) : (p-sł.) polemicznie
+[polemicist]polemicist (EN) : (rz.) polemista
+[polemics]polemics (EN) : (rz.) polemika
+[polemist]polemist (EN) : (p.) polemiczny; (rz.) polemika; (rz.) polemista
+[police]police (EN) : (cz.) patrolować; (rz.) milicja; (rz.) policja; (rz.) policjant
+[police-force]police-force (EN) : (rz.) policja
+[police-station]police-station (EN) : (rz.) komisariat
+[policeman]policeman (EN) : (rz.) milicjant; (rz.) policjant
+[policewoman]policewoman (EN) : (rz.) policjantka
+[policies]policies (EN) : (rz.) polityk
+[policlinic]policlinic (EN) : (rz.) ambulatorium; (rz.) przychodnia
+[policy]policy (EN) : (rz.) algorytm; (rz.) kierunek; (rz.) polisa; (rz.) polityka; (rz.) strategia; (rz.) taktyka
+[poling]poling (EN) : (rz.) żerdziowanie
+[polio]polio (EN) : (rz.) zapalenie
+[polish]polish (EN) : (cz.) froterować; (cz.) gładzić; (cz.) glansować; (cz.) ogładzać; (cz.) ogładzić; (cz.) okrzesać; (cz.) pastować; (cz.) polerować; (cz.) politurować; (cz.) wyfroterować; (cz.) wyglansować; (rz.) ogłada; (rz.) okrzesanie; (rz.) pasta; (rz.) politura; (rz.) polor; (rz.) polszczyzna; (rz.) połysk
+[polished]polished (EN) : (p.) elegancki; (p.) nienaganny; (p.) wytworny
+[polisher]polisher (EN) : (rz.) cykliniarz; (rz.) froterka; (rz.) polerka; (rz.) polerowacz; (rz.) szlifierz
+[polite]polite (EN) : (p.) grzecznościowy; (p.) grzeczny; (p.) kulturalny; (p.) układny; (p.) uprzejmy
+[politely]politely (EN) : (p-sł.) grzecznie; (p-sł.) uprzejmie
+[politeness]politeness (EN) : (rz.) grzeczność; (rz.) uprzejmość
+[politic]politic (EN) : (p.) polityczny; (p.) przezorny; (p.) rozsądny; (p.) roztropny; (p.) rozważny
+[political]political (EN) : (p.) polityczny; (p.) ustrojowy
+[politically]politically (EN) : (p-sł.) politycznie
+[politician]politician (EN) : (rz.) polityk; (rz.) polityka
+[politicize]politicize (EN) : (cz.) politykować
+[politicking]politicking (EN) : (rz.) politykierstwo
+[politics]politics (EN) : (rz.) polityka
+[polity]polity (EN) : (rz.) państwo; (rz.) reżim; (rz.) ustrój
+[poll]poll (EN) : (cz.) ankietować; (cz.) ostrzyć; (cz.) pytać; (cz.) sondować; (cz.) sprawdzać; (rz.) ankieta; (rz.) balot; (rz.) głosowanie; (rz.) głowa; (rz.) sonda; (rz.) sondaż
+[pollard]pollard (EN) : (rz.) otrąbki
+[pollen]pollen (EN) : (rz.) pyłek
+[pollinate]pollinate (EN) : (cz.) zapylać; (cz.) zapylić
+[pollinating]pollinating (EN) : (p.) pyłkowy
+[pollination]pollination (EN) : (rz.) zapylenie
+[pollinator]pollinator (EN) : (rz.) zapylacz
+[polling]polling (EN) : (rz.) głosowanie; (rz.) odpytywanie; (rz.) sondowanie; (rz.) zapytywanie
+[polliwog]polliwog (EN) : (rz.) kijanka
+[pollster]pollster (EN) : (rz.) ankieter
+[pollute]pollute (EN) : (cz.) skazić; (cz.) zanieczyścić; (cz.) zanieczyszczać
+[polluter]polluter (EN) : (rz.) truciciel
+[pollution]pollution (EN) : (rz.) polucja; (rz.) skażenie; (rz.) zanieczyszczenie
+[polo]polo (EN) : (rz.) polo
+[polonaise]polonaise (EN) : (rz.) polonez
+[polonium]polonium (EN) : (rz.) polon
+[poltroonery]poltroonery (EN) : (rz.) tchórzostwo
+[polyamide]polyamide (EN) : (rz.) poliamid
+[polyandry]polyandry (EN) : (rz.) poliandria; (rz.) wielomęstwo
+[polyanthus]polyanthus (EN) : (rz.) prymula
+[polyatomic]polyatomic (EN) : (p.) wieloatomowy
+[polybasic]polybasic (EN) : (p.) wielozasadowy
+[polycarbonate]polycarbonate (EN) : (rz.) poliwęglan
+[polychromatic]polychromatic (EN) : (p.) polichromiczny
+[polychrome]polychrome (EN) : (rz.) polichromia
+[polychromic]polychromic (EN) : (p.) wielobarwny
+[polyclinic]polyclinic (EN) : (rz.) poliklinika
+[polycrystalline]polycrystalline (EN) : (p.) polikrystaliczny
+[polycyclic]polycyclic (EN) : (p.) wielopierścieniowy
+[polyester]polyester (EN) : (rz.) poliester
+[polyethylene]polyethylene (EN) : (rz.) polietylen
+[polygamist]polygamist (EN) : (rz.) poligamista
+[polygamous]polygamous (EN) : (p.) poligamiczny
+[polygamy]polygamy (EN) : (rz.) poligamia; (rz.) wielożeństwo
+[polyglot]polyglot (EN) : (p.) poliglotyczny; (rz.) poliglota
+[polygon]polygon (EN) : (rz.) wielobok; (rz.) wielokąt
+[polygonal]polygonal (EN) : (p.) wieloboczny; (p.) wielokątny
+[polygraph]polygraph (EN) : (rz.) powielacz; (rz.) wariograf
+[polyhedral]polyhedral (EN) : (p.) wieloboczny; (p.) wielościenny
+[polyhedron]polyhedron (EN) : (rz.) wielościan
+[polymer]polymer (EN) : (rz.) polimer
+[polymeric]polymeric (EN) : (p.) polimeryczny
+[polymerization]polymerization (EN) : (rz.) polimeryzacja
+[polymerize]polymerize (EN) : (cz.) polimeryzować
+[polymorphic]polymorphic (EN) : (p.) polimorficzny; (p.) wielokształtny; (p.) wielopostaciowy
+[polymorphism]polymorphism (EN) : (rz.) polimorfizm; (rz.) wielopostaciowość
+[polymorphous]polymorphous (EN) : (p.) polimorficzny; (p.) wielopostaciowy
+[polynomial]polynomial (EN) : (p.) wielomianowy; (rz.) wielomian
+[polyp]polyp (EN) : (rz.) polip
+[polypeptide]polypeptide (EN) : (rz.) polipeptyd
+[polypeptides]polypeptides (EN) : (p.) polipeptydy
+[polyphonic]polyphonic (EN) : (p.) polifoniczny; (p.) wielogłosowy
+[polyphony]polyphony (EN) : (rz.) polifonia; (rz.) wielogłosowość
+[polyploidy]polyploidy (EN) : (rz.) poliploidalność
+[polypropylene]polypropylene (EN) : (rz.) polipropylen
+[polypus]polypus (EN) : (rz.) polip
+[polysaccharide]polysaccharide (EN) : (rz.) polisacharyd
+[polysaccharides]polysaccharides (EN) : (p.) wielocukry
+[polystyrene]polystyrene (EN) : (rz.) polistyren
+[polysyllabic]polysyllabic (EN) : (p.) politechniczny; (p.) wielosylabowy; (p.) wielozgłoskowy
+[polysynthetic]polysynthetic (EN) : (p.) polisyntetyczny
+[polytechnic]polytechnic (EN) : (p.) politechniczny; (rz.) politechnika
+[polytheism]polytheism (EN) : (rz.) politeizm; (rz.) wielobóstwo
+[polytheist]polytheist (EN) : (rz.) politeista
+[polytheistic]polytheistic (EN) : (p.) politeistyczny
+[polythene]polythene (EN) : (rz.) polietylen
+[polyurethane]polyurethane (EN) : (rz.) poliuretan
+[polyvalent]polyvalent (EN) : (p.) wielowartościowy
+[polyvinyl]polyvinyl (EN) : (rz.) polichlorek
+[pomade]pomade (EN) : (cz.) pomadować; (cz.) wypomadować; (rz.) brylantyna; (rz.) pomada
+[pomegranate]pomegranate (EN) : (rz.) granat; (rz.) granatowiec
+[pommel]pommel (EN) : (rz.) gałka; (rz.) głowica
+[pomp]pomp (EN) : (rz.) napuszoność; (rz.) parada; (rz.) pompa; (rz.) przepych; (rz.) wystawność
+[pompadour]pompadour (EN) : (rz.) fryzura
+[pompon]pompon (EN) : (rz.) pompon
+[pomposity]pomposity (EN) : (rz.) napuszoność; (rz.) pompatyczność
+[pompous]pompous (EN) : (p.) huczny; (p.) nadęty; (p.) paradny; (p.) patetyczny; (p.) pompatyczny; (p.) szumny; (p.) wystawny
+[pompously]pompously (EN) : (p-sł.) pompatycznie
+[pond]pond (EN) : (rz.) sadzawka; (rz.) staw
+[ponder]ponder (EN) : (cz.) namyślać; (cz.) przemyśliwać; (cz.) rozmyślać; (cz.) rozpamiętywać; (cz.) rozważać; (cz.) zastanawiać
+[ponderous]ponderous (EN) : (p.) ciężki; (p.) nudny; (p.) ważny
+[ponderously]ponderously (EN) : (p-sł.) ociężale
+[pondweed]pondweed (EN) : (rz.) rdestnica
+[pong]pong (EN) : (rz.) smród
+[poniard]poniard (EN) : (rz.) sztylet
+[pontiff]pontiff (EN) : (rz.) arcykapłan; (rz.) biskup; (rz.) papież
+[pontifical]pontifical (EN) : (p.) pontyfikalny
+[pontificate]pontificate (EN) : (rz.) pontyfikat
+[pontoon]pontoon (EN) : (rz.) płaskodenka; (rz.) ponton
+[pony]pony (EN) : (rz.) konik; (rz.) kuc; (rz.) kucyk; (rz.) źrebak
+[ponytail]ponytail (EN) : (rz.) kitka; (rz.) kucyk
+[pooch]pooch (EN) : (rz.) kundel; (rz.) pies
+[poodle]poodle (EN) : (rz.) pudel
+[pool]pool (EN) : (rz.) basen; (rz.) kałuża; (rz.) pływalnia; (rz.) pula; (rz.) rozlewisko; (rz.) sadzawka; (rz.) stawka; (rz.) totalizator
+[pooled]pooled (EN) : (p.) zbiorczy
+[poop]poop (EN) : (rz.) informacja; (rz.) półgłówek; (rz.) rufa; (rz.) rufówka; (rz.) wiadomość; (rz.) wieść
+[poor]poor (EN) : (p.) biedny; (p.) kiepski; (p.) lichy; (p.) lisi; (p.) marny; (p.) nędzny; (p.) niskogatunkowy; (p.) siermiężny; (p.) słaby; (p.) ubogi; (p.) zły; (rz.) biedak; (rz.) nędzarz; (rz.) zły
+[poor-quality]poor-quality (EN) : (p.) niskogatunkowy
+[poorhouse]poorhouse (EN) : (rz.) przytułek
+[poorly]poorly (EN) : (p.) niezdrów; (p.) niezdrowy; (p-sł.) biednie; (p-sł.) kiepsko; (p-sł.) marnie; (p-sł.) skąpo; (p-sł.) skromnie; (p-sł.) słabo; (p-sł.) ubogo
+[poorness]poorness (EN) : (rz.) niedostatek
+[pop]pop (EN) : (cz.) pękać; (cz.) pykać; (cz.) trzaskać; (cz.) wpaść; (cz.) zaglądać; (rz.) korkowiec; (rz.) muzyka; (rz.) napój; (rz.) pop; (rz.) puknięcie; (rz.) trzask; (rz.) usuwanie; (rz.) wystrzał
+[pop-art]pop-art (EN) : (rz.) popart
+[pop-corn]pop-corn (EN) : (rz.) strojniś
+[pop-off]pop-off (EN) : (rz.) przelew
+[popcorn]popcorn (EN) : (rz.) strojniś
+[pope]pope (EN) : (rz.) jazgarz; (rz.) papież; (rz.) pop
+[popery]popery (EN) : (rz.) papizm
+[popinjay]popinjay (EN) : (rz.) modniś; (rz.) strojniś
+[popish]popish (EN) : (p.) klerykalny; (p.) papieski
+[poplar]poplar (EN) : (rz.) topola
+[poplin]poplin (EN) : (rz.) popelina
+[poppa]poppa (EN) : (rz.) tatuś
+[popper]popper (EN) : (rz.) patelnia
+[poppet]poppet (EN) : (rz.) brzdąc; (rz.) szkrab
+[poppy]poppy (EN) : (rz.) mak
+[populace]populace (EN) : (rz.) gmin; (rz.) lud; (rz.) motłoch; (rz.) populacja; (rz.) pospólstwo; (rz.) tłum
+[popular]popular (EN) : (p.) ludowy; (p.) poczytny; (p.) popularny
+[popularity]popularity (EN) : (rz.) poczytność; (rz.) popularność; (rz.) powodzenie; (rz.) wzięcie
+[popularization]popularization (EN) : (rz.) popularyzacja
+[popularize]popularize (EN) : (cz.) popularyzować; (cz.) propagować; (cz.) spopularyzować
+[popularly]popularly (EN) : (p-sł.) popularnie; (p-sł.) potocznie; (p-sł.) powszechnie
+[populate]populate (EN) : (cz.) wypełniać; (cz.) zaludniać; (cz.) zasiedlać
+[population]population (EN) : (rz.) ludność; (rz.) pogłowie; (rz.) populacja; (rz.) zaludnianie; (rz.) zaludnienie
+[populism]populism (EN) : (rz.) populizm
+[populist]populist (EN) : (rz.) populista
+[populous]populous (EN) : (p.) ludny
+[porcelain]porcelain (EN) : (rz.) porcelana
+[porch]porch (EN) : (rz.) ganek; (rz.) kruchta; (rz.) portyk; (rz.) przedsionek; (rz.) weranda
+[porcine]porcine (EN) : (p.) wieprzowy
+[porcupine]porcupine (EN) : (rz.) jeż; (rz.) jeżozwierz
+[pore]pore (EN) : (cz.) ślęczeć; (cz.) zagłębiać; (cz.) zagłębić; (rz.) por; (rz.) pora
+[pork]pork (EN) : (rz.) świnina; (rz.) wieprzowina
+[pork-butcher]pork-butcher (EN) : (rz.) masarz
+[porker]porker (EN) : (rz.) tucznik
+[porn]porn (EN) : (rz.) pornografia
+[pornographic]pornographic (EN) : (p.) pornograficzny
+[pornography]pornography (EN) : (rz.) pornografia
+[porosity]porosity (EN) : (rz.) porowatość
+[porous]porous (EN) : (p.) dziurkowaty; (p.) porowaty
+[porphyry]porphyry (EN) : (rz.) porfir
+[porpoise]porpoise (EN) : (rz.) delfin; (rz.) morświn
+[porridge]porridge (EN) : (rz.) owsianka
+[port]port (EN) : (rz.) port; (rz.) porto; (rz.) postawa; (rz.) przelot; (rz.) przystań; (rz.) twór; (rz.) wrota; (rz.) wygląd
+[port-wine]port-wine (EN) : (rz.) portwajn
+[portability]portability (EN) : (rz.) przenaszalność; (rz.) przenośność
+[portable]portable (EN) : (p.) przenośny; (p.) walizkowy
+[portage]portage (EN) : (rz.) przewóz
+[portal]portal (EN) : (rz.) brama; (rz.) portal
+[portative]portative (EN) : (p.) nośny; (p.) przenośny
+[portend]portend (EN) : (cz.) przepowiadać; (cz.) zapowiadać; (cz.) zwiastować
+[portent]portent (EN) : (rz.) cudo; (rz.) oznaka; (rz.) zapowiedź; (rz.) zwiastun
+[portentous]portentous (EN) : (p.) nadzwyczajny; (p.) pompatyczny; (p.) złowieszczy; (p.) złowróżbny
+[porter]porter (EN) : (rz.) dozorca; (rz.) porter; (rz.) portier; (rz.) tragarz
+[porterhouse]porterhouse (EN) : (rz.) befsztyk
+[portfolio]portfolio (EN) : (rz.) akta; (rz.) aktówka; (rz.) portfel; (rz.) teczka; (rz.) teka
+[porthole]porthole (EN) : (rz.) ambrazura; (rz.) iluminator
+[portico]portico (EN) : (rz.) portyk
+[portion]portion (EN) : (cz.) porcjować; (rz.) część; (rz.) fragment; (rz.) porcja; (rz.) posag
+[portliness]portliness (EN) : (rz.) dostojeństwo; (rz.) korpulentność
+[portly]portly (EN) : (p.) dostojny; (p.) godny; (p.) reprezentacyjny; (p.) tęgi
+[portmanteau]portmanteau (EN) : (rz.) waliza; (rz.) walizka
+[portrait]portrait (EN) : (rz.) portret
+[portrait-painter]portrait-painter (EN) : (rz.) portrecista
+[portraitist]portraitist (EN) : (rz.) portrecista
+[portraiture]portraiture (EN) : (rz.) portret
+[portray]portray (EN) : (cz.) opisywać; (cz.) portretować; (cz.) przedstawiać; (cz.) sportretować
+[portrayal]portrayal (EN) : (rz.) opisanie; (rz.) portret
+[pose]pose (EN) : (cz.) pozować; (cz.) udawać; (cz.) zadawać; (rz.) poza; (rz.) pozer; (rz.) pozowanie
+[poser]poser (EN) : (rz.) figurant; (rz.) kabotyn; (rz.) łamigłówka; (rz.) pozer
+[poseur]poseur (EN) : (rz.) pozer
+[posh]posh (EN) : (p.) elegancki; (p.) szykowny
+[posit]posit (EN) : (cz.) postulować; (cz.) sugerować; (cz.) zakładać
+[position]position (EN) : (rz.) awans; (rz.) miejsce; (rz.) nastawienie; (rz.) położenie; (rz.) posada; (rz.) pozycja; (rz.) stan; (rz.) stanowisko; (rz.) sytuacja; (rz.) ułożenie; (rz.) umiejscowienie
+[positional]positional (EN) : (p.) pozycyjny
+[positive]positive (EN) : (p.) dodatni; (p.) korzystny; (p.) optymistyczny; (p.) pewny; (p.) pozytywny; (p.) pozytywowy; (p.) rzeczowy; (p.) stanowczy; (p.) twierdzący; (rz.) pozytyw
+[positively]positively (EN) : (p-sł.) dodatnio; (p-sł.) pozytywnie
+[positivism]positivism (EN) : (rz.) pozytywizm
+[positivist]positivist (EN) : (rz.) pozytywista
+[positron]positron (EN) : (rz.) antyelektron; (rz.) pozyton; (rz.) pozytron
+[posse]posse (EN) : (rz.) grupa; (rz.) oddział
+[possess]possess (EN) : (cz.) opętywać; (cz.) posiadać; (cz.) posiąść
+[possessed]possessed (EN) : (p.) opętany
+[possession]possession (EN) : (rz.) dobytek; (rz.) posiadanie; (rz.) posiadłość; (rz.) własność
+[possessions]possessions (EN) : (rz.) chudoba; (rz.) mienie
+[possessive]possessive (EN) : (p.) dzierżawczy; (p.) własnościowy; (p.) zaborczy
+[possessively]possessively (EN) : (p-sł.) zaborczo
+[possessiveness]possessiveness (EN) : (rz.) pozytywność; (rz.) zaborczość
+[possessor]possessor (EN) : (rz.) posiadacz; (rz.) właściciel
+[possess’]possess’ (EN) : (cz.) posiąść
+[possibility]possibility (EN) : (rz.) możliwość; (rz.) prawdopodobieństwo
+[possible]possible (EN) : (p.) ewentualny; (p.) możliwy; (p.) niemożliwy; (rz.) ewentualność
+[possibly]possibly (EN) : (p-sł.) ewentualnie; (p-sł.) może; (p-sł.) możliwie; (p-sł.) prawdopodobnie
+[post]post (EN) : (cz.) nadać; (cz.) naklejać; (cz.) ogłaszać; (cz.) wysłać; (cz.) zawiadamiać; (rz.) placówka; (rz.) poczta; (rz.) posada; (rz.) posterunek; (rz.) słup; (rz.) słupek; (rz.) stanowisko; (rz.) urząd
+[post-bellum]post-bellum (EN) : (p.) powojenny
+[post-card]post-card (EN) : (rz.) pocztówka
+[post-date]post-date (EN) : (cz.) postdatować
+[post-glacial]post-glacial (EN) : (p.) polodowcowy
+[post-graduate]post-graduate (EN) : (p.) podyplomowy
+[post-nuptial]post-nuptial (EN) : (p.) poślubny
+[post-office]post-office (EN) : (rz.) poczta
+[post-war]post-war (EN) : (p.) powojenny
+[postage]postage (EN) : (rz.) porto
+[postal]postal (EN) : (p.) pocztowy
+[postbag]postbag (EN) : (rz.) korespondencja
+[postcard]postcard (EN) : (rz.) arkusz; (rz.) formularz; (rz.) karta; (rz.) kartka; (rz.) pocztówka; (rz.) widokówka
+[postdate]postdate (EN) : (cz.) postdatować
+[poster]poster (EN) : (rz.) afisz; (rz.) nadawca; (rz.) plakat; (rz.) plakatówka
+[posterior]posterior (EN) : (p.) następny; (p.) późniejszy; (p.) tylny; (p.) zadni; (rz.) zad
+[posterity]posterity (EN) : (rz.) potomność; (rz.) potomstwo
+[postfix]postfix (EN) : (rz.) przyrostek
+[postglacial]postglacial (EN) : (p.) polodowcowy
+[postgraduate]postgraduate (EN) : (p.) podyplomowy
+[posthumous]posthumous (EN) : (p.) pośmiertny
+[posthumously]posthumously (EN) : (p-sł.) pośmiertnie
+[postimpressionism]postimpressionism (EN) : (rz.) postimpresjonizm
+[posting]posting (EN) : (rz.) delegowanie; (rz.) księgowanie; (rz.) nadanie; (rz.) ogłoszenie; (rz.) opublikowanie; (rz.) posada; (rz.) wystawianie; (rz.) zawiadomienie
+[postman]postman (EN) : (rz.) doręczyciel; (rz.) listonosz
+[postmark]postmark (EN) : (cz.) ostemplować; (rz.) stempel
+[postmaster]postmaster (EN) : (rz.) poczmistrz
+[postmeridian]postmeridian (EN) : (p.) popołudniowy
+[postnatal]postnatal (EN) : (p.) poporodowy
+[postnuptial]postnuptial (EN) : (p.) poślubny
+[postoperative]postoperative (EN) : (p.) pooperacyjny
+[postpone]postpone (EN) : (cz.) odkładać; (cz.) odłożyć; (cz.) odraczać; (cz.) przełożyć
+[postponed]postponed (EN) : (cz.) odkładać
+[postponement]postponement (EN) : (rz.) odłożenie; (rz.) odraczanie; (rz.) odroczenie
+[postprandial]postprandial (EN) : (p.) poobiedni
+[postprocessor]postprocessor (EN) : (rz.) postprocesor
+[postscript]postscript (EN) : (rz.) dopisek; (rz.) postscriptum; (rz.) przypisek
+[posttraumatic]posttraumatic (EN) : (p.) pourazowy
+[postulants]postulants (EN) : (rz.) postulant
+[postulate]postulate (EN) : (cz.) postulować; (rz.) aksjomat; (rz.) postulat; (rz.) założenie
+[postulation]postulation (EN) : (rz.) postulat
+[posture]posture (EN) : (cz.) nastawiać; (cz.) nastawić; (rz.) nachylenie; (rz.) położenie; (rz.) postawa; (rz.) postura; (rz.) poza
+[posturing]posturing (EN) : (rz.) pozowanie
+[posy]posy (EN) : (rz.) bukiet; (rz.) wiązanka
+[pot]pot (EN) : (cz.) ustrzelić; (rz.) czajnik; (rz.) doniczka; (rz.) dzbanek; (rz.) gar; (rz.) garnek; (rz.) naczynie; (rz.) rondel
+[pot-bellied]pot-bellied (EN) : (p.) brzuchaty
+[pot-belly]pot-belly (EN) : (rz.) brzuchacz; (rz.) kałdun
+[pot-hole]pot-hole (EN) : (rz.) wgłębienie; (rz.) wybój
+[potable]potable (EN) : (p.) pitny
+[potash]potash (EN) : (rz.) potaż
+[potassium]potassium (EN) : (rz.) potas
+[potation]potation (EN) : (rz.) pijaństwo
+[potato]potato (EN) : (rz.) kartofel; (rz.) ziemniak
+[potato-beetle]potato-beetle (EN) : (rz.) stonka
+[potbellied]potbellied (EN) : (p.) brzuchaty
+[potbelly]potbelly (EN) : (rz.) brzuchacz; (rz.) kałdun
+[potency]potency (EN) : (rz.) potęga; (rz.) potencja
+[potent]potent (EN) : (p.) mocny; (p.) potężny; (p.) przekonywający; (p.) silny
+[potentate]potentate (EN) : (rz.) mocarz; (rz.) potentat
+[potential]potential (EN) : (p.) potencjalny; (rz.) możliwość; (rz.) potencja; (rz.) potencjał
+[potentiality]potentiality (EN) : (rz.) możliwość
+[potentially]potentially (EN) : (p-sł.) potencjalnie
+[potentiometer]potentiometer (EN) : (rz.) potencjometr
+[pothole]pothole (EN) : (rz.) wybój
+[potholing]potholing (EN) : (rz.) speleologia
+[potion]potion (EN) : (rz.) dawka; (rz.) napój
+[potluck]potluck (EN) : (p-sł.) wszystko
+[potpourri]potpourri (EN) : (rz.) mieszanka; (rz.) zbieranina
+[pottage]pottage (EN) : (rz.) polewka
+[potted]potted (EN) : (p.) doniczkowy; (p.) wazonowy; (p.) wekowany
+[potter]potter (EN) : (cz.) grzebać; (cz.) włóczyć; (rz.) garncarz; (rz.) majstrowanie
+[pottery]pottery (EN) : (rz.) ceramika; (rz.) fajans; (rz.) garncarstwo
+[potty]potty (EN) : (p.) błahy; (p.) lichy; (rz.) nocnik
+[pouch]pouch (EN) : (rz.) kieszeń; (rz.) sakiewka; (rz.) torba; (rz.) woreczek
+[pouf]pouf (EN) : (rz.) puf
+[poultice]poultice (EN) : (rz.) kataplazm; (rz.) okład
+[poultry]poultry (EN) : (rz.) drób; (rz.) ferma
+[poultry-farming]poultry-farming (EN) : (p.) drobiarski
+[pounce]pounce (EN) : (cz.) dziurawić; (cz.) rzucać; (cz.) rzucić; (cz.) spaść; (rz.) pazur
+[pound]pound (EN) : (cz.) rozgniatać; (cz.) tłuc; (cz.) ucierać; (cz.) walić; (rz.) funt
+[pound-force]pound-force (EN) : (rz.) funt-siła
+[pour]pour (EN) : (cz.) lać; (cz.) nalać; (cz.) nalewać; (cz.) nasypać; (cz.) wlać; (cz.) wylewać
+[poured]poured (EN) : (cz.) wlewać
+[pourer]pourer (EN) : (rz.) zalewacz
+[pouring]pouring (EN) : (p.) ulewny; (rz.) lanie; (rz.) nalewanie; (rz.) oblewanie; (rz.) odlewanie; (rz.) polewanie; (rz.) posypywanie; (rz.) przelanie; (rz.) przelewanie; (rz.) wlanie; (rz.) wlewanie; (rz.) wylewanie; (rz.) zlewanie
+[pout]pout (EN) : (cz.) dąsać; (cz.) dymać; (cz.) nadymać; (cz.) wydymać; (rz.) nadęcie
+[pouter]pouter (EN) : (rz.) gardłacz
+[poverty]poverty (EN) : (rz.) bieda; (rz.) dziadostwo; (rz.) mizerota; (rz.) ubóstwo
+[powder]powder (EN) : (cz.) napudrować; (cz.) obsypywać; (cz.) posypywać; (cz.) proszkować; (cz.) pudrować; (cz.) upudrować; (cz.) wypudrować; (rz.) miał; (rz.) proch; (rz.) proszek; (rz.) przysypka; (rz.) puder; (rz.) pudrowanie; (rz.) pył; (rz.) zasypka
+[powder-magazine]powder-magazine (EN) : (rz.) prochownia
+[powdered]powdered (EN) : (p.) miałki; (p.) pyłowy; (p.) sproszkowany
+[powdery]powdery (EN) : (p.) proszkowaty; (p.) pylisty; (p.) sproszkowany; (p.) sypki
+[power]power (EN) : (cz.) zasilić; (rz.) elektroenergetyka; (rz.) moc; (rz.) mocarstwo; (rz.) oddziaływanie; (rz.) pełnomocnictwo; (rz.) potęga; (rz.) siła; (rz.) uprawnienie; (rz.) władza; (rz.) zasilanie
+[power-house]power-house (EN) : (rz.) elektrownia; (rz.) siłownia
+[power-plant]power-plant (EN) : (rz.) elektrownia
+[powerboat]powerboat (EN) : (rz.) motorówka
+[powerful]powerful (EN) : (p.) mocny; (p.) potężny; (p.) silny; (p.) wpływowy; (p.) wszechmocny; (rz.) huk; (rz.) potężne
+[powerfully]powerfully (EN) : (p-sł.) mocarnie; (p-sł.) mocno; (p-sł.) silnie
+[powerhouse]powerhouse (EN) : (rz.) elektrownia; (rz.) siłownia
+[powerless]powerless (EN) : (p.) bezradny; (p.) bezsilny; (p.) niemocny
+[powerlessly]powerlessly (EN) : (p-sł.) bezsilnie
+[powerlessness]powerlessness (EN) : (rz.) bezsilność; (rz.) niemoc
+[powers]powers (EN) : (rz.) pełnomocnictwo
+[powwow]powwow (EN) : (rz.) zebranie
+[pox]pox (EN) : (rz.) kiła; (rz.) ospa
+[practicability]practicability (EN) : (rz.) realność; (rz.) wykonalność
+[practicable]practicable (EN) : (p.) praktyczny; (p.) wykonalny
+[practicably]practicably (EN) : (p-sł.) praktycznie
+[practical]practical (EN) : (p.) faktyczny; (p.) praktyczny; (p.) realny; (p.) rzeczywisty
+[practicality]practicality (EN) : (rz.) praktyczność
+[practically]practically (EN) : (p-sł.) faktycznie; (p-sł.) niemal; (p-sł.) praktycznie; (p-sł.) rzeczywiście; (p-sł.) właściwie
+[practice]practice (EN) : (cz.) ćwiczyć; (cz.) ordynować; (cz.) poćwiczyć; (cz.) praktykować; (cz.) przećwiczyć; (rz.) ćwiczenie; (rz.) praktyk; (rz.) praktyka; (rz.) praktykowanie; (rz.) wprawa; (rz.) wyrobienie; (rz.) zwyczaj
+[practicing]practicing (EN) : (rz.) praktykowanie; (rz.) uprawianie
+[practise]practise (EN) : (cz.) ćwiczyć; (cz.) praktykować; (cz.) wykorzystywać
+[practised]practised (EN) : (p.) wprawny
+[practitioner]practitioner (EN) : (rz.) praktyk; (rz.) praktykowanie
+[praetor]praetor (EN) : (rz.) pretor
+[praetorian]praetorian (EN) : (p.) pretoriański; (rz.) pretorianin
+[pragmatic]pragmatic (EN) : (p.) pragmatyczny
+[pragmatically]pragmatically (EN) : (p-sł.) pragmatycznie
+[pragmatics]pragmatics (EN) : (rz.) pragmatyka
+[pragmatism]pragmatism (EN) : (rz.) pragmatyzm
+[pragmatist]pragmatist (EN) : (rz.) pragmatyk
+[prairie]prairie (EN) : (rz.) preria
+[praise]praise (EN) : (cz.) błogosławić; (cz.) chwalić; (cz.) rozsławiać; (cz.) sławić; (cz.) uwielbić; (cz.) wychwalać; (cz.) zachwalać; (rz.) aprobata; (rz.) chwała; (rz.) chwalba; (rz.) pochwała
+[praiseworthily]praiseworthily (EN) : (p-sł.) zaszczytnie
+[praiseworthy]praiseworthy (EN) : (p.) chlubny; (p.) chwalebny; (p.) zaszczytny
+[praline]praline (EN) : (rz.) pralina
+[pram]pram (EN) : (rz.) wózek
+[prance]prance (EN) : (cz.) brykać; (cz.) podrygiwać; (cz.) tańczyć
+[prancing]prancing (EN) : (p.) pyszałkowaty
+[prank]prank (EN) : (rz.) figiel; (rz.) harc; (rz.) podskok; (rz.) psikus; (rz.) psota; (rz.) sprawka; (rz.) wybryk
+[prankish]prankish (EN) : (p.) psotny; (p.) urwisowski
+[prankster]prankster (EN) : (rz.) figlarz; (rz.) kawalarz; (rz.) psotnik
+[praseodymium]praseodymium (EN) : (rz.) prazeodym
+[prate]prate (EN) : (cz.) bajdurzyć; (cz.) paplać; (rz.) bajdurzenie; (rz.) paplanina
+[prattle]prattle (EN) : (cz.) gaworzyć; (cz.) paplać; (rz.) paplanie; (rz.) paplanina; (rz.) szczebiot
+[prattler]prattler (EN) : (rz.) bajarz; (rz.) gaduła; (rz.) papla; (rz.) pleciuch; (rz.) pleciucha; (rz.) pleciuga
+[prawn]prawn (EN) : (rz.) krewetka
+[praxis]praxis (EN) : (rz.) praktyka; (rz.) zwyczaj
+[pray]pray (EN) : (cz.) błagać; (cz.) modlić; (cz.) pomodlić; (cz.) prosić
+[prayer]prayer (EN) : (rz.) modlitwa; (rz.) pacierz; (rz.) petent; (rz.) prośba
+[prayer-book]prayer-book (EN) : (rz.) modlitewnik
+[prayerful]prayerful (EN) : (p.) modlitewny
+[prayers]prayers (EN) : (rz.) modlitwy
+[pre]pre (EN) : (cz.) przesądzać; (p.) przedchrześcijański; (p.) przedwojenny; (p-sł.) wstępnie
+[pre-eminent]pre-eminent (EN) : (p.) wybitny
+[pre-empt]pre-empt (EN) : (cz.) udaremniać; (cz.) uprzedzać
+[pre-emption]pre-emption (EN) : (rz.) pierwokup
+[pre-existence]pre-existence (EN) : (rz.) preegzystencja
+[pre-tax]pre-tax (EN) : (rz.) brutto
+[pre-war]pre-war (EN) : (p.) przedwojenny
+[preach]preach (EN) : (cz.) głosić; (cz.) wygłaszać
+[preacher]preacher (EN) : (rz.) głosiciel; (rz.) kaznodzieja
+[preaching]preaching (EN) : (rz.) kaznodziejstwo; (rz.) przepowiadanie
+[preamble]preamble (EN) : (rz.) nagłówek; (rz.) preambuła; (rz.) wstęp
+[preamplifier]preamplifier (EN) : (rz.) przedwzmacniacz
+[precarious]precarious (EN) : (p.) niebezpieczny; (p.) niepewny; (p.) wątpliwy
+[precariously]precariously (EN) : (p-sł.) niepewnie; (p-sł.) przypadkowo
+[precaution]precaution (EN) : (rz.) ochrona; (rz.) ostrożność; (rz.) zabezpieczenie
+[precautionary]precautionary (EN) : (p.) przezorny; (p.) zapobiegawczy
+[precede]precede (EN) : (cz.) poprzedzać; (cz.) poprzedzić; (cz.) wyprzedzać
+[precedence]precedence (EN) : (rz.) nadrzędność; (rz.) pierwszeństwo; (rz.) prymat
+[precedent]precedent (EN) : (rz.) precedens
+[precept]precept (EN) : (rz.) nakaz; (rz.) prawidło; (rz.) przepis
+[preceptor]preceptor (EN) : (rz.) instruktor; (rz.) nauczyciel
+[precession]precession (EN) : (rz.) precesja
+[precinct]precinct (EN) : (rz.) dzielnica; (rz.) granica; (rz.) obręb; (rz.) ogrodzenie; (rz.) okręg; (rz.) zakres
+[precious]precious (EN) : (p.) cenny; (p.) drogocenny; (p.) szlachetny; (p.) wartościowy; (p.) wspaniały; (p.) znaczny
+[preciousness]preciousness (EN) : (rz.) drogocenność
+[precipice]precipice (EN) : (rz.) czeluść; (rz.) urwisko
+[precipitant]precipitant (EN) : (p.) pospieszny
+[precipitate]precipitate (EN) : (cz.) osadzać; (cz.) przyspieszać; (cz.) przyśpieszać; (cz.) strącać; (cz.) stracić; (cz.) strącić; (cz.) wytrącać; (p.) pośpieszny
+[precipitately]precipitately (EN) : (p-sł.) pochopnie; (p-sł.) pośpiesznie
+[precipitation]precipitation (EN) : (rz.) gwałtowność; (rz.) porywczość; (rz.) pośpiech; (rz.) przyspieszenie; (rz.) strącanie; (rz.) strącenie; (rz.) strąt; (rz.) wytrącanie; (rz.) wytracenie; (rz.) wytrącenie
+[precipitous]precipitous (EN) : (p.) pośpieszny; (p.) przepaścisty; (p.) przepastny; (p.) stromy; (p.) urwisty
+[precipitously]precipitously (EN) : (p-sł.) pośpiesznie; (p-sł.) stromo
+[precise]precise (EN) : (p.) dokładny; (p.) precyzyjny
+[precisely]precisely (EN) : (p-sł.) dokładnie; (p-sł.) precyzyjnie; (p-sł.) ściśle; (p-sł.) szczegółowo
+[preciseness]preciseness (EN) : (rz.) dokładność
+[precision]precision (EN) : (rz.) dokładność; (rz.) finezyjność; (rz.) precyzja; (rz.) precyzyjność; (rz.) skrupulatność; (rz.) uszczegółowianie
+[preclude]preclude (EN) : (cz.) wykluczać; (cz.) wyłączyć; (cz.) zapobiegać
+[preclusion]preclusion (EN) : (rz.) wyłączenie; (rz.) zapobieżenie
+[preclusive]preclusive (EN) : (p.) prekluzyjny
+[precocious]precocious (EN) : (p.) przedwczesny
+[precociously]precociously (EN) : (cz.) dojrzewać
+[preconceive]preconceive (EN) : (cz.) uprzedzać; (cz.) uprzedzić; (cz.) wyobrażać
+[preconception]preconception (EN) : (rz.) opinia; (rz.) uprzedzenie
+[preconditioning]preconditioning (EN) : (rz.) kondycjonowanie
+[precursor]precursor (EN) : (rz.) poprzednik; (rz.) prekursor
+[precursory]precursory (EN) : (p.) prekursorski; (p.) prześladowczy; (p.) wstępny
+[predacious]predacious (EN) : (p.) drapieżny
+[predate]predate (EN) : (cz.) antydatować
+[predation]predation (EN) : (rz.) drapieżnictwo; (rz.) grabież
+[predator]predator (EN) : (rz.) drapieżca; (rz.) drapieżnik; (rz.) łupieżca
+[predatory]predatory (EN) : (p.) drapieżny; (p.) grabieżczy; (p.) łupieżczy; (p.) rabunkowy; (p.) rozbójniczy
+[predecessor]predecessor (EN) : (rz.) poprzednik
+[predefined]predefined (EN) : (p.) predefiniowany
+[predestination]predestination (EN) : (rz.) predestynacja
+[predestine]predestine (EN) : (cz.) predestynować
+[predetermine]predetermine (EN) : (cz.) determinować; (cz.) określać; (cz.) ustalać; (cz.) zdeterminować
+[predicament]predicament (EN) : (rz.) dylemat; (rz.) kłopot
+[predicate]predicate (EN) : (cz.) orzekać; (cz.) twierdzić; (rz.) orzeczenie; (rz.) predykat
+[predication]predication (EN) : (rz.) przewidywanie; (rz.) twierdzenie
+[predicative]predicative (EN) : (p.) określający; (p.) orzecznikowy; (p.) predykatywny
+[predict]predict (EN) : (cz.) powróżyć; (cz.) przepowiadać; (cz.) przewidywać; (cz.) przewidzieć; (cz.) uprzedzać; (cz.) wywróżyć
+[predictability]predictability (EN) : (rz.) przewidywalność
+[predictable]predictable (EN) : (p.) przewidywalny
+[predictably]predictably (EN) : (p-sł.) przewidywalnie
+[prediction]prediction (EN) : (rz.) prognoza; (rz.) proroctwo; (rz.) przepowiadanie; (rz.) przepowiednia; (rz.) przewidywanie; (rz.) wróżba
+[predictive]predictive (EN) : (p.) proroczy
+[predictor]predictor (EN) : (rz.) przelicznik
+[predilection]predilection (EN) : (rz.) predylekcja; (rz.) zamiłowanie
+[predispose]predispose (EN) : (cz.) predysponować
+[predisposition]predisposition (EN) : (rz.) predyspozycja; (rz.) skłonność
+[predominance]predominance (EN) : (rz.) górowanie; (rz.) przewaga; (rz.) wyższość
+[predominant]predominant (EN) : (p.) panujący; (p.) przemożny; (p.) przeważający
+[predominantly]predominantly (EN) : (p-sł.) przeważnie
+[predominate]predominate (EN) : (cz.) panować; (cz.) przeważać; (cz.) przewyższać
+[preen]preen (EN) : (cz.) wystrajać; (cz.) wystroić
+[prefabricate]prefabricate (EN) : (cz.) prefabrykować
+[prefabricated]prefabricated (EN) : (p.) prefabrykowany
+[prefabrication]prefabrication (EN) : (rz.) prefabrykacja
+[preface]preface (EN) : (rz.) prefacja; (rz.) prolog; (rz.) przedmowa; (rz.) wstęp
+[prefatory]prefatory (EN) : (p.) wstępny
+[prefect]prefect (EN) : (rz.) prefekt; (rz.) wójt
+[prefecture]prefecture (EN) : (rz.) prefektura
+[prefer]prefer (EN) : (cz.) preferować; (cz.) woleć
+[preferable]preferable (EN) : (p.) lepszy
+[preference]preference (EN) : (rz.) pierwszeństwo; (rz.) preferencja; (rz.) preferowanie; (rz.) przedkładanie; (rz.) uprzywilejowanie
+[preferences]preferences (EN) : (rz.) opcje; (rz.) preferencje; (rz.) ustawienia
+[preferential]preferential (EN) : (p.) preferencyjny
+[preferentially]preferentially (EN) : (p-sł.) preferencyjnie; (p-sł.) specjalnie
+[preferment]preferment (EN) : (rz.) awans
+[preferred]preferred (EN) : (p.) priorytetowy
+[prefix]prefix (EN) : (rz.) prefiks; (rz.) przedrostek
+[prefixes]prefixes (EN) : (rz.) prefiksowanie
+[pregnancy]pregnancy (EN) : (rz.) brzemienność; (rz.) ciąża
+[pregnant]pregnant (EN) : (p.) brzemienny; (p.) ciężarny
+[preheat]preheat (EN) : (cz.) podgrzewać
+[prehensile]prehensile (EN) : (p.) chwytny
+[prehistoric]prehistoric (EN) : (p.) prehistoryczny; (p.) przedhistoryczny
+[prehistory]prehistory (EN) : (rz.) prehistoria
+[prejudice]prejudice (EN) : (rz.) przesąd; (rz.) szkoda; (rz.) ujma; (rz.) uprzedzenie; (rz.) uszczerbek
+[prejudiced]prejudiced (EN) : (p.) przychylny; (p.) uprzedzony
+[prejudicial]prejudicial (EN) : (p.) szkodliwy
+[prelacy]prelacy (EN) : (rz.) episkopat; (rz.) prałatura
+[prelate]prelate (EN) : (rz.) prałat
+[preliminaries]preliminaries (EN) : (rz.) preliminaria
+[preliminary]preliminary (EN) : (p.) preliminarny; (p.) przedwstępny; (p.) przygotowawczy; (p.) wstępny
+[prelude]prelude (EN) : (cz.) poprzedzać; (cz.) wprowadzać; (cz.) wprowadzić; (rz.) preludium; (rz.) przygrywka; (rz.) wstęp
+[premarital]premarital (EN) : (p.) przedmałżeński
+[premature]premature (EN) : (p.) pochopny; (p.) przedterminowy; (p.) przedwczesny; (p.) wczesny
+[prematurely]prematurely (EN) : (p-sł.) przedwcześnie
+[premeditate]premeditate (EN) : (cz.) obmyślać; (cz.) rozważać; (cz.) zaplanować
+[premeditated]premeditated (EN) : (p.) rozmyślny
+[premeditation]premeditation (EN) : (rz.) premedytacja; (rz.) rozmyślność
+[premier]premier (EN) : (rz.) premier
+[premiere]premiere (EN) : (rz.) prapremiera; (rz.) prawykonanie; (rz.) premiera
+[premise]premise (EN) : (rz.) lokal; (rz.) obszar; (rz.) posiadłość; (rz.) przesłanka; (rz.) założenie
+[premises]premises (EN) : (rz.) lokal; (rz.) posesja; (rz.) zabudowania
+[premium]premium (EN) : (p.) premiowy; (rz.) ażio; (rz.) dodatek; (rz.) nagroda; (rz.) opłata; (rz.) premia; (rz.) składka; (rz.) stawka; (rz.) wynagrodzenie
+[premonition]premonition (EN) : (rz.) ostrzeżenie; (rz.) przeczucie
+[prenatal]prenatal (EN) : (p.) prenatalny; (p.) przedporodowy
+[preoccupation]preoccupation (EN) : (rz.) pochłonięcie; (rz.) troska; (rz.) uprzedzenie; (rz.) zaabsorbowanie; (rz.) zamyślenie
+[preoccupy]preoccupy (EN) : (cz.) absorbować; (cz.) pochłaniać; (cz.) uprzedzać; (cz.) zaabsorbować; (cz.) zaprzątać
+[preoperative]preoperative (EN) : (p.) przedoperacyjny
+[preparation]preparation (EN) : (rz.) preparat; (rz.) przygotowanie; (rz.) przyrządzanie; (rz.) przyrządzenie; (rz.) przysposobienie
+[preparatory]preparatory (EN) : (p.) przygotowawczy
+[prepare]prepare (EN) : (cz.) naszykować; (cz.) przygotować; (cz.) przygotowywać; (cz.) przyrządzać; (cz.) przyrządzić; (cz.) przyszykować; (cz.) sporządzać; (cz.) sporządzić; (cz.) szykować
+[prepared]prepared (EN) : (p.) gotów
+[preparedness]preparedness (EN) : (rz.) przygotowanie
+[prepayment]prepayment (EN) : (rz.) przedpłata
+[preponderance]preponderance (EN) : (rz.) panowanie; (rz.) przewaga; (rz.) wyższość
+[preponderate]preponderate (EN) : (cz.) górować; (cz.) przeważać; (cz.) przeważyć
+[preposition]preposition (EN) : (rz.) przyimek
+[prepositional]prepositional (EN) : (p.) przyimkowy
+[prepossess]prepossess (EN) : (cz.) imponować; (cz.) natchnąć; (cz.) uprzedzać; (cz.) usposabiać
+[prepossessing]prepossessing (EN) : (p.) miły; (p.) sympatyczny
+[preposterous]preposterous (EN) : (p.) absurdalny; (p.) niedorzeczny; (p.) nonsensowny
+[prerequisite]prerequisite (EN) : (rz.) warunek
+[prerogative]prerogative (EN) : (rz.) prerogatywa; (rz.) przywilej
+[presage]presage (EN) : (cz.) przepowiadać; (cz.) zapowiadać; (rz.) przepowiednia
+[presbyter]presbyter (EN) : (rz.) prezbiter
+[presbytery]presbytery (EN) : (rz.) plebania; (rz.) prezbiterium; (rz.) probostwo
+[preschool]preschool (EN) : (p.) przedszkolny
+[prescient]prescient (EN) : (p.) proroczy
+[prescribe]prescribe (EN) : (cz.) kazać; (cz.) nakazać; (cz.) nakazywać; (cz.) określać; (cz.) przepisać; (cz.) przepisywać; (cz.) zalecać; (cz.) zaordynować; (cz.) zarządzać
+[prescribed]prescribed (EN) : (cz.) przepisywać
+[prescript]prescript (EN) : (rz.) nakaz
+[prescription]prescription (EN) : (rz.) przedawnienie; (rz.) przepis; (rz.) recepta; (rz.) receptura
+[prescriptive]prescriptive (EN) : (p.) nakazowy
+[presence]presence (EN) : (rz.) obecność; (rz.) prezencja
+[present]present (EN) : (cz.) darować; (cz.) podarować; (cz.) prezentować; (cz.) przebywać; (cz.) przedstawiać; (cz.) przedstawić; (cz.) stawić; (cz.) występować; (p.) aktualny; (p.) obecny; (rz.) dar; (rz.) prezent; (rz.) prezentowanie; (rz.) przedstawianie; (rz.) teraźniejszość
+[present-day]present-day (EN) : (p.) współczesny
+[presentable]presentable (EN) : (p.) porządny; (p.) przyzwoity; (p.) reprezentacyjny
+[presentation]presentation (EN) : (rz.) demonstracja; (rz.) okazanie; (rz.) pokaz; (rz.) prezentacja; (rz.) przedstawienie
+[presenter]presenter (EN) : (rz.) kolator; (rz.) prezenter
+[presentiment]presentiment (EN) : (rz.) przeczucie
+[presently]presently (EN) : (p-sł.) niebawem; (p-sł.) obecnie; (p-sł.) wkrótce
+[presentment]presentment (EN) : (rz.) oświadczenie
+[preservation]preservation (EN) : (rz.) konserwacja; (rz.) konserwowanie; (rz.) ochrona; (rz.) przechowanie; (rz.) stan; (rz.) uchronienie; (rz.) zabezpieczenie; (rz.) zachowanie
+[preservative]preservative (EN) : (p.) ochronny; (rz.) konserwant; (rz.) wywabiacz
+[preserve]preserve (EN) : (cz.) dochować; (cz.) konserwować; (cz.) przechowywać; (cz.) utrwalać; (cz.) zabezpieczyć; (cz.) zachować; (cz.) zachowywać; (cz.) zakonserwować; (rz.) konfitury; (rz.) konserwa; (rz.) rezerwat
+[preserver]preserver (EN) : (rz.) ochrona
+[preset]preset (EN) : (cz.) nastawiać; (cz.) ustawiać
+[presetting]presetting (EN) : (rz.) zadawanie
+[preside]preside (EN) : (cz.) górować; (cz.) prezesować; (cz.) prezydować; (cz.) przewodniczyć
+[presidency]presidency (EN) : (rz.) prezesostwo; (rz.) prezesura; (rz.) prezydentura; (rz.) przewodnictwo
+[president]president (EN) : (rz.) dyrektor; (rz.) prezes; (rz.) prezydent
+[presidential]presidential (EN) : (p.) prezesowski; (p.) prezydencki; (p.) prezydialny; (p.) rektorski
+[presidium]presidium (EN) : (rz.) prezydium
+[press]press (EN) : (cz.) gnieść; (cz.) naciskać; (cz.) nacisnąć; (cz.) przycisnąć; (cz.) tłoczyć; (cz.) uciskać; (cz.) wciskać; (cz.) wyprasować; (rz.) druk; (rz.) nacisk; (rz.) naciskanie; (rz.) naciśnięcie; (rz.) napór; (rz.) opresja; (rz.) prasa; (rz.) ścisk; (rz.) tłocznia; (rz.) tłok; (rz.) wciskanie; (rz.) wciśnięcie
+[press-up]press-up (EN) : (rz.) pompka
+[pressboard]pressboard (EN) : (rz.) preszpan
+[presser]presser (EN) : (rz.) prasowacz
+[pressing]pressing (EN) : (p.) naglący; (p.) natarczywy; (p.) pilny; (rz.) dociśnięcie; (rz.) naciskanie; (rz.) prasowanie; (rz.) sprasowanie; (rz.) tłoczenie; (rz.) uciskanie; (rz.) wciskanie; (rz.) wyciskanie
+[pressman]pressman (EN) : (rz.) dziennikarz; (rz.) preser
+[pressure]pressure (EN) : (rz.) ciśnięcie; (rz.) ciśnienie; (rz.) gniecenie; (rz.) nacisk; (rz.) napór; (rz.) natłok; (rz.) parcie; (rz.) presja; (rz.) prężność; (rz.) przeciwciśnienie; (rz.) przycisk; (rz.) ucisk; (rz.) ugniatanie
+[pressure-gauge]pressure-gauge (EN) : (rz.) manometr
+[pressured]pressured (EN) : (p.) nerwowy
+[pressurize]pressurize (EN) : (cz.) naciskać
+[presswork]presswork (EN) : (rz.) tłocznictwo
+[prestidigitator]prestidigitator (EN) : (rz.) prestidigitator
+[prestige]prestige (EN) : (rz.) poważanie; (rz.) prestiż
+[prestigious]prestigious (EN) : (p.) prestiżowy
+[presto]presto (EN) : (p.) szybki; (p-sł.) szybko
+[presumable]presumable (EN) : (p.) przypuszczalny
+[presumably]presumably (EN) : (p-sł.) przypuszczalnie; (p-sł.) umyślnie
+[presume]presume (EN) : (cz.) nadużywać; (cz.) ośmielać; (cz.) ośmielić; (cz.) pozwalać; (cz.) przyjmować; (cz.) przypuszczać; (cz.) sądzić; (cz.) zakładać
+[presumption]presumption (EN) : (rz.) domniemanie; (rz.) przypuszczenie; (rz.) urojenie; (rz.) założenie; (rz.) zarozumiałość
+[presumptive]presumptive (EN) : (p.) przypuszczalny
+[presumptuous]presumptuous (EN) : (p.) arogancki; (p.) zarozumiały
+[presumptuousness]presumptuousness (EN) : (cz.) przechwalać; (p.) szykowny; (rz.) zadufanie; (rz.) zarozumiałość
+[presuppose]presuppose (EN) : (cz.) implikować; (cz.) przyjmować; (cz.) zakładać
+[presupposition]presupposition (EN) : (rz.) domysł; (rz.) założenie
+[pretence]pretence (EN) : (rz.) pozór; (rz.) pretekst; (rz.) pretensja; (rz.) roszczenie; (rz.) udawanie
+[pretend]pretend (EN) : (cz.) pretendować; (cz.) przyznawać; (cz.) symulować; (cz.) twierdzić; (cz.) udawać
+[pretender]pretender (EN) : (rz.) pretendent; (rz.) udawanie
+[pretension]pretension (EN) : (rz.) pretensja; (rz.) pretensjonalność; (rz.) roszczenie
+[pretentious]pretentious (EN) : (p.) pretensjonalny
+[pretentiously]pretentiously (EN) : (p-sł.) pretensjonalnie
+[pretentiousness]pretentiousness (EN) : (rz.) pretensjonalność
+[preternatural]preternatural (EN) : (p.) nadnaturalny; (p.) zaziemski
+[pretext]pretext (EN) : (rz.) pretekst
+[prettify]prettify (EN) : (cz.) upiększać
+[prettily]prettily (EN) : (p-sł.) ładnie
+[prettiness]prettiness (EN) : (rz.) piękno; (rz.) piękność; (rz.) uroda
+[pretty]pretty (EN) : (p.) ładny; (p.) nadobny
+[pretzel]pretzel (EN) : (rz.) obwarzanek; (rz.) precel
+[prevail]prevail (EN) : (cz.) panoszyć; (cz.) przekonać; (cz.) przeważać; (cz.) przeważyć; (cz.) skłaniać; (cz.) skłonić; (cz.) zwyciężać
+[prevalence]prevalence (EN) : (rz.) chorobowość; (rz.) powszechność; (rz.) przewaga; (rz.) rozpowszechnienie
+[prevalent]prevalent (EN) : (p.) przemożny; (p.) przeważający; (p.) rozpowszechniony
+[prevaricate]prevaricate (EN) : (cz.) kręcić; (cz.) lawirować
+[prevarication]prevarication (EN) : (rz.) dwuznacznik; (rz.) krętactwo; (rz.) wykręt
+[prevaricator]prevaricator (EN) : (rz.) matacz
+[prevent]prevent (EN) : (cz.) chronić; (cz.) powstrzymywać; (cz.) przeszkadzać; (cz.) przeszkodzić; (cz.) uniemożliwiać; (cz.) uniemożliwić; (cz.) zapobiegać
+[preventative]preventative (EN) : (p.) prewencyjny; (p.) profilaktyczny; (p.) zapobiegawczy
+[prevention]prevention (EN) : (rz.) króciec; (rz.) prewencja; (rz.) profilaktyka; (rz.) przeszkoda; (rz.) zapobieganie
+[preventive]preventive (EN) : (p.) ochronny; (p.) prewencyjny; (p.) profilaktyczny; (p.) zapobiegawczy
+[preventively]preventively (EN) : (p-sł.) prewencyjnie
+[preview]preview (EN) : (cz.) podejrzeć; (rz.) podgląd; (rz.) podglądanie; (rz.) pokaz; (rz.) zwiastun
+[previous]previous (EN) : (p.) poprzedni; (p.) uprzedni
+[previously]previously (EN) : (p-sł.) poprzednio; (p-sł.) uprzednio; (p-sł.) wprzód
+[prey]prey (EN) : (cz.) grabić; (cz.) nurtować; (cz.) żerować; (rz.) łup; (rz.) ofiara; (rz.) pastwa; (rz.) zdobycz
+[price]price (EN) : (cz.) wyceniać; (rz.) cena
+[price-list]price-list (EN) : (rz.) cennik
+[priceless]priceless (EN) : (p.) bezcenny
+[pricelist]pricelist (EN) : (rz.) cennik
+[pricey]pricey (EN) : (p.) drogi; (p.) kosztowny
+[pricing]pricing (EN) : (rz.) wycena
+[prick]prick (EN) : (cz.) kłuć; (cz.) nakłuwać; (cz.) pokłuć; (cz.) przekłuć; (cz.) ukłuć; (rz.) idiota; (rz.) kutas; (rz.) nakłucie; (rz.) ukłucie
+[prickle]prickle (EN) : (cz.) kłuć; (rz.) ciarki; (rz.) cierń; (rz.) kolec
+[prickly]prickly (EN) : (p.) ciernisty; (p.) kolczasty
+[pricy]pricy (EN) : (p.) kosztowny
+[pride]pride (EN) : (cz.) chełpić; (cz.) pysznić; (cz.) szczycić; (rz.) chluba; (rz.) duma; (rz.) honorowość; (rz.) pycha
+[priest]priest (EN) : (rz.) duszpasterz; (rz.) kapłan; (rz.) klecha; (rz.) ksiądz
+[priesthood]priesthood (EN) : (rz.) duchowieństwo; (rz.) duszpasterstwo; (rz.) kapłaństwo; (rz.) kler
+[priestly]priestly (EN) : (p.) duszpasterski; (p.) kapłański
+[prig]prig (EN) : (rz.) erudyta; (rz.) pedant; (rz.) zarozumialec; (rz.) złodziej
+[priggish]priggish (EN) : (p.) pedantyczny
+[prim]prim (EN) : (cz.) sznurować; (p.) afektowany; (p.) pedantyczny; (p.) pruderyjny; (p.) przyzwoity; (p.) schludny; (p.) zdobny; (p.) zdolny
+[primacy]primacy (EN) : (rz.) prymasostwo; (rz.) prymat; (rz.) supremacja
+[primal]primal (EN) : (p.) główny; (p.) pierwotny; (p.) podstawowy
+[primarily]primarily (EN) : (p-sł.) głównie; (p-sł.) pierwotnie; (p-sł.) początkowo
+[primary]primary (EN) : (p.) główny; (p.) nadrzędny; (p.) pierwotny; (p.) pierwszoplanowy; (p.) pierwszorzędny; (p.) pierwszorzędowy; (p.) początkowy; (p.) podstawowy; (p.) zasadniczy
+[primate]primate (EN) : (rz.) prymas
+[prime]prime (EN) : (cz.) uzbrajać; (cz.) zagruntowywać; (cz.) zastrzykiwać; (p.) najlepszy; (p.) najważniejszy; (p.) pierwotny; (p.) pierwszorzędny; (p.) pierwszy; (p.) prosty; (p.) zasadniczy
+[primer]primer (EN) : (rz.) elementarz; (rz.) podręcznik; (rz.) spłonka; (rz.) zapalnik
+[primeval]primeval (EN) : (p.) odwieczny; (p.) pradawny
+[priming]priming (EN) : (rz.) podsypka; (rz.) spłonka
+[primitive]primitive (EN) : (p.) pierwotny; (p.) prymitywny
+[primitiveness]primitiveness (EN) : (rz.) prymityw; (rz.) prymitywizm
+[primitivism]primitivism (EN) : (rz.) prymitywizm
+[primness]primness (EN) : (rz.) afektacja; (rz.) pedantyczność
+[primogenitor]primogenitor (EN) : (rz.) praprzodek
+[primogeniture]primogeniture (EN) : (rz.) pierworództwo
+[primordial]primordial (EN) : (p.) pierwotny; (p.) podstawowy; (p.) prymitywny
+[primp]primp (EN) : (cz.) stroić
+[primrose]primrose (EN) : (rz.) pierwiosnek; (rz.) pierwiosnka; (rz.) prymula; (rz.) prymulka
+[primus]primus (EN) : (rz.) prymus
+[prince]prince (EN) : (rz.) królewicz; (rz.) książę
+[princely]princely (EN) : (p.) książęcy; (p.) wspaniały
+[principal]principal (EN) : (p.) główny; (p.) pryncypialny; (p.) zasadniczy; (rz.) dyrektor; (rz.) kapitał; (rz.) mocodawca; (rz.) pryncypał; (rz.) szef
+[principality]principality (EN) : (rz.) księstwo
+[principally]principally (EN) : (p-sł.) głównie; (p-sł.) szczególnie
+[principle]principle (EN) : (rz.) prawo; (rz.) reguła; (rz.) zasada
+[principled]principled (EN) : (p.) pryncypialny
+[prink]prink (EN) : (cz.) stroić; (cz.) wystrajać; (cz.) wystroić
+[print]print (EN) : (cz.) drukować; (cz.) opublikować; (cz.) wydrukować; (cz.) wytłaczać; (rz.) czcionka; (rz.) druk; (rz.) drukowanie; (rz.) dzieło; (rz.) kopia; (rz.) odbitka; (rz.) odcisk; (rz.) perkal; (rz.) rycina; (rz.) sztych; (rz.) tekst; (rz.) wydruk; (rz.) wydrukowanie
+[print-out]print-out (EN) : (rz.) wydruk
+[print-works]print-works (EN) : (rz.) drukarnia
+[printable]printable (EN) : (p.) drukowalny
+[printed]printed (EN) : (cz.) nadrukować; (p.) drukowany
+[printer]printer (EN) : (rz.) drukarka; (rz.) drukarz
+[printer's]printer's (EN) : (p.) drukarski
+[printing]printing (EN) : (rz.) druk; (rz.) drukarnia; (rz.) drukarstwo; (rz.) drukowanie; (rz.) kopiowanie; (rz.) nadruk; (rz.) odbijanie; (rz.) poligrafia; (rz.) wydrukowanie; (rz.) wyświetlanie
+[printing-house]printing-house (EN) : (rz.) drukarnia
+[printout]printout (EN) : (rz.) wydruk; (rz.) wydrukowanie
+[prior]prior (EN) : (p.) poprzedni; (p.) uprzedni; (rz.) poprzednik; (rz.) przeor
+[prioress]prioress (EN) : (rz.) przeorysza
+[priori]priori (EN) : (p.) aprioryczny
+[prioritize]prioritize (EN) : (cz.) przedłożyć; (cz.) szeregować
+[prioritizing]prioritizing (EN) : (rz.) hierarchizacja; (rz.) przedkładanie; (rz.) wyznaczanie
+[priority]priority (EN) : (rz.) pierwszeństwo; (rz.) priorytet; (rz.) uszeregowanie
+[priory]priory (EN) : (rz.) klasztor; (rz.) przeorat
+[prise]prise (EN) : (cz.) odłupywać; (cz.) odspajać
+[prism]prism (EN) : (rz.) graniastosłup; (rz.) pryzma; (rz.) pryzmat
+[prismatic]prismatic (EN) : (p.) graniastosłupowy; (p.) pryzmatyczny
+[prison]prison (EN) : (rz.) więzienie; (rz.) więziennictwo
+[prisoner]prisoner (EN) : (rz.) jeniec; (rz.) więzień
+[pristine]pristine (EN) : (p.) dawny; (p.) nieskazitelny
+[privacy]privacy (EN) : (rz.) izolacja; (rz.) odosobnienie; (rz.) prywatność; (rz.) samotność; (rz.) skrytość; (rz.) zacisze
+[private]private (EN) : (p.) poufny; (p.) prywatny; (p.) szeregowy; (p.) tajny; (p.) ustronny; (rz.) prywata; (rz.) szeregowiec
+[privateer]privateer (EN) : (rz.) kaper
+[privately]privately (EN) : (p-sł.) intymnie; (p-sł.) prywatnie
+[privation]privation (EN) : (rz.) brak; (rz.) niedostatek; (rz.) pozbawienie; (rz.) utrata
+[privatization]privatization (EN) : (rz.) prywatyzacja
+[privatize]privatize (EN) : (cz.) prywatyzować; (cz.) sprywatyzować
+[privet]privet (EN) : (rz.) ligustr
+[privilege]privilege (EN) : (rz.) immunitet; (rz.) przywilej; (rz.) uprzywilejowanie; (rz.) zaszczyt
+[privileged]privileged (EN) : (p.) uprzywilejowany
+[privy]privy (EN) : (p.) prywatny; (p.) tajemny; (p.) tajny; (rz.) klozet; (rz.) wychodek
+[prix]prix (EN) : (rz.) cena
+[prize]prize (EN) : (cz.) odważać; (cz.) podważać; (p.) pierwszorzędny; (rz.) fant; (rz.) nagroda; (rz.) premia; (rz.) wygrana
+[prize-fighter]prize-fighter (EN) : (rz.) bokser; (rz.) pięściarz
+[prize-winner]prize-winner (EN) : (rz.) laureat; (rz.) zwycięzca
+[pro]pro (EN) : (rz.) zawodowiec
+[proactive]proactive (EN) : (p.) prewencyjny; (p.) zapobiegawczy
+[probabilistic]probabilistic (EN) : (p.) probabilistyczny
+[probability]probability (EN) : (rz.) prawdopodobieństwo
+[probable]probable (EN) : (p.) możliwy; (p.) prawdopodobny
+[probably]probably (EN) : (p-sł.) chyba; (p-sł.) pewnie; (p-sł.) prawdopodobnie; (p-sł.) zapewne
+[probation]probation (EN) : (rz.) kurator; (rz.) nowicjat; (rz.) próba; (rz.) probacja; (rz.) staż
+[probationer]probationer (EN) : (rz.) praktykant; (rz.) stażysta
+[probative]probative (EN) : (p.) dowodowy
+[probe]probe (EN) : (cz.) przeszukiwać; (cz.) sondować; (cz.) wgłębić; (cz.) zgłębiać; (rz.) próbka; (rz.) próbnik; (rz.) sonda; (rz.) wzór
+[probing]probing (EN) : (rz.) sondowanie; (rz.) zagłębianie
+[probity]probity (EN) : (rz.) prawość; (rz.) rzetelność
+[problem]problem (EN) : (rz.) bolączka; (rz.) kłopot; (rz.) problem; (rz.) zadanie; (rz.) zagadnienie; (rz.) zagwozdka
+[problematic]problematic (EN) : (p.) problematyczny; (p.) problemowy
+[problematical]problematical (EN) : (p.) problematyczny
+[problematically]problematically (EN) : (p-sł.) problematycznie
+[problems]problems (EN) : (rz.) problematyka
+[proboscis]proboscis (EN) : (rz.) trąba; (rz.) trąbka
+[procaine]procaine (EN) : (rz.) prokaina
+[procedural]procedural (EN) : (p.) proceduralny
+[procedurally]procedurally (EN) : (p-sł.) proceduralnie
+[procedure]procedure (EN) : (rz.) metoda; (rz.) postępowanie; (rz.) procedura; (rz.) zabieg
+[proceed]proceed (EN) : (cz.) kontynuować; (cz.) podążać; (cz.) postępować
+[proceeding]proceeding (EN) : (rz.) działanie; (rz.) obrady; (rz.) poczynanie; (rz.) postępowanie; (rz.) sprawozdanie; (rz.) zachowanie
+[proceedings]proceedings (EN) : (rz.) akta; (rz.) obrady; (rz.) postępowanie
+[proceeds]proceeds (EN) : (rz.) dochód; (rz.) przychód; (rz.) zysk
+[process]process (EN) : (cz.) obrabiać; (cz.) przetworzyć; (rz.) metoda; (rz.) proces; (rz.) przebieg
+[processed]processed (EN) : (cz.) przetwarzać
+[processing]processing (EN) : (cz.) obrabiać; (rz.) obróbka; (rz.) proces; (rz.) procesowanie; (rz.) przebieranie; (rz.) przerób; (rz.) przetwarzanie; (rz.) przetwór; (rz.) przetwórczość; (rz.) przetwórstwo; (rz.) przetworzenie
+[procession]procession (EN) : (rz.) defilada; (rz.) korowód; (rz.) orszak; (rz.) pochód; (rz.) procesja
+[processional]processional (EN) : (p.) pochodowy; (p.) procesjonalny
+[processor]processor (EN) : (rz.) procesor; (rz.) przetwórca
+[processors]processors (EN) : (rz.) procesor
+[proclaim]proclaim (EN) : (cz.) obwieścić; (cz.) obwieszczać; (cz.) ogłaszać; (cz.) proklamować; (cz.) trąbić; (cz.) zakazywać
+[proclamation]proclamation (EN) : (rz.) głoszenie; (rz.) odezwa; (rz.) orędzie; (rz.) proklamacja
+[proclivity]proclivity (EN) : (rz.) pociąg; (rz.) skłonność; (rz.) uzdolnienie
+[proconsul]proconsul (EN) : (rz.) prokonsul
+[procrastinate]procrastinate (EN) : (cz.) odkładać; (cz.) zwlekać
+[procrastination]procrastination (EN) : (rz.) kunktatorstwo; (rz.) zwlekanie; (rz.) zwłoka
+[procreate]procreate (EN) : (cz.) płodzić; (cz.) rodzić; (cz.) rozradzać
+[procreation]procreation (EN) : (rz.) płodzenie; (rz.) prokreacja; (rz.) rodzenie
+[proctor]proctor (EN) : (rz.) cenzor
+[procurator]procurator (EN) : (rz.) prokurator
+[procure]procure (EN) : (cz.) dostać; (cz.) dostarczyć; (cz.) postarać; (cz.) powodować; (cz.) sprawiać; (cz.) sprawić; (cz.) stręczyć; (cz.) zdobywać; (cz.) zyskać
+[procurement]procurement (EN) : (rz.) nabywanie; (rz.) wyrabianie; (rz.) zaopatrzenie; (rz.) zdobywanie
+[procurer]procurer (EN) : (rz.) nabywca; (rz.) rajfur; (rz.) stręczyciel
+[procuress]procuress (EN) : (rz.) rajfurka
+[prod]prod (EN) : (cz.) dźgać; (cz.) kłuć; (cz.) poganiać; (cz.) pognać; (cz.) popędzać; (cz.) popychać; (cz.) szturchać; (rz.) bodziec; (rz.) dźgnięcie; (rz.) oścień; (rz.) szturchnięcie
+[prodigal]prodigal (EN) : (p.) marnotrawny; (p.) rozrzutny; (rz.) rozrzutnik; (rz.) utracjusz
+[prodigality]prodigality (EN) : (rz.) rozrzutność
+[prodigally]prodigally (EN) : (p-sł.) marnotrawnie; (p-sł.) rozrzutnie
+[prodigious]prodigious (EN) : (p.) bajoński; (p.) cudowny; (p.) ogromny; (p.) zdumiewający
+[prodigy]prodigy (EN) : (rz.) cudo; (rz.) cudowność; (rz.) człowiek
+[produce]produce (EN) : (cz.) dobywać; (cz.) osiągać; (cz.) powodować; (cz.) produkować; (cz.) wydawać; (cz.) wyprodukować; (cz.) wytwarzać; (rz.) produkcja; (rz.) produkt
+[producer]producer (EN) : (rz.) dyrektor; (rz.) inscenizator; (rz.) producent; (rz.) reżyser; (rz.) wytwórca
+[producer's]producer's (EN) : (p.) inscenizacyjny
+[product]product (EN) : (rz.) dukt; (rz.) fabrykat; (rz.) iloczyn; (rz.) preparat; (rz.) produkt; (rz.) przetwór; (rz.) towar; (rz.) wykonanie; (rz.) wynik; (rz.) wyrób; (rz.) wytwór
+[production]production (EN) : (rz.) produkcja; (rz.) produkowanie; (rz.) reżyseria; (rz.) wydajność; (rz.) wydobycie; (rz.) wyrabianie; (rz.) wytwarzanie; (rz.) wytwórstwo
+[productive]productive (EN) : (p.) produkcyjny; (p.) produktywny; (p.) wydajny; (p.) wytwórczy
+[productively]productively (EN) : (p-sł.) produktywnie
+[productiveness]productiveness (EN) : (rz.) produktywizacja; (rz.) produktywność
+[productivity]productivity (EN) : (rz.) efektywność; (rz.) produkcyjność; (rz.) produktywność; (rz.) przepustowość; (rz.) wydajność
+[proem]proem (EN) : (rz.) wstęp
+[profanation]profanation (EN) : (rz.) profanacja
+[profane]profane (EN) : (cz.) profanować; (cz.) sprofanować; (cz.) zbezcześcić; (cz.) zbezczeszczać; (p.) bluźnierczy; (p.) nieczysty; (p.) pospolity; (p.) świecki; (p.) wulgarny
+[profaner]profaner (EN) : (rz.) profanek
+[profanity]profanity (EN) : (rz.) bezbożność; (rz.) bluźnierstwo; (rz.) przekleństwo
+[profess]profess (EN) : (cz.) oświadczać; (cz.) twierdzić; (cz.) wykładać; (cz.) wyznawać; (cz.) zapewniać
+[professedly]professedly (EN) : (p-sł.) jasno; (p-sł.) jawnie; (p-sł.) rzekomo
+[profession]profession (EN) : (rz.) fach; (rz.) okupacja; (rz.) oświadczenie; (rz.) profesja; (rz.) wyznanie; (rz.) zajęcie; (rz.) zawód
+[professional]professional (EN) : (p.) branżowy; (p.) fachowy; (p.) profesjonalny; (p.) wyczynowy; (p.) zawodowy; (rz.) fachowiec; (rz.) profesjonalista; (rz.) wyczynowiec; (rz.) zawodowiec
+[professionalism]professionalism (EN) : (rz.) profesjonalizm; (rz.) zawodowstwo
+[professionally]professionally (EN) : (p-sł.) fachowo; (p-sł.) profesjonalnie; (p-sł.) zawodowo
+[professor]professor (EN) : (rz.) profesor
+[professor's]professor's (EN) : (p.) profesorski
+[professorial]professorial (EN) : (p.) profesorski; (p.) zawodowy
+[professorship]professorship (EN) : (rz.) profesura
+[proffer]proffer (EN) : (cz.) proponować; (cz.) przedkładać; (rz.) oferta; (rz.) propozycja; (rz.) przedkładanie
+[proficiency]proficiency (EN) : (rz.) biegłość; (rz.) sprawność; (rz.) wprawa
+[proficient]proficient (EN) : (p.) biegły; (p.) sprawny; (p.) wprawny
+[proficiently]proficiently (EN) : (p-sł.) biegle; (p-sł.) fachowo
+[profile]profile (EN) : (rz.) charakterystyka; (rz.) profil; (rz.) relief; (rz.) sylwetka
+[profiler]profiler (EN) : (rz.) frezarko-kopiarka
+[profit]profit (EN) : (cz.) korzystać; (cz.) zyskać; (rz.) dochód; (rz.) korzyść; (rz.) zysk
+[profit-making]profit-making (EN) : (p.) dochodowy; (p.) rentowny
+[profitability]profitability (EN) : (rz.) opłacalność; (rz.) rentowność; (rz.) zyskowność
+[profitable]profitable (EN) : (p.) dochodowy; (p.) korzystny; (p.) opłacalny; (p.) popłatny; (p.) rentowny; (p.) zyskowny
+[profitableness]profitableness (EN) : (rz.) dochodowość
+[profitably]profitably (EN) : (p-sł.) korzystnie; (p-sł.) lukratywnie; (p-sł.) zyskownie
+[profiteer]profiteer (EN) : (cz.) spekulować; (rz.) paskarz; (rz.) paskowanie; (rz.) spekulant; (rz.) spekulowanie
+[profiteer's]profiteer's (EN) : (p.) paskarski
+[profiteering]profiteering (EN) : (rz.) geszefciarstwo; (rz.) paskarstwo
+[profligacy]profligacy (EN) : (rz.) rozrzutność; (rz.) rozwiązłość
+[profligate]profligate (EN) : (p.) rozpustny; (p.) rozrzutny; (rz.) bezwstydnik; (rz.) rozpustnik
+[profound]profound (EN) : (p.) całkowity; (p.) głęboki; (p.) gruntowny
+[profoundly]profoundly (EN) : (p-sł.) dogłębnie; (p-sł.) głęboko
+[profundity]profundity (EN) : (rz.) głębia; (rz.) głębokość
+[profuse]profuse (EN) : (p.) hojny; (p.) obfity; (p.) przebogaty; (p.) rozlewny; (p.) rozrzutny; (p.) wylewny
+[profusely]profusely (EN) : (p-sł.) hojnie; (p-sł.) obficie
+[profusion]profusion (EN) : (rz.) amplituda; (rz.) hojność; (rz.) obfitość; (rz.) rozrzutność
+[progenitor]progenitor (EN) : (rz.) antenat; (rz.) przodek
+[progeny]progeny (EN) : (rz.) potomstwo
+[progesterone]progesterone (EN) : (rz.) progesteron
+[prognosis]prognosis (EN) : (rz.) prognoza; (rz.) rokowanie
+[prognostic]prognostic (EN) : (p.) prognostyczny; (rz.) prognostyk
+[prognosticate]prognosticate (EN) : (cz.) przepowiadać; (cz.) przepowiedzieć; (cz.) zapowiadać
+[prognostication]prognostication (EN) : (rz.) prognozowanie
+[program]program (EN) : (cz.) programować; (rz.) program
+[programmability]programmability (EN) : (rz.) programowalność
+[programmable]programmable (EN) : (p.) programowalny
+[programmatic]programmatic (EN) : (p.) programistyczny; (p.) programowy
+[programme]programme (EN) : (rz.) program; (rz.) projekt; (rz.) repertuar
+[programmer]programmer (EN) : (rz.) informatyka; (rz.) programator; (rz.) programista; (rz.) sterownik
+[programming]programming (EN) : (rz.) programowanie; (rz.) realizacja
+[progress]progress (EN) : (cz.) postępować; (rz.) bieg; (rz.) postęp; (rz.) progres; (rz.) rozwój; (rz.) tok
+[progression]progression (EN) : (rz.) postęp; (rz.) posuwanie; (rz.) progresja
+[progressive]progressive (EN) : (p.) nowomodny; (p.) postępowy; (p.) progresywny; (p.) stopniowy; (rz.) postępowiec
+[progressively]progressively (EN) : (p-sł.) postępowo
+[progressiveness]progressiveness (EN) : (rz.) postępowość
+[prohibit]prohibit (EN) : (cz.) wstrzymywać; (cz.) zabraniać; (cz.) zabronić; (cz.) zakazać; (cz.) zakazywać
+[prohibition]prohibition (EN) : (rz.) prohibicja; (rz.) projekcja; (rz.) zakaz
+[prohibitionist]prohibitionist (EN) : (rz.) prohibicjonista
+[prohibitive]prohibitive (EN) : (p.) ochronny; (p.) prohibicyjny
+[project]project (EN) : (cz.) projektować; (cz.) wystawać; (rz.) projekt; (rz.) projektodawca; (rz.) przedsięwzięcie; (rz.) referat
+[projectile]projectile (EN) : (p.) balistyczny; (p.) wyrzutowy; (rz.) pocisk
+[projection]projection (EN) : (rz.) odwzorowywanie; (rz.) planowanie; (rz.) projekcja; (rz.) rzut; (rz.) rzutowanie; (rz.) wybrzuszenie; (rz.) zarys
+[projectionist]projectionist (EN) : (rz.) kinooperator
+[projective]projective (EN) : (p.) rzutowy
+[projector]projector (EN) : (rz.) projektodawca; (rz.) projektor; (rz.) rzutnik; (rz.) wyświetlarka
+[proletarian]proletarian (EN) : (p.) proletariacki; (rz.) proletariusz; (rz.) proletariuszka
+[proletariat]proletariat (EN) : (rz.) proletariat
+[proliferate]proliferate (EN) : (cz.) mnożyć; (cz.) rozmnażać; (cz.) rozpleniać
+[proliferation]proliferation (EN) : (rz.) proliferacja; (rz.) rozpowszechnianie; (rz.) rozprzestrzenianie
+[prolific]prolific (EN) : (p.) płodny
+[prolix]prolix (EN) : (p.) rozlewny
+[prolixity]prolixity (EN) : (rz.) przewlekłość; (rz.) rozwlekłość
+[prolocutor]prolocutor (EN) : (rz.) rzecznik
+[prologue]prologue (EN) : (rz.) prolog
+[prolong]prolong (EN) : (cz.) prolongować; (cz.) przedłużać; (cz.) przedłużyć; (cz.) wydłużać; (cz.) wydłużyć
+[prolongation]prolongation (EN) : (rz.) prolongacja; (rz.) prolongata; (rz.) przedłużenie
+[prolonged]prolonged (EN) : (p.) długotrwały
+[prom]prom (EN) : (rz.) przechadzka
+[promenade]promenade (EN) : (rz.) bulwar; (rz.) deptak; (rz.) promenada; (rz.) przechadzka
+[promethium]promethium (EN) : (rz.) promet
+[prominence]prominence (EN) : (rz.) uwydatnienie; (rz.) waga; (rz.) ważność; (rz.) wybitność; (rz.) wypukłość; (rz.) występ; (rz.) wzniesienie; (rz.) znaczenie
+[prominent]prominent (EN) : (p.) głośny; (p.) poczesny; (p.) widoczny; (p.) wybitny; (p.) wydatny; (p.) wystający
+[promiscuity]promiscuity (EN) : (rz.) pomieszanie; (rz.) rozwiązłość; (rz.) wyuzdanie
+[promiscuous]promiscuous (EN) : (p.) bezładny; (p.) mieszany
+[promise]promise (EN) : (cz.) obiecać; (cz.) obiecywać; (cz.) przyrzekać; (cz.) rokować; (cz.) zapewniać; (cz.) zapowiadać; (rz.) obiecanka; (rz.) obietnica; (rz.) promesa; (rz.) przyrzeczenie
+[promising]promising (EN) : (p.) obiecujący
+[promontory]promontory (EN) : (rz.) cypel; (rz.) przylądek; (rz.) wzniesienie
+[promote]promote (EN) : (cz.) awansować; (cz.) krzewić; (cz.) lansować; (cz.) popierać; (cz.) promować; (cz.) wypromować; (cz.) zachęcać; (cz.) zachęcić
+[promoted]promoted (EN) : (cz.) awansować
+[promoter]promoter (EN) : (rz.) organizator; (rz.) promotor
+[promotion]promotion (EN) : (rz.) awans; (rz.) kampania; (rz.) krzewienie; (rz.) promocja; (rz.) promowanie; (rz.) reklama; (rz.) upowszechnianie
+[promotional]promotional (EN) : (p.) promocyjny
+[prompt]prompt (EN) : (cz.) monitować; (cz.) ożywiać; (cz.) ożywić; (cz.) podpowiadać; (cz.) suflować; (p.) bezzwłoczny; (p.) gotowy; (p.) natychmiastowy; (p.) niezwłoczny; (p.) rychły; (p.) spieszny; (p.) śpieszny; (p.) szybki; (p.) zdecydowany; (rz.) monit; (rz.) podpowiedź; (rz.) pytajnik
+[prompter]prompter (EN) : (rz.) prowokator; (rz.) sufler
+[prompting]prompting (EN) : (rz.) podpowiadanie
+[promptitude]promptitude (EN) : (rz.) gotowość; (rz.) szybkość
+[promptly]promptly (EN) : (p-sł.) punktualnie; (p-sł.) szybko
+[promptness]promptness (EN) : (rz.) punktualność; (rz.) szybkość
+[promulgate]promulgate (EN) : (cz.) ogłaszać
+[prone]prone (EN) : (p.) pochylony; (p.) pochyły; (p.) rozpostarty; (p.) skłonny
+[proneness]proneness (EN) : (p.) skłonny; (rz.) podatność
+[prong]prong (EN) : (rz.) kolec; (rz.) wtyk; (rz.) występ; (rz.) ząb
+[pronominal]pronominal (EN) : (p.) zaimkowy
+[pronoun]pronoun (EN) : (rz.) zaimek
+[pronounce]pronounce (EN) : (cz.) ogłaszać; (cz.) oświadczać; (cz.) wygłaszać; (cz.) wygłosić; (cz.) wymawiać; (cz.) wymówić; (cz.) wypowiadać
+[pronounced]pronounced (EN) : (p.) wymówiony
+[pronouncement]pronouncement (EN) : (rz.) orzeczenie; (rz.) wypowiedź
+[pronto]pronto (EN) : (p-sł.) migiem; (p-sł.) szybko
+[pronunciation]pronunciation (EN) : (rz.) wymawianie; (rz.) wymowa; (rz.) wymówienie
+[proof]proof (EN) : (cz.) uodporniać; (cz.) uodpornić; (p.) mocny; (p.) odporny; (rz.) dowód; (rz.) korekta; (rz.) promil; (rz.) udowodnienie; (rz.) wykazanie
+[proof-reader]proof-reader (EN) : (rz.) korektor
+[proofread]proofread (EN) : (cz.) robić; (cz.) zrobić
+[prop]prop (EN) : (rz.) podpora; (rz.) podpórka; (rz.) rekwizyt; (rz.) stojak
+[propaganda]propaganda (EN) : (rz.) propaganda
+[propagandist]propagandist (EN) : (rz.) propagandysta; (rz.) propagandzista
+[propagate]propagate (EN) : (cz.) mnożyć; (cz.) propagować; (cz.) przenosić; (cz.) rozpraszać; (cz.) rozsiewać; (cz.) szerzyć
+[propagation]propagation (EN) : (rz.) propagacja; (rz.) propagowanie; (rz.) przenoszenie; (rz.) rozmnażanie
+[propagator]propagator (EN) : (rz.) krzewiciel
+[propane]propane (EN) : (rz.) propan
+[propel]propel (EN) : (cz.) napędzać
+[propellant]propellant (EN) : (p.) pędny; (rz.) paliwo; (rz.) propergol
+[propeller]propeller (EN) : (rz.) pędnik; (rz.) propeller; (rz.) śmigło; (rz.) śruba
+[propensity]propensity (EN) : (rz.) inklinacja; (rz.) skłonność; (rz.) tendencja
+[proper]proper (EN) : (p.) właściwy
+[properly]properly (EN) : (p-sł.) mocno; (p-sł.) należycie; (p-sł.) odpowiednio; (p-sł.) prawidłowo; (p-sł.) przyzwoicie; (p-sł.) właściwie
+[property]property (EN) : (rz.) budynek; (rz.) dobytek; (rz.) dorobek; (rz.) majątek; (rz.) mienie; (rz.) nieruchomość; (rz.) odpowiedniość; (rz.) posesja; (rz.) posiadłość; (rz.) przyzwoitość; (rz.) właściwość; (rz.) własność
+[property-man]property-man (EN) : (rz.) rekwizytor
+[prophecy]prophecy (EN) : (rz.) proroctwo; (rz.) przepowiednia
+[prophesy]prophesy (EN) : (cz.) prorokować; (cz.) wyprorokować
+[prophet]prophet (EN) : (rz.) prorok
+[prophetic]prophetic (EN) : (p.) fatalny; (p.) proroczy; (p.) wieszczy; (p.) wróżebny
+[prophetical]prophetical (EN) : (p.) profetyczny
+[prophetically]prophetically (EN) : (p-sł.) proroczo
+[prophylactic]prophylactic (EN) : (p.) leczniczy; (p.) profilaktyczny
+[prophylaxis]prophylaxis (EN) : (rz.) profilaktyka
+[propinquity]propinquity (EN) : (rz.) bliskość; (rz.) pokrewieństwo; (rz.) sąsiedztwo
+[propitiate]propitiate (EN) : (cz.) jednać; (cz.) przebłagać; (cz.) przejednać; (cz.) przejednywać; (cz.) skłaniać; (cz.) zjednywać
+[propitiation]propitiation (EN) : (rz.) przebłaganie
+[propitiatory]propitiatory (EN) : (p.) przebłagalny
+[propitious]propitious (EN) : (p.) łaskawy; (p.) pomyślny; (p.) przychylny
+[proponent]proponent (EN) : (rz.) wnioskodawca; (rz.) zwolennik
+[proportion]proportion (EN) : (rz.) część; (rz.) odsetek; (rz.) procentowość; (rz.) proporcja
+[proportional]proportional (EN) : (p.) procentowy; (p.) proporcjonalny; (p.) rzeczywisty; (p.) stosunkowy
+[proportionality]proportionality (EN) : (rz.) proporcjonalność; (rz.) współmierność
+[proportionally]proportionally (EN) : (p-sł.) proporcjonalnie
+[proportionate]proportionate (EN) : (p.) proporcjonalny; (p.) stosunkowy
+[proportionately]proportionately (EN) : (p-sł.) odpowiednio; (p-sł.) proporcjonalnie
+[propos]propos (EN) : (p.) stosowny
+[proposal]proposal (EN) : (rz.) oferta; (rz.) oświadczyny; (rz.) propozycja; (rz.) wniosek
+[propose]propose (EN) : (cz.) oświadczać; (cz.) oświadczyć; (cz.) proponować; (cz.) zamierzać; (cz.) zapowiedzieć
+[proposition]proposition (EN) : (cz.) proponować; (rz.) propozycja; (rz.) stwierdzenie; (rz.) sugestia; (rz.) twierdzenie
+[propound]propound (EN) : (cz.) proponować; (cz.) przedkładać; (cz.) przedłożyć; (cz.) wyłuszczać; (cz.) wytłuszczać
+[proprietary]proprietary (EN) : (p.) firmowy; (p.) własnościowy; (p.) własny; (rz.) własność
+[proprietor]proprietor (EN) : (rz.) posiadacz; (rz.) właściciel
+[propriety]propriety (EN) : (rz.) poprawność; (rz.) prawidłowość; (rz.) przyzwoitość; (rz.) słuszność; (rz.) stosowność; (rz.) właściwość
+[propulsion]propulsion (EN) : (rz.) impuls; (rz.) napęd
+[propulsive]propulsive (EN) : (p.) napędowy
+[propylene]propylene (EN) : (rz.) propen; (rz.) propylen
+[prorate]prorate (EN) : (cz.) rozdzielać
+[prorogation]prorogation (EN) : (rz.) prorogacja
+[prorogue]prorogue (EN) : (cz.) odraczać; (cz.) prolongować
+[prosaic]prosaic (EN) : (p.) powszedni; (p.) prozaiczny
+[proscribe]proscribe (EN) : (cz.) delegalizować; (cz.) wygnać; (cz.) zabronić; (cz.) zakazywać
+[proscription]proscription (EN) : (rz.) proskrypcja; (rz.) zakaz
+[prose]prose (EN) : (rz.) proza; (rz.) prozaik
+[prosecute]prosecute (EN) : (cz.) zaskarżać; (cz.) zaskarżyć
+[prosecution]prosecution (EN) : (rz.) dochodzenie; (rz.) ściganie; (rz.) zaskarżenie
+[prosecutor]prosecutor (EN) : (rz.) oskarżyciel; (rz.) prokurator
+[prosecutor's]prosecutor's (EN) : (p.) prokuratorski
+[proselyte]proselyte (EN) : (rz.) prozelita
+[proselytize]proselytize (EN) : (cz.) nawracać
+[prosody]prosody (EN) : (rz.) prozodia
+[prospect]prospect (EN) : (rz.) możliwość; (rz.) myśl; (rz.) odległość; (rz.) perspektywa; (rz.) pomysł; (rz.) prospekt; (rz.) widok; (rz.) widoki
+[prospective]prospective (EN) : (p.) ostrożny; (p.) potencjalny; (p.) przewidujący; (p.) przewidywany; (p.) przyszły
+[prospector]prospector (EN) : (rz.) badacz; (rz.) poszukiwacz
+[prospectus]prospectus (EN) : (rz.) program; (rz.) prospekt
+[prosper]prosper (EN) : (cz.) prosperować; (cz.) rozwijać
+[prosperity]prosperity (EN) : (rz.) dobrobyt; (rz.) dostatek; (rz.) koniunktura; (rz.) pomyślność; (rz.) powodzenie
+[prosperous]prosperous (EN) : (p.) dostatni; (p.) pomyślny; (p.) zamożny
+[prostate]prostate (EN) : (rz.) prostata; (rz.) stercz
+[prosthesis]prosthesis (EN) : (rz.) proteza
+[prosthetic]prosthetic (EN) : (p.) prostetyczny; (p.) protetyczny
+[prostitute]prostitute (EN) : (cz.) psuć; (rz.) prostytutka
+[prostitution]prostitution (EN) : (rz.) nierząd; (rz.) prostytucja
+[prostrate]prostrate (EN) : (cz.) obezwładnić; (cz.) powalać
+[prostration]prostration (EN) : (rz.) czołobitność; (rz.) prostracja
+[prosy]prosy (EN) : (p.) banalny; (p.) nudny; (p.) prozaiczny
+[protactinium]protactinium (EN) : (rz.) protaktyn
+[protagonist]protagonist (EN) : (rz.) protagonista
+[proteases]proteases (EN) : (p.) peptydazy; (p.) proteinazy
+[protect]protect (EN) : (cz.) bronić; (cz.) chronić; (cz.) ochraniać; (cz.) ochronić; (cz.) zabezpieczać
+[protection]protection (EN) : (rz.) ochrona; (rz.) opieka; (rz.) osłona; (rz.) protekcja; (rz.) zabezpieczenie; (rz.) zgoda
+[protectionism]protectionism (EN) : (rz.) protekcjonizm
+[protectionist]protectionist (EN) : (rz.) protekcjonista
+[protective]protective (EN) : (p.) ochronny; (p.) osłonny; (p.) osłonowy; (p.) protekcyjny
+[protectively]protectively (EN) : (p-sł.) ochronnie
+[protectiveness]protectiveness (EN) : (rz.) opiekuńczość
+[protector]protector (EN) : (rz.) obrońca; (rz.) ochraniacz; (rz.) ochronnik; (rz.) opiekun; (rz.) protektor
+[protectorate]protectorate (EN) : (rz.) protektorat
+[protein]protein (EN) : (rz.) albumina; (rz.) białko; (rz.) proteina
+[proteolysis]proteolysis (EN) : (rz.) proteoliza
+[protest]protest (EN) : (cz.) protestować; (rz.) protest; (rz.) zapewnienie
+[protestant]protestant (EN) : (p.) protestancki; (rz.) anglikanin; (rz.) ewangelik
+[protestation]protestation (EN) : (rz.) oświadczenie; (rz.) zapewnienie; (rz.) zaprotestowanie
+[protester]protester (EN) : (rz.) demonstrant
+[protocol]protocol (EN) : (rz.) protokół
+[proton]proton (EN) : (rz.) proton
+[protoplasm]protoplasm (EN) : (rz.) protoplazma
+[protoplasmic]protoplasmic (EN) : (p.) protoplazmatyczny
+[protoplast]protoplast (EN) : (rz.) protoplasta
+[prototype]prototype (EN) : (rz.) pierwowzór; (rz.) prawzór; (rz.) prototyp; (rz.) wzorzec
+[prototyping]prototyping (EN) : (p.) prototypowy
+[protozoa]protozoa (EN) : (rz.) pierwotniaki
+[protozoan]protozoan (EN) : (rz.) pierwotniak
+[protozoon]protozoon (EN) : (rz.) jednokomórkowiec; (rz.) pierwotniak
+[protract]protract (EN) : (cz.) przeciągać; (cz.) przedłużać; (cz.) zwlekać
+[protracted]protracted (EN) : (p.) przewlekły
+[protractile]protractile (EN) : (p.) wysuwalny
+[protraction]protraction (EN) : (rz.) przedłużenie
+[protractor]protractor (EN) : (rz.) kątomierz
+[protrude]protrude (EN) : (cz.) odstawać; (cz.) sterczeć; (cz.) wystawać; (cz.) wysuwać
+[protrusion]protrusion (EN) : (rz.) sterczenie; (rz.) wykusz; (rz.) wystawanie; (rz.) występ; (rz.) wysunięcie; (rz.) wysuwanie
+[protuberance]protuberance (EN) : (rz.) opuchlizna; (rz.) podwyższenie; (rz.) wydętość; (rz.) wypukłość
+[proud]proud (EN) : (p.) butny; (p.) dumny; (p.) hardy; (p.) pyszny
+[prouder]prouder (EN) : (p.) dumny
+[proudly]proudly (EN) : (p-sł.) dumnie
+[prove]prove (EN) : (cz.) badać; (cz.) dowodzić; (cz.) okazywać; (cz.) próbować; (cz.) udowadniać; (cz.) udowodnić
+[proven]proven (EN) : (cz.) udowadniać
+[provenance]provenance (EN) : (rz.) pochodzenie; (rz.) proweniencja
+[provender]provender (EN) : (rz.) jedzenie; (rz.) obrok
+[provenience]provenience (EN) : (rz.) pochodzenie; (rz.) proweniencja
+[proverb]proverb (EN) : (rz.) przysłowie
+[proverbial]proverbial (EN) : (p.) przysłowiowy
+[proverbially]proverbially (EN) : (p-sł.) przysłowiowo
+[provide]provide (EN) : (cz.) dostarczać; (cz.) dostarczyć; (cz.) postanawiać; (cz.) przewidywać; (cz.) zabezpieczyć; (cz.) zaopatrywać; (cz.) zapewniać; (cz.) zarządzać
+[provided]provided (EN) : (spójnik) że
+[providence]providence (EN) : (rz.) opatrzność; (rz.) ostrożność; (rz.) oszczędność; (rz.) przewidywanie; (rz.) przezorność
+[provident]provident (EN) : (p.) oględny; (p.) opatrznościowy; (p.) oszczędny; (p.) przewidujący; (p.) przezorny; (p.) zapobiegliwy
+[providential]providential (EN) : (p.) opatrznościowy
+[provider]provider (EN) : (rz.) dostawca; (rz.) dostawczyni; (rz.) operator; (rz.) usługodawca; (rz.) zaopatrzeniowiec; (rz.) żywiciel
+[province]province (EN) : (rz.) dziedzina; (rz.) prowincja; (rz.) skraj; (rz.) województwo; (rz.) zakres
+[provincial]provincial (EN) : (p.) małomiasteczkowy; (p.) prowincjonalny; (p.) wojewódzki; (rz.) prowincjał
+[provincialism]provincialism (EN) : (rz.) prowincjonalizm
+[provinciality]provinciality (EN) : (rz.) prowincjonalność
+[provision]provision (EN) : (rz.) klauzula; (rz.) opieka; (rz.) przepis; (rz.) przewidzenie; (rz.) świadczenie; (rz.) udostępnienie; (rz.) warunek; (rz.) zabezpieczenie; (rz.) zaopatrywanie; (rz.) zaopatrzenie; (rz.) zapas; (rz.) zastosowanie; (rz.) zastrzeżenie
+[provisional]provisional (EN) : (p.) prowizoryczny; (p.) tymczasowy
+[provisionally]provisionally (EN) : (p-sł.) prowizorycznie; (p-sł.) tymczasowo
+[provisions]provisions (EN) : (rz.) prowiant
+[proviso]proviso (EN) : (rz.) klauzula
+[provisory]provisory (EN) : (p.) prowizoryczny; (p.) uwarunkowany
+[provocateur]provocateur (EN) : (rz.) prowokator
+[provocation]provocation (EN) : (rz.) drażnienie; (rz.) podrażnienie; (rz.) powód; (rz.) prowokacja; (rz.) wyzwanie; (rz.) zaczepka
+[provocative]provocative (EN) : (p.) prowokacyjny; (p.) prowokatorski
+[provocatively]provocatively (EN) : (p-sł.) prowokacyjnie; (p-sł.) wyzywająco
+[provoke]provoke (EN) : (cz.) niecierpliwić; (cz.) powodować; (cz.) prowokować; (cz.) rozdrażniać; (cz.) sprowokować; (cz.) wywoływać; (cz.) wyzywać
+[provoking]provoking (EN) : (p.) nieznośny
+[provost]provost (EN) : (rz.) burmistrz; (rz.) rektor
+[prow]prow (EN) : (rz.) dziób; (rz.) rachunek
+[prowess]prowess (EN) : (rz.) dzielność; (rz.) umiejętność; (rz.) waleczność
+[prowl]prowl (EN) : (cz.) czaić; (cz.) grasować; (cz.) wałęsać; (cz.) żerować
+[prowler]prowler (EN) : (rz.) maruder
+[proximate]proximate (EN) : (p.) bezpośredni; (p.) bliski
+[proximity]proximity (EN) : (rz.) bliskość; (rz.) sąsiedztwo
+[proxy]proxy (EN) : (rz.) pełnomocnictwo; (rz.) pełnomocnik; (rz.) prokura; (rz.) prokurent; (rz.) zastępca; (rz.) zastępstwo
+[prude]prude (EN) : (rz.) świętoszek; (rz.) wstydliwość
+[prudence]prudence (EN) : (rz.) roztropność; (rz.) rozwaga
+[prudent]prudent (EN) : (p.) ostrożny; (p.) przezorny; (p.) rozsądny; (p.) roztropny; (p.) rozważny
+[prudential]prudential (EN) : (p.) rozważny
+[prudently]prudently (EN) : (p-sł.) ostrożnie; (p-sł.) rozsądnie
+[prudery]prudery (EN) : (rz.) pruderia
+[prudish]prudish (EN) : (p.) pruderyjny; (p.) świętoszkowaty
+[prune]prune (EN) : (cz.) czyścić; (cz.) okrajać; (cz.) przycinać; (cz.) przystrzygać; (cz.) skracać; (cz.) zmniejszać; (rz.) głupek; (rz.) śliwka
+[pruning]pruning (EN) : (rz.) okrojenie; (rz.) przycinanie
+[prurience]prurience (EN) : (rz.) lubieżność; (rz.) pożądliwość; (rz.) pragnienie; (rz.) żądza
+[prurient]prurient (EN) : (p.) lubieżny
+[pry]pry (EN) : (cz.) gmerać; (cz.) podpatrywać; (cz.) podważać; (cz.) spoglądać; (cz.) węszyć; (cz.) wścibiać; (cz.) wyważać
+[précis]précis (EN) : (rz.) skrót; (rz.) streszczenie
+[psalm]psalm (EN) : (rz.) psalm
+[psalmist]psalmist (EN) : (rz.) psalmista
+[pseudo]pseudo (EN) : (p.) fałszywy; (p.) pozorny; (p.) rzekomy
+[pseudo-complement]pseudo-complement (EN) : (rz.) pseudo-uzupełnienie
+[pseudo-difference]pseudo-difference (EN) : (rz.) pseudo-różnica
+[pseudo-scientific]pseudo-scientific (EN) : (p.) pseudonaukowy
+[pseudo-tree]pseudo-tree (EN) : (rz.) pseudo-drzewo
+[pseudonym]pseudonym (EN) : (rz.) pseudonim
+[pseudopodium]pseudopodium (EN) : (rz.) nibynóżka
+[pseudorandom]pseudorandom (EN) : (p.) pseudolosowy
+[psoriasis]psoriasis (EN) : (rz.) łuszczyca
+[psyche]psyche (EN) : (rz.) dusza; (rz.) koszówka; (rz.) psyche; (rz.) psychika
+[psychedelic]psychedelic (EN) : (p.) halucynogenny; (p.) psychodeliczny
+[psychiatric]psychiatric (EN) : (p.) psychiatryczny
+[psychiatrics]psychiatrics (EN) : (rz.) psychiatria
+[psychiatrist]psychiatrist (EN) : (rz.) psychiatra
+[psychiatry]psychiatry (EN) : (rz.) psychiatria
+[psychic]psychic (EN) : (p.) metapsychiczny; (p.) psychiczny
+[psychical]psychical (EN) : (p.) duchowy; (p.) psychiczny
+[psycho]psycho (EN) : (rz.) szaleniec; (rz.) wariat
+[psychoanalysis]psychoanalysis (EN) : (rz.) psychoanaliza
+[psychoanalyst]psychoanalyst (EN) : (rz.) psychoanalityk
+[psychoanalytic]psychoanalytic (EN) : (p.) psychoanalityczny
+[psychogenetic]psychogenetic (EN) : (p.) psychogenny
+[psychogenic]psychogenic (EN) : (p.) psychogeniczny
+[psychological]psychological (EN) : (p.) psychiczny; (p.) psychologiczny
+[psychologically]psychologically (EN) : (p-sł.) psychologicznie
+[psychologist]psychologist (EN) : (rz.) psycholog
+[psychology]psychology (EN) : (rz.) psychologia; (rz.) psychosomatyka
+[psychometrics]psychometrics (EN) : (rz.) psychometria
+[psychomotor]psychomotor (EN) : (p.) psychomotoryczny; (p.) psychoruchowy
+[psychoneurosis]psychoneurosis (EN) : (rz.) psychonerwica
+[psychopath]psychopath (EN) : (rz.) psychopata
+[psychopathic]psychopathic (EN) : (p.) psychopatyczny
+[psychopathology]psychopathology (EN) : (rz.) psychopatologia
+[psychopharmacology]psychopharmacology (EN) : (rz.) psychofarmakologia
+[psychophysical]psychophysical (EN) : (p.) psychofizyczny
+[psychophysics]psychophysics (EN) : (rz.) psychofizyka
+[psychophysiology]psychophysiology (EN) : (rz.) psychofizjologia
+[psychosis]psychosis (EN) : (rz.) psychoza
+[psychosomatic]psychosomatic (EN) : (p.) psychosomatyczny
+[psychotherapeutic]psychotherapeutic (EN) : (p.) psychoterapeutyczny
+[psychotherapist]psychotherapist (EN) : (rz.) psychoterapeuta
+[psychotherapy]psychotherapy (EN) : (rz.) psychoterapia
+[psychotic]psychotic (EN) : (p.) psychotyczny
+[psychotropic]psychotropic (EN) : (p.) psychotropowy
+[ptarmigan]ptarmigan (EN) : (rz.) pardwa
+[pterodactyl]pterodactyl (EN) : (rz.) pterodaktyl
+[pterosaur]pterosaur (EN) : (rz.) pterozaur
+[ptomaine]ptomaine (EN) : (rz.) ptomaina
+[ptyalin]ptyalin (EN) : (rz.) ptialina
+[pub]pub (EN) : (rz.) bar; (rz.) gospoda; (rz.) knajpa; (rz.) piwiarnia; (rz.) pub; (rz.) szynk; (rz.) tawerna
+[puberty]puberty (EN) : (rz.) dojrzałość; (rz.) dojrzewanie; (rz.) pokwitanie
+[pubes]pubes (EN) : (rz.) łono
+[pubescence]pubescence (EN) : (rz.) meszek; (rz.) omszenie; (rz.) pokwitanie
+[pubic]pubic (EN) : (p.) łonowy
+[public]public (EN) : (p.) jawny; (p.) ogólnodostępny; (p.) państwowy; (p.) publiczny; (p.) społeczny; (rz.) publiczność; (rz.) społeczeństwo
+[public-oriented]public-oriented (EN) : (p.) publiczny
+[publican]publican (EN) : (rz.) arendarz; (rz.) knajpiarz; (rz.) szynkarz
+[publication]publication (EN) : (rz.) ogłoszenie; (rz.) publikacja; (rz.) publikator; (rz.) wydanie; (rz.) wydawanie
+[publicist]publicist (EN) : (rz.) publicysta
+[publicity]publicity (EN) : (rz.) reklama; (rz.) rozgłos
+[publicize]publicize (EN) : (cz.) reklamować; (cz.) upowszechniać
+[publicly]publicly (EN) : (p-sł.) jawnie; (p-sł.) publicznie
+[publish]publish (EN) : (cz.) ogłosić; (cz.) opublikować; (cz.) publikować; (cz.) rozpisać; (cz.) wydawać
+[publisher]publisher (EN) : (rz.) wydawca; (rz.) wydawnictwo
+[publishing]publishing (EN) : (p.) wydawniczy; (rz.) publikowanie; (rz.) wydawanie
+[puce]puce (EN) : (p.) czerwonobrązowy
+[puck]puck (EN) : (rz.) chochlik
+[pucker]pucker (EN) : (cz.) fałdować; (cz.) marszczyć; (cz.) składać; (rz.) marszczenie; (rz.) składka; (rz.) zmarszczka
+[pudding]pudding (EN) : (rz.) budyń; (rz.) deser; (rz.) kiełbasa; (rz.) legumina
+[puddingstone]puddingstone (EN) : (rz.) zlepieniec
+[puddle]puddle (EN) : (cz.) mącić; (cz.) mulić; (rz.) bajoro; (rz.) kałuża
+[puerile]puerile (EN) : (p.) chłopięcy; (p.) dziecięcy; (p.) dziecinny; (p.) infantylny
+[puerility]puerility (EN) : (rz.) dziecinada; (rz.) dzieciństwo
+[puerperal]puerperal (EN) : (p.) połogowy; (p.) poporodowy; (p.) porodowy
+[puff]puff (EN) : (cz.) chuchać; (cz.) ćmić; (cz.) dmuchać; (cz.) dyszeć; (cz.) nakurzyć; (cz.) pykać; (cz.) sapać; (cz.) wydmuchiwać; (cz.) zasapać; (p.) ptysiowy; (p.) szumny; (rz.) bufa; (rz.) chuch; (rz.) dmuchnięcie; (rz.) kłąb; (rz.) podmuch; (rz.) powiew; (rz.) ptyś; (rz.) puszek; (rz.) sapnięcie
+[puff-ball]puff-ball (EN) : (rz.) purchawka
+[puffball]puffball (EN) : (rz.) purchawka
+[puffed]puffed (EN) : (p.) nadęty; (p.) wydęty
+[puffer]puffer (EN) : (rz.) cygaro; (rz.) parowóz
+[puffin]puffin (EN) : (rz.) maskonur
+[puffiness]puffiness (EN) : (rz.) opuchlizna
+[puffy]puffy (EN) : (p.) bufiasty; (p.) nadęty; (p.) napuszony; (p.) pękaty
+[pug]pug (EN) : (rz.) mops; (rz.) polepa; (rz.) wygniatanie
+[pug-mill]pug-mill (EN) : (rz.) wygniatarka
+[pugilism]pugilism (EN) : (rz.) boks; (rz.) pięściarstwo
+[pugilist]pugilist (EN) : (rz.) pięściarz
+[pugnacious]pugnacious (EN) : (p.) wojowniczy; (p.) zadziorny
+[pugnacity]pugnacity (EN) : (rz.) kłótliwość; (rz.) przebojowość; (rz.) wojowniczość; (rz.) zawadiactwo
+[puissance]puissance (EN) : (rz.) kłótliwość; (rz.) potęga; (rz.) siła; (rz.) władza
+[puke]puke (EN) : (cz.) rzygać; (cz.) wymiotować; (cz.) wyrzygać
+[pulchritude]pulchritude (EN) : (rz.) krasa; (rz.) piękno; (rz.) uroda
+[pull]pull (EN) : (cz.) ciągnąć; (cz.) naciągać; (cz.) odrywać; (cz.) pociągać; (cz.) pociągnąć; (cz.) porozciągać; (cz.) przeciągać; (cz.) sterować; (cz.) szarpać; (cz.) szczypać; (cz.) wciągać; (cz.) wylizać; (rz.) pociągnięcie
+[pull-out]pull-out (EN) : (rz.) dodatek; (rz.) wkładka
+[pull-over]pull-over (EN) : (rz.) pulower
+[pull-up]pull-up (EN) : (rz.) podciągnięcie; (rz.) zatrzymywanie
+[pull-ups]pull-ups (EN) : (rz.) podciąganie
+[pullback]pullback (EN) : (rz.) cofnięcie; (rz.) wycofanie
+[puller]puller (EN) : (rz.) ciągarka; (rz.) ściągacz
+[pullet]pullet (EN) : (rz.) kurka
+[pulley]pulley (EN) : (rz.) blok; (rz.) kółko; (rz.) koło; (rz.) krążek; (rz.) rolka
+[pullout]pullout (EN) : (rz.) dodatek; (rz.) wkładka
+[pullover]pullover (EN) : (rz.) pulower; (rz.) sweter
+[pullulate]pullulate (EN) : (cz.) kiełkować; (cz.) krzewić
+[pulmonary]pulmonary (EN) : (p.) płucny
+[pulp]pulp (EN) : (cz.) rozetrzeć; (cz.) rozwłókniać; (cz.) zmiażdżyć; (rz.) masa; (rz.) miazga; (rz.) miąższ; (rz.) miękisz; (rz.) papka; (rz.) pulpa; (rz.) ścier
+[pulpit]pulpit (EN) : (rz.) ambona; (rz.) pulpit; (rz.) retoryka
+[pulpwood]pulpwood (EN) : (rz.) papierówka
+[pulpy]pulpy (EN) : (p.) miąższowy; (p.) papkowaty
+[pulsate]pulsate (EN) : (cz.) bić; (cz.) pulsować; (cz.) tętnić
+[pulsation]pulsation (EN) : (rz.) pulsacja; (rz.) tętnienie
+[pulse]pulse (EN) : (cz.) tętnić; (rz.) impuls; (rz.) puls; (rz.) tętno
+[pulverise]pulverise (EN) : (cz.) sproszkować
+[pulverization]pulverization (EN) : (rz.) proszkowanie; (rz.) rozpylanie; (rz.) sproszkowanie
+[pulverize]pulverize (EN) : (cz.) niszczyć; (cz.) proszkować; (cz.) rozpadać; (cz.) rozpylać; (cz.) ścierać; (cz.) zetrzeć
+[puma]puma (EN) : (rz.) puma
+[pumice]pumice (EN) : (rz.) pumeks
+[pump]pump (EN) : (cz.) pompować; (cz.) przepompować; (cz.) przetłaczać; (cz.) wypytywać; (rz.) dystrybutor; (rz.) pompa; (rz.) pompka; (rz.) pompownia
+[pump-room]pump-room (EN) : (rz.) pijalnia; (rz.) pompownia
+[pumpernickel]pumpernickel (EN) : (rz.) pumpernikiel
+[pumpkin]pumpkin (EN) : (rz.) dynia; (rz.) kabaczek
+[pun]pun (EN) : (cz.) ubijać; (rz.) dwuznacznik; (rz.) kalambur
+[punch]punch (EN) : (cz.) dziurkować; (cz.) kasować; (cz.) przebijać; (cz.) przedziurawiać; (cz.) przedziurawić; (cz.) przedziurkować; (cz.) uderzyć; (rz.) dziurkacz; (rz.) dziurkarka; (rz.) dziurkowanie; (rz.) krzepa; (rz.) poncz; (rz.) punktak; (rz.) uderzenie; (rz.) wykrojnica; (rz.) wykrojnik
+[puncheon]puncheon (EN) : (rz.) słupek
+[puncher]puncher (EN) : (rz.) bokser; (rz.) dziurkacz
+[punctilious]punctilious (EN) : (p.) ceremonialny; (p.) drobiazgowy
+[punctual]punctual (EN) : (p.) punktowy; (p.) punktualny
+[punctuality]punctuality (EN) : (rz.) punktualność
+[punctually]punctually (EN) : (p-sł.) punktualnie; (p-sł.) terminowo
+[punctuate]punctuate (EN) : (cz.) przerywać
+[punctuation]punctuation (EN) : (rz.) interpunkcja; (rz.) przestankowanie
+[puncture]puncture (EN) : (cz.) przebijać; (cz.) przedziurawić; (cz.) przekłuć; (rz.) dziura; (rz.) nakłucie; (rz.) przebicie; (rz.) przekłucie; (rz.) punkcja
+[pundit]pundit (EN) : (rz.) mędrzec
+[pungency]pungency (EN) : (rz.) przenikliwość
+[pungent]pungent (EN) : (p.) kłujący; (p.) ostry
+[punish]punish (EN) : (cz.) karać; (cz.) ukarać
+[punishable]punishable (EN) : (p.) karalny
+[punishment]punishment (EN) : (rz.) cięgi; (rz.) kara; (rz.) karanie; (rz.) pokuta; (rz.) ukaranie; (rz.) wycisk
+[punitive]punitive (EN) : (p.) karny
+[punk]punk (EN) : (rz.) próchno
+[punster]punster (EN) : (rz.) kalamburzysta
+[punt]punt (EN) : (rz.) krypa
+[punter]punter (EN) : (rz.) hazardzista
+[puny]puny (EN) : (p.) cherlawy; (p.) drobny; (p.) mizerny; (p.) słabowity
+[pup]pup (EN) : (rz.) psiak; (rz.) psiątko; (rz.) psinka; (rz.) szczeniak
+[pupa]pupa (EN) : (rz.) poczwarka
+[pupate]pupate (EN) : (cz.) przepoczwarzyć
+[pupil]pupil (EN) : (rz.) uczeń; (rz.) źrenica
+[pupil-teacher]pupil-teacher (EN) : (rz.) hospitant
+[puppet]puppet (EN) : (rz.) kukiełka; (rz.) kukła; (rz.) łątka; (rz.) marionetka; (rz.) pacynka
+[puppeteer]puppeteer (EN) : (rz.) aktor; (rz.) lalkarz
+[puppy]puppy (EN) : (rz.) piesek; (rz.) szczeniak
+[puppyish]puppyish (EN) : (p.) szczenięcy
+[purblind]purblind (EN) : (p.) ślepy
+[purchasable]purchasable (EN) : (p.) kupny
+[purchase]purchase (EN) : (cz.) kupować; (cz.) nabyć; (cz.) nabywać; (rz.) kupno; (rz.) nabycie; (rz.) nabytek; (rz.) sprawunek; (rz.) talia; (rz.) zakup
+[purchaser]purchaser (EN) : (rz.) nabywca
+[purchaser's]purchaser's (EN) : (p.) nabywczy
+[pure]pure (EN) : (p.) czysty
+[pure-bred]pure-bred (EN) : (p.) czystorasowy
+[purebred]purebred (EN) : (p.) rasowy
+[purely]purely (EN) : (p-sł.) całkowicie; (p-sł.) czysto; (p-sł.) niewinnie; (p-sł.) tylko; (p-sł.) zupełnie
+[purgation]purgation (EN) : (rz.) oczyszczenie; (rz.) przeczyszczenie
+[purgative]purgative (EN) : (p.) przeczyszczający
+[purgatorial]purgatorial (EN) : (p.) czyśćcowy
+[purgatory]purgatory (EN) : (rz.) czyściec
+[purge]purge (EN) : (cz.) czyścić; (cz.) oczyszczać; (cz.) przeczyścić; (cz.) przeczyszczać; (cz.) przedmuchać; (cz.) przeprowadzać; (cz.) przeprowadzić; (cz.) przetrzebiać; (cz.) usuwać; (cz.) zdjąć; (rz.) czystka; (rz.) czyszczenie; (rz.) oczyszczanie; (rz.) oczyszczenie; (rz.) przeczyszczenie; (rz.) purga
+[purification]purification (EN) : (rz.) oczyszczanie; (rz.) oczyszczenie
+[purifier]purifier (EN) : (rz.) oczyszczacz; (rz.) oczyszczalnik; (rz.) puryfikator
+[purify]purify (EN) : (cz.) czyścić; (cz.) oczyszczać; (cz.) rektyfikować
+[purism]purism (EN) : (rz.) puryzm
+[purist]purist (EN) : (rz.) purysta
+[puritan]puritan (EN) : (p.) purytański; (rz.) purytanin
+[puritanical]puritanical (EN) : (p.) purytański
+[purity]purity (EN) : (rz.) czystość; (rz.) klarowność
+[purl]purl (EN) : (rz.) bełkot; (rz.) bełkota; (rz.) galon; (rz.) szmer
+[purlieu]purlieu (EN) : (p.) sąsiedni
+[purloin]purloin (EN) : (cz.) kraść; (cz.) podrobić; (cz.) porwać; (cz.) ukraść
+[purple]purple (EN) : (p.) fioletowy; (p.) purpurowy; (p.) szkarłatny; (rz.) fiolet; (rz.) purpura
+[purplish]purplish (EN) : (p.) purpurowy
+[purport]purport (EN) : (cz.) oznaczać; (cz.) streszczać; (cz.) zdawać; (cz.) znaczyć; (rz.) sens; (rz.) treść; (rz.) znaczenie
+[purportedly]purportedly (EN) : (p-sł.) rzekomo
+[purpose]purpose (EN) : (rz.) cel; (rz.) rozmysł; (rz.) zamiar
+[purposeful]purposeful (EN) : (p.) celowy; (p.) rozmyślny
+[purposefully]purposefully (EN) : (p-sł.) celowo; (p-sł.) świadomie
+[purposefulness]purposefulness (EN) : (rz.) celowość
+[purposeless]purposeless (EN) : (p.) bezcelowy; (p.) daremny; (p.) próżny
+[purposely]purposely (EN) : (p-sł.) celowo; (p-sł.) umyślnie
+[purposive]purposive (EN) : (p.) celowy; (p.) rozmyślny
+[purr]purr (EN) : (cz.) mruczeć; (cz.) pomrukiwać; (cz.) zamruczeć; (rz.) mruczenie; (rz.) pomruk
+[purse]purse (EN) : (rz.) kabza; (rz.) kiesa; (rz.) portfel; (rz.) portmonetka; (rz.) sakiewka; (rz.) sakwa; (rz.) torebka
+[purse-strings]purse-strings (EN) : (cz.) skąpić
+[purser]purser (EN) : (rz.) intendent; (rz.) płatnik
+[pursuance]pursuance (EN) : (rz.) dążenie; (rz.) prześladowanie; (rz.) ściganie; (rz.) uprawianie; (rz.) wykonanie
+[pursuant]pursuant (EN) : (p.) wykonujący
+[pursue]pursue (EN) : (cz.) dążyć; (cz.) kontynuować; (cz.) prześladować; (cz.) ścigać; (cz.) uprawiać; (cz.) wykonywać
+[pursuer]pursuer (EN) : (rz.) prześladowca
+[pursuit]pursuit (EN) : (rz.) dążenie; (rz.) gonitwa; (rz.) pogoń; (rz.) pościg; (rz.) ściganie
+[pursy]pursy (EN) : (p.) dychawiczny
+[purulence]purulence (EN) : (rz.) ropienie
+[purvey]purvey (EN) : (cz.) dostarczać; (cz.) dostarczyć; (cz.) magazynować; (cz.) postarać; (cz.) zaopatrywać; (cz.) zaopatrzyć
+[purveyor]purveyor (EN) : (rz.) aprowizator; (rz.) dostarczyciel; (rz.) dostawca
+[purview]purview (EN) : (rz.) kwestia; (rz.) treść
+[purée]purée (EN) : (rz.) przecier
+[pus]pus (EN) : (rz.) ropa
+[push]push (EN) : (cz.) apelować; (cz.) forsować; (cz.) łożyć; (cz.) naciskać; (cz.) nałożyć; (cz.) pchać; (cz.) pchnąć; (cz.) ponaglać; (cz.) popychać; (cz.) postępować; (cz.) przeć; (cz.) przepchać; (cz.) spychać; (cz.) sunąć; (cz.) tłoczyć; (cz.) wcisnąć; (cz.) weprzeć; (cz.) wpychać; (rz.) naciśnięcie; (rz.) odepchnięcie; (rz.) pchnięcie; (rz.) popychanie; (rz.) przycisk
+[push-bicycle]push-bicycle (EN) : (rz.) rower
+[push-boat]push-boat (EN) : (rz.) pchacz
+[push-button]push-button (EN) : (rz.) przełącznik; (rz.) przycisk
+[push-piece]push-piece (EN) : (rz.) nastawnik; (rz.) tłoczek
+[push-pull]push-pull (EN) : (p.) przeciwsobny
+[pushbutton]pushbutton (EN) : (rz.) klawisz; (rz.) przełącznik; (rz.) przycisk
+[pushchair]pushchair (EN) : (rz.) spacerówka
+[pusher]pusher (EN) : (rz.) pchacz; (rz.) popychacz; (rz.) przebojowiec
+[pushes]pushes (EN) : (rz.) popychanie
+[pushover]pushover (EN) : (rz.) łatwizna
+[pushy]pushy (EN) : (p.) ekspansywny; (p.) nachalny; (p.) natrętny
+[pusillanimity]pusillanimity (EN) : (rz.) małoduszność
+[pusillanimous]pusillanimous (EN) : (p.) lękliwy
+[puss]puss (EN) : (rz.) kot; (rz.) kotek
+[pussy]pussy (EN) : (rz.) bazia; (rz.) cipa; (rz.) cipka; (rz.) kicia; (rz.) kiciuś; (rz.) kot; (rz.) kotek; (rz.) małpka; (rz.) sikorka; (rz.) szpara
+[pussyfoot]pussyfoot (EN) : (cz.) kręcić; (cz.) omijać; (cz.) skradać; (cz.) unikać; (cz.) wymigiwać
+[pustule]pustule (EN) : (rz.) krosta; (rz.) krostka; (rz.) pryszczyk
+[put]put (EN) : (cz.) chować; (cz.) dodać; (cz.) dołożyć; (cz.) kłaść; (cz.) położyć; (cz.) stawiać; (cz.) umieścić; (cz.) umieszczać; (cz.) wcielać; (cz.) wcielić; (cz.) wkładać; (cz.) wprowadzać; (cz.) wprowadzić; (cz.) wrzucić; (cz.) wsadzać; (cz.) wsadzić; (cz.) wyrażać; (cz.) wyrazić; (cz.) zaaplikować
+[putative]putative (EN) : (p.) przypuszczalny
+[putlog]putlog (EN) : (rz.) leżnia; (rz.) ryga
+[putrefaction]putrefaction (EN) : (rz.) butwienie; (rz.) gnicie; (rz.) rozkład
+[putrefactive]putrefactive (EN) : (p.) gnilny
+[putrefy]putrefy (EN) : (cz.) gnić; (cz.) psuć; (cz.) zginać
+[putrescence]putrescence (EN) : (rz.) gnicie
+[putrid]putrid (EN) : (p.) gnilny; (p.) zepsuty; (p.) zgniły; (p.) zgnity
+[putridity]putridity (EN) : (rz.) zgnilizna
+[putsch]putsch (EN) : (rz.) pucz
+[putt]putt (EN) : (cz.) chować; (cz.) kłaść; (cz.) stawiać; (cz.) umieścić; (cz.) umieszczać; (cz.) wkładać; (cz.) wprowadzać; (cz.) wprowadzić; (cz.) wsadzać; (rz.) uderzenie
+[putted]putted (EN) : (p.) doniczkowy
+[puttee]puttee (EN) : (rz.) owijacz
+[putting]putting (EN) : (rz.) ciskanie; (rz.) nastawienie; (rz.) oddanie; (rz.) popychanie; (rz.) postawienie; (rz.) szacowanie; (rz.) umiejscowienie; (rz.) zamieszczenie
+[putty]putty (EN) : (rz.) kit; (rz.) szpachlówka
+[puzzle]puzzle (EN) : (rz.) łamigłówka; (rz.) układanka; (rz.) zagadka
+[puzzlement]puzzlement (EN) : (rz.) zaintrygowanie
+[pygmy]pygmy (EN) : (rz.) karzeł; (rz.) pigmej
+[pyjamas]pyjamas (EN) : (rz.) piżama
+[pylon]pylon (EN) : (rz.) pylon; (rz.) wspornik
+[pylorus]pylorus (EN) : (rz.) odźwiernik
+[pyorrhoea]pyorrhoea (EN) : (rz.) ropotok
+[pyramid]pyramid (EN) : (rz.) ostrosłup; (rz.) piramida; (rz.) piramidka
+[pyramidal]pyramidal (EN) : (p.) piramidalny
+[pyre]pyre (EN) : (rz.) stos
+[pyretic]pyretic (EN) : (p.) gorączkotwórczy; (p.) gorączkowy
+[pyridine]pyridine (EN) : (rz.) pirydyna
+[pyridoxine]pyridoxine (EN) : (rz.) adermina
+[pyrite]pyrite (EN) : (rz.) piryt
+[pyromania]pyromania (EN) : (rz.) piromania
+[pyromaniac]pyromaniac (EN) : (rz.) piroman
+[pyrometer]pyrometer (EN) : (rz.) pirometr
+[pyrotechnic]pyrotechnic (EN) : (p.) pirotechniczny
+[pyrotechnical]pyrotechnical (EN) : (p.) pirotechniczny
+[pyrotechnics]pyrotechnics (EN) : (p.) pirotechniczny; (rz.) pirotechnika
+[pyroxenes]pyroxenes (EN) : (p.) pirokseny
+[python]python (EN) : (rz.) pyton; (rz.) wieszczbiarz
+[pâté]pâté (EN) : (rz.) pasztet

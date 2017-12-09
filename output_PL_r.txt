@@ -1,0 +1,2056 @@
+[rebeka]Rebeka (PL) : (rz.) Becky
+[robert]Robert (PL) : (rz.) Bob; (rz.) Rob; (rz.) Robbie
+[rudolf]Rudolf (PL) : (rz.) Rudolph
+[ryszard]Ryszard (PL) : (rz.) Richard
+[raban]raban (PL) : (rz.) row
+[rabarbar]rabarbar (PL) : (rz.) rhubarb
+[rabat]rabat (PL) : (rz.) deduction; (rz.) discount; (rz.) rebate
+[rabata]rabata (PL) : (rz.) border; (rz.) flowerbed; (rz.) flower-bed
+[rabin]rabin (PL) : (rz.) rabbi
+[rabinat]rabinat (PL) : (rz.) rabbinate
+[rabiniczny]rabiniczny (PL) : (p.) rabbinic
+[rabowanie]rabowanie (PL) : (rz.) rifling; (rz.) robbery
+[rabowac]rabować (PL) : (cz.) depredate; (cz.) pillage; (cz.) plunder; (cz.) rape; (cz.) ravish; (cz.) rob
+[rabunek]rabunek (PL) : (rz.) depredation; (rz.) mugging; (rz.) pillage; (rz.) plunder; (rz.) rape; (rz.) rapine; (rz.) ravage; (rz.) robbery; (rz.) spoliation
+[rabunkowy]rabunkowy (PL) : (p.) predatory
+[rabus]rabuś (PL) : (rz.) harrier; (rz.) robber
+[raca]raca (PL) : (rz.) flare; (rz.) rocket
+[rachityczny]rachityczny (PL) : (p.) rachitic
+[rachmistrz]rachmistrz (PL) : (rz.) accountant; (rz.) computer; (rz.) counter; (rz.) enumerator; (rz.) tallyman
+[rachmistrzostwo]rachmistrzostwo (PL) : (rz.) accountancy
+[rachowanie]rachowanie (PL) : (rz.) calculation
+[rachowac]rachować (PL) : (cz.) calculate; (cz.) count; (cz.) reckon
+[rachuba]rachuba (PL) : (rz.) count
+[rachunek]rachunek (PL) : (rz.) account; (rz.) bill; (rz.) calculation; (rz.) calculus; (rz.) check; (rz.) computation; (rz.) count; (rz.) invoice; (rz.) note; (rz.) prow; (rz.) reckoning; (rz.) score; (rz.) voucher
+[rachunkowosc]rachunkowość (PL) : (rz.) accountancy; (rz.) accounting; (rz.) bookkeeping; (rz.) book-keeping
+[rachunkowy]rachunkowy (PL) : (p.) arithmetic; (p.) computational
+[racica]racica (PL) : (rz.) hoof
+[racja]racja (PL) : (rz.) cause; (rz.) radix; (rz.) ration; (rz.) rationale; (rz.) reason; (rz.) right
+[racjonalista]racjonalista (PL) : (rz.) rationalist
+[racjonalistyczny]racjonalistyczny (PL) : (p.) rationalistic
+[racjonalizacja]racjonalizacja (PL) : (rz.) rationalization
+[racjonalizm]racjonalizm (PL) : (rz.) rationalism
+[racjonalizowac]racjonalizować (PL) : (cz.) rationalize; (cz.) streamline
+[racjonalnie]racjonalnie (PL) : (p-sł.) rationally; (p-sł.) reasonably
+[racjonalnosc]racjonalność (PL) : (rz.) rationality
+[racjonalny]racjonalny (PL) : (p.) rational
+[racjonowanie]racjonowanie (PL) : (rz.) rationing
+[racjonowac]racjonować (PL) : (cz.) ration
+[racuch]racuch (PL) : (rz.) fritter
+[racuszek]racuszek (PL) : (rz.) pancake
+[raczek]raczek (PL) : (rz.) crown
+[raczkowac]raczkować (PL) : (cz.) crawl
+[raczyc]raczyć (PL) : (cz.) condescend; (cz.) deign; (cz.) regale; (cz.) vouchsafe
+[rad]rad (PL) : (rz.) marker; (rz.) radian; (rz.) radium
+[rada]rada (PL) : (rz.) advice; (rz.) board; (rz.) caution; (rz.) council; (rz.) counsel; (rz.) help; (rz.) hint; (rz.) junta; (rz.) moot; (rz.) soviet; (rz.) tip
+[radar]radar (PL) : (rz.) radar; (rz.) radiolocation
+[radca]radca (PL) : (rz.) adviser; (rz.) counsel; (rz.) counsellor; (rz.) townsman
+[radelko]radełko (PL) : (rz.) knurl; (rz.) roulette
+[radelkowanie]radełkowanie (PL) : (rz.) knurling
+[radiacja]radiacja (PL) : (rz.) radiation
+[radialny]radialny (PL) : (p.) radial
+[radian]radian (PL) : (rz.) radian
+[radiator]radiator (PL) : (rz.) heat-sink
+[radio]radio (PL) : (rz.) network; (rz.) radio
+[radio-pierwiastek]radio-pierwiastek (PL) : (rz.) radioelement
+[radioaktywnie]radioaktywnie (PL) : (p-sł.) radioactively
+[radioaktywnosc]radioaktywność (PL) : (rz.) radioactivity
+[radioaktywny]radioaktywny (PL) : (p.) radioactive
+[radioamator]radioamator (PL) : (rz.) ham
+[radiobiologia]radiobiologia (PL) : (rz.) radiobiology
+[radiochemia]radiochemia (PL) : (rz.) radiochemistry
+[radiochemiczny]radiochemiczny (PL) : (p.) radiochemical
+[radioekologia]radioekologia (PL) : (rz.) radioecology
+[radiofonia]radiofonia (PL) : (rz.) broadcasting; (rz.) radio
+[radiofosfor]radiofosfor (PL) : (rz.) phosphorus-32
+[radiografia]radiografia (PL) : (rz.) radiography
+[radiograficzny]radiograficzny (PL) : (p.) radiographic
+[radiogram]radiogram (PL) : (rz.) radiogram; (rz.) radiograph; (rz.) radio-telegram
+[radioizotop]radioizotop (PL) : (rz.) radioisotope
+[radiolatarnia]radiolatarnia (PL) : (rz.) omni; (rz.) radio-range
+[radioliza]radioliza (PL) : (rz.) radiolysis
+[radiolog]radiolog (PL) : (rz.) radiographer; (rz.) x-ray
+[radiologia]radiologia (PL) : (rz.) radiology
+[radiologiczny]radiologiczny (PL) : (p.) radiological
+[radiolokacja]radiolokacja (PL) : (rz.) radiolocation
+[radiolokator]radiolokator (PL) : (rz.) radar; (rz.) radiolocation
+[radiometr]radiometr (PL) : (rz.) radiometer
+[radiometria]radiometria (PL) : (rz.) radiometry
+[radiometryczny]radiometryczny (PL) : (p.) radiometric
+[radionadawczy]radionadawczy (PL) : (p.) broadcasting
+[radionuklid]radionuklid (PL) : (rz.) radionuclide
+[radioreportaz]radioreportaż (PL) : (rz.) commentary
+[radioskopia]radioskopia (PL) : (rz.) radioscopy
+[radiostacja]radiostacja (PL) : (rz.) station
+[radiosluchacz]radiosłuchacz (PL) : (rz.) listener
+[radiotechnika]radiotechnika (PL) : (rz.) engineering; (rz.) radio
+[radiotelefon]radiotelefon (PL) : (rz.) radiotelephone; (rz.) radio-telephone; (rz.) walkie-talkie
+[radiotelefonia]radiotelefonia (PL) : (rz.) radiotelegraph; (rz.) radiotelephony; (rz.) radio-telephony
+[radiotelefoniczny]radiotelefoniczny (PL) : (p.) radiotelephone
+[radiotelegraf]radiotelegraf (PL) : (rz.) radiotelegraph
+[radiotelegrafia]radiotelegrafia (PL) : (rz.) radiotelegraphy
+[radiotelegraficzny]radiotelegraficzny (PL) : (p.) radiotelegraphic
+[radioterapeuta]radioterapeuta (PL) : (rz.) radiotherapist
+[radioterapia]radioterapia (PL) : (rz.) radiotherapy
+[radiowy]radiowy (PL) : (p.) wireless
+[radiowegiel]radiowęgiel (PL) : (rz.) carbon-14; (rz.) radiocarbon
+[radlic]radlić (PL) : (cz.) hoe
+[radon]radon (PL) : (rz.) radon
+[radosny]radosny (PL) : (p.) buoyant; (p.) cheerful; (p.) cheery; (p.) chirpy; (p.) exhilarating; (p.) gay; (p.) genial; (p.) glad; (p.) gladsome; (p.) gleeful; (p.) happy; (p.) joyful; (p.) joyous; (p.) jubilant; (p.) light-hearted; (p.) merry; (p.) sportive
+[radowanie]radowanie (PL) : (rz.) jubilation
+[radowac]radować (PL) : (cz.) delight; (cz.) exult; (cz.) gladden; (cz.) joy; (cz.) rejoice
+[radosnie]radośnie (PL) : (p-sł.) blithely; (p-sł.) cheerfully; (p-sł.) enjoyably; (p-sł.) gladly; (p-sł.) joyfully
+[radosc]radość (PL) : (rz.) amusement; (rz.) bliss; (rz.) cheer; (rz.) cheerfulness; (rz.) delight; (rz.) enjoyment; (rz.) exhilaration; (rz.) flare; (rz.) gaiety; (rz.) gladness; (rz.) glee; (rz.) jollity; (rz.) joy; (rz.) mirth; (rz.) rejoicing; (rz.) zest
+[radujacy]radujący (PL) : (p.) jubilant
+[radykalista]radykalista (PL) : (rz.) radical
+[radykalizacja]radykalizacja (PL) : (rz.) radicalization
+[radykalizm]radykalizm (PL) : (rz.) radicalism
+[radykalnie]radykalnie (PL) : (p-sł.) radically
+[radykalny]radykalny (PL) : (p.) radical
+[radykal]radykał (PL) : (rz.) radical
+[radzenie]radzenie (PL) : (rz.) addressing; (rz.) advice; (rz.) coping; (rz.) faring
+[radziecki]radziecki (PL) : (p.) soviet
+[radzic]radzić (PL) : (cz.) advise; (cz.) consult; (cz.) cope; (cz.) counsel; (cz.) deliberate; (cz.) do; (cz.) eke; (cz.) inform; (cz.) manage; (cz.) suggest
+[radza]radża (PL) : (rz.) raja; (rz.) rajah
+[rafa]rafa (PL) : (rz.) cay; (rz.) ledge
+[rafia]rafia (PL) : (rz.) raffia
+[rafinacja]rafinacja (PL) : (rz.) refinement
+[rafinator]rafinator (PL) : (rz.) refiner
+[rafiner]rafiner (PL) : (rz.) refiner
+[rafineria]rafineria (PL) : (rz.) refinery
+[rafinowanie]rafinowanie (PL) : (rz.) refinement
+[rafinowac]rafinować (PL) : (cz.) rarefy; (cz.) refine
+[raic]raić (PL) : (cz.) pander
+[raj]raj (PL) : (rz.) Eden; (rz.) paradise
+[rajca]rajca (PL) : (rz.) councilman
+[rajd]rajd (PL) : (rz.) rally
+[rajfur]rajfur (PL) : (rz.) pander; (rz.) pimp; (rz.) procurer
+[rajfurka]rajfurka (PL) : (rz.) bawd; (rz.) procuress
+[rajgras]rajgras (PL) : (rz.) darnel
+[rajski]rajski (PL) : (p.) blissful; (p.) heavenly; (p.) paradisiacal
+[rajstopy]rajstopy (PL) : (rz.) pantyhose; (rz.) tights
+[rajtuzy]rajtuzy (PL) : (rz.) riding-breeches; (rz.) tights
+[rak]rak (PL) : (rz.) cancer; (rz.) carcinoma; (rz.) crab; (rz.) crawfish; (rz.) crayfish
+[rakarz]rakarz (PL) : (rz.) dogcatcher; (rz.) dog-catcher
+[raki]raki (PL) : (rz.) climbers; (rz.) creepers
+[rakiel]rakiel (PL) : (rz.) squeegee
+[rakieta]rakieta (PL) : (rz.) bat; (rz.) missile; (rz.) racket; (rz.) racquet; (rz.) rocket
+[rakietka]rakietka (PL) : (rz.) bat; (rz.) paddle; (rz.) racket
+[rakotworczosc]rakotwórczość (PL) : (rz.) carcinogenicity
+[rakotworczy]rakotwórczy (PL) : (p.) carcinogenic
+[rakowaty]rakowaty (PL) : (p.) cankerous
+[rama]rama (PL) : (rz.) bed; (rz.) frame; (rz.) framework; (rz.) timeframe
+[ramia]ramia (PL) : (rz.) ramie
+[ramiarz]ramiarz (PL) : (rz.) framer
+[ramieniowy]ramieniowy (PL) : (p.) brachial
+[ramienny]ramienny (PL) : (p.) brachial; (p.) humeral
+[ramiaczko]ramiączko (PL) : (rz.) strap
+[ramie]ramię (PL) : (rz.) arm; (rz.) branch; (rz.) shoulder; (rz.) tone-arm
+[ramka]ramka (PL) : (rz.) box; (rz.) frame; (rz.) inset
+[ramol]ramol (PL) : (rz.) crock; (rz.) dotard
+[ramolec]ramoleć (PL) : (cz.) dote
+[ramownica]ramownica (PL) : (rz.) bent; (rz.) frame
+[rampa]rampa (PL) : (rz.) ramp
+[rana]rana (PL) : (rz.) gash; (rz.) injury; (rz.) laceration; (rz.) morning; (rz.) slash; (rz.) sore; (rz.) wound
+[ranczer]ranczer (PL) : (rz.) rancher; (rz.) ranchero
+[ranczo]ranczo (PL) : (rz.) ranch
+[randka]randka (PL) : (rz.) appointment; (rz.) date; (rz.) rendezvous
+[randomizacja]randomizacja (PL) : (rz.) randomisation; (rz.) randomization
+[ranek]ranek (PL) : (rz.) morn; (rz.) morning
+[ranga]ranga (PL) : (rz.) grade; (rz.) order; (rz.) rank
+[ranic]ranić (PL) : (cz.) hurt; (cz.) injure; (cz.) lacerate; (cz.) stab; (cz.) wound
+[ranking]ranking (PL) : (rz.) rank
+[ranny]ranny (PL) : (p.) injured
+[rano]rano (PL) : (rz.) am; (rz.) morn; (rz.) morning
+[rant]rant (PL) : (rz.) rim
+[rap]rap (PL) : (rz.) rap
+[rapier]rapier (PL) : (rz.) rapier
+[raport]raport (PL) : (rz.) account; (rz.) report
+[rapsod]rapsod (PL) : (rz.) rhapsody
+[rapsodia]rapsodia (PL) : (rz.) rhapsody
+[rapsodyczny]rapsodyczny (PL) : (p.) rhapsodic
+[raptem]raptem (PL) : (p-sł.) suddenly
+[raptownosc]raptowność (PL) : (rz.) suddenness
+[raptowny]raptowny (PL) : (p.) abrupt; (p.) impulsive; (p.) sudden
+[rarytas]rarytas (PL) : (rz.) rarity
+[rarog]raróg (PL) : (rz.) lanner
+[rasa]rasa (PL) : (rz.) breed; (rz.) brood; (rz.) race; (rz.) stock; (rz.) strain
+[rasista]rasista (PL) : (rz.) racialist; (rz.) racist
+[rasizm]rasizm (PL) : (rz.) racialism; (rz.) racism
+[rasowo]rasowo (PL) : (p-sł.) racially
+[rasowy]rasowy (PL) : (p.) purebred; (p.) racial; (p.) racy; (p.) thoroughbred
+[raster]raster (PL) : (rz.) raster; (rz.) screen
+[raszka]raszka (PL) : (rz.) robin
+[raszpla]raszpla (PL) : (rz.) rasp
+[rata]rata (PL) : (rz.) annuity; (rz.) instalment
+[ratan]ratan (PL) : (rz.) rattan
+[ratler]ratler (PL) : (rz.) ratter
+[ratlerek]ratlerek (PL) : (rz.) ratter
+[ratowanie]ratowanie (PL) : (rz.) fishing; (rz.) rescue
+[ratowac]ratować (PL) : (cz.) rescue; (cz.) save
+[ratownictwo]ratownictwo (PL) : (rz.) emergency; (rz.) lifesaving
+[ratownik]ratownik (PL) : (rz.) lifeguard; (rz.) lifesaver; (rz.) life-saver; (rz.) rescuer; (rz.) rescue-worker; (rz.) saver
+[ratrak]ratrak (PL) : (rz.) snowmobile
+[ratunek]ratunek (PL) : (rz.) delivery; (rz.) escape; (rz.) help; (rz.) rescue; (rz.) salvage; (rz.) salvation
+[ratusz]ratusz (PL) : (rz.) city; (rz.) guildhall
+[ratyfikacja]ratyfikacja (PL) : (rz.) ratification
+[ratyfikowanie]ratyfikowanie (PL) : (rz.) ratification
+[ratyfikowac]ratyfikować (PL) : (cz.) ratified; (cz.) ratify
+[ratyna]ratyna (PL) : (rz.) frieze
+[rausz]rausz (PL) : (rz.) exhilaration
+[raut]raut (PL) : (rz.) party; (rz.) rout
+[raz]raz (PL) : (rz.) time
+[razem]razem (PL) : (p-sł.) along; (p-sł.) alongside; (p-sł.) altogether; (p-sł.) together
+[razic]razić (PL) : (cz.) alienate; (cz.) dazzle; (cz.) discourage; (cz.) offend; (cz.) strike
+[razowy]razowy (PL) : (p.) whole-meal
+[razy]razy (PL) : (rz.) times
+[raznie]raźnie (PL) : (p-sł.) briskly; (p-sł.) cheerfully
+[raznosc]raźność (PL) : (rz.) alertness
+[razny]raźny (PL) : (p.) brisk; (p.) jaunty
+[razenie]rażenie (PL) : (rz.) destruction
+[razaco]rażąco (PL) : (p-sł.) blatantly; (p-sł.) grossly
+[rdest]rdest (PL) : (rz.) knot-grass
+[rdestnica]rdestnica (PL) : (rz.) pondweed
+[rdza]rdza (PL) : (rz.) blight; (rz.) mould; (rz.) rust
+[rdzawy]rdzawy (PL) : (p.) ferruginous; (p.) rusty
+[rdzeniowy]rdzeniowy (PL) : (p.) cored; (p.) pithier; (p.) pithiest; (p.) pithy; (p.) spinal
+[rdzennie]rdzennie (PL) : (p-sł.) genuinely; (p-sł.) indigenously
+[rdzenny]rdzenny (PL) : (p.) aboriginal; (p.) essential; (p.) indigenous; (p.) original
+[rdzewiec]rdzewieć (PL) : (cz.) corrode; (cz.) rust
+[rdzen]rdzeń (PL) : (rz.) core; (rz.) heart; (rz.) marrow; (rz.) medulla; (rz.) pith
+[rdzoodporny]rdzoodporny (PL) : (p.) rustproof; (p.) rust-proof; (p.) stainless
+[reagowac]reagować (PL) : (cz.) react; (cz.) respond
+[reakcja]reakcja (PL) : (rz.) echo; (rz.) feedback; (rz.) kickback; (rz.) reaction; (rz.) reflex; (rz.) reply; (rz.) response; (rz.) responsiveness; (rz.) sensation
+[reakcjonista]reakcjonista (PL) : (rz.) reactionary
+[reakcyjnosc]reakcyjność (PL) : (rz.) reactivity
+[reakcyjny]reakcyjny (PL) : (p.) reactionary; (p.) reactive
+[reaktancja]reaktancja (PL) : (rz.) capacitance; (rz.) reactance
+[reaktor]reaktor (PL) : (rz.) reactor
+[reaktywacja]reaktywacja (PL) : (rz.) reactivation
+[reaktywnie]reaktywnie (PL) : (p-sł.) reactively
+[reaktywnosc]reaktywność (PL) : (rz.) reactivity
+[reaktywny]reaktywny (PL) : (p.) reactive
+[reaktywowanie]reaktywowanie (PL) : (rz.) reactivating; (rz.) reactivation
+[reaktywowac]reaktywować (PL) : (cz.) reactivate; (cz.) reactivated; (cz.) reactivates; (cz.) reactivating
+[realia]realia (PL) : (rz.) realities; (rz.) reality
+[realista]realista (PL) : (rz.) realist
+[realistycznie]realistycznie (PL) : (p-sł.) realistically
+[realistyczny]realistyczny (PL) : (p.) lifelike; (p.) realistic
+[realizacja]realizacja (PL) : (rz.) execution; (rz.) fruition; (rz.) implementation; (rz.) instantiation; (rz.) programming; (rz.) realisation; (rz.) realization
+[realizator]realizator (PL) : (rz.) executor; (rz.) implementer
+[realizm]realizm (PL) : (rz.) actuality; (rz.) realism; (rz.) reality
+[realizowalny]realizowalny (PL) : (p.) executable
+[realizowanie]realizowanie (PL) : (rz.) cashing; (rz.) implementation
+[realizowac]realizować (PL) : (cz.) accomplish; (cz.) achieve; (cz.) apply; (cz.) implement; (cz.) realize
+[realnie]realnie (PL) : (p-sł.) real; (p-sł.) really; (p-sł.) viably
+[realnosc]realność (PL) : (rz.) practicability; (rz.) reality
+[realny]realny (PL) : (p.) active; (p.) attainable; (p.) practical; (p.) real; (p.) realizable; (p.) viable
+[reanimacja]reanimacja (PL) : (rz.) reanimation; (rz.) resuscitation
+[reanimacyjny]reanimacyjny (PL) : (p.) resuscitative
+[reanimowac]reanimować (PL) : (cz.) reanimate
+[reasekuracja]reasekuracja (PL) : (rz.) reinsurance
+[reasekurowac]reasekurować (PL) : (cz.) reinsure
+[reasumowac]reasumować (PL) : (cz.) recap; (cz.) recapitulate; (cz.) summarize
+[rebelia]rebelia (PL) : (rz.) mutineer; (rz.) mutiny; (rz.) rebellion
+[rebeliancki]rebeliancki (PL) : (p.) rebellious
+[rebeliant]rebeliant (PL) : (rz.) insurgent; (rz.) rebel
+[rebus]rebus (PL) : (rz.) rebus
+[recenzent]recenzent (PL) : (rz.) critic; (rz.) reader; (rz.) reviewer; (rz.) reviser
+[recenzja]recenzja (PL) : (rz.) criticism; (rz.) critique; (rz.) piston; (rz.) report; (rz.) review; (rz.) roundup
+[recenzowac]recenzować (PL) : (cz.) review
+[recepcja]recepcja (PL) : (rz.) desk; (rz.) reception
+[recepcjonista]recepcjonista (PL) : (rz.) receptionist
+[recepcyjny]recepcyjny (PL) : (p.) receptive
+[recepis]recepis (PL) : (rz.) receipt
+[recepta]recepta (PL) : (rz.) prescription; (rz.) recipe
+[receptor]receptor (PL) : (rz.) receptor
+[receptura]receptura (PL) : (rz.) formula; (rz.) prescription; (rz.) recipe
+[recepturka]recepturka (PL) : (rz.) rubber
+[receptywny]receptywny (PL) : (p.) receptive
+[recesja]recesja (PL) : (rz.) recession
+[recesyjny]recesyjny (PL) : (p.) recessionary; (p.) recessive
+[recesywny]recesywny (PL) : (p.) recessive
+[rechot]rechot (PL) : (rz.) cackle; (rz.) chortle; (rz.) croak; (rz.) haw
+[rechotanie]rechotanie (PL) : (rz.) chortle; (rz.) croak
+[rechotac]rechotać (PL) : (cz.) chortle; (cz.) croak
+[recital]recital (PL) : (rz.) recital
+[recydywa]recydywa (PL) : (rz.) recidivism; (rz.) recurrence; (rz.) relapse
+[recydywista]recydywista (PL) : (rz.) recidivist; (rz.) repeater
+[recyrkulacja]recyrkulacja (PL) : (rz.) recirculation
+[recytacja]recytacja (PL) : (rz.) recitation
+[recytatorski]recytatorski (PL) : (p.) declamatory
+[recytatyw]recytatyw (PL) : (rz.) recitative
+[recytowanie]recytowanie (PL) : (rz.) recital; (rz.) repetition
+[recytowac]recytować (PL) : (cz.) recite; (cz.) spout
+[reda]reda (PL) : (rz.) roads; (rz.) roadstead
+[redagowalny]redagowalny (PL) : (p.) editable
+[redagowanie]redagowanie (PL) : (rz.) editorship
+[redagowac]redagować (PL) : (cz.) edit
+[redakcja]redakcja (PL) : (rz.) editors; (rz.) editorship; (rz.) newsroom
+[redakcyjnie]redakcyjnie (PL) : (p-sł.) editorially
+[redakcyjny]redakcyjny (PL) : (p.) editorial
+[redaktor]redaktor (PL) : (rz.) editor
+[redaktorski]redaktorski (PL) : (p.) editorial
+[redlica]redlica (PL) : (rz.) coulter
+[redlina]redlina (PL) : (rz.) redline; (rz.) ridge
+[redukcja]redukcja (PL) : (rz.) deoxidization; (rz.) diminution; (rz.) downsizing; (rz.) reduction; (rz.) redundancy; (rz.) rundown; (rz.) shakeout
+[redukcyjny]redukcyjny (PL) : (p.) reductive
+[redukowalnosc]redukowalność (PL) : (rz.) reducibility
+[redukowac]redukować (PL) : (cz.) axe; (cz.) commute; (cz.) reduce
+[reduktor]reduktor (PL) : (rz.) limiter; (rz.) reducer
+[redundancja]redundancja (PL) : (rz.) redundancy
+[redundancyjny]redundancyjny (PL) : (p.) redundant
+[reduplikacja]reduplikacja (PL) : (rz.) reduplication
+[reduta]reduta (PL) : (rz.) redoubt
+[redyskonto]redyskonto (PL) : (rz.) rediscount
+[redystrybucja]redystrybucja (PL) : (rz.) redistribution
+[redystrybuowac]redystrybuować (PL) : (cz.) redistribute; (cz.) redistributed; (cz.) redistributes; (cz.) redistributing
+[reedukacja]reedukacja (PL) : (rz.) re-education
+[reedukowac]reedukować (PL) : (cz.) re-educate; (cz.) retrain
+[reelekcja]reelekcja (PL) : (rz.) re-election
+[reemigracja]reemigracja (PL) : (rz.) repatriation
+[reemigrant]reemigrant (PL) : (rz.) returnee
+[refektarz]refektarz (PL) : (rz.) refectory
+[referat]referat (PL) : (rz.) department; (rz.) paper; (rz.) project; (rz.) report
+[referencja]referencja (PL) : (rz.) reference
+[referendum]referendum (PL) : (rz.) referendum
+[referent]referent (PL) : (rz.) referent; (rz.) speaker
+[referowac]referować (PL) : (cz.) read
+[refinansowanie]refinansowanie (PL) : (rz.) refinance; (rz.) refinancing; (rz.) rollover
+[refinansowac]refinansować (PL) : (cz.) refinance
+[refleks]refleks (PL) : (rz.) reflex; (rz.) reflexes
+[refleksja]refleksja (PL) : (rz.) afterthought; (rz.) reflection; (rz.) reflections
+[refleksowy]refleksowy (PL) : (p.) reflex
+[refleksyjnie]refleksyjnie (PL) : (p-sł.) reflectively; (p-sł.) reflexively
+[refleksyjny]refleksyjny (PL) : (p.) meditative; (p.) reflective
+[refleksywnosc]refleksywność (PL) : (rz.) reflexivity
+[reflektant]reflektant (PL) : (rz.) applicant; (rz.) bidder
+[reflektor]reflektor (PL) : (rz.) floodlight; (rz.) headlamp; (rz.) headlight; (rz.) head-light; (rz.) reflector; (rz.) searchlight; (rz.) spotlight
+[reflektorek]reflektorek (PL) : (rz.) spotlight
+[reforma]reforma (PL) : (rz.) reform; (rz.) reformation
+[reformacja]reformacja (PL) : (rz.) reformation
+[reformator]reformator (PL) : (rz.) reformer; (rz.) reformist
+[reformatorski]reformatorski (PL) : (p.) reformative; (p.) reformatory
+[reformista]reformista (PL) : (rz.) reformist
+[reformizm]reformizm (PL) : (rz.) reformism
+[reformowac]reformować (PL) : (cz.) reform
+[reformy]reformy (PL) : (rz.) knickerbockers; (rz.) knickers; (rz.) reform
+[refowac]refować (PL) : (cz.) reef
+[refrakcja]refrakcja (PL) : (rz.) refraction
+[refrakcyjny]refrakcyjny (PL) : (p.) refractive; (p.) refractory
+[refraktometria]refraktometria (PL) : (rz.) apparatus
+[refraktor]refraktor (PL) : (rz.) refractor
+[refren]refren (PL) : (rz.) burden; (rz.) burthen; (rz.) chorus; (rz.) refrain; (rz.) tag
+[refundacja]refundacja (PL) : (rz.) refund; (rz.) reimbursement
+[refundowac]refundować (PL) : (cz.) refund
+[regaty]regaty (PL) : (rz.) races; (rz.) regatta; (rz.) regattas
+[regal]regał (PL) : (rz.) bookshelf; (rz.) bookstand; (rz.) rayon; (rz.) shelf
+[regencja]regencja (PL) : (rz.) regency
+[regeneracja]regeneracja (PL) : (rz.) reclamation; (rz.) recovery; (rz.) regeneration; (rz.) renovation
+[regeneracyjny]regeneracyjny (PL) : (p.) regenerative
+[regenerator]regenerator (PL) : (rz.) regenerator
+[regenerowac]regenerować (PL) : (cz.) reclaim; (cz.) regenerate
+[regent]regent (PL) : (rz.) regent
+[reggae]reggae (PL) : (rz.) reggae
+[regimentowy]regimentowy (PL) : (p.) regimental
+[region]region (PL) : (rz.) district; (rz.) region
+[regionalizm]regionalizm (PL) : (rz.) localism; (rz.) regionalism
+[regionalnie]regionalnie (PL) : (p-sł.) regionally
+[regionalny]regionalny (PL) : (p.) regional
+[registrator]registrator (PL) : (rz.) file
+[registratura]registratura (PL) : (rz.) registry
+[reglamentacja]reglamentacja (PL) : (rz.) control; (rz.) rationing; (rz.) regulation
+[reglamentowac]reglamentować (PL) : (cz.) regulate
+[regres]regres (PL) : (rz.) contraction; (rz.) recourse; (rz.) regression
+[regresja]regresja (PL) : (rz.) regression
+[regresyjny]regresyjny (PL) : (p.) regressive
+[regresywny]regresywny (PL) : (p.) regressive; (p.) retrograde
+[regulacja]regulacja (PL) : (rz.) adjustment; (rz.) control; (rz.) regulation; (rz.) settlement
+[regulacyjny]regulacyjny (PL) : (p.) adjusting; (p.) regulatory
+[regulamin]regulamin (PL) : (rz.) byelaw; (rz.) bylaw; (rz.) canon; (rz.) regimen; (rz.) regulation; (rz.) regulations; (rz.) rulebook; (rz.) statutes
+[regulaminowy]regulaminowy (PL) : (p.) regulatory; (p.) statutory
+[regularnie]regularnie (PL) : (p-sł.) regularly; (p-sł.) steadily
+[regularnosci]regularności (PL) : (rz.) regularities
+[regularnosc]regularność (PL) : (rz.) regularity
+[regularny]regularny (PL) : (p.) constant; (p.) cubic; (p.) isometric; (p.) regular
+[regulator]regulator (PL) : (rz.) controller; (rz.) governor; (rz.) regulator
+[regulowanie]regulowanie (PL) : (rz.) modulation; (rz.) regularization; (rz.) regulation; (rz.) steer
+[regulowany]regulowany (PL) : (p.) adjustable; (p.) controllable
+[regulowac]regulować (PL) : (cz.) adjust; (cz.) align; (cz.) control; (cz.) modulate; (cz.) regularize; (cz.) regulate; (cz.) settle
+[regula]reguła (PL) : (rz.) canon; (rz.) principle; (rz.) rule
+[rehabilitacja]rehabilitacja (PL) : (rz.) rehab; (rz.) rehabilitation; (rz.) vindication
+[rehabilitowac]rehabilitować (PL) : (cz.) rehabilitate
+[reifikacja]reifikacja (PL) : (rz.) reification
+[reinkarnacja]reinkarnacja (PL) : (rz.) reincarnation
+[reintegracja]reintegracja (PL) : (rz.) re; (rz.) reintegration
+[reinterpretacja]reinterpretacja (PL) : (rz.) reinterpretation
+[reinwestowac]reinwestować (PL) : (cz.) reinvest
+[rejent]rejent (PL) : (rz.) notary
+[rejestr]rejestr (PL) : (rz.) cartulary; (rz.) file; (rz.) ledger; (rz.) log; (rz.) record; (rz.) register; (rz.) registry; (rz.) tally
+[rejestracja]rejestracja (PL) : (rz.) account; (rz.) enrolment; (rz.) incorporation; (rz.) logging; (rz.) registration
+[rejestrator]rejestrator (PL) : (rz.) logger; (rz.) recorder
+[rejestrowanie]rejestrowanie (PL) : (rz.) recording; (rz.) register
+[rejestrowac]rejestrować (PL) : (cz.) enrol; (cz.) record; (cz.) register
+[rejon]rejon (PL) : (rz.) area; (rz.) district; (rz.) rayon; (rz.) region; (rz.) yard
+[rejonizacja]rejonizacja (PL) : (rz.) regionalization
+[rejs]rejs (PL) : (rz.) cruise; (rz.) flight; (rz.) trip; (rz.) voyage
+[rejterada]rejterada (PL) : (rz.) retreat
+[rejterowac]rejterować (PL) : (cz.) retreat
+[rejwach]rejwach (PL) : (rz.) rag; (rz.) row
+[rekapitulacja]rekapitulacja (PL) : (rz.) recapitulation
+[rekapitulowac]rekapitulować (PL) : (cz.) recapitulate
+[rekcja]rekcja (PL) : (rz.) government
+[rekin]rekin (PL) : (rz.) shark
+[rekinek]rekinek (PL) : (rz.) dogfish
+[reklama]reklama (PL) : (rz.) ad; (rz.) advertisement; (rz.) advertising; (rz.) blurb; (rz.) commercial; (rz.) promotion; (rz.) publicity; (rz.) signboard
+[reklamacja]reklamacja (PL) : (rz.) complaint; (rz.) reclamation
+[reklamowanie]reklamowanie (PL) : (rz.) advertising
+[reklamowac]reklamować (PL) : (cz.) advertise; (cz.) claim; (cz.) complain; (cz.) merchandize; (cz.) publicize; (cz.) reclaim
+[reklamowka]reklamówka (PL) : (rz.) commercial
+[rekolekcje]rekolekcje (PL) : (rz.) retreat
+[rekombinacja]rekombinacja (PL) : (rz.) recombination
+[rekomendacja]rekomendacja (PL) : (rz.) recommendation
+[rekomendowac]rekomendować (PL) : (cz.) recommend
+[rekompensata]rekompensata (PL) : (rz.) amends; (rz.) atonement; (rz.) compensation; (rz.) recompense; (rz.) recovery; (rz.) redress
+[rekompensowac]rekompensować (PL) : (cz.) atone; (cz.) compensate; (cz.) recompense; (cz.) repair
+[rekonesans]rekonesans (PL) : (rz.) reconnaissance
+[rekonfiguracja]rekonfiguracja (PL) : (rz.) reconfiguration; (rz.) reconfigurations
+[rekonfigurowac]rekonfigurować (PL) : (cz.) reconfigure
+[rekonstrukcja]rekonstrukcja (PL) : (rz.) reconstruction; (rz.) restoration
+[rekonstrukcyjny]rekonstrukcyjny (PL) : (p.) reconstructive
+[rekonstruktor]rekonstruktor (PL) : (rz.) restorer
+[rekonstruowac]rekonstruować (PL) : (cz.) reconstruct; (cz.) restructure
+[rekontrowac]rekontrować (PL) : (cz.) double; (cz.) redouble
+[rekonwalescencja]rekonwalescencja (PL) : (rz.) convalescence; (rz.) recuperation
+[rekonwalescencyjny]rekonwalescencyjny (PL) : (p.) convalescent
+[rekonwalescent]rekonwalescent (PL) : (rz.) convalescent
+[rekord]rekord (PL) : (rz.) record
+[rekordzista]rekordzista (PL) : (rz.) champion; (rz.) record; (rz.) record-holder
+[rekreacja]rekreacja (PL) : (rz.) recreation
+[rekreacyjny]rekreacyjny (PL) : (p.) recreational
+[rekrut]rekrut (PL) : (rz.) conscript; (rz.) draftee; (rz.) recruit; (rz.) rookie
+[rekrutacja]rekrutacja (PL) : (rz.) recruitment
+[rekrutowac]rekrutować (PL) : (cz.) levy; (cz.) recruit
+[rekryminacja]rekryminacja (PL) : (rz.) recrimination
+[rektor]rektor (PL) : (rz.) chancellor; (rz.) provost; (rz.) rector
+[rektorski]rektorski (PL) : (p.) presidential
+[rektyfikacja]rektyfikacja (PL) : (rz.) adjustment; (rz.) rectification
+[rektyfikator]rektyfikator (PL) : (rz.) rectifier
+[rektyfikowac]rektyfikować (PL) : (cz.) purify; (cz.) rectify
+[rekultywacja]rekultywacja (PL) : (rz.) reclamation
+[rekuperacja]rekuperacja (PL) : (rz.) recuperation; (rz.) regeneration
+[rekurencja]rekurencja (PL) : (rz.) recurrence; (rz.) recursion
+[rekurencyjny]rekurencyjny (PL) : (p.) recurrent; (p.) recursive
+[rekurs]rekurs (PL) : (rz.) appeal
+[rekursywny]rekursywny (PL) : (p.) recursive
+[rekwiem]rekwiem (PL) : (rz.) requiem
+[rekwirowanie]rekwirowanie (PL) : (rz.) requisition
+[rekwirowac]rekwirować (PL) : (cz.) requisition
+[rekwizycja]rekwizycja (PL) : (rz.) requisition
+[rekwizyt]rekwizyt (PL) : (rz.) prop; (rz.) requisite
+[rekwizytor]rekwizytor (PL) : (rz.) property-man
+[relacja]relacja (PL) : (rz.) account; (rz.) coverage; (rz.) narrative; (rz.) relation; (rz.) relationship
+[relacjonowanie]relacjonowanie (PL) : (rz.) relation
+[relacjonowac]relacjonować (PL) : (cz.) recite; (cz.) relate
+[relacyjny]relacyjny (PL) : (p.) relational
+[relaks]relaks (PL) : (rz.) relaxation
+[relaksacja]relaksacja (PL) : (rz.) relaxation
+[relaksacyjny]relaksacyjny (PL) : (p.) relaxing
+[relaksowy]relaksowy (PL) : (p.) relaxing
+[relaksujacy]relaksujący (PL) : (p.) relaxing
+[relatywistyczny]relatywistyczny (PL) : (p.) relativistic
+[relatywizm]relatywizm (PL) : (rz.) relativism
+[relatywnie]relatywnie (PL) : (p-sł.) relatively
+[relatywnosc]relatywność (PL) : (rz.) relativity
+[relatywny]relatywny (PL) : (p.) relative
+[relegacja]relegacja (PL) : (rz.) relegation
+[relegowac]relegować (PL) : (cz.) relegate
+[relewancja]relewancja (PL) : (rz.) relevance
+[relewantny]relewantny (PL) : (p.) relevant
+[relief]relief (PL) : (rz.) profile; (rz.) relief; (rz.) sculpture
+[religia]religia (PL) : (rz.) church; (rz.) divinity; (rz.) religion
+[religianctwo]religianctwo (PL) : (rz.) religiosity
+[religijnie]religijnie (PL) : (p-sł.) religiously
+[religijnosc]religijność (PL) : (rz.) devotion; (rz.) godliness; (rz.) religiosity
+[religijny]religijny (PL) : (p.) holy; (p.) religious; (p.) sacred
+[religioznawstwo]religioznawstwo (PL) : (rz.) religious
+[relikt]relikt (PL) : (rz.) relic; (rz.) relict; (rz.) throwback
+[relikwia]relikwia (PL) : (rz.) relic
+[relikwiarz]relikwiarz (PL) : (rz.) feretory; (rz.) reliquary; (rz.) shrine
+[reling]reling (PL) : (rz.) railing
+[relokacja]relokacja (PL) : (rz.) relocation
+[remanent]remanent (PL) : (rz.) control; (rz.) inventory; (rz.) livestock; (rz.) remnant; (rz.) stock; (rz.) stocktaking; (rz.) stock-taking
+[remedium]remedium (PL) : (rz.) remedy
+[remilitaryzacja]remilitaryzacja (PL) : (rz.) rearmament; (rz.) remilitarization
+[reminiscencja]reminiscencja (PL) : (rz.) reminiscence
+[remis]remis (PL) : (rz.) draw; (rz.) tie
+[remisja]remisja (PL) : (rz.) remission
+[remisowac]remisować (PL) : (cz.) draw
+[remisowy]remisowy (PL) : (p.) drawn
+[remitent]remitent (PL) : (rz.) issuer; (rz.) payee; (rz.) remitter
+[remiza]remiza (PL) : (rz.) depot; (rz.) fire-station; (rz.) shed
+[remizka]remizka (PL) : (rz.) eyelet
+[remont]remont (PL) : (rz.) maintenance; (rz.) overhaul; (rz.) redecoration; (rz.) refit; (rz.) renovation; (rz.) repair
+[remontowac]remontować (PL) : (cz.) overhaul; (cz.) redecorate; (cz.) reedit; (cz.) renovate
+[ren]ren (PL) : (rz.) reindeer; (rz.) rhenium
+[rencista]rencista (PL) : (rz.) annuitant; (rz.) pensioner
+[renegat]renegat (PL) : (rz.) pervert; (rz.) renegade; (rz.) turncoat; (rz.) turn-coat
+[renegocjacja]renegocjacja (PL) : (rz.) renegotiation
+[renegocjowac]renegocjować (PL) : (cz.) renegotiate
+[renesans]renesans (PL) : (rz.) renaissance; (rz.) renascence
+[reneta]reneta (PL) : (rz.) pippin; (rz.) rennet; (rz.) russet
+[renifer]renifer (PL) : (rz.) reindeer
+[renkloda]renkloda (PL) : (rz.) greengage
+[renoma]renoma (PL) : (rz.) renown; (rz.) reputation; (rz.) stature
+[renomowany]renomowany (PL) : (p.) famous; (p.) renowned
+[renowacja]renowacja (PL) : (rz.) refurbishment; (rz.) renovation
+[renowator]renowator (PL) : (rz.) renovator
+[renta]renta (PL) : (rz.) annuity; (rz.) pension; (rz.) rent
+[rentgen]rentgen (PL) : (rz.) x-ray
+[rentgenografia]rentgenografia (PL) : (rz.) radiography
+[rentgenogram]rentgenogram (PL) : (rz.) radiograph
+[rentgenokinematografia]rentgenokinematografia (PL) : (rz.) cine-radiography
+[rentgenolog]rentgenolog (PL) : (rz.) radiographer; (rz.) radiologist
+[rentgenologia]rentgenologia (PL) : (rz.) radiology
+[rentgenologiczny]rentgenologiczny (PL) : (p.) radiological
+[rentier]rentier (PL) : (rz.) renter
+[rentownosc]rentowność (PL) : (rz.) profitability
+[rentowny]rentowny (PL) : (p.) profitable; (p.) profit-making; (p.) workable
+[reorganizacja]reorganizacja (PL) : (rz.) rearrangement; (rz.) reorganization
+[reorganizowanie]reorganizowanie (PL) : (rz.) reorganization
+[reorganizowac]reorganizować (PL) : (cz.) compress; (cz.) realign; (cz.) rearrange; (cz.) reorganize; (cz.) revamp; (cz.) revamped
+[reorientacja]reorientacja (PL) : (rz.) reorientation; (rz.) shift
+[reostat]reostat (PL) : (rz.) rheostat
+[reparacja]reparacja (PL) : (rz.) reparation; (rz.) reparations
+[repartycja]repartycja (PL) : (rz.) distribution; (rz.) repartition
+[repasacja]repasacja (PL) : (rz.) ladder-mending
+[repatriacja]repatriacja (PL) : (rz.) repatriation
+[repatriant]repatriant (PL) : (rz.) repatriate
+[repatriowac]repatriować (PL) : (cz.) repatriate
+[repelent]repelent (PL) : (rz.) repellent
+[reperacja]reperacja (PL) : (rz.) mending; (rz.) repair; (rz.) reparation
+[reperkusja]reperkusja (PL) : (rz.) repercussion
+[reperowanie]reperowanie (PL) : (rz.) mending
+[reperowac]reperować (PL) : (cz.) mend; (cz.) repair
+[repertorium]repertorium (PL) : (rz.) index
+[repertuar]repertuar (PL) : (rz.) programme; (rz.) repertoire; (rz.) repertory
+[repertuarowy]repertuarowy (PL) : (p.) stock
+[repeta]repeta (PL) : (rz.) buckshee
+[repetent]repetent (PL) : (rz.) repeater
+[repetier]repetier (PL) : (rz.) repeater
+[repetowac]repetować (PL) : (cz.) load
+[repetycja]repetycja (PL) : (rz.) repetition
+[repetytor]repetytor (PL) : (rz.) repeater
+[repetytorium]repetytorium (PL) : (rz.) review
+[replika]replika (PL) : (rz.) rebuttal; (rz.) rejoinder; (rz.) replica; (rz.) retort
+[replikacja]replikacja (PL) : (rz.) replication
+[replikowac]replikować (PL) : (cz.) replicate; (cz.) retort
+[reportaz]reportaż (PL) : (rz.) coverage; (rz.) feature; (rz.) reportage
+[reporter]reporter (PL) : (rz.) reporter
+[repozytorium]repozytorium (PL) : (rz.) repository
+[represja]represja (PL) : (rz.) repression; (rz.) reprisal; (rz.) suppression
+[represjonowac]represjonować (PL) : (cz.) victimize
+[represyjny]represyjny (PL) : (p.) repressive
+[reprezentacja]reprezentacja (PL) : (rz.) representation; (rz.) team; (rz.) varsity
+[reprezentacyjnie]reprezentacyjnie (PL) : (p-sł.) representatively
+[reprezentacyjny]reprezentacyjny (PL) : (p.) elegant; (p.) portly; (p.) presentable; (p.) representational; (p.) representative
+[reprezentant]reprezentant (PL) : (rz.) representative
+[reprezentatywny]reprezentatywny (PL) : (p.) representative
+[reprezentowanie]reprezentowanie (PL) : (rz.) representation
+[reprezentowac]reprezentować (PL) : (cz.) represent
+[reproducer]reproducer (PL) : (rz.) reproducer
+[reprodukcja]reprodukcja (PL) : (rz.) ectype; (rz.) reproduction
+[reprodukcje]reprodukcje (PL) : (rz.) reproductions
+[reprodukcyjny]reprodukcyjny (PL) : (p.) reproductive
+[reprodukowanie]reprodukowanie (PL) : (rz.) copying; (rz.) duplication; (rz.) reproduction
+[reprodukowac]reprodukować (PL) : (cz.) reproduce
+[reproduktor]reproduktor (PL) : (rz.) breeder; (rz.) reproducer
+[reprografia]reprografia (PL) : (rz.) reprography
+[reprymenda]reprymenda (PL) : (rz.) reprehension; (rz.) reprimand
+[reprywatyzowac]reprywatyzować (PL) : (cz.) denationalize
+[republika]republika (PL) : (rz.) commonwealth; (rz.) republic
+[republikanin]republikanin (PL) : (rz.) republican
+[republikanizm]republikanizm (PL) : (rz.) republicanism
+[republikanski]republikański (PL) : (p.) republican
+[reputacja]reputacja (PL) : (rz.) character; (rz.) goodwill; (rz.) name; (rz.) reputation; (rz.) repute; (rz.) standing
+[resekcja]resekcja (PL) : (rz.) resection
+[resocjalizacja]resocjalizacja (PL) : (rz.) rehabilitation
+[resocjalizowac]resocjalizować (PL) : (cz.) reclaim
+[resor]resor (PL) : (rz.) spring
+[resorbowac]resorbować (PL) : (cz.) reabsorb
+[resorowy]resorowy (PL) : (p.) spring
+[resort]resort (PL) : (rz.) department; (rz.) resort
+[resortowy]resortowy (PL) : (p.) departmental
+[respekt]respekt (PL) : (rz.) esteem; (rz.) respect
+[respektowac]respektować (PL) : (cz.) respect
+[respektowy]respektowy (PL) : (p.) respective
+[respirator]respirator (PL) : (rz.) respirator
+[respondent]respondent (PL) : (rz.) responder
+[restartowanie]restartowanie (PL) : (rz.) rebooting
+[restartowac]restartować (PL) : (cz.) reboot
+[restauracja]restauracja (PL) : (rz.) diner; (rz.) grillroom; (rz.) restaurant; (rz.) restoration; (rz.) roadhouse
+[restaurator]restaurator (PL) : (rz.) renovator; (rz.) restaurateur; (rz.) restorer
+[restaurowac]restaurować (PL) : (cz.) restored
+[restrukturyzowac]restrukturyzować (PL) : (cz.) restructure
+[restrykcja]restrykcja (PL) : (rz.) restraint; (rz.) restriction
+[restrykcyjny]restrykcyjny (PL) : (p.) restrictive
+[restytucja]restytucja (PL) : (rz.) restitution
+[restytuowac]restytuować (PL) : (cz.) restore
+[resuscytacja]resuscytacja (PL) : (rz.) resuscitation
+[resuscytator]resuscytator (PL) : (rz.) resuscitator
+[reszka]reszka (PL) : (rz.) tails
+[reszta]reszta (PL) : (rz.) change; (rz.) remainder; (rz.) remnant; (rz.) residue; (rz.) rest
+[resztka]resztka (PL) : (rz.) fag-end; (rz.) oddment; (rz.) remainder; (rz.) stub; (rz.) stump; (rz.) survival
+[resztki]resztki (PL) : (rz.) remains
+[resztkowy]resztkowy (PL) : (p.) residual; (p.) residuary
+[retardacja]retardacja (PL) : (rz.) retardation
+[retencja]retencja (PL) : (rz.) retention
+[retor]retor (PL) : (rz.) rhetorician
+[retorta]retorta (PL) : (rz.) retort
+[retorycznie]retorycznie (PL) : (p-sł.) rhetorically
+[retorycznosc]retoryczność (PL) : (rz.) rhetoric
+[retoryczny]retoryczny (PL) : (p.) rhetorical
+[retoryka]retoryka (PL) : (rz.) pulpit; (rz.) rhetoric
+[retransmisja]retransmisja (PL) : (rz.) rebroadcast; (rz.) relay; (rz.) retransmission
+[retransmitowac]retransmitować (PL) : (cz.) rebroadcast; (cz.) rebroadcasts; (cz.) relay; (cz.) retransmit
+[retroaktywnie]retroaktywnie (PL) : (p-sł.) retroactively
+[retrocesja]retrocesja (PL) : (rz.) retrocession
+[retrospekcja]retrospekcja (PL) : (rz.) flashback; (rz.) retrospect; (rz.) retrospection
+[retrospektywny]retrospektywny (PL) : (p.) retrospective
+[retrowirus]retrowirus (PL) : (rz.) retrovirus; (rz.) retro-virus
+[retusz]retusz (PL) : (rz.) blocking; (rz.) retouch
+[retuszowanie]retuszowanie (PL) : (rz.) retouch
+[retuszowac]retuszować (PL) : (cz.) retouch; (cz.) retouched
+[reumatoidalny]reumatoidalny (PL) : (p.) rheumatoid
+[reumatolog]reumatolog (PL) : (rz.) rheumatologist
+[reumatologia]reumatologia (PL) : (rz.) rheumatology
+[reumatyczny]reumatyczny (PL) : (p.) rheumatic
+[reumatyk]reumatyk (PL) : (rz.) rheumatic
+[reumatyzm]reumatyzm (PL) : (rz.) rheumatism
+[rewalidacja]rewalidacja (PL) : (rz.) rehabilitation
+[rewaloryzacja]rewaloryzacja (PL) : (rz.) regeneration; (rz.) revalorization; (rz.) revaluation
+[rewaluacja]rewaluacja (PL) : (rz.) revaluation
+[rewanz]rewanż (PL) : (rz.) rematch; (rz.) revenge
+[rewanzowac]rewanżować (PL) : (cz.) reciprocate
+[rewelacja]rewelacja (PL) : (rz.) revelation
+[rewelacyjny]rewelacyjny (PL) : (p.) amazing; (p.) sensational
+[rewerans]rewerans (PL) : (rz.) obeisance
+[rewers]rewers (PL) : (rz.) IOU; (rz.) receipt; (rz.) reverse; (rz.) side; (rz.) slip
+[rewersja]rewersja (PL) : (rz.) reversion
+[rewia]rewia (PL) : (rz.) parade; (rz.) review; (rz.) revue
+[rewident]rewident (PL) : (rz.) auditor; (rz.) comptroller
+[rewidowanie]rewidowanie (PL) : (rz.) reassessment; (rz.) revision
+[rewidowac]rewidować (PL) : (cz.) audit; (cz.) revamp; (cz.) revise
+[rewindykowac]rewindykować (PL) : (cz.) demand; (cz.) vindicate
+[rewir]rewir (PL) : (rz.) district; (rz.) station
+[rewitalizacja]rewitalizacja (PL) : (rz.) regeneration; (rz.) revitalization
+[rewizja]rewizja (PL) : (rz.) audit; (rz.) cleanout; (rz.) quest; (rz.) reassessment; (rz.) reconsideration; (rz.) revision; (rz.) search
+[rewizjonista]rewizjonista (PL) : (rz.) revisionist
+[rewizjonistyczny]rewizjonistyczny (PL) : (p.) revisionist
+[rewizjonizm]rewizjonizm (PL) : (rz.) revisionism
+[rewizor]rewizor (PL) : (rz.) controller
+[rewokacja]rewokacja (PL) : (rz.) recall
+[rewolta]rewolta (PL) : (rz.) mutiny; (rz.) revolt; (rz.) uprising
+[rewolucja]rewolucja (PL) : (rz.) revolution
+[rewolucjonista]rewolucjonista (PL) : (rz.) revolutionary; (rz.) revolutionist
+[rewolucjonizowac]rewolucjonizować (PL) : (cz.) revolutionize
+[rewolucyjny]rewolucyjny (PL) : (p.) red; (p.) revolutionary
+[rewolwer]rewolwer (PL) : (rz.) gat; (rz.) handgun; (rz.) revolver
+[rewolwerowiec]rewolwerowiec (PL) : (rz.) gunfighter; (rz.) gunman
+[rezerwa]rezerwa (PL) : (rz.) allowance; (rz.) aloofness; (rz.) coyness; (rz.) inventory; (rz.) reserve; (rz.) standby; (rz.) stock
+[rezerwacja]rezerwacja (PL) : (rz.) booking; (rz.) reservation; (rz.) stand-by
+[rezerwat]rezerwat (PL) : (rz.) preserve; (rz.) reservation; (rz.) reserve; (rz.) sanctuary
+[rezerwista]rezerwista (PL) : (rz.) reservist
+[rezerwowanie]rezerwowanie (PL) : (rz.) booking; (rz.) redundancy; (rz.) reserve
+[rezerwowac]rezerwować (PL) : (cz.) book; (cz.) engage; (cz.) reserve
+[rezerwowy]rezerwowy (PL) : (p.) redundant
+[rezerwuar]rezerwuar (PL) : (rz.) basin; (rz.) cistern; (rz.) reservoir
+[rezolucja]rezolucja (PL) : (rz.) resolution
+[rezolutnosc]rezolutność (PL) : (rz.) decisiveness; (rz.) resoluteness
+[rezolutny]rezolutny (PL) : (p.) clever; (p.) game; (p.) resolute
+[rezonans]rezonans (PL) : (rz.) resonance
+[rezonansowy]rezonansowy (PL) : (p.) resonant
+[rezonator]rezonator (PL) : (rz.) resonator
+[rezonowac]rezonować (PL) : (cz.) resonate; (cz.) vibrate
+[rezorcyna]rezorcyna (PL) : (rz.) resorcinol
+[rezultat]rezultat (PL) : (rz.) consequence; (rz.) culmination; (rz.) effect; (rz.) fallout; (rz.) outcome; (rz.) result; (rz.) score; (rz.) sum; (rz.) upshot
+[rezurekcja]rezurekcja (PL) : (rz.) resurrection
+[rezus]rezus (PL) : (rz.) rhesus
+[rezydencja]rezydencja (PL) : (rz.) chateau; (rz.) hacienda; (rz.) mansion; (rz.) residence; (rz.) residency
+[rezydencjonalny]rezydencjonalny (PL) : (p.) residential
+[rezydent]rezydent (PL) : (rz.) resident
+[rezydentny]rezydentny (PL) : (p.) core-resident; (p.) memory-resident; (p.) resident
+[rezydentura]rezydentura (PL) : (rz.) residency
+[rezydowac]rezydować (PL) : (cz.) dwell; (cz.) reside
+[rezygnacja]rezygnacja (PL) : (rz.) renouncement; (rz.) renunciation; (rz.) resignation; (rz.) waiver
+[rezygnowac]rezygnować (PL) : (cz.) abdicate; (cz.) divest; (cz.) forgo; (cz.) quit; (cz.) relinquish; (cz.) resign; (cz.) waive
+[rezystancja]rezystancja (PL) : (rz.) resistance
+[rezystor]rezystor (PL) : (rz.) resistor
+[rezim]reżim (PL) : (rz.) polity; (rz.) regime; (rz.) regimen
+[rezym]reżym (PL) : (rz.) regime
+[rezyser]reżyser (PL) : (rz.) director; (rz.) manager; (rz.) producer
+[rezyseria]reżyseria (PL) : (rz.) direction; (rz.) getup; (rz.) production
+[rezyserowac]reżyserować (PL) : (cz.) direct; (cz.) stage-manage
+[riksza]riksza (PL) : (rz.) jinrikisha; (rz.) rickshaw
+[ring]ring (PL) : (rz.) ring
+[riposta]riposta (PL) : (rz.) repartee; (rz.) response; (rz.) retort; (rz.) riposte
+[ripostowac]ripostować (PL) : (cz.) retort; (cz.) riposte
+[risotto]risotto (PL) : (rz.) risotto
+[riusza]riusza (PL) : (rz.) ruche
+[robactwo]robactwo (PL) : (rz.) vermin
+[robaczkowy]robaczkowy (PL) : (p.) vermicular
+[robaczywy]robaczywy (PL) : (p.) grubby; (p.) maggoty; (p.) worm-eaten; (p.) wormy
+[robak]robak (PL) : (rz.) bedbug; (rz.) bug; (rz.) worm
+[robakowaty]robakowaty (PL) : (p.) vermiform
+[rober]rober (PL) : (rz.) rubber
+[robienie]robienie (PL) : (rz.) making
+[robic]robić (PL) : (cz.) act; (cz.) become; (cz.) conjure; (cz.) do; (cz.) get; (cz.) got; (cz.) gotten; (cz.) imbrute; (cz.) make; (cz.) ought; (cz.) proofread; (cz.) render; (cz.) take; (cz.) wale; (cz.) work
+[robociarz]robociarz (PL) : (rz.) mechanic
+[robocizna]robocizna (PL) : (rz.) job; (rz.) labour
+[roboczo]roboczo (PL) : (p-sł.) operationally
+[roboczogodzina]roboczogodzina (PL) : (rz.) man-hour
+[roboczy]roboczy (PL) : (p.) scratch; (p.) workaday
+[robol]robol (PL) : (rz.) coolie
+[robot]robot (PL) : (rz.) crawler; (rz.) robot; (rz.) robots
+[robota]robota (PL) : (rz.) chore; (rz.) crochet; (rz.) job; (rz.) labour; (rz.) making
+[robotnica]robotnica (PL) : (rz.) workwoman
+[robotnik]robotnik (PL) : (rz.) blue-collar; (rz.) labourer; (rz.) stevedore; (rz.) worker; (rz.) workingman; (rz.) workman
+[robotny]robotny (PL) : (p.) hardworking; (p.) hard-working
+[robotyka]robotyka (PL) : (rz.) robotics
+[robotyzacja]robotyzacja (PL) : (rz.) robotics
+[robotka]robótka (PL) : (rz.) knitting; (rz.) task
+[rock]rock (PL) : (rz.) rock
+[roczniak]roczniak (PL) : (rz.) yearling
+[rocznica]rocznica (PL) : (rz.) anniversary
+[rocznicowy]rocznicowy (PL) : (p.) anniversary
+[rocznie]rocznie (PL) : (p-sł.) annually
+[rocznik]rocznik (PL) : (rz.) generation; (rz.) vintage; (rz.) year; (rz.) yearbook; (rz.) year-book
+[roczny]roczny (PL) : (p.) annual; (p.) yearlong; (p.) yearly
+[rod]rod (PL) : (rz.) rhodium
+[rodak]rodak (PL) : (rz.) compatriot; (rz.) countryman; (rz.) fellow-citizen; (rz.) fellow-countryman; (rz.) native
+[rodnik]rodnik (PL) : (rz.) radical
+[rodny]rodny (PL) : (p.) birth; (p.) fertile; (p.) genital
+[rodochrozyt]rodochrozyt (PL) : (rz.) dialogite
+[rododendron]rododendron (PL) : (rz.) rhododendron
+[rodowity]rodowity (PL) : (p.) native
+[rodowodowy]rodowodowy (PL) : (p.) genealogical
+[rodowy]rodowy (PL) : (p.) ancestral
+[rodowod]rodowód (PL) : (rz.) genealogy; (rz.) genesis; (rz.) lineage; (rz.) origin; (rz.) pedigree
+[rodzaj]rodzaj (PL) : (rz.) brand; (rz.) character; (rz.) description; (rz.) form; (rz.) gait; (rz.) gender; (rz.) genre; (rz.) genus; (rz.) kidney; (rz.) kind; (rz.) line; (rz.) manner; (rz.) nature; (rz.) sort; (rz.) species; (rz.) type
+[rodzajnik]rodzajnik (PL) : (rz.) article
+[rodzajowy]rodzajowy (PL) : (p.) generic
+[rodzenie]rodzenie (PL) : (rz.) birth; (rz.) child-bearing; (rz.) generation; (rz.) procreation
+[rodzenstwo]rodzeństwo (PL) : (rz.) kinsfolk; (rz.) sibling; (rz.) siblings
+[rodzic]rodzic (PL) : (rz.) parent
+[rodzice]rodzice (PL) : (rz.) parents
+[rodzicielka]rodzicielka (PL) : (rz.) getter; (rz.) mother
+[rodzicielski]rodzicielski (PL) : (p.) parental
+[rodzicielstwo]rodzicielstwo (PL) : (rz.) parenthood
+[rodzimy]rodzimy (PL) : (p.) home; (p.) native; (p.) vernacular
+[rodzina]rodzina (PL) : (rz.) affinity; (rz.) family; (rz.) kin; (rz.) kindred; (rz.) people
+[rodzinka]rodzinka (PL) : (rz.) family
+[rodzinny]rodzinny (PL) : (p.) familial; (p.) familiar; (p.) family; (p.) natal; (p.) native
+[rodzic]rodzić (PL) : (cz.) bear; (cz.) breed; (cz.) engender; (cz.) generate; (cz.) procreate; (cz.) raise
+[rodzynek]rodzynek (PL) : (rz.) currant; (rz.) plum; (rz.) raisin; (rz.) raisins
+[rodzynka]rodzynka (PL) : (rz.) raisin
+[rodzynki]rodzynki (PL) : (rz.) raisins
+[rodzaca]rodząca (PL) : (p.) parturient
+[rogacizna]rogacizna (PL) : (rz.) cattle
+[rogacz]rogacz (PL) : (rz.) cuckold; (rz.) deer; (rz.) hart; (rz.) roebuck; (rz.) stag
+[rogal]rogal (PL) : (rz.) croissant; (rz.) twirl
+[rogalik]rogalik (PL) : (rz.) croissant
+[rogatka]rogatka (PL) : (rz.) bar; (rz.) barrier; (rz.) toll-bar; (rz.) tollhouse; (rz.) turnpike
+[rogaty]rogaty (PL) : (p.) cornuted; (p.) horned
+[rogowaty]rogowaty (PL) : (p.) corneous; (p.) horny
+[rogowcowy]rogowcowy (PL) : (p.) cherty
+[rogowiec]rogowiec (PL) : (rz.) callosity; (rz.) hornstone
+[rogowy]rogowy (PL) : (p.) corneous; (p.) horn-rimmed; (p.) horny
+[rogowka]rogówka (PL) : (rz.) cornea
+[roic]roić (PL) : (cz.) hive; (cz.) imagine; (cz.) seethe; (cz.) swarm; (cz.) teem
+[rojalista]rojalista (PL) : (rz.) royalist
+[rojenie]rojenie (PL) : (rz.) moonshine
+[rojny]rojny (PL) : (p.) bustling; (p.) busy
+[rojowisko]rojowisko (PL) : (rz.) swarm
+[rok]rok (PL) : (rz.) annum; (rz.) twelvemonth; (rz.) year; (rz.) years
+[rokoko]rokoko (PL) : (rz.) rococo
+[rokokowy]rokokowy (PL) : (p.) rococo
+[rokosz]rokosz (PL) : (rz.) rebellion; (rz.) sedition
+[rokowania]rokowania (PL) : (rz.) parley
+[rokowanie]rokowanie (PL) : (rz.) negotiation; (rz.) prognosis
+[rokowac]rokować (PL) : (cz.) negotiate; (cz.) promise; (cz.) transact
+[rokrocznie]rokrocznie (PL) : (p-sł.) annually
+[rola]rola (PL) : (rz.) character; (rz.) farmland; (rz.) part; (rz.) role; (rz.) spot
+[rolada]rolada (PL) : (rz.) collar; (rz.) roulade
+[roleta]roleta (PL) : (rz.) blind; (rz.) marquee; (rz.) roller; (rz.) rollup; (rz.) roll-up; (rz.) window-blind
+[rolka]rolka (PL) : (rz.) cartridge; (rz.) caster; (rz.) pulley; (rz.) roll; (rz.) spool
+[rolnictwo]rolnictwo (PL) : (rz.) agriculture; (rz.) farming
+[rolniczy]rolniczy (PL) : (p.) agricultural; (p.) agriculturally; (p.) agronomic; (p.) rural
+[rolnik]rolnik (PL) : (rz.) agriculturist; (rz.) cropper; (rz.) farmer; (rz.) fellow; (rz.) husbandman; (rz.) tiller
+[rolny]rolny (PL) : (p.) agrarian; (p.) agricultural
+[rolowac]rolować (PL) : (cz.) roll
+[romanca]romanca (PL) : (rz.) romance
+[romanista]romanista (PL) : (rz.) Romanist
+[romans]romans (PL) : (rz.) affair; (rz.) amour; (rz.) liaison; (rz.) love-affair; (rz.) romance
+[romansopisarz]romansopisarz (PL) : (rz.) romancer
+[romansowanie]romansowanie (PL) : (rz.) romance
+[romansowac]romansować (PL) : (cz.) romance
+[romansowy]romansowy (PL) : (p.) romance
+[romantycznie]romantycznie (PL) : (p-sł.) romantically
+[romantycznosc]romantyczność (PL) : (rz.) amour; (rz.) romance; (rz.) romanticism
+[romantyczny]romantyczny (PL) : (p.) romantic
+[romantyk]romantyk (PL) : (rz.) romantic; (rz.) romanticist
+[romantyka]romantyka (PL) : (rz.) romance; (rz.) romantic
+[romantyzm]romantyzm (PL) : (rz.) romanticism
+[romanski]romański (PL) : (p.) roman
+[romb]romb (PL) : (rz.) diamond; (rz.) lozenge; (rz.) rhomb; (rz.) rhombus
+[romboid]romboid (PL) : (rz.) rhomboid
+[romboidalny]romboidalny (PL) : (p.) rhombic
+[rombowy]rombowy (PL) : (p.) orthorhombic; (p.) rhombic
+[rondel]rondel (PL) : (rz.) casserole; (rz.) pan; (rz.) pot; (rz.) saucepan; (rz.) skillet; (rz.) stew-pan
+[rondo]rondo (PL) : (rz.) brim; (rz.) circus; (rz.) roundabout
+[ronic]ronić (PL) : (cz.) miscarry
+[ropa]ropa (PL) : (rz.) naphtha; (rz.) oil; (rz.) petroleum; (rz.) pus
+[ropiejacy]ropiejący (PL) : (p.) rotten
+[ropienie]ropienie (PL) : (rz.) fester; (rz.) purulence; (rz.) suppuration
+[ropiec]ropieć (PL) : (cz.) fester; (cz.) maturate; (cz.) rankle; (cz.) suppurate
+[ropien]ropień (PL) : (rz.) abscess; (rz.) fester
+[ropociag]ropociąg (PL) : (rz.) drain
+[roponosny]roponośny (PL) : (p.) oil-bearing
+[ropotok]ropotok (PL) : (rz.) pyorrhoea
+[ropucha]ropucha (PL) : (rz.) toad
+[rosa]rosa (PL) : (rz.) dew
+[rosiczka]rosiczka (PL) : (rz.) sundew
+[rosisty]rosisty (PL) : (p.) dewy
+[rosic]rosić (PL) : (cz.) ret
+[rosnacy]rosnący (PL) : (p.) ascending
+[rosnac]rosnąć (PL) : (cz.) grew; (cz.) grow; (cz.) luxuriate; (cz.) rise; (cz.) vegetate; (cz.) wax
+[rosochaty]rosochaty (PL) : (p.) branchy; (p.) forked
+[rosomak]rosomak (PL) : (rz.) wolverine
+[rostbef]rostbef (PL) : (rz.) rump
+[roszczenie]roszczenie (PL) : (rz.) arrogation; (rz.) claim; (rz.) counter; (rz.) pretence; (rz.) pretension
+[roszowac]roszować (PL) : (cz.) castle
+[roszponka]roszponka (PL) : (rz.) lamb
+[rosol]rosół (PL) : (rz.) bouillon; (rz.) broth
+[rosly]rosły (PL) : (p.) robust; (p.) stalwart; (p.) tall
+[rotacja]rotacja (PL) : (rz.) curl; (rz.) rotation
+[rotacyjny]rotacyjny (PL) : (p.) rotary; (p.) rotational
+[rotang]rotang (PL) : (rz.) rattan
+[rotator]rotator (PL) : (rz.) rotator
+[rotograwiura]rotograwiura (PL) : (rz.) rotogravure
+[rotunda]rotunda (PL) : (rz.) rotunda
+[rowek]rowek (PL) : (rz.) chase; (rz.) fillister; (rz.) flute; (rz.) gash; (rz.) groove; (rz.) slot
+[rower]rower (PL) : (rz.) bicycle; (rz.) bike; (rz.) cycle; (rz.) push-bicycle
+[rowerzysta]rowerzysta (PL) : (rz.) bicyclist; (rz.) biker; (rz.) cyclist; (rz.) rider
+[rowkarka]rowkarka (PL) : (rz.) jenny
+[rowkowanie]rowkowanie (PL) : (rz.) fluting
+[rowkowac]rowkować (PL) : (cz.) channel
+[rozarium]rozarium (PL) : (rz.) rosary; (rz.) rose-garden
+[rozbabrac]rozbabrać (PL) : (cz.) tumble
+[rozbarwienie]rozbarwienie (PL) : (rz.) separation
+[rozbawiac]rozbawiać (PL) : (cz.) amuse; (cz.) tickle
+[rozbawic]rozbawić (PL) : (cz.) amuse
+[rozbestwiac]rozbestwiać (PL) : (cz.) enrage
+[rozbeltac]rozbełtać (PL) : (cz.) stir
+[rozbicie]rozbicie (PL) : (rz.) bluster; (rz.) break; (rz.) breaking; (rz.) crushing; (rz.) disaccord; (rz.) disunity; (rz.) fission; (rz.) shipwreck; (rz.) wrack; (rz.) wreckage
+[rozbieg]rozbieg (PL) : (rz.) run-down; (rz.) run-up
+[rozbiegac]rozbiegać (PL) : (cz.) disperse; (cz.) diverge; (cz.) scatter
+[rozbieralnia]rozbieralnia (PL) : (rz.) changing-room
+[rozbieralny]rozbieralny (PL) : (p.) demountable
+[rozbierac]rozbierać (PL) : (cz.) disassemble; (cz.) disrobe; (cz.) divest; (cz.) parse; (cz.) strip; (cz.) unclothe; (cz.) undress
+[rozbieznosc]rozbieżność (PL) : (rz.) clash; (rz.) disagreement; (rz.) discrepancy; (rz.) divergence; (rz.) variance
+[rozbiezny]rozbieżny (PL) : (p.) divergent; (p.) heterogeneous
+[rozbijanie]rozbijanie (PL) : (rz.) breaking
+[rozbijac]rozbijać (PL) : (cz.) batter; (cz.) bluster; (cz.) break; (cz.) crack; (cz.) crush; (cz.) dash; (cz.) defeat; (cz.) knap; (cz.) pitch; (cz.) ram; (cz.) shatter; (cz.) shipwreck; (cz.) smash; (cz.) storm; (cz.) wreck
+[rozbitek]rozbitek (PL) : (rz.) castaway; (rz.) marmot
+[rozbity]rozbity (PL) : (p.) broken
+[rozbior]rozbiór (PL) : (rz.) analysis; (rz.) cutting; (rz.) parse; (rz.) partition
+[rozbiorka]rozbiórka (PL) : (rz.) demolition
+[rozbic]rozbić (PL) : (cz.) break; (cz.) crack; (cz.) crash; (cz.) crush; (cz.) shipwreck; (cz.) wreck
+[rozbrajajaco]rozbrajająco (PL) : (p-sł.) disarmingly
+[rozbrajac]rozbrajać (PL) : (cz.) decommission; (cz.) defuse; (cz.) disarm; (cz.) disembody; (cz.) dismantle; (cz.) unrig
+[rozbrat]rozbrat (PL) : (rz.) breach; (rz.) break; (rz.) split
+[rozbroic]rozbroić (PL) : (cz.) disarm
+[rozbrojenie]rozbrojenie (PL) : (rz.) disarmament
+[rozbrykac]rozbrykać (PL) : (cz.) bolt
+[rozbryzganie]rozbryzganie (PL) : (rz.) spatter
+[rozbrzmiewanie]rozbrzmiewanie (PL) : (rz.) fail; (rz.) sounding
+[rozbrzmiewac]rozbrzmiewać (PL) : (cz.) peal; (cz.) resonate; (cz.) resound
+[rozbudowa]rozbudowa (PL) : (rz.) build-up; (rz.) development; (rz.) expansion; (rz.) extension
+[rozbudowac]rozbudować (PL) : (cz.) develop; (cz.) expand; (cz.) upsize
+[rozbudowywac]rozbudowywać (PL) : (cz.) build
+[rozbudzenie]rozbudzenie (PL) : (rz.) arousal; (rz.) awakening
+[rozbudzic]rozbudzić (PL) : (cz.) raise
+[rozbujac]rozbujać (PL) : (cz.) rock
+[rozboj]rozbój (PL) : (rz.) mugging; (rz.) robbery
+[rozbojniczy]rozbójniczy (PL) : (p.) bandit's; (p.) predatory
+[rozbojnik]rozbójnik (PL) : (rz.) bandit; (rz.) brigand; (rz.) highwayman; (rz.) pirate; (rz.) robber
+[rozblysk]rozbłysk (PL) : (rz.) flare; (rz.) flash
+[rozchlapac]rozchlapać (PL) : (cz.) splash
+[rozchmurzyc]rozchmurzyć (PL) : (cz.) unbend
+[rozchodowy]rozchodowy (PL) : (p.) outgoing
+[rozchody]rozchody (PL) : (rz.) expense; (rz.) outgoings
+[rozchodzenie]rozchodzenie (PL) : (rz.) separation
+[rozchodzic]rozchodzić (PL) : (cz.) branch; (cz.) diffuse; (cz.) disband; (cz.) diverge; (cz.) float; (cz.) separate; (cz.) spread; (cz.) straggle; (cz.) wear
+[rozchwianie]rozchwianie (PL) : (rz.) looseness
+[rozchwiac]rozchwiać (PL) : (cz.) frustrate
+[rozchwytac]rozchwytać (PL) : (cz.) scramble
+[rozchylac]rozchylać (PL) : (cz.) unfold
+[rozchylony]rozchylony (PL) : (p.) half-open
+[rozchod]rozchód (PL) : (rz.) expenditure; (rz.) expense; (rz.) stonecrop
+[rozcieracz]rozcieracz (PL) : (rz.) masticator
+[rozcieranie]rozcieranie (PL) : (rz.) rubbing
+[rozcierac]rozcierać (PL) : (cz.) chafe; (cz.) grind; (cz.) rub
+[rozcienczalnik]rozcieńczalnik (PL) : (rz.) diluter; (rz.) extender; (rz.) reducer
+[rozcienczanie]rozcieńczanie (PL) : (rz.) dilution; (rz.) thinning
+[rozcienczac]rozcieńczać (PL) : (cz.) attenuate; (cz.) dilute; (cz.) diluted
+[rozcienczenie]rozcieńczenie (PL) : (rz.) dilution
+[rozcienczyc]rozcieńczyć (PL) : (cz.) dilute; (cz.) thin
+[rozcinacz]rozcinacz (PL) : (rz.) chisel
+[rozcinanie]rozcinanie (PL) : (rz.) cutting; (rz.) section
+[rozcinac]rozcinać (PL) : (cz.) dissect; (cz.) gash; (cz.) slice
+[rozciagacz]rozciągacz (PL) : (rz.) stretcher; (rz.) temple
+[rozciaganie]rozciąganie (PL) : (rz.) bumping; (rz.) strength; (rz.) stretching; (rz.) tension
+[rozciagarka]rozciągarka (PL) : (rz.) stretcher
+[rozciagac]rozciągać (PL) : (cz.) dilate; (cz.) distend; (cz.) extend; (cz.) outstretch; (cz.) overspread; (cz.) reach; (cz.) sprawl; (cz.) spread; (cz.) stretch
+[rozciagliwosc]rozciągliwość (PL) : (rz.) elongation; (rz.) extensibility
+[rozciagliwy]rozciągliwy (PL) : (p.) distensible; (p.) elastic; (p.) expansible; (p.) extensible; (p.) stretchable; (p.) stretchy; (p.) tensile
+[rozciagniecie]rozciągniecie (PL) : (rz.) extension
+[rozciagniecie]rozciągnięcie (PL) : (rz.) extension
+[rozciaglosc]rozciągłość (PL) : (rz.) extent; (rz.) length
+[rozciac]rozciąć (PL) : (cz.) cleave; (cz.) cut; (cz.) dissect; (cz.) slash
+[rozciecie]rozcięcie (PL) : (rz.) cut; (rz.) placket; (rz.) slit; (rz.) slot
+[rozczarowanie]rozczarowanie (PL) : (rz.) anticlimax; (rz.) disappointment; (rz.) disenchantment; (rz.) disillusion; (rz.) disillusionment; (rz.) dismay; (rz.) letdown
+[rozczarowany]rozczarowany (PL) : (p.) disappointed
+[rozczarowac]rozczarować (PL) : (cz.) disappoint; (cz.) disenchant; (cz.) disillusion
+[rozczarowywac]rozczarowywać (PL) : (cz.) disappoint; (cz.) disappointing; (cz.) disenchant; (cz.) disillusion; (cz.) dismay
+[rozczepiac]rozczepiać (PL) : (cz.) disconnect; (cz.) uncouple
+[rozczesac]rozczesać (PL) : (cz.) comb
+[rozczochranie]rozczochranie (PL) : (rz.) dishevelment
+[rozczochrac]rozczochrać (PL) : (cz.) dishevel; (cz.) knead; (cz.) ruffle
+[rozczulajaco]rozczulająco (PL) : (p-sł.) endearingly
+[rozczulac]rozczulać (PL) : (cz.) move; (cz.) snivel
+[rozczulenie]rozczulenie (PL) : (rz.) emotion
+[rozczyn]rozczyn (PL) : (rz.) leaven; (rz.) solution
+[rozczlonkowanie]rozczłonkowanie (PL) : (rz.) dismemberment; (rz.) fragmentation
+[rozczlonkowac]rozczłonkować (PL) : (cz.) dismember
+[rozczlonkowywac]rozczłonkowywać (PL) : (cz.) dismember
+[rozdanie]rozdanie (PL) : (rz.) distribution; (rz.) hand
+[rozdarcie]rozdarcie (PL) : (rz.) rip; (rz.) tear
+[rozdawanie]rozdawanie (PL) : (rz.) dispensation
+[rozdawac]rozdawać (PL) : (cz.) administer; (cz.) allot; (cz.) deal; (cz.) distribute; (cz.) give
+[rozdawnictwo]rozdawnictwo (PL) : (rz.) distribution
+[rozdawniczy]rozdawniczy (PL) : (p.) distributive
+[rozdac]rozdać (PL) : (cz.) deal
+[rozdeptac]rozdeptać (PL) : (cz.) poach; (cz.) trample
+[rozdmuchac]rozdmuchać (PL) : (cz.) dishevel
+[rozdrabiac]rozdrabiać (PL) : (cz.) grind
+[rozdrabniacz]rozdrabniacz (PL) : (rz.) shredder
+[rozdrabnianie]rozdrabnianie (PL) : (rz.) break-up; (rz.) crumbling; (rz.) crushing; (rz.) disintegration
+[rozdrabniarka]rozdrabniarka (PL) : (rz.) crusher; (rz.) mill
+[rozdrabniac]rozdrabniać (PL) : (cz.) atomize; (cz.) comminute; (cz.) create; (cz.) crumble; (cz.) disintegrate; (cz.) granulate
+[rozdrapac]rozdrapać (PL) : (cz.) scratch
+[rozdraznianie]rozdrażnianie (PL) : (rz.) irritability
+[rozdrazniac]rozdrażniać (PL) : (cz.) aggravate; (cz.) exasperate; (cz.) incense; (cz.) irritate; (cz.) provoke; (cz.) vex
+[rozdraznienie]rozdrażnienie (PL) : (rz.) aggravation; (rz.) annoyance; (rz.) exacerbation; (rz.) exasperation; (rz.) fret; (rz.) huff; (rz.) irritability; (rz.) irritation; (rz.) paddy; (rz.) petulance
+[rozdrazniony]rozdrażniony (PL) : (p.) fed-up; (p.) irritated
+[rozdraznic]rozdrażnić (PL) : (cz.) aggravate; (cz.) exasperate; (cz.) incense; (cz.) irritate
+[rozdrobnienie]rozdrobnienie (PL) : (rz.) break-up; (rz.) crumbling; (rz.) disintegration; (rz.) fragmentation; (rz.) fritter; (rz.) granularity
+[rozdrobnic]rozdrobnić (PL) : (cz.) crush; (cz.) disintegrate
+[rozdroze]rozdroże (PL) : (rz.) crossroads
+[rozdwajac]rozdwajać (PL) : (cz.) bifurcate; (cz.) fork
+[rozdwojenie]rozdwojenie (PL) : (rz.) bifurcation; (rz.) division; (rz.) split
+[rozdymac]rozdymać (PL) : (cz.) fan; (cz.) heighten
+[rozdzial]rozdział (PL) : (rz.) allotment; (rz.) article; (rz.) captain; (rz.) chapter; (rz.) disruption; (rz.) distribution; (rz.) parting; (rz.) section; (rz.) separation; (rz.) unit
+[rozdzielacz]rozdzielacz (PL) : (rz.) distributor; (rz.) divider; (rz.) splitter
+[rozdzielanie]rozdzielanie (PL) : (rz.) distribution; (rz.) parting; (rz.) separation
+[rozdzielac]rozdzielać (PL) : (cz.) allocate; (cz.) allot; (cz.) deal; (cz.) disband; (cz.) disjoin; (cz.) dispense; (cz.) dissever; (cz.) dissociate; (cz.) distribute; (cz.) prorate; (cz.) reallocate; (cz.) segregate; (cz.) separate; (cz.) share; (cz.) splay; (cz.) split
+[rozdzielczosc]rozdzielczość (PL) : (rz.) definition; (rz.) resolution
+[rozdzielczy]rozdzielczy (PL) : (p.) distributing; (p.) distributive
+[rozdzielenie]rozdzielenie (PL) : (rz.) detachment; (rz.) dieresis; (rz.) dissociation; (rz.) distribution; (rz.) division; (rz.) segregation; (rz.) separation
+[rozdzielic]rozdzielić (PL) : (cz.) disband; (cz.) segregate; (cz.) separate; (cz.) separated; (cz.) share; (cz.) split
+[rozdzielnia]rozdzielnia (PL) : (rz.) switch-board
+[rozdzielnictwo]rozdzielnictwo (PL) : (rz.) distribution
+[rozdzielnik]rozdzielnik (PL) : (rz.) distributor
+[rozdzielnosc]rozdzielność (PL) : (rz.) divisibility; (rz.) separation
+[rozdzielny]rozdzielny (PL) : (p.) separate; (p.) several
+[rozdzierajaco]rozdzierająco (PL) : (p-sł.) excruciatingly
+[rozdzierac]rozdzierać (PL) : (cz.) lacerate; (cz.) rend; (cz.) rip; (cz.) split
+[rozdac]rozdąć (PL) : (cz.) swell
+[rozdlubac]rozdłubać (PL) : (cz.) gouge
+[rozdzwiek]rozdźwięk (PL) : (rz.) rift
+[rozebranie]rozebranie (PL) : (rz.) dissection
+[rozebrac]rozebrać (PL) : (cz.) disjoint; (cz.) dismantle; (cz.) undress
+[rozedma]rozedma (PL) : (rz.) emphysema
+[rozedrzec]rozedrzeć (PL) : (cz.) tear
+[rozegrac]rozegrać (PL) : (cz.) play
+[rozejm]rozejm (PL) : (rz.) armistice; (rz.) ceasefire; (rz.) cease-fire; (rz.) hang-up; (rz.) truce
+[rozejrzec]rozejrzeć (PL) : (cz.) look
+[rozentuzjazmowany]rozentuzjazmowany (PL) : (p.) ecstatic
+[rozepchac]rozepchać (PL) : (cz.) expand
+[rozeprzec]rozeprzeć (PL) : (cz.) expand
+[rozerwalny]rozerwalny (PL) : (p.) dissoluble
+[rozerwanie]rozerwanie (PL) : (rz.) blow-out; (rz.) burst; (rz.) disruption; (rz.) tear
+[rozerwac]rozerwać (PL) : (cz.) amuse; (cz.) burst; (cz.) dilacerate; (cz.) disrupt; (cz.) recreate; (cz.) rip; (cz.) tear
+[rozeslac]rozesłać (PL) : (cz.) send
+[rozeta]rozeta (PL) : (rz.) rose; (rz.) rosette
+[rozetka]rozetka (PL) : (rz.) rose; (rz.) rosette
+[rozetrzec]rozetrzeć (PL) : (cz.) pulp
+[rozewrzec]rozewrzeć (PL) : (cz.) unclasp
+[rozeznanie]rozeznanie (PL) : (rz.) discernment; (rz.) discrimination
+[rozeznawac]rozeznawać (PL) : (cz.) discern; (cz.) learn
+[rozeznac]rozeznać (PL) : (cz.) discern
+[rozesmiac]roześmiać (PL) : (cz.) laugh
+[rozgadac]rozgadać (PL) : (cz.) babble
+[rozganiac]rozganiać (PL) : (cz.) disperse; (cz.) dissipate
+[rozgardiasz]rozgardiasz (PL) : (rz.) bustle; (rz.) commotion; (rz.) hoopla; (rz.) hoop-la; (rz.) hurly-burly; (rz.) mess
+[rozgarniety]rozgarnięty (PL) : (p.) brainy; (p.) smart
+[rozgaszczac]rozgaszczać (PL) : (cz.) feel
+[rozgaleziacz]rozgałęziacz (PL) : (rz.) adaptor
+[rozgaleziac]rozgałęziać (PL) : (cz.) branch; (cz.) ramify
+[rozgalezienie]rozgałęzienie (PL) : (rz.) bifurcation; (rz.) branching; (rz.) crotch; (rz.) ramification
+[rozgaleziony]rozgałęziony (PL) : (p.) ramose
+[rozgaleznik]rozgałęźnik (PL) : (rz.) branch-joint; (rz.) cluster; (rz.) splitter
+[rozginac]rozginać (PL) : (cz.) unbend
+[rozglifienie]rozglifienie (PL) : (rz.) embrasure
+[rozgladanie]rozglądanie (PL) : (rz.) looks
+[rozgladac]rozglądać (PL) : (cz.) browse; (cz.) look
+[rozgmatwac]rozgmatwać (PL) : (cz.) disentangle
+[rozgniatanie]rozgniatanie (PL) : (rz.) crushing
+[rozgniatac]rozgniatać (PL) : (cz.) mash; (cz.) pound; (cz.) squash
+[rozgniewany]rozgniewany (PL) : (p.) angry; (p.) annoyed
+[rozgniewac]rozgniewać (PL) : (cz.) dissatisfy; (cz.) vex
+[rozgniesc]rozgnieść (PL) : (cz.) crush
+[rozgonienie]rozgonienie (PL) : (rz.) dissipation
+[rozgoryczac]rozgoryczać (PL) : (cz.) disgust; (cz.) embitter
+[rozgoryczenie]rozgoryczenie (PL) : (rz.) bitterness; (rz.) chagrin; (rz.) embitterment
+[rozgoryczony]rozgoryczony (PL) : (p.) rancorous
+[rozgoraczkowanie]rozgorączkowanie (PL) : (rz.) fever
+[rozgoraczkowac]rozgorączkować (PL) : (cz.) fire
+[rozgotowac]rozgotować (PL) : (cz.) overcook
+[rozgrabic]rozgrabić (PL) : (cz.) rob
+[rozgraniczac]rozgraniczać (PL) : (cz.) delimitate; (cz.) demarcate; (cz.) differentiate
+[rozgraniczenie]rozgraniczenie (PL) : (rz.) demarcation; (rz.) distinction; (rz.) separation
+[rozgraniczyc]rozgraniczyć (PL) : (cz.) demarcate
+[rozgromienie]rozgromienie (PL) : (rz.) debacle; (rz.) rout
+[rozgromic]rozgromić (PL) : (cz.) rout
+[rozgrywac]rozgrywać (PL) : (cz.) play
+[rozgrywka]rozgrywka (PL) : (rz.) ballgame; (rz.) contest; (rz.) game
+[rozgryzac]rozgryzać (PL) : (cz.) chew
+[rozgryzienie]rozgryzienie (PL) : (rz.) cracking
+[rozgryzc]rozgryźć (PL) : (cz.) crack
+[rozgrzanie]rozgrzanie (PL) : (rz.) heating
+[rozgrzac]rozgrzać (PL) : (cz.) hot; (cz.) inspirit
+[rozgrzebac]rozgrzebać (PL) : (cz.) tumble
+[rozgrzebywac]rozgrzebywać (PL) : (cz.) rankle
+[rozgrzeszac]rozgrzeszać (PL) : (cz.) absolve; (cz.) assoil
+[rozgrzeszenie]rozgrzeszenie (PL) : (rz.) absolution
+[rozgrzeszyc]rozgrzeszyć (PL) : (cz.) absolve
+[rozgrzewac]rozgrzewać (PL) : (cz.) warm; (cz.) warmed
+[rozgrzewka]rozgrzewka (PL) : (rz.) warm-up
+[rozgwar]rozgwar (PL) : (rz.) hum
+[rozgwiazda]rozgwiazda (PL) : (rz.) starfish
+[rozglaszanie]rozgłaszanie (PL) : (rz.) advertising; (rz.) broadcast; (rz.) transmission
+[rozglaszac]rozgłaszać (PL) : (cz.) peal; (cz.) trumpet
+[rozglos]rozgłos (PL) : (rz.) fame; (rz.) notability; (rz.) notoriety; (rz.) publicity; (rz.) renown; (rz.) resonance
+[rozgloszenie]rozgłoszenie (PL) : (rz.) divulgation
+[rozhermetyzowac]rozhermetyzować (PL) : (cz.) depressurize
+[rozjazd]rozjazd (PL) : (rz.) crossover; (rz.) interchange; (rz.) junction; (rz.) turnout
+[rozjasniacz]rozjaśniacz (PL) : (rz.) brighteners
+[rozjasniac]rozjaśniać (PL) : (cz.) bleach; (cz.) brighten; (cz.) clarifier; (cz.) clarify; (cz.) illuminate; (cz.) illumine; (cz.) irradiate; (cz.) lighten
+[rozjasnienie]rozjaśnienie (PL) : (rz.) illumination
+[rozjasnic]rozjaśnić (PL) : (cz.) bleach; (cz.) brighten; (cz.) lighten
+[rozjemca]rozjemca (PL) : (rz.) arbitrator; (rz.) mediator; (rz.) peacemaker; (rz.) peace-maker; (rz.) referee; (rz.) umpire
+[rozjemczy]rozjemczy (PL) : (p.) arbitrary; (p.) mediatory
+[rozjezdzic]rozjeździć (PL) : (cz.) dilapidate
+[rozjuczyc]rozjuczyć (PL) : (cz.) unburden
+[rozjuszac]rozjuszać (PL) : (cz.) enrage
+[rozjuszyc]rozjuszyć (PL) : (cz.) infuriate; (cz.) infuriated; (cz.) stir
+[rozjatrzac]rozjątrzać (PL) : (cz.) embitter; (cz.) exacerbate; (cz.) exasperate; (cz.) fester; (cz.) inflame; (cz.) rankle
+[rozjatrzenie]rozjątrzenie (PL) : (rz.) aggravation
+[rozjatrzyc]rozjątrzyć (PL) : (cz.) exacerbate; (cz.) irritate; (cz.) madden
+[rozkaprysic]rozkaprysić (PL) : (cz.) indulge
+[rozkaz]rozkaz (PL) : (rz.) command; (rz.) commandment; (rz.) commission; (rz.) dictate; (rz.) directive; (rz.) instruction; (rz.) mandate; (rz.) order; (rz.) ordinance; (rz.) word
+[rozkazac]rozkazać (PL) : (cz.) bid
+[rozkazodawca]rozkazodawca (PL) : (rz.) commander
+[rozkazujaco]rozkazująco (PL) : (p-sł.) imperatively
+[rozkazujacy]rozkazujący (PL) : (p.) imperative
+[rozkazywac]rozkazywać (PL) : (cz.) command; (cz.) dictate; (cz.) order
+[rozkielznac]rozkiełznać (PL) : (cz.) unchain
+[rozklekotac]rozklekotać (PL) : (cz.) dilapidate
+[rozkochac]rozkochać (PL) : (cz.) infatuate
+[rozkodowac]rozkodować (PL) : (cz.) decode
+[rozkojarzenie]rozkojarzenie (PL) : (rz.) dissociation
+[rozkolportowac]rozkolportować (PL) : (cz.) distribute
+[rozkonspirowac]rozkonspirować (PL) : (cz.) unmask
+[rozkopac]rozkopać (PL) : (cz.) tumble
+[rozkosz]rozkosz (PL) : (rz.) bliss; (rz.) delight; (rz.) pleasure; (rz.) satisfaction; (rz.) zest
+[rozkosznie]rozkosznie (PL) : (p-sł.) delightfully
+[rozkoszny]rozkoszny (PL) : (p.) adorable; (p.) delectable; (p.) delicious; (p.) delightful; (p.) lovable
+[rozkoszowanie]rozkoszowanie (PL) : (rz.) delectation
+[rozkoszowac]rozkoszować (PL) : (cz.) delight; (cz.) enjoy; (cz.) luxuriate; (cz.) relish; (cz.) revel
+[rozkolys]rozkołys (PL) : (rz.) swell
+[rozkolysac]rozkołysać (PL) : (cz.) toss
+[rozkraczyc]rozkraczyć (PL) : (cz.) straddle
+[rozkrajac]rozkrajać (PL) : (cz.) slice
+[rozkroczny]rozkroczny (PL) : (p.) astride
+[rozkrok]rozkrok (PL) : (rz.) straddle; (rz.) stride
+[rozkruszanie]rozkruszanie (PL) : (rz.) crushing
+[rozkruszac]rozkruszać (PL) : (cz.) crumble; (cz.) disintegrate
+[rozkruszyc]rozkruszyć (PL) : (cz.) crumble
+[rozkrzewiac]rozkrzewiać (PL) : (cz.) layer
+[rozkrzewic]rozkrzewić (PL) : (cz.) plant
+[rozkroj]rozkrój (PL) : (rz.) cut
+[rozkrecac]rozkręcać (PL) : (cz.) unscrew; (cz.) untwist; (cz.) unwind
+[rozkrecic]rozkręcić (PL) : (cz.) unscrew
+[rozkulbaczac]rozkulbaczać (PL) : (cz.) unsaddle
+[rozkurcz]rozkurcz (PL) : (rz.) diastole
+[rozkurczac]rozkurczać (PL) : (cz.) unclench
+[rozkurczowy]rozkurczowy (PL) : (p.) diastolic; (p.) relaxant
+[rozkuc]rozkuć (PL) : (cz.) unbind; (cz.) unchain; (cz.) unfetter; (cz.) unshackle
+[rozkwasic]rozkwasić (PL) : (cz.) smash
+[rozkwaterowac]rozkwaterować (PL) : (cz.) quarter
+[rozkwit]rozkwit (PL) : (rz.) bloom; (rz.) blow; (rz.) boom; (rz.) efflorescence; (rz.) florescence; (rz.) height; (rz.) renaissance; (rz.) renascence; (rz.) rise
+[rozkwitanie]rozkwitanie (PL) : (rz.) budding
+[rozkwitac]rozkwitać (PL) : (cz.) blossom; (cz.) bud; (cz.) flourish; (cz.) flower
+[rozkwitniecie]rozkwitnięcie (PL) : (rz.) bloom
+[rozklad]rozkład (PL) : (rz.) decay; (rz.) decomposition; (rz.) disintegration; (rz.) disposition; (rz.) dissolution; (rz.) distribution; (rz.) expansion; (rz.) planner; (rz.) putrefaction; (rz.) schedule; (rz.) spread; (rz.) timetable
+[rozkladalny]rozkładalny (PL) : (p.) resoluble
+[rozkladany]rozkładany (PL) : (p.) expandable
+[rozkladarka]rozkładarka (PL) : (rz.) spreader
+[rozkladac]rozkładać (PL) : (cz.) apportion; (cz.) decay; (cz.) decompose; (cz.) disintegrate; (cz.) dispose; (cz.) dissolve; (cz.) resolve; (cz.) spread; (cz.) unfold; (cz.) unfurl
+[rozkladowy]rozkładowy (PL) : (p.) dissolvent
+[rozkladowka]rozkładówka (PL) : (rz.) centrefold; (rz.) spread
+[rozlanie]rozlanie (PL) : (rz.) spillage
+[rozlatywac]rozlatywać (PL) : (cz.) scatter
+[rozlac]rozlać (PL) : (cz.) slop; (cz.) spill
+[rozleciec]rozlecieć (PL) : (cz.) burst; (cz.) shatter
+[rozlegle]rozlegle (PL) : (p-sł.) broadly; (p-sł.) extensively
+[rozleglosc]rozległość (PL) : (rz.) extent; (rz.) range
+[rozlegly]rozległy (PL) : (p.) comprehensive; (p.) expansive; (p.) extensive; (p.) large; (p.) patulous; (p.) sweeping; (p.) vast; (p.) wide; (p.) widespread
+[rozleniwienia]rozleniwienia (PL) : (rz.) laziness; (rz.) slackness
+[rozlepiac]rozlepiać (PL) : (cz.) stick
+[rozlew]rozlew (PL) : (rz.) bloodshed; (rz.) effusion; (rz.) flood; (rz.) overflow
+[rozlewacz]rozlewacz (PL) : (rz.) bottler
+[rozlewanie]rozlewanie (PL) : (rz.) spillage
+[rozlewac]rozlewać (PL) : (cz.) diffuse; (cz.) slop; (cz.) spill; (cz.) spread
+[rozlewisko]rozlewisko (PL) : (rz.) backwater; (rz.) pool
+[rozlewnia]rozlewnia (PL) : (rz.) bottler; (rz.) bottling
+[rozlewny]rozlewny (PL) : (p.) profuse; (p.) prolix
+[rozlezc]rozleźć (PL) : (cz.) sprawl
+[rozliczac]rozliczać (PL) : (cz.) account
+[rozliczenie]rozliczenie (PL) : (rz.) accounts; (rz.) clearing; (rz.) reckoning; (rz.) settlement
+[rozliczny]rozliczny (PL) : (p.) diverse; (p.) manifold; (p.) various
+[rozlokowac]rozlokować (PL) : (cz.) quarter; (cz.) station
+[rozlutowac]rozlutować (PL) : (cz.) unsolder
+[rozluznianie]rozluźnianie (PL) : (rz.) relaxation
+[rozluzniarka]rozluźniarka (PL) : (rz.) opener
+[rozluzniac]rozluźniać (PL) : (cz.) loose; (cz.) loosen; (cz.) relax; (cz.) slacken; (cz.) unclasp; (cz.) unfasten; (cz.) unloose
+[rozluznienie]rozluźnienie (PL) : (rz.) laxity; (rz.) relaxation; (rz.) slackness
+[rozluznic]rozluźnić (PL) : (cz.) loosen; (cz.) relax; (cz.) unclasp; (cz.) unfasten; (cz.) unloose
+[rozmach]rozmach (PL) : (rz.) breadth; (rz.) get-up-and-go; (rz.) impetus; (rz.) momentum; (rz.) swing
+[rozmagnesowanie]rozmagnesowanie (PL) : (rz.) demagnetising; (rz.) demagnetization
+[rozmagnesowac]rozmagnesować (PL) : (cz.) demagnetize
+[rozmaicie]rozmaicie (PL) : (p-sł.) diversely; (p-sł.) variously
+[rozmaitosc]rozmaitość (PL) : (rz.) diversity; (rz.) variegation; (rz.) variety
+[rozmaity]rozmaity (PL) : (p.) different; (p.) diverse; (p.) manifold; (p.) miscellaneous; (p.) several; (p.) sundry; (p.) varied; (p.) various
+[rozmaryn]rozmaryn (PL) : (rz.) rosemary
+[rozmarzenie]rozmarzenie (PL) : (rz.) languor; (rz.) reverie; (rz.) wool-gathering
+[rozmawianie]rozmawianie (PL) : (rz.) speaking
+[rozmawiac]rozmawiać (PL) : (cz.) chat; (cz.) converse; (cz.) discourse; (cz.) parley; (cz.) speak; (cz.) talk
+[rozmaz]rozmaz (PL) : (rz.) smear
+[rozmazac]rozmazać (PL) : (cz.) blur; (cz.) smear; (cz.) smudge
+[rozmazywac]rozmazywać (PL) : (cz.) blur; (cz.) smear
+[rozmiar]rozmiar (PL) : (rz.) dimension; (rz.) extent; (rz.) magnitude; (rz.) measurement; (rz.) size
+[rozmiazdzyc]rozmiażdżyć (PL) : (cz.) crush
+[rozmieniac]rozmieniać (PL) : (cz.) alternate; (cz.) change
+[rozmienic]rozmienić (PL) : (cz.) break
+[rozmierzac]rozmierzać (PL) : (cz.) measure
+[rozmiesic]rozmiesić (PL) : (cz.) knead
+[rozmieszac]rozmieszać (PL) : (cz.) mix
+[rozmieszczanie]rozmieszczanie (PL) : (rz.) deployment; (rz.) spacing
+[rozmieszczac]rozmieszczać (PL) : (cz.) accommodate; (cz.) allocate; (cz.) arrange; (cz.) collocate; (cz.) deploy; (cz.) dispose
+[rozmieszczenie]rozmieszczenie (PL) : (rz.) arrangement; (rz.) disposal; (rz.) distribution; (rz.) layout; (rz.) lay-out; (rz.) placement; (rz.) spacing
+[rozmiescic]rozmieścić (PL) : (cz.) deploy
+[rozmiesc]rozmieść (PL) : (cz.) arrange
+[rozmijac]rozmijać (PL) : (cz.) materialize
+[rozminowac]rozminować (PL) : (cz.) delouse
+[rozmiekczanie]rozmiękczanie (PL) : (rz.) steeping
+[rozmiekczyc]rozmiękczyć (PL) : (cz.) steep
+[rozmilowac]rozmiłować (PL) : (cz.) inspire
+[rozmnazanie]rozmnażanie (PL) : (rz.) multiplication; (rz.) propagation; (rz.) reproduction
+[rozmnazac]rozmnażać (PL) : (cz.) breed; (cz.) multiply; (cz.) proliferate; (cz.) reproduce; (cz.) spawn
+[rozmnozyc]rozmnożyć (PL) : (cz.) reproduce
+[rozmnozka]rozmnóżka (PL) : (rz.) cell
+[rozmoczyc]rozmoczyć (PL) : (cz.) moisten; (cz.) soak; (cz.) wet
+[rozmontowac]rozmontować (PL) : (cz.) disassemble; (cz.) dismantle
+[rozmontowywanie]rozmontowywanie (PL) : (rz.) disassembling
+[rozmontowywac]rozmontowywać (PL) : (cz.) disassemble; (cz.) dismantle
+[rozmotac]rozmotać (PL) : (cz.) unreel
+[rozmotywac]rozmotywać (PL) : (cz.) unravel
+[rozmowa]rozmowa (PL) : (rz.) call; (rz.) chat; (rz.) conversation; (rz.) deliberation; (rz.) dialogue; (rz.) discourse; (rz.) interview; (rz.) palaver; (rz.) talk
+[rozmownie]rozmownie (PL) : (p-sł.) talkatively
+[rozmownosc]rozmowność (PL) : (rz.) talkativeness
+[rozmowny]rozmowny (PL) : (p.) communicative; (p.) conversable; (p.) garrulous; (p.) talkative
+[rozmrazanie]rozmrażanie (PL) : (rz.) defrosting
+[rozmrazac]rozmrażać (PL) : (cz.) defrost; (cz.) thaw
+[rozmycie]rozmycie (PL) : (rz.) blur; (rz.) cuts; (rz.) washout
+[rozmysl]rozmysł (PL) : (rz.) intent; (rz.) purpose
+[rozmywanie]rozmywanie (PL) : (rz.) blurring
+[rozmywac]rozmywać (PL) : (cz.) blur
+[rozmyc]rozmyć (PL) : (cz.) blurring
+[rozmyslanie]rozmyślanie (PL) : (rz.) contemplation; (rz.) meditation; (rz.) reflection; (rz.) speculation; (rz.) thinking
+[rozmyslac]rozmyślać (PL) : (cz.) bethink; (cz.) cogitate; (cz.) contemplate; (cz.) deliberate; (cz.) meditate; (cz.) ponder; (cz.) reflect; (cz.) ruminate; (cz.) speculate
+[rozmyslnie]rozmyślnie (PL) : (p-sł.) advisedly; (p-sł.) deliberately; (p-sł.) designedly
+[rozmyslnosc]rozmyślność (PL) : (rz.) deliberateness; (rz.) premeditation
+[rozmyslny]rozmyślny (PL) : (p.) deliberate; (p.) premeditated; (p.) purposeful; (p.) purposive; (p.) wilful
+[rozmowca]rozmówca (PL) : (rz.) caller; (rz.) collocutor; (rz.) conversationalist; (rz.) interlocutor
+[rozmowczyni]rozmówczyni (PL) : (rz.) interlocutor
+[rozmowka]rozmówka (PL) : (rz.) chat; (rz.) dialogue
+[rozmownica]rozmównica (PL) : (rz.) auditorium; (rz.) call-box
+[roznamietniac]roznamiętniać (PL) : (cz.) fire; (cz.) impassion
+[roznamietnic]roznamiętnić (PL) : (cz.) impassion
+[rozniecac]rozniecać (PL) : (cz.) kindle
+[rozniecenie]rozniecenie (PL) : (rz.) inflammation; (rz.) kindling
+[rozniecic]rozniecić (PL) : (cz.) kindle
+[rozniesc]roznieść (PL) : (cz.) carry; (cz.) fill
+[roznosiciel]roznosiciel (PL) : (rz.) carrier; (rz.) distributor; (rz.) newsboy
+[roznosic]roznosić (PL) : (cz.) carry; (cz.) distribute; (cz.) spread
+[roznoszenie]roznoszenie (PL) : (rz.) delivery; (rz.) distribution
+[rozochocic]rozochocić (PL) : (cz.) enliven
+[rozognic]rozognić (PL) : (cz.) excite
+[rozpacz]rozpacz (PL) : (rz.) despair; (rz.) desperation; (rz.) distress
+[rozpaczac]rozpaczać (PL) : (cz.) despair; (cz.) grieve
+[rozpaczliwie]rozpaczliwie (PL) : (p-sł.) desperately
+[rozpaczliwosc]rozpaczliwość (PL) : (rz.) hopelessness
+[rozpaczliwy]rozpaczliwy (PL) : (p.) desperate; (p.) distressful; (p.) distressing; (p.) forlorn; (p.) hopeless
+[rozpad]rozpad (PL) : (rz.) breakdown; (rz.) break-up; (rz.) collapse; (rz.) decay; (rz.) decomposition; (rz.) disintegration; (rz.) dissociation; (rz.) dissolution; (rz.) division
+[rozpadajacy]rozpadający (PL) : (p.) ramshackle
+[rozpadac]rozpadać (PL) : (cz.) cleave; (cz.) collapse; (cz.) crack; (cz.) crumble; (cz.) decay; (cz.) decompose; (cz.) disarray; (cz.) disintegrate; (cz.) flaw; (cz.) moulder; (cz.) perish; (cz.) pulverize
+[rozpadlina]rozpadlina (PL) : (rz.) chasm; (rz.) cleft; (rz.) crack; (rz.) fissure
+[rozpakowac]rozpakować (PL) : (cz.) unpack; (cz.) unwrap; (cz.) unzip
+[rozpakowywanie]rozpakowywanie (PL) : (rz.) extraction
+[rozpakowywac]rozpakowywać (PL) : (cz.) unpack; (cz.) unpacked; (cz.) unwrap
+[rozpalac]rozpalać (PL) : (cz.) burn; (cz.) enkindle; (cz.) inflame; (cz.) kindle; (cz.) light; (cz.) rekindle
+[rozpalenie]rozpalenie (PL) : (rz.) lighting
+[rozpalic]rozpalić (PL) : (cz.) inflame; (cz.) kindle
+[rozpamietywac]rozpamiętywać (PL) : (cz.) ponder
+[rozpasanie]rozpasanie (PL) : (rz.) debauchery; (rz.) licentiousness
+[rozpasac]rozpasać (PL) : (cz.) fatten
+[rozpatrywanie]rozpatrywanie (PL) : (rz.) examination; (rz.) investigation
+[rozpatrywac]rozpatrywać (PL) : (cz.) consider; (cz.) envisage; (cz.) examine; (cz.) seen; (cz.) treat
+[rozpatrzenie]rozpatrzenie (PL) : (rz.) consideration; (rz.) examination; (rz.) investigation
+[rozpatrzec]rozpatrzeć (PL) : (cz.) seen
+[rozpatrzyc]rozpatrzyć (PL) : (cz.) consider
+[rozpalka]rozpałka (PL) : (rz.) kindling
+[rozpieczetowac]rozpieczętować (PL) : (cz.) unseal
+[rozpierzchac]rozpierzchać (PL) : (cz.) scamper
+[rozpieszczac]rozpieszczać (PL) : (cz.) coddle; (cz.) mollycoddle; (cz.) pamper; (cz.) spoil
+[rozpiescic]rozpieścić (PL) : (cz.) spoil
+[rozpinac]rozpinać (PL) : (cz.) unbuckle; (cz.) unbutton; (cz.) undo; (cz.) unfasten
+[rozpisac]rozpisać (PL) : (cz.) publish; (cz.) transcribe
+[rozpisywac]rozpisywać (PL) : (cz.) float
+[rozpiac]rozpiąć (PL) : (cz.) open; (cz.) stretch; (cz.) unbutton; (cz.) undo; (cz.) unfasten; (cz.) untie
+[rozpietosc]rozpiętość (PL) : (rz.) bandstand; (rz.) breadth; (rz.) range; (rz.) span; (rz.) spread; (rz.) stretch; (rz.) width
+[rozplanowanie]rozplanowanie (PL) : (rz.) layout; (rz.) lay-out
+[rozplatac]rozplatać (PL) : (cz.) unclasp; (cz.) unravel; (cz.) untwist
+[rozpleniac]rozpleniać (PL) : (cz.) proliferate
+[rozplatac]rozplątać (PL) : (cz.) disentangle; (cz.) unravel; (cz.) untangle
+[rozplatywac]rozplątywać (PL) : (cz.) disentangle; (cz.) unravel
+[rozpoczynac]rozpoczynać (PL) : (cz.) began; (cz.) begin; (cz.) begun; (cz.) commence; (cz.) engage; (cz.) inaugurate; (cz.) open; (cz.) resume
+[rozpoczac]rozpocząć (PL) : (cz.) begin; (cz.) launch; (cz.) open; (cz.) start
+[rozpoczecie]rozpoczęcie (PL) : (rz.) beginning; (rz.) commencement; (rz.) inception; (rz.) initialization; (rz.) recommencement
+[rozpogadzac]rozpogadzać (PL) : (cz.) brighten
+[rozpora]rozpora (PL) : (rz.) stretcher
+[rozporek]rozporek (PL) : (rz.) flies; (rz.) fly; (rz.) slit
+[rozporka]rozporka (PL) : (rz.) separator; (rz.) spacer; (rz.) spreader; (rz.) spur; (rz.) stay
+[rozporzadzalny]rozporządzalny (PL) : (p.) available
+[rozporzadzanie]rozporządzanie (PL) : (rz.) disposal
+[rozporzadzac]rozporządzać (PL) : (cz.) command; (cz.) decree; (cz.) dispose
+[rozporzadzenie]rozporządzenie (PL) : (rz.) decree; (rz.) disposal; (rz.) edict; (rz.) ordinance; (rz.) regulation; (rz.) writ
+[rozpostarcie]rozpostarcie (PL) : (rz.) stretch
+[rozpostarty]rozpostarty (PL) : (p.) prone
+[rozpostarc]rozpostarć (PL) : (cz.) unfurl
+[rozpostrzec]rozpostrzeć (PL) : (cz.) unfurl
+[rozpowiadac]rozpowiadać (PL) : (cz.) enlarge
+[rozpowszechnianie]rozpowszechnianie (PL) : (rz.) proliferation
+[rozpowszechniac]rozpowszechniać (PL) : (cz.) disseminate; (cz.) distribute; (cz.) release; (cz.) spread
+[rozpowszechnienie]rozpowszechnienie (PL) : (rz.) diffusion; (rz.) dissemination; (rz.) prevalence
+[rozpowszechniony]rozpowszechniony (PL) : (p.) frequent; (p.) prevalent; (p.) widespread
+[rozpowszechnic]rozpowszechnić (PL) : (cz.) spread
+[rozpoznanie]rozpoznanie (PL) : (rz.) diagnosis; (rz.) judgement; (rz.) recognition; (rz.) reconnaissance; (rz.) scout
+[rozpoznawalnosc]rozpoznawalność (PL) : (rz.) recognition
+[rozpoznawalny]rozpoznawalny (PL) : (p.) distinguishable; (p.) recognisable; (p.) recognizable
+[rozpoznawanie]rozpoznawanie (PL) : (rz.) recognition
+[rozpoznawac]rozpoznawać (PL) : (cz.) diagnose; (cz.) distinguish; (cz.) identify; (cz.) recognize; (cz.) reconnoitre
+[rozpoznac]rozpoznać (PL) : (cz.) diagnose; (cz.) recognise; (cz.) recognize
+[rozpolowiony]rozpołowiony (PL) : (p.) bifid
+[rozpolowic]rozpołowić (PL) : (cz.) halve
+[rozposcierac]rozpościerać (PL) : (cz.) spread; (cz.) unfurl
+[rozprasowac]rozprasować (PL) : (cz.) flatten
+[rozpraszajacy]rozpraszający (PL) : (p.) dissipative
+[rozpraszanie]rozpraszanie (PL) : (rz.) diffusion; (rz.) dispersal; (rz.) dissipation
+[rozpraszac]rozpraszać (PL) : (cz.) allay; (cz.) diffuse; (cz.) dispel; (cz.) disperse; (cz.) dissipate; (cz.) distract; (cz.) distribute; (cz.) propagate; (cz.) scatter
+[rozprawa]rozprawa (PL) : (rz.) discourse; (rz.) hearing; (rz.) showdown; (rz.) suit; (rz.) thesis; (rz.) tract; (rz.) treatise; (rz.) trial
+[rozprawiac]rozprawiać (PL) : (cz.) confabulate; (cz.) deal; (cz.) discourse; (cz.) discuss; (cz.) manage; (cz.) treat
+[rozprawka]rozprawka (PL) : (rz.) essay
+[rozpromieniac]rozpromieniać (PL) : (cz.) beam
+[rozprostowac]rozprostować (PL) : (cz.) straighten; (cz.) unbend
+[rozprostowywac]rozprostowywać (PL) : (cz.) spread; (cz.) unbend
+[rozproszenie]rozproszenie (PL) : (rz.) diffusion; (rz.) dispersal; (rz.) dispersion; (rz.) dissipation; (rz.) distraction; (rz.) distribution
+[rozproszyc]rozproszyć (PL) : (cz.) disperse; (cz.) dispersing; (cz.) dissipate; (cz.) scatter; (cz.) straddle
+[rozprowadzac]rozprowadzać (PL) : (cz.) disseminate; (cz.) distribute
+[rozprowadzic]rozprowadzić (PL) : (cz.) distribute
+[rozprucie]rozprucie (PL) : (rz.) rip
+[rozpruwacz]rozpruwacz (PL) : (rz.) ripper
+[rozpruwac]rozpruwać (PL) : (cz.) rip; (cz.) unstitch
+[rozpruc]rozpruć (PL) : (cz.) slit; (cz.) unpick; (cz.) unstitch
+[rozprysk]rozprysk (PL) : (rz.) burst; (rz.) spatter; (rz.) splinter; (rz.) splutter
+[rozpryskiwanie]rozpryskiwanie (PL) : (rz.) fragmentation
+[rozpryskiwac]rozpryskiwać (PL) : (cz.) scatter; (cz.) spatter; (cz.) splash; (cz.) spray
+[rozprzedac]rozprzedać (PL) : (cz.) sell
+[rozprzedaz]rozprzedaż (PL) : (rz.) sale
+[rozprzestrzenianie]rozprzestrzenianie (PL) : (rz.) deployment; (rz.) diffusion; (rz.) proliferation; (rz.) spread
+[rozprzestrzeniac]rozprzestrzeniać (PL) : (cz.) broadcast; (cz.) diffuse; (cz.) disperse; (cz.) expand; (cz.) ripple; (cz.) sprawl; (cz.) spread; (cz.) wildfire
+[rozprzestrzenienie]rozprzestrzenienie (PL) : (rz.) diffusion; (rz.) expansion; (rz.) spread
+[rozprzestrzenic]rozprzestrzenić (PL) : (cz.) spread
+[rozprzegac]rozprzęgać (PL) : (cz.) disarrange
+[rozprzezenie]rozprzężenie (PL) : (rz.) disarray; (rz.) disorder
+[rozprezacz]rozprężacz (PL) : (rz.) expander
+[rozprezanie]rozprężanie (PL) : (rz.) slackness
+[rozprezarka]rozprężarka (PL) : (rz.) expander; (rz.) expanders
+[rozprezac]rozprężać (PL) : (cz.) decompress
+[rozprezenie]rozprężenie (PL) : (rz.) slackness
+[rozpulchniac]rozpulchniać (PL) : (cz.) scarify
+[rozpusta]rozpusta (PL) : (rz.) debauch; (rz.) debauchery; (rz.) dissipation; (rz.) immorality; (rz.) licentiousness
+[rozpustnik]rozpustnik (PL) : (rz.) debauchee; (rz.) lecher; (rz.) profligate; (rz.) ribald; (rz.) rioter
+[rozpustny]rozpustny (PL) : (p.) debauched; (p.) dissipated; (p.) dissolute; (p.) gay; (p.) immoral; (p.) lecherous; (p.) lickerish; (p.) profligate; (p.) rakish; (p.) reprobate
+[rozpuszczalnik]rozpuszczalnik (PL) : (rz.) dissolvent; (rz.) solvent; (rz.) solver
+[rozpuszczalnikowy]rozpuszczalnikowy (PL) : (p.) solvent
+[rozpuszczalnosc]rozpuszczalność (PL) : (rz.) dissolubility; (rz.) solubility
+[rozpuszczalny]rozpuszczalny (PL) : (p.) dissoluble; (p.) resolvable; (p.) soluble; (p.) solvable; (p.) water-soluble
+[rozpuszczanie]rozpuszczanie (PL) : (rz.) dissolution
+[rozpuszczac]rozpuszczać (PL) : (cz.) decompose; (cz.) dilute; (cz.) disband; (cz.) dissolve; (cz.) melt; (cz.) resolve; (cz.) solve; (cz.) thaw; (cz.) unloose
+[rozpuszczenie]rozpuszczenie (PL) : (rz.) dissolution; (rz.) solution
+[rozpuscic]rozpuścić (PL) : (cz.) disband; (cz.) dissolved; (cz.) melt; (cz.) resolve; (cz.) solve; (cz.) unloose
+[rozpychac]rozpychać (PL) : (cz.) jostle
+[rozpylacz]rozpylacz (PL) : (rz.) atomiser; (rz.) atomizer; (rz.) jet; (rz.) spray; (rz.) sprayer
+[rozpylanie]rozpylanie (PL) : (rz.) atomization; (rz.) pulverization
+[rozpylac]rozpylać (PL) : (cz.) atomize; (cz.) pulverize; (cz.) spray
+[rozpylic]rozpylić (PL) : (cz.) spray
+[rozporka]rozpórka (PL) : (rz.) spreader
+[rozpeczac]rozpęczać (PL) : (cz.) expand
+[rozped]rozpęd (PL) : (rz.) impetus; (rz.) momentum; (rz.) onset; (rz.) onslaught; (rz.) swing
+[rozpedzac]rozpędzać (PL) : (cz.) accelerate; (cz.) dispel; (cz.) disperse; (cz.) scatter
+[rozpedzic]rozpędzić (PL) : (cz.) dispel; (cz.) disperse
+[rozpetac]rozpętać (PL) : (cz.) spark; (cz.) trigger; (cz.) unchain; (cz.) unfetter
+[rozplaszczanie]rozpłaszczanie (PL) : (rz.) beating
+[rozplaszczac]rozpłaszczać (PL) : (cz.) flatten
+[rozplatac]rozpłatać (PL) : (cz.) split
+[rozplodnik]rozpłodnik (PL) : (rz.) sire
+[rozplomienic]rozpłomienić (PL) : (cz.) inflame
+[rozplywac]rozpływać (PL) : (cz.) melt
+[rozplod]rozpłód (PL) : (rz.) breeding
+[rozrabiacki]rozrabiacki (PL) : (p.) intriguing
+[rozrabiactwo]rozrabiactwo (PL) : (rz.) hooliganism
+[rozrabiacz]rozrabiacz (PL) : (rz.) schemer; (rz.) trouble-maker
+[rozrabiaka]rozrabiaka (PL) : (rz.) roughneck
+[rozrabianie]rozrabianie (PL) : (rz.) brawling
+[rozrabiac]rozrabiać (PL) : (cz.) brawl; (cz.) intrigue
+[rozrachunek]rozrachunek (PL) : (rz.) clearing; (rz.) reckoning; (rz.) settlement
+[rozradowanie]rozradowanie (PL) : (rz.) exhilaration; (rz.) jubilation
+[rozradowac]rozradować (PL) : (cz.) exhilarate
+[rozradzac]rozradzać (PL) : (cz.) multiply; (cz.) procreate
+[rozrastac]rozrastać (PL) : (cz.) burgeon; (cz.) develop; (cz.) grow
+[rozregulowanie]rozregulowanie (PL) : (rz.) maladjustment
+[rozreklamowac]rozreklamować (PL) : (cz.) boost
+[rozrodczosc]rozrodczość (PL) : (rz.) reproduction
+[rozrodczy]rozrodczy (PL) : (p.) generative; (p.) genital; (p.) reproductive
+[rozrost]rozrost (PL) : (rz.) growth; (rz.) sprawl
+[rozruch]rozruch (PL) : (rz.) acceleration; (rz.) boot-up
+[rozruchy]rozruchy (PL) : (rz.) uproar
+[rozruszanie]rozruszanie (PL) : (rz.) bestirring
+[rozruszac]rozruszać (PL) : (cz.) bestir; (cz.) smarten
+[rozrusznik]rozrusznik (PL) : (rz.) actuator; (rz.) pacemaker; (rz.) starter
+[rozrywajacy]rozrywający (PL) : (p.) disruptive
+[rozrywanie]rozrywanie (PL) : (rz.) breaking
+[rozrywac]rozrywać (PL) : (cz.) break; (cz.) disrupt; (cz.) distract; (cz.) lacerate; (cz.) recreate; (cz.) rend; (cz.) rip
+[rozrywka]rozrywka (PL) : (rz.) amusement; (rz.) distraction; (rz.) diversion; (rz.) enjoyment; (rz.) entertainment; (rz.) game; (rz.) pastime; (rz.) recreation; (rz.) sport
+[rozrywkowy]rozrywkowy (PL) : (p.) entertaining
+[rozrzedzanie]rozrzedzanie (PL) : (rz.) dilution; (rz.) rarefaction; (rz.) thinning
+[rozrzedzac]rozrzedzać (PL) : (cz.) dilute; (cz.) rarefy; (cz.) thin
+[rozrzedzenie]rozrzedzenie (PL) : (rz.) rarefaction
+[rozrzedzic]rozrzedzić (PL) : (cz.) dilute; (cz.) rarefy; (cz.) thin
+[rozrzewniac]rozrzewniać (PL) : (cz.) stir
+[rozrzucac]rozrzucać (PL) : (cz.) disperse; (cz.) scatter; (cz.) strew
+[rozrzut]rozrzut (PL) : (rz.) difference; (rz.) dispersion; (rz.) spread; (rz.) straggling
+[rozrzutnie]rozrzutnie (PL) : (p-sł.) extravagantly; (p-sł.) generously; (p-sł.) prodigally; (p-sł.) wastefully
+[rozrzutnik]rozrzutnik (PL) : (rz.) prodigal; (rz.) spender; (rz.) spendthrift; (rz.) spreader
+[rozrzutnosc]rozrzutność (PL) : (rz.) extravagance; (rz.) improvidence; (rz.) prodigality; (rz.) profligacy; (rz.) profusion; (rz.) wastefulness
+[rozrzutny]rozrzutny (PL) : (p.) careless; (p.) extravagant; (p.) lavish; (p.) prodigal; (p.) profligate; (p.) profuse; (p.) spendthrift; (p.) wasteful
+[rozrzad]rozrząd (PL) : (rz.) camshaft; (rz.) distribution
+[rozrzadzac]rozrządzać (PL) : (cz.) marshal
+[rozroba]rozróba (PL) : (rz.) aggro; (rz.) brawl
+[rozrobka]rozróbka (PL) : (rz.) brawl; (rz.) fracas
+[rozrod]rozród (PL) : (rz.) reproduction
+[rozroznialny]rozróżnialny (PL) : (p.) discernible; (p.) distinct; (p.) distinguishable
+[rozroznianie]rozróżnianie (PL) : (rz.) differentiation; (rz.) discrimination
+[rozrozniac]rozróżniać (PL) : (cz.) differentiate; (cz.) disband; (cz.) discern; (cz.) discriminate; (cz.) distinguish
+[rozroznienie]rozróżnienie (PL) : (rz.) discernment; (rz.) distinction
+[rozroznic]rozróżnić (PL) : (cz.) discern; (cz.) discriminate; (cz.) distinguish
+[rozrabac]rozrąbać (PL) : (cz.) chop
+[rozsada]rozsada (PL) : (rz.) seedling
+[rozsadka]rozsadka (PL) : (rz.) slip
+[rozsadnik]rozsadnik (PL) : (rz.) seedbed; (rz.) seed-bed; (rz.) seed-plot
+[rozsadzac]rozsadzać (PL) : (cz.) burst; (cz.) bust; (cz.) explode
+[rozsadzenie]rozsadzenie (PL) : (rz.) blow-out; (rz.) bursting; (rz.) judge; (rz.) seating
+[rozsiac]rozsiać (PL) : (cz.) dispel; (cz.) disperse
+[rozsiedlac]rozsiedlać (PL) : (cz.) distribute
+[rozsierdzic]rozsierdzić (PL) : (cz.) irritate
+[rozsiew]rozsiew (PL) : (rz.) dispersion; (rz.) dissemination; (rz.) spread
+[rozsiewanie]rozsiewanie (PL) : (rz.) sowing
+[rozsiewac]rozsiewać (PL) : (cz.) diffuse; (cz.) disseminate; (cz.) propagate
+[rozsiodlac]rozsiodłać (PL) : (cz.) unsaddle
+[rozsmarowac]rozsmarować (PL) : (cz.) spread
+[rozstaj]rozstaj (PL) : (rz.) bifurcation; (rz.) cross-roads
+[rozstanie]rozstanie (PL) : (rz.) parting; (rz.) separation
+[rozstaw]rozstaw (PL) : (rz.) base; (rz.) embattle; (rz.) spacing; (rz.) span
+[rozstawac]rozstawać (PL) : (cz.) part
+[rozstawianie]rozstawianie (PL) : (rz.) spacing
+[rozstawiac]rozstawiać (PL) : (cz.) splay
+[rozstawienie]rozstawienie (PL) : (rz.) arrangement; (rz.) spacing
+[rozstawny]rozstawny (PL) : (p.) extendible
+[rozstrajac]rozstrajać (PL) : (cz.) derange; (cz.) detune; (cz.) unhinge; (cz.) unsettle
+[rozstroic]rozstroić (PL) : (cz.) detune; (cz.) unhinge
+[rozstrojenie]rozstrojenie (PL) : (rz.) confusion; (rz.) mistuning
+[rozstrzelanie]rozstrzelanie (PL) : (rz.) execution; (rz.) shooting
+[rozstrzelac]rozstrzelać (PL) : (cz.) shoot
+[rozstrzelic]rozstrzelić (PL) : (cz.) scatter
+[rozstrzygajaco]rozstrzygająco (PL) : (p-sł.) conclusively
+[rozstrzygajacy]rozstrzygający (PL) : (p.) crucial
+[rozstrzygalnosc]rozstrzygalność (PL) : (rz.) decidability
+[rozstrzygalny]rozstrzygalny (PL) : (p.) decidable
+[rozstrzyganie]rozstrzyganie (PL) : (rz.) settlement
+[rozstrzygac]rozstrzygać (PL) : (cz.) adjudge; (cz.) adjudicate; (cz.) arbitrate; (cz.) clinch; (cz.) decide; (cz.) determine; (cz.) resolve; (cz.) settle
+[rozstrzygniecie]rozstrzygnięcie (PL) : (rz.) award; (rz.) decision; (rz.) settlement; (rz.) settling
+[rozstroj]rozstrój (PL) : (rz.) confusion; (rz.) diarrhoea; (rz.) disharmony; (rz.) disorder; (rz.) distraction
+[rozstep]rozstęp (PL) : (rz.) interval; (rz.) width
+[rozsuplac]rozsupłać (PL) : (cz.) disentangle
+[rozsuwac]rozsuwać (PL) : (cz.) splay
+[rozsypac]rozsypać (PL) : (cz.) besprinkle; (cz.) dispel; (cz.) disperse; (cz.) scatter; (cz.) spill
+[rozsypka]rozsypka (PL) : (rz.) rout
+[rozsypywanie]rozsypywanie (PL) : (rz.) spillage
+[rozsypywac]rozsypywać (PL) : (cz.) broadcast; (cz.) disperse; (cz.) intersperse; (cz.) spill; (cz.) sprinkle
+[rozsylac]rozsyłać (PL) : (cz.) distribute
+[rozsylka]rozsyłka (PL) : (rz.) circulation; (rz.) delivery; (rz.) distribution
+[rozszalec]rozszaleć (PL) : (cz.) rage
+[rozszarpac]rozszarpać (PL) : (cz.) mangle
+[rozszczep]rozszczep (PL) : (rz.) cleft
+[rozszczepialny]rozszczepialny (PL) : (p.) fissile; (p.) fissionable
+[rozszczepianie]rozszczepianie (PL) : (rz.) fission; (rz.) splinter
+[rozszczepiac]rozszczepiać (PL) : (cz.) flaw; (cz.) rend; (cz.) splinter; (cz.) split
+[rozszczepienie]rozszczepienie (PL) : (rz.) cleavage; (rz.) dispersion; (rz.) fission
+[rozszczepiony]rozszczepiony (PL) : (p.) splitting
+[rozszczepic]rozszczepić (PL) : (cz.) split
+[rozszerzacz]rozszerzacz (PL) : (rz.) dilator
+[rozszerzalnosc]rozszerzalność (PL) : (rz.) dilatability; (rz.) expandability; (rz.) expansion; (rz.) extensibility
+[rozszerzalny]rozszerzalny (PL) : (p.) distensible; (p.) expandable; (p.) expansible; (p.) extendable; (p.) extendible; (p.) extensible; (p.) open-end; (p.) open-ended; (p.) outspoken
+[rozszerzanie]rozszerzanie (PL) : (rz.) dilatation; (rz.) dilation; (rz.) distension; (rz.) expansion; (rz.) spread
+[rozszerzac]rozszerzać (PL) : (cz.) amplify; (cz.) broaden; (cz.) dilate; (cz.) distend; (cz.) diversify; (cz.) elaborate; (cz.) expand; (cz.) extend; (cz.) spread; (cz.) widen
+[rozszerzenie]rozszerzenie (PL) : (rz.) accompaniment; (rz.) add-in; (rz.) addition; (rz.) add-on; (rz.) amplification; (rz.) dilatation; (rz.) dilation; (rz.) expander; (rz.) extension; (rz.) flare; (rz.) plug-in
+[rozszerzony]rozszerzony (PL) : (p.) extended
+[rozszerzyc]rozszerzyć (PL) : (cz.) broaden; (cz.) extend; (cz.) upsize; (cz.) widen
+[rozsznurowac]rozsznurować (PL) : (cz.) unlace
+[rozszyfrowanie]rozszyfrowanie (PL) : (rz.) decryption
+[rozszyfrowac]rozszyfrować (PL) : (cz.) decipher; (cz.) decode; (cz.) decrypt; (cz.) unscramble
+[rozszyfrowywac]rozszyfrowywać (PL) : (cz.) decipher; (cz.) decode
+[rozsadek]rozsądek (PL) : (rz.) discretion; (rz.) reason; (rz.) reasonableness; (rz.) sanity; (rz.) sense; (rz.) sobriety
+[rozsadnie]rozsądnie (PL) : (p-sł.) prudently; (p-sł.) reasonably
+[rozsadny]rozsądny (PL) : (p.) advisable; (p.) astute; (p.) discreet; (p.) down-to-earth; (p.) judicious; (p.) politic; (p.) prudent; (p.) reasonable; (p.) sagacious; (p.) sane; (p.) saner; (p.) sanest; (p.) sensible; (p.) well-judged
+[rozsadzac]rozsądzać (PL) : (cz.) adjudicate; (cz.) arbitrate; (cz.) judge
+[rozsadzenie]rozsądzenie (PL) : (rz.) judge
+[rozsadzic]rozsądzić (PL) : (cz.) arbitrate
+[rozslawiac]rozsławiać (PL) : (cz.) praise
+[rozslawic]rozsławić (PL) : (cz.) extol
+[roztaczac]roztaczać (PL) : (cz.) display
+[roztajac]roztajać (PL) : (cz.) thaw
+[roztaklowac]roztaklować (PL) : (cz.) unrig
+[roztapiac]roztapiać (PL) : (cz.) found; (cz.) fuse; (cz.) melt; (cz.) smelt; (cz.) thaw
+[roztargac]roztargać (PL) : (cz.) dishevel
+[roztargnienie]roztargnienie (PL) : (rz.) absentmindedness; (rz.) absent-mindedness; (rz.) distraction; (rz.) forgetfulness
+[roztargniony]roztargniony (PL) : (p.) absentminded
+[roztasowac]roztasować (PL) : (cz.) dispose
+[rozterka]rozterka (PL) : (rz.) dilemma; (rz.) distraction; (rz.) indecision; (rz.) quandary
+[roztkliwiac]roztkliwiać (PL) : (cz.) slop
+[roztocz]roztocz (PL) : (rz.) saprophyte
+[roztoczyc]roztoczyć (PL) : (cz.) patronize; (cz.) unroll
+[roztoka]roztoka (PL) : (rz.) brook
+[roztop]roztop (PL) : (rz.) thaw
+[roztopiony]roztopiony (PL) : (p.) molten
+[roztopic]roztopić (PL) : (cz.) melt; (cz.) thaw
+[roztropnie]roztropnie (PL) : (p-sł.) advisedly; (p-sł.) discreetly
+[roztropnosc]roztropność (PL) : (rz.) advisement; (rz.) advisements; (rz.) circumspection; (rz.) discretion; (rz.) prudence; (rz.) sagacity
+[roztropny]roztropny (PL) : (p.) advisable; (p.) advised; (p.) cautious; (p.) circumspect; (p.) discreet; (p.) politic; (p.) prudent; (p.) sagacious; (p.) thoughtful; (p.) well-judged; (p.) wise
+[roztrwaniac]roztrwaniać (PL) : (cz.) dissipate; (cz.) squander
+[roztrwonienie]roztrwonienie (PL) : (rz.) dissipation
+[roztrwonic]roztrwonić (PL) : (cz.) misspend; (cz.) squander; (cz.) squandered; (cz.) waste
+[roztrzaskac]roztrzaskać (PL) : (cz.) crack; (cz.) crash; (cz.) dash; (cz.) shatter; (cz.) smash
+[roztrzaskiwac]roztrzaskiwać (PL) : (cz.) shatter; (cz.) smash
+[roztrzepanie]roztrzepanie (PL) : (rz.) distractedness
+[roztrzepaniec]roztrzepaniec (PL) : (rz.) jaywalker; (rz.) scatterbrain
+[roztrzepany]roztrzepany (PL) : (p.) absent-minded; (p.) giddy
+[roztrzepac]roztrzepać (PL) : (cz.) disorder
+[roztrzasacz]roztrząsacz (PL) : (rz.) spreader
+[roztrzasanie]roztrząsanie (PL) : (rz.) agitation
+[roztrzasac]roztrząsać (PL) : (cz.) agitate; (cz.) argue; (cz.) canvass; (cz.) discuss; (cz.) dispute; (cz.) spread; (cz.) ventilate
+[roztrzasc]roztrząść (PL) : (cz.) agitate
+[roztracac]roztrącać (PL) : (cz.) jostle
+[roztwarzanie]roztwarzanie (PL) : (rz.) digestion
+[roztwarzac]roztwarzać (PL) : (cz.) dig
+[roztwor]roztwór (PL) : (rz.) dilution; (rz.) dissolution; (rz.) solution; (rz.) tincture
+[roztlaczac]roztłaczać (PL) : (cz.) expand; (cz.) spread
+[rozum]rozum (PL) : (rz.) brain; (rz.) brains; (rz.) intellect; (rz.) knowing; (rz.) mind; (rz.) reason; (rz.) sagacity; (rz.) savvied; (rz.) senses; (rz.) understanding; (rz.) wit
+[rozumienie]rozumienie (PL) : (rz.) comprehension; (rz.) negotiation; (rz.) understanding
+[rozumiec]rozumieć (PL) : (cz.) comprehend; (cz.) conceive; (cz.) construe; (cz.) fathom; (cz.) read; (cz.) savvy; (cz.) see; (cz.) understand; (cz.) understood
+[rozumnie]rozumnie (PL) : (p-sł.) rationally; (p-sł.) reasonably
+[rozumny]rozumny (PL) : (p.) judicious; (p.) knowing; (p.) rational; (p.) reasonable; (p.) sagacious; (p.) sane; (p.) sapient; (p.) sensible; (p.) smart; (p.) thinking; (p.) wise
+[rozumowanie]rozumowanie (PL) : (rz.) argument; (rz.) ratiocination; (rz.) reasoning
+[rozumowac]rozumować (PL) : (cz.) reason
+[rozumowo]rozumowo (PL) : (p-sł.) rationally
+[rozumowy]rozumowy (PL) : (p.) comprehensive; (p.) rational
+[rozwaga]rozwaga (PL) : (rz.) cautiousness; (rz.) consideration; (rz.) deliberation; (rz.) discretion; (rz.) judiciousness; (rz.) prudence; (rz.) reason; (rz.) sagacity
+[rozwalanie]rozwalanie (PL) : (rz.) sprawl
+[rozwalac]rozwalać (PL) : (cz.) brain; (cz.) demolish; (cz.) loll; (cz.) shatter; (cz.) sprawl
+[rozwalenie]rozwalenie (PL) : (rz.) sprawl
+[rozwalic]rozwalić (PL) : (cz.) sprawl
+[rozwarcie]rozwarcie (PL) : (rz.) gape; (rz.) opening
+[rozwarstwiac]rozwarstwiać (PL) : (cz.) stratify
+[rozwarstwienie]rozwarstwienie (PL) : (rz.) lamination; (rz.) stratification
+[rozwarty]rozwarty (PL) : (p.) open
+[rozwarty-zwarty]rozwarty-zwarty (PL) : (p.) open-closed
+[rozwazanie]rozważanie (PL) : (rz.) consideration; (rz.) deliberation; (rz.) speculation; (rz.) thought
+[rozwazac]rozważać (PL) : (cz.) consider; (cz.) consult; (cz.) contemplate; (cz.) deliberate; (cz.) meditate; (cz.) moot; (cz.) poise; (cz.) ponder; (cz.) premeditate; (cz.) reflect; (cz.) speculate; (cz.) weigh
+[rozwaznie]rozważnie (PL) : (p-sł.) cautiously
+[rozwazny]rozważny (PL) : (p.) cautious; (p.) chary; (p.) circumspect; (p.) considerate; (p.) deliberate; (p.) demure; (p.) discreet; (p.) judicious; (p.) politic; (p.) prudent; (p.) prudential; (p.) sagacious; (p.) sage; (p.) thoughtful; (p.) wary
+[rozwazyc]rozważyć (PL) : (cz.) consider
+[rozweselac]rozweselać (PL) : (cz.) amuse; (cz.) brighten; (cz.) disrupt; (cz.) exhilarate
+[rozweselenie]rozweselenie (PL) : (rz.) cheer; (rz.) exhilaration; (rz.) making
+[rozwiac]rozwiać (PL) : (cz.) address; (cz.) dispel; (cz.) unfold
+[rozwichrzyc]rozwichrzyć (PL) : (cz.) disorder
+[rozwidlacz]rozwidlacz (PL) : (rz.) branch-joint
+[rozwidlanie]rozwidlanie (PL) : (rz.) embranchment
+[rozwidlac]rozwidlać (PL) : (cz.) bifurcate; (cz.) branch; (cz.) divide; (cz.) fork
+[rozwidlenie]rozwidlenie (PL) : (rz.) crotch; (rz.) embranchment; (rz.) fork; (rz.) ramification
+[rozwidlic]rozwidlić (PL) : (cz.) bifurcate
+[rozwidlony]rozwidlony (PL) : (p.) forked
+[rozwiedziony]rozwiedziony (PL) : (p.) divorced
+[rozwielitka]rozwielitka (PL) : (rz.) daphnia
+[rozwierac]rozwierać (PL) : (cz.) dispel; (cz.) splay; (cz.) unclench
+[rozwiercanie]rozwiercanie (PL) : (rz.) reaming
+[rozwiertak]rozwiertak (PL) : (rz.) reamer
+[rozwieszac]rozwieszać (PL) : (cz.) stretch
+[rozwiewanie]rozwiewanie (PL) : (rz.) job; (rz.) lifting
+[rozwiewac]rozwiewać (PL) : (cz.) ruffle; (cz.) shatter
+[rozwiesc]rozwieść (PL) : (cz.) divorce; (cz.) repudiate
+[rozwijalny]rozwijalny (PL) : (p.) expandable
+[rozwijanie]rozwijanie (PL) : (rz.) advancement; (rz.) unreeling
+[rozwijac]rozwijać (PL) : (cz.) acquire; (cz.) advance; (cz.) develop; (cz.) elaborate; (cz.) evolve; (cz.) expand; (cz.) flourish; (cz.) form; (cz.) germinate; (cz.) prosper; (cz.) unfold; (cz.) unfurl; (cz.) unreel; (cz.) unroll; (cz.) unwind; (cz.) unwrap
+[rozwiklanie]rozwikłanie (PL) : (rz.) disentanglement
+[rozwiklac]rozwikłać (PL) : (cz.) disentangle; (cz.) ravel; (cz.) unravel; (cz.) untangle
+[rozwiniecie]rozwinięcie (PL) : (rz.) amplification; (rz.) development; (rz.) expansion
+[rozwinac]rozwinąć (PL) : (cz.) unroll; (cz.) unwrap
+[rozwiazalnosc]rozwiązalność (PL) : (rz.) solvability
+[rozwiazalny]rozwiązalny (PL) : (p.) dissoluble; (p.) resoluble; (p.) soluble; (p.) solvable
+[rozwiazanie]rozwiązanie (PL) : (rz.) answer; (rz.) birth; (rz.) dissolution; (rz.) resolution; (rz.) solution
+[rozwiazac]rozwiązać (PL) : (cz.) disband; (cz.) dissolve; (cz.) resolve; (cz.) solve; (cz.) unbend; (cz.) unbind; (cz.) undo; (cz.) unfasten; (cz.) unloose; (cz.) untie
+[rozwiazywalny]rozwiązywalny (PL) : (p.) solvable
+[rozwiazywanie]rozwiązywanie (PL) : (rz.) resolution
+[rozwiazywac]rozwiązywać (PL) : (cz.) disband; (cz.) dissolve; (cz.) resolve; (cz.) solve; (cz.) unbind; (cz.) undo; (cz.) unravel; (cz.) untie
+[rozwiazlosc]rozwiązłość (PL) : (rz.) lawlessness; (rz.) profligacy; (rz.) promiscuity
+[rozwiazly]rozwiązły (PL) : (p.) lax; (p.) licentious
+[rozwiazle]rozwiąźle (PL) : (p-sł.) wantonly
+[rozwlekle]rozwlekle (PL) : (p-sł.) wordily
+[rozwleklosc]rozwlekłość (PL) : (rz.) jabber; (rz.) lengthiness; (rz.) prolixity; (rz.) redundancy
+[rozwlekly]rozwlekły (PL) : (p.) redundant; (p.) roundabout
+[rozwodnienie]rozwodnienie (PL) : (rz.) dilution
+[rozwodnik]rozwodnik (PL) : (rz.) divorcee
+[rozwodnic]rozwodnić (PL) : (cz.) dilute; (cz.) weaken
+[rozwodzenie]rozwodzenie (PL) : (rz.) enlargement
+[rozwodzic]rozwodzić (PL) : (cz.) divorce; (cz.) enlarge
+[rozwojowy]rozwojowy (PL) : (p.) developmental; (p.) evolutionary
+[rozwolnienie]rozwolnienie (PL) : (rz.) diarrhoea
+[rozwora]rozwora (PL) : (rz.) perch
+[rozwozenie]rozwożenie (PL) : (rz.) development
+[rozwydrzenie]rozwydrzenie (PL) : (rz.) wildness
+[rozwydrzony]rozwydrzony (PL) : (p.) unbridled
+[rozwod]rozwód (PL) : (rz.) divorce; (rz.) divorcé; (rz.) repudiation
+[rozwodka]rozwódka (PL) : (rz.) divorcee
+[rozwoj]rozwój (PL) : (rz.) advance; (rz.) advancement; (rz.) d; (rz.) development; (rz.) evolution; (rz.) expansion; (rz.) gestation; (rz.) growth; (rz.) progress
+[rozwoz]rozwóz (PL) : (rz.) delivery
+[rozwlokniac]rozwłókniać (PL) : (cz.) pulp
+[rozwscieczac]rozwścieczać (PL) : (cz.) enrage; (cz.) incense; (cz.) infuriate; (cz.) infuriated
+[rozwscieczyc]rozwścieczyć (PL) : (cz.) madden
+[rozziew]rozziew (PL) : (rz.) hiatus
+[rozzuchwalac]rozzuchwalać (PL) : (cz.) embolden
+[rozzloscic]rozzłościć (PL) : (cz.) rile; (cz.) vex
+[rozladowanie]rozładowanie (PL) : (rz.) belch; (rz.) discharges
+[rozladowac]rozładować (PL) : (cz.) offload; (cz.) off-load; (cz.) release; (cz.) unlade; (cz.) unload
+[rozladowywanie]rozładowywanie (PL) : (rz.) offloading; (rz.) off-loading
+[rozladowywac]rozładowywać (PL) : (cz.) defuse; (cz.) overcome; (cz.) unload
+[rozlam]rozłam (PL) : (rz.) breach; (rz.) cleavage; (rz.) dissent; (rz.) division; (rz.) schism; (rz.) share; (rz.) split
+[rozlamac]rozłamać (PL) : (cz.) split
+[rozlozenie]rozłożenie (PL) : (rz.) apportionment; (rz.) dismantlement; (rz.) disposition; (rz.) repartition
+[rozlozony]rozłożony (PL) : (p.) splitting
+[rozlozystosc]rozłożystość (PL) : (rz.) spread
+[rozlozysty]rozłożysty (PL) : (p.) branchy; (p.) patulous
+[rozlozyc]rozłożyć (PL) : (cz.) apportion; (cz.) couch; (cz.) spread
+[rozlupanie]rozłupanie (PL) : (rz.) cleavage; (rz.) splinter
+[rozlupac]rozłupać (PL) : (cz.) cleave; (cz.) split
+[rozlupywanie]rozłupywanie (PL) : (rz.) coping
+[rozlupywac]rozłupywać (PL) : (cz.) cleave; (cz.) cleft; (cz.) rip; (cz.) rive; (cz.) splinter
+[rozlog]rozłóg (PL) : (rz.) navel
+[rozlaczanie]rozłączanie (PL) : (rz.) disengagement
+[rozlaczac]rozłączać (PL) : (cz.) disconnect; (cz.) disengage; (cz.) disjoin; (cz.) dissociate; (cz.) disunite; (cz.) uncouple
+[rozlaczenie]rozłączenie (PL) : (rz.) armistice; (rz.) ceasefire; (rz.) cease-fire; (rz.) disconnection; (rz.) divorce; (rz.) undocking
+[rozlacznik]rozłącznik (PL) : (rz.) hyphen
+[rozlacznosc]rozłączność (PL) : (rz.) severability
+[rozlaczny]rozłączny (PL) : (p.) disjunctive; (p.) offline; (p.) separable
+[rozlaczyc]rozłączyć (PL) : (cz.) disconnect; (cz.) halt; (cz.) separate
+[rozlaka]rozłąka (PL) : (rz.) separation
+[rozscielac]rozścielać (PL) : (cz.) spread
+[rozsmieszac]rozśmieszać (PL) : (cz.) amuse
+[rozsrubowac]rozśrubować (PL) : (cz.) unscrew
+[rozswiecac]rozświecać (PL) : (cz.) relight; (cz.) shine
+[rozswiecic]rozświecić (PL) : (cz.) relight
+[rozswietlac]rozświetlać (PL) : (cz.) light
+[rozzalac]rozżalać (PL) : (cz.) embitter
+[rozzalenie]rozżalenie (PL) : (rz.) bitterness; (rz.) grudge; (rz.) resentment
+[rozzarzac]rozżarzać (PL) : (cz.) heat; (cz.) inflame
+[rozzarzony]rozżarzony (PL) : (p.) incandescent
+[rozzarzyc]rozżarzyć (PL) : (cz.) kindle
+[roscic]rościć (PL) : (cz.) arrogate; (cz.) claim
+[roslina]roślina (PL) : (rz.) perennial; (rz.) plant; (rz.) vegetable
+[roslinnosc]roślinność (PL) : (rz.) flora; (rz.) greenery; (rz.) vegetation; (rz.) verdure
+[roslinny]roślinny (PL) : (p.) floral; (p.) vegetative
+[roslinozerny]roślinożerny (PL) : (p.) herbivorous
+[rosniecie]rośnięcie (PL) : (rz.) growth
+[rozek]rożek (PL) : (rz.) cone; (rz.) crescent; (rz.) horn
+[rozen]rożen (PL) : (rz.) barbecue; (rz.) broach; (rz.) broaching; (rz.) grill; (rz.) spit
+[rozny]rożny (PL) : (p.) different
+[rteciowy]rtęciowy (PL) : (p.) mercurial; (p.) mercuric
+[rtec]rtęć (PL) : (rz.) mercury; (rz.) quicksilver
+[rubasznie]rubasznie (PL) : (p-sł.) bluffly; (p-sł.) robustly
+[rubaszny]rubaszny (PL) : (p.) bawdy; (p.) coarse; (p.) earthy; (p.) gruff; (p.) robust
+[rubel]rubel (PL) : (rz.) rouble
+[rubid]rubid (PL) : (rz.) rubidium
+[rubiez]rubież (PL) : (rz.) border; (rz.) boundary
+[rubin]rubin (PL) : (rz.) ruby
+[rubinowy]rubinowy (PL) : (p.) ruby
+[rubryka]rubryka (PL) : (rz.) column; (rz.) row; (rz.) rubric
+[ruch]ruch (PL) : (rz.) action; (rz.) going; (rz.) locomotion; (rz.) motion; (rz.) move; (rz.) movement; (rz.) over; (rz.) step; (rz.) traffic
+[ruchawka]ruchawka (PL) : (rz.) riot
+[ruchliwosc]ruchliwość (PL) : (rz.) mobility; (rz.) motility
+[ruchliwy]ruchliwy (PL) : (p.) active; (p.) busy; (p.) motile; (p.) reckless; (p.) restless; (p.) spry
+[ruchomo]ruchomo (PL) : (p-sł.) movably
+[ruchomosci]ruchomości (PL) : (rz.) movables
+[ruchomosc]ruchomość (PL) : (rz.) chattel; (rz.) motility
+[ruchomy]ruchomy (PL) : (p.) kinetic; (p.) live; (p.) mobile; (p.) movable; (p.) moveable; (p.) moving; (p.) removable; (p.) vectored
+[ruczaj]ruczaj (PL) : (rz.) brook
+[ruda]ruda (PL) : (rz.) ore
+[rudawiec]rudawiec (PL) : (rz.) hardpan
+[rudawy]rudawy (PL) : (p.) reddish
+[rudera]rudera (PL) : (rz.) hovel; (rz.) ruin; (rz.) shack; (rz.) shanty
+[rudoblond]rudoblond (PL) : (p.) sandy
+[rudonosny]rudonośny (PL) : (p.) ore-bearing
+[rudoweglowiec]rudowęglowiec (PL) : (rz.) collier
+[rudowlosa]rudowłosa (PL) : (rz.) redhead
+[rudowlosy]rudowłosy (PL) : (p.) carroty; (p.) redheaded
+[rudosc]rudość (PL) : (rz.) redness
+[rudy]rudy (PL) : (p.) foxy; (p.) ginger-haired; (p.) red; (p.) red-haired
+[rudymentarny]rudymentarny (PL) : (p.) rudimentary
+[rudzielec]rudzielec (PL) : (rz.) carrots; (rz.) redhead
+[rudzik]rudzik (PL) : (rz.) robin
+[rufa]rufa (PL) : (rz.) afterdeck; (rz.) after-deck; (rz.) poop; (rz.) stern
+[rufowy]rufowy (PL) : (p.) aft
+[rufowka]rufówka (PL) : (rz.) poop
+[rugac]rugać (PL) : (cz.) scold
+[rugowac]rugować (PL) : (cz.) displace; (cz.) eliminate
+[ruina]ruina (PL) : (rz.) destruction; (rz.) devastation; (rz.) downfall; (rz.) ruin; (rz.) ruination; (rz.) wrack
+[ruja]ruja (PL) : (rz.) oestrus; (rz.) rut
+[rujnowac]rujnować (PL) : (cz.) devastate; (cz.) ruin; (cz.) scupper; (cz.) wreck
+[rulada]rulada (PL) : (rz.) roulade
+[ruleta]ruleta (PL) : (rz.) roulette
+[ruletka]ruletka (PL) : (rz.) roulette
+[rulon]rulon (PL) : (rz.) roll
+[rum]rum (PL) : (rz.) rum
+[rumak]rumak (PL) : (rz.) charger; (rz.) courser; (rz.) palfrey; (rz.) steed
+[rumianek]rumianek (PL) : (rz.) camomile; (rz.) chamomile
+[rumiany]rumiany (PL) : (p.) florid; (p.) rosy-cheeked; (p.) rubicund; (p.) ruddy; (p.) sanguine
+[rumieniec]rumieniec (PL) : (rz.) blush; (rz.) crimson
+[rumienienie]rumienienie (PL) : (rz.) browning
+[rumienic]rumienić (PL) : (cz.) blush; (cz.) crimson; (cz.) flush
+[rumien]rumień (PL) : (rz.) redness
+[rumor]rumor (PL) : (rz.) rumble
+[rumosz]rumosz (PL) : (rz.) rubble
+[rumowisko]rumowisko (PL) : (rz.) debris; (rz.) rubble
+[rumpel]rumpel (PL) : (rz.) helm; (rz.) tiller
+[run]run (PL) : (rz.) gantlet
+[runda]runda (PL) : (rz.) circuit; (rz.) inning; (rz.) round
+[runiczny]runiczny (PL) : (p.) runic
+[runo]runo (PL) : (rz.) fleece; (rz.) undergrowth
+[runac]runąć (PL) : (cz.) collapse; (cz.) crash; (cz.) plummet; (cz.) swoop
+[rupia]rupia (PL) : (rz.) rupee
+[rupieciarnia]rupieciarnia (PL) : (rz.) lumber-room
+[rupiecie]rupiecie (PL) : (rz.) lumber
+[rupiec]rupieć (PL) : (rz.) junk
+[ruptura]ruptura (PL) : (rz.) hernia; (rz.) rupture
+[rura]rura (PL) : (rz.) barrel; (rz.) ebb; (rz.) manifold; (rz.) pipe; (rz.) sewage; (rz.) spillway; (rz.) tube; (rz.) tubing; (rz.) tunnel
+[rurka]rurka (PL) : (rz.) cul-de-sac; (rz.) pipe; (rz.) sewage; (rz.) sipper; (rz.) snorkel; (rz.) straw; (rz.) tube
+[rurkowanie]rurkowanie (PL) : (rz.) conduit; (rz.) tubing
+[rurkowaty]rurkowaty (PL) : (p.) tubular
+[rurkowy]rurkowy (PL) : (p.) tubular
+[rurociag]rurociąg (PL) : (rz.) pipeline; (rz.) piping
+[rurowy]rurowy (PL) : (p.) tubular
+[rury]rury (PL) : (rz.) tubing
+[rusalka]rusałka (PL) : (rz.) mermaid; (rz.) undine; (rz.) water-nymph
+[rustyka]rustyka (PL) : (rz.) rustication
+[rustykalny]rustykalny (PL) : (p.) rustic
+[ruszac]ruszać (PL) : (cz.) bestir; (cz.) budge; (cz.) disturb; (cz.) move; (cz.) rush; (cz.) stir; (cz.) tamper; (cz.) touch; (cz.) wag
+[rusznica]rusznica (PL) : (rz.) blunderbuss; (rz.) harquebus; (rz.) matchlock; (rz.) rifle
+[rusznikarz]rusznikarz (PL) : (rz.) armourer; (rz.) gunsmith
+[ruszt]ruszt (PL) : (rz.) barbecue; (rz.) grate; (rz.) grid; (rz.) gridiron; (rz.) grill
+[rusztowanie]rusztowanie (PL) : (rz.) rig; (rz.) scaffold; (rz.) scaffolding
+[rusztowina]rusztowina (PL) : (rz.) fire-bar
+[ruszyc]ruszyć (PL) : (cz.) move
+[ruta]ruta (PL) : (rz.) rue
+[ruten]ruten (PL) : (rz.) ruthenium
+[rutyna]rutyna (PL) : (rz.) experience; (rz.) rote; (rz.) routine; (rz.) rut
+[rutynowo]rutynowo (PL) : (p-sł.) routinely
+[rwanie]rwanie (PL) : (rz.) twinge
+[rwac]rwać (PL) : (cz.) bust; (cz.) lacerate; (cz.) pluck; (cz.) rip; (cz.) rupture; (cz.) tear; (cz.) twitch
+[rwetes]rwetes (PL) : (rz.) fuss; (rz.) stir; (rz.) turmoil
+[rwacy]rwący (PL) : (p.) rapid
+[ryba]ryba (PL) : (rz.) fish
+[rybacki]rybacki (PL) : (p.) piscatorial
+[rybactwo]rybactwo (PL) : (rz.) fishery; (rz.) fishing
+[rybak]rybak (PL) : (rz.) angler; (rz.) fisher; (rz.) fisherman
+[rybi]rybi (PL) : (p.) finny; (p.) fishy
+[rybitwa]rybitwa (PL) : (rz.) gull; (rz.) tern
+[rybka]rybka (PL) : (rz.) fish
+[rybny]rybny (PL) : (p.) fishmonger's; (p.) fishy
+[ryboflawina]ryboflawina (PL) : (rz.) riboflavin
+[rybojaszczur]rybojaszczur (PL) : (rz.) ichthyosaurus
+[ryboza]ryboza (PL) : (rz.) ribose
+[rybolow]rybołów (PL) : (rz.) osprey
+[rybolowstwo]rybołówstwo (PL) : (rz.) fishery; (rz.) fishing
+[ryby]ryby (PL) : (rz.) fish
+[rycerski]rycerski (PL) : (p.) chivalrous; (p.) gallant; (p.) knightly; (p.) knight's; (p.) ricers
+[rycersko]rycersko (PL) : (p-sł.) knightly
+[rycerskosc]rycerskość (PL) : (rz.) chivalry; (rz.) gallantry
+[rycerstwo]rycerstwo (PL) : (rz.) chivalry; (rz.) knighthood
+[rycerz]rycerz (PL) : (rz.) cavalier; (rz.) knight
+[rychlo]rychło (PL) : (p-sł.) quickly; (p-sł.) soon
+[rychly]rychły (PL) : (p.) early; (p.) prompt; (p.) tight
+[rycina]rycina (PL) : (rz.) engraving; (rz.) etching; (rz.) figure; (rz.) illustration; (rz.) picture; (rz.) print
+[rycyna]rycyna (PL) : (rz.) castor-oil
+[ryczaltowy]ryczałtowy (PL) : (p.) flat-rate
+[ryczenie]ryczenie (PL) : (rz.) low; (rz.) roaring
+[ryczec]ryczeć (PL) : (cz.) bellow; (cz.) bray; (cz.) hee-haw; (cz.) holler; (cz.) howl; (cz.) low; (cz.) moo; (cz.) roar
+[rydel]rydel (PL) : (rz.) spade; (rz.) spud; (rz.) trowel
+[rydwan]rydwan (PL) : (rz.) chariot
+[ryga]ryga (PL) : (rz.) ledger; (rz.) putlog
+[rygiel]rygiel (PL) : (rz.) bar; (rz.) bent; (rz.) bolt; (rz.) latch; (rz.) lock; (rz.) rail
+[ryglowac]ryglować (PL) : (cz.) locked
+[ryglowy]ryglowy (PL) : (p.) half-timbered
+[rygor]rygor (PL) : (rz.) discipline; (rz.) rigor; (rz.) rigour
+[rygorysta]rygorysta (PL) : (rz.) rigorist
+[rygorystycznie]rygorystycznie (PL) : (p-sł.) rigorously
+[rygorystycznosc]rygorystyczność (PL) : (rz.) stringency
+[rygorystyczny]rygorystyczny (PL) : (p.) rigorous; (p.) strict
+[rygoryzm]rygoryzm (PL) : (rz.) rigidity
+[ryj]ryj (PL) : (rz.) mug; (rz.) snout
+[ryjkowiec]ryjkowiec (PL) : (rz.) weevil
+[ryjowka]ryjówka (PL) : (rz.) shrew; (rz.) shrewmouse; (rz.) shrew-mouse
+[ryk]ryk (PL) : (rz.) blare; (rz.) bray; (rz.) braying; (rz.) guffaw; (rz.) howl; (rz.) moo; (rz.) roar; (rz.) yell
+[rykoszet]rykoszet (PL) : (rz.) glance; (rz.) rebound; (rz.) ricochet
+[rykoszetowac]rykoszetować (PL) : (cz.) rebound
+[rykowisko]rykowisko (PL) : (rz.) rut
+[ryksza]ryksza (PL) : (rz.) rickshaw
+[rylec]rylec (PL) : (rz.) burin; (rz.) chisel; (rz.) etching-needle; (rz.) graver; (rz.) style; (rz.) stylus
+[rym]rym (PL) : (rz.) rhyme; (rz.) rime
+[rymarz]rymarz (PL) : (rz.) leatherworker; (rz.) saddler
+[rymesa]rymesa (PL) : (rz.) remittance
+[rymopis]rymopis (PL) : (rz.) versifier
+[rymowac]rymować (PL) : (cz.) rhyme; (cz.) versify
+[rymowy]rymowy (PL) : (p.) rhyming
+[rynek]rynek (PL) : (rz.) marker; (rz.) market; (rz.) marketplace; (rz.) plaza
+[rynienka]rynienka (PL) : (rz.) skillet; (rz.) trough
+[rynkowy]rynkowy (PL) : (p.) marketable
+[rynna]rynna (PL) : (rz.) channel; (rz.) drainpipe; (rz.) gutter; (rz.) trough
+[rynsztok]rynsztok (PL) : (rz.) drain; (rz.) gutter; (rz.) kennel; (rz.) sewer
+[rynsztunek]rynsztunek (PL) : (rz.) gear; (rz.) kit; (rz.) outfit
+[ryps]ryps (PL) : (rz.) baize; (rz.) rep
+[rys]rys (PL) : (rz.) cracks; (rz.) feature; (rz.) outline; (rz.) trait
+[rysa]rysa (PL) : (rz.) chap; (rz.) crack; (rz.) cranny; (rz.) crevice; (rz.) flaw; (rz.) interstice; (rz.) rift; (rz.) scratch; (rz.) trait
+[rysik]rysik (PL) : (rz.) scriber; (rz.) slate-pencil; (rz.) stylus
+[ryski]ryski (PL) : (rz.) hairlines
+[rysopis]rysopis (PL) : (rz.) description
+[rysowanie]rysowanie (PL) : (rz.) drawing
+[rysowac]rysować (PL) : (cz.) depict; (cz.) draw; (cz.) drew; (cz.) outline; (cz.) streak
+[rysownica]rysownica (PL) : (rz.) drawing-board; (rz.) tablet
+[rysownictwo]rysownictwo (PL) : (rz.) design
+[rysownik]rysownik (PL) : (rz.) cartoonist; (rz.) designer; (rz.) draftsman; (rz.) draughtsman; (rz.) drawer
+[rysunek]rysunek (PL) : (rz.) cartoon; (rz.) design; (rz.) draft; (rz.) draught; (rz.) draw; (rz.) drawing; (rz.) figure; (rz.) sketch
+[rysunki]rysunki (PL) : (rz.) drawings
+[rysunkowy]rysunkowy (PL) : (p.) animated
+[ryt]ryt (PL) : (rz.) rite
+[rytm]rytm (PL) : (rz.) beat; (rz.) cadence; (rz.) lilt; (rz.) rhythm
+[rytmicznie]rytmicznie (PL) : (p-sł.) rhythmically
+[rytmiczny]rytmiczny (PL) : (p.) rhythmic; (p.) rhythmical
+[rytmika]rytmika (PL) : (rz.) rhythm
+[rytowanie]rytowanie (PL) : (rz.) engraving; (rz.) etching
+[rytownictwo]rytownictwo (PL) : (rz.) engraving
+[rytownik]rytownik (PL) : (rz.) engraver; (rz.) etcher
+[rytualnie]rytualnie (PL) : (p-sł.) ritually
+[rytualny]rytualny (PL) : (p.) ritual
+[rytual]rytuał (PL) : (rz.) rite; (rz.) ritual
+[rywal]rywal (PL) : (rz.) challenger; (rz.) competitor; (rz.) contender; (rz.) contestant; (rz.) rival
+[rywalizacja]rywalizacja (PL) : (rz.) competition; (rz.) competitiveness; (rz.) contention; (rz.) contest; (rz.) emulation; (rz.) rivalry
+[rywalizowac]rywalizować (PL) : (cz.) compete; (cz.) contend; (cz.) contest; (cz.) emulate; (cz.) rival
+[ryza]ryza (PL) : (rz.) chute; (rz.) ream
+[ryzykancki]ryzykancki (PL) : (p.) reckless; (p.) venturesome
+[ryzykancko]ryzykancko (PL) : (p-sł.) foolhardily
+[ryzykanctwo]ryzykanctwo (PL) : (rz.) bravado; (rz.) brinkmanship; (rz.) recklessness
+[ryzykant]ryzykant (PL) : (rz.) adventurer; (rz.) daredevil; (rz.) gambler
+[ryzyko]ryzyko (PL) : (rz.) gamble; (rz.) hazard; (rz.) risk; (rz.) venture
+[ryzykowac]ryzykować (PL) : (cz.) chance; (cz.) gamble; (cz.) hazard; (cz.) risk; (cz.) stake; (cz.) venture
+[ryzykowny]ryzykowny (PL) : (p.) adventurous; (p.) chancy; (p.) dicey; (p.) hazardous; (p.) risky; (p.) slippery; (p.) venturesome; (p.) wild-goose
+[ryc]ryć (PL) : (cz.) burrow; (cz.) chisel; (cz.) delve; (cz.) emboss; (cz.) engrave; (cz.) etch; (cz.) grub; (cz.) imprinted; (cz.) incise; (cz.) nuzzle; (cz.) pick
+[rys]ryś (PL) : (rz.) lynx; (rz.) trait
+[ryz]ryż (PL) : (rz.) frazil; (rz.) rice; (rz.) rise
+[ryzy]ryży (PL) : (p.) ginger-haired; (p.) red-haired
+[rzadki]rzadki (PL) : (p.) infrequent; (p.) rare; (p.) scarce; (p.) sparse; (p.) sporadic; (p.) thin; (p.) uncommon
+[rzadko]rzadko (PL) : (p-sł.) infrequently; (p-sł.) occasionally; (p-sł.) rarely; (p-sł.) seldom; (p-sł.) sparsely
+[rzadkosc]rzadkość (PL) : (rz.) curiosity; (rz.) infrequency; (rz.) rareness; (rz.) rarity; (rz.) sparseness; (rz.) uniqueness
+[rzecz]rzecz (PL) : (rz.) ding; (rz.) face; (rz.) gear; (rz.) item; (rz.) matter; (rz.) object; (rz.) requisite; (rz.) save-all; (rz.) stuff; (rz.) thing
+[rzeczka]rzeczka (PL) : (rz.) rivulet
+[rzecznictwo]rzecznictwo (PL) : (rz.) advocacy
+[rzecznik]rzecznik (PL) : (rz.) adviser; (rz.) advocate; (rz.) attorney; (rz.) counsel; (rz.) mouthpiece; (rz.) ombudsman; (rz.) prolocutor; (rz.) spokesman; (rz.) spokesperson
+[rzeczny]rzeczny (PL) : (p.) fluvial
+[rzeczownik]rzeczownik (PL) : (rz.) noun; (rz.) substantive
+[rzeczownikowy]rzeczownikowy (PL) : (p.) nominal
+[rzeczowo]rzeczowo (PL) : (p-sł.) factually; (p-sł.) knowingly
+[rzeczowosc]rzeczowość (PL) : (rz.) concision; (rz.) sobriety
+[rzeczowy]rzeczowy (PL) : (p.) businesslike; (p.) business-like; (p.) factual; (p.) kind; (p.) objective; (p.) positive; (p.) real; (p.) sober; (p.) substantive
+[rzeczoznawca]rzeczoznawca (PL) : (rz.) actuary; (rz.) adjuster; (rz.) assessor; (rz.) expert; (rz.) surveyor; (rz.) tester
+[rzeczpospolita]rzeczpospolita (PL) : (rz.) republic
+[rzeczy]rzeczy (PL) : (rz.) belongings; (rz.) stuff
+[rzeczywistosc]rzeczywistość (PL) : (rz.) actuality; (rz.) fact; (rz.) reality; (rz.) verity
+[rzeczywisty]rzeczywisty (PL) : (p.) actual; (p.) effective; (p.) practical; (p.) proportional; (p.) real; (p.) simon-pure; (p.) substantial; (p.) tangible; (p.) true; (p.) veritable; (p.) virtual
+[rzeczywiscie]rzeczywiście (PL) : (p-sł.) absolutely; (p-sł.) actually; (p-sł.) indeed; (p-sł.) practically; (p-sł.) really; (p-sł.) truly
+[rzedniec]rzednieć (PL) : (cz.) scatter
+[rzednac]rzednąć (PL) : (cz.) thin
+[rzeka]rzeka (PL) : (rz.) river
+[rzekomo]rzekomo (PL) : (p-sł.) allegedly; (p-sł.) professedly; (p-sł.) purportedly; (p-sł.) reputedly
+[rzekomy]rzekomy (PL) : (p.) alleged; (p.) ostensible; (p.) pseudo; (p.) reputed; (p.) sham; (p.) supposed; (p.) would-be
+[rzemien]rzemień (PL) : (rz.) lash; (rz.) strap; (rz.) thong
+[rzemieslnictwo]rzemieślnictwo (PL) : (rz.) crafts
+[rzemieslnik]rzemieślnik (PL) : (rz.) artificer; (rz.) artisan; (rz.) craftsman; (rz.) dealer; (rz.) doer; (rz.) handicraftsman
+[rzemioslo]rzemiosło (PL) : (rz.) art; (rz.) craft; (rz.) crafts; (rz.) handicraft; (rz.) trade
+[rzemyk]rzemyk (PL) : (rz.) latchet; (rz.) thong
+[rzep]rzep (PL) : (rz.) bur; (rz.) burr
+[rzepa]rzepa (PL) : (rz.) rape; (rz.) rutabaga; (rz.) turnip
+[rzepak]rzepak (PL) : (rz.) colza; (rz.) rape; (rz.) rapeseed
+[rzepakowy]rzepakowy (PL) : (p.) rapeseed
+[rzepka]rzepka (PL) : (rz.) kneecap; (rz.) knee-cap; (rz.) patella
+[rzesza]rzesza (PL) : (rz.) crowd; (rz.) multitude; (rz.) Reich
+[rzeszoto]rzeszoto (PL) : (rz.) riddle; (rz.) sieve
+[rzetelnie]rzetelnie (PL) : (p-sł.) fairly
+[rzetelnosc]rzetelność (PL) : (rz.) integrity; (rz.) probity; (rz.) reliability; (rz.) truth
+[rzetelny]rzetelny (PL) : (p.) advisable; (p.) fair; (p.) honest; (p.) just; (p.) reliable; (p.) righteous; (p.) sporting; (p.) true; (p.) upright
+[rzewnosc]rzewność (PL) : (rz.) melancholy
+[rzewny]rzewny (PL) : (p.) doleful; (p.) moving; (p.) sloppy; (p.) wistful
+[rzezaniec]rzezaniec (PL) : (rz.) castrate; (rz.) eunuch
+[rzezac]rzezać (PL) : (cz.) circumcise; (cz.) slaughter
+[rzezimieszek]rzezimieszek (PL) : (rz.) cutthroat; (rz.) thief
+[rzeski]rześki (PL) : (p.) bracing; (p.) brisk; (p.) fresh; (p.) lively; (p.) spry
+[rzeskosc]rześkość (PL) : (rz.) briskness; (rz.) vim
+[rzez]rzeź (PL) : (rz.) bloodbath; (rz.) butchery; (rz.) carnage; (rz.) massacre; (rz.) shambles; (rz.) slaughter
+[rzezba]rzeźba (PL) : (rz.) altar; (rz.) carving; (rz.) sculpture; (rz.) statuary
+[rzezbiarski]rzeźbiarski (PL) : (p.) sculptural; (p.) statuary
+[rzezbiarstwo]rzeźbiarstwo (PL) : (rz.) altar; (rz.) sculpture
+[rzezbiarz]rzeźbiarz (PL) : (rz.) carver; (rz.) sculptor; (rz.) statuary
+[rzezbienie]rzeźbienie (PL) : (rz.) carving; (rz.) shaping
+[rzezbic]rzeźbić (PL) : (cz.) carve; (cz.) chisel; (cz.) sculpt; (cz.) sculpture
+[rzeznia]rzeźnia (PL) : (rz.) abattoir; (rz.) butcher's; (rz.) butchery; (rz.) slaughterhouse; (rz.) slaughter-house
+[rzeznictwo]rzeźnictwo (PL) : (rz.) butchery
+[rzeznik]rzeźnik (PL) : (rz.) butcher; (rz.) flesher
+[rzezwic]rzeźwić (PL) : (cz.) refresh
+[rzezwy]rzeźwy (PL) : (p.) zippy
+[rzezucha]rzeżucha (PL) : (rz.) cress
+[rzezaczka]rzeżączka (PL) : (rz.) gonorrhoea
+[rzezaczkowy]rzeżączkowy (PL) : (p.) gonorrhoeal
+[rznac]rznąć (PL) : (cz.) slog
+[rzodkiew]rzodkiew (PL) : (rz.) radish; (rz.) radishes
+[rzodkiewka]rzodkiewka (PL) : (rz.) radish; (rz.) radishes
+[rzucanie]rzucanie (PL) : (rz.) fling; (rz.) quit
+[rzucac]rzucać (PL) : (cz.) assail; (cz.) attack; (cz.) bolt; (cz.) cast; (cz.) chuck; (cz.) collimate; (cz.) condition; (cz.) dart; (cz.) dash; (cz.) ditch; (cz.) dive; (cz.) dump; (cz.) enforce; (cz.) fling; (cz.) flounce; (cz.) flunk; (cz.) force; (cz.) hurl; (cz.) impose; (cz.) intrude; (cz.) jolt; (cz.) launch; (cz.) malign; (cz.) obtrude; (cz.) pitch; (cz.) plunge; (cz.) pounce; (cz.) quit; (cz.) rampage; (cz.) shy; (cz.) swoop; (cz.) threw; (cz.) throve; (cz.) throw; (cz.) thrown; (cz.) tilt; (cz.) toss
+[rzucenie]rzucenie (PL) : (rz.) throw
+[rzucic]rzucić (PL) : (cz.) bolt; (cz.) dump; (cz.) flunk; (cz.) hurl; (cz.) pitch; (cz.) pounce; (cz.) quit; (cz.) tilt
+[rzut]rzut (PL) : (rz.) blow; (rz.) cast; (rz.) crop; (rz.) dart; (rz.) fling; (rz.) hurl; (rz.) projection; (rz.) throw; (rz.) toss; (rz.) wave
+[rzutek]rzutek (PL) : (rz.) dart
+[rzutka]rzutka (PL) : (rz.) dart
+[rzutkosc]rzutkość (PL) : (rz.) initiative
+[rzutnik]rzutnik (PL) : (rz.) projector
+[rzutowanie]rzutowanie (PL) : (rz.) cast; (rz.) casting; (rz.) projection
+[rzutowac]rzutować (PL) : (cz.) cast; (cz.) chuck
+[rzutowy]rzutowy (PL) : (p.) projective
+[rzygacz]rzygacz (PL) : (rz.) gargoyle; (rz.) spout
+[rzygac]rzygać (PL) : (cz.) puke; (cz.) vomit
+[rzymianin]rzymianin (PL) : (rz.) roman
+[rzymski]rzymski (PL) : (p.) roman
+[rzad]rząd (PL) : (rz.) administration; (rz.) authorities; (rz.) dimensionality; (rz.) file; (rz.) government; (rz.) line; (rz.) range; (rz.) rank; (rz.) regiment; (rz.) row; (rz.) tier
+[rzadca]rządca (PL) : (rz.) ruler; (rz.) steward
+[rzadek]rządek (PL) : (rz.) row
+[rzadny]rządny (PL) : (p.) greedy
+[rzadowy]rządowy (PL) : (p.) federal; (p.) governmental
+[rzadzenie]rządzenie (PL) : (rz.) governance
+[rzadzic]rządzić (PL) : (cz.) boss; (cz.) govern; (cz.) reign; (cz.) rule
+[rzedem]rzędem (PL) : (p-sł.) endwise
+[rzedna]rzędna (PL) : (rz.) ordinate
+[rzepolenie]rzępolenie (PL) : (rz.) fiddler
+[rzepolic]rzępolić (PL) : (cz.) fiddle; (cz.) rasp; (cz.) strum; (cz.) thrum
+[rzepola]rzępoła (PL) : (rz.) fiddler
+[rzesa]rzęsa (PL) : (rz.) duckweed; (rz.) duck-weed; (rz.) eyelash; (rz.) lash
+[rzesisty]rzęsisty (PL) : (p.) copious; (p.) thunderous; (p.) torrential
+[rzeska]rzęska (PL) : (rz.) cilium
+[rzezic]rzęzić (PL) : (cz.) wheeze
+[rzesl]rzęśl (PL) : (rz.) message
+[rod]ród (PL) : (rz.) ancestry; (rz.) ascendance; (rz.) birth; (rz.) fine; (rz.) generation; (rz.) house; (rz.) kin; (rz.) lineage; (rz.) parentage; (rz.) stem; (rz.) stock
+[rog]róg (PL) : (rz.) angle; (rz.) antler; (rz.) bugle; (rz.) corner; (rz.) horn
+[roj]rój (PL) : (rz.) cluster; (rz.) dream; (rz.) swarm
+[row]rów (PL) : (rz.) ditch; (rz.) dyke; (rz.) moat; (rz.) row; (rz.) trench
+[rowiesnik]rówieśnik (PL) : (rz.) contemporary; (rz.) peer
+[rownanie]równanie (PL) : (rz.) comparison; (rz.) dubbing; (rz.) equation; (rz.) equations; (rz.) flatting
+[rownac]równać (PL) : (cz.) average; (cz.) equal; (cz.) flatten; (cz.) level
+[rownia]równia (PL) : (rz.) level; (rz.) plane
+[rowniarka]równiarka (PL) : (rz.) grader; (rz.) jogger
+[rownie]równie (PL) : (p-sł.) as; (p-sł.) equally; (p-sł.) equivalently
+[rowniez]również (PL) : (p-sł.) again; (p-sł.) also; (p-sł.) likewise; (p-sł.) so
+[rownik]równik (PL) : (rz.) equator
+[rownikowy]równikowy (PL) : (p.) equatorial
+[rownina]równina (PL) : (rz.) fiat; (rz.) flat; (rz.) flatland; (rz.) plain
+[rowninny]równinny (PL) : (p.) flat
+[rowno]równo (PL) : (p-sł.) equally; (p-sł.) even; (p-sł.) evenly
+[rownoboczny]równoboczny (PL) : (p.) equal-sided; (p.) equilateral
+[rownoczesnosc]równoczesność (PL) : (rz.) simultaneity; (rz.) simultaneousness; (rz.) synchronism
+[rownoczesny]równoczesny (PL) : (p.) coincident; (p.) concurrent; (p.) contemporary; (p.) isochronal; (p.) simultaneous
+[rownoczesnie]równocześnie (PL) : (p-sł.) concurrently; (p-sł.) simultaneously
+[rownokierunkowosc]równokierunkowość (PL) : (rz.) isotropy
+[rownokatny]równokątny (PL) : (p.) equiangular
+[rownolatek]równolatek (PL) : (rz.) coeval; (rz.) contemporary
+[rownolegle]równolegle (PL) : (p-sł.) simultaneously
+[rownoleglo-szeregowy]równoległo-szeregowy (PL) : (p.) parallel-serial; (p.) parallel-to-serial
+[rownolegloboczny]równoległoboczny (PL) : (p.) equilateral
+[rownoleglobok]równoległobok (PL) : (rz.) parallelogram; (rz.) rhomboid
+[rownolegloscian]równoległościan (PL) : (rz.) parallelepiped
+[rownoleglosc]równoległość (PL) : (rz.) parallelism
+[rownolegly]równoległy (PL) : (p.) collateral; (p.) parallel
+[rownoleznik]równoleżnik (PL) : (rz.) parallel
+[rownomiernie]równomiernie (PL) : (p-sł.) evenly
+[rownomiernosc]równomierność (PL) : (rz.) equability; (rz.) steadiness
+[rownomierny]równomierny (PL) : (p.) equable; (p.) even; (p.) steady; (p.) uniform
+[rownonoc]równonoc (PL) : (rz.) equinox
+[rownonocny]równonocny (PL) : (p.) equinoctial
+[rownoodlegly]równoodległy (PL) : (p.) equidistant
+[rownopostaciowosc]równopostaciowość (PL) : (rz.) isomorphism
+[rownopostaciowy]równopostaciowy (PL) : (p.) isomorphic
+[rownoprawnosc]równoprawność (PL) : (rz.) peer
+[rownoprawny]równoprawny (PL) : (p.) equal
+[rownoramienny]równoramienny (PL) : (p.) isosceles
+[rownorzednosc]równorzędność (PL) : (rz.) equivalence; (rz.) peer
+[rownorzedny]równorzędny (PL) : (p.) coordinate; (p.) equal; (p.) equivalent
+[rownouprawnienie]równouprawnienie (PL) : (rz.) equality
+[rownowaga]równowaga (PL) : (rz.) balance; (rz.) coordination; (rz.) co-ordination; (rz.) counterpoise; (rz.) deuce; (rz.) equilibrium; (rz.) poise
+[rownowartosciowy]równowartościowy (PL) : (p.) equipollent; (p.) tantamount
+[rownowartosc]równowartość (PL) : (rz.) equivalence; (rz.) equivalency; (rz.) equivalent; (rz.) parity
+[rownowazenie]równoważenie (PL) : (rz.) balancing
+[rownowaznia]równoważnia (PL) : (rz.) beam; (rz.) equivalent
+[rownowaznik]równoważnik (PL) : (rz.) balancer; (rz.) equipoise; (rz.) equivalent
+[rownowaznosc]równoważność (PL) : (rz.) equivalence; (rz.) equivalency
+[rownowazny]równoważny (PL) : (p.) equipollent; (p.) equivalent
+[rownowazyc]równoważyć (PL) : (cz.) balance; (cz.) compensate; (cz.) counterpoise; (cz.) equilibrate; (cz.) equiponderate; (cz.) offset; (cz.) poise
+[rownoznacznik]równoznacznik (PL) : (rz.) synonym
+[rownoznaczny]równoznaczny (PL) : (p.) equivalent; (p.) synonymous; (p.) tantamount
+[rownosc]równość (PL) : (rz.) equability; (rz.) equality; (rz.) equation; (rz.) equity; (rz.) evenness; (rz.) par; (rz.) parity
+[rowny]równy (PL) : (p.) equal; (p.) even; (p.) flat; (p.) level; (p.) same; (p.) smooth; (p.) steady; (p.) tantamount
+[rozga]rózga (PL) : (rz.) birch; (rz.) birch-rod; (rz.) rod; (rz.) twig
+[roz]róż (PL) : (rz.) blusher; (rz.) carnation; (rz.) pink; (rz.) rose; (rz.) roses; (rz.) rouge
+[roza]róża (PL) : (rz.) erysipelas; (rz.) rose
+[rozanecznik]różanecznik (PL) : (rz.) rhododendron
+[rozaniec]różaniec (PL) : (rz.) bead; (rz.) rosary
+[rozany]różany (PL) : (p.) roseate; (p.) rosy
+[rozdzka]różdżka (PL) : (rz.) doodlebug; (rz.) rod; (rz.) wand
+[rozdzkarz]różdżkarz (PL) : (rz.) diviner; (rz.) dowser
+[roznica]różnica (PL) : (rz.) difference; (rz.) disparity; (rz.) dissent; (rz.) dissimilarity; (rz.) dissimilitude; (rz.) distinction; (rz.) gap; (rz.) odds; (rz.) percentage
+[roznicowanie]różnicowanie (PL) : (rz.) differentiation
+[roznicowac]różnicować (PL) : (cz.) differentiate; (cz.) diversify; (cz.) vary
+[roznicowy]różnicowy (PL) : (p.) differential
+[rozniczka]różniczka (PL) : (rz.) differential
+[rozniczkowalny]różniczkowalny (PL) : (p.) differentiable
+[rozniczkowanie]różniczkowanie (PL) : (rz.) differentiation
+[rozniczkowac]różniczkować (PL) : (cz.) differentiate
+[rozniczkowy]różniczkowy (PL) : (p.) differential
+[roznie]różnie (PL) : (p-sł.) differently; (p-sł.) diversely; (p-sł.) severally; (p-sł.) variously
+[roznic]różnić (PL) : (cz.) differ; (cz.) differentiate; (cz.) dissent; (cz.) divide; (cz.) vary
+[roznobarwnosc]różnobarwność (PL) : (rz.) variegation
+[roznobarwny]różnobarwny (PL) : (p.) varicoloured; (p.) variegated
+[roznoboczny]różnoboczny (PL) : (p.) scalene
+[roznogatunkowy]różnogatunkowy (PL) : (p.) heterogeneous
+[roznoimienny]różnoimienny (PL) : (p.) heteronymous
+[roznokierunkowy]różnokierunkowy (PL) : (p.) anisotropic; (p.) multidirectional
+[roznokolorowy]różnokolorowy (PL) : (p.) varicoloured
+[roznoksztaltny]różnokształtny (PL) : (p.) diversiform
+[roznoraki]różnoraki (PL) : (p.) different; (p.) diverse; (p.) manifold; (p.) miscellaneous
+[roznorodnosc]różnorodność (PL) : (rz.) diversity; (rz.) heterogeneity; (rz.) multiplicity; (rz.) spread; (rz.) variety; (rz.) versatility
+[roznorodny]różnorodny (PL) : (p.) assorted; (p.) colourful; (p.) divergent; (p.) diverse; (p.) heterogeneous; (p.) manifold; (p.) miscellaneous; (p.) mixed; (p.) multifarious; (p.) varied; (p.) various
+[roznoznaczny]różnoznaczny (PL) : (p.) ambiguous
+[rozny]różny (PL) : (p.) different; (p.) disparate; (p.) distinct; (p.) diverse; (p.) several; (p.) sundry; (p.) varied; (p.) various
+[rozowawy]różowawy (PL) : (p.) pinkish; (p.) roseate
+[rozowac]różować (PL) : (cz.) rouge
+[rozowosc]różowość (PL) : (rz.) carnation
+[rozowy]różowy (PL) : (p.) blushing; (p.) pink; (p.) rose-coloured; (p.) rosy; (p.) ruddy
+[rozyca]różyca (PL) : (rz.) rosette
+[rozyczka]różyczka (PL) : (rz.) erysipelas; (rz.) rubella
+[rab]rąb (PL) : (rz.) pane
+[rabac]rąbać (PL) : (cz.) chisel; (cz.) chop; (cz.) hack; (cz.) hew; (cz.) whack
+[rabek]rąbek (PL) : (rz.) border; (rz.) burr; (rz.) edging; (rz.) fringe; (rz.) hem; (rz.) selvage; (rz.) selvedge
+[rabniecie]rąbnięcie (PL) : (rz.) slog
+[raczka]rączka (PL) : (rz.) handle
+[racznik]rącznik (PL) : (rz.) castor
+[raczy]rączy (PL) : (p.) brisk; (p.) nimble; (p.) swift
+[rebacz]rębacz (PL) : (rz.) getter; (rz.) lumberjack
+[rebak]rębak (PL) : (rz.) chopper
+[rebarka]rębarka (PL) : (rz.) chopper
+[rebnia]rębnia (PL) : (rz.) thinning
+[recznie]ręcznie (PL) : (p-sł.) manually
+[recznik]ręcznik (PL) : (rz.) towel
+[reczny]ręczny (PL) : (p.) handheld; (p.) hand-held; (p.) manual
+[reczyc]ręczyć (PL) : (cz.) answer; (cz.) avouch; (cz.) guarantee; (cz.) pledge; (cz.) vouch; (cz.) warrant
+[reka]ręka (PL) : (rz.) arm; (rz.) hand; (rz.) pa
+[rekaw]rękaw (PL) : (rz.) sleeve
+[rekawica]rękawica (PL) : (rz.) gauntlet; (rz.) glove; (rz.) mitt; (rz.) mitten
+[rekawice]rękawice (PL) : (rz.) gloves
+[rekawiczka]rękawiczka (PL) : (rz.) glove; (rz.) mitten
+[rekawicznik]rękawicznik (PL) : (rz.) glover
+[rekoczyn]rękoczyn (PL) : (rz.) blow
+[rekodzielnictwo]rękodzielnictwo (PL) : (rz.) craft; (rz.) handicraft
+[rekodzielnik]rękodzielnik (PL) : (rz.) handicraftsman
+[rekodzielo]rękodzieło (PL) : (rz.) craft; (rz.) crafts; (rz.) handicraft; (rz.) handwork
+[rekojesc]rękojeść (PL) : (rz.) butt; (rz.) haft; (rz.) handle; (rz.) hilt
+[rekojmia]rękojmia (PL) : (rz.) guarantee; (rz.) warrant; (rz.) warranty
+[rekopis]rękopis (PL) : (rz.) manuscript; (rz.) script
+[rzenie]rżenie (PL) : (rz.) neigh; (rz.) snicker
+[rzec]rżeć (PL) : (cz.) neigh; (cz.) whinny
+[rzniecie]rżnięcie (PL) : (rz.) bellyaching; (rz.) colic
+[rznac]rżnąć (PL) : (cz.) saw; (cz.) slog
+[rzysko]rżysko (PL) : (rz.) stubble

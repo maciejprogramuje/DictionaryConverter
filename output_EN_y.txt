@@ -1,0 +1,83 @@
+[yiddish]Yiddish (EN) : (rz.) jidysz
+[yacht]yacht (EN) : (cz.) pływać; (rz.) jacht
+[yacht-club]yacht-club (EN) : (rz.) jachtklub
+[yachtsman]yachtsman (EN) : (rz.) żeglarz
+[yahoo]yahoo (EN) : (rz.) bestia
+[yam]yam (EN) : (rz.) szarpnięcie
+[yank]yank (EN) : (cz.) szarpać; (cz.) szarpnąć; (cz.) wyrywać; (cz.) wyszarpywać; (rz.) jankes; (rz.) szarpnięcie
+[yap]yap (EN) : (cz.) jazgotać; (cz.) szczekać; (cz.) trajkotać; (cz.) ujadać; (rz.) ujadanie
+[yard]yard (EN) : (rz.) dwór; (rz.) dziedziniec; (rz.) jard; (rz.) ogródek; (rz.) podwórko; (rz.) podwórze; (rz.) rejon; (rz.) skład; (rz.) stocznia
+[yardage]yardage (EN) : (rz.) metraż
+[yardman]yardman (EN) : (rz.) parobek
+[yardstick]yardstick (EN) : (rz.) jard; (rz.) kryterium; (rz.) miara
+[yare]yare (EN) : (p.) gotowy; (p.) sprawny
+[yarn]yarn (EN) : (rz.) historyjka; (rz.) opowiadanie; (rz.) przędza; (rz.) włóczka
+[yarrow]yarrow (EN) : (rz.) krwawnik
+[yashmak]yashmak (EN) : (rz.) jaszmak; (rz.) kwef
+[yataghan]yataghan (EN) : (rz.) jatagan
+[yaw]yaw (EN) : (cz.) zboczyć; (rz.) odchylenie; (rz.) zbaczanie
+[yawl]yawl (EN) : (rz.) jolka; (rz.) wycie
+[yawn]yawn (EN) : (cz.) gapić; (cz.) ziewać; (cz.) zionąć; (rz.) nudziarstwo; (rz.) paszcza; (rz.) ziewanie; (rz.) ziewnięcie
+[yawp]yawp (EN) : (cz.) wrzeszczeć
+[yeah]yeah (EN) : (p-sł.) tak
+[yean]yean (EN) : (cz.) okocić; (cz.) urodzić
+[year]year (EN) : (rz.) rocznik; (rz.) rok
+[year-book]year-book (EN) : (rz.) rocznik
+[year-round]year-round (EN) : (p.) całoroczny
+[yearbook]yearbook (EN) : (rz.) rocznik
+[yearling]yearling (EN) : (rz.) roczniak
+[yearlong]yearlong (EN) : (p.) całoroczny; (p.) roczny
+[yearly]yearly (EN) : (p.) całoroczny; (p.) coroczny; (p.) doroczny; (p.) roczny
+[yearn]yearn (EN) : (cz.) solidaryzować; (cz.) tęsknić; (cz.) współczuć; (cz.) zatęsknić
+[years]years (EN) : (rz.) letni; (rz.) rok
+[yeast]yeast (EN) : (rz.) drożdże
+[yeasty]yeasty (EN) : (p.) pienisty
+[yell]yell (EN) : (cz.) jazgotać; (cz.) krzyczeć; (cz.) wrzeszczeć; (cz.) wyć; (cz.) wykrzykiwać; (rz.) krzyk; (rz.) ryk; (rz.) wrzask; (rz.) wycie
+[yellow]yellow (EN) : (cz.) żółknąć; (p.) tchórzliwy; (p.) zawistny; (p.) zazdrosny; (p.) żółty
+[yellow-bellied]yellow-bellied (EN) : (p.) tchórzliwy
+[yellow-hammer]yellow-hammer (EN) : (rz.) trznadel
+[yellowhammer]yellowhammer (EN) : (rz.) trznadel
+[yellowish]yellowish (EN) : (p.) żółtawy
+[yellowness]yellowness (EN) : (rz.) żółcizna
+[yellowtail]yellowtail (EN) : (cz.) żółcić
+[yelp]yelp (EN) : (cz.) skamleć; (cz.) skomleć; (cz.) skowyczeć
+[yeoman]yeoman (EN) : (rz.) wojak; (rz.) żołnierz
+[yep]yep (EN) : (p-sł.) tak
+[yes-man]yes-man (EN) : (rz.) potakiwacz
+[yesterday]yesterday (EN) : (p-sł.) wczoraj; (rz.) przeszłość
+[yesteryear]yesteryear (EN) : (p.) przeszłoroczny
+[yet]yet (EN) : (p-sł.) dotąd; (p-sł.) dotychczas; (p-sł.) już; (p-sł.) nawet
+[yew]yew (EN) : (rz.) cis
+[yield]yield (EN) : (cz.) dostarczać; (cz.) plonować; (cz.) przynieść; (cz.) przynosić; (cz.) przytaczać; (cz.) ulegać; (cz.) ustępować; (cz.) wydawać; (cz.) wytwarzać
+[yip]yip (EN) : (cz.) ujadać
+[yob]yob (EN) : (rz.) kozak; (rz.) prymityw
+[yobbo]yobbo (EN) : (rz.) prymityw
+[yodel]yodel (EN) : (cz.) jodlować; (cz.) jodłować
+[yoga]yoga (EN) : (rz.) joga; (rz.) jogizm
+[yoghourt]yoghourt (EN) : (rz.) jogurt
+[yoghurt]yoghurt (EN) : (rz.) jogurt
+[yogi]yogi (EN) : (rz.) joga
+[yogurt]yogurt (EN) : (rz.) jogurt
+[yoke]yoke (EN) : (cz.) ujarzmiać; (cz.) ujarzmić
+[yoke-fellow]yoke-fellow (EN) : (rz.) towarzysz; (rz.) współtowarzysz
+[yokefellow]yokefellow (EN) : (rz.) towarzysz; (rz.) współtowarzysz
+[yokel]yokel (EN) : (rz.) gbur; (rz.) kmieć; (rz.) kmiot; (rz.) kmiotek; (rz.) wieśniak
+[yolk]yolk (EN) : (rz.) żółtko
+[yonder]yonder (EN) : (p-sł.) tam
+[young]young (EN) : (p.) młody; (rz.) młodnik; (rz.) młodzieniec; (rz.) młodzież
+[youngling]youngling (EN) : (rz.) dziecko; (rz.) młodzieniec; (rz.) młodzik
+[youngster]youngster (EN) : (rz.) chłopak; (rz.) dziecko; (rz.) malec; (rz.) młodzieniec; (rz.) wyrostek
+[younker]younker (EN) : (rz.) junkier; (rz.) młodzik
+[your]your (EN) : (p.) pański
+[youth]youth (EN) : (rz.) chłopak; (rz.) maleńkość; (rz.) młodość; (rz.) młodzieniec; (rz.) młodzież; (rz.) młokos; (rz.) nastolatek; (rz.) odzienie
+[youthful]youthful (EN) : (p.) młody; (p.) młodzieńczy
+[youthfully]youthfully (EN) : (p-sł.) młodo; (p-sł.) młodzieńczo
+[youthfulness]youthfulness (EN) : (rz.) młodość; (rz.) młodzieńczość
+[yowl]yowl (EN) : (cz.) wrzeszczeć; (cz.) wyć; (rz.) wrzask; (rz.) wycie
+[ytterbium]ytterbium (EN) : (rz.) iterb
+[yttrium]yttrium (EN) : (rz.) itr
+[yucca]yucca (EN) : (rz.) juka
+[yucky]yucky (EN) : (p.) obrzydliwy; (p.) ohydny
+[yuk]yuk (EN) : (rz.) baran; (rz.) ciołek; (rz.) cymbał; (rz.) debil; (rz.) głupek; (rz.) głupol; (rz.) idiota; (rz.) półgłówek; (rz.) tuman
+[yum]yum (EN) : (rz.) pycha
+[yummy]yummy (EN) : (p.) pyszny

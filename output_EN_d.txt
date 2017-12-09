@@ -1,0 +1,2274 @@
+[daniel]Daniel (EN) : (rz.) Daniel
+[darwinian]Darwinian (EN) : (rz.) darwinista
+[darwinism]Darwinism (EN) : (rz.) darwinizm
+[dave]Dave (EN) : (rz.) Dawid
+[david]David (EN) : (rz.) Dawid
+[december]December (EN) : (rz.) grudzień
+[diana]Diana (EN) : (rz.) Diana
+[dominic]Dominic (EN) : (rz.) Dominik
+[dorothy]Dorothy (EN) : (rz.) Dorota
+[d]d (EN) : (rz.) głębokość; (rz.) rozwój
+[dab]dab (EN) : (cz.) dotykać; (cz.) klepać; (cz.) łożyć; (cz.) nałożyć; (cz.) nanieść; (cz.) nieść; (cz.) pobijać; (cz.) przetrzeć; (cz.) przykładać; (cz.) przyłożyć; (cz.) ścierać; (cz.) zdejmować; (rz.) dotknięcie; (rz.) dziobnięcie; (rz.) muśnięcie; (rz.) odrobina; (rz.) płastuga; (rz.) szczypta; (rz.) zimnica
+[dabber]dabber (EN) : (rz.) tampon
+[dabble]dabble (EN) : (cz.) fuszerować; (cz.) moczyć; (cz.) parać; (cz.) pluskać; (cz.) spryskiwać; (cz.) zabawiać; (cz.) zamoczyć; (cz.) zwilżać
+[dabbler]dabbler (EN) : (rz.) amator
+[dacha]dacha (EN) : (rz.) dacza
+[dachshund]dachshund (EN) : (rz.) jamnik
+[dactyl]dactyl (EN) : (rz.) daktyl
+[dactylic]dactylic (EN) : (p.) daktyliczny
+[dad]dad (EN) : (rz.) tata; (rz.) tato; (rz.) tatuś
+[dada]dada (EN) : (rz.) tata
+[daddy]daddy (EN) : (rz.) papa; (rz.) tata; (rz.) tato; (rz.) tatulek; (rz.) tatuś
+[daddy-long-legs]daddy-long-legs (EN) : (rz.) komarnica; (rz.) kosarz
+[daddy-longlegs]daddy-longlegs (EN) : (rz.) komarnica
+[dado]dado (EN) : (rz.) gzymsem; (rz.) lamperia
+[daedal]daedal (EN) : (p.) przemyślny
+[daemon]daemon (EN) : (rz.) demon
+[daemonic]daemonic (EN) : (p.) opętańczy
+[daff]daff (EN) : (cz.) dokazywać
+[daffodil]daffodil (EN) : (rz.) narcyz; (rz.) żonkil
+[daft]daft (EN) : (p.) durny; (p.) głupi; (p.) przygłupiasty
+[dagger]dagger (EN) : (rz.) kindżał; (rz.) puginał; (rz.) sztylet
+[daggle]daggle (EN) : (cz.) szargać
+[daguerreotype]daguerreotype (EN) : (rz.) dagerotyp
+[dahlia]dahlia (EN) : (rz.) dalia; (rz.) georginia
+[daily]daily (EN) : (p.) codzienny; (p.) dniówkowy; (p.) dobowy; (p.) dzienny; (p.) powszedni; (p-sł.) codziennie; (p-sł.) dziennie; (rz.) dziennik; (rz.) przydział
+[dainties]dainties (EN) : (rz.) przysmaki
+[daintily]daintily (EN) : (p-sł.) delikatnie
+[daintiness]daintiness (EN) : (rz.) delikatność
+[dainty]dainty (EN) : (p.) delikatny; (p.) drobny; (p.) elegancki; (p.) filigranowy; (p.) misterny; (p.) wykwintny; (p.) zdobny; (p.) zgrabny; (rz.) frykas; (rz.) przysmak; (rz.) smakowitość; (rz.) specjał
+[dairy]dairy (EN) : (rz.) mleczarnia; (rz.) nabiał; (rz.) udój
+[dairy-produce]dairy-produce (EN) : (rz.) nabiał
+[dairying]dairying (EN) : (rz.) mleczarnia; (rz.) mleczarstwo
+[dairymaid]dairymaid (EN) : (rz.) dojarka; (rz.) krowiarka; (rz.) mleczarka
+[dairyman]dairyman (EN) : (rz.) dojarz; (rz.) mleczarz
+[dais]dais (EN) : (rz.) platforma; (rz.) podium
+[daisy]daisy (EN) : (rz.) margerytka; (rz.) stokrotka
+[dale]dale (EN) : (rz.) dolina
+[dalliance]dalliance (EN) : (rz.) figlowanie
+[dally]dally (EN) : (cz.) lenić; (cz.) marudzić; (cz.) pętać; (cz.) próżnować; (cz.) zabawiać
+[dalmatic]dalmatic (EN) : (rz.) dalmatyka
+[dam]dam (EN) : (cz.) ogroblić; (cz.) przegradzać; (cz.) tamować; (cz.) zatamować; (rz.) grobla; (rz.) przegroda; (rz.) tama; (rz.) zapora
+[damage]damage (EN) : (cz.) kancerować; (cz.) nadwerężyć; (cz.) niszczyć; (cz.) uszkadzać; (cz.) uszkodzić; (cz.) zaszkodzić; (cz.) zniszczyć; (rz.) awaria; (rz.) niepowodzenie; (rz.) odszkodowanie; (rz.) szkoda; (rz.) uszczerbek; (rz.) uszko; (rz.) uszkodzenie; (rz.) zepsucie; (rz.) zniszczenie
+[damages]damages (EN) : (rz.) odszkodowanie; (rz.) szkody
+[damaging]damaging (EN) : (p.) szkodliwy
+[damask]damask (EN) : (rz.) adamaszek; (rz.) inkarnat
+[dame]dame (EN) : (rz.) dama; (rz.) kobieta
+[damn]damn (EN) : (cz.) ganić; (cz.) potępiać; (cz.) przeklinać; (rz.) przekleństwo
+[damnable]damnable (EN) : (p.) niegodziwy; (p.) nikczemny
+[damnably]damnably (EN) : (p-sł.) fatalnie
+[damnation]damnation (EN) : (rz.) potępienie
+[damned]damned (EN) : (p.) cholerny; (p.) przeklęty
+[damp]damp (EN) : (cz.) amortyzować; (cz.) hamować; (cz.) skrapiać; (cz.) stłumiać; (cz.) stłumić; (cz.) tłumić; (cz.) zwilżać; (cz.) zwilżyć; (p.) mokry; (p.) parny; (p.) wilgotny; (rz.) para; (rz.) wilgoć; (rz.) zawilgocenie
+[dampen]dampen (EN) : (cz.) tłumić; (cz.) zamakać; (cz.) zwilżać
+[damper]damper (EN) : (rz.) amortyzator; (rz.) nawilżacz; (rz.) przepustnica; (rz.) tłumik; (rz.) zwilżacz
+[damping]damping (EN) : (rz.) dławienie; (rz.) nawilżanie; (rz.) wilgoć; (rz.) zwilżanie
+[dampness]dampness (EN) : (rz.) wilgoć; (rz.) wilgotność
+[damsel]damsel (EN) : (rz.) dziewczyna; (rz.) dziewica
+[damson]damson (EN) : (rz.) damaszka; (rz.) mirabelka; (rz.) powidło; (rz.) śliwka
+[dance]dance (EN) : (cz.) balować; (cz.) hasać; (cz.) pląsać; (cz.) potańczyć; (cz.) tańczyć; (cz.) zatańczyć; (rz.) bal; (rz.) kompozycja; (rz.) potańcówka; (rz.) tan; (rz.) taniec
+[dancer]dancer (EN) : (rz.) tancerz
+[dancing]dancing (EN) : (rz.) bal; (rz.) tańczenie; (rz.) taniec; (rz.) zabawa
+[dancing-master]dancing-master (EN) : (rz.) tancmistrz
+[dandelion]dandelion (EN) : (rz.) dmuchawiec; (rz.) mlecz
+[dander]dander (EN) : (rz.) złość
+[dandle]dandle (EN) : (cz.) huśtać; (cz.) kołysać; (cz.) niańczyć
+[dandruff]dandruff (EN) : (rz.) łupież
+[dandy]dandy (EN) : (p.) elegancki; (p.) świetny; (p.) wykwintny; (rz.) dandys; (rz.) elegant; (rz.) fircyk; (rz.) strojniś
+[dandyish]dandyish (EN) : (p.) fircykowaty
+[dandyism]dandyism (EN) : (rz.) dandyzm
+[danger]danger (EN) : (rz.) groźba; (rz.) niebezpieczeństwo; (rz.) zagrożenie
+[dangerous]dangerous (EN) : (p.) groźny; (p.) niebezpieczny
+[dangerously]dangerously (EN) : (p-sł.) niebezpiecznie
+[dangle]dangle (EN) : (cz.) bujać; (cz.) dyndać; (cz.) huśtać; (cz.) majtać; (cz.) powiewać; (cz.) wisieć; (cz.) wymachiwać; (cz.) zwisać
+[dank]dank (EN) : (p.) wilgotny
+[dap]dap (EN) : (cz.) wrębiać; (cz.) zacinać; (rz.) wrąb; (rz.) zacios
+[daphnia]daphnia (EN) : (rz.) dafnia; (rz.) rozwielitka
+[dapper]dapper (EN) : (p.) elegancki; (p.) wytworny; (p.) żywy; (rz.) dziarskość; (rz.) elegancja; (rz.) smukłość; (rz.) wytworność; (rz.) zadbanie; (rz.) żywość
+[dapple]dapple (EN) : (cz.) cętkować; (p.) pstrokaty
+[dappled]dappled (EN) : (p.) pstrokaty
+[dare]dare (EN) : (cz.) odważać; (cz.) ośmielać; (cz.) ośmielić; (cz.) podpuścić; (cz.) poważyć; (cz.) śmieć; (rz.) wyzwanie
+[dare-devil]dare-devil (EN) : (rz.) chojrak; (rz.) śmiałek; (rz.) zuch
+[daredevil]daredevil (EN) : (rz.) chojrak; (rz.) ryzykant; (rz.) śmiałek
+[daring]daring (EN) : (p.) brawurowy; (p.) śmiały; (rz.) brawura; (rz.) odwaga; (rz.) śmiałość
+[daringly]daringly (EN) : (p-sł.) ślicznie
+[dark]dark (EN) : (p.) ciemnowłosy; (p.) ciemny; (p.) mroczny; (p.) ponury; (rz.) ciemne; (rz.) ciemnica; (rz.) ciemno; (rz.) ciemność; (rz.) mrok; (rz.) zmrok
+[dark-skinned]dark-skinned (EN) : (p.) ciemnoskóry
+[darken]darken (EN) : (cz.) ciemnieć; (cz.) mroczyć; (cz.) nachmurzyć; (cz.) pochmurnieć; (cz.) posępnieć; (cz.) przyciemniać; (cz.) ściemniać; (cz.) ściemnieć; (cz.) zachmurzyć; (cz.) zaciemniać
+[darkness]darkness (EN) : (rz.) ciemnica; (rz.) ciemność; (rz.) mroczność; (rz.) mrok
+[darkroom]darkroom (EN) : (rz.) ciemnia
+[darksome]darksome (EN) : (p.) ciemny
+[darling]darling (EN) : (rz.) beniaminek; (rz.) kochanie; (rz.) ulubieniec
+[darn]darn (EN) : (cz.) cerować; (cz.) zacerować
+[darnel]darnel (EN) : (rz.) rajgras
+[darner]darner (EN) : (rz.) cerowaczka
+[darning]darning (EN) : (rz.) cerowanie
+[darning-egg]darning-egg (EN) : (rz.) grzybek
+[dart]dart (EN) : (cz.) ciskać; (cz.) gnać; (cz.) lecieć; (cz.) rzucać; (cz.) wpadać; (rz.) oszczep; (rz.) rzut; (rz.) rzutek; (rz.) rzutka; (rz.) strzałka
+[dash]dash (EN) : (cz.) ciskać; (cz.) lecieć; (cz.) mknąć; (cz.) niweczyć; (cz.) obgryzać; (cz.) obryzgać; (cz.) pędzić; (cz.) rozbijać; (cz.) roztrzaskać; (cz.) rzucać; (cz.) trzaskać; (cz.) walnąć; (cz.) wpadać; (cz.) zderzyć; (rz.) brawura; (rz.) dziarskość; (rz.) kreska; (rz.) łącznik; (rz.) myślnik; (rz.) pauza; (rz.) przerywnik; (rz.) zamaszystość; (rz.) zuchowatość
+[dashing]dashing (EN) : (p.) dziarski; (p.) ozdobny; (p.) zamaszysty
+[dashingly]dashingly (EN) : (p-sł.) fantazyjnie
+[dastard]dastard (EN) : (rz.) łachudra; (rz.) tchórz
+[dastardly]dastardly (EN) : (p.) nikczemny; (p.) podły
+[data]data (EN) : (rz.) dane; (rz.) informacja
+[dataset]dataset (EN) : (rz.) modem
+[datasheet]datasheet (EN) : (rz.) dane
+[date]date (EN) : (cz.) chodzić; (cz.) datować; (rz.) chłopak; (rz.) daktyl; (rz.) daktylowiec; (rz.) data; (rz.) dzień; (rz.) randka; (rz.) schadzka; (rz.) termin
+[date-palm]date-palm (EN) : (rz.) daktylowiec
+[date-stamp]date-stamp (EN) : (rz.) datownik
+[dated]dated (EN) : (p.) datowany
+[dateless]dateless (EN) : (p.) niepamiętny
+[dateline]dateline (EN) : (rz.) zniewolenie
+[dater]dater (EN) : (rz.) datowanie; (rz.) datownik
+[dative]dative (EN) : (p.) celownikowy; (rz.) celownik
+[datum]datum (EN) : (rz.) fakt; (rz.) punkt; (rz.) znaczenie
+[daub]daub (EN) : (cz.) babrać; (cz.) mazać; (cz.) nasmarować; (cz.) pacykować; (cz.) smarować; (cz.) zamazywać; (rz.) bohomaz; (rz.) gips; (rz.) kicz; (rz.) mazanina; (rz.) tynk
+[dauber]dauber (EN) : (rz.) bazgracz; (rz.) pacykarz
+[daughter]daughter (EN) : (rz.) chrześniak; (rz.) córa; (rz.) córka; (rz.) pochodna; (rz.) synowa
+[daughter-in-law]daughter-in-law (EN) : (rz.) synowa
+[daughterboard]daughterboard (EN) : (rz.) płyta; (rz.) tablica
+[daughters’]daughters’ (EN) : (rz.) córa
+[daunt]daunt (EN) : (cz.) nastraszyć; (cz.) odstraszać; (cz.) onieśmielić; (cz.) straszyć; (cz.) zastraszać; (cz.) zniechęcać
+[dauphin]dauphin (EN) : (rz.) delfin
+[davenport]davenport (EN) : (rz.) biurko; (rz.) sekretera
+[davit]davit (EN) : (rz.) wyciąg; (rz.) żurawik
+[dawdle]dawdle (EN) : (cz.) grzebać; (cz.) guzdrać; (cz.) mitrężyć; (cz.) próżnować
+[dawdler]dawdler (EN) : (rz.) guzdrała; (rz.) leń; (rz.) maruda; (rz.) mazgaj
+[dawn]dawn (EN) : (cz.) nastać; (cz.) świtać; (cz.) zaświtać; (rz.) brzask; (rz.) jutrzenka; (rz.) początek; (rz.) świt; (rz.) zaranie
+[day]day (EN) : (rz.) doba; (rz.) dzień; (rz.) dzionek; (rz.) nakład
+[day-book]day-book (EN) : (rz.) dziennik
+[day-boy]day-boy (EN) : (rz.) ekstern
+[day-dream]day-dream (EN) : (cz.) marzyć; (rz.) mrzonka
+[day-dreaming]day-dreaming (EN) : (rz.) marzycielstwo
+[day-labourer]day-labourer (EN) : (rz.) wyrobnik
+[day-nursery]day-nursery (EN) : (rz.) żłobek
+[day-to-day]day-to-day (EN) : (p.) codzienny
+[daybook]daybook (EN) : (rz.) dziennik
+[dayboy]dayboy (EN) : (rz.) ekstern
+[daybreak]daybreak (EN) : (rz.) brzask; (rz.) jutrzenka; (rz.) przedświt; (rz.) świt; (rz.) zaranie; (rz.) zmierzch
+[daydream]daydream (EN) : (cz.) fantazjować; (cz.) marzyć
+[daydreamer]daydreamer (EN) : (rz.) fantasta; (rz.) marzyciel
+[daylight]daylight (EN) : (rz.) świt
+[daylong]daylong (EN) : (p.) całodzienny
+[days]days (EN) : (rz.) dzień
+[daytime]daytime (EN) : (rz.) dzień
+[daze]daze (EN) : (cz.) oszałamiać; (cz.) oszołomić
+[dazzle]dazzle (EN) : (cz.) ćmić; (cz.) olśnić; (cz.) olśniewać; (cz.) oślepiać; (cz.) oszałamiać; (cz.) razić; (rz.) blask
+[de-aerate]de-aerate (EN) : (cz.) odpowietrzać
+[de-emulsification]de-emulsification (EN) : (rz.) demulgowanie
+[de-emulsifier]de-emulsifier (EN) : (rz.) demulgator
+[deacon]deacon (EN) : (rz.) diakon; (rz.) dziekan
+[deaconess]deaconess (EN) : (rz.) diakonisa
+[deactivate]deactivate (EN) : (cz.) dezaktywować; (cz.) odłączyć; (cz.) przerywać; (cz.) uchylać; (cz.) wstrzymać; (cz.) znosić
+[deactivation]deactivation (EN) : (rz.) dezaktywacja
+[dead]dead (EN) : (p.) głuchy; (p.) martwy; (p.) nieczynny; (p.) nieruchomy; (p.) nieżywy; (p.) pewny; (p.) zmarły; (p-sł.) całkowicie; (rz.) martwe; (rz.) martwienie; (rz.) martwota; (rz.) nieboszczyk; (rz.) panichida
+[dead-beat]dead-beat (EN) : (p.) bezodrzutowy; (p.) tłumiony
+[dead-eye]dead-eye (EN) : (rz.) jufers
+[dead-on-arrival]dead-on-arrival (EN) : (p.) wybrakowany
+[deaden]deaden (EN) : (cz.) łagodzić; (cz.) przytępiać; (cz.) tłumić; (cz.) zagłuszać
+[deadener]deadener (EN) : (p.) dźwiękochłonny
+[deadline]deadline (EN) : (rz.) termin
+[deadliness]deadliness (EN) : (rz.) śmiertelność
+[deadlock]deadlock (EN) : (rz.) blokada; (rz.) impas; (rz.) zakleszczenie; (rz.) zastój
+[deadly]deadly (EN) : (p.) morderczy; (p.) śmiercionośny; (p.) śmiertelny; (p.) zabójczy
+[deadness]deadness (EN) : (rz.) martwota
+[deadweight]deadweight (EN) : (rz.) nośność; (rz.) obciążnik
+[deadwood]deadwood (EN) : (rz.) dejwud
+[deaf]deaf (EN) : (p.) głuchy
+[deaf-and-dumb]deaf-and-dumb (EN) : (p.) głuchoniemy
+[deafen]deafen (EN) : (cz.) ogłuszać; (cz.) ogłuszyć
+[deafening]deafening (EN) : (p.) huczny; (p.) ogłuszający
+[deafeningly]deafeningly (EN) : (p-sł.) ogłuszająco
+[deafness]deafness (EN) : (rz.) głuchota
+[deal]deal (EN) : (cz.) dotyczyć; (cz.) handlować; (cz.) kontaktować; (cz.) obdzielać; (cz.) rozdać; (cz.) rozdawać; (cz.) rozdzielać; (cz.) rozprawiać; (cz.) traktować; (cz.) uporać; (cz.) zadawać; (cz.) załatwiać; (rz.) bal; (rz.) ilość; (rz.) interes; (rz.) mnóstwo; (rz.) porozumienie; (rz.) sprawa; (rz.) tarcica; (rz.) transakcja; (rz.) zgoda
+[dealer]dealer (EN) : (rz.) diler; (rz.) handlarz; (rz.) handlowiec; (rz.) krupier; (rz.) kupiec; (rz.) makler; (rz.) rzemieślnik
+[dealership]dealership (EN) : (rz.) kupiectwo
+[dealing]dealing (EN) : (rz.) handlowanie; (rz.) postępowanie; (rz.) traktowanie; (rz.) uporanie
+[dealings]dealings (EN) : (rz.) proceder
+[dean]dean (EN) : (rz.) dziekan
+[deanery]deanery (EN) : (rz.) dekanat; (rz.) dziekanat
+[deanship]deanship (EN) : (rz.) dziekanat
+[dear]dear (EN) : (p.) drogi; (p.) kosztowny; (p.) miły; (p.) szanowny; (rz.) kochanie
+[dearly]dearly (EN) : (p-sł.) drogo; (p-sł.) serdecznie
+[dearness]dearness (EN) : (rz.) drożyzna; (rz.) serdeczność
+[dearth]dearth (EN) : (rz.) brak; (rz.) drożyzna; (rz.) nędza; (rz.) niedostatek; (rz.) śmierć; (rz.) zgon
+[death]death (EN) : (rz.) kostucha; (rz.) pogrzeb; (rz.) śmierć; (rz.) zgon
+[death-trap]death-trap (EN) : (rz.) mordownia
+[deathless]deathless (EN) : (p.) nieśmiertelny
+[deathly]deathly (EN) : (p.) śmiertelny; (p.) trupi
+[debacle]debacle (EN) : (rz.) klęska; (rz.) rozgromienie
+[debar]debar (EN) : (cz.) pozbawiać; (cz.) pozbawić; (cz.) wykluczyć; (cz.) zakazywać
+[debark]debark (EN) : (cz.) okorowywać; (cz.) wylądować; (cz.) wyładować; (cz.) wysadzać
+[debarkation]debarkation (EN) : (rz.) lądowanie; (rz.) wylądowanie; (rz.) wyładowanie; (rz.) wyładunek
+[debase]debase (EN) : (cz.) deprecjonować; (cz.) obniżać; (cz.) poniżać; (cz.) upodlić
+[debasement]debasement (EN) : (rz.) deprecjacja; (rz.) upodlenie
+[debatable]debatable (EN) : (p.) dyskusyjny; (p.) sporny; (p.) wątpliwy
+[debate]debate (EN) : (cz.) debatować; (cz.) dyskutować; (cz.) obmyślać; (cz.) omawiać; (rz.) debata; (rz.) dyskusja
+[debater]debater (EN) : (rz.) argumentator; (rz.) dyskutant
+[debauch]debauch (EN) : (cz.) psuć; (cz.) wypaczyć; (cz.) zdeprawować; (rz.) rozpusta
+[debauched]debauched (EN) : (p.) rozpustny
+[debauchee]debauchee (EN) : (rz.) rozpustnik
+[debauchery]debauchery (EN) : (rz.) rozpasanie; (rz.) rozpusta; (rz.) wyuzdanie
+[debenture]debenture (EN) : (rz.) obligacja
+[debilitate]debilitate (EN) : (cz.) osłabiać; (cz.) osłabić; (cz.) osłaniać; (cz.) paraliżować
+[debility]debility (EN) : (rz.) debilizm; (rz.) niemoc; (rz.) słabość
+[debit]debit (EN) : (cz.) obciążać; (rz.) debet
+[debonair]debonair (EN) : (p.) elegancki; (p.) jowialny; (p.) wytworny
+[debouch]debouch (EN) : (cz.) wymaszerować
+[debrief]debrief (EN) : (cz.) egzaminować; (cz.) wypytywać
+[debris]debris (EN) : (rz.) gruz; (rz.) osad; (rz.) rumowisko; (rz.) szczątki; (rz.) złom
+[debt]debt (EN) : (rz.) dług; (rz.) wierzytelność; (rz.) zadłużanie; (rz.) zadłużenie
+[debtor]debtor (EN) : (rz.) dłużnik
+[debug]debug (EN) : (cz.) czyścić; (cz.) odpluskwiać; (cz.) uruchamiać; (cz.) usuwać; (cz.) uzdatniać
+[debunk]debunk (EN) : (cz.) demaskować; (cz.) obalać; (cz.) odbrązawiać
+[debus]debus (EN) : (cz.) wyładowywać
+[debut]debut (EN) : (rz.) debiut
+[debutant]debutant (EN) : (rz.) debiutant
+[debutante]debutante (EN) : (rz.) debiutant
+[decade]decade (EN) : (rz.) dekada; (rz.) dziesięciolecie
+[decadence]decadence (EN) : (rz.) dekadencja; (rz.) schyłek; (rz.) upadek
+[decadency]decadency (EN) : (rz.) dekadencja; (rz.) dekadentyzm; (rz.) schyłek; (rz.) upadek
+[decadent]decadent (EN) : (p.) dekadencki; (p.) schyłkowy; (rz.) dekadent; (rz.) schyłkowiec
+[decaffeinated]decaffeinated (EN) : (p.) bezkofeinowy
+[decagon]decagon (EN) : (rz.) dziesięciobok; (rz.) dziesięciokąt
+[decagram]decagram (EN) : (rz.) dekagram; (rz.) deko
+[decahedron]decahedron (EN) : (rz.) dziesięciościan
+[decal]decal (EN) : (p.) dziesiątkowy; (rz.) kalkomania
+[decalcification]decalcification (EN) : (rz.) odwapnianie; (rz.) odwapnienie
+[decalcify]decalcify (EN) : (cz.) odwapniać; (cz.) odwapnić
+[decalcomania]decalcomania (EN) : (rz.) dekalkomania; (rz.) kalkomania
+[decamp]decamp (EN) : (cz.) uciekać
+[decanal]decanal (EN) : (p.) dziekański
+[decant]decant (EN) : (cz.) dekantować; (cz.) scedzić
+[decanter]decanter (EN) : (rz.) dekanter; (rz.) karafka; (rz.) odstojnik
+[decapitate]decapitate (EN) : (cz.) ścinać; (cz.) ucinać
+[decapitation]decapitation (EN) : (rz.) dekapitacja
+[decarbonisation]decarbonisation (EN) : (rz.) dekarbonizacja
+[decarbonising]decarbonising (EN) : (rz.) dekarbonizacja
+[decarburization]decarburization (EN) : (rz.) odwęglanie
+[decarburize]decarburize (EN) : (cz.) odwęglać; (cz.) świeżyć
+[decay]decay (EN) : (cz.) butwieć; (cz.) gnić; (cz.) marnieć; (cz.) niszczeć; (cz.) podupadać; (cz.) psuć; (cz.) rozkładać; (cz.) rozpadać; (cz.) spróchnieć; (cz.) walić; (cz.) zetleć; (rz.) gnicie; (rz.) niszczenie; (rz.) obumarcie; (rz.) podupadanie; (rz.) próchnica; (rz.) próchnienie; (rz.) rozkład; (rz.) rozpad; (rz.) upadek; (rz.) uszkodzenie; (rz.) uwiąd; (rz.) zamieranie; (rz.) zgnicie; (rz.) zgnilizna
+[decease]decease (EN) : (cz.) umierać; (cz.) umrzeć; (rz.) śmierć; (rz.) zgon
+[deceased]deceased (EN) : (p.) zmarły
+[decedent]decedent (EN) : (rz.) nieboszczyk
+[deceit]deceit (EN) : (rz.) fałsz; (rz.) łgarstwo; (rz.) oszukiwanie; (rz.) oszustwo
+[deceitful]deceitful (EN) : (p.) judaszowy; (p.) kłamliwy; (p.) oszukańczy; (p.) podstępny
+[deceitfully]deceitfully (EN) : (p-sł.) kłamliwie; (p-sł.) nieuczciwie
+[deceitfulness]deceitfulness (EN) : (rz.) kłamliwość; (rz.) oszukaństwo
+[deceive]deceive (EN) : (cz.) mamić; (cz.) okłamać; (cz.) okłamywać; (cz.) omamiać; (cz.) omamić; (cz.) oszukiwać; (cz.) zwieść; (cz.) zwodzić
+[deceiver]deceiver (EN) : (rz.) kłamca; (rz.) mistyfikator; (rz.) oszust
+[decelerate]decelerate (EN) : (cz.) zmniejszyć; (cz.) zwalniać
+[deceleration]deceleration (EN) : (rz.) opóźnienie
+[decency]decency (EN) : (rz.) obyczajność; (rz.) przyzwoitość
+[decent]decent (EN) : (p.) godziwy; (p.) obyczajny; (p.) porządny; (p.) przyzwoity
+[decently]decently (EN) : (p-sł.) przyzwoicie
+[decentralization]decentralization (EN) : (rz.) decentralizacja
+[decentralize]decentralize (EN) : (cz.) decentralizować; (cz.) zdecentralizować
+[deception]deception (EN) : (rz.) bałamuctwo; (rz.) fałszowanie; (rz.) oszustwo; (rz.) podstęp; (rz.) zwodzenie
+[deceptive]deceptive (EN) : (p.) oszukańczy; (p.) podstępny; (p.) złudny; (p.) zwodniczy
+[deceptively]deceptively (EN) : (p-sł.) zwodniczo
+[deceptiveness]deceptiveness (EN) : (rz.) zawodność; (rz.) zwodniczość
+[decibel]decibel (EN) : (rz.) decybel
+[decidability]decidability (EN) : (rz.) rozstrzygalność
+[decidable]decidable (EN) : (p.) rozstrzygalny
+[decide]decide (EN) : (cz.) decydować; (cz.) postanawiać; (cz.) przesądzać; (cz.) rozstrzygać; (cz.) stwierdzać; (cz.) umyślić; (cz.) uradzać; (cz.) uradzić; (cz.) wybrać; (cz.) zadecydować; (cz.) zdecydować
+[decided]decided (EN) : (p.) bezsporny; (p.) stanowczy; (p.) zdecydowany
+[decidedly]decidedly (EN) : (p-sł.) kategorycznie; (p-sł.) stanowczo
+[deciduous]deciduous (EN) : (p.) liściasty
+[decilitre]decilitre (EN) : (rz.) decylitr
+[decimal]decimal (EN) : (p.) dziesiątkowy; (p.) dziesiętny; (p.) dzietny
+[decimal-to-binary]decimal-to-binary (EN) : (p.) dziesiętno-dwójkowy
+[decimal-to-octal]decimal-to-octal (EN) : (p.) dziesiętno-ósemkowy
+[decimate]decimate (EN) : (cz.) dziesiątkować; (cz.) przerzedzić; (cz.) zdziesiątkować
+[decimation]decimation (EN) : (rz.) dziesiątkowanie; (rz.) zdziesiątkowanie
+[decimetre]decimetre (EN) : (rz.) decymetr
+[decipher]decipher (EN) : (cz.) odcyfrować; (cz.) odcyfrowywać; (cz.) odszyfrować; (cz.) rozszyfrować; (cz.) rozszyfrowywać
+[decipherment]decipherment (EN) : (rz.) deszyfrowanie; (rz.) odcyfrowanie; (rz.) odszyfrowanie
+[decision]decision (EN) : (rz.) decyzja; (rz.) postanowienie; (rz.) rozstrzygnięcie; (rz.) uchwała; (rz.) ustalenie; (rz.) zdecydowanie
+[decision-maker]decision-maker (EN) : (rz.) decydent
+[decision-making]decision-making (EN) : (rz.) decydowanie
+[decisive]decisive (EN) : (p.) decydujący; (p.) przełomowy; (p.) stanowczy
+[decisively]decisively (EN) : (p-sł.) decydująco
+[decisiveness]decisiveness (EN) : (rz.) rezolutność; (rz.) stanowczość; (rz.) zdecydowanie
+[deck]deck (EN) : (cz.) pokrywać; (cz.) stroić; (cz.) upiększać; (cz.) zdobić; (rz.) piętro; (rz.) pokład; (rz.) poziom; (rz.) talia; (rz.) ustrojenie
+[deckchair]deckchair (EN) : (rz.) leżak
+[deckhand]deckhand (EN) : (rz.) majtek
+[declaim]declaim (EN) : (cz.) deklamować; (cz.) gardłować; (cz.) przemawiać
+[declaimer]declaimer (EN) : (rz.) deklamator
+[declamation]declamation (EN) : (rz.) deklamacja; (rz.) deklamowanie
+[declamatory]declamatory (EN) : (p.) deklamatorski; (p.) recytatorski
+[declaration]declaration (EN) : (rz.) deklaracja; (rz.) oświadczenie; (rz.) oświadczyny; (rz.) oznajmienie; (rz.) wypowiedzenie; (rz.) wyznanie
+[declarative]declarative (EN) : (p.) deklaracyjny; (p.) deklaratywny
+[declaratory]declaratory (EN) : (p.) deklaratywny
+[declare]declare (EN) : (cz.) deklarować; (cz.) licytować; (cz.) ogłaszać; (cz.) oświadczać; (cz.) oświadczyć; (cz.) oznajmiać; (cz.) twierdzić; (cz.) wypowiadać; (cz.) zadeklarować; (cz.) zgłaszać
+[declared]declared (EN) : (p.) stanowczy
+[declass]declass (EN) : (cz.) degradować; (cz.) deklasować; (cz.) zdeklasować
+[declassification]declassification (EN) : (rz.) odtajnienie
+[declassify]declassify (EN) : (cz.) odtajnić; (cz.) ujawniać; (cz.) ujawnić
+[declension]declension (EN) : (rz.) deklinacja; (rz.) odchylenie
+[declinable]declinable (EN) : (p.) odmienny
+[declination]declination (EN) : (rz.) deklinacja; (rz.) zboczenie
+[decline]decline (EN) : (cz.) biednieć; (cz.) blaknąć; (cz.) chylić; (cz.) deklinować; (cz.) obniżać; (cz.) odrzucać; (cz.) odrzucić; (cz.) opadać; (cz.) płowieć; (cz.) pochylać; (cz.) podupadać; (cz.) zanikać; (cz.) zginać; (cz.) zmaleć; (cz.) zmniejszać; (rz.) odmiana; (rz.) pogorszenie; (rz.) spadek; (rz.) suchoty; (rz.) zanik
+[declining]declining (EN) : (p.) schyłkowy; (p.) spadkowy
+[declinometer]declinometer (EN) : (rz.) deklinator
+[declivitous]declivitous (EN) : (p.) spadzisty
+[declivity]declivity (EN) : (rz.) pochyłość; (rz.) stok
+[declutch]declutch (EN) : (cz.) wyprzęgać
+[decoct]decoct (EN) : (cz.) warzyć
+[decoction]decoction (EN) : (rz.) odwar; (rz.) wywar
+[decode]decode (EN) : (cz.) dekodować; (cz.) odcyfrować; (cz.) odczytać; (cz.) pobrać; (cz.) rozkodować; (cz.) rozszyfrować; (cz.) rozszyfrowywać; (cz.) zdekodować
+[decoder]decoder (EN) : (rz.) dekoder
+[decolonization]decolonization (EN) : (rz.) dekolonizacja
+[decolorize]decolorize (EN) : (cz.) odbarwiać
+[decolour]decolour (EN) : (cz.) odbarwiać
+[decolourisation]decolourisation (EN) : (rz.) odbarwianie
+[decolourize]decolourize (EN) : (cz.) odbarwiać
+[decolourizer]decolourizer (EN) : (rz.) podbarwiacz
+[decommission]decommission (EN) : (cz.) demobilizować; (cz.) rozbrajać
+[decommissioning]decommissioning (EN) : (p.) likwidacyjny; (rz.) likwidacja
+[decompiling]decompiling (EN) : (rz.) dekompilacja
+[decompose]decompose (EN) : (cz.) dekomponować; (cz.) dysocjować; (cz.) gnić; (cz.) rozkładać; (cz.) rozpadać; (cz.) rozpuszczać
+[decomposition]decomposition (EN) : (rz.) dekompozycja; (rz.) rozkład; (rz.) rozpad
+[decompress]decompress (EN) : (cz.) rozprężać
+[decompression]decompression (EN) : (rz.) dekompresja; (rz.) odprężenie
+[decontaminate]decontaminate (EN) : (cz.) dekontaminować; (cz.) dezaktywować; (cz.) odkażać
+[decontamination]decontamination (EN) : (rz.) dekontaminacja; (rz.) odkażanie; (rz.) odkażenie
+[decontrol]decontrol (EN) : (rz.) zwolnienie
+[decor]decor (EN) : (rz.) dekoracja; (rz.) wykończenie; (rz.) wystrój
+[decorate]decorate (EN) : (cz.) dekorować; (cz.) krasić; (cz.) malować; (cz.) odnawiać; (cz.) odnowić; (cz.) ozdabiać; (cz.) ozdobić; (cz.) przyozdobić; (cz.) udekorować
+[decoration]decoration (EN) : (rz.) dekoracja; (rz.) dekorowanie; (rz.) odznaczenie; (rz.) order; (rz.) ozdoba; (rz.) wykończenie; (rz.) wystrój; (rz.) zdobienie
+[decorative]decorative (EN) : (p.) dekoracyjny; (p.) ornamentalny; (p.) ozdobny; (p.) zdobniczy; (rz.) dekoracyjność
+[decoratively]decoratively (EN) : (p-sł.) ozdobnie
+[decorator]decorator (EN) : (rz.) dekorator; (rz.) malarz; (rz.) tapeciarz; (rz.) tapicer
+[decorous]decorous (EN) : (p.) obyczajny; (p.) odpowiedni; (p.) przyzwoity; (p.) stosowny
+[decorticate]decorticate (EN) : (cz.) łuszczyć
+[decorticator]decorticator (EN) : (rz.) dekortykator; (rz.) łuszczarka
+[decorum]decorum (EN) : (rz.) obyczajność; (rz.) przyzwoitość
+[decoupling]decoupling (EN) : (rz.) odprzęganie
+[decoy]decoy (EN) : (cz.) mamić; (cz.) odciągać; (cz.) wabić; (cz.) zwabiać; (cz.) zwabić; (cz.) zwodzić; (rz.) przynęta; (rz.) pułapka; (rz.) wabik
+[decrease]decrease (EN) : (cz.) maleć; (cz.) obniżać; (cz.) obniżyć; (cz.) opadać; (cz.) pomniejszać; (cz.) spadać; (cz.) ubywać; (cz.) zmniejszać; (cz.) zmniejszyć; (rz.) obniżenie; (rz.) spadek; (rz.) ubytek; (rz.) zmniejszenie
+[decree]decree (EN) : (cz.) dekretować; (cz.) postanawiać; (cz.) rozporządzać; (cz.) uchwalać; (cz.) zarządzać; (rz.) dekret; (rz.) dekretowanie; (rz.) postanowienie; (rz.) rozporządzenie; (rz.) wyrok
+[decrement]decrement (EN) : (rz.) dekrement; (rz.) dekrementacja; (rz.) ubytek
+[decremented]decremented (EN) : (rz.) dekrement; (rz.) zanikanie
+[decrementing]decrementing (EN) : (rz.) dekrementacja; (rz.) zmniejszanie
+[decrements]decrements (EN) : (rz.) dekrement
+[decrepitude]decrepitude (EN) : (rz.) cherlactwo; (rz.) uwiąd; (rz.) zniedołężnienie; (rz.) zniszczenie
+[decretory]decretory (EN) : (p.) dekretowy
+[decry]decry (EN) : (cz.) oczerniać; (cz.) oczernić; (cz.) okrzyczeć; (cz.) potępiać; (cz.) zniesławiać; (cz.) zniesławić
+[decrypt]decrypt (EN) : (cz.) dekodować; (cz.) deszyfrować; (cz.) odszyfrować; (cz.) odszyfrowywać; (cz.) rozszyfrować
+[decrypted]decrypted (EN) : (rz.) odszyfrowanie
+[decrypting]decrypting (EN) : (rz.) deszyfrowanie
+[decryption]decryption (EN) : (rz.) deszyfracja; (rz.) deszyfrowanie; (rz.) odszyfrowanie; (rz.) rozszyfrowanie
+[decuple]decuple (EN) : (rz.) dziesięciokrotność
+[dedicate]dedicate (EN) : (cz.) dedykować; (cz.) oddać; (cz.) ofiarować; (cz.) poświęcać; (cz.) poświęcić; (cz.) przeznaczać; (cz.) zadedykować
+[dedicated]dedicated (EN) : (p.) dedykowany; (p.) oddany; (p.) ofiarny; (p.) specjalny
+[dedication]dedication (EN) : (rz.) dedykacja; (rz.) gorliwość; (rz.) oddanie; (rz.) ofiarność; (rz.) poświęcenie
+[dedicatory]dedicatory (EN) : (p.) dedykacyjny
+[deduce]deduce (EN) : (cz.) dedukować; (cz.) wnioskować; (cz.) wyprowadzać; (cz.) wyprowadzić; (cz.) wywnioskować
+[deduct]deduct (EN) : (cz.) odciągać; (cz.) odejmować; (cz.) odliczać; (cz.) odliczyć; (cz.) pomniejszać; (cz.) potrącać; (cz.) potrącić
+[deduction]deduction (EN) : (rz.) dedukcja; (rz.) obniżka; (rz.) odejmowanie; (rz.) odliczenie; (rz.) pomniejszenie; (rz.) potrącenie; (rz.) rabat; (rz.) wniosek; (rz.) wnioskowanie; (rz.) wywód
+[deductive]deductive (EN) : (p.) dedukcyjny
+[deductively]deductively (EN) : (p-sł.) dedukcyjnie
+[deed]deed (EN) : (rz.) czyn; (rz.) dzieło; (rz.) uczynek
+[deem]deem (EN) : (cz.) mniemać; (cz.) poczytywać; (cz.) sądzić; (cz.) uważać
+[deep]deep (EN) : (p.) głęboki; (p.) intensywny; (p.) nałogowy; (p.) niski; (p.) poważny; (p.) sromotny; (p.) wielki; (p.) wnikliwy; (p-sł.) głęboko; (rz.) głębia; (rz.) głębokość; (rz.) wiedza
+[deep-blue]deep-blue (EN) : (p.) modry
+[deep-sea]deep-sea (EN) : (p.) dalekomorski; (p.) głębinowy
+[deep-seated]deep-seated (EN) : (p.) głęboki; (p.) wgłębny
+[deepen]deepen (EN) : (cz.) pogłębiać; (cz.) pogłębić
+[deeply]deeply (EN) : (p-sł.) głęboko
+[deepness]deepness (EN) : (rz.) głębia; (rz.) głębokość
+[deer]deer (EN) : (rz.) jeleń; (rz.) łania; (rz.) rogacz; (rz.) sarna
+[deer-hound]deer-hound (EN) : (rz.) ogar
+[deer-lick]deer-lick (EN) : (rz.) lizawka
+[deerhound]deerhound (EN) : (rz.) ogar
+[deerskin]deerskin (EN) : (rz.) ircha
+[deface]deface (EN) : (cz.) niszczyć; (cz.) szpecić; (cz.) zamazywać
+[defacement]defacement (EN) : (rz.) zeszpecenie
+[defalcate]defalcate (EN) : (cz.) defraudować; (cz.) sprzeniewierzać
+[defalcation]defalcation (EN) : (rz.) defraudacja; (rz.) sprzeniewierzenie
+[defamation]defamation (EN) : (rz.) oczernianie; (rz.) zniesławienie
+[defamatory]defamatory (EN) : (p.) oszczerczy; (p.) potwarczy
+[defame]defame (EN) : (cz.) oczerniać; (cz.) szkalować; (cz.) uwłaczać; (cz.) zniesławiać; (cz.) zniesławić
+[defamer]defamer (EN) : (rz.) oszczerca
+[default]default (EN) : (cz.) odmawiać; (p.) domyślny; (p.) standardowy; (p.) zaoczny; (rz.) brak; (rz.) nieobecność; (rz.) uchybienie; (rz.) walkower; (rz.) zaniedbanie
+[defaulter]defaulter (EN) : (rz.) defraudant
+[defeasance]defeasance (EN) : (rz.) anulowanie; (rz.) unieważnienie
+[defeat]defeat (EN) : (cz.) odrzucać; (cz.) pobić; (cz.) pokonać; (cz.) rozbijać; (cz.) skasować; (cz.) uchylić; (cz.) zawodzić; (rz.) kasacja; (rz.) klęska; (rz.) porażka; (rz.) wada; (rz.) zniszczenie
+[defeatism]defeatism (EN) : (rz.) defetyzm
+[defeatist]defeatist (EN) : (p.) defetystyczny; (rz.) defetysta
+[defecate]defecate (EN) : (cz.) defekować; (cz.) srać; (cz.) wypróżniać
+[defecation]defecation (EN) : (rz.) defekacja; (rz.) oczyszczenie; (rz.) wypróżnienie
+[defect]defect (EN) : (cz.) odłączać; (cz.) uciekać; (rz.) błąd; (rz.) brak; (rz.) defekt; (rz.) feler; (rz.) niedomaganie; (rz.) przywara; (rz.) skaza; (rz.) usterka; (rz.) wada
+[defection]defection (EN) : (rz.) dezercja; (rz.) odłączenie; (rz.) odstępstwo; (rz.) wystąpienie; (rz.) zdrada
+[defective]defective (EN) : (p.) defektowy; (p.) niepełnowartościowy; (p.) ułomny; (p.) wadliwie; (p.) wadliwy
+[defectively]defectively (EN) : (p-sł.) ułomnie
+[defectiveness]defectiveness (EN) : (rz.) defekt; (rz.) wadliwość
+[defector]defector (EN) : (rz.) dezerter; (rz.) odstępca; (rz.) uciekinier
+[defence]defence (EN) : (rz.) defensywa; (rz.) obrona; (rz.) obrońca; (rz.) osłona
+[defenceless]defenceless (EN) : (p.) bezbronny
+[defences]defences (EN) : (rz.) umocnienia
+[defend]defend (EN) : (cz.) bronić; (cz.) obronić; (cz.) podtrzymywać; (cz.) wspierać
+[defender]defender (EN) : (rz.) maszyna; (rz.) obrońca
+[defenestration]defenestration (EN) : (rz.) defenestracja
+[defensible]defensible (EN) : (p.) obronny
+[defensive]defensive (EN) : (p.) defensywny; (p.) obronny; (rz.) defensywa
+[defensively]defensively (EN) : (p-sł.) defensywnie
+[defer]defer (EN) : (cz.) odraczać; (cz.) odroczyć; (cz.) ulegać
+[deference]deference (EN) : (rz.) atencja; (rz.) poważanie; (rz.) szacunek; (rz.) uleganie; (rz.) uległość; (rz.) wzgląd
+[deferential]deferential (EN) : (p.) szacowny
+[deferment]deferment (EN) : (rz.) odroczenie; (rz.) odwleczenie; (rz.) zwlekanie
+[deferral]deferral (EN) : (rz.) odroczenie
+[defiance]defiance (EN) : (rz.) krnąbrność; (rz.) opór; (rz.) wezwanie; (rz.) wyzwanie
+[defiant]defiant (EN) : (p.) buntowniczy; (p.) czupurny; (p.) krnąbrny; (p.) nieposłuszny; (p.) nieustępliwy; (p.) oporny; (p.) prowokujący; (p.) zadziorny
+[defiantly]defiantly (EN) : (p-sł.) wyzywająco
+[defibrillator]defibrillator (EN) : (rz.) defibrylator
+[deficiency]deficiency (EN) : (rz.) brak; (rz.) deficyt; (rz.) niedobór; (rz.) niedomiar; (rz.) niedostatek; (rz.) niepowodzenie; (rz.) niewystarczalność; (rz.) słabość
+[deficient]deficient (EN) : (p.) brakujący; (p.) niekompletny; (p.) niepełny; (p.) oporny; (p.) wadliwy
+[deficit]deficit (EN) : (rz.) deficyt; (rz.) niedobór
+[defile]defile (EN) : (cz.) defilować; (cz.) kalać; (cz.) przedefilować; (cz.) zanieczyścić; (cz.) zanieczyszczać; (rz.) wąwóz
+[defilement]defilement (EN) : (rz.) skalanie; (rz.) zbezczeszczenie
+[defiler]defiler (EN) : (rz.) profanator
+[definable]definable (EN) : (p.) definiowalny
+[define]define (EN) : (cz.) charakteryzować; (cz.) definiować; (cz.) określać; (cz.) określić; (cz.) zdefiniować; (cz.) zdeterminować
+[definite]definite (EN) : (p.) dokładny; (p.) określony; (p.) ostateczny; (p.) wyraźny
+[definitely]definitely (EN) : (p-sł.) definitywnie; (p-sł.) oczywiście; (p-sł.) wyraźnie
+[definiteness]definiteness (EN) : (rz.) precyzja
+[definition]definition (EN) : (rz.) definicja; (rz.) definiowanie; (rz.) określenie; (rz.) rozdzielczość
+[definitional]definitional (EN) : (p.) definicyjny
+[definitive]definitive (EN) : (p.) definitywny; (p.) ostateczny; (p.) stanowczy
+[deflagration]deflagration (EN) : (rz.) deflagracja
+[deflate]deflate (EN) : (cz.) sflaczeć
+[deflation]deflation (EN) : (rz.) deflacja
+[deflationary]deflationary (EN) : (p.) deflacyjny
+[deflect]deflect (EN) : (cz.) odchylać; (cz.) odginać; (cz.) odpierać; (cz.) załamywać; (cz.) zbaczać
+[deflection]deflection (EN) : (rz.) odchylanie; (rz.) odchylenie; (rz.) skręcenie; (rz.) ugięcie; (rz.) uginanie; (rz.) wychylenie; (rz.) zagięcie; (rz.) załamywanie; (rz.) zboczenie
+[deflector]deflector (EN) : (rz.) deflektor; (rz.) odrzutnik; (rz.) owiewka
+[defloration]defloration (EN) : (rz.) defloracja
+[deflower]deflower (EN) : (cz.) zdeflorować
+[defog]defog (EN) : (cz.) odparować
+[defogger]defogger (EN) : (rz.) nadmuch
+[defoliation]defoliation (EN) : (rz.) defoliacja
+[deforest]deforest (EN) : (cz.) wylesiać
+[deforestation]deforestation (EN) : (rz.) deforestacja; (rz.) wylesianie
+[deform]deform (EN) : (cz.) deformować; (cz.) odkształcać; (cz.) okaleczyć; (cz.) oszpecić; (cz.) pokurczyć; (cz.) zdeformować; (cz.) zniekształcać; (cz.) zniekształcić
+[deformability]deformability (EN) : (rz.) odkształcalność
+[deformable]deformable (EN) : (p.) odkształcalny
+[deformation]deformation (EN) : (rz.) deformacja; (rz.) zdeformowanie; (rz.) zniekształcenie
+[deformed]deformed (EN) : (p.) nieforemny
+[deformity]deformity (EN) : (rz.) brzydota; (rz.) deformacja; (rz.) kalectwo; (rz.) nieforemność; (rz.) niekształtność; (rz.) zniekształcenie
+[defraud]defraud (EN) : (cz.) okradać; (cz.) oszukać; (cz.) oszukiwać; (cz.) pozbawiać; (cz.) wyłudzać
+[defrauder]defrauder (EN) : (rz.) defraudant
+[defray]defray (EN) : (cz.) opędzać; (cz.) opłacać; (cz.) pokrywać
+[defrayal]defrayal (EN) : (rz.) opłata
+[defrost]defrost (EN) : (cz.) odmarzać; (cz.) odmrażać; (cz.) odmrozić; (cz.) rozmrażać
+[defroster]defroster (EN) : (rz.) odmrażacz
+[defrosting]defrosting (EN) : (rz.) odmrożenie; (rz.) rozmrażanie
+[deft]deft (EN) : (p.) udatny; (p.) zgrabny; (p.) zręczny; (p.) zwinny
+[deftly]deftly (EN) : (p-sł.) sprawnie; (p-sł.) zręcznie; (p-sł.) zwinnie
+[deftness]deftness (EN) : (rz.) udatność; (rz.) wprawność; (rz.) zgrabność; (rz.) zwinność
+[defunct]defunct (EN) : (p.) martwy
+[defuse]defuse (EN) : (cz.) rozbrajać; (cz.) rozładowywać
+[defy]defy (EN) : (cz.) opierać; (cz.) przeciwstawiać; (cz.) przeciwstawić; (cz.) sprzeciwiać; (cz.) sprzeciwić; (cz.) wyzywać
+[degas]degas (EN) : (cz.) odgazować; (cz.) odgazowywać
+[degasification]degasification (EN) : (rz.) odgazowywanie
+[degasify]degasify (EN) : (cz.) odgazowywać
+[degasifying]degasifying (EN) : (rz.) odgazowywanie
+[degassed]degassed (EN) : (rz.) odgazowywanie
+[degassing]degassing (EN) : (rz.) odgazowanie; (rz.) odgazowywanie
+[degeneracy]degeneracy (EN) : (rz.) degeneracja; (rz.) upadek; (rz.) zdegradowanie; (rz.) zwyrodnienie
+[degenerate]degenerate (EN) : (cz.) degenerować; (cz.) przerodzić; (cz.) wyradzać; (cz.) wyrodnieć; (cz.) zdegenerować; (cz.) zwyrodnieć; (p.) wyrodny; (p.) zdegenerowany; (rz.) degenerat; (rz.) wyrodek; (rz.) zwyrodnialec
+[degeneration]degeneration (EN) : (rz.) degeneracja; (rz.) wynaturzenie; (rz.) zwyrodnienie
+[degenerative]degenerative (EN) : (p.) zwyrodnieniowy
+[deglutination]deglutination (EN) : (rz.) odklejanie; (rz.) odlepianie
+[degradation]degradation (EN) : (rz.) degradacja; (rz.) obniżenie; (rz.) pogorszenie; (rz.) poniżanie; (rz.) poniżenie; (rz.) upadek; (rz.) upodlenie; (rz.) znikczemnienie
+[degrade]degrade (EN) : (cz.) degradować; (cz.) poniżać; (cz.) spodlić; (cz.) upadlać
+[degrease]degrease (EN) : (cz.) odtłuścić; (cz.) odtłuszczać
+[degreaser]degreaser (EN) : (rz.) odtłuszczacz
+[degreasing]degreasing (EN) : (rz.) odtłuszczenie
+[degree]degree (EN) : (rz.) cecha; (rz.) gatunek; (rz.) jednostka; (rz.) poziom; (rz.) stopień; (rz.) walor
+[dehumanization]dehumanization (EN) : (rz.) dehumanizacja
+[dehumidification]dehumidification (EN) : (rz.) osuszanie
+[dehumidifier]dehumidifier (EN) : (rz.) odwilżacz; (rz.) osuszacz
+[dehumidify]dehumidify (EN) : (cz.) osuszać
+[dehydrate]dehydrate (EN) : (cz.) odwadniać; (cz.) odwodniać; (cz.) odwodnić
+[dehydration]dehydration (EN) : (rz.) dehydratacja; (rz.) odwadnianie; (rz.) odwodnienie
+[dehydrator]dehydrator (EN) : (rz.) odwadniacz
+[dehydrogenation]dehydrogenation (EN) : (rz.) odwodornienie
+[deification]deification (EN) : (rz.) deifikacja; (rz.) ubóstwianie; (rz.) ubóstwienie
+[deify]deify (EN) : (cz.) deifikować; (cz.) ubóstwiać
+[deign]deign (EN) : (cz.) raczyć; (cz.) zechcieć
+[deionization]deionization (EN) : (rz.) dejonizacja
+[deism]deism (EN) : (rz.) deizm
+[deistic]deistic (EN) : (p.) deistyczny
+[deistical]deistical (EN) : (p.) deistyczny
+[deity]deity (EN) : (rz.) bóstwo; (rz.) teologia
+[deject]deject (EN) : (cz.) deprymować; (cz.) przygnębiać; (cz.) zgnębić; (cz.) zniechęcać
+[dejected]dejected (EN) : (p.) ponury
+[dejection]dejection (EN) : (rz.) przygnębienie; (rz.) zniechęcenie
+[delay]delay (EN) : (cz.) guzdrać; (cz.) odkładać; (cz.) odwlekać; (cz.) opóźniać; (cz.) opóźnić; (cz.) przenosić; (cz.) wstrzymywać; (cz.) zwlekać; (rz.) izolacja; (rz.) mitręga; (rz.) odraczanie; (rz.) odwleczenie; (rz.) opóźnianie; (rz.) opóźnienie; (rz.) spóźnienie; (rz.) zaległość; (rz.) zwlekanie; (rz.) zwłoka; (rz.) zwłoki; (cz.) odwlekać; (cz.) opóźniać
+[delayed]delayed (EN) : (p.) opóźniony
+[delayer]delayer (EN) : (rz.) opóźniacz
+[delectable]delectable (EN) : (p.) przemiły; (p.) rozkoszny
+[delectation]delectation (EN) : (rz.) rozkoszowanie
+[delegacy]delegacy (EN) : (rz.) delegacja; (rz.) delegatura; (rz.) wydelegowanie
+[delegate]delegate (EN) : (cz.) delegować; (cz.) powierzać; (cz.) upełnomocniać; (cz.) upełnomocnić; (cz.) uprawnić; (cz.) wydelegować; (cz.) zlecać; (cz.) zlecić; (rz.) delegat
+[delegation]delegation (EN) : (rz.) delegacja; (rz.) delegowanie; (rz.) przekazanie
+[delete]delete (EN) : (cz.) anulować; (cz.) kasować; (cz.) skasować; (cz.) skreślać; (cz.) skreślić; (cz.) usunąć; (cz.) usuwać; (cz.) wymazać; (cz.) znosić
+[deleted]deleted (EN) : (cz.) wykreślić
+[deleterious]deleterious (EN) : (p.) szkodliwy; (p.) ujemny; (p.) zgubny
+[deletion]deletion (EN) : (rz.) skasowanie; (rz.) skreślanie; (rz.) skreślenie; (rz.) usunięcie; (rz.) usuwanie; (rz.) wykreślenie; (rz.) wymazanie
+[delftware]delftware (EN) : (rz.) fajans
+[deli]deli (EN) : (rz.) garmażeria
+[deliberate]deliberate (EN) : (cz.) deliberować; (cz.) naradzać; (cz.) obradować; (cz.) radzić; (cz.) rozmyślać; (cz.) rozważać; (cz.) zastanawiać; (cz.) zastanowić; (p.) celowy; (p.) naumyślny; (p.) rozmyślny; (p.) rozważny; (p.) umyślny
+[deliberately]deliberately (EN) : (p-sł.) celowo; (p-sł.) naumyślnie; (p-sł.) rozmyślnie; (p-sł.) umyślnie
+[deliberateness]deliberateness (EN) : (p.) umyślny; (rz.) rozmyślność
+[deliberation]deliberation (EN) : (rz.) deliberacja; (rz.) narada; (rz.) naradzanie; (rz.) obrady; (rz.) pertraktacja; (rz.) przezorność; (rz.) rozmowa; (rz.) rozwaga; (rz.) rozważanie
+[deliberations]deliberations (EN) : (rz.) obrady
+[deliberative]deliberative (EN) : (p.) opiniodawczy
+[delicacies]delicacies (EN) : (rz.) delicja
+[delicacy]delicacy (EN) : (rz.) delicja; (rz.) delikates; (rz.) delikatność; (rz.) frykas; (rz.) przysmak; (rz.) smakołyk; (rz.) specjał; (rz.) subtelność
+[delicate]delicate (EN) : (p.) czuły; (p.) delikatny; (p.) drobny; (p.) misterny; (p.) wątły
+[delicately]delicately (EN) : (p-sł.) delikatnie; (p-sł.) finezyjnie
+[delicatessen]delicatessen (EN) : (rz.) delikates; (rz.) garmażeria
+[delicious]delicious (EN) : (p.) przemiły; (p.) przepyszny; (p.) pyszny; (p.) rozkoszny; (p.) smaczny; (p.) wyborny; (p.) zachwycający
+[deliciously]deliciously (EN) : (p-sł.) przepysznie
+[delight]delight (EN) : (cz.) cieszyć; (cz.) lubować; (cz.) radować; (cz.) rozkoszować; (cz.) zachwycać; (rz.) admiracja; (rz.) lubość; (rz.) radość; (rz.) rozkosz; (rz.) uciecha; (rz.) zachwyt
+[delighted]delighted (EN) : (p.) zachwycony
+[delightful]delightful (EN) : (p.) błogi; (p.) rozkoszny; (p.) zachwycający
+[delightfully]delightfully (EN) : (p-sł.) pięknie; (p-sł.) rozkosznie
+[delimit]delimit (EN) : (cz.) ograniczać; (cz.) wytyczać
+[delimitate]delimitate (EN) : (cz.) rozgraniczać
+[delimitation]delimitation (EN) : (rz.) delimitacja; (rz.) ograniczenie; (rz.) wyznaczenie
+[delimiter]delimiter (EN) : (rz.) ogranicznik; (rz.) separator
+[delineate]delineate (EN) : (cz.) nakreślać; (cz.) nakreślić; (cz.) opisywać; (cz.) przedstawiać; (cz.) szkicować; (cz.) zarysowywać
+[delineation]delineation (EN) : (rz.) nakreślenie; (rz.) naszkicowanie; (rz.) opis; (rz.) szkic
+[delinquency]delinquency (EN) : (rz.) przestępczość; (rz.) przestępstwo; (rz.) przewinienie; (rz.) wykroczenie
+[delinquent]delinquent (EN) : (p.) przestępczy; (p.) winny; (rz.) delikwent; (rz.) przestępca; (rz.) winowajca
+[delirious]delirious (EN) : (p.) deliryczny
+[delirium]delirium (EN) : (rz.) bredzenie; (rz.) majaczenie; (rz.) szał
+[deliver]deliver (EN) : (cz.) doręczać; (cz.) dostarczać; (cz.) dostarczyć; (cz.) przekazać; (cz.) wręczyć; (cz.) wygłosić
+[deliverance]deliverance (EN) : (rz.) oswobodzenie; (rz.) wybawienie; (rz.) zwolnienie
+[delivered]delivered (EN) : (cz.) ocaleć
+[deliverer]deliverer (EN) : (rz.) doręczyciel; (rz.) dostawca; (rz.) oddawca; (rz.) zbawca
+[delivery]delivery (EN) : (rz.) doprowadzenie; (rz.) doręczenie; (rz.) dostawa; (rz.) dowóz; (rz.) odstawa; (rz.) połóg; (rz.) poród; (rz.) przekazanie; (rz.) przywóz; (rz.) ratunek; (rz.) roznoszenie; (rz.) rozsyłka; (rz.) rozwóz; (rz.) wręczenie; (rz.) wydanie; (rz.) zaopatrzenie; (rz.) zwolnienie
+[dell]dell (EN) : (rz.) dolina; (rz.) kotlina
+[delocalize]delocalize (EN) : (cz.) przenosić
+[delouse]delouse (EN) : (cz.) odwszawić; (cz.) rozminować
+[delphinium]delphinium (EN) : (rz.) ostróżka
+[delta]delta (EN) : (rz.) delta
+[deltaic]deltaic (EN) : (p.) deltowy
+[deltoid]deltoid (EN) : (rz.) deltoid
+[delude]delude (EN) : (cz.) łudzić; (cz.) mamić; (cz.) omamiać; (cz.) omamić; (cz.) zmylać; (cz.) zmylić; (cz.) zwodzić
+[deluge]deluge (EN) : (cz.) zalewać; (rz.) potop; (rz.) zalew
+[delusion]delusion (EN) : (rz.) iluzja; (rz.) łudzenie; (rz.) omamienie; (rz.) oszustwo; (rz.) przywidzenie; (rz.) ułuda; (rz.) złuda; (rz.) złudzenie; (rz.) zwodzenie
+[delusional]delusional (EN) : (p.) urojeniowy
+[delusive]delusive (EN) : (p.) iluzoryczny; (p.) oszukańczy; (p.) zwodniczy
+[delusory]delusory (EN) : (p.) bałamutny; (p.) iluzoryczny; (p.) ułudny
+[deluxe]deluxe (EN) : (p.) luksusowy
+[delve]delve (EN) : (cz.) kopać; (cz.) ryć; (cz.) zagłębiać
+[demagnetising]demagnetising (EN) : (rz.) rozmagnesowanie
+[demagnetization]demagnetization (EN) : (rz.) demagnetyzacja; (rz.) rozmagnesowanie
+[demagnetize]demagnetize (EN) : (cz.) odmagnesować; (cz.) odmagnesowywać; (cz.) rozmagnesować
+[demagogic]demagogic (EN) : (p.) demagogiczny
+[demagogue]demagogue (EN) : (rz.) demagog
+[demagoguery]demagoguery (EN) : (rz.) demagogia
+[demagogy]demagogy (EN) : (rz.) demagogia
+[demand]demand (EN) : (cz.) domagać; (cz.) dopominać; (cz.) pytać; (cz.) rewindykować; (cz.) wymagać; (cz.) zadać; (cz.) żądać; (rz.) popyt; (rz.) potrzebowanie; (rz.) pretensja; (rz.) zadanie; (rz.) żądanie; (rz.) zapotrzebowanie
+[demanding]demanding (EN) : (p.) wymagający
+[demarcate]demarcate (EN) : (cz.) ograniczać; (cz.) rozgraniczać; (cz.) rozgraniczyć
+[demarcation]demarcation (EN) : (rz.) demarkacja; (rz.) rozgraniczenie; (rz.) wytyczenie
+[dematerialization]dematerialization (EN) : (rz.) anihilacja; (rz.) dematerializacja
+[demean]demean (EN) : (cz.) poniżać
+[demeanour]demeanour (EN) : (rz.) postawa; (rz.) postępowanie; (rz.) zachowanie
+[dementia]dementia (EN) : (rz.) demencja
+[demerit]demerit (EN) : (rz.) przewinienie; (rz.) wada; (rz.) zarzut
+[demesne]demesne (EN) : (rz.) majątek; (rz.) nieruchomość; (rz.) własność
+[demigod]demigod (EN) : (rz.) półbóg
+[demijohn]demijohn (EN) : (rz.) balon; (rz.) gąsior
+[demilitarization]demilitarization (EN) : (rz.) demilitaryzacja
+[demilitarize]demilitarize (EN) : (cz.) zdemilitaryzować
+[demimonde]demimonde (EN) : (rz.) półświatek
+[demineralization]demineralization (EN) : (rz.) demineralizacja; (rz.) odmineralizowanie
+[demise]demise (EN) : (rz.) koniec; (rz.) zanik
+[demission]demission (EN) : (rz.) abdykacja; (rz.) dymisja; (rz.) podanie
+[demister]demister (EN) : (rz.) nadmuch
+[demiurge]demiurge (EN) : (rz.) demiurg
+[demo]demo (EN) : (rz.) demo; (rz.) demonstracja; (rz.) pokaz
+[demob]demob (EN) : (cz.) demobilizować; (cz.) zdemobilizować
+[demobilising]demobilising (EN) : (p.) demobilizacyjny
+[demobilization]demobilization (EN) : (rz.) demobilizacja
+[demobilize]demobilize (EN) : (cz.) demobilizować; (cz.) zdemobilizować
+[democracy]democracy (EN) : (rz.) demokracja; (rz.) ludowładztwo
+[democrat]democrat (EN) : (rz.) demokrata
+[democratic]democratic (EN) : (p.) demokratyczny
+[democratically]democratically (EN) : (p-sł.) demokratycznie
+[democratization]democratization (EN) : (rz.) demokratyzacja
+[democratize]democratize (EN) : (cz.) demokratyzować; (cz.) zdemokratyzować
+[demoded]demoded (EN) : (p.) niemodny
+[demodulate]demodulate (EN) : (cz.) demodulować
+[demodulation]demodulation (EN) : (rz.) demodulacja
+[demodulator]demodulator (EN) : (rz.) demodulator
+[demographic]demographic (EN) : (p.) demograficzny
+[demographically]demographically (EN) : (p-sł.) demograficznie
+[demographics]demographics (EN) : (rz.) demografia
+[demography]demography (EN) : (rz.) demografia
+[demolish]demolish (EN) : (cz.) burzyć; (cz.) demolować; (cz.) obalać; (cz.) rozwalać; (cz.) spałaszować; (cz.) walić; (cz.) wyburzać; (cz.) zburzyć
+[demolisher]demolisher (EN) : (rz.) burzyciel
+[demolition]demolition (EN) : (rz.) burzenie; (rz.) rozbiórka; (rz.) wyburzanie; (rz.) wyburzenie; (rz.) zburzenie; (rz.) zniszczenie
+[demon]demon (EN) : (rz.) demon
+[demonetization]demonetization (EN) : (rz.) demonetyzacja
+[demoniac]demoniac (EN) : (p.) demoniczny; (p.) opętańczy
+[demoniacal]demoniacal (EN) : (p.) demoniczny; (p.) opętańczy
+[demonic]demonic (EN) : (p.) demoniczny; (p.) szatański
+[demonically]demonically (EN) : (p-sł.) demonicznie
+[demonize]demonize (EN) : (cz.) demonizować
+[demonized]demonized (EN) : (cz.) demonizować
+[demonology]demonology (EN) : (rz.) demonologia
+[demonstrable]demonstrable (EN) : (p.) widoczny
+[demonstrate]demonstrate (EN) : (cz.) demonstrować; (cz.) dowodzić; (cz.) manifestować; (cz.) pokazywać; (cz.) udowadniać; (cz.) unaoczniać; (cz.) unaocznić; (cz.) uwidaczniać; (cz.) wykazywać; (cz.) zamanifestować
+[demonstration]demonstration (EN) : (rz.) demonstracja; (rz.) dowodzenie; (rz.) manewr; (rz.) manifestacja; (rz.) pokaz; (rz.) zgromadzenie
+[demonstrative]demonstrative (EN) : (p.) demonstracyjny; (p.) dowodowy; (p.) dowodzący; (p.) poglądowy; (p.) wykazujący
+[demonstrator]demonstrator (EN) : (rz.) demonstrant
+[demoralization]demoralization (EN) : (rz.) demoralizacja; (rz.) zdeprawowanie
+[demoralize]demoralize (EN) : (cz.) demoralizować; (cz.) deprawować; (cz.) zdemoralizować; (cz.) zdeprawować; (cz.) znieprawiać
+[demote]demote (EN) : (cz.) degradować; (cz.) zdegradować
+[demotic]demotic (EN) : (p.) demotyczny; (p.) potoczny
+[demotion]demotion (EN) : (rz.) degradacja
+[demount]demount (EN) : (cz.) demontować; (cz.) zsiąść
+[demountable]demountable (EN) : (p.) odejmowany; (p.) rozbieralny
+[demulsify]demulsify (EN) : (cz.) demulgować
+[demur]demur (EN) : (cz.) sprzeciwiać; (rz.) obiekcja; (rz.) sprzeciw; (rz.) wątpliwość
+[demure]demure (EN) : (p.) poważny; (p.) rozważny
+[demurrage]demurrage (EN) : (rz.) postojowe; (rz.) przestój
+[demythologize]demythologize (EN) : (cz.) demitologizować
+[den]den (EN) : (rz.) jaskinia; (rz.) legowisko; (rz.) melina; (rz.) nora; (rz.) pieczara; (rz.) spelunka
+[denary]denary (EN) : (p.) dziesiętny
+[denationalization]denationalization (EN) : (rz.) denacjonalizacja; (rz.) wynarodowienie
+[denationalize]denationalize (EN) : (cz.) reprywatyzować; (cz.) sprywatyzować; (cz.) wynaradawiać
+[denaturalization]denaturalization (EN) : (rz.) denaturalizacja; (rz.) wynaturzenie
+[denaturalize]denaturalize (EN) : (cz.) denaturalizować; (cz.) wynaturzać
+[denature]denature (EN) : (cz.) denaturować
+[denaturing]denaturing (EN) : (rz.) denaturowanie
+[dendrite]dendrite (EN) : (rz.) dendryt
+[dendrologist]dendrologist (EN) : (rz.) dendrolog
+[dendrology]dendrology (EN) : (rz.) dendrologia; (rz.) drzewoznawstwo
+[deniable]deniable (EN) : (p.) sporny; (p.) zaprzeczalny
+[denial]denial (EN) : (rz.) negacja; (rz.) negowanie; (rz.) odmowa; (rz.) odmówienie; (rz.) wyparcie; (rz.) zaprzeczanie; (rz.) zaprzeczenie
+[denied]denied (EN) : (cz.) odmawiać; (cz.) zaprzeczyć
+[denier]denier (EN) : (rz.) denier
+[denigrate]denigrate (EN) : (cz.) obmawiać
+[denigration]denigration (EN) : (rz.) oczernienie; (rz.) wygadywanie
+[denim]denim (EN) : (p.) drelichowy; (rz.) drelich; (rz.) dżins
+[denizen]denizen (EN) : (rz.) mieszkaniec; (rz.) naleciałość; (rz.) obywatel
+[denominate]denominate (EN) : (cz.) nazwać; (cz.) określać; (cz.) określić; (cz.) zwać
+[denomination]denomination (EN) : (rz.) denominacja; (rz.) jednostka; (rz.) kategoria; (rz.) klasa; (rz.) nazwa; (rz.) nazwanie; (rz.) nominał; (rz.) określenie; (rz.) wyznanie
+[denominational]denominational (EN) : (p.) wyznaniowy
+[denominator]denominator (EN) : (rz.) mianownik
+[denotation]denotation (EN) : (rz.) denotacja; (rz.) oznaczenie
+[denotative]denotative (EN) : (p.) wyznaniowy
+[denote]denote (EN) : (cz.) oznaczać
+[denounce]denounce (EN) : (cz.) denuncjować; (cz.) donosić; (cz.) oskarżać; (cz.) wydać; (cz.) wypowiadać; (cz.) wypowiedzieć; (cz.) zadenuncjować
+[denouncement]denouncement (EN) : (rz.) wypowiedzenie
+[dense]dense (EN) : (p.) gęsty; (p.) spoisty; (p.) spójny
+[densely]densely (EN) : (p-sł.) gęsto
+[denseness]denseness (EN) : (rz.) gęstość; (rz.) zwartość
+[densification]densification (EN) : (rz.) zagęszczanie
+[densitometer]densitometer (EN) : (rz.) areometr; (rz.) densymetr; (rz.) densytometr; (rz.) gęstościomierz
+[densitometry]densitometry (EN) : (rz.) densytometria
+[density]density (EN) : (rz.) gęstość; (rz.) skupienie; (rz.) spoistość; (rz.) tępota; (rz.) zaczernienie; (rz.) zagęszczenie; (rz.) zwartość
+[dent]dent (EN) : (cz.) szczerbić; (cz.) wgniatać; (rz.) nacięcie; (rz.) szczerba; (rz.) uszczerbek; (rz.) wgięcie; (rz.) wgniecenie; (rz.) wklęśnięcie
+[dental]dental (EN) : (p.) dentystyczny; (p.) stomatologiczny; (p.) zębny; (p.) zębowy
+[dentally]dentally (EN) : (p-sł.) zębowo
+[dentate]dentate (EN) : (p.) ząbkowany
+[denticulate]denticulate (EN) : (p.) ząbkowany
+[dentil]dentil (EN) : (rz.) ząbek
+[dentin]dentin (EN) : (rz.) zębina
+[dentine]dentine (EN) : (rz.) dentyna; (rz.) zębina
+[dentist]dentist (EN) : (rz.) dentysta; (rz.) stomatolog
+[dentist's]dentist's (EN) : (p.) dentystyczny; (p.) stomatologiczny
+[dentistry]dentistry (EN) : (rz.) dentystyka; (rz.) stomatologia
+[dentition]dentition (EN) : (rz.) uzębienie; (rz.) ząbkowanie
+[denuclearized]denuclearized (EN) : (p.) bezatomowy
+[denudation]denudation (EN) : (rz.) denudacja; (rz.) obnażanie; (rz.) ogołacanie
+[denude]denude (EN) : (cz.) odsłaniać; (cz.) odsłonić
+[denunciation]denunciation (EN) : (rz.) denuncjacja; (rz.) doniesienie; (rz.) donos; (rz.) oskarżenie; (rz.) wypowiedzenie; (rz.) zadenuncjowanie
+[denunciator]denunciator (EN) : (rz.) denuncjator
+[denunciatory]denunciatory (EN) : (p.) donosicielski
+[deny]deny (EN) : (cz.) dementować; (cz.) negować; (cz.) odmawiać; (cz.) odmówić; (cz.) przeczyć; (cz.) wypierać; (cz.) wyrzekać; (cz.) zaoponować; (cz.) zapierać; (cz.) zaprzeć; (cz.) zaprzeczać; (cz.) zaprzeczyć
+[deodorant]deodorant (EN) : (rz.) dezodorant
+[deodorisation]deodorisation (EN) : (rz.) dezodoryzacja
+[deodorise]deodorise (EN) : (cz.) zdezynfekować
+[deodorization]deodorization (EN) : (rz.) dezodoryzacja; (rz.) odświeżanie; (rz.) odwanianie
+[deodorize]deodorize (EN) : (cz.) dezodoryzować; (cz.) odświeżyć
+[deodorizer]deodorizer (EN) : (rz.) dezodorant
+[deontology]deontology (EN) : (rz.) deontologia; (rz.) etyka
+[deoxidization]deoxidization (EN) : (rz.) redukcja
+[deoxidize]deoxidize (EN) : (cz.) odtleniać
+[deoxidizer]deoxidizer (EN) : (rz.) odtleniacz
+[deoxidizing]deoxidizing (EN) : (rz.) odtlenianie; (rz.) odtlenienie
+[depart]depart (EN) : (cz.) odbiegać; (cz.) odchodzić; (cz.) odejść; (cz.) odjechać; (cz.) odjeżdżać; (cz.) odlatywać; (cz.) odstąpić; (cz.) odstępować; (cz.) wyruszać
+[department]department (EN) : (rz.) departament; (rz.) dział; (rz.) instytut; (rz.) katedra; (rz.) ministerstwo; (rz.) oddział; (rz.) pion; (rz.) referat; (rz.) resort; (rz.) sekcja; (rz.) specjalność; (rz.) stoisko; (rz.) urząd; (rz.) wydział
+[departmental]departmental (EN) : (p.) działowy; (p.) oddziałowy; (p.) resortowy; (p.) wydziałowy
+[departure]departure (EN) : (rz.) odbieganie; (rz.) odchylenie; (rz.) odejście; (rz.) odjazd; (rz.) odlot; (rz.) odstępstwo; (rz.) wyjazd; (rz.) wyjście; (rz.) wymarsz
+[depend]depend (EN) : (cz.) liczyć; (cz.) polegać; (cz.) policzyć; (cz.) zależeć
+[dependability]dependability (EN) : (rz.) niezawodność; (rz.) pewność; (rz.) upewnienie; (rz.) zależność
+[dependable]dependable (EN) : (p.) niezawodny; (p.) pewny
+[dependence]dependence (EN) : (rz.) poddaństwo; (rz.) przyległość; (rz.) uzależnienie; (rz.) zależność; (rz.) zaufanie
+[dependency]dependency (EN) : (rz.) uzależnienie; (rz.) zależność
+[dependent]dependent (EN) : (p.) niesamodzielny; (p.) podległy; (p.) podrzędny; (p.) zależny
+[dependently]dependently (EN) : (p-sł.) zależnie
+[depersonalisation]depersonalisation (EN) : (rz.) depersonalizacja
+[depersonalization]depersonalization (EN) : (rz.) depersonalizacja
+[depict]depict (EN) : (cz.) malować; (cz.) obrazować; (cz.) opisywać; (cz.) przedstawiać; (cz.) rysować; (cz.) zobrazować
+[depiction]depiction (EN) : (rz.) przedstawienie
+[depilate]depilate (EN) : (cz.) depilować
+[depilating]depilating (EN) : (p.) depilacyjny
+[depilation]depilation (EN) : (rz.) depilacja; (rz.) odwłaszanie
+[depilatory]depilatory (EN) : (p.) depilacyjny; (p.) epilacyjny; (rz.) depilator
+[deplete]deplete (EN) : (cz.) usuwać; (cz.) uszczuplać; (cz.) wyczerpać; (cz.) wyczerpywać; (cz.) wyeksploatować; (cz.) wykorzystać; (cz.) wyniszczyć; (cz.) wypróżniać; (cz.) wypróżnić
+[depletion]depletion (EN) : (rz.) uszczuplenie; (rz.) wyczerpanie; (rz.) wyczerpywanie; (rz.) zubożenie
+[deplorable]deplorable (EN) : (p.) opłakany; (p.) żałosny
+[deplore]deplore (EN) : (cz.) opłakiwać; (cz.) potępiać; (cz.) ubolewać
+[deploy]deploy (EN) : (cz.) rozmieścić; (cz.) rozmieszczać; (cz.) wdrożyć; (cz.) zainstalować
+[deployment]deployment (EN) : (rz.) rozmieszczanie; (rz.) rozprzestrzenianie; (rz.) wdrożenie
+[deplumation]deplumation (EN) : (rz.) oskubywanie
+[deplume]deplume (EN) : (cz.) oskubać
+[depolarisation]depolarisation (EN) : (rz.) depolaryzacja
+[depolarization]depolarization (EN) : (rz.) depolaryzacja
+[depolarize]depolarize (EN) : (cz.) depolaryzować
+[depolarizer]depolarizer (EN) : (rz.) depolaryzator
+[depoliticize]depoliticize (EN) : (cz.) odpolityczniać; (cz.) odpolitycznić
+[depopulate]depopulate (EN) : (cz.) wyludniać; (cz.) wyludnić
+[depopulation]depopulation (EN) : (rz.) wybijanie; (rz.) wyludnianie; (rz.) wyludnienie
+[deport]deport (EN) : (cz.) deportować; (cz.) przesiedlać; (cz.) zachowywać; (cz.) zesłać
+[deportation]deportation (EN) : (rz.) deportacja; (rz.) deportowanie
+[deportee]deportee (EN) : (rz.) zesłaniec
+[deportment]deportment (EN) : (rz.) postawa; (rz.) zachowanie
+[depose]depose (EN) : (cz.) dymisjonować; (cz.) poświadczać; (cz.) zeznawać
+[deposit]deposit (EN) : (cz.) deponować; (cz.) odkładać; (cz.) odraczać; (cz.) strącać; (cz.) zdeponować; (rz.) akonto; (rz.) depozyt; (rz.) kaucja; (rz.) lokata; (rz.) nalot; (rz.) osad; (rz.) pokład; (rz.) wadium; (rz.) wkład; (rz.) wpłata; (rz.) zadatek; (rz.) zastaw; (rz.) zdeponowanie; (rz.) złoże
+[depositary]depositary (EN) : (rz.) depozytariusz
+[deposition]deposition (EN) : (rz.) detronizacja; (rz.) odkładanie; (rz.) osadzanie; (rz.) osadzenie; (rz.) usunięcie; (rz.) wbudowywanie; (rz.) zeznanie
+[depositor]depositor (EN) : (rz.) deponent; (rz.) depozytor
+[depository]depository (EN) : (rz.) depozyt; (rz.) skład
+[depot]depot (EN) : (rz.) dworzec; (rz.) kadra; (rz.) magazyn; (rz.) remiza; (rz.) skład; (rz.) składnica; (rz.) wagonownia; (rz.) zajezdnia
+[depravation]depravation (EN) : (rz.) deprawacja; (rz.) zdeprawowanie
+[deprave]deprave (EN) : (cz.) demoralizować; (cz.) deprawować; (cz.) zdemoralizować; (cz.) zdeprawować
+[depraved]depraved (EN) : (p.) niemoralny
+[depravity]depravity (EN) : (rz.) demoralizacja; (rz.) deprawacja
+[deprecate]deprecate (EN) : (cz.) ganić; (cz.) odżegnać; (cz.) odżegnywać; (cz.) potępiać; (cz.) przeciwdziałać
+[deprecation]deprecation (EN) : (rz.) dezaprobata; (rz.) odżegnywanie
+[depreciate]depreciate (EN) : (cz.) deprecjonować; (cz.) pomniejszać; (cz.) zdeprecjonować
+[depreciation]depreciation (EN) : (rz.) amortyzacja; (rz.) deprecjacja; (rz.) dewaluacja
+[depredate]depredate (EN) : (cz.) pustoszyć; (cz.) rabować
+[depredation]depredation (EN) : (rz.) grabież; (rz.) rabunek
+[depress]depress (EN) : (cz.) dociskać; (cz.) gnębić; (cz.) naciskać; (cz.) obniżać; (cz.) obniżyć; (cz.) pognębiać; (cz.) przybijać; (cz.) przygnębiać; (cz.) struć; (cz.) tłumić; (cz.) zmartwić
+[depressed]depressed (EN) : (p.) przygnębiony
+[depressing]depressing (EN) : (p.) przygnębiający
+[depression]depression (EN) : (rz.) depresja; (rz.) kryzys; (rz.) niż; (rz.) osowiałość; (rz.) przygnębienie; (rz.) zagłębienie; (rz.) zapadlisko
+[depressive]depressive (EN) : (p.) depresyjny
+[depressurize]depressurize (EN) : (cz.) rozhermetyzować
+[deprivation]deprivation (EN) : (rz.) ograniczenie; (rz.) pozbawienie; (rz.) utrata
+[deprive]deprive (EN) : (cz.) odebrać; (cz.) pozbawiać; (cz.) pozbawić
+[deprived]deprived (EN) : (cz.) pozbawiać
+[dept]dept (EN) : (rz.) deptanie
+[depth]depth (EN) : (rz.) dogłębność; (rz.) głębia; (rz.) głębina; (rz.) głębokość; (rz.) otchłań; (rz.) toń
+[depth-hardening]depth-hardening (EN) : (rz.) hartowność
+[depths]depths (EN) : (rz.) czeluść; (rz.) toń
+[deputation]deputation (EN) : (rz.) delegacja; (rz.) deputacja; (rz.) poselstwo
+[depute]depute (EN) : (cz.) upełnomocniać; (cz.) upełnomocnić; (cz.) wydelegować
+[deputize]deputize (EN) : (cz.) umieścić; (cz.) umieszczać; (cz.) wymieniać; (cz.) wymienić; (cz.) zastępować
+[deputy]deputy (EN) : (p.) deputowany; (rz.) delegat; (rz.) wicedyrektor; (rz.) zastępca; (rz.) zastępczyni
+[derail]derail (EN) : (cz.) wykoleić; (cz.) wykolejać
+[derailleur]derailleur (EN) : (rz.) przerzutka
+[derailment]derailment (EN) : (rz.) wykolejenie
+[derange]derange (EN) : (cz.) burzyć; (cz.) dezorganizować; (cz.) psuć; (cz.) rozstrajać
+[deranged]deranged (EN) : (p.) nienormalny
+[derangement]derangement (EN) : (rz.) dezorganizacja; (rz.) nieład; (rz.) nieporządek; (rz.) zaburzenie; (rz.) zakłócenie; (rz.) zepsucie
+[derby]derby (EN) : (rz.) melonik
+[dereferencing]dereferencing (EN) : (rz.) wyłuskiwanie
+[deregulate]deregulate (EN) : (cz.) sprywatyzować
+[deregulation]deregulation (EN) : (rz.) deregulacja; (rz.) prywatyzacja
+[derelict]derelict (EN) : (p.) bezpański
+[dereliction]dereliction (EN) : (rz.) opuszczenie; (rz.) porzucenie; (rz.) zaniedbanie
+[derequisition]derequisition (EN) : (cz.) zwalniać
+[deride]deride (EN) : (cz.) naśmiewać; (cz.) szydzić; (cz.) wyśmiewać
+[derision]derision (EN) : (rz.) drwina; (rz.) pośmiewisko; (rz.) szyderstwo; (rz.) wyśmiewanie; (rz.) wyszydzanie
+[derisive]derisive (EN) : (p.) niepoważny; (p.) szyderczy; (p.) urągliwy
+[derisively]derisively (EN) : (p-sł.) kpiąco
+[derisiveness]derisiveness (EN) : (rz.) prześmiewczość
+[derisory]derisory (EN) : (p.) kpiarski; (p.) niepoważny; (p.) szyderczy
+[derivation]derivation (EN) : (rz.) derywacja; (rz.) pochodzenie; (rz.) wyprowadzenie
+[derivative]derivative (EN) : (p.) pochodny; (p.) wtórny; (rz.) derywat; (rz.) pochodna
+[derive]derive (EN) : (cz.) brać; (cz.) czerpać; (cz.) derywować; (cz.) pobierać; (cz.) pochodzić; (cz.) uzyskiwać; (cz.) wyprowadzać; (cz.) wyprowadzić; (cz.) wywodzić
+[derived]derived (EN) : (p.) pochodny
+[dermal]dermal (EN) : (p.) skórny
+[dermatological]dermatological (EN) : (p.) dermatologiczny
+[dermatologist]dermatologist (EN) : (rz.) dermatolog
+[dermatology]dermatology (EN) : (rz.) dermatologia
+[derogate]derogate (EN) : (cz.) odstąpić; (cz.) odstępować; (cz.) pomniejszać; (cz.) umniejszać; (cz.) uwłaczać
+[derogation]derogation (EN) : (rz.) derogacja; (rz.) odstępowanie; (rz.) uchylenie
+[derrick]derrick (EN) : (rz.) dźwig; (rz.) wiertnica
+[derricking]derricking (EN) : (rz.) podnoszenie
+[derriere]derriere (EN) : (rz.) siedzenie
+[desalinate]desalinate (EN) : (cz.) odsalać; (cz.) odsolić
+[desalination]desalination (EN) : (rz.) gleby; (rz.) odsalanie
+[desalinise]desalinise (EN) : (rz.) odsalanie
+[desalinization]desalinization (EN) : (rz.) odsalanie
+[descant]descant (EN) : (rz.) dyszkant
+[descend]descend (EN) : (cz.) chodzić; (cz.) dziedziczyć; (cz.) obniżać; (cz.) opadać; (cz.) opuszczać; (cz.) pochodzić; (cz.) schodzić; (cz.) spadać; (cz.) wejść; (cz.) wyprowadzać; (cz.) wywodzić; (cz.) zastępować; (cz.) zejść
+[descendant]descendant (EN) : (rz.) potomek
+[descending]descending (EN) : (p.) zstępny
+[descent]descent (EN) : (rz.) desant; (rz.) lądowanie; (rz.) obniżenie; (rz.) opadanie; (rz.) pochodzenie; (rz.) pochyłość; (rz.) spadek; (rz.) stok; (rz.) zejście; (rz.) zniżanie; (rz.) zniżenie; (rz.) zstąpienie
+[descramble]descramble (EN) : (cz.) odszyfrować
+[descrambler]descrambler (EN) : (rz.) deszyfrator
+[describable]describable (EN) : (p.) opisywalny
+[describe]describe (EN) : (cz.) określać; (cz.) opisać; (cz.) opisywać
+[description]description (EN) : (rz.) deskrypcja; (rz.) określanie; (rz.) opis; (rz.) opisanie; (rz.) rodzaj; (rz.) rysopis
+[descriptive]descriptive (EN) : (p.) opisowy
+[descriptor]descriptor (EN) : (rz.) deskryptor
+[descry]descry (EN) : (cz.) ujrzeć; (cz.) wypatrywać; (cz.) wypatrzyć; (cz.) zobaczyć
+[desecrate]desecrate (EN) : (cz.) bezcześcić; (cz.) plugawić; (cz.) profanować; (cz.) zbezcześcić; (cz.) zbezczeszczać
+[desecration]desecration (EN) : (rz.) profanacja; (rz.) zbezczeszczenie
+[desegregate]desegregate (EN) : (cz.) eliminować; (cz.) znieść
+[desegregation]desegregation (EN) : (rz.) desegregacja
+[deselect]deselect (EN) : (cz.) odznaczyć
+[desensitise]desensitise (EN) : (cz.) odczulać; (cz.) odczulić
+[desensitization]desensitization (EN) : (rz.) desensybilizacja; (rz.) flegmatyzacja; (rz.) odczulanie; (rz.) odczulenie
+[desensitize]desensitize (EN) : (cz.) odczulać; (cz.) znieczulać; (cz.) znieczulić
+[desert]desert (EN) : (cz.) dezerterować; (cz.) opuścić; (cz.) opuszczać; (cz.) osamotnić; (cz.) porzucać; (cz.) porzucić; (cz.) zdezerterować; (cz.) zostawiać; (cz.) zostawić; (rz.) pustka; (rz.) pustkowie; (rz.) pustynia
+[deserted]deserted (EN) : (p.) bezludny
+[deserter]deserter (EN) : (rz.) dezerter; (rz.) uciekinier
+[desertification]desertification (EN) : (rz.) pustynnienie
+[desertion]desertion (EN) : (rz.) dezercja; (rz.) zbiegostwo
+[deserve]deserve (EN) : (cz.) zasługiwać
+[deserved]deserved (EN) : (p.) celny
+[deservedly]deservedly (EN) : (p-sł.) sprawiedliwie
+[deserving]deserving (EN) : (p.) godny
+[desiccant]desiccant (EN) : (rz.) desykant; (rz.) osuszacz
+[desiccate]desiccate (EN) : (cz.) suszyć
+[desiccation]desiccation (EN) : (rz.) osuszanie; (rz.) osuszenie; (rz.) wysuszanie; (rz.) wysychanie
+[desiderata]desiderata (EN) : (rz.) dezyderaty
+[desideratum]desideratum (EN) : (rz.) dezyderat
+[design]design (EN) : (cz.) pomyśleć; (cz.) projektować; (cz.) przeznaczać; (cz.) zamierzać; (rz.) aranżacja; (rz.) cel; (rz.) deseń; (rz.) projekt; (rz.) projektowanie; (rz.) rysownictwo; (rz.) rysunek; (rz.) wygląd; (rz.) wzór; (rz.) wzornictwo; (rz.) zamiar; (rz.) zamysł
+[design-time]design-time (EN) : (p.) projektowy
+[designate]designate (EN) : (cz.) desygnować; (cz.) oznaczać; (cz.) typować; (cz.) wskazywać; (cz.) wyznaczać
+[designation]designation (EN) : (rz.) desygnacja; (rz.) mianowanie; (rz.) określenie; (rz.) opis; (rz.) oznaczenie; (rz.) wyznaczanie; (rz.) wyznaczenie
+[designator]designator (EN) : (rz.) desygnator; (rz.) oznaczenie; (rz.) oznacznik
+[designed]designed (EN) : (p.) projektowy
+[designedly]designedly (EN) : (p-sł.) rozmyślnie; (p-sł.) umyślnie
+[designer]designer (EN) : (rz.) konstruktor; (rz.) kreślarz; (rz.) projektant; (rz.) projektodawca; (rz.) rysownik
+[designing]designing (EN) : (p.) podstępny; (rz.) konstruowanie; (rz.) planowanie; (rz.) projektowanie
+[desirability]desirability (EN) : (rz.) celowość; (rz.) zaleta
+[desirable]desirable (EN) : (p.) atrakcyjny; (p.) odpowiedni; (p.) pożądany; (p.) właściwy
+[desire]desire (EN) : (cz.) pożądać; (cz.) pragnąć; (cz.) życzyć; (rz.) apetyt; (rz.) chęć; (rz.) pożądanie; (rz.) pragnienie; (rz.) żądza; (rz.) życzenie
+[desist]desist (EN) : (cz.) odstąpić; (cz.) odstępować; (cz.) wstrzymać; (cz.) zaniechać; (cz.) zaprzestać
+[desk]desk (EN) : (rz.) biurko; (rz.) ławka; (rz.) recepcja
+[desktop]desktop (EN) : (p.) biurkowy
+[desolate]desolate (EN) : (cz.) opuścić; (cz.) opuszczać; (cz.) pustoszyć; (p.) odludny
+[desolation]desolation (EN) : (rz.) dewastacja; (rz.) osamotnienie; (rz.) pustka; (rz.) pustkowie; (rz.) samotność; (rz.) spustoszenie; (rz.) zniszczenie
+[despair]despair (EN) : (cz.) desperować; (cz.) rozpaczać; (rz.) desperacja; (rz.) rozpacz
+[despairingly]despairingly (EN) : (p-sł.) beznadziejnie
+[despatch]despatch (EN) : (cz.) ekspediować; (cz.) wysyłać
+[desperado]desperado (EN) : (rz.) desperat; (rz.) straceniec
+[desperate]desperate (EN) : (p.) beznadziejny; (p.) desperacki; (p.) nierozważny; (p.) rozpaczliwy; (p.) straceńczy; (p.) zaciekły
+[desperately]desperately (EN) : (p-sł.) rozpaczliwie
+[desperation]desperation (EN) : (rz.) desperacja; (rz.) rozpacz
+[despicable]despicable (EN) : (p.) nikczemny; (p.) podły
+[despise]despise (EN) : (cz.) gardzić; (cz.) nienawidzić; (cz.) pogardzać; (cz.) wzgardzić
+[despite]despite (EN) : (p-im.) mimo; (p-im.) pomimo; (p-im.) wbrew; (rz.) mino
+[despoil]despoil (EN) : (cz.) obrabować
+[despoilment]despoilment (EN) : (rz.) zanieczyszczenie
+[despoliation]despoliation (EN) : (rz.) profanowanie
+[despond]despond (EN) : (cz.) przygnębić; (cz.) zasępiać
+[despondency]despondency (EN) : (rz.) przygnębienie; (rz.) zniechęcenie
+[despot]despot (EN) : (rz.) despota
+[despotic]despotic (EN) : (p.) absolutny; (p.) bezwzględny; (p.) despotyczny
+[despotism]despotism (EN) : (rz.) despotyzm
+[desquamation]desquamation (EN) : (rz.) naskórka
+[dessert]dessert (EN) : (rz.) deser; (rz.) legumina
+[destabilisation]destabilisation (EN) : (rz.) destabilizacja
+[destabilization]destabilization (EN) : (rz.) destabilizacja
+[destabilize]destabilize (EN) : (cz.) destabilizować; (cz.) zdestabilizować
+[destabilizing]destabilizing (EN) : (rz.) destabilizowanie
+[destination]destination (EN) : (rz.) adresat; (rz.) cel; (rz.) przeznaczenie
+[destine]destine (EN) : (cz.) przeznaczać; (cz.) wyznaczać
+[destiny]destiny (EN) : (rz.) dola; (rz.) los; (rz.) nieuchronność; (rz.) predestynacja; (rz.) przeznaczenie
+[destitute]destitute (EN) : (p.) pozbawiony
+[destitution]destitution (EN) : (rz.) bieda; (rz.) nędza; (rz.) ogołocenie; (rz.) ubóstwo
+[destroy]destroy (EN) : (cz.) anihilować; (cz.) burzyć; (cz.) niszczyć; (cz.) poniszczyć; (cz.) spustoszyć; (cz.) tępić; (cz.) uśmiercać; (cz.) wygubić; (cz.) zburzyć; (cz.) zniszczyć; (cz.) zniweczyć
+[destroyed]destroyed (EN) : (cz.) wytracić; (cz.) wytrącić
+[destroyer]destroyer (EN) : (rz.) burzyciel; (rz.) kontrtorpedowiec; (rz.) niszczyciel
+[destruct]destruct (EN) : (cz.) zniszczyć
+[destructible]destructible (EN) : (p.) zniszczalny
+[destruction]destruction (EN) : (rz.) destrukcja; (rz.) niszczenie; (rz.) rażenie; (rz.) ruina; (rz.) spustoszenie; (rz.) zagłada; (rz.) zburzenie; (rz.) zgładzenie; (rz.) zguba; (rz.) zniszczenie; (rz.) zniweczenie
+[destructive]destructive (EN) : (p.) burzycielski; (p.) destrukcyjny; (p.) destruktywny; (p.) niszczący; (p.) niszczycielski; (p.) zabójczy; (p.) zgubny
+[destructiveness]destructiveness (EN) : (rz.) destrukcyjność
+[destructor]destructor (EN) : (rz.) destruktor
+[desultory]desultory (EN) : (p.) bezładny; (p.) bezplanowy; (p.) chaotyczny; (p.) pobieżny; (p.) przypadkowy
+[detach]detach (EN) : (cz.) odczepiać; (cz.) odczepić; (cz.) oddzielać; (cz.) oderwać; (cz.) odizolować; (cz.) odklejać; (cz.) odkomenderować; (cz.) odłączać; (cz.) odłączyć; (cz.) odlepiać; (cz.) odlepić; (cz.) odrywać; (cz.) odseparować; (cz.) zdjąć
+[detachable]detachable (EN) : (p.) odejmowalny; (p.) odejmowany; (p.) odłączalny
+[detached]detached (EN) : (cz.) oderwać; (p.) bezstronny; (p.) odłączony
+[detachment]detachment (EN) : (rz.) dystans; (rz.) hufiec; (rz.) izolacja; (rz.) obcość; (rz.) obojętność; (rz.) oddział; (rz.) oddzielenie; (rz.) oderwanie; (rz.) odłączenie; (rz.) odosobnienie; (rz.) rozdzielenie; (rz.) wyrywanie
+[detail]detail (EN) : (cz.) uszczegółowić; (cz.) wyszczególniać; (rz.) detal; (rz.) szczegół; (rz.) szczegółowość
+[detailed]detailed (EN) : (p.) drobiazgowy; (p.) szczegółowy
+[detain]detain (EN) : (cz.) aresztować; (cz.) przetrzymywać; (cz.) utrzymywać; (cz.) zatrzymywać
+[detainment]detainment (EN) : (rz.) zwlekanie
+[detect]detect (EN) : (cz.) dostrajać; (cz.) dostrzegać; (cz.) doszukać; (cz.) odkryć; (cz.) odkrywać; (cz.) przechwycić; (cz.) wyczuwać; (cz.) wykryć; (cz.) wykrywać; (cz.) wypatrzyć; (cz.) zauważyć
+[detectable]detectable (EN) : (p.) wykrywalny
+[detectible]detectible (EN) : (p.) widoczny; (p.) wykrywalny
+[detection]detection (EN) : (rz.) detekcja; (rz.) odkrycie; (rz.) pochwycenie; (rz.) wykrycie; (rz.) wykrywanie
+[detective]detective (EN) : (p.) detektywistyczny; (p.) śledczy; (rz.) detektyw; (rz.) wywiadowca
+[detector]detector (EN) : (rz.) czujnik; (rz.) detektor; (rz.) wykrywacz
+[detent]detent (EN) : (rz.) zapadka
+[detente]detente (EN) : (rz.) odprężenie
+[detention]detention (EN) : (rz.) areszt; (rz.) karcer; (rz.) odosobnienie; (rz.) uwięzienie; (rz.) zatrzymanie
+[deter]deter (EN) : (cz.) odstraszać; (cz.) odstraszyć; (cz.) odstręczać; (cz.) powstrzymywać
+[detergent]detergent (EN) : (p.) chwastobójczy; (p.) czyszczący; (rz.) detergent
+[deteriorate]deteriorate (EN) : (cz.) pogarszać; (cz.) psuć; (cz.) wyrodnieć
+[deterioration]deterioration (EN) : (rz.) degradacja; (rz.) deterioracja; (rz.) podupadanie; (rz.) pogorszenie; (rz.) psucie
+[determent]determent (EN) : (rz.) odstraszenie
+[determinable]determinable (EN) : (p.) obrabialny; (p.) wyznaczalny
+[determinant]determinant (EN) : (rz.) determinanta; (rz.) wyznacznik
+[determinate]determinate (EN) : (p.) określony; (p.) ostateczny; (p.) oznaczony; (p.) wyznaczony
+[determination]determination (EN) : (rz.) determinacja; (rz.) określanie; (rz.) określenie; (rz.) oznaczanie; (rz.) oznaczenie; (rz.) postanowienie; (rz.) stanowczość; (rz.) wyznaczanie; (rz.) zdecydowanie
+[determinative]determinative (EN) : (rz.) decydowanie
+[determine]determine (EN) : (cz.) decydować; (cz.) determinować; (cz.) ograniczać; (cz.) określać; (cz.) postanawiać; (cz.) rozstrzygać; (cz.) skłaniać; (cz.) skłonić; (cz.) ustalać; (cz.) ustawiać; (cz.) wskazać; (cz.) zadecydować; (cz.) zakańczać; (cz.) zdecydować
+[determiner]determiner (EN) : (rz.) określnik
+[determinism]determinism (EN) : (rz.) determinizm
+[deterministic]deterministic (EN) : (p.) deterministyczny
+[deterrence]deterrence (EN) : (rz.) odstraszanie; (rz.) odstraszenie
+[deterrent]deterrent (EN) : (p.) zapobiegliwy; (rz.) flegmatyzator
+[deterring]deterring (EN) : (rz.) odstraszanie; (rz.) zastraszanie
+[detest]detest (EN) : (cz.) nienawidzić
+[detestable]detestable (EN) : (p.) obrzydliwy; (p.) wstrętny
+[detestation]detestation (EN) : (rz.) nienawiść; (rz.) wstręt
+[dethrone]dethrone (EN) : (cz.) detronizować; (cz.) zdetronizować
+[dethronement]dethronement (EN) : (rz.) detronizacja; (rz.) detronizowanie
+[detonate]detonate (EN) : (cz.) detonować; (cz.) zdetonować
+[detonation]detonation (EN) : (rz.) detonacja; (rz.) wybuch
+[detonator]detonator (EN) : (rz.) pobudzacz; (rz.) spłonka; (rz.) zapalnik
+[detour]detour (EN) : (rz.) objazd
+[detoxification]detoxification (EN) : (rz.) detoksykacja; (rz.) odtruwanie
+[detoxifier]detoxifier (EN) : (rz.) odtrutka
+[detoxify]detoxify (EN) : (cz.) odtruwać
+[detract]detract (EN) : (cz.) oczerniać; (cz.) odciągać; (cz.) pomniejszać; (cz.) ujmować; (cz.) umniejszać; (cz.) uszczuplać
+[detraction]detraction (EN) : (rz.) umniejszanie
+[detractor]detractor (EN) : (rz.) krytyk; (rz.) oszczerca
+[detrain]detrain (EN) : (cz.) wyładowywać
+[detriment]detriment (EN) : (rz.) szkoda; (rz.) ujma; (rz.) uszczerbek
+[detrimental]detrimental (EN) : (p.) nierentowny; (p.) szkodliwy
+[detritus]detritus (EN) : (rz.) detrytus
+[detune]detune (EN) : (cz.) rozstrajać; (cz.) rozstroić
+[deuce]deuce (EN) : (rz.) czart; (rz.) diabeł; (rz.) dwójka; (rz.) licho; (rz.) równowaga
+[deuced]deuced (EN) : (p.) diabelny; (p.) diabelski
+[deucedly]deucedly (EN) : (p-sł.) diabelnie
+[deuterium]deuterium (EN) : (rz.) deuter
+[deuteron]deuteron (EN) : (rz.) deuteron
+[devaluate]devaluate (EN) : (cz.) dewaluować; (cz.) zdewaluować
+[devaluation]devaluation (EN) : (rz.) dewaluacja; (rz.) zdewaluowanie
+[devalue]devalue (EN) : (cz.) dewaluować; (cz.) lekceważyć; (cz.) zdewaluować
+[devastate]devastate (EN) : (cz.) dewastować; (cz.) niszczyć; (cz.) pustoszyć; (cz.) rujnować; (cz.) spustoszyć; (cz.) zdewastować; (cz.) zmniejszać
+[devastated]devastated (EN) : (p.) zdruzgotany; (p.) zniszczony
+[devastating]devastating (EN) : (p.) destrukcyjny; (p.) niszczycielski
+[devastation]devastation (EN) : (rz.) dewastacja; (rz.) pustoszenie; (rz.) ruina; (rz.) spustoszenie; (rz.) wyniszczenie; (rz.) zniszczenie
+[devastator]devastator (EN) : (rz.) dewastator
+[develop]develop (EN) : (cz.) doskonalić; (cz.) opracować; (cz.) opracowywać; (cz.) rozbudować; (cz.) rozrastać; (cz.) rozwijać; (cz.) skonstruować; (cz.) tworzyć; (cz.) utworzyć; (cz.) wypracować; (cz.) wywołać; (cz.) wywoływać
+[developer]developer (EN) : (rz.) inwestor; (rz.) programista; (rz.) wywoływacz
+[development]development (EN) : (rz.) doskonalenie; (rz.) opracowanie; (rz.) opracowywanie; (rz.) osiągniecie; (rz.) postęp; (rz.) rozbudowa; (rz.) rozwinięcie; (rz.) rozwój; (rz.) rozwożenie; (rz.) wniosek; (rz.) wydarzenie; (rz.) wywoływanie; (rz.) wzrost; (rz.) zabudowa
+[developmental]developmental (EN) : (p.) rozwojowy
+[deviance]deviance (EN) : (rz.) dewiacja
+[deviancy]deviancy (EN) : (rz.) zboczenie
+[deviant]deviant (EN) : (p.) dewiacyjny; (p.) nienormalny
+[deviate]deviate (EN) : (cz.) odchylać; (cz.) uchylać; (cz.) zbaczać; (cz.) zboczyć
+[deviation]deviation (EN) : (rz.) błąd; (rz.) dewiacja; (rz.) odchylanie; (rz.) odchylenie; (rz.) odchyłka; (rz.) uchyb; (rz.) zbaczanie; (rz.) zboczenie
+[deviator]deviator (EN) : (rz.) dewiator
+[deviatory]deviatory (EN) : (p.) dewiacyjny
+[device]device (EN) : (rz.) automat; (rz.) chwyt; (rz.) dewiza; (rz.) godło; (rz.) hasło; (rz.) maszynka; (rz.) metoda; (rz.) plan; (rz.) pomysł; (rz.) przyrząd; (rz.) sposób; (rz.) urządzenie
+[devil]devil (EN) : (rz.) bies; (rz.) czart; (rz.) czort; (rz.) diabeł; (rz.) kaduk; (rz.) licho; (rz.) szatan
+[devil-may-care]devil-may-care (EN) : (p.) beztroski
+[devilfish]devilfish (EN) : (p.) diabelski
+[devilish]devilish (EN) : (p.) diabelski; (p.) piekielny; (p.) szatański; (p-sł.) diabelsko
+[devilishly]devilishly (EN) : (p-sł.) diabelsko
+[devilment]devilment (EN) : (rz.) diabelstwo; (rz.) łobuzerstwo
+[devilry]devilry (EN) : (rz.) demonologia; (rz.) diabelstwo
+[devious]devious (EN) : (p.) okrężny; (p.) pokrętny
+[deviousness]deviousness (EN) : (rz.) przebiegłość
+[devise]devise (EN) : (cz.) koncypować; (cz.) obmyślać; (cz.) opracowywać; (cz.) wymyślać; (cz.) wymyślić; (cz.) wynajdować; (cz.) wynaleźć
+[devoid]devoid (EN) : (p.) pozbawiony; (p.) próżny
+[devolution]devolution (EN) : (rz.) dziedzictwo; (rz.) sukcesja
+[devolve]devolve (EN) : (cz.) przechodzić; (cz.) przekazywać
+[devote]devote (EN) : (cz.) oddawać; (cz.) poświęcać; (cz.) przeznaczać; (cz.) przeznaczyć
+[devoted]devoted (EN) : (p.) oddany; (p.) poświęcający
+[devotee]devotee (EN) : (rz.) czciciel; (rz.) entuzjasta; (rz.) wielbiciel; (rz.) zapaleniec; (rz.) zelant
+[devotion]devotion (EN) : (rz.) dewocja; (rz.) nabożeństwo; (rz.) oddanie; (rz.) pobożność; (rz.) poświęcenie; (rz.) przywiązanie; (rz.) religijność
+[devotional]devotional (EN) : (p.) nabożny
+[devotions]devotions (EN) : (rz.) pacierz
+[devour]devour (EN) : (cz.) chłonąć; (cz.) pochłaniać; (cz.) pożerać; (cz.) pożreć
+[devourer]devourer (EN) : (rz.) pożeracz
+[devout]devout (EN) : (p.) bogobojny; (p.) gorliwy; (p.) pobożny; (p.) szczery
+[devoutly]devoutly (EN) : (p-sł.) gorliwie; (p-sł.) pobożnie; (p-sł.) szczerze
+[devoutness]devoutness (EN) : (rz.) gorliwość; (rz.) pobożność
+[dew]dew (EN) : (rz.) rosa
+[dewater]dewater (EN) : (cz.) odwadniać
+[dewatering]dewatering (EN) : (rz.) odwadniacz; (rz.) odwadnianie
+[dewlap]dewlap (EN) : (rz.) podgardle
+[dewy]dewy (EN) : (p.) rosisty
+[dexterity]dexterity (EN) : (rz.) bystrość; (rz.) sprawność; (rz.) zręczność; (rz.) zwinność
+[dexterous]dexterous (EN) : (p.) sprawny; (p.) zręczny; (p.) zwinny
+[dextrin]dextrin (EN) : (rz.) dekstryna
+[dextrorotatory]dextrorotatory (EN) : (p.) prawoskrętny
+[dextrose]dextrose (EN) : (rz.) dekstroza; (rz.) glikoza
+[dextrous]dextrous (EN) : (p.) obrotny; (p.) sprawny; (p.) sprytny; (p.) zręczny
+[dharma]dharma (EN) : (rz.) cnota; (rz.) prawo
+[diabetes]diabetes (EN) : (rz.) cukrzyca; (rz.) diabetyk
+[diabetic]diabetic (EN) : (p.) cukrzycowy; (p.) diaboliczny; (rz.) cukrzyk; (rz.) diabetyk
+[diabolic]diabolic (EN) : (p.) diabelski; (p.) diaboliczny; (p.) piekielny; (p.) szatański
+[diabolical]diabolical (EN) : (p.) diabelski; (p.) diaboliczny; (p.) piekielny; (p.) szatański
+[diacetylmorphine]diacetylmorphine (EN) : (rz.) heroina
+[diacritic]diacritic (EN) : (p.) diakrytyczny
+[diacritical]diacritical (EN) : (p.) diakrytyczny
+[diadem]diadem (EN) : (rz.) diadem
+[diagnosable]diagnosable (EN) : (p.) diagnozowalny
+[diagnose]diagnose (EN) : (cz.) diagnozować; (cz.) rozpoznać; (cz.) rozpoznawać; (cz.) zdiagnozować
+[diagnosis]diagnosis (EN) : (rz.) diagnostyka; (rz.) diagnoza; (rz.) diagnozowanie; (rz.) rozpoznanie
+[diagnostic]diagnostic (EN) : (p.) diagnostyczny; (rz.) diagnostyka; (rz.) objaw
+[diagnostician]diagnostician (EN) : (rz.) diagnosta
+[diagnostics]diagnostics (EN) : (rz.) diagnostyka
+[diagonal]diagonal (EN) : (p.) diagonalny; (p.) poprzeczny; (p.) przekątny; (p.) skośny; (p.) ukośny; (rz.) przekątna; (rz.) przekątnia
+[diagonally]diagonally (EN) : (p-sł.) diagonalnie; (p-sł.) ukośnie
+[diagram]diagram (EN) : (rz.) diagram; (rz.) wykres
+[diagrammatic]diagrammatic (EN) : (p.) graficzny; (p.) schematyczny
+[dial]dial (EN) : (cz.) łączyć; (cz.) wybierać; (cz.) wykręcać; (rz.) cyferblat; (rz.) pokrętło; (rz.) strojenie; (rz.) tarcza; (rz.) zakres
+[dial-back]dial-back (EN) : (rz.) oddzwanianie
+[dialect]dialect (EN) : (rz.) dialekt; (rz.) gwara; (rz.) narzecze
+[dialectal]dialectal (EN) : (p.) dialektalny; (p.) gwarowy
+[dialectical]dialectical (EN) : (p.) dialektowy; (p.) dialektyczny
+[dialectician]dialectician (EN) : (rz.) dialektyk; (rz.) dialektyka
+[dialectics]dialectics (EN) : (rz.) dialektyka
+[dialectology]dialectology (EN) : (rz.) dialektologia
+[dialler]dialler (EN) : (p.) mierniczy
+[dialog]dialog (EN) : (rz.) dialog
+[dialogite]dialogite (EN) : (rz.) dialogit; (rz.) rodochrozyt
+[dialogue]dialogue (EN) : (rz.) dialog; (rz.) porozumienie; (rz.) rozmowa; (rz.) rozmówka
+[dialysis]dialysis (EN) : (rz.) dializa
+[diamagnetic]diamagnetic (EN) : (p.) diamagnetyczny
+[diamagnetism]diamagnetism (EN) : (rz.) diamagnetyzm
+[diameter]diameter (EN) : (rz.) średnica
+[diametric]diametric (EN) : (p.) diametralny
+[diametrical]diametrical (EN) : (p.) diametralny
+[diametrically]diametrically (EN) : (p-sł.) biegunowo; (p-sł.) diametralnie
+[diamond]diamond (EN) : (rz.) brylant; (rz.) diament; (rz.) karo; (rz.) romb
+[diamonds]diamonds (EN) : (rz.) karo
+[diapason]diapason (EN) : (rz.) diapazon
+[diaper]diaper (EN) : (rz.) dymek; (rz.) pielucha; (rz.) pieluszka
+[diaphanous]diaphanous (EN) : (p.) przezroczysty
+[diaphone]diaphone (EN) : (rz.) diafon
+[diaphoretic]diaphoretic (EN) : (p.) napotny
+[diaphragm]diaphragm (EN) : (rz.) blenda; (rz.) diafragma; (rz.) membrana; (rz.) przegroda; (rz.) przepona; (rz.) przesłona; (rz.) przysłona
+[diaphragmatic]diaphragmatic (EN) : (p.) przeponowy
+[diarist]diarist (EN) : (rz.) pamiętnikarz
+[diarrhoea]diarrhoea (EN) : (rz.) biegunka; (rz.) rozstrój; (rz.) rozwolnienie; (rz.) sraczka
+[diarrhoeic]diarrhoeic (EN) : (p.) biegunkowy
+[diary]diary (EN) : (rz.) diariusz; (rz.) dziennik; (rz.) kalendarz; (rz.) kalendarzyk; (rz.) notatnik; (rz.) pamiętnik
+[diastase]diastase (EN) : (rz.) diastaza
+[diastole]diastole (EN) : (rz.) rozkurcz
+[diastolic]diastolic (EN) : (p.) rozkurczowy
+[diastrophism]diastrophism (EN) : (rz.) diastrofizm
+[diathermy]diathermy (EN) : (rz.) diatermia
+[diathesis]diathesis (EN) : (rz.) skaza
+[diatom]diatom (EN) : (rz.) okrzemka
+[diatomic]diatomic (EN) : (p.) dwuatomowy
+[diatonic]diatonic (EN) : (p.) diatoniczny
+[diatribe]diatribe (EN) : (rz.) diatryba
+[dibasic]dibasic (EN) : (p.) dwuzasadowy
+[dibs]dibs (EN) : (rz.) forsa
+[dice]dice (EN) : (rz.) kość; (rz.) kostka
+[dicey]dicey (EN) : (p.) niepewny; (p.) ryzykowny
+[dichotomous]dichotomous (EN) : (p.) dychotomiczny
+[dichotomy]dichotomy (EN) : (rz.) dwudzielność; (rz.) dychotomia
+[dichromate]dichromate (EN) : (rz.) dwuchromian
+[dick]dick (EN) : (rz.) kutas
+[dickens]dickens (EN) : (rz.) diabeł; (rz.) łobuziak; (rz.) szatan; (rz.) urwis
+[dicker]dicker (EN) : (rz.) przetarg; (rz.) transakcja; (rz.) wymiana
+[dictate]dictate (EN) : (cz.) dyktować; (cz.) nakazywać; (cz.) podyktować; (cz.) rozkazywać; (rz.) dyktat; (rz.) nakaz; (rz.) przepis; (rz.) rozkaz
+[dictation]dictation (EN) : (rz.) dyktando; (rz.) dyktator; (rz.) dyktowanie
+[dictator]dictator (EN) : (rz.) dyktator
+[dictatorial]dictatorial (EN) : (p.) dyktatorski
+[dictatorship]dictatorship (EN) : (rz.) autorytatywność; (rz.) dyktatorstwo; (rz.) dyktatura
+[diction]diction (EN) : (rz.) dykcja
+[dictionary]dictionary (EN) : (rz.) słownik
+[dictum]dictum (EN) : (rz.) powiedzenie; (rz.) wypowiedź
+[did]did (EN) : (cz.) czynić
+[didactic]didactic (EN) : (p.) dydaktyczny; (p.) pedagogiczny
+[didactical]didactical (EN) : (p.) dydaktyczny; (p.) pedagogiczny
+[didactically]didactically (EN) : (p-sł.) dydaktycznie
+[didacticism]didacticism (EN) : (rz.) dydaktyzm
+[didactics]didactics (EN) : (rz.) dydaktyka
+[diddle]diddle (EN) : (cz.) kpić; (cz.) nabierać; (cz.) okpić; (cz.) wykiwać
+[die]die (EN) : (cz.) ginąć; (cz.) konać; (cz.) mrzeć; (cz.) skonać; (cz.) umierać; (cz.) umrzeć; (cz.) zamierać; (cz.) zdychać; (cz.) zemrzeć; (rz.) ciągadło; (rz.) kokila; (rz.) matryca; (rz.) narzynka; (rz.) tłocznik
+[die-stock]die-stock (EN) : (rz.) gwintownica
+[diehard]diehard (EN) : (p.) twardogłowy; (rz.) konserwatysta
+[dielectric]dielectric (EN) : (p.) dielektryczny; (rz.) dielektryk
+[dieresis]dieresis (EN) : (rz.) oddzielenie; (rz.) rozdzielenie
+[diet]diet (EN) : (cz.) odchudzać; (rz.) dieta; (rz.) pożywienie; (rz.) sejm; (rz.) wyżywienie
+[dietary]dietary (EN) : (p.) dietetyczny
+[dietetic]dietetic (EN) : (p.) dietetyczny
+[dietetics]dietetics (EN) : (rz.) dietetyka
+[dietician]dietician (EN) : (rz.) dietetyk
+[differ]differ (EN) : (cz.) różnić
+[difference]difference (EN) : (rz.) dyferencja; (rz.) nieporozumienie; (rz.) różnica; (rz.) rozrzut; (rz.) spór
+[different]different (EN) : (p.) inny; (p.) niejednakowy; (p.) odmienny; (p.) odrębny; (p.) rozmaity; (p.) różnoraki; (p.) rożny; (p.) różny; (p.) tożsamy
+[differentiable]differentiable (EN) : (p.) różniczkowalny
+[differential]differential (EN) : (p.) dyferencjalny; (p.) różnicowy; (p.) różniczkowy; (rz.) charakterystyka; (rz.) dyferencjał; (rz.) pochodna; (rz.) różniczka; (rz.) zróżnicowanie
+[differentiate]differentiate (EN) : (cz.) odróżniać; (cz.) rozgraniczać; (cz.) różnić; (cz.) różnicować; (cz.) różniczkować; (cz.) rozróżniać; (cz.) wyróżniać; (cz.) zróżniczkować
+[differentiation]differentiation (EN) : (rz.) różnicowanie; (rz.) różniczkowanie; (rz.) rozróżnianie
+[differently]differently (EN) : (p-sł.) odmiennie; (p-sł.) różnie
+[difficult]difficult (EN) : (p.) ciężki; (p.) niełatwy; (p.) trudny
+[difficulty]difficulty (EN) : (rz.) kłopot; (rz.) problem; (rz.) trudność; (rz.) utrudnienie
+[diffidence]diffidence (EN) : (rz.) nieśmiałość
+[diffident]diffident (EN) : (p.) bojaźliwy; (p.) nieufny; (p.) płochliwy
+[diffraction]diffraction (EN) : (rz.) dyfrakcja; (rz.) uginanie
+[diffractive]diffractive (EN) : (p.) dyfrakcyjny
+[diffuse]diffuse (EN) : (cz.) przenikać; (cz.) rozchodzić; (cz.) rozlewać; (cz.) rozpraszać; (cz.) rozprzestrzeniać; (cz.) rozsiewać; (cz.) szerzyć; (p.) niejasny
+[diffused]diffused (EN) : (p.) niejasny
+[diffuser]diffuser (EN) : (rz.) dyfuzor
+[diffusion]diffusion (EN) : (rz.) dyfuzja; (rz.) emanowanie; (rz.) rozpowszechnienie; (rz.) rozpraszanie; (rz.) rozproszenie; (rz.) rozprzestrzenianie; (rz.) rozprzestrzenienie
+[diffusive]diffusive (EN) : (p.) dyfuzyjny
+[dig]dig (EN) : (cz.) głębić; (cz.) kopać; (cz.) roztwarzać; (cz.) wciskać; (cz.) wkopywać; (cz.) wygrzebywać; (cz.) wykopać; (cz.) zagłębić; (cz.) zakopać; (rz.) dójka; (rz.) przytyk; (rz.) szpilka; (rz.) szturchaniec
+[digest]digest (EN) : (cz.) obmyślić; (cz.) przemyśleć; (cz.) przetrawiać; (cz.) przetrawić; (cz.) strawić; (cz.) trawić; (cz.) zrozumieć; (rz.) kompendium; (rz.) przegląd; (rz.) streszczenie; (rz.) wybór; (rz.) wyciąg; (rz.) zbiór
+[digested]digested (EN) : (cz.) wytrawić
+[digester]digester (EN) : (rz.) warnik
+[digestibility]digestibility (EN) : (rz.) strawność
+[digestible]digestible (EN) : (p.) przyswajalny; (p.) strawny
+[digestion]digestion (EN) : (rz.) fermentacja; (rz.) gnicie; (rz.) roztwarzanie; (rz.) trawienie
+[digestive]digestive (EN) : (p.) strawny; (p.) trawienny
+[digger]digger (EN) : (rz.) bagier; (rz.) czerparka; (rz.) kopacz; (rz.) kopaczka; (rz.) koparka
+[digging]digging (EN) : (rz.) kopanie
+[diggings]diggings (EN) : (rz.) ukop; (rz.) wykopalisko
+[digit]digit (EN) : (rz.) cyfra; (rz.) palec
+[digital]digital (EN) : (p.) cyfrowy; (p.) palczasty
+[digitalis]digitalis (EN) : (rz.) naparstnica
+[digitalisation]digitalisation (EN) : (rz.) digitalizacja
+[digitally]digitally (EN) : (p-sł.) cyfrowo
+[digitise]digitise (EN) : (p.) dyskretyzowany
+[digitization]digitization (EN) : (rz.) cyfryzacja; (rz.) digitalizacja
+[digitize]digitize (EN) : (cz.) dyskretyzować; (cz.) przekształcać
+[digitizer]digitizer (EN) : (rz.) dyskretyzator
+[digitizing]digitizing (EN) : (rz.) digitalizacja
+[dignified]dignified (EN) : (p.) dostojny; (p.) dystyngowany; (p.) godny; (p.) nobliwy
+[dignify]dignify (EN) : (cz.) uczcić; (cz.) uszlachetniać; (cz.) uszlachetnić
+[dignitary]dignitary (EN) : (rz.) dostojnik; (rz.) dygnitarz
+[dignity]dignity (EN) : (rz.) dostojeństwo; (rz.) dygnitarstwo; (rz.) dystynkcja; (rz.) godność; (rz.) powaga
+[digraph]digraph (EN) : (rz.) dwuznak
+[digress]digress (EN) : (cz.) odbiegać; (cz.) zbaczać
+[digression]digression (EN) : (rz.) dygresja
+[digressive]digressive (EN) : (p.) nawiasowy; (p.) uboczny
+[dike]dike (EN) : (rz.) grobla; (rz.) przekop; (rz.) tama; (rz.) wał; (rz.) zapora
+[dilacerate]dilacerate (EN) : (cz.) rozerwać
+[dilapidate]dilapidate (EN) : (cz.) obdrapać; (cz.) odrapać; (cz.) podniszczyć; (cz.) rozjeździć; (cz.) rozklekotać; (cz.) wytarmosić; (cz.) zdezelować; (cz.) zniszczyć; (cz.) zszarpać
+[dilapidation]dilapidation (EN) : (rz.) trwonienie
+[dilatability]dilatability (EN) : (rz.) rozszerzalność
+[dilatation]dilatation (EN) : (rz.) dylatacja; (rz.) rozszerzanie; (rz.) rozszerzenie
+[dilate]dilate (EN) : (cz.) rozciągać; (cz.) rozszerzać
+[dilation]dilation (EN) : (rz.) rozszerzanie; (rz.) rozszerzenie
+[dilatometer]dilatometer (EN) : (rz.) dylatometr
+[dilator]dilator (EN) : (rz.) rozszerzacz
+[dilatory]dilatory (EN) : (p.) powolny
+[dilemma]dilemma (EN) : (rz.) dylemat; (rz.) rozterka
+[dilettante]dilettante (EN) : (rz.) dyletant; (rz.) pilność; (rz.) pracowitość
+[dilettantism]dilettantism (EN) : (rz.) amatorstwo; (rz.) dyletanctwo; (rz.) dyletantyzm
+[diligence]diligence (EN) : (rz.) dbałość; (rz.) pilność; (rz.) pracowitość; (rz.) skrzętność; (rz.) staranność
+[diligent]diligent (EN) : (p.) pilny; (p.) pracowity; (p.) staranny; (p.) sumienny
+[diligently]diligently (EN) : (p-sł.) pilnie
+[dill]dill (EN) : (rz.) koper; (rz.) koperek; (rz.) kopra
+[dilly-dally]dilly-dally (EN) : (cz.) ociągać; (cz.) zawahać
+[dillydally]dillydally (EN) : (cz.) ociągać; (cz.) zawahać
+[dilute]dilute (EN) : (cz.) osłabiać; (cz.) rozcieńczać; (cz.) rozcieńczyć; (cz.) rozpuszczać; (cz.) rozrzedzać; (cz.) rozrzedzić; (cz.) rozwodnić
+[diluted]diluted (EN) : (cz.) rozcieńczać
+[diluter]diluter (EN) : (rz.) rozcieńczalnik
+[dilution]dilution (EN) : (rz.) rozcieńczanie; (rz.) rozcieńczenie; (rz.) rozrzedzanie; (rz.) roztwór; (rz.) rozwodnienie
+[diluvium]diluvium (EN) : (rz.) dyluwium
+[dim]dim (EN) : (cz.) ciemnieć; (cz.) mącić; (cz.) przyćmiewać; (cz.) przygaszać; (cz.) przytłumiać; (cz.) ściemniać; (cz.) słabnąć; (cz.) zaćmić; (cz.) zamglić; (cz.) zamroczyć; (cz.) zgasić; (p.) ciemny; (p.) matowy; (p.) mdławy; (p.) mdły; (p.) mętny; (p.) mglisty; (p.) mroczny; (p.) niejasny; (p.) niewyraźny; (p.) nikły; (p.) ponury; (p.) przyćmiony; (p.) przytłumiony; (p.) zamglony
+[dime]dime (EN) : (rz.) moneta
+[dimension]dimension (EN) : (rz.) aspekt; (rz.) gabaryt; (rz.) rozmiar; (rz.) wielkość; (rz.) wymiar
+[dimensional]dimensional (EN) : (p.) wymiarowy
+[dimensionality]dimensionality (EN) : (rz.) rząd; (rz.) stopień; (rz.) wymiar; (rz.) wymiarowość
+[dimensionally]dimensionally (EN) : (p-sł.) wymiarowo
+[dimensioning]dimensioning (EN) : (rz.) wymiarowanie
+[dimensionless]dimensionless (EN) : (p.) bezwymiarowy
+[dimensions]dimensions (EN) : (rz.) wymiary
+[dimidiate]dimidiate (EN) : (cz.) przepoławiać
+[diminish]diminish (EN) : (cz.) maleć; (cz.) ubywać; (cz.) zmaleć; (cz.) zmniejszać
+[diminution]diminution (EN) : (rz.) redukcja; (rz.) uszczuplenie; (rz.) zdrobnienie; (rz.) zmniejszenie
+[diminutive]diminutive (EN) : (p.) dorodny; (p.) miniaturowy; (p.) zdrobniały; (rz.) zdrobnienie
+[dimmer]dimmer (EN) : (rz.) ciemność; (rz.) przełącznik; (rz.) ściemniacz
+[dimmers]dimmers (EN) : (rz.) ściemniacz
+[dimmest]dimmest (EN) : (p.) ciemny
+[dimness]dimness (EN) : (rz.) mglistość; (rz.) półmrok
+[dimorphic]dimorphic (EN) : (p.) dwupostaciowy
+[dimorphism]dimorphism (EN) : (rz.) dwupostaciowość; (rz.) dymorfizm
+[dimple]dimple (EN) : (rz.) dołek; (rz.) wgłębienie
+[dimwit]dimwit (EN) : (rz.) gamoń; (rz.) głupek
+[din]din (EN) : (cz.) hałasować; (rz.) gwar; (rz.) hałas; (rz.) harmider; (rz.) kołatanie; (rz.) łoskot; (rz.) szum; (rz.) wrzask; (rz.) wrzawa; (rz.) zgiełk
+[dine]dine (EN) : (cz.) obiadować
+[diner]diner (EN) : (rz.) gość; (rz.) knajpka; (rz.) restauracja
+[ding]ding (EN) : (rz.) przedmiot; (rz.) rzecz; (rz.) sprawa
+[ding-dong]ding-dong (EN) : (rz.) dzwon; (rz.) dzwonienie
+[dingbat]dingbat (EN) : (rz.) ornament; (rz.) ozdoba
+[dingdong]dingdong (EN) : (rz.) dzwon; (rz.) dzwonienie
+[dinghy]dinghy (EN) : (rz.) bączek; (rz.) łódka; (rz.) ponton
+[dinginess]dinginess (EN) : (rz.) obskurność
+[dingy]dingy (EN) : (p.) obskurny
+[dining-room]dining-room (EN) : (rz.) jadalnia
+[dinky]dinky (EN) : (p.) przemiły; (p.) śliczny
+[dinner]dinner (EN) : (rz.) kolacja; (rz.) obiad; (rz.) przyjęcie
+[dinner-jacket]dinner-jacket (EN) : (rz.) smoking
+[dinner-party]dinner-party (EN) : (rz.) przyjęcie
+[dinosaur]dinosaur (EN) : (rz.) dinozaur
+[dinosaurs]dinosaurs (EN) : (rz.) dinozaury
+[dint]dint (EN) : (rz.) szczerba; (rz.) wgięcie
+[dinting]dinting (EN) : (rz.) przybierka
+[diocesan]diocesan (EN) : (p.) diecezjalny
+[diocese]diocese (EN) : (rz.) diecezja
+[diode]diode (EN) : (rz.) dioda
+[diode-pentode]diode-pentode (EN) : (rz.) dioda-pentoda
+[diorite]diorite (EN) : (rz.) dioryt
+[dioxide]dioxide (EN) : (rz.) dwutlenek
+[dip]dip (EN) : (cz.) maczać; (cz.) obniżać; (cz.) obniżyć; (cz.) opadać; (cz.) skąpać; (cz.) spuszczać; (cz.) umoczyć; (cz.) zamoczyć; (cz.) zanurzać; (cz.) zanurzyć; (rz.) kąpiel; (rz.) nurek; (rz.) pochylenie; (rz.) sos; (rz.) spadek; (rz.) wgłębienie; (rz.) zanurzenie
+[diphase]diphase (EN) : (p.) dwufazowy
+[diphtheria]diphtheria (EN) : (rz.) błonica; (rz.) dyfteria; (rz.) dyfteryt
+[diphthong]diphthong (EN) : (rz.) dwugłoska; (rz.) dyftong
+[diphthongize]diphthongize (EN) : (cz.) dyftongizować
+[diplexer]diplexer (EN) : (rz.) diplekser
+[diploma]diploma (EN) : (rz.) dyplom
+[diplomacy]diplomacy (EN) : (rz.) dyplomacja; (rz.) polityczność
+[diplomat]diplomat (EN) : (rz.) dyplomata
+[diplomatic]diplomatic (EN) : (p.) dyplomatyczny
+[diplomatically]diplomatically (EN) : (p-sł.) dyplomatycznie
+[diplomatist]diplomatist (EN) : (rz.) dyplomata
+[dipolar]dipolar (EN) : (p.) dipolowy; (p.) dwubiegunowy
+[dipole]dipole (EN) : (rz.) dipol; (rz.) dublet; (rz.) dwubiegun
+[dipper]dipper (EN) : (rz.) anabaptysta; (rz.) czerpak; (rz.) nurek
+[dipping]dipping (EN) : (rz.) maczanie; (rz.) moczenie; (rz.) ukłon; (rz.) zanurzanie; (rz.) zanurzenie
+[dipsomaniac]dipsomaniac (EN) : (rz.) opój
+[dipstick]dipstick (EN) : (rz.) bagnet
+[diptych]diptych (EN) : (rz.) dyptych; (rz.) dyptyk
+[dir]dir (EN) : (rz.) kier
+[dire]dire (EN) : (p.) okropny; (p.) skrajny; (p.) straszny
+[direct]direct (EN) : (cz.) kierować; (cz.) nakazywać; (cz.) prowadzić; (cz.) przykazywać; (cz.) reżyserować; (cz.) wskazać; (cz.) zarządzać; (p.) bezpośredni; (p.) prosty; (p.) szczery
+[direction]direction (EN) : (rz.) adres; (rz.) dyrekcja; (rz.) kierownictwo; (rz.) kierunek; (rz.) reżyseria; (rz.) wskazówka; (rz.) zarząd; (rz.) zarządzenie
+[directional]directional (EN) : (p.) kierunkowy
+[directionally]directionally (EN) : (p-sł.) kierunkowo
+[directive]directive (EN) : (p.) kierujący; (p.) nakierowujący; (p.) wskazujący; (p.) wytyczny; (rz.) dyrektywa; (rz.) rozkaz; (rz.) wytyczna; (rz.) zarządzenie
+[directivity]directivity (EN) : (rz.) kierunkowość
+[directly]directly (EN) : (p-sł.) bezpośrednio; (p-sł.) natychmiast; (p-sł.) niebawem; (p-sł.) wprost
+[directness]directness (EN) : (rz.) bezpośredniość
+[director]director (EN) : (rz.) dyrektor; (rz.) reżyser; (rz.) zarządca
+[director's]director's (EN) : (p.) dyrekcyjny
+[directorate]directorate (EN) : (rz.) dyrektoriat; (rz.) zarząd
+[directorship]directorship (EN) : (rz.) kierownictwo
+[directory]directory (EN) : (rz.) drogowskaz; (rz.) dyrektorstwo; (rz.) katalog; (rz.) spis
+[direful]direful (EN) : (p.) okropny; (p.) straszny
+[dirge]dirge (EN) : (rz.) tren
+[dirigible]dirigible (EN) : (p.) sterowny; (rz.) sterowiec
+[dirk]dirk (EN) : (rz.) sztylet
+[dirt]dirt (EN) : (rz.) błoto; (rz.) brud; (rz.) kurz; (rz.) zanieczyszczenie; (rz.) ziemia
+[dirtily]dirtily (EN) : (p-sł.) brudno; (p-sł.) nieczysto
+[dirty]dirty (EN) : (cz.) brudzić; (cz.) morusać; (cz.) napaskudzić; (cz.) osmolić; (cz.) paprać; (cz.) smolić; (cz.) ubabrać; (cz.) ubrudzić; (cz.) usmarować; (cz.) uświnić; (cz.) uwalać; (cz.) wybrudzić; (cz.) zapaskudzić; (cz.) zaświnić; (cz.) zawalać; (cz.) zbrudzić; (p.) brudny; (p.) brzydki; (p.) niechlujny; (p.) nieczysty; (p.) nieprzyzwoity; (p.) nieświeży
+[disability]disability (EN) : (rz.) inwalidztwo; (rz.) kalectwo; (rz.) niepełność; (rz.) niepełnosprawność; (rz.) ubezwłasnowolnienie; (rz.) ułomność; (rz.) upośledzenie
+[disable]disable (EN) : (cz.) blokować; (cz.) obezwładniać; (cz.) odejmować; (cz.) odłączać; (cz.) ograniczać; (cz.) okaleczać; (cz.) pozbawiać; (cz.) pozbawić; (cz.) unieruchomić; (cz.) unieszkodliwiać; (cz.) unieszkodliwić; (cz.) wyłączyć
+[disabled]disabled (EN) : (p.) kaleki; (p.) niepełnosprawny; (p.) niestandardowy; (p.) nietypowy; (p.) ułomny; (p.) upośledzony
+[disaccord]disaccord (EN) : (rz.) inność; (rz.) niezgoda; (rz.) rozbicie
+[disadvantage]disadvantage (EN) : (rz.) minus; (rz.) szkoda; (rz.) wada
+[disadvantageous]disadvantageous (EN) : (p.) niekorzystny
+[disaffect]disaffect (EN) : (cz.) odpychać; (cz.) zrażać
+[disaffection]disaffection (EN) : (rz.) niechęć; (rz.) nielojalność; (rz.) niezadowolenie
+[disagree]disagree (EN) : (cz.) dementować; (cz.) szkodzić
+[disagreeable]disagreeable (EN) : (p.) niemiły; (p.) nieprzyjemny; (p.) przykry
+[disagreeably]disagreeably (EN) : (p-sł.) nieprzyjemnie
+[disagreement]disagreement (EN) : (rz.) kłótnia; (rz.) konflikt; (rz.) nieporozumienie; (rz.) niezgoda; (rz.) niezgodność; (rz.) rozbieżność; (rz.) sprzeczka
+[disallow]disallow (EN) : (cz.) oddalać; (cz.) odrzucać; (cz.) zakazywać
+[disambiguate]disambiguate (EN) : (cz.) ujednoznaczniać; (rz.) ujednoznacznienie
+[disambiguated]disambiguated (EN) : (cz.) ujednoznaczniać
+[disambiguates]disambiguates (EN) : (cz.) ujednoznaczniać
+[disambiguating]disambiguating (EN) : (cz.) ujednoznaczniać
+[disambiguation]disambiguation (EN) : (rz.) ujednoznacznienie
+[disannul]disannul (EN) : (cz.) skreślać; (cz.) unieważniać
+[disappear]disappear (EN) : (cz.) ginąć; (cz.) niknąć; (cz.) pierzchać; (cz.) zanikać; (cz.) znikać; (cz.) zniknąć
+[disappearance]disappearance (EN) : (rz.) zaginięcie; (rz.) zanik; (rz.) zanikanie; (rz.) zaniknięcie; (rz.) znikanie; (rz.) znikniecie; (rz.) zniknięcie
+[disappoint]disappoint (EN) : (cz.) rozczarować; (cz.) rozczarowywać; (cz.) zawieść; (cz.) zawodzić
+[disappointed]disappointed (EN) : (p.) rozczarowany
+[disappointing]disappointing (EN) : (cz.) rozczarowywać
+[disappointment]disappointment (EN) : (rz.) rozczarowanie; (rz.) zawód
+[disapprobation]disapprobation (EN) : (rz.) dezaprobata
+[disapproval]disapproval (EN) : (rz.) dezaprobata; (rz.) nieprzychylność
+[disapprove]disapprove (EN) : (cz.) dezaprobować
+[disarm]disarm (EN) : (cz.) rozbrajać; (cz.) rozbroić
+[disarmament]disarmament (EN) : (rz.) rozbrojenie
+[disarmingly]disarmingly (EN) : (p-sł.) rozbrajająco
+[disarrange]disarrange (EN) : (cz.) bałaganić; (cz.) dezorganizować; (cz.) rozprzęgać; (cz.) zdezorganizować
+[disarray]disarray (EN) : (cz.) rozpadać; (rz.) nieład; (rz.) nieporządek; (rz.) rozprzężenie; (rz.) zamęt
+[disassemble]disassemble (EN) : (cz.) demontować; (cz.) dezasemblować; (cz.) rozbierać; (cz.) rozmontować; (cz.) rozmontowywać
+[disassembling]disassembling (EN) : (rz.) dezasemblowanie; (rz.) rozmontowywanie; (rz.) zdemontowanie
+[disassembly]disassembly (EN) : (rz.) demontaż
+[disaster]disaster (EN) : (rz.) kataklizm; (rz.) katastrofa; (rz.) klęska; (rz.) nieszczęście; (rz.) tragedia
+[disastrous]disastrous (EN) : (p.) fatalny; (p.) katastrofalny; (p.) nieszczęsny; (p.) okropny; (p.) zgubny
+[disastrously]disastrously (EN) : (p-sł.) fatalnie; (p-sł.) katastrofalnie
+[disavow]disavow (EN) : (cz.) dezawuować; (cz.) wypierać; (cz.) wyrzekać; (cz.) zdezawuować
+[disavowal]disavowal (EN) : (rz.) wyparcie; (rz.) wyrzeczenie
+[disband]disband (EN) : (cz.) rozchodzić; (cz.) rozdzielać; (cz.) rozdzielić; (cz.) rozpuścić; (cz.) rozpuszczać; (cz.) rozróżniać; (cz.) rozwiązać; (cz.) rozwiązywać; (cz.) spostrzegać; (cz.) współdzielić
+[disbelief]disbelief (EN) : (rz.) niedowierzanie; (rz.) nieufność; (rz.) niewiara
+[disburse]disburse (EN) : (cz.) wypłacać; (cz.) wypłacić
+[disbursement]disbursement (EN) : (rz.) płatność; (rz.) wydatek
+[disc]disc (EN) : (rz.) dysk; (rz.) dyskietka; (rz.) krążek; (rz.) płyta; (rz.) tarcza
+[discard]discard (EN) : (cz.) odrzucać; (cz.) odrzucić; (cz.) odwołać; (cz.) pozbywać; (cz.) wyrzucać; (cz.) zaniechać; (cz.) zarzucać; (cz.) zrzucić; (rz.) zrzutka
+[discards]discards (EN) : (rz.) braki; (rz.) odpady
+[discern]discern (EN) : (cz.) dostrzegać; (cz.) rozeznać; (cz.) rozeznawać; (cz.) rozróżniać; (cz.) rozróżnić; (cz.) spostrzegać
+[discernible]discernible (EN) : (p.) rozróżnialny; (p.) spostrzegalny; (p.) zauważalny
+[discernibly]discernibly (EN) : (p-sł.) dostrzegalnie
+[discerning]discerning (EN) : (p.) bystry; (p.) wnikliwy
+[discernment]discernment (EN) : (rz.) orientacja; (rz.) rozeznanie; (rz.) rozróżnienie
+[discharge]discharge (EN) : (cz.) spełniać; (cz.) spłacać; (cz.) spuszczać; (cz.) wydalać; (cz.) wydzielać; (cz.) wyładować; (cz.) wyładowywać; (cz.) wypełniać; (cz.) wypisywać; (cz.) wyrzucać; (cz.) zwalniać; (rz.) absolutorium; (rz.) emisja; (rz.) skwitowanie; (rz.) spuszczanie; (rz.) wydalenie; (rz.) wydzielina; (rz.) wyładowanie; (rz.) zrzut; (rz.) zwolnienie
+[discharger]discharger (EN) : (rz.) garłacz; (rz.) odgromnik
+[discharges]discharges (EN) : (rz.) odchody; (rz.) rozładowanie; (rz.) zrzucanie; (rz.) zrzucenie
+[disciple]disciple (EN) : (rz.) uczeń; (rz.) wyznawca
+[disciplinarian]disciplinarian (EN) : (rz.) służbista
+[disciplinary]disciplinary (EN) : (p.) dyscyplinarny
+[discipline]discipline (EN) : (cz.) dyscyplinować; (cz.) karać; (cz.) kontrolować; (cz.) zdyscyplinować; (rz.) dyscyplina; (rz.) dziedzina; (rz.) karność; (rz.) rygor; (rz.) subordynacja; (rz.) zdyscyplinowanie
+[disclaim]disclaim (EN) : (cz.) wypierać; (cz.) zrzekać
+[disclaimer]disclaimer (EN) : (rz.) zaprzeczenie; (rz.) zastrzeżenie; (rz.) zrzeczenie
+[disclose]disclose (EN) : (cz.) demaskować; (cz.) odsłaniać; (cz.) odsłonić; (cz.) ujawniać; (cz.) ujawnić; (cz.) wyjawiać
+[disclosure]disclosure (EN) : (rz.) odkrycie; (rz.) odsłonięcie; (rz.) ujawnianie; (rz.) ujawnienie; (rz.) wyjawienie; (rz.) zdemaskowanie
+[disco]disco (EN) : (rz.) dyskoteka
+[discography]discography (EN) : (rz.) dyskografia; (rz.) fonografia
+[discoloration]discoloration (EN) : (rz.) odbarwienie
+[discolour]discolour (EN) : (cz.) odbarwiać; (cz.) odbarwić; (cz.) wypłowieć
+[discolouration]discolouration (EN) : (rz.) blaknięcie; (rz.) odbarwienie
+[discomfit]discomfit (EN) : (cz.) skonsternować; (cz.) udaremniać; (cz.) udaremnić; (cz.) zmieszać; (cz.) zniechęcać; (cz.) zniechęcić
+[discomfort]discomfort (EN) : (rz.) dolegliwość; (rz.) dyskomfort; (rz.) niedogodność; (rz.) niepokój; (rz.) niewygoda; (rz.) skrępowanie
+[discompose]discompose (EN) : (cz.) dezorganizować; (cz.) żenować; (cz.) zmieszać
+[disconcert]disconcert (EN) : (cz.) peszyć; (cz.) stropić; (cz.) żenować
+[disconnect]disconnect (EN) : (cz.) odłączać; (cz.) odłączyć; (cz.) rozczepiać; (cz.) rozłączać; (cz.) rozłączyć; (cz.) uchylać; (cz.) wyłączać
+[disconnected]disconnected (EN) : (p.) niespójny
+[disconnection]disconnection (EN) : (rz.) odczepienie; (rz.) rozłączenie
+[disconsolate]disconsolate (EN) : (p.) ponury; (p.) posępny
+[discontent]discontent (EN) : (rz.) malkontenctwo; (rz.) niezadowolenie
+[discontinuance]discontinuance (EN) : (rz.) przerwa; (rz.) przerwanie; (rz.) umorzenie; (rz.) zaprzestanie
+[discontinuation]discontinuation (EN) : (rz.) odstawienie; (rz.) przerwanie
+[discontinue]discontinue (EN) : (cz.) przerwać; (cz.) przerywać; (cz.) ustawać; (cz.) zaprzestać
+[discontinued]discontinued (EN) : (cz.) odstawić
+[discontinuity]discontinuity (EN) : (rz.) nieciągłość; (rz.) przerwa
+[discontinuous]discontinuous (EN) : (p.) nieciągły
+[discord]discord (EN) : (rz.) dysonans; (rz.) niezgoda; (rz.) waśń
+[discordance]discordance (EN) : (rz.) dysonans; (rz.) niezgodność
+[discordant]discordant (EN) : (p.) dysonansowy; (p.) nieharmonijny; (p.) niezgodny
+[discordantly]discordantly (EN) : (p-sł.) fałszywie; (p-sł.) niezgodnie
+[discotheque]discotheque (EN) : (rz.) dyskoteka
+[discount]discount (EN) : (cz.) dyskontować; (cz.) potrącać; (rz.) bonifikata; (rz.) dyskonto; (rz.) obniżka; (rz.) opust; (rz.) rabat; (rz.) upust; (rz.) zniżka
+[discounted]discounted (EN) : (cz.) zdyskontować
+[discountenance]discountenance (EN) : (cz.) dezaprobować; (cz.) zawstydzać; (cz.) zawstydzić
+[discounts]discounts (EN) : (rz.) dyskont
+[discourage]discourage (EN) : (cz.) odbierać; (cz.) odwodzić; (cz.) razić; (cz.) zniechęcać; (cz.) zniechęcić; (cz.) zrażać; (cz.) zrazić
+[discouragement]discouragement (EN) : (rz.) zniechęcenie
+[discourse]discourse (EN) : (cz.) rozmawiać; (cz.) rozprawiać; (rz.) dyskurs; (rz.) dyskusja; (rz.) mowa; (rz.) rozmowa; (rz.) rozprawa
+[discourteous]discourteous (EN) : (p.) niegrzeczny; (p.) nieuprzejmy
+[discourtesy]discourtesy (EN) : (rz.) niegrzeczność; (rz.) nieuprzejmość
+[discover]discover (EN) : (cz.) odkryć; (cz.) odkrywać
+[discoverable]discoverable (EN) : (p.) wykrywalny
+[discoverer]discoverer (EN) : (rz.) odkrywca; (rz.) odkrywczyni
+[discoverers]discoverers (EN) : (rz.) odkrywcy
+[discoveries]discoveries (EN) : (rz.) odkrycia
+[discovery]discovery (EN) : (rz.) odkrycie; (rz.) odkrywanie; (rz.) odnajdowanie; (rz.) odnalezienie; (rz.) ujawnienie; (rz.) wykrywanie; (rz.) wynalazek; (rz.) wynalezienie
+[discredit]discredit (EN) : (cz.) dyskredytować; (cz.) falsyfikować; (cz.) kompromitować; (cz.) podważać; (cz.) zdyskredytować; (rz.) niesława; (rz.) nieufność; (rz.) powątpiewanie
+[discreditable]discreditable (EN) : (p.) niegodny; (p.) podły
+[discreet]discreet (EN) : (p.) dyskretny; (p.) rozsądny; (p.) roztropny; (p.) rozważny; (p.) taktowny
+[discreetly]discreetly (EN) : (p-sł.) dyskretnie; (p-sł.) roztropnie
+[discrepancy]discrepancy (EN) : (rz.) niezgodność; (rz.) rozbieżność; (rz.) sprzeczność
+[discrepant]discrepant (EN) : (p.) sprzeczny
+[discrete]discrete (EN) : (p.) dyskretny; (p.) nieciągły
+[discretely]discretely (EN) : (p.) nieciągły
+[discretion]discretion (EN) : (rz.) dyskrecja; (rz.) oględność; (rz.) osąd; (rz.) rozsądek; (rz.) roztropność; (rz.) rozwaga; (rz.) takt; (rz.) uznanie; (rz.) uznaniowość
+[discretional]discretional (EN) : (p.) dobrowolny; (p.) dowolny; (p.) dyskrecjonalny; (p.) nieobowiązkowy
+[discretionary]discretionary (EN) : (p.) dobrowolny; (p.) dowolny; (p.) dyskrecjonalny; (p.) nieobowiązkowy
+[discriminate]discriminate (EN) : (cz.) dyskryminować; (cz.) faworyzować; (cz.) rozróżniać; (cz.) rozróżnić
+[discrimination]discrimination (EN) : (rz.) dyskryminacja; (rz.) dyskryminowanie; (rz.) odróżnianie; (rz.) przenikliwość; (rz.) rozeznanie; (rz.) rozróżnianie; (rz.) smak; (rz.) wybór
+[discriminator]discriminator (EN) : (rz.) dyskryminator
+[discriminatory]discriminatory (EN) : (p.) dyskryminacyjny
+[discursive]discursive (EN) : (p.) dygresyjny; (p.) dyskursywny; (p.) urywkowy
+[discus]discus (EN) : (rz.) dysk
+[discuss]discuss (EN) : (cz.) dyskutować; (cz.) omawiać; (cz.) omówić; (cz.) podyskutować; (cz.) przedyskutować; (cz.) rozprawiać; (cz.) roztrząsać
+[discussion]discussion (EN) : (rz.) debata; (rz.) debatowanie; (rz.) dyskusja; (rz.) omówienie
+[disdain]disdain (EN) : (cz.) gardzić; (cz.) pogardzać; (rz.) lekceważenie; (rz.) pogarda; (rz.) politowanie; (rz.) wzgarda
+[disdainful]disdainful (EN) : (p.) lekceważący; (p.) pogardliwy; (p.) wzgardliwy
+[disease]disease (EN) : (rz.) choroba; (rz.) nieszczęście; (rz.) przypadłość; (rz.) schorzenie
+[diseased]diseased (EN) : (p.) chory
+[disembark]disembark (EN) : (cz.) lądować; (cz.) wylądować; (cz.) wyładować; (cz.) wyładowywać; (cz.) wyokrętować; (cz.) wysadzać; (cz.) wysadzić; (cz.) wysiadać
+[disembarkation]disembarkation (EN) : (rz.) opuszczanie; (rz.) wyładowanie; (rz.) wyładunek; (rz.) wysiadanie
+[disembody]disembody (EN) : (cz.) rozbrajać
+[disembowel]disembowel (EN) : (cz.) wypatroszyć
+[disenable]disenable (EN) : (cz.) uniemożliwiać
+[disenchant]disenchant (EN) : (cz.) odczarować; (cz.) rozczarować; (cz.) rozczarowywać
+[disenchantment]disenchantment (EN) : (rz.) odczarowanie; (rz.) rozczarowanie
+[disencumber]disencumber (EN) : (cz.) uwalniać; (cz.) uwolnić
+[disengage]disengage (EN) : (cz.) oddzielać; (cz.) odłączać; (cz.) odłączyć; (cz.) rozłączać; (cz.) uwalniać; (cz.) uwolnić; (cz.) wyprzęgać; (cz.) zwalniać
+[disengagement]disengagement (EN) : (rz.) odłączenie; (rz.) rozłączanie; (rz.) uwolnienie
+[disentangle]disentangle (EN) : (cz.) odmotać; (cz.) odplątywać; (cz.) rozgmatwać; (cz.) rozplątać; (cz.) rozplątywać; (cz.) rozsupłać; (cz.) rozwikłać; (cz.) wymotać; (cz.) wyplątać; (cz.) wyswobodzić
+[disentanglement]disentanglement (EN) : (rz.) rozwikłanie
+[disentomb]disentomb (EN) : (cz.) ekshumować; (cz.) wykopać
+[disequilibrium]disequilibrium (EN) : (rz.) nierównowaga
+[disestablish]disestablish (EN) : (cz.) oddzielać; (cz.) oddzielić
+[disfavour]disfavour (EN) : (rz.) nieprzychylność
+[disfeature]disfeature (EN) : (cz.) zniekształcać
+[disfiguration]disfiguration (EN) : (rz.) szpecenie
+[disfigure]disfigure (EN) : (cz.) oszpecać; (cz.) zniekształcać
+[disfigurement]disfigurement (EN) : (rz.) oszpecenie; (rz.) zeszpecenie
+[disfranchise]disfranchise (EN) : (cz.) odbierać
+[disgorge]disgorge (EN) : (cz.) wymiotować; (cz.) wypluć; (cz.) zwracać; (cz.) zwymiotować
+[disgrace]disgrace (EN) : (cz.) hańbić; (cz.) kompromitować; (cz.) spodlić; (cz.) zhańbić; (rz.) bezczeszczenie; (rz.) blamaż; (rz.) dyshonor; (rz.) hańba; (rz.) hańbienie; (rz.) niełaska; (rz.) sromota; (rz.) wstyd; (rz.) zakała
+[disgraceful]disgraceful (EN) : (p.) haniebny; (p.) niechlubny; (p.) sromotny
+[disgracefully]disgracefully (EN) : (p-sł.) haniebnie
+[disguise]disguise (EN) : (cz.) maskować; (cz.) przebierać; (cz.) przebrać; (cz.) skrywać; (cz.) ucharakteryzować; (cz.) zakamuflować; (cz.) zamaskować; (cz.) zmieniać; (rz.) kostium; (rz.) maska; (rz.) przebranie
+[disgust]disgust (EN) : (cz.) brzydzić; (cz.) mierzyć; (cz.) rozgoryczać; (rz.) brzydzenie; (rz.) obmierzłość; (rz.) obrzydliwość; (rz.) obrzydnięcie; (rz.) obrzydzenie; (rz.) odraza; (rz.) wstręt
+[disgusting]disgusting (EN) : (p.) obrzydliwy; (p.) przebrzydły; (p.) wstrętny
+[disgustingly]disgustingly (EN) : (p-sł.) obrzydliwie; (p-sł.) wstrętnie
+[dish]dish (EN) : (cz.) wgniatać; (rz.) danie; (rz.) kuweta; (rz.) misa; (rz.) naczynie; (rz.) półmisek; (rz.) potrawa; (rz.) talerz; (rz.) wanienka
+[dish-water]dish-water (EN) : (rz.) pomyje
+[dish-waters]dish-waters (EN) : (rz.) pomyje
+[disharmonious]disharmonious (EN) : (p.) dysharmonijny
+[disharmony]disharmony (EN) : (rz.) dysharmonia; (rz.) rozstrój
+[dishcloth]dishcloth (EN) : (rz.) ścierka; (rz.) zmywak
+[dishearten]dishearten (EN) : (cz.) przygnębiać; (cz.) zniechęcać
+[dishevel]dishevel (EN) : (cz.) rozczochrać; (cz.) rozdmuchać; (cz.) roztargać; (cz.) skudłacić; (cz.) wichrzyć; (cz.) wzburzyć; (cz.) zwichrzyć
+[dishevelled]dishevelled (EN) : (p.) wichrowaty
+[dishevelment]dishevelment (EN) : (rz.) rozczochranie
+[dishful]dishful (EN) : (rz.) półmisek
+[dishonest]dishonest (EN) : (p.) nieczysty; (p.) niehonorowy; (p.) nierzetelny; (p.) nieuczciwy
+[dishonestly]dishonestly (EN) : (p-sł.) nieuczciwie
+[dishonesty]dishonesty (EN) : (rz.) nierzetelność; (rz.) nieuczciwość; (rz.) oszustwo
+[dishonour]dishonour (EN) : (cz.) hańbić; (cz.) zniesławić; (rz.) dyshonor; (rz.) hańba
+[dishonourable]dishonourable (EN) : (p.) haniebny; (p.) niecny; (p.) nikczemny
+[dishpan]dishpan (EN) : (rz.) szaflik
+[dishrag]dishrag (EN) : (rz.) ścierka; (rz.) zmywak
+[dishtowel]dishtowel (EN) : (rz.) zmywak
+[dishwasher]dishwasher (EN) : (rz.) pomywacz; (rz.) zmywarka
+[dishwashing]dishwashing (EN) : (rz.) mycie; (rz.) zmywanie
+[dishwater]dishwater (EN) : (rz.) lura; (rz.) pomyje
+[disillusion]disillusion (EN) : (cz.) rozczarować; (cz.) rozczarowywać; (cz.) zawodzić; (rz.) otrzeźwienie; (rz.) rozczarowanie
+[disillusionment]disillusionment (EN) : (rz.) rozczarowanie
+[disimpassioned]disimpassioned (EN) : (p.) beznamiętny; (p.) spokojny
+[disinclination]disinclination (EN) : (rz.) niechęć
+[disinclined]disinclined (EN) : (p.) niechętny; (p.) nieskłonny
+[disinfect]disinfect (EN) : (cz.) dezynfekować; (cz.) odkażać; (cz.) odkazić; (cz.) wydezynfekować; (cz.) zdezynfekować
+[disinfectant]disinfectant (EN) : (p.) dezynfekujący; (rz.) dezynfekcja; (rz.) odkażanie
+[disinfected]disinfected (EN) : (cz.) odkazić; (cz.) zdezynfekować
+[disinfection]disinfection (EN) : (rz.) dezynfekcja; (rz.) odkażenie
+[disinformation]disinformation (EN) : (rz.) dezinformacja
+[disingenuous]disingenuous (EN) : (p.) nieszczery
+[disinherit]disinherit (EN) : (cz.) wydziedziczać; (cz.) wydziedziczyć
+[disinheritance]disinheritance (EN) : (rz.) wydziedziczenie
+[disintegrate]disintegrate (EN) : (cz.) rozdrabniać; (cz.) rozdrobnić; (cz.) rozkładać; (cz.) rozkruszać; (cz.) rozpadać
+[disintegration]disintegration (EN) : (rz.) dezintegracja; (rz.) rozdrabnianie; (rz.) rozdrobnienie; (rz.) rozkład; (rz.) rozpad
+[disintegrator]disintegrator (EN) : (rz.) dezintegrator; (rz.) dezyntegrator
+[disinter]disinter (EN) : (cz.) ekshumować; (cz.) odgrzebać
+[disinterest]disinterest (EN) : (rz.) bezinteresowność; (rz.) bezstronność
+[disinterested]disinterested (EN) : (p.) bezinteresowny; (p.) bezstronny; (p.) obiektywny
+[disinterestedly]disinterestedly (EN) : (p-sł.) bezinteresownie
+[disinterestedness]disinterestedness (EN) : (rz.) bezinteresowność; (rz.) bezstronność
+[disinterment]disinterment (EN) : (rz.) ekshumacja
+[disjoin]disjoin (EN) : (cz.) rozdzielać; (cz.) rozłączać
+[disjoint]disjoint (EN) : (cz.) rozebrać; (cz.) wywichnąć; (cz.) zwichnąć
+[disjointed]disjointed (EN) : (p.) bezładny; (p.) chaotyczny
+[disjunction]disjunction (EN) : (rz.) alternatywa; (rz.) dysjunkcja
+[disjunctive]disjunctive (EN) : (p.) dysjunkcyjny; (p.) dysjunktywny; (p.) rozłączny
+[disk]disk (EN) : (rz.) dysk; (rz.) dyskietka; (rz.) krążek; (rz.) płyta; (rz.) tarcza
+[diskette]diskette (EN) : (rz.) dyskietka
+[dislike]dislike (EN) : (rz.) antypatia; (rz.) idiosynkrazja; (rz.) niechęć; (rz.) odraza
+[dislocate]dislocate (EN) : (cz.) dyslokować; (cz.) hamować; (cz.) przemieścić; (cz.) przemieszczać; (cz.) przesunąć; (cz.) wywichnąć; (cz.) zaburzać; (cz.) zdezorganizować; (cz.) zwichnąć
+[dislocation]dislocation (EN) : (rz.) burzenie; (rz.) dyslokacja; (rz.) przemieszczenie; (rz.) wybicie; (rz.) zwichnięcie
+[dislodge]dislodge (EN) : (cz.) przemieszczać; (cz.) usuwać; (cz.) wypędzać; (cz.) wypierać; (cz.) wyrywać; (cz.) wysiedlać
+[dislodgement]dislodgement (EN) : (rz.) usunięcie; (rz.) wyparcie; (rz.) wysiedlenie
+[disloyal]disloyal (EN) : (p.) nielojalny; (p.) nieprawomyślny; (p.) wiarołomny
+[disloyalty]disloyalty (EN) : (rz.) nielojalność; (rz.) niewierność; (rz.) wiarołomność
+[dismal]dismal (EN) : (p.) fatalny; (p.) nędzny; (p.) ponury; (p.) posępny; (p.) słaby; (p.) straszny
+[dismally]dismally (EN) : (p-sł.) bardzo; (p-sł.) przeraźliwie; (p-sł.) strasznie
+[dismantle]dismantle (EN) : (cz.) demontować; (cz.) rozbrajać; (cz.) rozebrać; (cz.) rozmontować; (cz.) rozmontowywać; (cz.) zdemontować
+[dismantlement]dismantlement (EN) : (rz.) rozłożenie
+[dismay]dismay (EN) : (cz.) konsternować; (cz.) przerażać; (cz.) przerazić; (cz.) rozczarowywać; (cz.) skonsternować; (cz.) wystraszyć; (rz.) konsternacja; (rz.) niesmak; (rz.) przerażenie; (rz.) rozczarowanie
+[dismember]dismember (EN) : (cz.) poćwiartować; (cz.) rozczłonkować; (cz.) rozczłonkowywać
+[dismemberment]dismemberment (EN) : (rz.) rozczłonkowanie
+[dismiss]dismiss (EN) : (cz.) eliminować; (cz.) oddalać; (cz.) oddalić; (cz.) odprawiać; (cz.) odrzucać; (cz.) odwoływać; (cz.) pozbyć; (cz.) wyeliminować; (cz.) wyrzucać; (cz.) zwalniać; (cz.) zwolnić
+[dismissal]dismissal (EN) : (rz.) dymisja; (rz.) oddalenie; (rz.) odprawa; (rz.) odprawienie; (rz.) odwołanie; (rz.) wydalenie; (rz.) wymówienie; (rz.) zbycie; (rz.) zwolnienie
+[dismount]dismount (EN) : (cz.) demontować; (cz.) schodzić; (cz.) wymontować; (cz.) zdemontować; (cz.) zdjąć; (cz.) zsiadać
+[dismounted]dismounted (EN) : (cz.) wymontować
+[disobedience]disobedience (EN) : (rz.) nieposłuszeństwo
+[disobedient]disobedient (EN) : (p.) nieposłuszny; (p.) niesforny; (p.) oporny
+[disorder]disorder (EN) : (cz.) roztrzepać; (cz.) rozwichrzyć; (rz.) bałagan; (rz.) bezład; (rz.) choroba; (rz.) dolegliwość; (rz.) nieład; (rz.) nieporządek; (rz.) rozprzężenie; (rz.) rozstrój; (rz.) zaburzenie
+[disorderly]disorderly (EN) : (p.) burzliwy; (p.) chaotyczny; (p.) nieporządny
+[disorganization]disorganization (EN) : (rz.) dezorganizacja
+[disorganize]disorganize (EN) : (cz.) dezorganizować; (cz.) zdezorganizować
+[disorient]disorient (EN) : (cz.) zdezorientować
+[disorientate]disorientate (EN) : (cz.) dezorientować; (cz.) zdezorientować
+[disorientation]disorientation (EN) : (rz.) dezorientacja
+[disown]disown (EN) : (cz.) dezawuować; (cz.) wypierać; (cz.) wyrzekać
+[disparage]disparage (EN) : (cz.) dyskredytować; (cz.) ubliżać; (cz.) zbluzgać; (cz.) zdyskredytować
+[disparagement]disparagement (EN) : (rz.) dyskredytowanie; (rz.) ujma
+[disparate]disparate (EN) : (p.) odmienny; (p.) różny
+[disparity]disparity (EN) : (rz.) nierówność; (rz.) różnica
+[dispassion]dispassion (EN) : (rz.) beznamiętność
+[dispassionate]dispassionate (EN) : (p.) beznamiętny; (p.) bezstronny; (p.) obojętny; (p.) spokojny
+[dispatch]dispatch (EN) : (cz.) alokować; (cz.) ekspediować; (cz.) nadawać; (cz.) odprawiać; (cz.) pałaszować; (cz.) wyekspediować; (cz.) wysyłać; (cz.) załatwiać; (cz.) załatwić; (rz.) depesza; (rz.) ekspedycja; (rz.) pośpiech; (rz.) wiadomość; (rz.) wysyłka; (rz.) załatwienie
+[dispatcher]dispatcher (EN) : (rz.) dyspozytor; (rz.) wysyłanie
+[dispel]dispel (EN) : (cz.) rozpędzać; (cz.) rozpędzić; (cz.) rozpraszać; (cz.) rozsiać; (cz.) rozsypać; (cz.) rozwiać; (cz.) rozwierać
+[dispensable]dispensable (EN) : (p.) zbędny; (p.) zbyteczny
+[dispensary]dispensary (EN) : (rz.) ambulatorium; (rz.) apteka; (rz.) poradnia; (rz.) przychodnia
+[dispensation]dispensation (EN) : (rz.) dyspensa; (rz.) rozdawanie; (rz.) zgoda
+[dispense]dispense (EN) : (cz.) dawkować; (cz.) dozować; (cz.) dyrektorować; (cz.) dyspensować; (cz.) obyć; (cz.) przygotowywać; (cz.) rozdzielać; (cz.) udzielać; (cz.) wydawać
+[dispenser]dispenser (EN) : (rz.) aptekarz; (rz.) dozownik; (rz.) dystrybutor; (rz.) maszyna; (rz.) zasobnik
+[dispersal]dispersal (EN) : (rz.) dyspersja; (rz.) rozpraszanie; (rz.) rozproszenie
+[dispersant]dispersant (EN) : (rz.) dyspergator
+[disperse]disperse (EN) : (cz.) dyspergować; (cz.) rozbiegać; (cz.) rozganiać; (cz.) rozpędzać; (cz.) rozpędzić; (cz.) rozpraszać; (cz.) rozproszyć; (cz.) rozprzestrzeniać; (cz.) rozrzucać; (cz.) rozsiać; (cz.) rozsypać; (cz.) rozsypywać
+[dispersing]dispersing (EN) : (cz.) rozproszyć
+[dispersion]dispersion (EN) : (rz.) dyspersja; (rz.) rozproszenie; (rz.) rozrzut; (rz.) rozsiew; (rz.) rozszczepienie
+[dispirit]dispirit (EN) : (cz.) nadąsać; (cz.) przygnębiać; (cz.) zdeprymować
+[displace]displace (EN) : (cz.) przemieścić; (cz.) przemieszczać; (cz.) przenieść; (cz.) przenosić; (cz.) przesiedlać; (cz.) przestawiać; (cz.) przestawić; (cz.) przesuwać; (cz.) rugować; (cz.) wypierać; (cz.) wyprzeć; (cz.) wysiedlać; (cz.) zastąpić; (cz.) zastępować
+[displacement]displacement (EN) : (rz.) przemieszczenie; (rz.) przesiedlenie; (rz.) przestawienie; (rz.) przesunięcie; (rz.) przesuwanie; (rz.) wyparcie; (rz.) wypieranie; (rz.) wyporność; (rz.) wysiedlenie
+[display]display (EN) : (cz.) eksponować; (cz.) manifestować; (cz.) okazywać; (cz.) pojawić; (cz.) przejawiać; (cz.) roztaczać; (cz.) ujawniać; (cz.) ujawnić; (cz.) wykładać; (cz.) wystawiać; (cz.) wyświetlać; (cz.) wywiesić; (rz.) buńczuczność; (rz.) ekran; (rz.) eksponat; (rz.) manifestacja; (rz.) monitor; (rz.) objaw; (rz.) obrazowanie; (rz.) ostentacja; (rz.) pokaz; (rz.) popis; (rz.) wystawa; (rz.) wyświetlacz; (rz.) wyświetlenie; (rz.) zobrazowanie
+[display-oriented]display-oriented (EN) : (p.) ekranowy
+[displease]displease (EN) : (cz.) degustować; (cz.) denerwować; (cz.) drażnić; (cz.) irytować; (cz.) oburzać; (cz.) podrażniać; (cz.) podrażnić; (cz.) urażać; (cz.) zdenerwować; (cz.) zirytować
+[displeasure]displeasure (EN) : (rz.) niezadowolenie; (rz.) oburzenie; (rz.) przykrość
+[disport]disport (EN) : (cz.) zabawiać
+[disposable]disposable (EN) : (p.) dyspozycyjny
+[disposal]disposal (EN) : (rz.) dysponowanie; (rz.) dyspozycja; (rz.) kierownictwo; (rz.) likwidacja; (rz.) oddanie; (rz.) pozbycie; (rz.) pozbywanie; (rz.) rozmieszczenie; (rz.) rozporządzanie; (rz.) rozporządzenie; (rz.) unieszkodliwienie; (rz.) usunięcie; (rz.) usuwanie; (rz.) utylizacja; (rz.) utylizowanie; (rz.) zbycie
+[dispose]dispose (EN) : (cz.) dysponować; (cz.) pozbyć; (cz.) pozbywać; (cz.) rozkładać; (cz.) rozmieszczać; (cz.) rozporządzać; (cz.) roztasować; (cz.) sprzedawać; (cz.) ustawiać; (cz.) wyzbyć; (cz.) zbyć; (cz.) zbywać
+[disposed]disposed (EN) : (cz.) unieszkodliwić; (cz.) utylizować; (p.) gotowy; (p.) skłonny
+[disposer]disposer (EN) : (rz.) dysponent
+[disposition]disposition (EN) : (rz.) dyslokacja; (rz.) dyspozycja; (rz.) rozkład; (rz.) rozłożenie; (rz.) skłonność; (rz.) sprzedaż; (rz.) usposobienie; (rz.) zarządzenie
+[dispossess]dispossess (EN) : (cz.) wysiedlać; (cz.) wywłaszczać
+[dispraise]dispraise (EN) : (cz.) ganić; (cz.) poniżać; (rz.) ganienie; (rz.) poniżanie
+[disproof]disproof (EN) : (rz.) odparcie; (rz.) zbijanie
+[disproportion]disproportion (EN) : (rz.) dysproporcja
+[disproportionate]disproportionate (EN) : (p.) nieproporcjonalny; (p.) niewspółmierny
+[disproportionately]disproportionately (EN) : (p-sł.) nieproporcjonalnie
+[disprove]disprove (EN) : (cz.) bić; (cz.) falsyfikować; (cz.) obalać; (cz.) zbić
+[disputable]disputable (EN) : (p.) sporny; (p.) wątpliwy
+[disputant]disputant (EN) : (rz.) dyskutant; (rz.) dysputant
+[dispute]dispute (EN) : (cz.) dyskutować; (cz.) dysputować; (cz.) kwestionować; (cz.) podważać; (cz.) roztrząsać; (cz.) spierać; (cz.) sprzeczać; (cz.) walczyć; (cz.) wątpić; (cz.) zaprzeczać; (rz.) dysputa; (rz.) nieporozumienie; (rz.) spór; (rz.) zatarg
+[disqualification]disqualification (EN) : (rz.) dyskwalifikacja; (rz.) dyskwalifikowanie; (rz.) odebranie
+[disqualified]disqualified (EN) : (cz.) zdyskwalifikować
+[disqualify]disqualify (EN) : (cz.) dyskwalifikować; (cz.) wykluczać; (cz.) zakazać; (cz.) zdyskwalifikować
+[disquiet]disquiet (EN) : (rz.) niepokój; (rz.) zaniepokojenie
+[disquietude]disquietude (EN) : (rz.) niepokój; (rz.) zaniepokojenie
+[disregard]disregard (EN) : (cz.) abstrahować; (cz.) ignorować; (cz.) lekceważyć; (cz.) pomijać; (cz.) poniewierać; (rz.) lekceważenie; (rz.) poniewierka
+[disrelish]disrelish (EN) : (rz.) niechęć; (rz.) odraza
+[disrepair]disrepair (EN) : (rz.) zniszczenie
+[disreputable]disreputable (EN) : (p.) haniebny
+[disrepute]disrepute (EN) : (rz.) kompromitacja
+[disrespect]disrespect (EN) : (rz.) lekceważenie; (rz.) nieuszanowanie
+[disrespectful]disrespectful (EN) : (p.) niedelikatny; (p.) obraźliwy
+[disrespectfully]disrespectfully (EN) : (p-sł.) lekceważąco
+[disrobe]disrobe (EN) : (cz.) rozbierać
+[disrupt]disrupt (EN) : (cz.) kruszyć; (cz.) niszczyć; (cz.) pokrzyżować; (cz.) przerywać; (cz.) przeszkadzać; (cz.) rozerwać; (cz.) rozrywać; (cz.) rozweselać; (cz.) zaburzać; (cz.) zaburzyć; (cz.) zakłócać; (cz.) zakłócić
+[disruption]disruption (EN) : (rz.) rozdział; (rz.) rozerwanie; (rz.) zakłócenie
+[disruptive]disruptive (EN) : (p.) destrukcyjny; (p.) kruszący; (p.) rozrywający; (p.) zakłóceniowy
+[dissatisfaction]dissatisfaction (EN) : (rz.) niezadowolenie
+[dissatisfied]dissatisfied (EN) : (p.) halucynacyjny
+[dissatisfy]dissatisfy (EN) : (cz.) rozgniewać
+[dissect]dissect (EN) : (cz.) analizować; (cz.) rozciąć; (cz.) rozcinać
+[dissection]dissection (EN) : (rz.) preparat; (rz.) rozebranie; (rz.) sekcja
+[dissemble]dissemble (EN) : (cz.) przemilczać; (cz.) udawać; (cz.) ukrywać
+[dissembler]dissembler (EN) : (rz.) fałszywiec; (rz.) obłudnik
+[disseminate]disseminate (EN) : (cz.) posiać; (cz.) rozpowszechniać; (cz.) rozprowadzać; (cz.) rozsiewać; (cz.) siać; (cz.) szerzyć
+[dissemination]dissemination (EN) : (rz.) rozpowszechnienie; (rz.) rozsiew; (rz.) szerzenie
+[dissension]dissension (EN) : (rz.) niezgoda; (rz.) zwada
+[dissent]dissent (EN) : (cz.) różnić; (rz.) herezja; (rz.) odstępstwo; (rz.) rozłam; (rz.) różnica
+[dissenter]dissenter (EN) : (rz.) dysydent; (rz.) heretyk; (rz.) innowierca; (rz.) nonkonformista; (rz.) odszczepieniec
+[dissertation]dissertation (EN) : (rz.) dysertacja; (rz.) elaborat
+[disservice]disservice (EN) : (rz.) szkoda; (rz.) uszczerbek
+[dissever]dissever (EN) : (cz.) oddzielać; (cz.) rozdzielać
+[dissidence]dissidence (EN) : (rz.) opozycja
+[dissident]dissident (EN) : (p.) odmienny; (rz.) dysydent; (rz.) odszczepieniec
+[dissimilar]dissimilar (EN) : (p.) niepodobny; (p.) odmienny
+[dissimilarity]dissimilarity (EN) : (rz.) niepodobieństwo; (rz.) odmienność; (rz.) różnica
+[dissimilation]dissimilation (EN) : (rz.) dysymilacja
+[dissimilitude]dissimilitude (EN) : (rz.) nierówność; (rz.) różnica
+[dissimulate]dissimulate (EN) : (cz.) udawać; (cz.) ukrywać
+[dissimulation]dissimulation (EN) : (rz.) obłuda; (rz.) symulowanie; (rz.) udawanie
+[dissipate]dissipate (EN) : (cz.) birbantować; (cz.) odprowadzać; (cz.) rozganiać; (cz.) rozpraszać; (cz.) rozproszyć; (cz.) roztrwaniać; (cz.) trwonić
+[dissipated]dissipated (EN) : (p.) rozpustny
+[dissipation]dissipation (EN) : (rz.) dyssypacja; (rz.) rozgonienie; (rz.) rozpraszanie; (rz.) rozproszenie; (rz.) rozpusta; (rz.) roztrwonienie; (rz.) trwonienie
+[dissipative]dissipative (EN) : (p.) rozpraszający; (p.) stratny
+[dissociable]dissociable (EN) : (p.) antyspołeczny
+[dissociate]dissociate (EN) : (cz.) dysocjować; (cz.) odcinać; (cz.) oddzielać; (cz.) odłączać; (cz.) rozdzielać; (cz.) rozłączać
+[dissociation]dissociation (EN) : (rz.) dysocjacja; (rz.) odłączanie; (rz.) rozdzielenie; (rz.) rozkojarzenie; (rz.) rozpad
+[dissolubility]dissolubility (EN) : (rz.) rozpuszczalność
+[dissoluble]dissoluble (EN) : (p.) rozerwalny; (p.) rozpuszczalny; (p.) rozwiązalny
+[dissolute]dissolute (EN) : (p.) rozpustny
+[dissolution]dissolution (EN) : (rz.) rozkład; (rz.) rozpad; (rz.) rozpuszczanie; (rz.) rozpuszczenie; (rz.) roztwór; (rz.) rozwiązanie
+[dissolve]dissolve (EN) : (cz.) rozkładać; (cz.) rozpuszczać; (cz.) rozwiązać; (cz.) rozwiązywać; (cz.) zrywać
+[dissolved]dissolved (EN) : (cz.) rozpuścić
+[dissolvent]dissolvent (EN) : (p.) rozkładowy; (rz.) rozpuszczalnik
+[dissonance]dissonance (EN) : (rz.) dysonans
+[dissuade]dissuade (EN) : (cz.) odradzać; (cz.) odwieść; (cz.) odwodzić
+[dissuasion]dissuasion (EN) : (rz.) odradzanie; (rz.) odwodzenie
+[dissymmetry]dissymmetry (EN) : (rz.) asymetria; (rz.) chiralność
+[distaff]distaff (EN) : (rz.) kądziel
+[distance]distance (EN) : (cz.) dystansować; (cz.) odseparowywać; (rz.) dal; (rz.) dalekość; (rz.) drogomierz; (rz.) dystans; (rz.) oddalenie; (rz.) odległość; (rz.) odstęp
+[distant]distant (EN) : (p.) chłodny; (p.) daleki; (p.) krewny; (p.) nieobecny; (p.) odległy; (p.) zamiejscowy; (p.) zamierzchły
+[distantly]distantly (EN) : (p-sł.) daleko
+[distaste]distaste (EN) : (rz.) antypatia; (rz.) awersja; (rz.) niechęć; (rz.) niesmak; (rz.) wstręt
+[distasteful]distasteful (EN) : (p.) nieprzyjemny; (p.) obrzydliwy; (p.) przykry; (p.) wstrętny
+[distend]distend (EN) : (cz.) rozciągać; (cz.) rozszerzać
+[distensible]distensible (EN) : (p.) rozciągliwy; (p.) rozszerzalny
+[distension]distension (EN) : (rz.) rozszerzanie
+[distich]distich (EN) : (rz.) dwuwiersz; (rz.) dystych
+[distil]distil (EN) : (cz.) destylować; (cz.) sączyć; (cz.) wydestylować; (cz.) wypreparowywać
+[distillate]distillate (EN) : (rz.) destylat
+[distillation]distillation (EN) : (rz.) destylacja
+[distillatory]distillatory (EN) : (p.) destylacyjny
+[distiller]distiller (EN) : (rz.) destylator; (rz.) gorzelnik
+[distillery]distillery (EN) : (rz.) destylarnia; (rz.) gorzelnia; (rz.) gorzelnictwo
+[distinct]distinct (EN) : (p.) dobitny; (p.) niedwuznaczny; (p.) niewątpliwy; (p.) oddzielny; (p.) odmienny; (p.) odrębny; (p.) różny; (p.) rozróżnialny; (p.) wybitny; (p.) wydatny; (p.) wyrazisty; (p.) wyraźny
+[distinction]distinction (EN) : (rz.) dystynkcja; (rz.) odrębność; (rz.) odróżnienie; (rz.) odznaczenie; (rz.) rozgraniczenie; (rz.) różnica; (rz.) rozróżnienie; (rz.) wyróżnienie
+[distinctive]distinctive (EN) : (p.) charakterystyczny; (p.) specyficzny; (p.) wyraźny; (p.) znamienny
+[distinctively]distinctively (EN) : (p-sł.) wyróżniająco
+[distinctiveness]distinctiveness (EN) : (rz.) odrębność
+[distinctly]distinctly (EN) : (p-sł.) dobitnie; (p-sł.) jasno; (p-sł.) wydatnie; (p-sł.) wyraźnie
+[distinctness]distinctness (EN) : (rz.) odmienność; (rz.) wyrazistość
+[distinguee]distinguee (EN) : (p.) dystyngowany
+[distinguish]distinguish (EN) : (cz.) odróżniać; (cz.) odznaczyć; (cz.) rozpoznawać; (cz.) rozróżniać; (cz.) rozróżnić; (cz.) wyróżniać
+[distinguishable]distinguishable (EN) : (p.) rozpoznawalny; (p.) rozróżnialny
+[distinguished]distinguished (EN) : (cz.) odróżnić; (p.) dostojny; (p.) dystyngowany; (p.) wybitny; (p.) znakomity
+[distort]distort (EN) : (cz.) przekręcać; (cz.) wykrzywiać; (cz.) wykrzywić; (cz.) wypaczać; (cz.) wypaczyć; (cz.) zniekształcać; (cz.) zniekształcić
+[distorted]distorted (EN) : (p.) zniekształcony
+[distortion]distortion (EN) : (rz.) dystorsja; (rz.) odkształcenie; (rz.) przekłamanie; (rz.) spaczanie; (rz.) spaczenie; (rz.) wykoślawienie; (rz.) wykrzywienie; (rz.) wypaczenie; (rz.) zakłócanie; (rz.) zakłócenie; (rz.) zniekształcanie; (rz.) zniekształcenie
+[distract]distract (EN) : (cz.) niepokoić; (cz.) odciągać; (cz.) oderwać; (cz.) odrywać; (cz.) przeszkadzać; (cz.) rozpraszać; (cz.) rozrywać
+[distractedness]distractedness (EN) : (rz.) roztrzepanie
+[distraction]distraction (EN) : (rz.) dystrakcja; (rz.) oderwanie; (rz.) rozproszenie; (rz.) rozrywka; (rz.) rozstrój; (rz.) roztargnienie; (rz.) rozterka; (rz.) zakłócenie
+[distress]distress (EN) : (cz.) martwić; (cz.) udręczać; (cz.) unieszczęśliwiać; (rz.) boleść; (rz.) cierpienie; (rz.) niebezpieczeństwo; (rz.) nieszczęście; (rz.) przykrość; (rz.) rozpacz; (rz.) strapienie; (rz.) udręka; (rz.) zmartwienie
+[distressed]distressed (EN) : (p.) bolesny
+[distressful]distressful (EN) : (p.) rozpaczliwy; (p.) smutny
+[distressing]distressing (EN) : (p.) rozpaczliwy
+[distribute]distribute (EN) : (cz.) dystrybuować; (cz.) dzielić; (cz.) rozdawać; (cz.) rozdzielać; (cz.) rozkolportować; (cz.) roznosić; (cz.) rozpowszechniać; (cz.) rozpraszać; (cz.) rozprowadzać; (cz.) rozprowadzić; (cz.) rozsiedlać; (cz.) rozsyłać
+[distributing]distributing (EN) : (p.) rozdzielczy
+[distribution]distribution (EN) : (rz.) dystrybucja; (rz.) dystrybuowanie; (rz.) kolportaż; (rz.) podział; (rz.) repartycja; (rz.) rozdanie; (rz.) rozdawnictwo; (rz.) rozdział; (rz.) rozdzielanie; (rz.) rozdzielenie; (rz.) rozdzielnictwo; (rz.) rozkład; (rz.) rozmieszczenie; (rz.) roznoszenie; (rz.) rozproszenie; (rz.) rozrząd; (rz.) rozsyłka
+[distributional]distributional (EN) : (p.) dystrybucyjny
+[distributive]distributive (EN) : (p.) rozdawniczy; (p.) rozdzielczy
+[distributor]distributor (EN) : (rz.) dostawca; (rz.) dystrybutor; (rz.) kolporter; (rz.) rozdzielacz; (rz.) rozdzielnik; (rz.) roznosiciel; (rz.) zapłon
+[distributor's]distributor's (EN) : (p.) kolporterski
+[district]district (EN) : (rz.) dystrykt; (rz.) dzielnica; (rz.) obręb; (rz.) obwód; (rz.) okręg; (rz.) powiat; (rz.) region; (rz.) rejon; (rz.) rewir; (rz.) województwo
+[distrust]distrust (EN) : (rz.) niedowierzanie; (rz.) nieufność; (rz.) podejrzliwość
+[distrustful]distrustful (EN) : (p.) nieufny; (p.) podejrzliwy
+[distrustfully]distrustfully (EN) : (p-sł.) nieufnie
+[disturb]disturb (EN) : (cz.) mącić; (cz.) niepokoić; (cz.) przeszkadzać; (cz.) ruszać; (cz.) wzburzać; (cz.) zakłócać; (cz.) zmieniać
+[disturbance]disturbance (EN) : (rz.) awantura; (rz.) burda; (rz.) niepokój; (rz.) niepokojenie; (rz.) zaburzenie; (rz.) zakłócenie
+[disturbingly]disturbingly (EN) : (p-sł.) niepokojąco
+[disulfide]disulfide (EN) : (rz.) dwusiarczek
+[disunite]disunite (EN) : (cz.) rozłączać
+[disunity]disunity (EN) : (rz.) niezgoda; (rz.) rozbicie
+[disuse]disuse (EN) : (rz.) odzwyczajenie; (rz.) zaprzestanie; (rz.) zarzucenie
+[disutility]disutility (EN) : (rz.) nieużyteczność
+[disyllable]disyllable (EN) : (rz.) dwuzgłoskowiec
+[ditch]ditch (EN) : (cz.) drenować; (cz.) porzucać; (cz.) rzucać; (cz.) wywalać; (rz.) bariera; (rz.) kanał; (rz.) okop; (rz.) przekop; (rz.) rów
+[ditcher]ditcher (EN) : (rz.) dróżnik; (rz.) koparka
+[ditching]ditching (EN) : (rz.) kopanie; (rz.) zarzucanie
+[dither]dither (EN) : (cz.) dygotać; (rz.) drżenie; (rz.) wahanie
+[dithyramb]dithyramb (EN) : (rz.) dytyramb
+[dithyrambic]dithyrambic (EN) : (p.) dytyrambiczny
+[ditto]ditto (EN) : (rz.) piosenka
+[ditty]ditty (EN) : (rz.) piosenka; (rz.) śpiewka
+[diuretic]diuretic (EN) : (p.) moczopędny
+[diurnal]diurnal (EN) : (p.) codzienny; (p.) dobowy; (p.) dzienny
+[diurnally]diurnally (EN) : (p-sł.) codziennie
+[diva]diva (EN) : (rz.) diwa
+[divagation]divagation (EN) : (rz.) dywagacja
+[divalent]divalent (EN) : (p.) dwuwartościowy
+[divan]divan (EN) : (rz.) palarnia
+[dive]dive (EN) : (cz.) nurkować; (cz.) pikować; (cz.) pogrążać; (cz.) rzucać; (cz.) wskakiwać; (cz.) zanurzać; (rz.) melina; (rz.) nurek; (rz.) nurkowanie; (rz.) speluna; (rz.) spelunka; (rz.) zanurzenie
+[diver]diver (EN) : (rz.) nurek; (rz.) płetwonurek; (rz.) poławiacz
+[diver's]diver's (EN) : (p.) nurkowy
+[diverge]diverge (EN) : (cz.) odbiegać; (cz.) odchylać; (cz.) rozbiegać; (cz.) rozchodzić
+[divergence]divergence (EN) : (rz.) dywergencja; (rz.) odchylenie; (rz.) rozbieżność
+[divergent]divergent (EN) : (p.) rozbieżny; (p.) różnorodny
+[diverse]diverse (EN) : (p.) odmienny; (p.) rozliczny; (p.) rozmaity; (p.) różnoraki; (p.) różnorodny; (p.) różny
+[diversely]diversely (EN) : (p-sł.) rozmaicie; (p-sł.) różnie
+[diversification]diversification (EN) : (rz.) dywersyfikacja; (rz.) urozmaicenie; (rz.) zróżnicowanie
+[diversified]diversified (EN) : (p.) niejednolity
+[diversiform]diversiform (EN) : (p.) różnokształtny
+[diversify]diversify (EN) : (cz.) różnicować; (cz.) rozszerzać; (cz.) urozmaicać; (cz.) zróżnicować
+[diversion]diversion (EN) : (rz.) atrakcja; (rz.) dywersja; (rz.) objazd; (rz.) odchylenie; (rz.) odwrócenie; (rz.) rozrywka; (rz.) zmiana
+[diversionary]diversionary (EN) : (p.) dywersyjny
+[diversity]diversity (EN) : (rz.) niejednolitość; (rz.) rozmaitość; (rz.) różnorodność; (rz.) urozmaicenie; (rz.) zróżnicowanie
+[divert]divert (EN) : (cz.) kierować; (cz.) odchylać; (cz.) odciągać; (cz.) odwracać; (cz.) przeznaczać; (cz.) śmieszyć; (cz.) zabawiać; (cz.) zawracać; (cz.) zbaczać; (cz.) zmieniać
+[divest]divest (EN) : (cz.) pozbawiać; (cz.) rezygnować; (cz.) rozbierać; (cz.) uwalniać; (cz.) wynaradawiać; (cz.) zrezygnować
+[divide]divide (EN) : (cz.) dwoić; (cz.) dzielić; (cz.) podzielać; (cz.) podzielić; (cz.) porozdzielać; (cz.) przedzielać; (cz.) różnić; (cz.) rozwidlać; (cz.) skłócać; (rz.) dzielenie; (rz.) podziel; (rz.) wododział
+[dividend]dividend (EN) : (rz.) dywidenda; (rz.) tantiema; (rz.) wygrana
+[divider]divider (EN) : (rz.) dzielnik; (rz.) przegroda; (rz.) rozdzielacz
+[dividers]dividers (EN) : (rz.) cyrkiel
+[divination]divination (EN) : (rz.) przepowiednia; (rz.) wróżbiarstwo; (rz.) wróżenie
+[divine]divine (EN) : (cz.) domyślać; (cz.) przepowiadać; (cz.) zgadywać; (p.) boski; (p.) boży; (p.) duchowny
+[divinely]divinely (EN) : (p-sł.) bosko; (p-sł.) cudownie
+[diviner]diviner (EN) : (rz.) różdżkarz; (rz.) wróżbita
+[diving-board]diving-board (EN) : (rz.) skocznia; (rz.) trampolina
+[divinity]divinity (EN) : (rz.) boskość; (rz.) bóstwo; (rz.) religia; (rz.) teologia
+[divisibility]divisibility (EN) : (rz.) podzielność; (rz.) rozdzielność
+[divisible]divisible (EN) : (p.) podzielny
+[division]division (EN) : (rz.) bariera; (rz.) dywizja; (rz.) dział; (rz.) działka; (rz.) dzielenie; (rz.) liga; (rz.) oddział; (rz.) podział; (rz.) przedział; (rz.) rozdwojenie; (rz.) rozdzielenie; (rz.) rozłam; (rz.) rozpad; (rz.) sekcja; (rz.) wydzielenie
+[divisional]divisional (EN) : (p.) dywizyjny
+[divisor]divisor (EN) : (rz.) dzielnik; (rz.) podzielnik
+[divorce]divorce (EN) : (cz.) rozwieść; (cz.) rozwodzić; (rz.) rozłączenie; (rz.) rozwód
+[divorced]divorced (EN) : (p.) rozwiedziony
+[divorcee]divorcee (EN) : (rz.) rozwódka; (rz.) rozwodnik
+[divorcé]divorcé (EN) : (rz.) rozwód
+[divot]divot (EN) : (rz.) garstka; (rz.) kawałek
+[divulgation]divulgation (EN) : (rz.) rozgłoszenie
+[divulge]divulge (EN) : (cz.) wyjawiać
+[divvy]divvy (EN) : (rz.) dywidenda
+[dizzily]dizzily (EN) : (p-sł.) zawrotnie
+[dizzy]dizzy (EN) : (p.) zawrotny
+[do]do (EN) : (cz.) czynić; (cz.) nadawać; (cz.) radzić; (cz.) robić; (cz.) sprawiać; (cz.) wystarczać; (cz.) zrobić; (cz.) zrzucać
+[do-all]do-all (EN) : (p.) wszechstronny
+[do-hickey]do-hickey (EN) : (rz.) mechanizm
+[do-it-yourself]do-it-yourself (EN) : (rz.) majsterkowanie
+[do-jigger]do-jigger (EN) : (rz.) mechanizm
+[do-nothing]do-nothing (EN) : (rz.) nierób; (rz.) obibok
+[doable]doable (EN) : (p.) wykonalny
+[doc]doc (EN) : (p.) portowy; (rz.) dok; (rz.) dokument; (rz.) mędrek; (rz.) plik
+[docile]docile (EN) : (p.) pojętny; (p.) posłuszny; (p.) potulny
+[docilely]docilely (EN) : (p-sł.) pojętnie
+[docility]docility (EN) : (rz.) posłuszeństwo; (rz.) uległość
+[dock]dock (EN) : (cz.) dokować; (cz.) obcinać; (cz.) potrącać; (rz.) dok; (rz.) ława; (rz.) podogonie; (rz.) szczaw
+[dockage]dockage (EN) : (rz.) obcięcie; (rz.) potrącenie
+[dockyard]dockyard (EN) : (rz.) stocznia
+[doctor]doctor (EN) : (cz.) fałszować; (rz.) doktor; (rz.) doktorat; (rz.) lekarz; (rz.) zgarniacz
+[doctor's]doctor's (EN) : (p.) doktorski
+[doctoral]doctoral (EN) : (p.) doktorski
+[doctorate]doctorate (EN) : (rz.) doktorat
+[doctrinaire]doctrinaire (EN) : (rz.) doktryner
+[doctrinal]doctrinal (EN) : (p.) doktrynalny
+[doctrinarian]doctrinarian (EN) : (p.) doktrynerski; (rz.) doktryner
+[doctrine]doctrine (EN) : (rz.) doktryna
+[document]document (EN) : (cz.) dokumentować; (cz.) opisywać; (rz.) dokument
+[documentaries]documentaries (EN) : (p.) udokumentowany
+[documentary]documentary (EN) : (p.) dokumentalny; (p.) dokumentarny
+[documentation]documentation (EN) : (rz.) dokumentacja; (rz.) dokumentowanie
+[documented]documented (EN) : (cz.) udokumentować
+[dodecagon]dodecagon (EN) : (rz.) dwunastokąt
+[dodecahedron]dodecahedron (EN) : (rz.) dwunastościan
+[dodge]dodge (EN) : (cz.) kluczyć; (cz.) omijać; (cz.) uskakiwać; (cz.) wymijać; (cz.) wymykać; (rz.) machinacja; (rz.) sztuczka; (rz.) unik
+[dodger]dodger (EN) : (rz.) spychacz
+[dodgy]dodgy (EN) : (p.) dziurawy; (p.) przebiegły; (p.) szachrajski
+[doe]doe (EN) : (rz.) królica; (rz.) łania
+[doe-hare]doe-hare (EN) : (rz.) zajęczyca
+[doer]doer (EN) : (rz.) rzemieślnik; (rz.) sprawca; (rz.) wykonawca; (rz.) wynalazca
+[doeskin]doeskin (EN) : (rz.) ircha
+[doff]doff (EN) : (cz.) muskać; (cz.) zdejmować
+[doffer]doffer (EN) : (rz.) odbieracz
+[dog]dog (EN) : (rz.) pies; (rz.) zabierak; (rz.) zaczep; (rz.) zapadka; (rz.) zderzak
+[dog-catcher]dog-catcher (EN) : (rz.) hycel; (rz.) rakarz
+[dog-collar]dog-collar (EN) : (rz.) koloratka; (rz.) obroża
+[dog-days]dog-days (EN) : (rz.) kanikuła
+[dogberry]dogberry (EN) : (p.) dereniowy; (rz.) dereń
+[dogcatcher]dogcatcher (EN) : (rz.) hycel; (rz.) rakarz
+[doge]doge (EN) : (rz.) doża
+[dogfish]dogfish (EN) : (rz.) koleń; (rz.) rekinek
+[doggedly]doggedly (EN) : (p-sł.) uparcie; (p-sł.) zawzięcie
+[doggedness]doggedness (EN) : (rz.) upór; (rz.) zacietrzewienie; (rz.) zawziętość
+[doggerel]doggerel (EN) : (rz.) fraszka
+[doggie]doggie (EN) : (rz.) piesek; (rz.) psiak; (rz.) psina
+[doggy]doggy (EN) : (rz.) piesek; (rz.) psina
+[dogma]dogma (EN) : (rz.) dogmat
+[dogmatic]dogmatic (EN) : (p.) dogmatyczny
+[dogmatically]dogmatically (EN) : (p-sł.) apodyktycznie; (p-sł.) dogmatycznie
+[dogmatism]dogmatism (EN) : (rz.) apodyktyczność; (rz.) dogmatyzm
+[dogmatist]dogmatist (EN) : (rz.) dogmatyk
+[dogmatize]dogmatize (EN) : (cz.) dogmatyzować
+[dogwood]dogwood (EN) : (rz.) dereń
+[doily]doily (EN) : (rz.) serwetka
+[doldrums]doldrums (EN) : (rz.) zastój
+[dole]dole (EN) : (rz.) cząstka; (rz.) część; (rz.) jałmużna; (rz.) zapomoga; (rz.) zasiłek
+[doleful]doleful (EN) : (p.) rzewny; (p.) smętny; (p.) żałosny
+[dolefully]dolefully (EN) : (p-sł.) smętnie
+[dolerite]dolerite (EN) : (rz.) doleryt
+[doll]doll (EN) : (rz.) kukiełka; (rz.) lala; (rz.) lalka
+[dollar]dollar (EN) : (rz.) dolar
+[dollish]dollish (EN) : (p.) lalkowaty
+[dollop]dollop (EN) : (rz.) masa
+[dolly]dolly (EN) : (rz.) lalka; (rz.) statyw; (rz.) tłuczek
+[dolmen]dolmen (EN) : (rz.) dolmen
+[dolomite]dolomite (EN) : (rz.) dolomit
+[dolorous]dolorous (EN) : (p.) smętny
+[dolphin]dolphin (EN) : (rz.) dalba; (rz.) delfin
+[dolt]dolt (EN) : (rz.) ciamajda
+[domain]domain (EN) : (rz.) domena; (rz.) dziedzina; (rz.) panowanie
+[dome]dome (EN) : (rz.) kopuła; (rz.) kopułka; (rz.) sklepienie
+[dome-like]dome-like (EN) : (p.) kopulasty
+[dome-shaped]dome-shaped (EN) : (p.) kopulasty
+[domed]domed (EN) : (p.) kopulasty
+[domestic]domestic (EN) : (p.) bytowy; (p.) domowy; (p.) krajowy; (p.) wewnętrzny; (rz.) służąca
+[domestically]domestically (EN) : (p-sł.) domowo; (p-sł.) wewnętrznie
+[domesticate]domesticate (EN) : (cz.) oswajać; (cz.) oswoić; (cz.) udomawiać; (cz.) udomowić
+[domestication]domestication (EN) : (rz.) aklimatyzacja; (rz.) oswojenie; (rz.) ucywilizowanie
+[domesticity]domesticity (EN) : (rz.) domatorstwo; (rz.) oswojenie
+[domical]domical (EN) : (p.) kopułowy
+[domicile]domicile (EN) : (rz.) miejsce
+[dominance]dominance (EN) : (rz.) dominacja; (rz.) przewaga
+[dominant]dominant (EN) : (p.) dominujący; (p.) majoryzujący; (p.) panujący
+[dominate]dominate (EN) : (cz.) dominować; (cz.) górować; (cz.) panować; (cz.) przeważać; (cz.) zdominować
+[domination]domination (EN) : (rz.) dominacja; (rz.) wszechwładza; (rz.) zwierzchnictwo
+[dominator]dominator (EN) : (rz.) władca
+[domineer]domineer (EN) : (cz.) dominować; (cz.) tyranizować
+[domineering]domineering (EN) : (p.) apodyktyczny; (p.) władczy
+[domineeringly]domineeringly (EN) : (p-sł.) despotycznie
+[dominie]dominie (EN) : (rz.) pastor
+[dominion]dominion (EN) : (rz.) dominium; (rz.) panowanie; (rz.) władza; (rz.) władztwo; (rz.) zwierzchnictwo
+[domino]domino (EN) : (rz.) domino; (rz.) klocek; (rz.) kostka
+[dominoes]dominoes (EN) : (rz.) domino
+[don]don (EN) : (cz.) wdziewać; (rz.) nauczyciel
+[donate]donate (EN) : (cz.) darować; (cz.) darowywać; (cz.) podarować; (cz.) sprezentować
+[donated]donated (EN) : (cz.) uzbierać
+[donation]donation (EN) : (rz.) dar; (rz.) darowizna; (rz.) datek; (rz.) dotacja; (rz.) oddawanie; (rz.) ofiarowanie
+[donator]donator (EN) : (rz.) dawca
+[done]done (EN) : (cz.) czynić; (cz.) odbyć; (cz.) odbywać; (cz.) uczynić
+[dong]dong (EN) : (rz.) kutas
+[donjon]donjon (EN) : (rz.) ostróg
+[donkey]donkey (EN) : (rz.) osioł
+[donnish]donnish (EN) : (p.) profesorski
+[donor]donor (EN) : (rz.) darczyńca; (rz.) dawca; (rz.) donor; (rz.) ofiarodawca
+[donut]donut (EN) : (rz.) pączek
+[doodle]doodle (EN) : (cz.) bazgrać
+[doodlebug]doodlebug (EN) : (rz.) różdżka
+[doom]doom (EN) : (cz.) osądzać; (cz.) osądzić; (cz.) skazywać; (rz.) fatalność; (rz.) fatum; (rz.) los; (rz.) przeznaczenie; (rz.) sąd; (rz.) stracenie; (rz.) wyrok; (rz.) zagłada; (rz.) zatracenie; (rz.) zatrata
+[door]door (EN) : (rz.) drzwi; (rz.) drzwiczki; (rz.) futryna; (rz.) odrzwia; (rz.) wrota
+[door-case]door-case (EN) : (rz.) odrzwia
+[door-frames]door-frames (EN) : (rz.) odrzwia
+[door-handle]door-handle (EN) : (rz.) klamka
+[door-keeper]door-keeper (EN) : (rz.) portier; (rz.) stróż
+[door-knob]door-knob (EN) : (rz.) klamka
+[door-mat]door-mat (EN) : (rz.) wycieraczka
+[doorbell]doorbell (EN) : (rz.) dzwonek
+[doorkeeper]doorkeeper (EN) : (rz.) dozorca; (rz.) portier; (rz.) stróż
+[doorknob]doorknob (EN) : (rz.) klamka
+[doorman]doorman (EN) : (rz.) portier
+[doormat]doormat (EN) : (rz.) słomianka; (rz.) wycieraczka
+[doorpost]doorpost (EN) : (rz.) stojak
+[doors]doors (EN) : (rz.) drzwi
+[doorstep]doorstep (EN) : (rz.) próg
+[doorway]doorway (EN) : (rz.) brama; (rz.) dostęp; (rz.) przejście; (rz.) wejście; (rz.) wjazd
+[dope]dope (EN) : (cz.) narkotyzować; (cz.) odurzać; (rz.) cellon; (rz.) dodatek; (rz.) domieszka; (rz.) doping; (rz.) gapa; (rz.) idiota; (rz.) maź; (rz.) narkotyk; (rz.) zaprawa
+[dopey]dopey (EN) : (p.) głupkowaty
+[dork]dork (EN) : (rz.) dziwak; (rz.) kretyn; (rz.) oryginał
+[dorm]dorm (EN) : (rz.) akademik
+[dormancy]dormancy (EN) : (rz.) sen; (rz.) spoczynek
+[dormant]dormant (EN) : (p.) bezczynny; (p.) nieaktywny; (p.) nieczynny
+[dormitory]dormitory (EN) : (rz.) akademik; (rz.) bursa; (rz.) internat
+[dormouse]dormouse (EN) : (rz.) koszatka; (rz.) popielica
+[dorsal]dorsal (EN) : (p.) grzbietowy
+[dosage]dosage (EN) : (rz.) dawkowanie; (rz.) dozowanie
+[dose]dose (EN) : (cz.) aplikować; (cz.) dawkować; (cz.) dozować; (rz.) dawka; (rz.) dawkowanie; (rz.) doza
+[dosimeter]dosimeter (EN) : (rz.) dawkomierz; (rz.) dozymetr
+[doss]doss (EN) : (rz.) noclegownia
+[dossier]dossier (EN) : (rz.) akta; (rz.) dokumentacja
+[dossiers]dossiers (EN) : (rz.) akta
+[dot]dot (EN) : (cz.) kropkować; (cz.) pstrzyć; (cz.) wykropkować; (rz.) bobas; (rz.) kropka; (rz.) pędrak
+[dotage]dotage (EN) : (rz.) zdziecinnienie
+[dotard]dotard (EN) : (rz.) ramol
+[dote]dote (EN) : (cz.) hołubić; (cz.) ramoleć; (cz.) ubóstwiać; (cz.) zdziecinnieć
+[doting]doting (EN) : (p.) troskliwy
+[dotty]dotty (EN) : (p.) durnowaty
+[double]double (EN) : (cz.) dublować; (cz.) kontrować; (cz.) podwajać; (cz.) podwoić; (cz.) powiększać; (cz.) rekontrować; (cz.) zdwajać; (p.) deblowy; (p.) podwójny; (p-sł.) dwójnasób; (p-sł.) podwójnie; (rz.) debel; (rz.) dubler; (rz.) dublowanie; (rz.) kaskader; (rz.) kontrafałda; (rz.) podwajanie; (rz.) podwój; (rz.) sobowtór
+[double-bass]double-bass (EN) : (rz.) basetla; (rz.) kontrabas
+[double-breasted]double-breasted (EN) : (p.) dwurzędowy
+[double-byte]double-byte (EN) : (p.) dwubajtowy
+[double-dealer]double-dealer (EN) : (rz.) krętacz
+[double-dealing]double-dealing (EN) : (rz.) dwulicowość
+[double-decker]double-decker (EN) : (rz.) piętrus
+[double-edged]double-edged (EN) : (p.) obosieczny
+[double-ended]double-ended (EN) : (p.) dwustronny
+[double-pole]double-pole (EN) : (p.) dwubiegunowy
+[double-sided]double-sided (EN) : (p.) dwustronny
+[double-talk]double-talk (EN) : (rz.) pustosłowie
+[double-tongued]double-tongued (EN) : (p.) fałszywy
+[doubler]doubler (EN) : (rz.) dubler; (rz.) łączniarka; (rz.) opera; (rz.) skręcarka
+[doublet]doublet (EN) : (rz.) dublet; (rz.) kubrak; (rz.) zdwojenie
+[doubletalk]doubletalk (EN) : (cz.) zwodzić; (rz.) pustosłowie
+[doubling]doubling (EN) : (cz.) podwajać; (rz.) dublowanie; (rz.) dwojenie; (rz.) kontrowanie; (rz.) podszycie; (rz.) podwajanie; (rz.) podwojenie; (rz.) zdwajanie; (rz.) zdwojenie
+[doubloon]doubloon (EN) : (rz.) dublon
+[doubly]doubly (EN) : (p-sł.) dwójnasób; (p-sł.) podwójnie
+[doubt]doubt (EN) : (cz.) powątpiewać; (cz.) wątpić; (cz.) zwątpić; (rz.) niepewność; (rz.) powątpiewanie; (rz.) wątpliwość; (rz.) zwątpienie
+[doubtful]doubtful (EN) : (p.) niepewny; (p.) wątpliwy
+[doubtfully]doubtfully (EN) : (p-sł.) niepewnie; (p-sł.) powątpiewająco; (p-sł.) wątpliwie
+[doubtless]doubtless (EN) : (p.) niewątpliwy; (p-sł.) niewątpliwie
+[douceur]douceur (EN) : (rz.) gratyfikacja; (rz.) łapówka
+[douche]douche (EN) : (rz.) natrysk; (rz.) tusz
+[dough]dough (EN) : (rz.) ciasto; (rz.) forsa; (rz.) kasa; (rz.) pieniądze; (rz.) szmal
+[doughnut]doughnut (EN) : (rz.) pączek
+[doughty]doughty (EN) : (p.) dzielny; (p.) tęgi
+[doughy]doughy (EN) : (p.) ciastowaty; (p.) ciastowy; (p.) zakalcowaty
+[dour]dour (EN) : (p.) srogi
+[dourness]dourness (EN) : (rz.) srogość
+[douse]douse (EN) : (cz.) oblewać; (cz.) przysłaniać; (cz.) zanurzać
+[dove]dove (EN) : (rz.) gołąb; (rz.) gołąbek; (rz.) gołębica
+[dovecot]dovecot (EN) : (rz.) gołębnik
+[dovecote]dovecote (EN) : (rz.) gołębnik
+[doves]doves (EN) : (rz.) turkawka
+[dovetail]dovetail (EN) : (cz.) pasować; (rz.) połączenie; (rz.) zacios
+[dowdy]dowdy (EN) : (p.) niemodny; (p.) zaniedbany
+[dowel]dowel (EN) : (rz.) dybel; (rz.) kołek
+[dower]dower (EN) : (cz.) uposażyć; (rz.) posag
+[down]down (EN) : (cz.) paść; (cz.) przełamywać; (cz.) wyłączać; (cz.) zestrzelić; (rz.) dół; (rz.) meszek; (rz.) puch; (rz.) puszek; (rz.) stos; (rz.) wydma
+[down-to-earth]down-to-earth (EN) : (p.) praktyczny; (p.) przyziemny; (p.) rozsądny
+[downer]downer (EN) : (rz.) barbituran
+[downfall]downfall (EN) : (rz.) degrengolada; (rz.) klęska; (rz.) ruina; (rz.) upadek; (rz.) zguba
+[downhearted]downhearted (EN) : (p.) smutny
+[downhill]downhill (EN) : (p.) spadzisty; (rz.) nachylenie
+[download]download (EN) : (cz.) kopiować; (cz.) pobierać; (cz.) pobrać; (cz.) przesłać; (cz.) ściągać; (cz.) ściągnąć; (cz.) sprowadzać; (cz.) sprowadzić
+[downloads]downloads (EN) : (rz.) pobieranie; (rz.) ściąga
+[downplay]downplay (EN) : (cz.) bagatelizować; (cz.) zbagatelizować
+[downplaying]downplaying (EN) : (rz.) bagatelizowanie
+[downpour]downpour (EN) : (rz.) deszcz; (rz.) ulewa
+[downright]downright (EN) : (p.) całkowity; (p.) szczery; (p.) wierutny
+[downsizing]downsizing (EN) : (rz.) redukcja; (rz.) wyrobów
+[downtime]downtime (EN) : (rz.) przestój
+[downtown]downtown (EN) : (rz.) centrum; (rz.) śródmieście
+[downturn]downturn (EN) : (rz.) spadek; (rz.) zmniejszenie
+[downward]downward (EN) : (p.) opadający; (p.) spadkowy; (p.) zstępny
+[downwind]downwind (EN) : (p.) zawietrzny
+[downy]downy (EN) : (p.) falisty; (p.) puchaty; (p.) puchowy; (p.) puszysty
+[dowry]dowry (EN) : (rz.) posag; (rz.) wiano
+[dowser]dowser (EN) : (rz.) różdżkarz
+[doxy]doxy (EN) : (rz.) kochanica; (rz.) pogląd
+[doyen]doyen (EN) : (rz.) nestor
+[doze]doze (EN) : (cz.) drzemać; (rz.) drzemka
+[dozen]dozen (EN) : (rz.) tuzin
+[dozer]dozer (EN) : (rz.) spycharka
+[drab]drab (EN) : (p.) bezbarwny; (p.) monotonny; (p.) nudny; (p.) szary
+[drabness]drabness (EN) : (rz.) szarzyzna
+[draconian]draconian (EN) : (p.) drakoński
+[draft]draft (EN) : (cz.) odkomenderować; (cz.) szkicować; (rz.) brudnopis; (rz.) ciąg; (rz.) cug; (rz.) konspekt; (rz.) pobór; (rz.) projekt; (rz.) przewiew; (rz.) rysunek; (rz.) standard; (rz.) szkic; (rz.) weksel; (rz.) zaciąg; (rz.) zanurzenie; (rz.) zarys
+[draftee]draftee (EN) : (rz.) rekrut
+[drafting]drafting (EN) : (rz.) ciągnienie; (rz.) kreślenie; (rz.) odciąganie; (rz.) projektowanie; (rz.) szkicowanie
+[draftsman]draftsman (EN) : (rz.) kreślarz; (rz.) rysownik
+[drag]drag (EN) : (cz.) bronować; (cz.) ciągać; (cz.) ciągnąć; (cz.) dłużyć; (cz.) powłóczyć; (cz.) prowadzić; (cz.) przeciągać; (cz.) trałować; (cz.) włóczyć; (rz.) męka; (rz.) mordęga; (rz.) nudziarz; (rz.) opór; (rz.) wlec; (rz.) włóczka; (rz.) włók; (rz.) włóka; (rz.) zawlec
+[drag-bar]drag-bar (EN) : (rz.) sprzęg
+[drag-net]drag-net (EN) : (rz.) niewód
+[draggle]draggle (EN) : (cz.) ociągać; (cz.) wyszargać; (cz.) zaszargać
+[dragnet]dragnet (EN) : (rz.) knieja; (rz.) niewód; (rz.) sieć; (rz.) włok
+[dragoman]dragoman (EN) : (rz.) dragoman
+[dragon]dragon (EN) : (rz.) smok
+[dragon's]dragon's (EN) : (p.) smoczy
+[dragon-fly]dragon-fly (EN) : (rz.) ważka
+[dragonfly]dragonfly (EN) : (rz.) ważka
+[dragoon]dragoon (EN) : (rz.) dragon
+[drain]drain (EN) : (cz.) drenować; (cz.) meliorować; (cz.) odcedzać; (cz.) odcedzić; (cz.) odlewać; (cz.) odwadniać; (cz.) odwodnić; (cz.) osuszać; (cz.) sączkować; (cz.) sączyć; (cz.) spływać; (cz.) suszyć; (rz.) dren; (rz.) drenaż; (rz.) kanał; (rz.) kanalizacja; (rz.) odpływ; (rz.) ropociąg; (rz.) rynsztok; (rz.) sączek; (rz.) ściek; (rz.) studzienka
+[drainage]drainage (EN) : (rz.) drenaż; (rz.) drenowanie; (rz.) melioracja; (rz.) odwadnianie; (rz.) osuszanie; (rz.) sączkowanie
+[drainer]drainer (EN) : (rz.) odwadniarka
+[drainpipe]drainpipe (EN) : (rz.) dren; (rz.) rynna
+[drake]drake (EN) : (rz.) jętka; (rz.) kaczor
+[dram]dram (EN) : (rz.) drachma; (rz.) handlowa; (rz.) łut; (rz.) naparstek
+[drama]drama (EN) : (rz.) dramat; (rz.) dramaturgia; (rz.) krytyk; (rz.) słuchowisko; (rz.) sztuka; (rz.) teatr
+[dramatic]dramatic (EN) : (p.) dramatyczny
+[dramatically]dramatically (EN) : (p-sł.) dramatycznie
+[dramatist]dramatist (EN) : (rz.) dramaturg
+[dramatization]dramatization (EN) : (rz.) dramatyzacja; (rz.) teatralizacja
+[dramatize]dramatize (EN) : (cz.) dramatyzować; (cz.) udramatyzować
+[dramaturgic]dramaturgic (EN) : (p.) dramaturgiczny
+[dramaturgy]dramaturgy (EN) : (rz.) dramatopisarstwo; (rz.) dramaturgia; (rz.) scenopisarstwo
+[drape]drape (EN) : (cz.) drapować; (cz.) udrapować; (rz.) firana; (rz.) stora; (rz.) zasłona
+[draper]draper (EN) : (rz.) bławatnik; (rz.) sukiennik
+[drapery]drapery (EN) : (rz.) draperia; (rz.) drapowanie; (rz.) sukiennictwo
+[drapes]drapes (EN) : (rz.) firanki
+[drastic]drastic (EN) : (p.) drastyczny; (p.) stanowczy
+[drastically]drastically (EN) : (p-sł.) drastycznie
+[dratted]dratted (EN) : (p.) nieznośny
+[draught]draught (EN) : (rz.) ciąg; (rz.) haust; (rz.) łyk; (rz.) podmuch; (rz.) przeciąg; (rz.) przewiew; (rz.) rysunek; (rz.) wyporność; (rz.) zanurzenie
+[draught-bar]draught-bar (EN) : (rz.) sprzęg
+[draught-board]draught-board (EN) : (rz.) szachownica
+[draughtboard]draughtboard (EN) : (rz.) szachownica
+[draughtsman]draughtsman (EN) : (rz.) kamień; (rz.) kreślarz; (rz.) rysownik
+[draughtsmanship]draughtsmanship (EN) : (rz.) kreślarstwo
+[draughty]draughty (EN) : (p.) nieszczelny; (p.) przewiewny
+[draw]draw (EN) : (cz.) czerpać; (cz.) dobyć; (cz.) nabrać; (cz.) naczerpać; (cz.) nakreślać; (cz.) nakreślić; (cz.) narysować; (cz.) natoczyć; (cz.) odsysać; (cz.) podejmować; (cz.) projektować; (cz.) przyciągać; (cz.) remisować; (cz.) rysować; (cz.) ssać; (cz.) wyciągać; (cz.) wzbudzać; (cz.) zaciągać; (rz.) ciąg; (rz.) remis; (rz.) rysunek; (rz.) wyciąganie; (rz.) wyciągnięcie; (rz.) wywab
+[draw-twister]draw-twister (EN) : (rz.) skręcarka-rozciągarka
+[drawback]drawback (EN) : (rz.) brak; (rz.) niedociągnięcie; (rz.) przeszkoda; (rz.) sztuczka; (rz.) wada
+[drawbar]drawbar (EN) : (rz.) dyszel; (rz.) sprzęg
+[drawer]drawer (EN) : (rz.) rysownik; (rz.) szuflada; (rz.) trasant; (rz.) wystawca
+[drawing]drawing (EN) : (rz.) ciągnienie; (rz.) fasunek; (rz.) losowanie; (rz.) pluskiewka; (rz.) rysowanie; (rz.) rysunek; (rz.) zaciąganie; (rz.) zredagowanie
+[drawing-board]drawing-board (EN) : (rz.) rysownica
+[drawing-pen]drawing-pen (EN) : (rz.) grafion
+[drawing-room]drawing-room (EN) : (rz.) salon
+[drawings]drawings (EN) : (rz.) rysunki
+[drawknife]drawknife (EN) : (rz.) ośnik
+[drawl]drawl (EN) : (cz.) cedzić; (cz.) przeciągać; (rz.) akcent; (rz.) cedzenie
+[drawn]drawn (EN) : (cz.) zdawać; (p.) remisowy
+[dray]dray (EN) : (rz.) bryka; (rz.) dwukółka; (rz.) platforma
+[dread]dread (EN) : (cz.) bać; (rz.) lęk; (rz.) przerażenie; (rz.) strach
+[dreadful]dreadful (EN) : (p.) nudny; (p.) okropny; (p.) paskudny; (p.) straszny
+[dreadfully]dreadfully (EN) : (p-sł.) przerażająco; (p-sł.) strasznie
+[dreadnought]dreadnought (EN) : (rz.) pancernik
+[dream]dream (EN) : (cz.) marzyć; (cz.) pomarzyć; (cz.) prześnić; (cz.) śnić; (cz.) uroić; (cz.) zamarzyć; (cz.) zaroić; (rz.) marzenie; (rz.) rój; (rz.) sen
+[dreamer]dreamer (EN) : (rz.) fantasta; (rz.) iluzjonista; (rz.) marzyciel
+[dreamily]dreamily (EN) : (p-sł.) półprzytomnie; (p-sł.) sennie
+[dreamlike]dreamlike (EN) : (p.) senny; (p.) zjawiskowy
+[dreamy]dreamy (EN) : (p.) marzycielski; (p.) senny
+[dreariness]dreariness (EN) : (rz.) posępność
+[dreary]dreary (EN) : (p.) drętwy; (p.) mroczny; (p.) ponury; (p.) posępny; (p.) straszny
+[dredge]dredge (EN) : (cz.) dragować; (cz.) wyszlamować; (rz.) bagrownica; (rz.) draga
+[dredger]dredger (EN) : (rz.) bagier; (rz.) bagrownica; (rz.) pogłębiarka
+[dreg]dreg (EN) : (rz.) osad; (rz.) pozostałość
+[dregs]dregs (EN) : (rz.) fusy; (rz.) męt; (rz.) męty; (rz.) osad
+[drench]drench (EN) : (cz.) moczyć; (cz.) namoczyć; (cz.) przemoczyć; (cz.) zraszać; (rz.) dawka
+[drencher]drencher (EN) : (rz.) zraszacz
+[dress]dress (EN) : (cz.) bandażować; (cz.) odziać; (cz.) odziewać; (cz.) opatrywać; (cz.) opatrzyć; (cz.) przyrządzać; (cz.) ubierać; (cz.) uszlachetniać; (rz.) frak; (rz.) strój; (rz.) sukienka; (rz.) suknia; (rz.) szata; (rz.) ubiór; (rz.) ubranie
+[dresser]dresser (EN) : (rz.) garderobiana; (rz.) komoda; (rz.) kredens; (rz.) toaletka
+[dressing]dressing (EN) : (rz.) apretura; (rz.) dekoracja; (rz.) garderoba; (rz.) klejonka; (rz.) klepanie; (rz.) nadziewanie; (rz.) obrywka; (rz.) opatrunek; (rz.) opatrywanie; (rz.) przewiązanie; (rz.) przyprawa; (rz.) sos; (rz.) toaleta; (rz.) ubieranie; (rz.) uczesanie
+[dressing-case]dressing-case (EN) : (rz.) neseser
+[dressing-gown]dressing-gown (EN) : (rz.) peniuar; (rz.) podomka; (rz.) szlafrok
+[dressing-room]dressing-room (EN) : (rz.) przymierzalnia; (rz.) szatnia; (rz.) ubieralnia
+[dressing-table]dressing-table (EN) : (rz.) toaleta
+[dressmaker]dressmaker (EN) : (rz.) krawcowa; (rz.) krawiec
+[dressmaking]dressmaking (EN) : (rz.) krawiectwo
+[dressy]dressy (EN) : (p.) elegancki; (p.) szykowny; (p.) wytworny
+[drew]drew (EN) : (cz.) narysować; (cz.) naszkicować; (cz.) rysować; (cz.) szkicować
+[dribble]dribble (EN) : (cz.) dryblować; (cz.) kapać; (cz.) kozłować; (cz.) przeciekać; (cz.) sączyć; (rz.) drybling
+[dried]dried (EN) : (p.) ironiczny
+[drier]drier (EN) : (rz.) suszarka; (rz.) suszarnia; (rz.) suszka
+[driest]driest (EN) : (p.) ironiczny; (p.) suchy
+[drift]drift (EN) : (cz.) dryfować; (cz.) nalatywać; (cz.) nanosić; (cz.) nieść; (cz.) spławiać; (cz.) sunąć; (cz.) sypać; (cz.) zdryfować; (rz.) dążenie; (rz.) dążność; (rz.) dryf; (rz.) dryfowanie; (rz.) dryft; (rz.) kontynentu; (rz.) pęd; (rz.) prąd; (rz.) tendencja; (rz.) zaspa; (rz.) zawieja; (rz.) znoszenie
+[drift-anchor]drift-anchor (EN) : (rz.) dryf
+[drift-ice]drift-ice (EN) : (rz.) tłuka
+[driftage]driftage (EN) : (rz.) nanos
+[drifter]drifter (EN) : (rz.) dryfter; (rz.) lugier; (rz.) przebijak; (rz.) tułacz
+[drifting]drifting (EN) : (cz.) dryfować
+[drill]drill (EN) : (cz.) borować; (cz.) ćwiczyć; (cz.) drążyć; (cz.) musztrować; (cz.) świdrować; (cz.) tresować; (cz.) wiercić; (cz.) wydrążać; (cz.) wywiercić; (rz.) ćwiczenie; (rz.) drelich; (rz.) dryl; (rz.) musztarda; (rz.) musztra; (rz.) świder; (rz.) wiertarka; (rz.) wiertło; (rz.) wiertniczy
+[drill-down]drill-down (EN) : (rz.) uszczegóławianie
+[drilldown]drilldown (EN) : (rz.) uszczegóławianie
+[driller]driller (EN) : (rz.) wiertacz; (rz.) wiertarka
+[drilling]drilling (EN) : (rz.) wiercenie; (rz.) wiertnictwo; (rz.) wiertniczy
+[drillings]drillings (EN) : (p.) zwierciny
+[drink]drink (EN) : (cz.) pić; (rz.) napój; (rz.) trunek
+[drinkable]drinkable (EN) : (p.) pijalny; (p.) pitny; (p.) smaczny; (rz.) napój
+[drinker]drinker (EN) : (rz.) pijak
+[drinking]drinking (EN) : (cz.) pijać; (rz.) picie; (rz.) pijaństwo
+[drinking-bout]drinking-bout (EN) : (rz.) pijatyka; (rz.) popijawa
+[drip]drip (EN) : (cz.) cieknąć; (cz.) kapać; (cz.) nakapać; (cz.) nasączać; (cz.) ociekać; (cz.) sączyć; (cz.) ściekać; (rz.) kapanie; (rz.) kroplówka
+[dripping]dripping (EN) : (p.) kapiący; (p.) ociekający; (rz.) cieczenie; (rz.) kapanie; (rz.) ociekanie; (rz.) ściekanie
+[dripstone]dripstone (EN) : (rz.) naciek; (rz.) stalaktyt
+[drive]drive (EN) : (cz.) dopędzać; (cz.) dowieźć; (cz.) jechać; (cz.) kierować; (cz.) napędzać; (cz.) obwieźć; (cz.) odwieźć; (cz.) podjechać; (cz.) poganiać; (cz.) pogrążyć; (cz.) prowadzić; (cz.) przepędzać; (cz.) przypierać; (cz.) wpędzać; (cz.) zapędzać; (cz.) zawieźć; (rz.) aleja; (rz.) determinacja; (rz.) energia; (rz.) jazda; (rz.) napęd; (rz.) napędzanie; (rz.) podjazd; (rz.) przejazd; (rz.) przejażdżka; (rz.) wjazd
+[drivel]drivel (EN) : (cz.) ślinić; (rz.) ślina
+[driveller]driveller (EN) : (rz.) pleciuga
+[driver]driver (EN) : (rz.) kierowca; (rz.) kontroler; (rz.) maszynista; (rz.) stangret; (rz.) sterownik; (rz.) szofer; (rz.) woźnica; (rz.) wzbudnica; (rz.) zabieracz; (rz.) zabierak
+[driveway]driveway (EN) : (rz.) podjazd
+[driving]driving (EN) : (rz.) jazda; (rz.) prowadzenie; (rz.) przejażdżka
+[drizzle]drizzle (EN) : (cz.) mżyć; (cz.) siąpić; (rz.) deszczyk; (rz.) kapuśniak; (rz.) mżawka
+[drizzly]drizzly (EN) : (p.) dżdżysty
+[drogue]drogue (EN) : (rz.) dryfkotwa
+[droll]droll (EN) : (p.) dziwaczny; (p.) ucieszny; (p.) zabawny; (rz.) żartowniś
+[drollery]drollery (EN) : (rz.) śmiesznostka
+[dromedary]dromedary (EN) : (rz.) dromader; (rz.) wielbłąd
+[drone]drone (EN) : (cz.) brzęczeć; (cz.) burczeć; (cz.) huczeć; (cz.) szumieć; (rz.) brzęk; (rz.) bumelant; (rz.) huk; (rz.) szum; (rz.) truteń; (rz.) wadium; (rz.) warkot
+[drool]drool (EN) : (cz.) bzdurzyć; (cz.) ślinić
+[droop]droop (EN) : (cz.) oklapnąć; (cz.) opadać; (cz.) spuszczać; (cz.) wiotczeć; (cz.) zwisać; (rz.) obwisanie; (rz.) obwisłość; (rz.) omdlewanie; (rz.) opadanie; (rz.) zwiśnięcie
+[droops]droops (EN) : (cz.) opadać; (cz.) zwieszać
+[drop]drop (EN) : (cz.) kropić; (cz.) obniżać; (cz.) opadać; (cz.) spadać; (cz.) spuszczać; (cz.) upadać; (cz.) upaść; (cz.) upuścić; (cz.) upuszczać; (cz.) zniżać; (cz.) zrzucać; (rz.) kropla; (rz.) spadek; (rz.) utrata; (rz.) zrzut
+[drop-cap]drop-cap (EN) : (rz.) inicjał
+[droplet]droplet (EN) : (rz.) kropelka
+[dropout]dropout (EN) : (rz.) dziura; (rz.) odszczepieniec; (rz.) osoba
+[dropper]dropper (EN) : (rz.) kroplomierz; (rz.) wieszak; (rz.) wkraplacz; (rz.) zakraplacz
+[droppings]droppings (EN) : (rz.) łajno; (rz.) odchody; (rz.) pomiot
+[dropsy]dropsy (EN) : (rz.) obrzęk
+[dross]dross (EN) : (rz.) wyskrobki; (rz.) żużel
+[drought]drought (EN) : (rz.) posucha; (rz.) susz; (rz.) susza
+[droughts]droughts (EN) : (rz.) susz
+[drove]drove (EN) : (rz.) stado; (rz.) trzoda
+[drover]drover (EN) : (rz.) poganiacz
+[drown]drown (EN) : (cz.) tonąć; (cz.) topić; (cz.) utonąć; (cz.) utopić; (cz.) zagłuszać; (cz.) zatapiać
+[drowse]drowse (EN) : (cz.) drzemać; (cz.) przedrzemać; (rz.) drzemka
+[drowsily]drowsily (EN) : (p-sł.) ospale; (p-sł.) sennie
+[drowsiness]drowsiness (EN) : (rz.) senność
+[drowsy]drowsy (EN) : (p.) ospały; (p.) półsenny; (p.) senny
+[drub]drub (EN) : (cz.) łupić; (cz.) młócić; (cz.) tłuc
+[drubbing]drubbing (EN) : (rz.) cięgi; (rz.) obicie
+[drudge]drudge (EN) : (cz.) harować; (rz.) mordęga; (rz.) popychadło
+[drudgery]drudgery (EN) : (rz.) dłubanina; (rz.) harówka; (rz.) katorga; (rz.) pańszczyzna; (rz.) ślęczenie; (rz.) znój
+[drudgework]drudgework (EN) : (rz.) harówka
+[drug]drug (EN) : (cz.) ćpać; (cz.) narkotyzować; (rz.) lek; (rz.) lekarstwo; (rz.) narkotyk
+[drug-addict]drug-addict (EN) : (rz.) narkoman
+[drug-store]drug-store (EN) : (rz.) drogeria
+[druggist]druggist (EN) : (rz.) apteka; (rz.) aptekarz; (rz.) farmaceuta
+[drugstore]drugstore (EN) : (rz.) apteka; (rz.) drogeria
+[druidic]druidic (EN) : (p.) druidyczny
+[drum]drum (EN) : (cz.) bębnić; (cz.) odbębnić; (cz.) pobębnić; (cz.) zabębnić; (cz.) zjednać; (rz.) bęben; (rz.) bębenek; (rz.) beczka; (rz.) dobosz; (rz.) werbel
+[drumbeat]drumbeat (EN) : (rz.) bębnienie
+[drummer]drummer (EN) : (rz.) dobosz; (rz.) perkusista
+[drumming]drumming (EN) : (rz.) bębnowanie
+[drums]drums (EN) : (rz.) perkusja
+[drumstick]drumstick (EN) : (rz.) pałka; (rz.) podudzie
+[drunk]drunk (EN) : (cz.) wypić; (rz.) pijak; (rz.) pijatyka; (rz.) pijus; (rz.) pita
+[drunkard]drunkard (EN) : (rz.) opój; (rz.) pijak; (rz.) pijanica
+[drunken]drunken (EN) : (p.) nietrzeźwy; (p.) pijacki
+[drunkenly]drunkenly (EN) : (p-sł.) pijacko
+[drunkenness]drunkenness (EN) : (rz.) opilstwo; (rz.) pijaństwo
+[drupe]drupe (EN) : (rz.) pestkowiec
+[dry]dry (EN) : (cz.) dosuszać; (cz.) nasuszyć; (cz.) osuszyć; (cz.) schnąć; (cz.) suszyć; (cz.) ususzyć; (cz.) wysuszyć; (cz.) wysychać; (cz.) zaniemówić; (cz.) zasuszyć; (p.) bezdeszczowy; (p.) beznamiętny; (p.) drętwy; (p.) ironiczny; (p.) nudny; (p.) suchy; (p.) wytrawny
+[dryad]dryad (EN) : (rz.) driada
+[dryer]dryer (EN) : (rz.) osuszacz; (rz.) suszarka; (rz.) suszarnia; (rz.) suszka
+[dryly]dryly (EN) : (p-sł.) oschle; (p-sł.) sucho
+[dryness]dryness (EN) : (rz.) suchość
+[dual]dual (EN) : (p.) dwoisty; (p.) podwójny
+[dualism]dualism (EN) : (rz.) dualizm
+[duality]duality (EN) : (rz.) dualizm; (rz.) dualność; (rz.) dwudzielność; (rz.) podwójność
+[dub]dub (EN) : (cz.) dubbingować; (cz.) przezywać
+[dubbing]dubbing (EN) : (rz.) równanie; (rz.) struganie
+[dubiety]dubiety (EN) : (rz.) niepewność
+[dubious]dubious (EN) : (p.) niepewny; (p.) wątpliwy
+[dubiously]dubiously (EN) : (p-sł.) niepewnie
+[dubiousness]dubiousness (EN) : (rz.) wątpliwość
+[ducal]ducal (EN) : (p.) książęcy
+[ducat]ducat (EN) : (rz.) dukat
+[duchy]duchy (EN) : (rz.) księstwo
+[duck]duck (EN) : (cz.) kulić; (cz.) pławić; (cz.) zanurzyć; (cz.) zginać; (rz.) kaczka; (rz.) kaczuszka
+[duck's]duck's (EN) : (p.) kaczy
+[duck-weed]duck-weed (EN) : (rz.) rzęsa
+[duckbill]duckbill (EN) : (rz.) dziobak
+[duckling]duckling (EN) : (rz.) kaczątko; (rz.) kaczuszka
+[duckweed]duckweed (EN) : (rz.) rzęsa
+[ducky]ducky (EN) : (rz.) złotko
+[duct]duct (EN) : (rz.) cewka; (rz.) cło; (rz.) kanał; (rz.) należność; (rz.) niewypał; (rz.) przewód
+[ductile]ductile (EN) : (p.) ciągliwy; (p.) posłuszny
+[ductility]ductility (EN) : (rz.) ciągliwość; (rz.) kowalność; (rz.) plastyczność
+[ducting]ducting (EN) : (p.) przewody; (rz.) kierowanie; (rz.) prowadzenie
+[ductwork]ductwork (EN) : (p.) przewody
+[dud]dud (EN) : (rz.) bubel; (rz.) niedołęga; (rz.) niewypał
+[dude]dude (EN) : (rz.) maminsynek
+[duds]duds (EN) : (rz.) manatki; (rz.) ubranie
+[due]due (EN) : (p.) należny; (p.) odpowiedni; (p.) planowy; (p.) płatny; (p.) stosowny; (rz.) składka
+[duel]duel (EN) : (cz.) pojedynkować; (rz.) duet; (rz.) pojedynek
+[dues]dues (EN) : (rz.) należności
+[duet]duet (EN) : (rz.) duet; (rz.) dukt; (rz.) kanał; (rz.) przewód; (rz.) wentylatora
+[duff]duff (EN) : (p.) bezużyteczny; (rz.) dupa; (rz.) siedzenie
+[duffer]duffer (EN) : (rz.) cymbał; (rz.) niedojda; (rz.) niezdara; (rz.) niezgraba; (rz.) oferma
+[dug-out]dug-out (EN) : (rz.) ziemianka
+[dugout]dugout (EN) : (rz.) wykop; (rz.) ziemianka
+[dukedom]dukedom (EN) : (rz.) księstwo
+[dulcet]dulcet (EN) : (p.) melodyjny; (p.) słodki
+[dull]dull (EN) : (cz.) matowieć; (cz.) przytępiać; (cz.) stępiać; (cz.) stępieć; (cz.) tępić; (cz.) tępieć; (cz.) zmatowieć; (p.) bezduszny; (p.) matowy; (p.) mętny; (p.) monotonny; (p.) mroczny; (p.) nieciekawy; (p.) niepojętny; (p.) nudny; (p.) pochmurny; (p.) szary; (p.) tępy
+[dullard]dullard (EN) : (rz.) ciemięga; (rz.) głupiec; (rz.) tępak
+[dulled]dulled (EN) : (p.) mroczny
+[dullness]dullness (EN) : (rz.) matowość; (rz.) nuda; (rz.) tępość
+[dully]dully (EN) : (p-sł.) nudno
+[duly]duly (EN) : (p-sł.) należycie; (p-sł.) słusznie
+[dumb]dumb (EN) : (p.) bezgłośny; (p.) durnowaty; (p.) durny; (p.) głupi; (p.) idiotyczny; (p.) niemy
+[dumbbell]dumbbell (EN) : (rz.) cążki; (rz.) hantle
+[dumbfound]dumbfound (EN) : (cz.) ogłuszyć; (cz.) oszałamiać; (cz.) oszołomić
+[dumbfounded]dumbfounded (EN) : (cz.) zdębieć
+[dumbly]dumbly (EN) : (p-sł.) głupio; (p-sł.) milcząco; (p-sł.) niemo
+[dumbness]dumbness (EN) : (rz.) głupek; (rz.) niemota
+[dummy]dummy (EN) : (rz.) atrapa; (rz.) dziadek; (rz.) głupek; (rz.) imitacja; (rz.) kukła; (rz.) makieta; (rz.) manekin; (rz.) marionetka; (rz.) pozór; (rz.) pozorowanie; (rz.) smoczek; (rz.) statysta; (rz.) zaślepka
+[dump]dump (EN) : (cz.) pozbyć; (cz.) przysypać; (cz.) rzucać; (cz.) rzucić; (cz.) wyrzucać; (cz.) zostawiać; (cz.) zostawić; (cz.) zrzucić; (cz.) zsypać; (cz.) zsypywać; (rz.) hałda; (rz.) kulfon; (rz.) skład; (rz.) śmietnik; (rz.) śmietnisko; (rz.) usypisko; (rz.) wywrót; (rz.) zrzucenie; (rz.) zrzutowisko
+[dump-cart]dump-cart (EN) : (rz.) wywrotka
+[dumpcart]dumpcart (EN) : (rz.) wywrotka
+[dumper]dumper (EN) : (rz.) ciężarówka; (rz.) wywrotka; (rz.) wywrotnica
+[dumpiness]dumpiness (EN) : (rz.) pękatość
+[dumping]dumping (EN) : (rz.) wyrzucanie; (rz.) wysypywanie
+[dumpling]dumpling (EN) : (rz.) kluska; (rz.) knedel; (rz.) pieróg; (rz.) pyza
+[dumplings]dumplings (EN) : (rz.) knedle
+[dumpy]dumpy (EN) : (p.) krępy; (p.) pękaty; (p.) przysadkowaty; (p.) przysadzisty
+[dun]dun (EN) : (cz.) molestować; (cz.) napastować; (p.) ciemnobrązowy
+[dunce]dunce (EN) : (rz.) głupiec; (rz.) nieuk; (rz.) tępak
+[dunderhead]dunderhead (EN) : (rz.) bałwan; (rz.) cymbał; (rz.) tuman
+[dune]dune (EN) : (rz.) gnój; (rz.) łajno; (rz.) nawóz; (rz.) wydma
+[dung]dung (EN) : (rz.) gnój; (rz.) gnojenie; (rz.) kał; (rz.) łajno; (rz.) nawóz; (rz.) obornik; (rz.) pomiot
+[dungaree]dungaree (EN) : (rz.) drelich
+[dungeon]dungeon (EN) : (rz.) baszta; (rz.) ciemnica; (rz.) wieża
+[dunghill]dunghill (EN) : (rz.) gnojowisko; (rz.) gnojownią
+[dunk]dunk (EN) : (cz.) maczać
+[duo]duo (EN) : (rz.) zespół
+[duodecimal]duodecimal (EN) : (p.) dwunastkowy
+[duodenum]duodenum (EN) : (rz.) dwunastnica
+[duologue]duologue (EN) : (rz.) dialog
+[dupe]dupe (EN) : (cz.) durzyć; (cz.) nabierać; (cz.) naciągać; (cz.) oszukać; (cz.) oszukiwać; (cz.) otumaniać; (rz.) gapa; (rz.) naiwniak
+[duper]duper (EN) : (rz.) oszust
+[dupery]dupery (EN) : (rz.) naciąganie; (rz.) okpienie
+[duple]duple (EN) : (p.) podwójny
+[duplex]duplex (EN) : (p.) dupleksowy; (p.) podwójny
+[duplicate]duplicate (EN) : (cz.) duplikować; (cz.) kopiować; (cz.) powielać; (cz.) powielić; (cz.) zdublować; (p.) dodatkowy; (p.) podwójny; (rz.) duplikat; (rz.) kopia; (rz.) odpis; (rz.) wtórnik
+[duplication]duplication (EN) : (rz.) dublowanie; (rz.) duplikacja; (rz.) kopiowanie; (rz.) podwajanie; (rz.) podwojenie; (rz.) powielanie; (rz.) reprodukowanie
+[duplications]duplications (EN) : (rz.) duplikacja
+[duplicator]duplicator (EN) : (rz.) kopiarka; (rz.) powielacz
+[duplicity]duplicity (EN) : (rz.) dwulicowość; (rz.) fałsz; (rz.) obłuda
+[durability]durability (EN) : (rz.) trwałość; (rz.) trwanie
+[durable]durable (EN) : (p.) trwały; (p.) wytrzymały
+[duralumin]duralumin (EN) : (rz.) dural; (rz.) duraluminium
+[durance]durance (EN) : (rz.) uwięzienie
+[duration]duration (EN) : (rz.) czasokres; (rz.) obowiązywanie; (rz.) trwałość; (rz.) trwanie
+[duress]duress (EN) : (rz.) przymus
+[during]during (EN) : (p-im.) podczas; (p-im.) przez
+[dusk]dusk (EN) : (rz.) mrok; (rz.) półmrok; (rz.) szarówka; (rz.) zmierzch; (rz.) zmrok
+[duskiness]duskiness (EN) : (rz.) śniadość
+[dusky]dusky (EN) : (p.) ciemny; (p.) mroczny
+[dust]dust (EN) : (cz.) czyścić; (cz.) kurzyć; (cz.) napylać; (cz.) odkurzać; (cz.) posypać; (cz.) przetrzepać; (cz.) pylić; (cz.) ścierać; (cz.) zakurzyć; (rz.) kurz; (rz.) kurzawa; (rz.) miał; (rz.) odkurzanie; (rz.) proch; (rz.) pył; (rz.) pylica; (rz.) zapylenie
+[dust-bin]dust-bin (EN) : (rz.) kosz
+[dust-cart]dust-cart (EN) : (rz.) śmieciarka
+[dust-coat]dust-coat (EN) : (rz.) prochowiec
+[dust-cover]dust-cover (EN) : (rz.) obwoluta
+[dust-free]dust-free (EN) : (p.) bezpyłowy
+[dust-pan]dust-pan (EN) : (rz.) śmietniczka
+[dust-proof]dust-proof (EN) : (p.) pyłoszczelny
+[dustbin]dustbin (EN) : (rz.) kosz; (rz.) śmietnik
+[dustcoat]dustcoat (EN) : (rz.) prochowiec
+[dustcover]dustcover (EN) : (rz.) obwoluta
+[duster]duster (EN) : (rz.) dupa; (rz.) miotełka; (rz.) odpylacz; (rz.) opylacz; (rz.) siedzenie
+[dusting]dusting (EN) : (rz.) kurz; (rz.) napylanie; (rz.) odkurzanie; (rz.) okurzanie; (rz.) opylanie; (rz.) pudrowanie; (rz.) pylenie
+[dustman]dustman (EN) : (rz.) śmieciarz
+[dustpan]dustpan (EN) : (rz.) śmietniczka; (rz.) szufelka
+[dustproof]dustproof (EN) : (p.) pyłoszczelny
+[dusty]dusty (EN) : (p.) pylasty; (p.) pylisty; (p.) pyłowy; (p.) zakurzony
+[duteous]duteous (EN) : (p.) obowiązkowy
+[dutiful]dutiful (EN) : (p.) obowiązkowy; (p.) posłuszny; (p.) sumienny
+[dutifully]dutifully (EN) : (p-sł.) obowiązkowo; (p-sł.) sumiennie
+[duty]duty (EN) : (rz.) cło; (rz.) dług; (rz.) dyżur; (rz.) obciążenie; (rz.) obowiązek; (rz.) powinność; (rz.) służba
+[duty-free]duty-free (EN) : (p.) bezcłowy; (p.) wolnocłowy
+[duvet]duvet (EN) : (rz.) kołdra; (rz.) pierzyna
+[dwarf]dwarf (EN) : (cz.) karłowacieć; (cz.) ograniczać; (cz.) pomniejszać; (cz.) przygniatać; (cz.) stopować; (rz.) karlik; (rz.) karzeł; (rz.) krasnal; (rz.) krasnolud; (rz.) krasnoludek; (rz.) niedorostek
+[dwarfish]dwarfish (EN) : (p.) karzełkowaty
+[dwarfism]dwarfism (EN) : (rz.) karłowatość
+[dwell]dwell (EN) : (cz.) mieszkać; (cz.) przebywać; (cz.) rezydować; (cz.) zamieszkiwać; (cz.) zatrzymać
+[dweller]dweller (EN) : (rz.) mieszkaniec
+[dwelling]dwelling (EN) : (rz.) gród; (rz.) mieszkanie; (rz.) siedziba
+[dwindle]dwindle (EN) : (cz.) kurczyć; (cz.) zanikać; (cz.) zmniejszać
+[dyad]dyad (EN) : (rz.) dwójka; (rz.) para
+[dyadic]dyadic (EN) : (p.) podwójny
+[dye]dye (EN) : (cz.) barwić; (cz.) farbować; (cz.) zafarbować; (rz.) barwa; (rz.) barwnik; (rz.) farba
+[dye-stuff]dye-stuff (EN) : (rz.) barwnik; (rz.) farba
+[dye-works]dye-works (EN) : (rz.) farbiarnia
+[dyeing]dyeing (EN) : (rz.) farbiarstwo; (rz.) wybarwienie
+[dyer]dyer (EN) : (rz.) farbiarz
+[dyestuff]dyestuff (EN) : (rz.) barwnik; (rz.) farba
+[dying]dying (EN) : (rz.) farbowanie; (rz.) umieranie; (rz.) zamarcie
+[dyke]dyke (EN) : (cz.) otamować; (rz.) rów; (rz.) zapora
+[dynamic]dynamic (EN) : (p.) dynamiczny; (rz.) dynamizm
+[dynamically]dynamically (EN) : (p-sł.) dynamicznie
+[dynamics]dynamics (EN) : (rz.) dynamika
+[dynamism]dynamism (EN) : (rz.) dynamiczność; (rz.) dynamizm
+[dynamite]dynamite (EN) : (rz.) dynamit
+[dynamo]dynamo (EN) : (rz.) prądnica
+[dynamometer]dynamometer (EN) : (rz.) dynamometr; (rz.) hamownia; (rz.) siłomierz
+[dynast]dynast (EN) : (rz.) dynasta
+[dynastic]dynastic (EN) : (p.) dynastyczny
+[dynasty]dynasty (EN) : (rz.) dynastia
+[dynatron]dynatron (EN) : (rz.) dynatron
+[dyne]dyne (EN) : (rz.) dyna
+[dynode]dynode (EN) : (rz.) dynoda
+[dysenteric]dysenteric (EN) : (p.) biegunkowy; (p.) czerwonkowy; (p.) dyzenteryjny
+[dysentery]dysentery (EN) : (rz.) biegunka; (rz.) czerwonka; (rz.) dyzenteria
+[dysfunction]dysfunction (EN) : (rz.) dysfunkcja; (rz.) zaburzenie
+[dysfunctional]dysfunctional (EN) : (p.) patologiczny
+[dyslexia]dyslexia (EN) : (rz.) dysleksja
+[dyslexic]dyslexic (EN) : (p.) dyslektyczny
+[dyslogistic]dyslogistic (EN) : (p.) ujemny
+[dyspepsia]dyspepsia (EN) : (rz.) dyspensa; (rz.) niestrawność
+[dysprosium]dysprosium (EN) : (rz.) dysproz
+[dystrophy]dystrophy (EN) : (rz.) dystrofia
+[décor]décor (EN) : (rz.) wykończenie; (rz.) wystrój
+[détente]détente (EN) : (rz.) odprężenie

@@ -1,0 +1,1765 @@
+[i-bar]I-bar (EN) : (rz.) dwuteownik
+[i-iodine]I-iodine (EN) : (rz.) jod
+[i-section]I-section (EN) : (rz.) dwuteownik
+[iou]IOU (EN) : (rz.) rewers
+[india]India (EN) : (rz.) Indie
+[internet]Internet (EN) : (rz.) Internet
+[irene]Irene (EN) : (rz.) Irena
+[isabel]Isabel (EN) : (rz.) Izabella
+[italian]Italian (EN) : (rz.) makaroniarz
+[iamb]iamb (EN) : (rz.) jamb
+[iambic]iambic (EN) : (p.) jambiczny
+[iambus]iambus (EN) : (rz.) jamb
+[ibex]ibex (EN) : (rz.) koziorożec
+[ibis]ibis (EN) : (rz.) ibis
+[ice]ice (EN) : (cz.) cukrować; (cz.) lukrować; (cz.) polukrować; (rz.) lód; (rz.) lodowisko
+[ice-apron]ice-apron (EN) : (rz.) izbica
+[ice-boat]ice-boat (EN) : (rz.) bojer
+[ice-box]ice-box (EN) : (rz.) lodówka
+[ice-breaker]ice-breaker (EN) : (rz.) izbica
+[ice-cold]ice-cold (EN) : (p.) lodowaty
+[ice-cream]ice-cream (EN) : (rz.) lód
+[ice-floe]ice-floe (EN) : (rz.) kra
+[ice-rink]ice-rink (EN) : (rz.) lodowisko
+[iceboat]iceboat (EN) : (rz.) bojer
+[icebox]icebox (EN) : (rz.) lodówka; (rz.) zamrażalnik
+[icebreaker]icebreaker (EN) : (rz.) lodołamacz
+[iceman]iceman (EN) : (rz.) lodziarz
+[ichneumon]ichneumon (EN) : (rz.) gąsienicznik
+[ichthyologist]ichthyologist (EN) : (rz.) ichtiolog
+[ichthyology]ichthyology (EN) : (rz.) ichtiologia
+[ichthyosaurus]ichthyosaurus (EN) : (rz.) ichtiozaur; (rz.) rybojaszczur
+[icicle]icicle (EN) : (rz.) sopel
+[icily]icily (EN) : (p-sł.) zimno
+[iciness]iciness (EN) : (rz.) lodowatość
+[icing]icing (EN) : (rz.) lukier; (rz.) oblodzenie; (rz.) polewa; (rz.) polewanie
+[icon]icon (EN) : (rz.) ikona
+[iconoclasm]iconoclasm (EN) : (rz.) ikonoklazm; (rz.) obrazoburstwo
+[iconoclast]iconoclast (EN) : (rz.) ikonoklasta; (rz.) obrazoburca
+[iconoclastic]iconoclastic (EN) : (p.) obrazoburczy
+[iconographic]iconographic (EN) : (p.) ikonograficzny
+[iconography]iconography (EN) : (rz.) ikonografia
+[iconoscope]iconoscope (EN) : (rz.) ikonoskop
+[ictus]ictus (EN) : (rz.) udar
+[icy]icy (EN) : (p.) lodowaty; (p.) lodowy
+[id]id (EN) : (p.) identyfikacyjny; (rz.) identyfikator
+[idea]idea (EN) : (rz.) idea; (rz.) myśl; (rz.) pogląd; (rz.) pojęcie; (rz.) pomysł; (rz.) wyobrażenie
+[ideal]ideal (EN) : (p.) idealny; (p.) nierealny; (rz.) ideał
+[idealism]idealism (EN) : (rz.) idealizm
+[idealist]idealist (EN) : (rz.) idealista
+[idealistic]idealistic (EN) : (p.) idealistyczny
+[idealistically]idealistically (EN) : (p-sł.) idealistycznie
+[idealization]idealization (EN) : (rz.) idealizacja; (rz.) wyidealizowanie
+[idealize]idealize (EN) : (cz.) idealizować; (cz.) uwznioślać; (cz.) wyidealizować
+[ideally]ideally (EN) : (p-sł.) idealnie; (p-sł.) nierealnie; (p-sł.) optymalnie
+[ideation]ideation (EN) : (rz.) ideacja
+[ideational]ideational (EN) : (p.) ideowy
+[idempotent]idempotent (EN) : (rz.) powtarzalne
+[identical]identical (EN) : (p.) identyczny
+[identically]identically (EN) : (p-sł.) identycznie
+[identification]identification (EN) : (rz.) identyfikacja; (rz.) utożsamianie; (rz.) utożsamienie
+[identifier]identifier (EN) : (rz.) identyfikator
+[identify]identify (EN) : (cz.) identyfikować; (cz.) legitymować; (cz.) rozpoznawać; (cz.) utożsamiać; (cz.) utożsamić; (cz.) wskazać; (cz.) zdeklarować; (cz.) zidentyfikować
+[identifying]identifying (EN) : (rz.) identyfikowanie
+[identikit]identikit (EN) : (rz.) portret
+[identity]identity (EN) : (rz.) identyczność; (rz.) odrębność; (rz.) tożsamość
+[ideogram]ideogram (EN) : (rz.) ideogram
+[ideograph]ideograph (EN) : (rz.) ideogram
+[ideographic]ideographic (EN) : (p.) ideograficzny
+[ideological]ideological (EN) : (p.) ideologiczny; (p.) ideowy
+[ideologically]ideologically (EN) : (p-sł.) ideologicznie
+[ideologist]ideologist (EN) : (rz.) ideolog; (rz.) ideowiec
+[ideologue]ideologue (EN) : (rz.) ideolog
+[ideology]ideology (EN) : (rz.) ideologia
+[idiocy]idiocy (EN) : (rz.) idiotyczność; (rz.) idiotyzm
+[idiom]idiom (EN) : (rz.) idiom; (rz.) zwrot
+[idiomatic]idiomatic (EN) : (p.) frazeologiczny; (p.) idiomatyczny
+[idiomatical]idiomatical (EN) : (p.) idiomatyczny
+[idiomatically]idiomatically (EN) : (p-sł.) idiomatycznie
+[idiopathic]idiopathic (EN) : (p.) spontaniczny
+[idiosyncrasy]idiosyncrasy (EN) : (rz.) idiosynkrazja; (rz.) uczulenie; (rz.) zwyczaj
+[idiosyncratic]idiosyncratic (EN) : (p.) specyficzny; (p.) uczuleniowy
+[idiot]idiot (EN) : (rz.) baran; (rz.) debil; (rz.) dureń; (rz.) głupiec; (rz.) głuptak; (rz.) idiota; (rz.) kretyn
+[idiotic]idiotic (EN) : (p.) idiotyczny; (p.) kretyński; (p.) matołkowaty
+[idiotically]idiotically (EN) : (p-sł.) idiotycznie
+[idiotism]idiotism (EN) : (rz.) idiotyzm
+[idle]idle (EN) : (cz.) kwasić; (cz.) lenić; (cz.) próżnować; (cz.) wałkonić; (p.) bezczynny; (p.) bezpodstawny; (p.) czczy; (p.) daremny; (p.) gnuśny; (p.) jałowy; (p.) leniwy; (p.) nieczynny; (p.) próżniaczy; (p.) próżny; (p.) wolny
+[idleness]idleness (EN) : (rz.) bezczynność; (rz.) lenistwo; (rz.) nieróbstwo; (rz.) próżniactwo; (rz.) próżnowanie
+[idler]idler (EN) : (p.) bezczynny; (rz.) leń; (rz.) próżniak; (rz.) wałkoń; (rz.) zawalidroga
+[idly]idly (EN) : (p-sł.) bezczynnie; (p-sł.) leniwie; (p-sł.) próżniaczo
+[idol]idol (EN) : (rz.) bałwan; (rz.) bożek; (rz.) bożyszcze; (rz.) idol; (rz.) osioł
+[idolater]idolater (EN) : (rz.) bałwochwalca
+[idolatrous]idolatrous (EN) : (p.) bałwochwalczy
+[idolatry]idolatry (EN) : (rz.) bałwochwalstwo
+[idolise]idolise (EN) : (cz.) ubóstwiać
+[idolize]idolize (EN) : (cz.) ubóstwiać; (cz.) uwielbiać
+[idyll]idyll (EN) : (rz.) idylla; (rz.) sielanka
+[idyllic]idyllic (EN) : (p.) idylliczny; (p.) sielankowy; (p.) sielski
+[if]if (EN) : (spójnik) czy; (spójnik) gdyby; (spójnik) jakby; (spójnik) jeśli; (spójnik) jeśliby; (spójnik) jeżeli
+[iffy]iffy (EN) : (p.) niepewny
+[igneous]igneous (EN) : (p.) ogniowy; (p.) wybuchowy; (p.) zapalny
+[ignitability]ignitability (EN) : (rz.) zapalność
+[ignitable]ignitable (EN) : (p.) zapalny
+[ignite]ignite (EN) : (cz.) zapalać
+[ignition]ignition (EN) : (rz.) palenie; (rz.) zapalanie; (rz.) zapalenie; (rz.) zapłon
+[ignitron]ignitron (EN) : (rz.) ignitron
+[ignoble]ignoble (EN) : (p.) bezwstydny; (p.) haniebny; (p.) niecny; (p.) podły; (p.) zły
+[ignominious]ignominious (EN) : (p.) haniebny; (p.) podły; (p.) sromotny
+[ignominiously]ignominiously (EN) : (p-sł.) niecnie
+[ignominy]ignominy (EN) : (rz.) hańba; (rz.) podłość; (rz.) sromota
+[ignoramus]ignoramus (EN) : (rz.) ignorant; (rz.) nieuk
+[ignorance]ignorance (EN) : (rz.) ciemnota; (rz.) ignorancja; (rz.) nieobeznanie; (rz.) nieświadomość; (rz.) nieuctwo; (rz.) niewiedza; (rz.) nieznajomość
+[ignorant]ignorant (EN) : (p.) ignorancki; (p.) nieświadomy; (p.) niewykształcony
+[ignorantly]ignorantly (EN) : (p-sł.) lekceważąco; (p-sł.) nieświadomie
+[ignore]ignore (EN) : (cz.) bagatelizować; (cz.) ignorować; (cz.) lekceważyć; (cz.) pomijać; (cz.) zignorować; (cz.) zlekceważyć
+[ignored]ignored (EN) : (cz.) zaprzepaścić
+[iguana]iguana (EN) : (rz.) legwan
+[iliac]iliac (EN) : (p.) biodrowy
+[ill]ill (EN) : (p.) chory; (p.) nieobyczajny; (p.) nierozważny; (p.) nieskłonny; (p.) szkodliwy; (rz.) dolegliwość; (rz.) maltretowanie; (rz.) nieobyczajność; (rz.) niepoprawność; (rz.) poniewierka; (rz.) zło
+[ill-adapted]ill-adapted (EN) : (p.) nieprzystosowany
+[ill-bred]ill-bred (EN) : (p.) grubiański
+[ill-breeding]ill-breeding (EN) : (rz.) grubiaństwo
+[ill-disposed]ill-disposed (EN) : (p.) nieżyczliwy
+[ill-fated]ill-fated (EN) : (p.) feralny; (p.) niefortunny; (p.) nieszczęsny
+[ill-favoured]ill-favoured (EN) : (p.) brzydki; (p.) nieurodziwy
+[ill-feeling]ill-feeling (EN) : (rz.) uraza; (rz.) żal
+[ill-founded]ill-founded (EN) : (p.) bezpodstawny
+[ill-humoured]ill-humoured (EN) : (p.) nielegalny
+[ill-natured]ill-natured (EN) : (p.) opryskliwy; (p.) zgryźliwy
+[ill-omened]ill-omened (EN) : (p.) złowróżbny
+[ill-tempered]ill-tempered (EN) : (p.) chory; (p.) zły
+[ill-treat]ill-treat (EN) : (cz.) maltretować; (cz.) znęcać
+[ill-treatment]ill-treatment (EN) : (rz.) maltretowanie
+[illegal]illegal (EN) : (p.) bezprawny; (p.) niedozwolony; (p.) nielegalny; (p.) nieprawny; (p.) nieprzepisowy
+[illegality]illegality (EN) : (rz.) bezprawie; (rz.) nielegalność; (rz.) nieprawość
+[illegally]illegally (EN) : (p-sł.) bezprawnie; (p-sł.) nielegalnie; (p-sł.) nieprawnie
+[illegibility]illegibility (EN) : (rz.) nieczytelność
+[illegible]illegible (EN) : (p.) nieczytelny
+[illegibly]illegibly (EN) : (p-sł.) nieczytelnie
+[illegitimacy]illegitimacy (EN) : (rz.) nielegalność; (rz.) nieprawość
+[illegitimate]illegitimate (EN) : (p.) bezprawny; (p.) nielegalny; (p.) nieprawdziwy; (p.) nieprawidłowy; (p.) nieprawny; (p.) nieprawowity; (p.) nieprawy; (p.) nieślubny
+[illegitimately]illegitimately (EN) : (p-sł.) nieprawnie
+[illiberal]illiberal (EN) : (p.) nieliberalny; (p.) skąpy
+[illiberally]illiberally (EN) : (p-sł.) małostkowo
+[illicit]illicit (EN) : (p.) bezprawny; (p.) niedozwolony; (p.) nielegalny; (p.) zabroniony
+[illicitly]illicitly (EN) : (p-sł.) pokątnie
+[illicitness]illicitness (EN) : (rz.) bezprawność; (rz.) nielegalność
+[illimitable]illimitable (EN) : (p.) absolutny
+[illiquid]illiquid (EN) : (p.) niepłynny
+[illiteracy]illiteracy (EN) : (rz.) analfabetyzm; (rz.) ciemnota; (rz.) nieuctwo
+[illiterate]illiterate (EN) : (p.) niegramotny; (p.) niepiśmienny; (rz.) analfabeta
+[illness]illness (EN) : (rz.) choroba; (rz.) schorzenie; (rz.) stan
+[illogical]illogical (EN) : (p.) nielogiczny
+[illogically]illogically (EN) : (p-sł.) nielogicznie
+[illuminate]illuminate (EN) : (cz.) iluminować; (cz.) oświecać; (cz.) oświetlać; (cz.) rozjaśniać
+[illumination]illumination (EN) : (rz.) iluminacja; (rz.) oświecenie; (rz.) oświetlenie; (rz.) rozjaśnienie; (rz.) świecenie
+[illuminator]illuminator (EN) : (rz.) oświetlacz
+[illumine]illumine (EN) : (cz.) iluminować; (cz.) oświecać; (cz.) rozjaśniać
+[illuminometer]illuminometer (EN) : (rz.) luksomierz
+[illusion]illusion (EN) : (rz.) iluzja; (rz.) majak; (rz.) mrzonka; (rz.) przywidzenie; (rz.) ułuda; (rz.) urojenie; (rz.) złuda; (rz.) złudzenie
+[illusionist]illusionist (EN) : (rz.) iluzjonista; (rz.) magik
+[illusive]illusive (EN) : (p.) iluzoryczny; (p.) łudzący; (p.) nierzeczywisty; (p.) złudny; (p.) zwodniczy
+[illusively]illusively (EN) : (p-sł.) złudnie
+[illusory]illusory (EN) : (p.) iluzoryczny; (p.) nierzeczywisty; (p.) złudny; (p.) zwodniczy
+[illustrate]illustrate (EN) : (cz.) ilustrować; (cz.) objaśniać; (cz.) uzmysłowić; (cz.) zilustrować; (cz.) zobrazować
+[illustration]illustration (EN) : (rz.) ilustracja; (rz.) przykład; (rz.) rycina; (rz.) zilustrowanie
+[illustrative]illustrative (EN) : (p.) ilustracyjny; (p.) ilustrujący
+[illustrator]illustrator (EN) : (rz.) ilustrator
+[illustrious]illustrious (EN) : (p.) przesławny; (p.) sławny; (p.) słynny; (p.) wybitny; (p.) znakomity; (p.) znamienity; (p.) znamienny
+[illustriousness]illustriousness (EN) : (p.) słynny; (rz.) sława
+[image]image (EN) : (rz.) grafika; (rz.) ilustracja; (rz.) obraz; (rz.) obrażanie; (rz.) obrazek; (rz.) obrażenie; (rz.) odbicie; (rz.) odwzorowanie; (rz.) podobizna; (rz.) posąg; (rz.) posażek; (rz.) posążek; (rz.) wizerunek; (rz.) wyobrażenie; (rz.) wzór; (rz.) zdjęcie; (rz.) zobrazowanie
+[imagery]imagery (EN) : (rz.) obrazowanie; (rz.) obrazowość; (rz.) odwzorowanie; (rz.) symbolika; (rz.) zobrazowanie
+[imaginable]imaginable (EN) : (p.) wyobrażalny
+[imaginary]imaginary (EN) : (p.) anegdotyczny; (p.) imaginacyjny; (p.) nierealny; (p.) urojony
+[imagination]imagination (EN) : (rz.) fantazja; (rz.) imaginacja; (rz.) wyobraźnia
+[imaginative]imaginative (EN) : (p.) imaginacyjny; (p.) pomysłowy; (p.) twórczy
+[imaginativeness]imaginativeness (EN) : (rz.) polot; (rz.) wyobraźnia
+[imagine]imagine (EN) : (cz.) myśleć; (cz.) przypuszczać; (cz.) roić; (cz.) uroić; (cz.) uświadamiać; (cz.) uświadomić; (cz.) wyobrażać; (cz.) wyobrazić
+[imbalance]imbalance (EN) : (rz.) brak; (rz.) dysproporcja; (rz.) nierównowaga; (rz.) zachwianie
+[imbecile]imbecile (EN) : (p.) kretyński; (rz.) imbecyl
+[imbecility]imbecility (EN) : (rz.) imbecylizm
+[imbibe]imbibe (EN) : (cz.) chłonąć; (cz.) nasiąkać; (cz.) wchłaniać; (cz.) wsiąkać; (cz.) wsypać; (cz.) wsysać
+[imbricate]imbricate (EN) : (cz.) brukować
+[imbroglio]imbroglio (EN) : (rz.) nieporozumienie; (rz.) powikłanie
+[imbrue]imbrue (EN) : (cz.) broczyć
+[imbrute]imbrute (EN) : (cz.) robić
+[imbue]imbue (EN) : (cz.) moczyć; (cz.) napawać; (cz.) napełniać; (cz.) nasycać; (cz.) wchłaniać
+[imitate]imitate (EN) : (cz.) imitować; (cz.) naśladować; (cz.) podrobić; (cz.) udawać
+[imitation]imitation (EN) : (rz.) imitacja; (rz.) naśladowanie; (rz.) naśladownictwo; (rz.) odwzorowanie; (rz.) podróbka; (rz.) podszywanie; (rz.) prekluzja; (rz.) wzorowanie
+[imitational]imitational (EN) : (p.) naśladowniczy
+[imitative]imitative (EN) : (p.) naśladowczy; (p.) naśladujący; (p.) odtwórczy
+[imitator]imitator (EN) : (rz.) naśladowca
+[immaculacy]immaculacy (EN) : (rz.) niepokalaność
+[immaculate]immaculate (EN) : (p.) niepokalany; (p.) nieskazitelny; (p.) przeczysty
+[immaculately]immaculately (EN) : (p-sł.) nienagannie; (p-sł.) nieskazitelnie
+[immanence]immanence (EN) : (rz.) immanentność
+[immanent]immanent (EN) : (p.) immanentny
+[immanently]immanently (EN) : (p-sł.) immanentnie
+[immaterial]immaterial (EN) : (p.) nieistotny; (p.) niematerialny
+[immateriality]immateriality (EN) : (rz.) niematerialność
+[immaterially]immaterially (EN) : (p-sł.) niematerialnie
+[immaterialness]immaterialness (EN) : (rz.) niematerialność
+[immature]immature (EN) : (p.) niedojrzały
+[immatureness]immatureness (EN) : (rz.) niedojrzałość; (rz.) niedorozwój
+[immaturity]immaturity (EN) : (rz.) niedojrzałość; (rz.) niedorozwój
+[immeasurability]immeasurability (EN) : (rz.) bezmiar; (rz.) ogrom
+[immeasurable]immeasurable (EN) : (p.) bezgraniczny; (p.) niewymierny; (p.) niezmierzony; (p.) ogromny
+[immeasurably]immeasurably (EN) : (p-sł.) bezmiernie
+[immediacy]immediacy (EN) : (rz.) bezpośredniość
+[immediate]immediate (EN) : (p.) bezpośredni; (p.) bezzwłoczny; (p.) doraźny; (p.) natychmiastowy; (p.) niezwłoczny; (p.) pilny
+[immediately]immediately (EN) : (p-sł.) bezpośrednio; (p-sł.) bezzwłocznie; (p-sł.) momentalnie; (p-sł.) natychmiast; (p-sł.) niezwłocznie
+[immediateness]immediateness (EN) : (rz.) natychmiastowość
+[immemorial]immemorial (EN) : (p.) niepamiętny; (p.) odwieczny
+[immense]immense (EN) : (p.) bezgraniczny; (p.) bezmierny; (p.) niezmierny; (p.) ogromny; (p.) olbrzymi; (p.) świetny
+[immensely]immensely (EN) : (p-sł.) gigantycznie; (p-sł.) niezmiernie; (p-sł.) ogromnie
+[immensity]immensity (EN) : (rz.) bezmiar; (rz.) ogrom
+[immensurable]immensurable (EN) : (p.) niepomierny
+[immerse]immerse (EN) : (cz.) pogrążać; (cz.) pogrążyć; (cz.) zanurzać; (cz.) zanurzyć
+[immersion]immersion (EN) : (rz.) chrzest; (rz.) immersja; (rz.) zanurzanie; (rz.) zanurzenie
+[immigrant]immigrant (EN) : (rz.) imigrant
+[immigrate]immigrate (EN) : (cz.) imigrować
+[immigration]immigration (EN) : (rz.) imigracja
+[imminence]imminence (EN) : (rz.) bliskość; (rz.) groźba
+[imminent]imminent (EN) : (p.) bliski; (p.) groźny; (p.) zbliżający
+[imminently]imminently (EN) : (p-sł.) blisko
+[immixture]immixture (EN) : (rz.) zmieszanie
+[immobile]immobile (EN) : (p.) nieruchomy; (p.) nieuchronny
+[immobilisation]immobilisation (EN) : (rz.) unieruchomienie
+[immobilise]immobilise (EN) : (cz.) unieruchamiać
+[immobility]immobility (EN) : (rz.) bezruch; (rz.) nieruchomość; (rz.) znieruchomienie
+[immobilization]immobilization (EN) : (rz.) unieruchomienie; (rz.) znieruchomienie
+[immobilize]immobilize (EN) : (cz.) unieruchamiać; (cz.) unieruchomić
+[immoderate]immoderate (EN) : (p.) nadmierny; (p.) nieumiarkowany
+[immoderation]immoderation (EN) : (rz.) nieumiarkowanie
+[immodest]immodest (EN) : (p.) bezczelny; (p.) bezwstydny; (p.) nieskromny
+[immodestly]immodestly (EN) : (p-sł.) nieskromnie
+[immodesty]immodesty (EN) : (rz.) nieskromność
+[immolation]immolation (EN) : (rz.) poświęcenie
+[immoral]immoral (EN) : (p.) nieetyczny; (p.) niemoralny; (p.) rozpustny
+[immorality]immorality (EN) : (rz.) niemoralność; (rz.) rozpusta
+[immorally]immorally (EN) : (p-sł.) niemoralnie
+[immortal]immortal (EN) : (p.) nieśmiertelny; (p.) wieczny; (p.) wiekopomny
+[immortalise]immortalise (EN) : (rz.) uwiecznianie
+[immortality]immortality (EN) : (rz.) nieśmiertelność; (rz.) unieśmiertelnienie
+[immortalization]immortalization (EN) : (rz.) uwiecznianie; (rz.) uwiecznienie
+[immortalize]immortalize (EN) : (cz.) unieśmiertelniać; (cz.) uwieczniać
+[immortally]immortally (EN) : (p-sł.) nieśmiertelnie
+[immortelle]immortelle (EN) : (rz.) nieśmiertelnik
+[immovability]immovability (EN) : (rz.) nieruchomość; (rz.) niewzruszoność
+[immovable]immovable (EN) : (p.) nieruchomy; (p.) niewzruszony; (p.) stały
+[immovably]immovably (EN) : (p-sł.) nieruchomo
+[immune]immune (EN) : (p.) chroniony; (p.) immunologiczny; (p.) odporny; (p.) zabezpieczony
+[immunity]immunity (EN) : (rz.) immunitet; (rz.) nietykalność; (rz.) odporność; (rz.) zabezpieczenie
+[immunization]immunization (EN) : (rz.) immunizacja; (rz.) szczepienie; (rz.) uodpornianie; (rz.) uodpornienie
+[immunize]immunize (EN) : (cz.) immunizować; (cz.) uodporniać; (cz.) uodpornić
+[immunoglobulin]immunoglobulin (EN) : (rz.) immunoglobulina
+[immunological]immunological (EN) : (p.) immunologiczny
+[immunologist]immunologist (EN) : (rz.) immunolog
+[immunology]immunology (EN) : (rz.) immunologia
+[immunotherapy]immunotherapy (EN) : (rz.) immunoterapia; (rz.) seroterapia
+[immure]immure (EN) : (cz.) uwięzić
+[immutability]immutability (EN) : (rz.) niezmienność; (rz.) stałość
+[immutable]immutable (EN) : (p.) niezmienny
+[imp]imp (EN) : (rz.) chochlik; (rz.) diabełek; (rz.) skrzat; (rz.) szympans
+[impact]impact (EN) : (rz.) działanie; (rz.) oddziaływanie; (rz.) uderzenie; (rz.) wpływ; (rz.) zderzenie
+[impair]impair (EN) : (cz.) osłabiać; (cz.) osłabić; (cz.) pogorszyć; (cz.) sfatygować; (cz.) upośledzać; (cz.) uszkadzać; (cz.) uszkodzić; (cz.) zaburzać
+[impairment]impairment (EN) : (rz.) nadwerężenie; (rz.) osłabienie; (rz.) upośledzenie; (rz.) wadliwość
+[impale]impale (EN) : (cz.) nadziać; (cz.) wbijać
+[impalement]impalement (EN) : (rz.) palowanie
+[impalpability]impalpability (EN) : (rz.) bezcielesność
+[impalpable]impalpable (EN) : (p.) nienamacalny; (p.) niepojęty
+[imparity]imparity (EN) : (rz.) nierówność
+[impart]impart (EN) : (cz.) dodać; (cz.) okazać; (cz.) udzielać; (cz.) użyczyć; (cz.) zakomunikować
+[impartial]impartial (EN) : (p.) bezstronny
+[impartiality]impartiality (EN) : (rz.) bezstronność
+[impartially]impartially (EN) : (p-sł.) bezstronnie
+[impartment]impartment (EN) : (rz.) udzielenie
+[impassable]impassable (EN) : (p.) nieprzejezdny; (p.) nieprzekraczalny
+[impasse]impasse (EN) : (rz.) impas
+[impassion]impassion (EN) : (cz.) egzaltować; (cz.) roznamiętniać; (cz.) roznamiętnić
+[impassioned]impassioned (EN) : (p.) zapaleńczy; (p.) żarliwy
+[impassive]impassive (EN) : (p.) beznamiętny; (p.) nieczuły
+[impassivity]impassivity (EN) : (rz.) bierność; (rz.) niewzruszoność; (rz.) obojętność
+[impatience]impatience (EN) : (rz.) niecierpliwość; (rz.) zniecierpliwienie
+[impatient]impatient (EN) : (p.) niecierpliwy; (p.) nieczuły
+[impatiently]impatiently (EN) : (p-sł.) niecierpliwie
+[impawn]impawn (EN) : (cz.) zastawiać
+[impeach]impeach (EN) : (cz.) krytykować; (cz.) oskarżać; (cz.) oskarżyć; (cz.) zaczepić; (cz.) zakwestionować
+[impeachment]impeachment (EN) : (rz.) oskarżenie
+[impeccable]impeccable (EN) : (p.) bezgrzeszny; (p.) nienaganny; (p.) nieskazitelny
+[impecunious]impecunious (EN) : (p.) biedny; (p.) ubogi
+[impedance]impedance (EN) : (rz.) impedancja; (rz.) opór
+[impede]impede (EN) : (cz.) hamować; (cz.) opóźniać; (cz.) przeszkadzać; (cz.) utrudniać; (cz.) zahamować; (cz.) zatrzymywać
+[impediment]impediment (EN) : (rz.) jąkanie; (rz.) przeszkoda; (rz.) utrudnienie
+[impel]impel (EN) : (cz.) pchać; (cz.) pobudzać; (cz.) popędzać; (cz.) zmuszać
+[impellent]impellent (EN) : (rz.) pobudka
+[impeller]impeller (EN) : (rz.) inspirator; (rz.) sprężarki; (rz.) wirnik
+[impend]impend (EN) : (cz.) zagrażać; (cz.) zbliżyć
+[impenetrability]impenetrability (EN) : (rz.) nieprzenikliwość
+[impenetrable]impenetrable (EN) : (p.) nieprzenikalny; (p.) nieprzenikliwy; (p.) nieprzepuszczalny
+[impenetrably]impenetrably (EN) : (p-sł.) niedostępnie
+[imperatival]imperatival (EN) : (p.) imperatywny
+[imperative]imperative (EN) : (p.) bezwzględny; (p.) imperatywny; (p.) istotny; (p.) konieczny; (p.) nakazujący; (p.) niezbędny; (p.) rozkazujący; (rz.) imperatyw; (rz.) konieczność; (rz.) nakaz
+[imperatively]imperatively (EN) : (p-sł.) koniecznie; (p-sł.) rozkazująco
+[imperatorial]imperatorial (EN) : (p.) imperatorski
+[imperceptibility]imperceptibility (EN) : (rz.) niedostrzegalność
+[imperceptible]imperceptible (EN) : (p.) niedostrzegalny; (p.) nieprzytomny; (p.) nieuchwytny
+[imperceptibly]imperceptibly (EN) : (p-sł.) niedostrzegalnie; (p-sł.) niezauważalnie; (p-sł.) nieznacznie
+[imperfect]imperfect (EN) : (p.) niedoskonały; (p.) niezupełny; (p.) wadliwy
+[imperfection]imperfection (EN) : (rz.) niedoskonałość; (rz.) usterka; (rz.) wada; (rz.) wadliwość
+[imperfectly]imperfectly (EN) : (p-sł.) niedoskonale
+[imperial]imperial (EN) : (p.) cesarski; (p.) dostojny; (p.) imperialny; (p.) majestatyczny
+[imperialism]imperialism (EN) : (rz.) imperializm
+[imperialist]imperialist (EN) : (rz.) imperialista
+[imperialistic]imperialistic (EN) : (p.) imperialistyczny
+[imperil]imperil (EN) : (cz.) narażać; (cz.) narazić
+[imperious]imperious (EN) : (p.) naglący; (p.) władczy
+[imperishable]imperishable (EN) : (p.) niezniszczalny
+[impermanence]impermanence (EN) : (rz.) niestałość; (rz.) nietrwałość
+[impermeable]impermeable (EN) : (p.) nieprzemakalny; (p.) nieprzenikliwy; (p.) nieprzepuszczalny
+[impersonal]impersonal (EN) : (p.) bezosobowy; (p.) nieosobisty; (p.) nieosobowy
+[impersonality]impersonality (EN) : (rz.) bezosobowość
+[impersonally]impersonally (EN) : (p-sł.) bezosobowo
+[impersonate]impersonate (EN) : (cz.) naśladować; (cz.) odgrywać; (cz.) personifikować; (cz.) podawać; (cz.) ucieleśniać; (cz.) uosabiać; (cz.) wcielać
+[impersonation]impersonation (EN) : (rz.) naśladowanie; (rz.) personifikacja; (rz.) ucieleśnienie; (rz.) uosabianie; (rz.) uosobienie
+[impersonator]impersonator (EN) : (rz.) odtwórca
+[impertinence]impertinence (EN) : (rz.) bezczelność; (rz.) impertynencja; (rz.) niestosowność
+[impertinency]impertinency (EN) : (rz.) bezczelność; (rz.) impertynencja; (rz.) niestosowność
+[impertinent]impertinent (EN) : (p.) bezczelny; (p.) impertynencki; (p.) niestosowny
+[impertinently]impertinently (EN) : (p-sł.) impertynencko; (p-sł.) zuchwale
+[imperturbability]imperturbability (EN) : (rz.) niewzruszoność
+[imperturbable]imperturbable (EN) : (p.) niewzruszony; (p.) spokojny
+[impervious]impervious (EN) : (p.) niedostępny; (p.) nieprzenikliwy; (p.) nieprzepuszczalny; (p.) odporny
+[impetigo]impetigo (EN) : (rz.) liszajec
+[impetuosity]impetuosity (EN) : (rz.) gwałtowność; (rz.) popędliwość; (rz.) porywczość
+[impetuous]impetuous (EN) : (p.) popędliwy; (p.) porywczy; (p.) wybuchowy; (p.) zapalczywy; (p.) żywiołowy
+[impetuously]impetuously (EN) : (p-sł.) porywczo; (p-sł.) zapalczywie
+[impetus]impetus (EN) : (rz.) bodziec; (rz.) impet; (rz.) impuls; (rz.) pęd; (rz.) rozmach; (rz.) rozpęd
+[impiety]impiety (EN) : (rz.) bezbożność
+[impinge]impinge (EN) : (cz.) naruszać; (cz.) uderzać; (cz.) zderzyć
+[impingement]impingement (EN) : (rz.) uderzenie
+[impious]impious (EN) : (p.) bezbożny; (p.) niecny
+[impish]impish (EN) : (p.) figlarny; (p.) psotny
+[implacability]implacability (EN) : (rz.) nieprzejednanie; (rz.) zajadłość
+[implacable]implacable (EN) : (p.) nieubłagany
+[implant]implant (EN) : (cz.) sadzać; (cz.) sadzić; (cz.) wpajać; (cz.) wrazić; (cz.) wszczepiać; (cz.) wszczepić; (cz.) zaszczepiać; (cz.) zaszczepić
+[implantable]implantable (EN) : (cz.) wszczepić
+[implantation]implantation (EN) : (rz.) implantacja; (rz.) przyczep; (rz.) wkłucie; (rz.) wszczepienie
+[implausible]implausible (EN) : (p.) nieelegancki; (p.) nieprawdopodobny
+[implement]implement (EN) : (cz.) implementować; (cz.) realizować; (cz.) wdrażać; (cz.) wprowadzać; (cz.) zaimplementować; (cz.) zastosować; (rz.) artykuł; (rz.) narzędzie; (rz.) środek
+[implementation]implementation (EN) : (rz.) dopełnienie; (rz.) implementacja; (rz.) realizacja; (rz.) realizowanie; (rz.) wdrażanie; (rz.) wdrożenie; (rz.) wprowadzanie; (rz.) wykonanie; (rz.) zastosowanie
+[implementer]implementer (EN) : (rz.) realizator
+[impletion]impletion (EN) : (rz.) wypełnienie
+[implicate]implicate (EN) : (cz.) implikować; (cz.) nasuwać; (cz.) owijać; (cz.) wikłać; (cz.) włączać; (cz.) wplątać; (cz.) wplątywać; (cz.) wskazywać; (cz.) zamieszać
+[implication]implication (EN) : (rz.) domyślnik; (rz.) implikacja; (rz.) konsekwencja; (rz.) sugestia; (rz.) uwikłanie; (rz.) wmieszanie; (rz.) wplatanie; (rz.) wplątanie
+[implicit]implicit (EN) : (p.) bezgraniczny; (p.) domniemany; (p.) niejawny; (p.) niezaprzeczalny; (p.) ukryty
+[implicitly]implicitly (EN) : (p-sł.) bezwzględnie; (p-sł.) domyślnie
+[implode]implode (EN) : (cz.) implodować
+[implore]implore (EN) : (cz.) błagać; (cz.) wybłagać
+[imploringly]imploringly (EN) : (p-sł.) błagalnie
+[implosion]implosion (EN) : (rz.) implozja
+[imply]imply (EN) : (cz.) implikować; (cz.) insynuować; (cz.) mieścić; (cz.) sugerować; (cz.) zawierać
+[impolite]impolite (EN) : (p.) niegrzeczny; (p.) nieuprzejmy
+[impolitely]impolitely (EN) : (p-sł.) niegrzecznie
+[impoliteness]impoliteness (EN) : (rz.) niegrzeczność; (rz.) nieuprzejmość
+[impolitic]impolitic (EN) : (p.) niepolityczny; (p.) nierozsądny
+[imponderable]imponderable (EN) : (p.) nieważki
+[import]import (EN) : (cz.) importować; (cz.) oznaczać; (cz.) przywozić; (cz.) sprowadzać; (cz.) znaczyć; (rz.) import; (rz.) znaczenie
+[importable]importable (EN) : (p.) importowy
+[importance]importance (EN) : (rz.) doniosłość; (rz.) waga; (rz.) ważkość; (rz.) ważność; (rz.) znaczenie
+[important]important (EN) : (p.) doniosły; (p.) prawidłowy; (p.) ważki; (p.) ważny; (p.) znaczący
+[importantly]importantly (EN) : (p-sł.) doniośle; (p-sł.) znacząco
+[importation]importation (EN) : (rz.) importowanie; (rz.) przywóz; (rz.) wwóz
+[importer]importer (EN) : (rz.) importer
+[imports]imports (EN) : (rz.) przywóz
+[importunate]importunate (EN) : (p.) dokuczliwy; (p.) namolny; (p.) natarczywy; (p.) natrętny
+[importunately]importunately (EN) : (p-sł.) dokuczliwie; (p-sł.) natrętnie
+[importune]importune (EN) : (cz.) dokuczać; (cz.) naprzykrzać; (cz.) wymusić; (cz.) wymuszać; (cz.) żądać
+[importunity]importunity (EN) : (rz.) natarczywość; (rz.) natręctwo
+[impose]impose (EN) : (cz.) imponować; (cz.) łożyć; (cz.) nabierać; (cz.) nakładać; (cz.) nałożyć; (cz.) narzucać; (cz.) narzucić; (cz.) oszukiwać; (cz.) rzucać; (cz.) wymierzać
+[imposing]imposing (EN) : (p.) imponujący
+[imposition]imposition (EN) : (rz.) kara; (rz.) naciąganie; (rz.) nakładanie; (rz.) nałożenie; (rz.) narzucanie; (rz.) narzucenie; (rz.) oszustwo; (rz.) podatek; (rz.) wprowadzanie; (rz.) zdzierstwo
+[impossibility]impossibility (EN) : (rz.) niemożliwość; (rz.) niemożność; (rz.) niepodobieństwo
+[impossible]impossible (EN) : (p.) niemożliwy; (p.) nieprawdopodobny
+[impossibly]impossibly (EN) : (p-sł.) niemożliwie
+[impost]impost (EN) : (rz.) podatek
+[impostor]impostor (EN) : (rz.) hochsztapler; (rz.) oszust; (rz.) szalbierz
+[imposture]imposture (EN) : (rz.) oszustwo
+[impotence]impotence (EN) : (rz.) bezsilność; (rz.) impotencja; (rz.) niemoc
+[impotent]impotent (EN) : (p.) bezsilny
+[impound]impound (EN) : (cz.) konfiskować; (cz.) sekwestrować; (cz.) zajmować
+[impoverish]impoverish (EN) : (cz.) wyjaławiać; (cz.) zniszczyć; (cz.) zubożać; (cz.) zubożyć
+[impoverishment]impoverishment (EN) : (rz.) zubożenie
+[impracticability]impracticability (EN) : (rz.) niewykonalność
+[impracticable]impracticable (EN) : (p.) niestosowalny; (p.) niewykonalny; (p.) nieznośny
+[impractical]impractical (EN) : (p.) niefunkcjonalny; (p.) niepraktyczny; (p.) nierealny
+[impracticality]impracticality (EN) : (rz.) niepraktyczność
+[impractically]impractically (EN) : (p-sł.) niepraktycznie
+[imprecate]imprecate (EN) : (cz.) ściągać; (cz.) wzywać; (cz.) złorzeczyć
+[imprecation]imprecation (EN) : (rz.) przeklinanie
+[imprecise]imprecise (EN) : (p.) nieprecyzyjny
+[imprecisely]imprecisely (EN) : (p-sł.) nieprecyzyjnie
+[imprecision]imprecision (EN) : (rz.) niekompetencja
+[impregnable]impregnable (EN) : (p.) niepokonany
+[impregnate]impregnate (EN) : (cz.) impregnować; (cz.) nasączyć; (cz.) nasycać; (cz.) zapładniać; (cz.) zapłodnić
+[impregnated]impregnated (EN) : (p.) impregnowany
+[impregnation]impregnation (EN) : (rz.) impregnacja; (rz.) nasycanie; (rz.) nasycenie; (rz.) zapłodnienie
+[impresario]impresario (EN) : (rz.) impresario
+[impress]impress (EN) : (cz.) imponować; (cz.) odciskać; (cz.) odcisnąć; (cz.) uświadamiać; (cz.) uświadomić; (cz.) wpoić; (cz.) wycisnąć; (cz.) zaimponować; (cz.) zarekwirować; (cz.) zużytkować; (rz.) wycisk
+[impressible]impressible (EN) : (p.) wrażliwy
+[impression]impression (EN) : (rz.) dodruk; (rz.) druk; (rz.) impresja; (rz.) nakład; (rz.) odbicie; (rz.) odcisk; (rz.) odgniecenie; (rz.) piętno; (rz.) wrażenie; (rz.) wydanie
+[impressionable]impressionable (EN) : (p.) wrażliwy
+[impressionism]impressionism (EN) : (rz.) impresjonizm
+[impressionist]impressionist (EN) : (rz.) impresjonista; (rz.) parodysta
+[impressionistic]impressionistic (EN) : (p.) impresjonistyczny
+[impressively]impressively (EN) : (p-sł.) dobitnie; (p-sł.) wstrząsająco
+[imprint]imprint (EN) : (cz.) odbijać; (cz.) wytłaczać; (rz.) dodruk; (rz.) metryczka; (rz.) odbicie; (rz.) odcisk; (rz.) ślad
+[imprinted]imprinted (EN) : (cz.) ryć; (cz.) wyciskać
+[imprison]imprison (EN) : (cz.) uwięzić; (cz.) więzić
+[imprisonment]imprisonment (EN) : (rz.) poród; (rz.) uwięzienie; (rz.) więzienie
+[improbability]improbability (EN) : (rz.) nieprawdopodobieństwo
+[improbable]improbable (EN) : (p.) nieprawdopodobny
+[improbably]improbably (EN) : (p-sł.) nieprawdopodobnie
+[improbity]improbity (EN) : (rz.) nielegalność; (rz.) nieuczciwość
+[impromptu]impromptu (EN) : (p.) improwizowany; (rz.) mowa
+[improper]improper (EN) : (p.) nieodpowiedni; (p.) nieprawidłowy; (p.) nieprzystojny; (p.) nieprzyzwoity; (p.) niestosowny; (p.) niewłaściwy
+[improperly]improperly (EN) : (p-sł.) nieodpowiednio; (p-sł.) nieprawidłowo; (p-sł.) niestosownie; (p-sł.) niewłaściwie
+[impropriate]impropriate (EN) : (cz.) sekularyzować
+[impropriety]impropriety (EN) : (rz.) nieprzyzwoitość; (rz.) niestosowność; (rz.) niewłaściwość
+[improve]improve (EN) : (cz.) doskonalić; (cz.) poprawiać; (cz.) poprawić; (cz.) udoskonalać; (cz.) udoskonalić; (cz.) ulepszać
+[improved]improved (EN) : (cz.) udoskonalać; (cz.) ulepszyć; (cz.) usprawniać; (cz.) usprawnić
+[improvement]improvement (EN) : (rz.) doskonalenie; (rz.) podciągnięcie; (rz.) polepszanie; (rz.) polepszenie; (rz.) poprawa; (rz.) poprawienie; (rz.) postęp; (rz.) udoskonalenie; (rz.) ulepszanie; (rz.) ulepszenie; (rz.) usprawnienie; (rz.) wynalazek
+[improver]improver (EN) : (rz.) praktykant
+[improvers]improvers (EN) : (rz.) polepszacz
+[improvidence]improvidence (EN) : (rz.) nieprzezorność; (rz.) niezapobiegliwość; (rz.) rozrzutność
+[improvident]improvident (EN) : (p.) lekkomyślny; (p.) nieopatrzny; (p.) nieprzezorny; (p.) niezapobiegliwy
+[improvisation]improvisation (EN) : (rz.) improwizacja
+[improvisational]improvisational (EN) : (p.) improwizatorski
+[improvise]improvise (EN) : (cz.) improwizować; (cz.) zaimprowizować
+[improviser]improviser (EN) : (rz.) improwizator
+[imprudence]imprudence (EN) : (rz.) nieopatrzność; (rz.) nieroztropność
+[imprudent]imprudent (EN) : (p.) niebaczny; (p.) nieostrożny; (p.) nieroztropny; (p.) nierozważny
+[impudence]impudence (EN) : (rz.) bezwstyd; (rz.) nachalność; (rz.) tupet; (rz.) zarozumiałość
+[impudent]impudent (EN) : (p.) bezczelny; (p.) nachalny
+[impudently]impudently (EN) : (p-sł.) bezczelnie; (p-sł.) bezwstydnie; (p-sł.) hardo; (p-sł.) zuchwale
+[impugn]impugn (EN) : (cz.) kwestionować; (cz.) zaatakować; (cz.) zbijać
+[impulse]impulse (EN) : (rz.) bodziec; (rz.) impuls; (rz.) odruch; (rz.) pobudka; (rz.) popęd; (rz.) poryw
+[impulsion]impulsion (EN) : (rz.) impuls
+[impulsive]impulsive (EN) : (p.) impulsywny; (p.) napędowy; (p.) porywczy; (p.) prędki; (p.) raptowny; (p.) spontaniczny
+[impulsively]impulsively (EN) : (p-sł.) impulsywnie
+[impulsiveness]impulsiveness (EN) : (rz.) impulsywność
+[impunity]impunity (EN) : (rz.) bezkarność
+[impure]impure (EN) : (p.) nieczysty; (p.) zanieczyszczony
+[impurity]impurity (EN) : (rz.) domieszka; (rz.) nieczystość; (rz.) zanieczyszczenie
+[imputable]imputable (EN) : (cz.) imputować
+[imputation]imputation (EN) : (rz.) oskarżenie; (rz.) podsunięcie; (rz.) posądzanie; (rz.) przypisywanie
+[impute]impute (EN) : (cz.) imputować; (cz.) oskarżać; (cz.) posądzać; (cz.) przypisywać; (cz.) zarzucać
+[imputed]imputed (EN) : (p.) kalkulacyjny
+[imputing]imputing (EN) : (rz.) imputowanie
+[in]in (EN) : (p-im.) do; (p-im.) na; (p-im.) po; (p-im.) podczas; (p-im.) przede; (p-im.) w; (p-im.) we; (p-im.) według; (p-im.) wśród; (p-im.) za; (p-sł.) wewnątrz; (rz.) kierunek
+[in-house]in-house (EN) : (p.) wewnętrzny; (p.) własny
+[in-law]in-law (EN) : (p.) powinowaty
+[in-laws]in-laws (EN) : (rz.) powinowaci; (rz.) teściowie
+[in-line]in-line (EN) : (p.) dołączony; (p.) przyłączony; (p.) wbudowany; (p.) włączony; (p.) wmontowany; (p.) wstawiony
+[in-process]in-process (EN) : (p.) pośredni; (p.) przejściowy; (p.) wewnątrz-procesowy
+[in-tray]in-tray (EN) : (rz.) tacka
+[inability]inability (EN) : (rz.) niemożność; (rz.) nieumiejętność; (rz.) niezdolność
+[inaccessibility]inaccessibility (EN) : (rz.) niedostępność
+[inaccessible]inaccessible (EN) : (p.) niedostępny; (p.) nieprzystępny
+[inaccuracy]inaccuracy (EN) : (rz.) niedokładność; (rz.) nieścisłość
+[inaccurate]inaccurate (EN) : (p.) mylny; (p.) niecelny; (p.) niedokładny; (p.) nieprecyzyjny; (p.) nieścisły
+[inaccurately]inaccurately (EN) : (p-sł.) nieściśle
+[inaction]inaction (EN) : (rz.) bezczynność
+[inactivate]inactivate (EN) : (cz.) unieruchamiać; (cz.) unieruchomić
+[inactive]inactive (EN) : (p.) bezczynny; (p.) nieaktywny; (p.) nieczynny; (p.) obojętny
+[inactivity]inactivity (EN) : (rz.) bezczynność; (rz.) bierność
+[inadequacy]inadequacy (EN) : (rz.) niedociągnięcie; (rz.) nieodpowiedniość; (rz.) niewystarczalność
+[inadequate]inadequate (EN) : (p.) nieadekwatny; (p.) niedostateczny; (p.) nieodpowiedni
+[inadequately]inadequately (EN) : (p-sł.) nieodpowiednio
+[inadmissibility]inadmissibility (EN) : (rz.) niedopuszczalność
+[inadmissible]inadmissible (EN) : (p.) niedopuszczalny
+[inadvertence]inadvertence (EN) : (rz.) nieuwaga; (rz.) uchybienie
+[inadvertency]inadvertency (EN) : (rz.) nieuwaga; (rz.) uchybienie
+[inadvertent]inadvertent (EN) : (p.) niebaczny; (p.) niedbały; (p.) nierozmyślny; (p.) nieuważny
+[inadvertently]inadvertently (EN) : (p-sł.) nieumyślnie
+[inadvisable]inadvisable (EN) : (p.) niecelowy; (p.) nieprzenośny
+[inalienable]inalienable (EN) : (p.) nieprzenośny
+[inalterable]inalterable (EN) : (p.) niezmienny
+[inane]inane (EN) : (p.) bezmyślny; (p.) czczy; (p.) głupkowaty; (p.) lekkomyślny; (p.) próżny
+[inanimate]inanimate (EN) : (p.) bezduszny; (p.) nieożywiony; (p.) nieżywotny
+[inanition]inanition (EN) : (rz.) wyczerpanie; (rz.) wyniszczenie
+[inanity]inanity (EN) : (rz.) głupkowatość
+[inapplicable]inapplicable (EN) : (p.) nieadekwatny; (p.) nieodpowiedni
+[inapposite]inapposite (EN) : (p.) nieodpowiedni; (p.) niestosowny
+[inappreciable]inappreciable (EN) : (p.) błahy; (p.) nieznaczny
+[inapproachable]inapproachable (EN) : (p.) niedostępny
+[inappropriate]inappropriate (EN) : (p.) nieadekwatny; (p.) niedorzeczny; (p.) nieodpowiedni; (p.) niestosowalny; (p.) niestosowny; (p.) niewłaściwy
+[inappropriateness]inappropriateness (EN) : (rz.) nieodpowiedniość; (rz.) niewłaściwość
+[inapt]inapt (EN) : (p.) nieodpowiedni; (p.) niezdatny; (p.) niezdolny
+[inaptitude]inaptitude (EN) : (rz.) nieudolność; (rz.) niezdatność; (rz.) niezdolność
+[inaptly]inaptly (EN) : (p-sł.) niepojętnie
+[inarticulate]inarticulate (EN) : (p.) niemy; (p.) niewyraźny; (p.) niezrozumiały
+[inartificial]inartificial (EN) : (p.) naturalny; (p.) prosty
+[inattention]inattention (EN) : (rz.) niedbałość; (rz.) nieuwaga
+[inattentive]inattentive (EN) : (p.) nieuważny
+[inattentively]inattentively (EN) : (p-sł.) nieuważnie
+[inaudible]inaudible (EN) : (p.) niesłyszalny
+[inaudibly]inaudibly (EN) : (p-sł.) niesłyszalnie
+[inaugural]inaugural (EN) : (p.) inauguracyjny; (p.) wstępny
+[inaugurate]inaugurate (EN) : (cz.) inaugurować; (cz.) rozpoczynać; (cz.) wprowadzać; (cz.) zainaugurować
+[inauguration]inauguration (EN) : (rz.) inauguracja
+[inauspicious]inauspicious (EN) : (p.) złowróżbny
+[inauthentic]inauthentic (EN) : (p.) nieautentyczny
+[inbeing]inbeing (EN) : (rz.) istota
+[inboard]inboard (EN) : (p.) wewnętrzny; (p-sł.) wewnątrz
+[inborn]inborn (EN) : (p.) samorodny; (p.) wrodzony
+[inbound]inbound (EN) : (p.) wejściowy
+[inbreathe]inbreathe (EN) : (cz.) chłonąć; (cz.) natchnąć
+[inbred]inbred (EN) : (p.) wrodzony
+[inbreeding]inbreeding (EN) : (rz.) endogamia
+[inbuilt]inbuilt (EN) : (p.) wbudowany
+[incalculable]incalculable (EN) : (p.) nieobliczalny; (p.) nieprzewidywalny
+[incalculably]incalculably (EN) : (p-sł.) nieobliczalnie
+[incandescence]incandescence (EN) : (rz.) żarzenie
+[incandescent]incandescent (EN) : (p.) rozżarzony; (p.) żarzeniowy
+[incantation]incantation (EN) : (rz.) formuła; (rz.) zaklęcie; (rz.) zaklinanie
+[incapability]incapability (EN) : (rz.) niezdatność; (rz.) niezdolność
+[incapable]incapable (EN) : (p.) nieporadny; (p.) niezdolny
+[incapacitate]incapacitate (EN) : (cz.) dyskwalifikować; (cz.) ograniczać; (cz.) ubezwłasnowolnić
+[incapacitation]incapacitation (EN) : (rz.) niedyspozycja; (rz.) ubezwłasnowolnienie
+[incapacity]incapacity (EN) : (rz.) niemoc; (rz.) nieudolność; (rz.) niezdatność; (rz.) niezdolność
+[incarcerate]incarcerate (EN) : (cz.) uwięzić; (cz.) więzić
+[incarceration]incarceration (EN) : (rz.) uwięźnięcie
+[incarnadine]incarnadine (EN) : (p.) cielisty; (p.) karmazynowy
+[incarnate]incarnate (EN) : (cz.) wcielać; (p.) wcielony
+[incarnation]incarnation (EN) : (rz.) inkarnacja; (rz.) uosobienie; (rz.) wcielenie
+[incautious]incautious (EN) : (p.) nieostrożny
+[incendiary]incendiary (EN) : (p.) łatwopalny; (p.) podjudzający; (p.) podpalający; (p.) zapalający; (rz.) podjudzacz; (rz.) podpalacz; (rz.) podżegacz
+[incense]incense (EN) : (cz.) okadzać; (cz.) podniecać; (cz.) podniecić; (cz.) rozdrażniać; (cz.) rozdrażnić; (cz.) rozwścieczać; (rz.) kadzidło
+[incentive]incentive (EN) : (p.) podniecający; (rz.) bodziec; (rz.) motywacja; (rz.) pobudka; (rz.) podnieta; (rz.) zachęta
+[incept]incept (EN) : (cz.) wchłaniać
+[inception]inception (EN) : (rz.) początek; (rz.) poczęcie; (rz.) rozpoczęcie
+[inceptive]inceptive (EN) : (p.) początkowy; (p.) żywiołowy
+[incertitude]incertitude (EN) : (rz.) niepewność
+[incessant]incessant (EN) : (p.) bezustanny; (p.) nieprzerwany; (p.) nieustanny; (p.) ustawiczny
+[incessantly]incessantly (EN) : (p-sł.) bezustannie; (p-sł.) nieustająco; (p-sł.) nieustannie
+[incest]incest (EN) : (rz.) kazirodztwo
+[incestuous]incestuous (EN) : (p.) kazirodczy
+[inch]inch (EN) : (rz.) cal
+[inch-rule]inch-rule (EN) : (rz.) calówka
+[inchmeal]inchmeal (EN) : (p-sł.) stopniowo
+[incidence]incidence (EN) : (rz.) częstość; (rz.) częstotliwość; (rz.) padanie; (rz.) przypadkowość; (rz.) skala; (rz.) wpadanie; (rz.) zakres
+[incident]incident (EN) : (p.) padający; (p.) przypadkowy; (p.) swoisty; (p.) właściwy; (p.) wpadający; (rz.) awaria; (rz.) incydent; (rz.) wydarzenie; (rz.) wypadek; (rz.) zajście
+[incidental]incidental (EN) : (p.) incydentalny; (p.) marginalny; (p.) okolicznościowy; (p.) postronny; (p.) przypadkowy; (p.) uboczny; (p.) zdarzeniowy
+[incidentally]incidentally (EN) : (p-sł.) mimochodem; (p-sł.) nawiasem; (p-sł.) przygodnie; (p-sł.) przypadkowo; (p-sł.) ubocznie
+[incinerate]incinerate (EN) : (cz.) spalać; (cz.) spopielać; (cz.) spopielić
+[incineration]incineration (EN) : (rz.) kremowanie; (rz.) spalanie; (rz.) spopielanie; (rz.) spopielenie
+[incinerator]incinerator (EN) : (rz.) krematorium
+[incipience]incipience (EN) : (rz.) początek; (rz.) poczęcie
+[incipiency]incipiency (EN) : (rz.) początek; (rz.) poczęcie
+[incipient]incipient (EN) : (p.) początkowy; (p.) zaczątkowy; (p.) zaczynający
+[incise]incise (EN) : (cz.) nacinać; (cz.) ryć; (cz.) wciąć
+[incision]incision (EN) : (rz.) nacięcie; (rz.) wcięcie; (rz.) wycięcie
+[incisive]incisive (EN) : (p.) bystry; (p.) ostry; (p.) przenikliwy; (p.) sieczny; (p.) tnący
+[incisor]incisor (EN) : (rz.) siekacz
+[incitation]incitation (EN) : (rz.) namowa
+[incite]incite (EN) : (cz.) jątrzyć; (cz.) nakłaniać; (cz.) nasłać; (cz.) pobudzać; (cz.) podburzać; (cz.) podmawiać; (cz.) podniecać; (cz.) podżegać; (cz.) zachęcać; (cz.) zbuntować; (cz.) zmówić
+[incitement]incitement (EN) : (rz.) namawianie; (rz.) podburzanie; (rz.) podburzenie; (rz.) podjudzanie; (rz.) podniecenie; (rz.) podnieta
+[inciter]inciter (EN) : (rz.) podżegacz
+[incivility]incivility (EN) : (rz.) niegrzeczność; (rz.) nieuprzejmość
+[inclemency]inclemency (EN) : (rz.) surowość
+[inclement]inclement (EN) : (p.) ostry; (p.) surowy
+[inclination]inclination (EN) : (rz.) chęć; (rz.) inklinacja; (rz.) nachylenie; (rz.) pochylenie; (rz.) przegięcie; (rz.) skłonność; (rz.) upodobanie; (rz.) wychylanie; (rz.) wychylenie
+[incline]incline (EN) : (cz.) nachylać; (cz.) nagiąć; (cz.) nastrajać; (cz.) pochylać; (cz.) skłaniać; (cz.) wpadać; (cz.) wychylać; (rz.) nachylenie; (rz.) pochyłość; (rz.) stok; (rz.) ukos
+[inclined]inclined (EN) : (p.) skłonny
+[inclinometer]inclinometer (EN) : (rz.) chyłomierz; (rz.) eklimetr; (rz.) inklinometr; (rz.) pochylnik; (rz.) pochyłomierz; (rz.) spadkomierz; (rz.) stratymetr
+[include]include (EN) : (cz.) komentować; (cz.) obejmować; (cz.) ująć; (cz.) uwzględnić; (cz.) włączać; (cz.) wliczyć; (cz.) zaliczyć; (cz.) zawierać; (cz.) zawrzeć
+[inclusion]inclusion (EN) : (rz.) inkluzja; (rz.) wtrącenie; (rz.) zawieranie
+[inclusive]inclusive (EN) : (p.) łączny; (p.) włączający; (p.) zawierający
+[inclusively]inclusively (EN) : (p-sł.) włącznie
+[inclusiveness]inclusiveness (EN) : (rz.) zawartość
+[incognito]incognito (EN) : (p-sł.) anonimowo
+[incognizance]incognizance (EN) : (rz.) nieznajomość
+[incoherence]incoherence (EN) : (rz.) inkoherencja; (rz.) niespójność
+[incoherency]incoherency (EN) : (rz.) inkoherencja; (rz.) niespójność
+[incoherent]incoherent (EN) : (p.) bezładny; (p.) chaotyczny; (p.) niekonsekwentny; (p.) nieskładny; (p.) niespójny
+[incoherently]incoherently (EN) : (p-sł.) chaotycznie; (p-sł.) niespójnie
+[incombustible]incombustible (EN) : (p.) niepalny
+[income]income (EN) : (rz.) dochód; (rz.) przychód
+[incoming]incoming (EN) : (p.) wchodzący; (p.) wejściowy; (rz.) nadejście
+[incommensurable]incommensurable (EN) : (p.) niewspółmierny; (p.) niewymierny
+[incommensurate]incommensurate (EN) : (p.) nieproporcjonalny; (p.) niewspółmierny
+[incommode]incommode (EN) : (cz.) krepować; (cz.) krępować
+[incommodious]incommodious (EN) : (p.) kłopotliwy; (p.) nieodpowiedni; (p.) niewygodny
+[incommunicable]incommunicable (EN) : (p.) nieprzekazywalny
+[incomparable]incomparable (EN) : (p.) nieporównywalny
+[incomparably]incomparably (EN) : (p-sł.) nieporównywalnie
+[incompatibilities]incompatibilities (EN) : (rz.) nieporównywalność; (rz.) niezgodność
+[incompatibility]incompatibility (EN) : (rz.) niekompatybilność; (rz.) nieporównywalność; (rz.) niezgodność
+[incompatible]incompatible (EN) : (p.) niekompatybilny; (p.) nieosiągalny; (p.) niezgodny
+[incompatibly]incompatibly (EN) : (p-sł.) niekompatybilnie; (p-sł.) niezgodnie; (rz.) nieporównanie
+[incompetence]incompetence (EN) : (rz.) niedołęstwo; (rz.) niekompetencja; (rz.) nieudolność; (rz.) niewprawność; (rz.) niezdatność; (rz.) umiejętności
+[incompetent]incompetent (EN) : (p.) niedołężny; (p.) niefachowy; (p.) niekompetentny; (p.) niemiarodajny; (p.) niepełnowartościowy; (p.) nieudolny; (p.) nieumiejętny
+[incomplete]incomplete (EN) : (p.) niecałkowity; (p.) niekompletny; (p.) niepełny; (p.) niepozorny; (p.) niezupełny
+[incompletely]incompletely (EN) : (p-sł.) niezupełnie
+[incompleteness]incompleteness (EN) : (rz.) niezupełność; (rz.) wadliwość
+[incomprehensibility]incomprehensibility (EN) : (rz.) niezrozumiałość; (rz.) zagadkowość
+[incomprehensibly]incomprehensibly (EN) : (p-sł.) niezrozumiale
+[incomprehension]incomprehension (EN) : (rz.) niezrozumienie
+[incompressibility]incompressibility (EN) : (rz.) nieściśliwość
+[incompressible]incompressible (EN) : (p.) nieściśliwy
+[inconceivability]inconceivability (EN) : (rz.) niepojętność
+[inconceivable]inconceivable (EN) : (p.) niepojęty
+[inconceivably]inconceivably (EN) : (p-sł.) niewyobrażalnie
+[inconclusive]inconclusive (EN) : (p.) niejednoznaczny; (p.) nieterminowy; (p.) nietrafny
+[incondite]incondite (EN) : (p.) szorstki
+[incongruity]incongruity (EN) : (rz.) bezsensowność; (rz.) konsekwencji; (rz.) niezgodność; (rz.) zgody
+[incongruous]incongruous (EN) : (p.) niekonsekwentny; (p.) nieodpowiedni; (p.) niestosowny; (p.) niezgodny
+[inconsequent]inconsequent (EN) : (p.) niekonsekwentny; (p.) nielogiczny
+[inconsequential]inconsequential (EN) : (p.) bezładny; (p.) błahy; (p.) nieistotny; (p.) niekonsekwentny; (p.) nielogiczny
+[inconsequentially]inconsequentially (EN) : (p-sł.) niekonsekwentnie
+[inconsiderable]inconsiderable (EN) : (p.) drobny; (p.) nieważny; (p.) nieznaczny
+[inconsiderate]inconsiderate (EN) : (p.) bezmyślny; (p.) bezwzględny; (p.) gruboskórny; (p.) lekkomyślny; (p.) niebaczny; (p.) nieoględny; (p.) nieopatrzny; (p.) nierozważny; (p.) nieuprzejmy
+[inconsiderateness]inconsiderateness (EN) : (p.) bezmyślny; (rz.) bezmyślność
+[inconsideration]inconsideration (EN) : (rz.) nierozwaga
+[inconsistency]inconsistency (EN) : (rz.) niejednolitość; (rz.) niekonsekwencja; (rz.) niezgodność; (rz.) przeciwstawność; (rz.) sprzeczność
+[inconsistent]inconsistent (EN) : (p.) niejednolity; (p.) niekonsekwentny; (p.) nierówny; (p.) niespójny; (p.) niezgodny; (p.) sprzeczny
+[inconsistently]inconsistently (EN) : (p-sł.) niekonsekwentnie; (p-sł.) niezgodnie
+[inconsolable]inconsolable (EN) : (p.) niepocieszony
+[inconsonant]inconsonant (EN) : (p.) niezgodny
+[inconspicuous]inconspicuous (EN) : (p.) niedostrzegalny; (p.) niepokaźny; (p.) niepozorny; (p.) nieuważny
+[inconstancy]inconstancy (EN) : (rz.) niestałość; (rz.) zmienność
+[incontestable]incontestable (EN) : (p.) bezsporny
+[incontinence]incontinence (EN) : (rz.) niepowściągliwość; (rz.) niewstrzemięźliwość
+[incontinent]incontinent (EN) : (p.) niepowściągliwy; (p.) niewstrzemięźliwy; (p.) wyuzdany
+[incontinently]incontinently (EN) : (p-sł.) natychmiast
+[incontrovertible]incontrovertible (EN) : (p.) bezsporny; (p.) bezsprzeczny; (p.) niepodważalny; (p.) niezbity
+[incontrovertibly]incontrovertibly (EN) : (p-sł.) bezspornie
+[inconvenience]inconvenience (EN) : (rz.) kłopot; (rz.) niedogodność; (rz.) niewygoda
+[inconvenient]inconvenient (EN) : (p.) kłopotliwy; (p.) niedogodny; (p.) nieodpowiedni; (p.) nieporęczny; (p.) niewygodny; (p.) uciążliwy
+[inconveniently]inconveniently (EN) : (p-sł.) kłopotliwie; (p-sł.) niedogodnie; (p-sł.) niewygodnie
+[inconvertible]inconvertible (EN) : (p.) niewymienny
+[incorporate]incorporate (EN) : (cz.) inkorporować; (cz.) łączyć; (cz.) obejmować; (cz.) przyłączać; (cz.) ucieleśnić; (cz.) wcielać; (cz.) wcielić; (cz.) włączać; (cz.) włączyć; (cz.) zalegalizować; (cz.) zarejestrować; (cz.) zawierać
+[incorporation]incorporation (EN) : (rz.) inkorporacja; (rz.) rejestracja; (rz.) zjednoczenie; (rz.) zrzeszenie
+[incorporeal]incorporeal (EN) : (p.) bezcielesny; (p.) niematerialny
+[incorrect]incorrect (EN) : (p.) błędny; (p.) niegramatyczny; (p.) niepoprawny; (p.) nieprawidłowy; (p.) niestosowny
+[incorrectly]incorrectly (EN) : (p-sł.) błędnie; (p-sł.) nieodpowiednio; (p-sł.) niepoprawnie
+[incorrectness]incorrectness (EN) : (rz.) niepoprawność; (rz.) niezgodność
+[incorrigibility]incorrigibility (EN) : (rz.) niepoprawność
+[incorrigible]incorrigible (EN) : (p.) niepoprawny
+[incorrigibly]incorrigibly (EN) : (p-sł.) niepoprawnie
+[incorruptibility]incorruptibility (EN) : (rz.) nienaruszalność; (rz.) nieprzekupność
+[incorruptible]incorruptible (EN) : (p.) nieprzekupny
+[incrassate]incrassate (EN) : (cz.) zgęszczać
+[increase]increase (EN) : (cz.) narastać; (cz.) nasilać; (cz.) podnieść; (cz.) podwyższać; (cz.) podwyższyć; (cz.) pogłębiać; (cz.) potęgować; (cz.) powiększać; (cz.) wzmagać; (cz.) wzrastać; (cz.) zwiększać; (cz.) zwiększyć; (rz.) podniesienie; (rz.) podwyżka; (rz.) podwyższanie; (rz.) podwyższenie; (rz.) pogłębienie; (rz.) powiększenie; (rz.) przybytek; (rz.) przyrost; (rz.) wzrost; (rz.) zwiększanie; (rz.) zwiększenie; (rz.) zwyżka
+[incredibility]incredibility (EN) : (rz.) nieprawdopodobieństwo; (rz.) niewiarygodność
+[incredible]incredible (EN) : (p.) cudowny; (p.) nieprawdopodobny; (p.) niesamowity; (p.) niewiarogodny; (p.) niewiarygodny
+[incredibly]incredibly (EN) : (p-sł.) niewiarygodnie
+[incredulity]incredulity (EN) : (rz.) niedowierzanie; (rz.) nieufność
+[incredulous]incredulous (EN) : (p.) nieufny
+[increment]increment (EN) : (rz.) inkrementacja; (rz.) powiększenie; (rz.) przybytek; (rz.) przyrost; (rz.) wzrost; (rz.) zwiększenie; (rz.) zysk
+[incremental]incremental (EN) : (p.) przyrostowy; (p.) zyskowny
+[incrementally]incrementally (EN) : (p-sł.) przyrostowo; (p-sł.) zyskownie
+[incrementing]incrementing (EN) : (rz.) inkrementacja; (rz.) wzrastanie
+[incriminate]incriminate (EN) : (cz.) dyskryminować; (cz.) inkryminować; (cz.) obwiniać; (cz.) zarzucać
+[incrimination]incrimination (EN) : (rz.) obwinianie; (rz.) obwinienie
+[incrust]incrust (EN) : (cz.) inkrustować
+[incrustation]incrustation (EN) : (rz.) inkrustacja; (rz.) nawar
+[incubate]incubate (EN) : (cz.) dojrzewać; (cz.) wysiadywać
+[incubation]incubation (EN) : (rz.) inkubacja; (rz.) wylęganie
+[incubator]incubator (EN) : (rz.) cieplarka; (rz.) inkubator; (rz.) wylęgarka
+[incubus]incubus (EN) : (rz.) koszmar; (rz.) udręka; (rz.) zmora
+[inculcate]inculcate (EN) : (cz.) obwinić; (cz.) wdrażać; (cz.) wpajać
+[inculcation]inculcation (EN) : (rz.) wbicie; (rz.) wpojenie
+[inculpate]inculpate (EN) : (cz.) obwinić
+[incumbency]incumbency (EN) : (rz.) beneficjum
+[incumbent]incumbent (EN) : (rz.) beneficjent
+[incunabula]incunabula (EN) : (rz.) inkunabuł
+[incunabulum]incunabulum (EN) : (rz.) inkunabuł
+[incur]incur (EN) : (cz.) dać; (cz.) narażać; (cz.) narazić; (cz.) poddać; (cz.) ponieść; (cz.) ponosić
+[incurable]incurable (EN) : (p.) nieuleczalny
+[incurably]incurably (EN) : (p-sł.) nieuleczalnie
+[incurious]incurious (EN) : (p.) nieciekawy
+[incurrence]incurrence (EN) : (rz.) zaciągnięcie
+[incursion]incursion (EN) : (rz.) najazd; (rz.) napad; (rz.) wtargnięcie; (rz.) zagon
+[incurve]incurve (EN) : (cz.) wgiąć
+[indebted]indebted (EN) : (p.) dłużny; (p.) wdzięczny; (p.) zadłużony; (p.) zobowiązany
+[indebtedness]indebtedness (EN) : (rz.) dług; (rz.) zadłużenie
+[indecency]indecency (EN) : (rz.) drastyczność; (rz.) nieprzyzwoitość; (rz.) nieskromność
+[indecent]indecent (EN) : (p.) nieobyczajny; (p.) nieprzyzwoity; (p.) nieskromny; (p.) skandaliczny
+[indecision]indecision (EN) : (rz.) chwiejność; (rz.) niezdecydowanie; (rz.) rozterka
+[indecisive]indecisive (EN) : (p.) chwiejny; (p.) niepewny; (p.) niezdecydowany
+[indeclinable]indeclinable (EN) : (p.) nieodmienny
+[indecomposable]indecomposable (EN) : (p.) nierozkładalny
+[indecorous]indecorous (EN) : (p.) niegodny; (p.) nieodpowiedni; (p.) niestosowny
+[indeed]indeed (EN) : (p-sł.) faktycznie; (p-sł.) istotnie; (p-sł.) rzeczywiście; (p-sł.) wręcz
+[indefatigable]indefatigable (EN) : (p.) niespokojny; (p.) niezmordowany
+[indefectible]indefectible (EN) : (p.) bezbłędny; (p.) niezawodny
+[indefinable]indefinable (EN) : (p.) nieuchwytny
+[indefinite]indefinite (EN) : (p.) bezterminowy; (p.) niejasny; (p.) nieograniczony; (p.) nieokreślony
+[indefiniteness]indefiniteness (EN) : (rz.) nieokreśloność
+[indelible]indelible (EN) : (p.) nieścieralny; (p.) nieusuwalny; (p.) niezatarty; (p.) niezmywalny
+[indelicacy]indelicacy (EN) : (rz.) niedelikatność; (rz.) niedyskrecja
+[indelicate]indelicate (EN) : (p.) niedelikatny; (p.) nietaktowny
+[indelicately]indelicately (EN) : (p-sł.) niedelikatnie
+[indemnification]indemnification (EN) : (rz.) indemnizacja; (rz.) odszkodowanie
+[indemnify]indemnify (EN) : (cz.) gwarantować; (cz.) wynagrodzić; (cz.) zabezpieczać; (cz.) zabezpieczyć
+[indemnity]indemnity (EN) : (rz.) indemnizacja; (rz.) odszkodowanie; (rz.) wolność; (rz.) zabezpieczenie
+[indene]indene (EN) : (rz.) inden
+[indent]indent (EN) : (cz.) nacinać; (cz.) wgłębiać; (cz.) wgnieść; (cz.) zamawiać; (rz.) nacięcie; (rz.) przecięcie; (rz.) spacja; (rz.) wcięcie; (rz.) wgniecenie
+[indentation]indentation (EN) : (rz.) nacięcie; (rz.) wcięcie; (rz.) wycięcie
+[indention]indention (EN) : (rz.) akapit; (rz.) nacięcie; (rz.) odstęp; (rz.) wcięcie
+[indenture]indenture (EN) : (cz.) zobowiązywać; (rz.) kontrakt; (rz.) nacięcie; (rz.) umowa
+[independence]independence (EN) : (rz.) niepodległość; (rz.) niezależność; (rz.) niezawisłość; (rz.) samodzielność
+[independent]independent (EN) : (p.) bezpartyjny; (p.) niezależny; (p.) samodzielny
+[independently]independently (EN) : (p-sł.) niezależnie; (p-sł.) odrębnie
+[indescribable]indescribable (EN) : (p.) niejasny
+[indestructibility]indestructibility (EN) : (rz.) niezniszczalność; (rz.) trwałość
+[indestructible]indestructible (EN) : (p.) niezniszczalny
+[indeterminable]indeterminable (EN) : (p.) niewyznaczalny
+[indeterminacy]indeterminacy (EN) : (rz.) nieokreśloność
+[indeterminate]indeterminate (EN) : (p.) nieokreślony; (p.) nieoznaczony; (p.) nierozstrzygalny; (p.) niezdecydowany
+[index]index (EN) : (rz.) eksponent; (rz.) indeks; (rz.) indeksacja; (rz.) katalog; (rz.) kontrolka; (rz.) repertorium; (rz.) skorowidz; (rz.) wskaźnik; (rz.) wykaz
+[indexation]indexation (EN) : (rz.) indeksacja; (rz.) wskazanie
+[indexes]indexes (EN) : (rz.) spis
+[indicant]indicant (EN) : (rz.) wskaźnik
+[indicate]indicate (EN) : (cz.) oznaczać; (cz.) oznaczyć; (cz.) pokazywać; (cz.) wskazać; (cz.) wskazywać
+[indication]indication (EN) : (rz.) oznaczenie; (rz.) oznaka; (rz.) przejaw; (rz.) wskazanie; (rz.) wskazówka; (rz.) wskazywanie; (rz.) znak
+[indicative]indicative (EN) : (p.) wskaźnikowy; (p.) wskazujący; (p.) znamionowy
+[indicator]indicator (EN) : (rz.) indykator; (rz.) informator; (rz.) kierunkowskaz; (rz.) kontrolka; (rz.) oznaka; (rz.) sygnalizator; (rz.) wskaźnik; (rz.) wskazówka
+[indict]indict (EN) : (cz.) oskarżać
+[indictable]indictable (EN) : (p.) zaskarżalny
+[indictment]indictment (EN) : (rz.) akt; (rz.) oskarżenie
+[indifference]indifference (EN) : (rz.) apatia; (rz.) nieczułość; (rz.) obojętność
+[indifferent]indifferent (EN) : (p.) mierny; (p.) obojętny
+[indifferently]indifferently (EN) : (p-sł.) obojętnie
+[indigence]indigence (EN) : (rz.) nędza
+[indigenous]indigenous (EN) : (p.) autochtoniczny; (p.) rdzenny; (p.) tubylczy
+[indigenously]indigenously (EN) : (p-sł.) lokalnie; (p-sł.) rdzennie
+[indigent]indigent (EN) : (p.) biedny
+[indigestible]indigestible (EN) : (p.) niestrawny
+[indigestion]indigestion (EN) : (rz.) niestrawność
+[indignation]indignation (EN) : (rz.) oburzenie; (rz.) wzburzenie
+[indignity]indignity (EN) : (rz.) niegodność; (rz.) obelga; (rz.) zniewaga
+[indigo]indigo (EN) : (rz.) indygo
+[indirect]indirect (EN) : (p.) okólny; (p.) okrężny; (p.) pośredni; (p.) zależny
+[indirection]indirection (EN) : (rz.) pośredniość
+[indirectly]indirectly (EN) : (p-sł.) nieuczciwie; (p-sł.) pośrednio
+[indiscipline]indiscipline (EN) : (rz.) niekarność; (rz.) niezdyscyplinowanie
+[indiscreet]indiscreet (EN) : (p.) niedyskretny; (p.) nieostrożny; (p.) nieroztropny; (p.) nierozważny
+[indiscrete]indiscrete (EN) : (p.) jednolity; (p.) spoisty
+[indiscretion]indiscretion (EN) : (rz.) niedyskrecja; (rz.) nieostrożność; (rz.) nieroztropność; (rz.) nierozwaga; (rz.) uchybienie
+[indiscriminate]indiscriminate (EN) : (p.) nierozróżnialny; (p.) niewybredny
+[indiscriminately]indiscriminately (EN) : (p-sł.) bezkrytycznie; (p-sł.) niewybrednie
+[indiscrimination]indiscrimination (EN) : (rz.) niewybredność
+[indispensability]indispensability (EN) : (rz.) konieczność; (rz.) nieodzowność
+[indispensable]indispensable (EN) : (p.) nieodłączny; (p.) nieodzowny; (p.) niezbędny
+[indispensably]indispensably (EN) : (p-sł.) nieodzownie
+[indispose]indispose (EN) : (cz.) zrazić
+[indisposed]indisposed (EN) : (p.) niechętny; (p.) niedysponowany; (p.) nieskłonny; (p.) niezdrów
+[indisposition]indisposition (EN) : (rz.) niechęć; (rz.) niedomaganie; (rz.) niedyspozycja
+[indisputable]indisputable (EN) : (p.) bezdyskusyjny; (p.) bezsporny; (p.) nierozpuszczalny; (p.) nierozwiązalny; (p.) niewątpliwy
+[indisputably]indisputably (EN) : (p-sł.) bezspornie
+[indissolubility]indissolubility (EN) : (rz.) nierozerwalność
+[indissoluble]indissoluble (EN) : (p.) nierozerwalny; (p.) nierozpuszczalny; (p.) nierozwiązywalny
+[indissolubleness]indissolubleness (EN) : (rz.) nierozdzielność
+[indistinct]indistinct (EN) : (p.) bezkształtny; (p.) niejasny; (p.) niewyraźny
+[indistinctive]indistinctive (EN) : (p.) nierozróżnialny
+[indistinguishable]indistinguishable (EN) : (p.) nieodróżnialny; (p.) nierozpoznawalny
+[indium]indium (EN) : (rz.) ind
+[individual]individual (EN) : (p.) indywidualny; (p.) osobisty; (p.) osobliwy; (p.) pojedynczy; (p.) poszczególny; (rz.) indywiduum; (rz.) jednostka; (rz.) oryginał; (rz.) osoba; (rz.) osobnik
+[individualisation]individualisation (EN) : (rz.) indywidualizacja
+[individualism]individualism (EN) : (rz.) indywidualizm
+[individualist]individualist (EN) : (rz.) indywidualista
+[individualistic]individualistic (EN) : (p.) indywidualistyczny
+[individuality]individuality (EN) : (rz.) indywidualność; (rz.) jednostkowość; (rz.) odrębność
+[individualization]individualization (EN) : (rz.) indywidualizacja
+[individualize]individualize (EN) : (cz.) indywidualizować; (cz.) zindywidualizować
+[individually]individually (EN) : (p-sł.) indywidualnie; (p-sł.) poszczególnie
+[individuate]individuate (EN) : (cz.) indywidualizować; (cz.) wyodrębniać
+[indivisibility]indivisibility (EN) : (rz.) niepodzielność
+[indivisible]indivisible (EN) : (p.) niepodzielny
+[indivisibly]indivisibly (EN) : (p-sł.) niepodzielnie
+[indoctrinate]indoctrinate (EN) : (cz.) indoktrynować
+[indoctrination]indoctrination (EN) : (rz.) indoktrynacja
+[indolence]indolence (EN) : (rz.) indolencja; (rz.) lenistwo; (rz.) niedołęstwo; (rz.) ociężałość; (rz.) opieszałość; (rz.) ospałość
+[indolent]indolent (EN) : (p.) bezbolesny; (p.) leniwy
+[indolently]indolently (EN) : (p-sł.) bezboleśnie; (p-sł.) leniwie
+[indomitable]indomitable (EN) : (p.) nieposkromiony
+[indoor]indoor (EN) : (p.) domowy; (p.) halowy; (p.) pokojowy; (p.) spokojny
+[indoors]indoors (EN) : (p-sł.) wewnątrz
+[indorse]indorse (EN) : (cz.) indosować; (cz.) żyrować
+[indrawn]indrawn (EN) : (p.) introspektywny
+[indubitable]indubitable (EN) : (p.) niewątpliwy
+[induce]induce (EN) : (cz.) indukować; (cz.) nakłaniać; (cz.) namawiać; (cz.) namówić; (cz.) powodować; (cz.) prowokować; (cz.) skłaniać; (cz.) skłonić; (cz.) wnioskować; (cz.) wywoływać
+[inducement]inducement (EN) : (rz.) bodziec; (rz.) pobudka; (rz.) pokusa; (rz.) zachęta
+[inducer]inducer (EN) : (rz.) induktor
+[induct]induct (EN) : (cz.) powierzać; (cz.) wprowadzać
+[inductance]inductance (EN) : (rz.) indukcyjność
+[inductance-capacitance]inductance-capacitance (EN) : (rz.) indukcyjność-pojemność
+[inductances]inductances (EN) : (rz.) indukcyjność
+[induction]induction (EN) : (rz.) indukcja; (rz.) naprowadzanie; (rz.) pobór; (rz.) wprowadzenie; (rz.) zasysanie
+[inductive]inductive (EN) : (p.) indukcyjny
+[inductively]inductively (EN) : (p-sł.) indukcyjnie
+[inductor]inductor (EN) : (rz.) induktor; (rz.) wzbudnik
+[indulge]indulge (EN) : (cz.) dogadzać; (cz.) oddawać; (cz.) pobłażać; (cz.) rozkaprysić; (cz.) zaspokajać; (cz.) zażyć
+[indulgence]indulgence (EN) : (rz.) dogadzanie; (rz.) łaska; (rz.) odpust; (rz.) pobłażanie; (rz.) pobłażliwość; (rz.) zaspokojenie
+[indulgent]indulgent (EN) : (p.) łaskawy; (p.) pobłażliwy
+[indulgently]indulgently (EN) : (p-sł.) pobłażliwie; (p-sł.) ulgowo; (p-sł.) wyrozumiale; (p-sł.) względnie
+[indult]indult (EN) : (rz.) dyspensa
+[indurate]indurate (EN) : (cz.) utwardzać; (cz.) zahartować
+[industrial]industrial (EN) : (p.) przemysłowy; (p.) wielkoprzemysłowy
+[industrialism]industrialism (EN) : (rz.) industrializm
+[industrialist]industrialist (EN) : (rz.) przemysłowiec
+[industrialization]industrialization (EN) : (rz.) industrializacja; (rz.) uprzemysłowienie
+[industrialize]industrialize (EN) : (cz.) uprzemysławiać; (cz.) uprzemysłowić
+[industrially]industrially (EN) : (p-sł.) przemysłowo
+[industrious]industrious (EN) : (p.) pilny; (p.) pracowity; (p.) skrzętny
+[industriously]industriously (EN) : (p-sł.) pilnie; (p-sł.) pracowicie
+[industry]industry (EN) : (rz.) pracowitość; (rz.) przemysł; (rz.) skrzętność
+[indwell]indwell (EN) : (cz.) zamieszkać
+[inebriate]inebriate (EN) : (p.) nietrzeźwy
+[inebriation]inebriation (EN) : (rz.) upojenie
+[inebriety]inebriety (EN) : (rz.) pijaństwo
+[inedible]inedible (EN) : (p.) niejadalny
+[ineffable]ineffable (EN) : (p.) niewypowiedziany
+[ineffective]ineffective (EN) : (p.) bezskuteczny; (p.) daremny; (p.) nieefektowny; (p.) nieefektywny; (p.) nieskuteczny; (p.) nieudolny
+[ineffectively]ineffectively (EN) : (p-sł.) bezskutecznie
+[ineffectiveness]ineffectiveness (EN) : (rz.) bezskuteczność; (rz.) nieskuteczność
+[ineffectual]ineffectual (EN) : (p.) bezskuteczny
+[ineffectuality]ineffectuality (EN) : (rz.) bezskuteczność
+[inefficacious]inefficacious (EN) : (p.) bezpłodny; (p.) daremny
+[inefficacy]inefficacy (EN) : (rz.) nieskuteczność
+[inefficiency]inefficiency (EN) : (rz.) nieefektywność; (rz.) nieskuteczność; (rz.) niesprawność; (rz.) nieudolność; (rz.) niewydajność; (rz.) niewydolność
+[inefficient]inefficient (EN) : (p.) nieefektywny; (p.) nieskuteczny; (p.) niesprawny; (p.) nieudolny; (p.) niewydajny; (p.) niezdolny
+[inefficiently]inefficiently (EN) : (p-sł.) nieskutecznie; (p-sł.) nieudolnie
+[inelastic]inelastic (EN) : (p.) nieelastyczny; (p.) niesprężysty
+[inelasticity]inelasticity (EN) : (rz.) niesprężystość
+[inelegant]inelegant (EN) : (p.) nieelegancki; (p.) niegustowny; (p.) niewytworny
+[ineligible]ineligible (EN) : (p.) nieodpowiedni
+[ineloquent]ineloquent (EN) : (p.) niewymowny
+[inept]inept (EN) : (p.) głupi; (p.) niedorzeczny; (p.) niekompetentny; (p.) niestosowny; (p.) niewprawny
+[ineptitude]ineptitude (EN) : (rz.) niestosowność
+[ineptly]ineptly (EN) : (p-sł.) nieudolnie
+[ineptness]ineptness (EN) : (rz.) nieudolność; (rz.) niezdolność
+[inequality]inequality (EN) : (rz.) nierównomierność; (rz.) nierówność; (rz.) niestałość; (rz.) niewystarczalność
+[inequitable]inequitable (EN) : (p.) nierówny; (p.) niesłuszny; (p.) niesprawiedliwy
+[inequity]inequity (EN) : (rz.) nierówność; (rz.) niesłuszność; (rz.) niesprawiedliwość
+[inert]inert (EN) : (p.) bezwładny; (p.) bezwolny; (p.) inercyjny; (p.) nieczynny; (p.) obojętny; (p.) samozachowawczy
+[inertia]inertia (EN) : (rz.) bezczynność; (rz.) bezruch; (rz.) bezwład; (rz.) bezwładność; (rz.) inercja; (rz.) martwota; (rz.) ociężałość
+[inertial]inertial (EN) : (p.) inercjalny; (p.) inercyjny
+[inertly]inertly (EN) : (p-sł.) bezwładnie; (p-sł.) biernie
+[inertness]inertness (EN) : (rz.) bezruch; (rz.) bierność
+[inescapable]inescapable (EN) : (p.) nieuchronny
+[inessential]inessential (EN) : (p.) nieistotny; (p.) niepotrzebny; (p.) nieważny
+[inestimable]inestimable (EN) : (p.) nieoceniony
+[inevitability]inevitability (EN) : (rz.) nieuchronność; (rz.) nieuniknioność
+[inevitable]inevitable (EN) : (p.) niechybny; (p.) nieuchronny; (p.) nieunikniony
+[inevitably]inevitably (EN) : (p-sł.) niechybnie; (p-sł.) nieodzownie; (p-sł.) nieuchronnie
+[inexact]inexact (EN) : (p.) niedokładny; (p.) nieprecyzyjny; (p.) nieścisły
+[inexcusable]inexcusable (EN) : (p.) nieprzebaczalny; (p.) niewybaczalny
+[inexhaustible]inexhaustible (EN) : (p.) niewyczerpany
+[inexorable]inexorable (EN) : (p.) nieubłagany
+[inexorably]inexorably (EN) : (p-sł.) nieubłaganie
+[inexpedience]inexpedience (EN) : (rz.) niecelowość
+[inexpediency]inexpediency (EN) : (rz.) niecelowość
+[inexpedient]inexpedient (EN) : (p.) niecelowy; (p.) niekorzystny; (p.) niepolityczny
+[inexpensive]inexpensive (EN) : (p.) niedrogi; (p.) niekosztowny; (p.) tani
+[inexpensively]inexpensively (EN) : (p-sł.) niedrogo
+[inexperience]inexperience (EN) : (rz.) niedoświadczenie
+[inexperienced]inexperienced (EN) : (p.) niedoświadczony; (p.) nieprawny
+[inexpert]inexpert (EN) : (p.) niewprawny
+[inexpertly]inexpertly (EN) : (p-sł.) niezręcznie
+[inexplicability]inexplicability (EN) : (rz.) niezrozumiałość
+[inexplicable]inexplicable (EN) : (p.) niewytłumaczalny
+[inexplicit]inexplicit (EN) : (p.) niejasny
+[inexpressible]inexpressible (EN) : (p.) niewysłowiony
+[inexpressive]inexpressive (EN) : (p.) niewyrazisty
+[inextensible]inextensible (EN) : (p.) nierozciągliwy
+[inextricable]inextricable (EN) : (p.) nierozwiązywalny
+[inextricably]inextricably (EN) : (p-sł.) nierozerwalnie
+[infallibility]infallibility (EN) : (rz.) nieomylność
+[infallible]infallible (EN) : (p.) niechybny; (p.) nieomylny; (p.) niezawodny
+[infallibly]infallibly (EN) : (p-sł.) niechybnie; (p-sł.) nieomylnie
+[infamous]infamous (EN) : (p.) niecny; (p.) niehonorowy; (p.) niesławny; (p.) nikczemny
+[infamy]infamy (EN) : (rz.) bezeceństwo; (rz.) hańba; (rz.) haniebność; (rz.) infamia; (rz.) niegodziwość; (rz.) niesława; (rz.) nikczemność
+[infancy]infancy (EN) : (rz.) dziecięctwo; (rz.) dzieciństwo; (rz.) niemowlęctwo; (rz.) niepełnoletność
+[infant]infant (EN) : (rz.) dzieciątko; (rz.) dziecko; (rz.) niemowlę; (rz.) noworodek
+[infanticide]infanticide (EN) : (rz.) dzieciobójca; (rz.) dzieciobójstwo
+[infantile]infantile (EN) : (p.) dziecięcy; (p.) dziecinny; (p.) infantylny; (p.) niemowlęcy; (p.) szczeniacki
+[infantilism]infantilism (EN) : (rz.) infantylizm
+[infantine]infantine (EN) : (p.) dziecięcy; (p.) dziecinny; (p.) infantylny; (p.) niemowlęcy; (p.) szczeniacki
+[infantry]infantry (EN) : (rz.) piechota
+[infantryman]infantryman (EN) : (rz.) piechur
+[infantrymen]infantrymen (EN) : (rz.) piechur
+[infatuate]infatuate (EN) : (cz.) ogłupiać; (cz.) ogłupić; (cz.) oszaleć; (cz.) rozkochać; (cz.) zaślepiać
+[infatuation]infatuation (EN) : (rz.) namiętność; (rz.) oczarowanie; (rz.) zakochanie; (rz.) zaślepienie
+[infect]infect (EN) : (cz.) infekować; (cz.) zainfekować; (cz.) zakażać; (cz.) zakazić; (cz.) zarażać; (cz.) zarazić
+[infection]infection (EN) : (rz.) infekcja; (rz.) zakażenie; (rz.) zaraza; (rz.) zarażanie; (rz.) zarażenie
+[infectious]infectious (EN) : (p.) infekcyjny; (p.) zakaźny; (p.) zaraźliwy
+[infective]infective (EN) : (p.) infekcyjny; (p.) zaraźliwy
+[infectivity]infectivity (EN) : (rz.) zakaźność
+[infelicitous]infelicitous (EN) : (p.) niefortunny
+[infer]infer (EN) : (cz.) dedukować; (cz.) dorozumieć; (cz.) konkludować; (cz.) miarkować; (cz.) sądzić; (cz.) wnioskować; (cz.) wydedukować; (cz.) wywnioskować
+[inference]inference (EN) : (rz.) dedukcja; (rz.) konkluzja; (rz.) wniosek; (rz.) wnioskowanie; (rz.) wywód
+[inferior]inferior (EN) : (p.) niższy; (p.) podwładny
+[inferiority]inferiority (EN) : (rz.) niższość; (rz.) podrzędność; (rz.) pośledniość
+[infernal]infernal (EN) : (p.) diabelski; (p.) okropny; (p.) piekielny
+[inferno]inferno (EN) : (rz.) piekło
+[inferred]inferred (EN) : (cz.) wywieść; (cz.) wywnioskować
+[infertile]infertile (EN) : (p.) bezpłodny; (p.) niepłodny; (p.) nieurodzajny
+[infertility]infertility (EN) : (rz.) bezpłodność; (rz.) niepłodność; (rz.) nieurodzajność
+[infest]infest (EN) : (cz.) nachodzić; (cz.) najeżdżać; (cz.) nawiedzać; (cz.) niepokoić; (cz.) opanowywać; (cz.) pustoszyć
+[infestation]infestation (EN) : (rz.) plaga
+[infidel]infidel (EN) : (rz.) innowierca; (rz.) poganin
+[infidelity]infidelity (EN) : (rz.) niewierność; (rz.) zdrada
+[infield]infield (EN) : (rz.) krykiet
+[infiltrate]infiltrate (EN) : (cz.) infiltrować; (cz.) przenikać; (cz.) przesączać
+[infiltration]infiltration (EN) : (rz.) infiltracja; (rz.) naciek; (rz.) przenikanie; (rz.) wniknięcie
+[infinite]infinite (EN) : (p.) bezdenny; (p.) bezkresny; (p.) bezmierny; (p.) nieograniczony; (p.) nieosobowy; (p.) nieskończony; (p.) niezmierny; (p.) ogromny
+[infinitely]infinitely (EN) : (p-sł.) nieskończenie
+[infinitesimal]infinitesimal (EN) : (p.) znikomy
+[infinitival]infinitival (EN) : (p.) bezokolicznikowy
+[infinitive]infinitive (EN) : (p.) nieokreślony; (rz.) bezokolicznik
+[infinity]infinity (EN) : (rz.) bezgraniczność; (rz.) bezkres; (rz.) bezmierność; (rz.) nieskończoność; (rz.) niezliczoność
+[infirm]infirm (EN) : (p.) bezsilny; (p.) chory; (p.) niedołężny; (p.) słaby
+[infirmary]infirmary (EN) : (rz.) infirmeria; (rz.) izba; (rz.) lecznica; (rz.) szpital
+[infirmity]infirmity (EN) : (rz.) choroba; (rz.) niedołęstwo; (rz.) niemoc; (rz.) słabość; (rz.) ułomność
+[infix]infix (EN) : (cz.) wpisywać; (cz.) wprowadzać; (cz.) wstawiać; (cz.) zgłaszać
+[inflame]inflame (EN) : (cz.) jątrzyć; (cz.) podniecać; (cz.) podniecić; (cz.) rozjątrzać; (cz.) rozpalać; (cz.) rozpalić; (cz.) rozpłomienić; (cz.) rozżarzać; (cz.) zapalać; (cz.) zapalić
+[inflammable]inflammable (EN) : (p.) łatwopalny; (p.) palny; (p.) zapalczywy; (p.) zapalny
+[inflammation]inflammation (EN) : (rz.) nieżyt; (rz.) rozniecenie; (rz.) zapalenie
+[inflammatory]inflammatory (EN) : (p.) zapalający; (p.) zapalny
+[inflate]inflate (EN) : (cz.) dymać; (cz.) nadmuchiwać; (cz.) nadymać; (cz.) napełniać; (cz.) napompować; (cz.) wyśrubować; (cz.) wzdąć
+[inflation]inflation (EN) : (rz.) inflacja; (rz.) nadmuchiwanie; (rz.) nadymanie
+[inflationary]inflationary (EN) : (p.) inflacyjny
+[inflect]inflect (EN) : (cz.) modulować; (cz.) naginać; (cz.) odmieniać; (cz.) odmienić; (cz.) wyginać
+[inflection]inflection (EN) : (rz.) fleksja; (rz.) modulacja; (rz.) odmiana; (rz.) przegięcie; (rz.) skłonność; (rz.) wyginanie
+[inflectional]inflectional (EN) : (p.) fleksyjny
+[inflective]inflective (EN) : (p.) fleksyjny
+[inflexibility]inflexibility (EN) : (rz.) nieugiętość; (rz.) niezłomność
+[inflexible]inflexible (EN) : (p.) nieelastyczny; (p.) niegiętki; (p.) nieugięty; (p.) sztywny
+[inflexibly]inflexibly (EN) : (p-sł.) nieelastycznie
+[inflexion]inflexion (EN) : (rz.) fleksja; (rz.) odmiana; (rz.) przegięcie; (rz.) skłonność
+[inflict]inflict (EN) : (cz.) nakładać; (cz.) wymierzać; (cz.) wyrządzać; (cz.) zadać; (cz.) zarzucać
+[infliction]infliction (EN) : (rz.) ukaranie; (rz.) zadanie
+[inflorescence]inflorescence (EN) : (rz.) kwiatostan
+[inflorescences]inflorescences (EN) : (rz.) kwiatostan
+[inflow]inflow (EN) : (rz.) dopływ; (rz.) napływ; (rz.) przypływ
+[influence]influence (EN) : (cz.) skłaniać; (cz.) wpływać; (rz.) influenca; (rz.) obniżenie; (rz.) oddziaływanie; (rz.) wpływ; (rz.) wpływanie
+[influential]influential (EN) : (p.) wpływowy
+[influenza]influenza (EN) : (rz.) grypa
+[influx]influx (EN) : (rz.) dopływ; (rz.) napływ; (rz.) ujście; (rz.) wpływanie
+[info]info (EN) : (rz.) informacja
+[inform]inform (EN) : (cz.) donosić; (cz.) informować; (cz.) natchnąć; (cz.) poinformować; (cz.) przenikać; (cz.) radzić; (cz.) zawiadamiać
+[informal]informal (EN) : (p.) bezpośredni; (p.) nieformalny; (p.) nieoficjalny; (p.) nieurzędowy; (p.) potoczny; (p.) prywatny; (p.) swobodny
+[informality]informality (EN) : (rz.) bezpośredniość; (rz.) nieformalność
+[informally]informally (EN) : (p-sł.) nieformalnie
+[informant]informant (EN) : (rz.) informator; (rz.) sprawozdawca
+[informatics]informatics (EN) : (rz.) informatyka
+[information]information (EN) : (rz.) donos; (rz.) informacja; (rz.) informowanie; (rz.) powiadomienie; (rz.) uświadomienie; (rz.) zawiadomienie
+[informational]informational (EN) : (p.) informacyjny
+[informative]informative (EN) : (p.) informacyjny; (p.) instruktażowy
+[informatively]informatively (EN) : (p-sł.) pouczająco
+[informed]informed (EN) : (p.) poinformowany
+[informer]informer (EN) : (rz.) denuncjant; (rz.) denuncjator; (rz.) donosiciel; (rz.) informator; (rz.) kapuś; (rz.) konfident; (rz.) sprawozdawca; (rz.) szpicel; (rz.) współpracownik
+[informing]informing (EN) : (rz.) donosicielstwo; (rz.) informowanie
+[infra]infra (EN) : (p.) zewnętrzny
+[infra-red]infra-red (EN) : (p.) podczerwony
+[infract]infract (EN) : (cz.) pogwałcić
+[infraction]infraction (EN) : (rz.) nadłamanie
+[infrared]infrared (EN) : (p.) podczerwony
+[infrasonic]infrasonic (EN) : (p.) infradźwiękowy
+[infrasound]infrasound (EN) : (rz.) infradźwięk; (rz.) poddźwięk
+[infrastructural]infrastructural (EN) : (p.) infrastrukturalny
+[infrastructure]infrastructure (EN) : (rz.) infrastruktura
+[infrequency]infrequency (EN) : (rz.) rzadkość; (rz.) sporadyczność
+[infrequent]infrequent (EN) : (p.) nieczęsty; (p.) rzadki
+[infrequently]infrequently (EN) : (p-sł.) nieczęsto; (p-sł.) rzadko
+[infringe]infringe (EN) : (cz.) łamać; (cz.) naruszać; (cz.) naruszyć; (cz.) przekroczyć
+[infringement]infringement (EN) : (rz.) łamanie; (rz.) naruszenie; (rz.) pogwałcenie; (rz.) przekroczenie; (rz.) wykroczenie
+[infuriate]infuriate (EN) : (cz.) oszaleć; (cz.) rozjuszyć; (cz.) rozwścieczać
+[infuriated]infuriated (EN) : (cz.) oszaleć; (cz.) rozjuszyć; (cz.) rozwścieczać
+[infuriating]infuriating (EN) : (p.) denerwujący
+[infuse]infuse (EN) : (cz.) naparzyć; (cz.) natchnąć; (cz.) parzyć; (cz.) przenikać; (cz.) wlewać; (cz.) wpajać; (cz.) zaparzać
+[infusible]infusible (EN) : (p.) nietopliwy
+[infusion]infusion (EN) : (rz.) infuzja; (rz.) nalewka; (rz.) napar; (rz.) naparzanie; (rz.) naparzenie; (rz.) napełnianie; (rz.) natchnienie; (rz.) wlew; (rz.) wlewanie; (rz.) wywar; (rz.) zaparzanie; (rz.) zaparzenie
+[infusions]infusions (EN) : (rz.) naparowanie
+[ingathering]ingathering (EN) : (rz.) zbieranie; (rz.) zbiór
+[ingenious]ingenious (EN) : (p.) pomysłowy; (p.) wybitny; (p.) wymyślny; (p.) wynalazczy
+[ingeniously]ingeniously (EN) : (p-sł.) dowcipnie; (p-sł.) genialnie; (p-sł.) pomysłowo
+[ingeniousness]ingeniousness (EN) : (rz.) genialność; (rz.) misterność; (rz.) pomysłowość; (rz.) przemyślność
+[ingenuity]ingenuity (EN) : (rz.) pomysłowość; (rz.) wynalazczość
+[ingenuous]ingenuous (EN) : (p.) naiwny; (p.) otwarty; (p.) pomysłowy; (p.) prostoduszny; (p.) szczery
+[ingestion]ingestion (EN) : (rz.) połknięcie; (rz.) połykanie; (rz.) spożycie
+[inglorious]inglorious (EN) : (p.) haniebny; (p.) niechlubny
+[ingloriously]ingloriously (EN) : (p-sł.) haniebnie
+[ingoing]ingoing (EN) : (rz.) wejście
+[ingot]ingot (EN) : (rz.) sztaba; (rz.) wlewek
+[ingrained]ingrained (EN) : (p.) wrosły; (p.) zakorzeniony
+[ingrate]ingrate (EN) : (p.) niewdzięczny
+[ingratiate]ingratiate (EN) : (cz.) wkradać
+[ingratiating]ingratiating (EN) : (p.) przymilny
+[ingratiatingly]ingratiatingly (EN) : (p-sł.) przymilnie
+[ingratitude]ingratitude (EN) : (rz.) niewdzięczność
+[ingredient]ingredient (EN) : (rz.) element; (rz.) ingrediencja; (rz.) składnik
+[ingress]ingress (EN) : (rz.) wejście; (rz.) wstąpienie
+[inguinal]inguinal (EN) : (p.) pachwinowy
+[inhabit]inhabit (EN) : (cz.) mieszkać; (cz.) zamieszkiwać
+[inhabitable]inhabitable (EN) : (p.) mieszkalny
+[inhabitant]inhabitant (EN) : (rz.) mieszkaniec
+[inhabited]inhabited (EN) : (p.) zamieszkały
+[inhalant]inhalant (EN) : (p.) inhalacyjny
+[inhalation]inhalation (EN) : (rz.) inhalacja; (rz.) wdech; (rz.) wdychanie; (rz.) wziewanie
+[inhale]inhale (EN) : (cz.) inhalować; (cz.) wdychać
+[inhaler]inhaler (EN) : (rz.) inhalator
+[inharmonious]inharmonious (EN) : (p.) nieharmonijny
+[inhere]inhere (EN) : (cz.) tkwić; (cz.) utkwić
+[inherence]inherence (EN) : (rz.) obecność
+[inherent]inherent (EN) : (p.) nieodłączny; (p.) przyrodzony; (p.) swoisty
+[inherently]inherently (EN) : (p-sł.) właściwie
+[inherit]inherit (EN) : (cz.) dziedziczyć; (cz.) odziedziczyć
+[inheritable]inheritable (EN) : (p.) dziedziczny
+[inheritance]inheritance (EN) : (rz.) dziedzictwo; (rz.) dziedziczenie; (rz.) dziedziczność; (rz.) ojcowizna; (rz.) scheda; (rz.) spadek; (rz.) spuścizna
+[inheritor]inheritor (EN) : (rz.) pogrobowiec; (rz.) spadkobierca
+[inhibit]inhibit (EN) : (cz.) hamować; (cz.) powstrzymać; (cz.) powstrzymywać; (cz.) wstrzymywać; (cz.) wzbraniać; (cz.) zahamować
+[inhibition]inhibition (EN) : (rz.) hamowanie; (rz.) inhibicja; (rz.) wstrzymanie; (rz.) zahamowanie; (rz.) zakaz
+[inhospitable]inhospitable (EN) : (p.) niegościnny; (p.) nieprzyjazny
+[inhospitality]inhospitality (EN) : (rz.) niegościnność
+[inhumane]inhumane (EN) : (p.) niehumanitarny
+[inhumanly]inhumanly (EN) : (p-sł.) nieludzko
+[inhume]inhume (EN) : (cz.) schować
+[inimical]inimical (EN) : (p.) nieprzyjazny; (p.) szkodliwy; (p.) wrogi
+[inimically]inimically (EN) : (p-sł.) wrogo
+[iniquitous]iniquitous (EN) : (p.) niegodziwy; (p.) nieprawny; (p.) nieprawy; (p.) niesprawiedliwy
+[iniquity]iniquity (EN) : (rz.) bezprawie; (rz.) niegodziwość; (rz.) nieprawość; (rz.) niesprawiedliwość
+[initial]initial (EN) : (cz.) parafować; (p.) początkowy; (p.) wstępny; (p.) zaczątkowy; (rz.) inicjał; (rz.) początkowanie
+[initialization]initialization (EN) : (rz.) inicjalizacja; (rz.) inicjowanie; (rz.) rozpoczęcie
+[initialize]initialize (EN) : (cz.) inicjalizować; (cz.) inicjować; (cz.) zainicjować
+[initially]initially (EN) : (p-sł.) początkowo; (p-sł.) zrazu
+[initials]initials (EN) : (rz.) inicjały; (rz.) parafa
+[initiate]initiate (EN) : (cz.) inicjować; (cz.) wdrażać; (cz.) wprowadzać; (cz.) wprowadzić; (cz.) wszcząć; (cz.) wszczynać; (cz.) wtajemniczać; (cz.) zainicjować; (cz.) zapoczątkować; (cz.) zapoczątkowywać; (rz.) inicjowanie
+[initiating]initiating (EN) : (rz.) inicjowanie; (rz.) pobudzanie; (rz.) wtajemniczanie
+[initiation]initiation (EN) : (rz.) inicjacja; (rz.) wkładanie; (rz.) wprowadzenie; (rz.) wszczęcie; (rz.) wtajemniczanie; (rz.) wtajemniczenie; (rz.) zapoczątkowanie
+[initiative]initiative (EN) : (rz.) inicjatywa; (rz.) inicjatywność; (rz.) rzutkość
+[initiator]initiator (EN) : (rz.) inicjator
+[initiatory]initiatory (EN) : (p.) przedwstępny
+[inject]inject (EN) : (cz.) magazynować; (cz.) wstrzykiwać; (cz.) zastrzykiwać
+[injection]injection (EN) : (rz.) iniekcja; (rz.) wstrzykiwanie; (rz.) wstrzyknięcie; (rz.) wtrysk; (rz.) wtryskiwanie; (rz.) wtryśnięcie; (rz.) zastrzyk
+[injection's]injection's (EN) : (p.) wtryskowy
+[injector]injector (EN) : (rz.) iniektor; (rz.) smoczek; (rz.) wtryskiwacz
+[injudicious]injudicious (EN) : (p.) nadmierny; (p.) nierozsądny; (p.) nieroztropny
+[injunction]injunction (EN) : (rz.) nakaz; (rz.) zakaz; (rz.) zalecenie
+[injure]injure (EN) : (cz.) kaleczyć; (cz.) krzywdzić; (cz.) obrażać; (cz.) obrazić; (cz.) ranić; (cz.) skrzywdzić; (cz.) szargać; (cz.) uszkadzać; (cz.) uszkodzić; (cz.) zranić
+[injured]injured (EN) : (p.) kontuzjowany; (p.) ranny
+[injuries]injuries (EN) : (rz.) kontuzje
+[injurious]injurious (EN) : (p.) obelżywy; (p.) obraźliwy; (p.) szkodliwy
+[injury]injury (EN) : (rz.) kontuzja; (rz.) krzywda; (rz.) obraza; (rz.) obrażenie; (rz.) pokaleczenie; (rz.) rana; (rz.) skaleczenie; (rz.) stłuczenie; (rz.) szkoda; (rz.) szwank; (rz.) uraz; (rz.) urażenie; (rz.) uszczerbek; (rz.) uszkodzenie; (rz.) zranienie
+[injustice]injustice (EN) : (rz.) krzywda; (rz.) niesprawiedliwość
+[ink]ink (EN) : (rz.) atrament; (rz.) tusz
+[inker]inker (EN) : (rz.) mors
+[inkling]inkling (EN) : (rz.) aluzja; (rz.) domysł; (rz.) podejrzenie; (rz.) przeczucie
+[inkpot]inkpot (EN) : (rz.) kałamarz
+[inkstand]inkstand (EN) : (rz.) kałamarz
+[inkwell]inkwell (EN) : (rz.) kałamarz
+[inky]inky (EN) : (p.) atramentowy
+[inland]inland (EN) : (p.) krajowy; (p.) śródlądowy; (p.) śródziemny; (p.) wewnętrzny; (rz.) wnętrze
+[inlay]inlay (EN) : (cz.) inkrustować; (rz.) inkrustacja; (rz.) intarsja; (rz.) plomba; (rz.) wkład
+[inlet]inlet (EN) : (rz.) dopływ; (rz.) otwór; (rz.) wejście; (rz.) wlew; (rz.) wlot; (rz.) wstawka; (rz.) zatoczka
+[inmate]inmate (EN) : (rz.) domownik; (rz.) gość; (rz.) lokator; (rz.) mieszkaniec; (rz.) pensjonariusz; (rz.) więzień
+[inn]inn (EN) : (rz.) austeria; (rz.) gospoda; (rz.) karczma; (rz.) oberża; (rz.) szynk; (rz.) zajazd
+[innate]innate (EN) : (p.) przyrodzony; (p.) wrodzony
+[inner]inner (EN) : (p.) wewnętrzny
+[innervate]innervate (EN) : (cz.) unerwiać
+[inning]inning (EN) : (rz.) runda; (rz.) sposobność
+[innkeeper]innkeeper (EN) : (rz.) karczmarz; (rz.) oberżysta
+[innocence]innocence (EN) : (rz.) dziewiczość; (rz.) ignorancja; (rz.) naiwność; (rz.) nieszkodliwość; (rz.) niewinność; (rz.) prostota
+[innocent]innocent (EN) : (p.) bezgrzeszny; (p.) naiwny; (p.) niemądry; (p.) nieszkodliwy; (p.) niewinny; (rz.) niewiniątko
+[innocently]innocently (EN) : (p-sł.) niewinnie
+[innocuous]innocuous (EN) : (p.) nieszkodliwy; (p.) niewinny
+[innovate]innovate (EN) : (cz.) unowocześniać; (cz.) wprowadzać
+[innovation]innovation (EN) : (rz.) innowacja; (rz.) innowacyjność; (rz.) nowinka; (rz.) usprawnienie; (rz.) wynalazczość
+[innovative]innovative (EN) : (p.) innowacyjny; (p.) nowatorski
+[innovator]innovator (EN) : (rz.) innowator; (rz.) nowator
+[innovatory]innovatory (EN) : (p.) nowatorski
+[innuendo]innuendo (EN) : (rz.) aluzja; (rz.) insynuacja
+[innumerable]innumerable (EN) : (p.) niezliczony
+[innutritious]innutritious (EN) : (p.) niepożywny
+[inobservance]inobservance (EN) : (rz.) nieuwaga
+[inoculate]inoculate (EN) : (cz.) szczepić; (cz.) zaszczepiać; (cz.) zaszczepić
+[inoculation]inoculation (EN) : (rz.) inokulacja; (rz.) posiew; (rz.) szczepienie; (rz.) zaszczepienie
+[inodorous]inodorous (EN) : (p.) bezwonny
+[inoffensive]inoffensive (EN) : (p.) nieczynny; (p.) nieszkodliwy; (p.) spokojny
+[inoperable]inoperable (EN) : (p.) niesprawny
+[inoperative]inoperative (EN) : (p.) nieczynny; (p.) nieskuteczny
+[inopportune]inopportune (EN) : (p.) niewczesny
+[inordinate]inordinate (EN) : (p.) nadmierny; (p.) nieokiełznany; (p.) niepowstrzymany; (p.) nieregularny; (p.) niesystematyczny; (p.) przesadny
+[inordinately]inordinately (EN) : (p-sł.) nadmiernie; (p-sł.) niezwykle
+[inorganic]inorganic (EN) : (p.) nieograniczony; (p.) nieorganiczny; (p.) obcy
+[input]input (EN) : (rz.) gniazdo; (rz.) nakład; (rz.) przyczynek; (rz.) udział; (rz.) wejście; (rz.) wkład; (rz.) wsad
+[input-output]input-output (EN) : (rz.) wejście-wyjście
+[input/output]input/output (EN) : (rz.) wejście-wyjście
+[inquest]inquest (EN) : (rz.) badanie; (rz.) śledztwo; (rz.) werdykt
+[inquire]inquire (EN) : (cz.) badać; (cz.) dociekać; (cz.) dowiadywać; (cz.) kontrolować; (cz.) pytać; (cz.) spytać; (cz.) wybadać; (cz.) wypytać
+[inquirer]inquirer (EN) : (rz.) informator; (rz.) komisarz; (rz.) petent; (rz.) pytanie
+[inquiring]inquiring (EN) : (p.) badawczy; (p.) dociekliwy
+[inquiry]inquiry (EN) : (rz.) ankieta; (rz.) badanie; (rz.) dochodzenie; (rz.) pytanie; (rz.) śledztwo; (rz.) zapytanie; (rz.) zasięganie
+[inquisition]inquisition (EN) : (rz.) badanie; (rz.) inkwizycja; (rz.) poszukiwanie; (rz.) przesłuchanie; (rz.) śledztwo
+[inquisitional]inquisitional (EN) : (p.) inkwizycyjny
+[inquisitive]inquisitive (EN) : (p.) badawczy; (p.) ciekawski; (p.) ciekawy; (p.) dociekliwy; (p.) wścibski
+[inquisitively]inquisitively (EN) : (p-sł.) dociekliwie
+[inquisitiveness]inquisitiveness (EN) : (rz.) dociekliwość
+[inquisitor]inquisitor (EN) : (rz.) inkwizytor
+[inquisitorial]inquisitorial (EN) : (p.) inkwizytorski
+[inroad]inroad (EN) : (rz.) inwazja; (rz.) najazd; (rz.) napad; (rz.) wtargnięcie
+[inroads]inroads (EN) : (rz.) najazd; (rz.) wtargnięcie
+[inrush]inrush (EN) : (rz.) udar; (rz.) uderzenie; (rz.) wtargnięcie
+[insalubrious]insalubrious (EN) : (p.) niezdrowy
+[insane]insane (EN) : (p.) chory; (p.) głupi; (p.) niepoczytalny; (p.) obłąkańczy; (p.) wariacki
+[insanely]insanely (EN) : (p-sł.) obłąkańczo; (p-sł.) szaleńczo
+[insanity]insanity (EN) : (rz.) niedorzeczność; (rz.) niepoczytalność; (rz.) obłąkanie; (rz.) obłęd
+[insatiability]insatiability (EN) : (rz.) nienasycenie
+[insatiable]insatiable (EN) : (p.) chciwy; (p.) nienasycony
+[insatiate]insatiate (EN) : (p.) łakomy; (p.) nienasycony
+[inscribe]inscribe (EN) : (cz.) dedykować; (cz.) napisać; (cz.) wpisać; (cz.) wpisywać; (cz.) wyryć; (cz.) zapisać
+[inscription]inscription (EN) : (rz.) dedykacja; (rz.) inskrypcja; (rz.) nadruk; (rz.) nagłówek; (rz.) napis; (rz.) wpisanie
+[inscrutability]inscrutability (EN) : (rz.) niepoznawalność
+[inscrutable]inscrutable (EN) : (p.) nieprzenikniony; (p.) niezbadany; (p.) tajemniczy
+[insect]insect (EN) : (rz.) insekt; (rz.) owad
+[insecticidal]insecticidal (EN) : (p.) owadobójczy
+[insecticide]insecticide (EN) : (rz.) insektycyd
+[insectivore]insectivore (EN) : (rz.) owadożerca
+[insectivorous]insectivorous (EN) : (p.) owadożerny
+[insects]insects (EN) : (rz.) owady
+[insecure]insecure (EN) : (p.) niebezpieczny; (p.) niepewny
+[insecurely]insecurely (EN) : (p-sł.) niepewnie
+[insecurity]insecurity (EN) : (rz.) niepewność
+[insemination]insemination (EN) : (rz.) inseminacja; (rz.) zapłodnienie
+[insensate]insensate (EN) : (p.) nieczuły; (p.) nierozumny
+[insensibility]insensibility (EN) : (rz.) nieczułość; (rz.) nieprzytomność; (rz.) niewrażliwość; (rz.) niewyczuwalność
+[insensible]insensible (EN) : (p.) nieczuły; (p.) niedostrzegalny; (p.) nieprzytomny; (p.) nieświadomy; (p.) niewrażliwy; (p.) niewyczuwalny
+[insensibly]insensibly (EN) : (p-sł.) niedostrzegalnie
+[insensitive]insensitive (EN) : (p.) nieczuły; (p.) nietaktowny; (p.) niewrażliwy
+[insensitively]insensitively (EN) : (p-sł.) nieczule
+[insensitiveness]insensitiveness (EN) : (rz.) nieczułość; (rz.) niewrażliwość
+[insensitivity]insensitivity (EN) : (rz.) nieczułość; (rz.) niewrażliwość
+[insentient]insentient (EN) : (p.) bezduszny
+[inseparability]inseparability (EN) : (rz.) nierozłączność
+[inseparable]inseparable (EN) : (p.) nieodłączny; (p.) nieodstępny; (p.) nierozdzielny; (p.) nierozerwalny; (p.) nierozłączny
+[inseparably]inseparably (EN) : (p-sł.) nierozdzielnie; (p-sł.) nierozerwalnie
+[insert]insert (EN) : (cz.) wkładać; (cz.) wprawiać; (cz.) wstawiać; (cz.) wsuwać; (cz.) wtrącać; (cz.) zamieścić; (cz.) zamieszczać
+[insertion]insertion (EN) : (rz.) dopisek; (rz.) ogłoszenie; (rz.) wkładanie; (rz.) wkładka; (rz.) wklejka; (rz.) wstawka; (rz.) wsunięcie; (rz.) wszywka; (rz.) wtręt; (rz.) wtyczka; (rz.) zamieszczenie
+[inset]inset (EN) : (rz.) ramka; (rz.) wkład; (rz.) wkładka; (rz.) wklejka; (rz.) wstawka; (rz.) wypustka
+[inshore]inshore (EN) : (p.) przybrzeżny
+[inside]inside (EN) : (p-im.) w; (p.) wewnętrzny; (p-sł.) wewnątrz; (rz.) środek; (rz.) wnętrze
+[insidious]insidious (EN) : (p.) podstępny; (p.) skryty
+[insidiously]insidiously (EN) : (p-sł.) podstępnie; (p-sł.) zdradliwie
+[insight]insight (EN) : (rz.) intuicja; (rz.) samokrytycyzm; (rz.) wgląd; (rz.) wnikliwość
+[insightful]insightful (EN) : (p.) wnikliwy
+[insignia]insignia (EN) : (rz.) emblemat; (rz.) insygnia
+[insignificance]insignificance (EN) : (rz.) znikomość
+[insignificancy]insignificancy (EN) : (rz.) błahość; (rz.) znikomość
+[insignificant]insignificant (EN) : (p.) błahy; (p.) niepokaźny; (p.) nieszczególny; (p.) nieznaczny; (p.) znikomy
+[insincere]insincere (EN) : (p.) nieszczery; (p.) obłudny
+[insincerely]insincerely (EN) : (p-sł.) nieszczerze; (p-sł.) obłudnie
+[insincerity]insincerity (EN) : (rz.) nieszczerość; (rz.) obłuda
+[insinuate]insinuate (EN) : (cz.) insynuować; (cz.) podsumowywać; (cz.) wciskać
+[insinuating]insinuating (EN) : (p.) insynuacyjny
+[insinuatingly]insinuatingly (EN) : (p-sł.) dwuznacznie; (p-sł.) ujmująco
+[insinuation]insinuation (EN) : (rz.) domyślnik; (rz.) insynuacja; (rz.) niedomówienie; (rz.) niedopowiedzenie
+[insipid]insipid (EN) : (p.) głupi; (p.) mdły; (p.) niesmaczny; (p.) nijaki; (p.) nudny; (p.) tępy
+[insipidity]insipidity (EN) : (rz.) bezbarwność; (rz.) ckliwość
+[insipient]insipient (EN) : (p.) niemądry
+[insist]insist (EN) : (cz.) domagać; (cz.) nalegać; (cz.) obstawać; (cz.) upierać
+[insistence]insistence (EN) : (rz.) naleganie; (rz.) natarczywość; (rz.) uporczywość
+[insistent]insistent (EN) : (p.) natarczywy; (p.) niedelikatny; (p.) stanowczy; (p.) uporczywy; (p.) usilny
+[insistently]insistently (EN) : (p-sł.) stanowczo; (p-sł.) uparcie; (p-sł.) uporczywie; (p-sł.) usilnie
+[insobriety]insobriety (EN) : (rz.) nietrzeźwość
+[insole]insole (EN) : (rz.) brandzel
+[insolence]insolence (EN) : (rz.) bezczelność; (rz.) zuchwalstwo
+[insolent]insolent (EN) : (p.) bezczelny; (p.) czelny; (p.) nachalny; (p.) niedołężny
+[insolently]insolently (EN) : (p-sł.) bezczelnie
+[insolubility]insolubility (EN) : (rz.) nierozpuszczalność
+[insoluble]insoluble (EN) : (p.) nierozpuszczalny; (p.) nierozwiązalny; (p.) nierozwiązywalny
+[insolvency]insolvency (EN) : (rz.) niewypłacalność; (rz.) upadłość
+[insolvent]insolvent (EN) : (p.) niewypłacalny; (rz.) bankrut
+[insomnia]insomnia (EN) : (rz.) bezsenność
+[insouciant]insouciant (EN) : (p.) beztroski; (p.) lekkomyślny; (p.) niefrasobliwy
+[inspect]inspect (EN) : (cz.) badać; (cz.) doglądać; (cz.) dozorować; (cz.) kontrolować; (cz.) lustrować; (cz.) obchodzić; (cz.) oglądać; (cz.) skontrolować; (cz.) wizytować; (cz.) żądać; (cz.) zapytywać; (cz.) zbadać
+[inspection]inspection (EN) : (rz.) dozór; (rz.) dozorowanie; (rz.) hospitacja; (rz.) inspekcja; (rz.) kontrola; (rz.) lustracja; (rz.) przegląd; (rz.) wizytacja; (rz.) zbadanie
+[inspective]inspective (EN) : (p.) inspekcyjny
+[inspector]inspector (EN) : (rz.) inspektor; (rz.) inspirator; (rz.) kontroler; (rz.) lustrator; (rz.) wizytator
+[inspectorate]inspectorate (EN) : (rz.) inspektorat
+[inspiration]inspiration (EN) : (rz.) inspiracja; (rz.) natchnienie; (rz.) polot; (rz.) wdech
+[inspire]inspire (EN) : (cz.) inspirować; (cz.) napełniać; (cz.) natchnąć; (cz.) pobudzać; (cz.) podsunąć; (cz.) powdychać; (cz.) rozmiłować; (cz.) tchnąć; (cz.) wdychać; (cz.) wpoić; (cz.) zainspirować
+[inspired]inspired (EN) : (p.) natchniony; (p.) polotny
+[inspirit]inspirit (EN) : (cz.) ożywiać; (cz.) ożywić; (cz.) rozgrzać
+[instability]instability (EN) : (rz.) chwiejność; (rz.) niestabilność; (rz.) niestałość
+[instable]instable (EN) : (p.) niestabilny
+[install]install (EN) : (cz.) instalować; (cz.) umieszczać; (cz.) zainstalować; (cz.) zakładać
+[installation]installation (EN) : (rz.) instalacja; (rz.) urządzenie; (rz.) zamontowanie
+[installer]installer (EN) : (rz.) instalator
+[installing]installing (EN) : (p.) instalacyjny; (rz.) instalowanie; (rz.) zamontowanie
+[instalment]instalment (EN) : (rz.) felieton; (rz.) odcinek; (rz.) partia; (rz.) rata
+[instance]instance (EN) : (rz.) instancja; (rz.) konkret; (rz.) prośba; (rz.) przykład; (rz.) przypadek; (rz.) wstawiennictwo; (rz.) wypadek; (rz.) wystąpienie
+[instant]instant (EN) : (p.) błyskawiczny; (p.) momentalny; (p.) natychmiastowy; (p.) odręczny; (rz.) chwila; (rz.) moment
+[instantaneous]instantaneous (EN) : (p.) migawkowy; (p.) momentalny; (p.) natychmiastowy; (p.) przepływowy
+[instantaneously]instantaneously (EN) : (p-sł.) momentalnie; (p-sł.) natychmiast
+[instantiate]instantiate (EN) : (cz.) konkretyzować; (cz.) tworzyć; (cz.) wytwarzać
+[instantiation]instantiation (EN) : (rz.) budowanie; (rz.) dookreślenie; (rz.) egzemplarz; (rz.) konkretyzacja; (rz.) realizacja; (rz.) tworzenie
+[instantly]instantly (EN) : (p-sł.) błyskawicznie; (p-sł.) momentalnie; (p-sł.) natychmiast
+[instep]instep (EN) : (rz.) podbicie
+[instigate]instigate (EN) : (cz.) doprowadzać; (cz.) namawiać; (cz.) podżegać; (cz.) prowokować
+[instigation]instigation (EN) : (rz.) nakłanianie; (rz.) podjudzanie; (rz.) podjudzenie; (rz.) podżeganie; (rz.) szczucie
+[instigator]instigator (EN) : (rz.) podżegacz; (rz.) wichrzyciel
+[instil]instil (EN) : (cz.) wbijać; (cz.) wkrapiać; (cz.) wkraplać; (cz.) wpajać; (cz.) wsączać; (cz.) zakraplać
+[instillation]instillation (EN) : (rz.) wkroplenie; (rz.) zaszczepienie
+[instinct]instinct (EN) : (rz.) instynkt
+[instinctive]instinctive (EN) : (p.) instynktowny; (p.) instynktowy
+[instinctively]instinctively (EN) : (p-sł.) instynktownie; (p-sł.) machinalnie; (p-sł.) odruchowo
+[instinctual]instinctual (EN) : (p.) instynktowny
+[institute]institute (EN) : (cz.) urządzać; (cz.) ustanawiać; (cz.) wszczynać; (cz.) zakładać; (rz.) instytut; (rz.) wykład
+[institution]institution (EN) : (rz.) instytucja; (rz.) ustanowienie; (rz.) wszczęcie
+[institutional]institutional (EN) : (p.) instytucjonalny; (p.) zakładowy; (p.) zbiorowy
+[institutionalization]institutionalization (EN) : (rz.) instytucjonalizacja
+[institutionalize]institutionalize (EN) : (cz.) instytucjonalizować
+[institutionally]institutionally (EN) : (p-sł.) instytucjonalnie
+[instruct]instruct (EN) : (cz.) informować; (cz.) instruować; (cz.) kształcić; (cz.) nauczać; (cz.) polecać; (cz.) pouczać; (cz.) pouczyć; (cz.) uczyć; (cz.) wtajemniczać
+[instruction]instruction (EN) : (rz.) dyspozycja; (rz.) instrukcja; (rz.) instruktaż; (rz.) instruowanie; (rz.) karność; (rz.) nauczanie; (rz.) nauka; (rz.) polecenie; (rz.) pouczenie; (rz.) rozkaz
+[instructional]instructional (EN) : (p.) instrukcyjny
+[instructive]instructive (EN) : (p.) instruktywny; (p.) pouczający
+[instructor]instructor (EN) : (rz.) instruktor; (rz.) lektor; (rz.) nauczyciel
+[instrument]instrument (EN) : (rz.) instrument; (rz.) narzędzie; (rz.) przyrząd
+[instrumental]instrumental (EN) : (p.) aparaturowy; (p.) instrumentalny; (p.) kleszczowy; (p.) narzędziowy; (p.) przyrządowy
+[instrumentalist]instrumentalist (EN) : (rz.) instrumentalista
+[instrumentally]instrumentally (EN) : (p-sł.) instrumentalnie
+[instrumentals]instrumentals (EN) : (p.) instrumentalny
+[instrumentation]instrumentation (EN) : (rz.) infrastruktura; (rz.) instrumentacja; (rz.) oprzyrządowanie
+[instruments]instruments (EN) : (rz.) instrumentarium
+[insubordinate]insubordinate (EN) : (p.) krnąbrny; (p.) niekarny; (p.) nieposłuszny; (p.) niesforny
+[insubordination]insubordination (EN) : (rz.) niesubordynacja
+[insubstantial]insubstantial (EN) : (p.) nieistotny
+[insufferable]insufferable (EN) : (p.) nieznośny
+[insufficiency]insufficiency (EN) : (rz.) niedomoga; (rz.) niedostateczność; (rz.) niedostatek; (rz.) niedosyt; (rz.) niewystarczalność
+[insufficient]insufficient (EN) : (p.) niedostateczny; (p.) nieodpowiedni
+[insufficiently]insufficiently (EN) : (p-sł.) niedostatecznie; (p-sł.) niewystarczająco
+[insufflate]insufflate (EN) : (cz.) wdmuchiwać
+[insular]insular (EN) : (p.) ciasny; (p.) odosobniony
+[insulate]insulate (EN) : (cz.) izolować; (cz.) ocieplać; (cz.) odizolować; (cz.) odosabniać
+[insulated]insulated (EN) : (cz.) zaizolować; (p.) izolowany
+[insulating]insulating (EN) : (p.) izolacyjny
+[insulation]insulation (EN) : (rz.) izolacja; (rz.) izolacyjność
+[insulator]insulator (EN) : (rz.) izolator
+[insulin]insulin (EN) : (rz.) insulina
+[insult]insult (EN) : (cz.) lżyć; (cz.) naurągać; (cz.) obrażać; (cz.) obrazić; (cz.) urągać; (cz.) uwłaczać; (cz.) znieważać; (cz.) znieważyć; (rz.) afront; (rz.) obelga; (rz.) obraza; (rz.) przekroczenie; (rz.) zniewaga; (rz.) znieważenie
+[insulting]insulting (EN) : (p.) obelżywy; (p.) obraźliwy
+[insuperable]insuperable (EN) : (p.) niepokonany
+[insupportable]insupportable (EN) : (p.) nieznośny
+[insurance]insurance (EN) : (rz.) asekuracja; (rz.) pieczeń; (rz.) ubezpieczalnia; (rz.) ubezpieczenie
+[insure]insure (EN) : (cz.) asekurować; (cz.) ubezpieczać; (cz.) ubezpieczyć; (cz.) upewniać
+[insurer]insurer (EN) : (rz.) ubezpieczyciel
+[insurgent]insurgent (EN) : (p.) powstańczy; (rz.) powstaniec; (rz.) rebeliant
+[insurmountable]insurmountable (EN) : (p.) niepokonany
+[insurrection]insurrection (EN) : (rz.) insurekcja; (rz.) powstanie
+[insurrectional]insurrectional (EN) : (p.) powstańczy; (p.) powstaniowy
+[insurrectionist]insurrectionist (EN) : (rz.) powstaniec
+[insusceptible]insusceptible (EN) : (p.) nieczuły; (p.) odporny
+[intact]intact (EN) : (p.) dziewiczy; (p.) nienaruszony; (p.) tknięty
+[intake]intake (EN) : (rz.) pobieranie; (rz.) spożycie; (rz.) wlot; (rz.) wsysanie
+[intangible]intangible (EN) : (p.) nienamacalny; (p.) nietykalny; (p.) nieuchwytny
+[intarsia]intarsia (EN) : (rz.) intarsja
+[integer]integer (EN) : (rz.) całość
+[integral]integral (EN) : (p.) całkowy; (p.) integralny; (p.) nierozdzielny; (rz.) całka; (rz.) całość
+[integrally]integrally (EN) : (p-sł.) całościowo; (p-sł.) nierozerwalnie
+[integrand]integrand (EN) : (rz.) prymityw
+[integrate]integrate (EN) : (cz.) całkować; (cz.) integrować; (cz.) scalać; (cz.) scalić; (cz.) uzupełniać; (cz.) uzupełnić; (cz.) wcielać; (cz.) zintegrować
+[integrated]integrated (EN) : (p.) scalony; (p.) zintegrowany
+[integration]integration (EN) : (rz.) całkowanie; (rz.) integracja; (rz.) scalenie; (rz.) uzupełnienie; (rz.) wbudowywanie
+[integrator]integrator (EN) : (rz.) integrator
+[integrity]integrity (EN) : (rz.) całkowitość; (rz.) całość; (rz.) czystość; (rz.) integralność; (rz.) nienaruszalność; (rz.) prawość; (rz.) rzetelność; (rz.) uczciwość
+[integument]integument (EN) : (rz.) powłoka
+[intellect]intellect (EN) : (rz.) intelekt; (rz.) rozum; (rz.) umysł
+[intellectual]intellectual (EN) : (p.) intelektualny; (p.) inteligencki; (p.) myślowy; (p.) umysłowy; (rz.) intelektualista; (rz.) inteligent
+[intellectualist]intellectualist (EN) : (rz.) intelektualista
+[intellectualize]intellectualize (EN) : (cz.) intelektualizować
+[intellectually]intellectually (EN) : (p-sł.) intelektualnie; (p-sł.) umysłowo
+[intelligence]intelligence (EN) : (rz.) informacja; (rz.) inteligencja; (rz.) pojętność; (rz.) wiadomość; (rz.) wywiad; (rz.) zdolność
+[intelligent]intelligent (EN) : (p.) inteligentny
+[intelligently]intelligently (EN) : (p-sł.) inteligentnie
+[intelligentsia]intelligentsia (EN) : (rz.) inteligencja
+[intelligibility]intelligibility (EN) : (rz.) zrozumiałość
+[intelligible]intelligible (EN) : (p.) jasny; (p.) zrozumiały
+[intemperance]intemperance (EN) : (rz.) niepowściągliwość; (rz.) nieumiarkowanie
+[intemperate]intemperate (EN) : (p.) nieumiarkowany; (p.) niewstrzemięźliwy
+[intend]intend (EN) : (cz.) myśleć; (cz.) przeznaczać; (cz.) zamierzać
+[intended]intended (EN) : (p.) przegubowy
+[intense]intense (EN) : (p.) dotkliwy; (p.) intensywny; (p.) napięty; (p.) silny; (p.) uczuciowy; (p.) usilny
+[intensely]intensely (EN) : (p-sł.) intensywnie; (p-sł.) mocno
+[intenseness]intenseness (EN) : (rz.) intensywność
+[intensification]intensification (EN) : (rz.) intensyfikacja; (rz.) nasilenie; (rz.) wzmacnianie; (rz.) wzmocnienie
+[intensifier]intensifier (EN) : (rz.) wzmacniacz
+[intensify]intensify (EN) : (cz.) intensyfikować; (cz.) napiąć; (cz.) nasilać; (cz.) potęgować; (cz.) spotęgować; (cz.) wzmacniać; (cz.) wzmocnić; (cz.) zintensyfikować
+[intension]intension (EN) : (rz.) intencja
+[intensity]intensity (EN) : (rz.) intensywność; (rz.) nasilenie; (rz.) natężenie; (rz.) wzmożenie
+[intensive]intensive (EN) : (p.) forsowny; (p.) intensywny; (p.) wzmożony
+[intensively]intensively (EN) : (p-sł.) intensywnie
+[intent]intent (EN) : (p.) baczny; (p.) uważny; (p.) zajęty; (p.) zaprzątnięty; (rz.) rozmysł; (rz.) umyślność; (rz.) zamiar
+[intention]intention (EN) : (rz.) chęć; (rz.) intencja; (rz.) zamiar; (rz.) zamierzenie; (rz.) zamysł
+[intentional]intentional (EN) : (p.) celowy; (p.) umyślny
+[intentionality]intentionality (EN) : (p.) zamienny
+[intentionally]intentionally (EN) : (p-sł.) celowo; (p-sł.) umyślnie
+[intently]intently (EN) : (p-sł.) bacznie; (p-sł.) uważnie
+[inter]inter (EN) : (cz.) grzebać
+[interact]interact (EN) : (cz.) komunikować; (cz.) oddziaływać
+[interaction]interaction (EN) : (rz.) interakcja; (rz.) współdziałanie
+[interactive]interactive (EN) : (p.) interakcyjny; (p.) interaktywny
+[interactively]interactively (EN) : (p.) wejściowy; (p-sł.) interakcyjnie; (p-sł.) interaktywnie
+[interactivity]interactivity (EN) : (rz.) interakcja; (rz.) interaktywność
+[interbreed]interbreed (EN) : (cz.) krzyżować; (cz.) pokrzyżować
+[intercalary]intercalary (EN) : (p.) przestępny
+[intercalation]intercalation (EN) : (rz.) inkluzja; (rz.) wtrącenie; (rz.) wtręt
+[intercede]intercede (EN) : (cz.) interweniować; (cz.) wstawiać; (cz.) zainterweniować
+[intercellular]intercellular (EN) : (p.) międzykomórkowy
+[intercept]intercept (EN) : (cz.) przechwycić; (cz.) przechwytywać; (cz.) przejąć; (cz.) przejmować; (cz.) przerwać; (cz.) przerywać; (cz.) zagradzać; (cz.) zagrodzić; (cz.) zatrzymać
+[interception]interception (EN) : (rz.) przechwycenie
+[intercession]intercession (EN) : (rz.) wstawiennictwo
+[interchange]interchange (EN) : (cz.) wymieniać; (cz.) zmieniać; (rz.) rozjazd; (rz.) wymiana; (rz.) zamiana
+[interchangeable]interchangeable (EN) : (p.) wymienialny; (p.) wymienny; (p.) zamienny
+[interchangeably]interchangeably (EN) : (p-sł.) jednoznacznie; (p-sł.) wymiennie; (p-sł.) zamiennie
+[interchanger]interchanger (EN) : (rz.) wymiennik
+[intercity]intercity (EN) : (p.) międzymiastowy
+[intercollegiate]intercollegiate (EN) : (p.) międzyuczelniany; (p.) międzyzakładowy
+[intercom]intercom (EN) : (rz.) domofon; (rz.) interkom
+[intercommunicate]intercommunicate (EN) : (cz.) porozumieć; (cz.) porozumiewać
+[intercommunication]intercommunication (EN) : (rz.) porozumiewanie
+[interconnect]interconnect (EN) : (cz.) łączyć; (cz.) połączyć
+[interconnection]interconnection (EN) : (rz.) korelacja; (rz.) magistrala
+[intercontinental]intercontinental (EN) : (p.) międzykontynentalny; (p.) transkontynentalny
+[intercourse]intercourse (EN) : (rz.) kontakt; (rz.) obcowanie; (rz.) stosunek; (rz.) związek
+[intercultural]intercultural (EN) : (p.) międzykulturowy
+[interdenominational]interdenominational (EN) : (p.) międzywyznaniowy
+[interdepartmental]interdepartmental (EN) : (p.) międzywydziałowy
+[interdependence]interdependence (EN) : (rz.) współzależność
+[interdependency]interdependency (EN) : (rz.) współzależność
+[interdependent]interdependent (EN) : (p.) współzależny
+[interdict]interdict (EN) : (rz.) interdykt; (rz.) zakaz
+[interdiction]interdiction (EN) : (rz.) zakaz
+[interdisciplinary]interdisciplinary (EN) : (p.) interdyscyplinarny
+[interest]interest (EN) : (cz.) dotyczyć; (cz.) interesować; (cz.) zainteresować; (rz.) ciekawość; (rz.) hobby; (rz.) interes; (rz.) interesowność; (rz.) naddatek; (rz.) odsetki; (rz.) oprocentowanie; (rz.) procent; (rz.) udział; (rz.) zaciekawienie; (rz.) zainteresowanie; (rz.) zysk
+[interest-free]interest-free (EN) : (p.) bezprocentowy
+[interested]interested (EN) : (p.) zainteresowany
+[interestedness]interestedness (EN) : (rz.) wyrachowanie
+[interesting]interesting (EN) : (p.) ciekawy; (p.) interesujący
+[interestingly]interestingly (EN) : (p-sł.) ciekawie; (p-sł.) interesująco
+[interface]interface (EN) : (cz.) połączyć; (cz.) sprzęgać; (rz.) interfejs; (rz.) sprzęg; (rz.) złącze
+[interfaced]interfaced (EN) : (rz.) interfejs
+[interfacial]interfacial (EN) : (p.) międzyfazowy
+[interfacing]interfacing (EN) : (rz.) interfejs; (rz.) sprzęgnięcie
+[interfaith]interfaith (EN) : (p.) międzywyznaniowy
+[interfere]interfere (EN) : (cz.) ingerować; (cz.) interferować; (cz.) interweniować; (cz.) kolidować; (cz.) mieszać; (cz.) wtrącać; (cz.) zakłócać
+[interference]interference (EN) : (rz.) ingerencja; (rz.) interferencja; (rz.) mieszanie; (rz.) przeszkoda; (rz.) wcisk; (rz.) wtrącanie; (rz.) zakłócenie
+[interferometer]interferometer (EN) : (rz.) interferometr
+[interferon]interferon (EN) : (rz.) interferon
+[interfusion]interfusion (EN) : (rz.) przetopienie
+[intergalactic]intergalactic (EN) : (p.) międzygalaktyczny
+[interglacial]interglacial (EN) : (p.) interglacjalny
+[intergovernmental]intergovernmental (EN) : (p.) międzyrządowy
+[interim]interim (EN) : (p.) poufny; (p.) przejściowy; (p.) tymczasowy; (p.) wewnętrzny; (rz.) wnętrze
+[interior]interior (EN) : (p.) środkowy; (p.) wewnętrzny; (rz.) środek; (rz.) wnętrze
+[interject]interject (EN) : (cz.) wtrącać; (cz.) wtrącić
+[interjection]interjection (EN) : (rz.) okrzyk; (rz.) wykrzyknik
+[interknit]interknit (EN) : (cz.) splatać
+[interlace]interlace (EN) : (cz.) przeplatać; (cz.) splatać
+[interlacement]interlacement (EN) : (rz.) gmatwanie; (rz.) przeplatanie
+[interlard]interlard (EN) : (cz.) być; (cz.) przetkać; (cz.) szpikować
+[interlayer]interlayer (EN) : (rz.) przerost
+[interleaf]interleaf (EN) : (rz.) przekładka; (rz.) wklejka
+[interleave]interleave (EN) : (cz.) przeplatać; (cz.) wklejać; (rz.) przeplot
+[interleaved]interleaved (EN) : (cz.) wklejać
+[interleaves]interleaves (EN) : (cz.) wklejać
+[interline]interline (EN) : (cz.) wstawiać; (cz.) wstawić; (rz.) interlinia
+[interlineal]interlineal (EN) : (p.) interlinearny
+[interlinear]interlinear (EN) : (p.) interlinearny; (p.) międzywierszowy
+[interlink]interlink (EN) : (cz.) łączyć; (cz.) powiązać; (cz.) sczepiać; (cz.) spleść; (cz.) wiązać
+[interlock]interlock (EN) : (cz.) łączyć; (cz.) powiązać; (cz.) sczepiać; (cz.) spleść; (cz.) wiązać
+[interlocutor]interlocutor (EN) : (rz.) interlokutor; (rz.) rozmówca; (rz.) rozmówczyni
+[interlocutory]interlocutory (EN) : (p.) tymczasowy
+[interloper]interloper (EN) : (rz.) intruz
+[interlude]interlude (EN) : (rz.) antrakt; (rz.) interludium; (rz.) intermedium; (rz.) przerwa; (rz.) przerywnik; (rz.) wstawka
+[intermarriage]intermarriage (EN) : (rz.) egzogamia
+[intermediary]intermediary (EN) : (p.) pośredni; (rz.) pośrednik
+[intermediate]intermediate (EN) : (p.) pośredni; (p.) średnioterminowy; (rz.) półprodukt
+[interment]interment (EN) : (rz.) pochówek; (rz.) pogrzeb; (rz.) pogrzebanie
+[intermezzo]intermezzo (EN) : (rz.) teatr
+[interminable]interminable (EN) : (p.) nieskończony
+[intermingle]intermingle (EN) : (cz.) mieszać; (cz.) przeplatać; (cz.) splatać; (cz.) splątać; (cz.) wymieszać; (cz.) zmieszać
+[intermission]intermission (EN) : (rz.) antrakt; (rz.) pauza; (rz.) przerwa
+[intermit]intermit (EN) : (cz.) urwać; (cz.) ustać
+[intermittent]intermittent (EN) : (p.) nieciągły; (p.) niemiarowy; (p.) przerywany; (p.) sporadyczny
+[intermittently]intermittently (EN) : (p-sł.) nieregularnie
+[intermix]intermix (EN) : (cz.) mieszać; (cz.) zmieszać
+[intermixture]intermixture (EN) : (rz.) połączenie; (rz.) zmieszanie
+[intermolecular]intermolecular (EN) : (p.) międzycząsteczkowy
+[intern]intern (EN) : (cz.) internować; (rz.) stażysta
+[internal]internal (EN) : (p.) krajowy; (p.) wewnętrzny
+[internalisation]internalisation (EN) : (rz.) internalizacja
+[internalization]internalization (EN) : (rz.) internalizacja
+[internalize]internalize (EN) : (cz.) zdobyć
+[internalizing]internalizing (EN) : (rz.) wprowadzanie
+[internally]internally (EN) : (p-sł.) wewnątrz; (p-sł.) wewnętrznie
+[international]international (EN) : (p.) internacjonalny; (p.) międzynarodowy; (p.) międzypaństwowy; (rz.) międzynarodówka
+[internationalism]internationalism (EN) : (rz.) internacjonalizm
+[internationalist]internationalist (EN) : (rz.) internacjonalista
+[internationality]internationality (EN) : (rz.) międzynarodowość
+[internationalization]internationalization (EN) : (rz.) internacjonalizacja; (rz.) umiędzynarodowienie
+[internationalize]internationalize (EN) : (cz.) umiędzynarodowić
+[internationally]internationally (EN) : (p-sł.) międzynarodowo
+[internecine]internecine (EN) : (p.) morderczy
+[interning]interning (EN) : (cz.) internować
+[internist]internist (EN) : (rz.) internista
+[internment]internment (EN) : (rz.) internowanie
+[interoperability]interoperability (EN) : (rz.) współdziałanie; (rz.) współpraca
+[interoperate]interoperate (EN) : (cz.) współdziałać; (cz.) współpracować
+[interpellation]interpellation (EN) : (rz.) interpelacja
+[interpenetrate]interpenetrate (EN) : (cz.) przenikać
+[interpenetration]interpenetration (EN) : (rz.) przenikanie
+[interpersonal]interpersonal (EN) : (p.) interpersonalny; (p.) międzyludzki
+[interphone]interphone (EN) : (rz.) interfon; (rz.) telefon; (rz.) zapotrzebowanie
+[interplanetary]interplanetary (EN) : (p.) międzyplanetarny
+[interplay]interplay (EN) : (rz.) oddziaływanie
+[interpolate]interpolate (EN) : (cz.) interpolować; (cz.) wstawiać
+[interpolation]interpolation (EN) : (rz.) interpolacja; (rz.) wstawienie; (rz.) wtrącenie
+[interpolator]interpolator (EN) : (rz.) interpolator; (rz.) kolator; (rz.) mieszacz
+[interpose]interpose (EN) : (cz.) mieszać; (cz.) przerywać; (cz.) wprowadzać; (cz.) wprowadzić; (cz.) wstawiać; (cz.) wtrącać; (cz.) zauważyć
+[interposition]interposition (EN) : (rz.) wstawianie
+[interpret]interpret (EN) : (cz.) interpretować; (cz.) objaśniać; (cz.) przekładać; (cz.) tłumaczyć; (cz.) wyjaśniać; (cz.) zinterpretować
+[interpretable]interpretable (EN) : (p.) wykonywalny; (p.) wytłumaczalny
+[interpretation]interpretation (EN) : (rz.) interpretacja; (rz.) wykładnia
+[interpretative]interpretative (EN) : (p.) interpretacyjny
+[interpreter]interpreter (EN) : (rz.) interpretator; (rz.) interpreter; (rz.) komentator; (rz.) program; (rz.) tłumacz
+[interpretive]interpretive (EN) : (p.) interpretacyjny; (p.) interpretujący
+[interregnum]interregnum (EN) : (rz.) bezkrólewie
+[interrelate]interrelate (EN) : (cz.) wiązać
+[interrelation]interrelation (EN) : (rz.) koneksja; (rz.) współzależność; (rz.) związek
+[interrogate]interrogate (EN) : (cz.) badać; (cz.) indagować; (cz.) przesłuchiwać; (cz.) pytać; (cz.) wypytywać; (cz.) zapytać; (cz.) zapytywać
+[interrogation]interrogation (EN) : (rz.) przesłuchanie; (rz.) wypytywanie; (rz.) zapytanie
+[interrogative]interrogative (EN) : (p.) badawczy; (p.) pytający; (p.) pytajny
+[interrogatory]interrogatory (EN) : (rz.) indagacja; (rz.) przesłuchanie; (rz.) przesłuchiwanie; (rz.) śledztwo
+[interrupt]interrupt (EN) : (cz.) przerwać; (cz.) przerywać
+[interrupter]interrupter (EN) : (rz.) intruz; (rz.) przerywacz
+[interruption]interruption (EN) : (rz.) przerwa; (rz.) przerwanie; (rz.) przerywanie
+[intersect]intersect (EN) : (cz.) przeciąć; (cz.) przecinać
+[intersection]intersection (EN) : (rz.) przecięcie; (rz.) przekrój; (rz.) skrzyżowanie; (rz.) wspólnota
+[intersidereal]intersidereal (EN) : (p.) międzygwiezdny
+[intersperse]intersperse (EN) : (cz.) przemieszać; (cz.) przeplatać; (cz.) rozsypywać; (cz.) urozmaicać; (cz.) urozmaicić
+[interstate]interstate (EN) : (p.) międzypaństwowy; (p.) międzystanowy
+[interstellar]interstellar (EN) : (p.) międzygwiezdny
+[interstice]interstice (EN) : (rz.) pęknięcie; (rz.) rysa; (rz.) szczelina
+[interstitial]interstitial (EN) : (p.) międzywęzłowy; (p.) śródmiąższowy
+[intertribal]intertribal (EN) : (p.) międzyplemienny
+[intertwine]intertwine (EN) : (cz.) przeplatać; (cz.) przeplątać; (cz.) splatać; (cz.) utkać
+[intertype]intertype (EN) : (rz.) intertyp
+[interurban]interurban (EN) : (p.) dalekobieżny; (p.) międzymiastowy
+[interval]interval (EN) : (rz.) antrakt; (rz.) interwał; (rz.) odstęp; (rz.) przedział; (rz.) przerwa; (rz.) rozstęp
+[intervene]intervene (EN) : (cz.) ingerować; (cz.) interweniować; (cz.) wkraczać; (cz.) zainterweniować; (cz.) zdarzyć
+[intervener]intervener (EN) : (rz.) interwenient; (rz.) interwent
+[intervention]intervention (EN) : (rz.) ingerencja; (rz.) interwencja; (rz.) interwencjonizm; (rz.) wkroczenie
+[interview]interview (EN) : (cz.) przesłuchiwać; (rz.) przesłuchanie; (rz.) rozmowa; (rz.) widzenie; (rz.) wypytywanie; (rz.) wywiad
+[interviewer]interviewer (EN) : (rz.) ankieter; (rz.) wywiadowca
+[interwar]interwar (EN) : (p.) międzywojenny
+[interweave]interweave (EN) : (cz.) przetkać; (cz.) splatać
+[interwoven]interwoven (EN) : (cz.) przeplatać
+[intestinal]intestinal (EN) : (p.) jelitowy; (p.) kiszkowy
+[intestine]intestine (EN) : (rz.) jelito; (rz.) kiszka
+[intestines]intestines (EN) : (rz.) jelita
+[intimacy]intimacy (EN) : (rz.) bliskość; (rz.) intymność; (rz.) poufałość; (rz.) zażyłość
+[intimate]intimate (EN) : (cz.) oznajmiać; (cz.) oznajmić; (cz.) poinformować; (cz.) wskazać; (p.) buduarowy; (p.) intymny; (p.) kameralny; (p.) poufały; (p.) serdeczny; (p.) spoufalony; (p.) zażyły
+[intimately]intimately (EN) : (p-sł.) intymnie
+[intimation]intimation (EN) : (rz.) aluzja; (rz.) wskazówka; (rz.) zawiadomienie
+[intimidate]intimidate (EN) : (cz.) onieśmielać; (cz.) onieśmielić; (cz.) zastraszać; (cz.) zastraszyć
+[intimidation]intimidation (EN) : (rz.) onieśmielenie; (rz.) zastraszenie
+[into]into (EN) : (p-im.) do; (p-im.) na; (p-im.) w
+[intolerable]intolerable (EN) : (p.) nadmierny; (p.) nieznośny
+[intolerance]intolerance (EN) : (rz.) nietolerancja
+[intolerant]intolerant (EN) : (p.) nietolerancyjny
+[intolerantly]intolerantly (EN) : (p-sł.) nietolerancyjnie
+[intonate]intonate (EN) : (cz.) zaintonować
+[intonation]intonation (EN) : (rz.) intonacja; (rz.) zaintonowanie
+[intone]intone (EN) : (cz.) intonować; (cz.) zaintonować
+[intoxicant]intoxicant (EN) : (p.) oszołamiający; (rz.) trunek
+[intoxicate]intoxicate (EN) : (cz.) odurzać; (cz.) odurzyć; (cz.) oszałamiać; (cz.) oszołomić; (cz.) upajać; (cz.) upić; (cz.) upijać; (cz.) zatruć
+[intoxicating]intoxicating (EN) : (p.) alkoholowy; (p.) upojny; (p.) wyskokowy
+[intoxication]intoxication (EN) : (rz.) intoksykacja; (rz.) nietrzeźwość; (rz.) odurzenie; (rz.) opilstwo; (rz.) oszołomienie; (rz.) upicie; (rz.) upój; (rz.) upojenie
+[intractability]intractability (EN) : (rz.) krnąbrność; (rz.) niepodatność
+[intractable]intractable (EN) : (p.) krnąbrny; (p.) nieustępliwy; (p.) uparty
+[intramuscular]intramuscular (EN) : (p.) domięśniowy; (p.) śródmięśniowy
+[intranet]intranet (EN) : (rz.) intranet
+[intransigence]intransigence (EN) : (rz.) bezkompromisowość; (rz.) nieprzejednanie
+[intransigent]intransigent (EN) : (p.) bezkompromisowy; (p.) nieprzejednany
+[intransitive]intransitive (EN) : (p.) nieprzechodni
+[intransitively]intransitively (EN) : (p-sł.) nieprzechodnio
+[intravenous]intravenous (EN) : (p.) dożylny; (p.) śródżylny
+[intrepid]intrepid (EN) : (p.) chrobry; (p.) nieustraszony
+[intrepidity]intrepidity (EN) : (rz.) dzielność; (rz.) męstwo; (rz.) nieustraszoność
+[intricacy]intricacy (EN) : (rz.) komplikacja; (rz.) powikłanie; (rz.) zawiłość
+[intricate]intricate (EN) : (p.) skomplikowany; (p.) trudny; (p.) zawikłany; (p.) zawiły
+[intricately]intricately (EN) : (p-sł.) zawile
+[intrigue]intrigue (EN) : (cz.) intrygować; (cz.) rozrabiać; (cz.) zaciekawiać; (rz.) afera; (rz.) intryga; (rz.) knowanie; (rz.) miłostka
+[intriguer]intriguer (EN) : (rz.) intrygant
+[intriguing]intriguing (EN) : (p.) intrygancki; (p.) rozrabiacki
+[intrinsic]intrinsic (EN) : (p.) głęboki; (p.) istotny; (p.) nieodłączny; (p.) prawdziwy; (p.) wejściowy; (p.) wewnętrzny
+[intrinsically]intrinsically (EN) : (p-sł.) nierozłącznie; (p-sł.) wewnętrznie
+[intro]intro (EN) : (rz.) wprowadzenie; (rz.) wstęp
+[introduce]introduce (EN) : (cz.) poznajomić; (cz.) przedstawiać; (cz.) przedstawić; (cz.) wprowadzać; (cz.) wprowadzić; (cz.) zaznajamiać
+[introduction]introduction (EN) : (rz.) introdukcja; (rz.) polecenie; (rz.) prezentacja; (rz.) przedmowa; (rz.) przedstawienie; (rz.) sprowadzenie; (rz.) wadzenie; (rz.) wprowadzenie; (rz.) wstawienie; (rz.) wstęp; (rz.) zapoznanie; (rz.) zaprowadzenie; (rz.) zaznajomienie
+[introductory]introductory (EN) : (p.) wstępny
+[intromission]intromission (EN) : (rz.) absorbowanie
+[introspection]introspection (EN) : (rz.) introspekcja; (rz.) obserwacja
+[introspective]introspective (EN) : (p.) introspekcyjny; (p.) introspektywny
+[introversion]introversion (EN) : (rz.) introwersja
+[introvert]introvert (EN) : (rz.) introwertyk
+[introverted]introverted (EN) : (p.) introwersyjny
+[intrude]intrude (EN) : (cz.) nachodzić; (cz.) narzucać; (cz.) niepokoić; (cz.) przeszkadzać; (cz.) rzucać; (cz.) wciskać; (cz.) wkraczać; (cz.) zaniepokoić
+[intruder]intruder (EN) : (rz.) intruz; (rz.) napastnik; (rz.) natręt
+[intrusion]intrusion (EN) : (rz.) infiltracja; (rz.) intruzją; (rz.) najście; (rz.) narzucanie; (rz.) wciśnięcie; (rz.) wkroczenie; (rz.) włamanie; (rz.) wtargnięcie
+[intrusive]intrusive (EN) : (p.) narzucający; (p.) natrętny; (p.) wtrącony
+[intrusiveness]intrusiveness (EN) : (rz.) natręctwo
+[intuition]intuition (EN) : (rz.) intuicja; (rz.) przeczucie; (rz.) wyczucie
+[intuitionism]intuitionism (EN) : (rz.) intuicjonizm
+[intuitive]intuitive (EN) : (p.) intuicyjny
+[intuitively]intuitively (EN) : (p-sł.) intuicyjnie
+[inundate]inundate (EN) : (cz.) zalać; (cz.) zalewać; (cz.) zasypywać; (cz.) zatapiać; (cz.) zatopić
+[inundation]inundation (EN) : (rz.) powódź; (rz.) zalanie
+[inure]inure (EN) : (cz.) hartować; (cz.) przyzwyczajać
+[invade]invade (EN) : (cz.) atakować; (cz.) najechać; (cz.) najeżdżać; (cz.) wtargnąć; (cz.) zaatakować
+[invader]invader (EN) : (rz.) najeźdźca; (rz.) okupant; (rz.) zaborca
+[invalid]invalid (EN) : (p.) błędny; (p.) chory; (p.) nieaktualny; (p.) niepełnosprawny; (p.) niepoprawny; (p.) nieprawidłowy; (p.) nieprawomocny; (p.) niesprawny; (p.) nieważny; (p.) słaby; (p.) ułomny; (rz.) cherlak; (rz.) inwalida; (rz.) kaleka
+[invalidate]invalidate (EN) : (cz.) unieważniać; (cz.) unieważnić
+[invalidation]invalidation (EN) : (rz.) abolicja; (rz.) unieważnienie
+[invalidism]invalidism (EN) : (rz.) inwalidztwo; (rz.) kalectwo
+[invalidity]invalidity (EN) : (rz.) kalectwo; (rz.) nieważność
+[invalidly]invalidly (EN) : (p-sł.) nieprawomocnie
+[invaluable]invaluable (EN) : (p.) bezcenny
+[invar]invar (EN) : (rz.) inwar
+[invariability]invariability (EN) : (rz.) nieodmienność; (rz.) niezmienność
+[invariable]invariable (EN) : (p.) nieodmienny; (p.) niezmienny
+[invariably]invariably (EN) : (p-sł.) nieodmiennie; (p-sł.) niewzruszenie; (p-sł.) niezmiennie
+[invariance]invariance (EN) : (rz.) niezmienniczość; (rz.) niezmienność
+[invariant]invariant (EN) : (p.) niezmienniczy; (p.) niezmienny; (rz.) inwariant; (rz.) niezmiennik
+[invasion]invasion (EN) : (rz.) inwazja; (rz.) najazd; (rz.) napad; (rz.) naruszenie; (rz.) wdarcie; (rz.) włamanie; (rz.) wtargnięcie
+[invasive]invasive (EN) : (p.) inwazyjny; (p.) napastniczy; (p.) zaborczy
+[invective]invective (EN) : (rz.) inwektywa; (rz.) obelga; (rz.) wymyślanie; (rz.) wyzwisko
+[inveigh]inveigh (EN) : (cz.) lżyć
+[inveigle]inveigle (EN) : (cz.) uwodzić; (cz.) wabić
+[invent]invent (EN) : (cz.) nawymyślać; (cz.) sfabrykować; (cz.) wydumać; (cz.) wymyślać; (cz.) wymyślić; (cz.) wynajdować; (cz.) wynaleźć; (cz.) zmyślać; (cz.) zmyślić
+[invention]invention (EN) : (rz.) inwencja; (rz.) wymysł; (rz.) wymyślenie; (rz.) wynalazek; (rz.) wynalezienie
+[inventions]inventions (EN) : (rz.) wynalazki
+[inventive]inventive (EN) : (p.) pomysłowy; (p.) wynalazczy
+[inventively]inventively (EN) : (p-sł.) pomysłowo
+[inventiveness]inventiveness (EN) : (rz.) inwencja; (rz.) pomysłowość; (rz.) wynalazczość
+[inventor]inventor (EN) : (rz.) wynalazca
+[inventorial]inventorial (EN) : (p.) inwentarzowy
+[inventory]inventory (EN) : (rz.) inwentaryzacja; (rz.) inwentarz; (rz.) remanent; (rz.) rezerwa; (rz.) spis; (rz.) zapas
+[inverse]inverse (EN) : (p.) odwrotny; (rz.) odwrócenie; (rz.) odwrotność
+[inversely]inversely (EN) : (p-sł.) odwrotnie
+[inversion]inversion (EN) : (rz.) inwersja; (rz.) negacja; (rz.) odwracanie; (rz.) odwrócenie; (rz.) przestawienie; (rz.) przestawnia
+[invert]invert (EN) : (cz.) odwracać; (cz.) odwrócić; (cz.) przestawiać; (cz.) przestawić; (rz.) negatyw
+[invertebrate]invertebrate (EN) : (p.) bezkręgowy; (p.) bezpodstawny; (rz.) bezkręgowiec
+[inverted]inverted (EN) : (p.) plecowy; (p.) przestawny
+[inverter]inverter (EN) : (rz.) falownik; (rz.) inwertor; (rz.) negacja; (rz.) przekształtnik; (rz.) przemiennik
+[invertible]invertible (EN) : (p.) odwracalny
+[invest]invest (EN) : (cz.) inwestować; (cz.) odziewać; (cz.) ubrać; (cz.) wkładać; (cz.) wyposażyć; (cz.) zainwestować
+[investigate]investigate (EN) : (cz.) badać; (cz.) dociekać; (cz.) śledzić; (cz.) zbadać
+[investigation]investigation (EN) : (rz.) badanie; (rz.) dochodzenie; (rz.) dociekanie; (rz.) kontrola; (rz.) rozpatrywanie; (rz.) rozpatrzenie; (rz.) śledztwo
+[investigative]investigative (EN) : (p.) badawczy; (p.) dochodzeniowy
+[investigator]investigator (EN) : (rz.) badacz; (rz.) detektyw
+[investigatory]investigatory (EN) : (p.) badawczy
+[investiture]investiture (EN) : (rz.) inwestytura
+[investment]investment (EN) : (rz.) inwestowanie; (rz.) inwestycja; (rz.) lokata; (rz.) wkład
+[investor]investor (EN) : (rz.) inwestor
+[inveteracy]inveteracy (EN) : (rz.) nałogowość; (rz.) zakorzenienie
+[inveterate]inveterate (EN) : (p.) nałogowy; (p.) uporczywy; (p.) zaciekły; (p.) zastarzały
+[invidious]invidious (EN) : (p.) nienawistny; (p.) złośliwy
+[invigilate]invigilate (EN) : (cz.) inwigilować
+[invigilator]invigilator (EN) : (rz.) sygnalizator
+[invigorate]invigorate (EN) : (cz.) krzepić; (cz.) orzeźwiać; (cz.) orzeźwić; (cz.) ożywiać; (cz.) pokrzepiać; (cz.) wzmacniać
+[invigorating]invigorating (EN) : (p.) ożywczy
+[invigoration]invigoration (EN) : (rz.) pokrzepienie
+[invincible]invincible (EN) : (p.) niezwyciężony; (p.) przemożny
+[inviolability]inviolability (EN) : (rz.) nienaruszalność; (rz.) nietykalność
+[inviolable]inviolable (EN) : (p.) nienaruszalny; (p.) nietykalny
+[inviolate]inviolate (EN) : (p.) nienaruszony
+[invisibility]invisibility (EN) : (rz.) niewidoczność; (rz.) niewidzialność
+[invisible]invisible (EN) : (p.) niewidoczny; (p.) niewidzialny; (p.) sympatyczny
+[invisibly]invisibly (EN) : (p-sł.) niewidocznie
+[invitation]invitation (EN) : (rz.) zachęta; (rz.) zaproszenie
+[invite]invite (EN) : (cz.) powodować; (cz.) powoływać; (cz.) prosić; (cz.) zachęcać; (cz.) zachęcić; (cz.) zapraszać; (cz.) zaprosić; (rz.) inwit
+[invitingly]invitingly (EN) : (p-sł.) apetycznie
+[invocation]invocation (EN) : (rz.) inwokacja; (rz.) wezwanie; (rz.) wywoływanie
+[invocatory]invocatory (EN) : (p.) inwokacyjny
+[invoice]invoice (EN) : (cz.) fakturować; (cz.) zafakturować; (rz.) faktura; (rz.) rachunek
+[invoke]invoke (EN) : (cz.) odwołać; (cz.) odwoływać; (cz.) powołać; (cz.) powoływać; (cz.) przywoływać; (cz.) wywoływać; (cz.) wzywać
+[invoked]invoked (EN) : (cz.) przywoływać
+[involuntarily]involuntarily (EN) : (p-sł.) mimowolnie; (p-sł.) odruchowo
+[involuntary]involuntary (EN) : (p.) bezwolny; (p.) mimowolny; (p.) niedobrowolny
+[involution]involution (EN) : (rz.) inwolucja; (rz.) potęgowanie
+[involve]involve (EN) : (cz.) angażować; (cz.) komplikować; (cz.) obejmować; (cz.) pociągać; (cz.) uwikłać; (cz.) wciągać; (cz.) wmieszać; (cz.) wplątać
+[involved]involved (EN) : (p.) zawiły
+[involvement]involvement (EN) : (rz.) uwikłanie; (rz.) wmieszanie; (rz.) zaangażowanie
+[invulnerable]invulnerable (EN) : (p.) odporny
+[inward]inward (EN) : (p.) duchowy; (p.) środkowy; (p.) wejściowy; (p.) wewnętrzny
+[inwardly]inwardly (EN) : (p-sł.) duchowo; (p-sł.) wewnątrz
+[inwardness]inwardness (EN) : (rz.) duchowość; (rz.) istota; (rz.) wnętrze
+[iodide]iodide (EN) : (rz.) jodek
+[iodination]iodination (EN) : (rz.) jodowanie
+[iodine]iodine (EN) : (rz.) jod; (rz.) jodyna
+[iodize]iodize (EN) : (cz.) jodować
+[iolite]iolite (EN) : (rz.) kordieryt
+[ion]ion (EN) : (rz.) jon; (rz.) napylanie
+[ionic]ionic (EN) : (p.) jonowy
+[ioniser]ioniser (EN) : (rz.) jonizator
+[ionization]ionization (EN) : (rz.) jonizacja
+[ionize]ionize (EN) : (cz.) jonizować
+[ionone]ionone (EN) : (rz.) jonon
+[ionosphere]ionosphere (EN) : (rz.) jonosfera
+[iota]iota (EN) : (rz.) jota; (rz.) odrobina
+[irascibility]irascibility (EN) : (rz.) gniewliwość; (rz.) krewkość; (rz.) wybuchowość
+[irascible]irascible (EN) : (p.) drażliwy; (p.) gniewny; (p.) krewki; (p.) wrażliwy; (p.) wybuchowy
+[irate]irate (EN) : (p.) gniewny
+[irenic]irenic (EN) : (p.) pokojowy
+[iridescence]iridescence (EN) : (rz.) mienienie; (rz.) opalizacja; (rz.) opalizowanie
+[iridium]iridium (EN) : (rz.) iryd
+[iris]iris (EN) : (rz.) Iris; (rz.) irys; (rz.) kosaciec; (rz.) przesłona; (rz.) tęcza; (rz.) tęczówka
+[irk]irk (EN) : (cz.) drażnić
+[irksome]irksome (EN) : (p.) nieprzyjemny; (p.) nużący; (p.) przykry
+[iron]iron (EN) : (cz.) prasować; (rz.) kajdany; (rz.) sprzęt; (rz.) ubranie; (rz.) żelastwo; (rz.) żelazko; (rz.) żelazo; (rz.) żeliwo
+[iron-founder]iron-founder (EN) : (rz.) hutnik
+[iron-stone]iron-stone (EN) : (rz.) syderyt
+[ironer]ironer (EN) : (rz.) prasowacz; (rz.) prasowarka
+[ironic]ironic (EN) : (p.) ironiczny; (p.) paradoksalny
+[ironical]ironical (EN) : (p.) ironiczny
+[ironically]ironically (EN) : (p-sł.) ironicznie; (p-sł.) przekąsem
+[ironing]ironing (EN) : (rz.) kalibrowanie; (rz.) prasowalnia; (rz.) prasowanie; (rz.) żelazo
+[ironist]ironist (EN) : (rz.) ironista
+[ironmaster]ironmaster (EN) : (rz.) hutnik
+[ironstone]ironstone (EN) : (rz.) syderyt
+[ironware]ironware (EN) : (rz.) żelastwo
+[ironwork]ironwork (EN) : (rz.) huta; (rz.) ślusarstwo
+[ironworker]ironworker (EN) : (rz.) ślusarz
+[ironworks]ironworks (EN) : (rz.) ślusarnia
+[irony]irony (EN) : (rz.) ironia; (rz.) przekąs
+[irradiance]irradiance (EN) : (rz.) napromieniowanie
+[irradiate]irradiate (EN) : (cz.) napromieniać; (cz.) napromienić; (cz.) oświecać; (cz.) promieniować; (cz.) rozjaśniać; (cz.) świecić; (cz.) wypromieniowywać
+[irradiated]irradiated (EN) : (p.) napromieniony
+[irradiation]irradiation (EN) : (rz.) blask; (rz.) irradiacja; (rz.) napromienienie; (rz.) napromieniowanie; (rz.) naświetlanie; (rz.) oświetlenie
+[irrational]irrational (EN) : (p.) bezrozumny; (p.) irracjonalny; (p.) nieracjonalny; (p.) nierozumny; (p.) niewymierny
+[irrationalism]irrationalism (EN) : (rz.) irracjonalizm
+[irrationality]irrationality (EN) : (rz.) irracjonalność; (rz.) nieracjonalność
+[irrationally]irrationally (EN) : (p-sł.) irracjonalnie
+[irreclaimable]irreclaimable (EN) : (p.) bezzwrotny
+[irreconcilable]irreconcilable (EN) : (p.) nieprzejednany
+[irrecoverable]irrecoverable (EN) : (p.) bezpowrotny; (p.) niepowrotny
+[irrecoverably]irrecoverably (EN) : (p-sł.) bezpowrotnie
+[irredeemable]irredeemable (EN) : (p.) niewymienny
+[irreducibility]irreducibility (EN) : (rz.) nieprzywiedlność; (rz.) nierozkładalność
+[irreducible]irreducible (EN) : (p.) nieprzywiedlny; (p.) nieredukowalny
+[irrefutable]irrefutable (EN) : (p.) niepodważalny; (p.) niezbity
+[irregular]irregular (EN) : (p.) nieforemny; (p.) niemiarowy; (p.) nieporządny; (p.) nieprawidłowy; (p.) nieprzepisowy; (p.) nieregularny; (p.) nierównomierny; (p.) nierówny; (p.) niesłuszny; (rz.) nieregularność
+[irregularity]irregularity (EN) : (rz.) nieprawidłowość; (rz.) nieregularność
+[irregularly]irregularly (EN) : (p-sł.) nieregularnie; (p-sł.) nierówno
+[irrelevance]irrelevance (EN) : (rz.) niesystematyczność
+[irrelevant]irrelevant (EN) : (p.) nieistotny; (p.) nieodpowiedni; (p.) niestosowny; (p.) nietrafny; (p.) nieważny
+[irreligious]irreligious (EN) : (p.) bezwyznaniowy; (p.) niereligijny
+[irremediable]irremediable (EN) : (p.) nieuleczalny
+[irreparable]irreparable (EN) : (p.) nieodwracalny; (p.) niepowetowany
+[irrepressible]irrepressible (EN) : (p.) niepowstrzymany
+[irreproachable]irreproachable (EN) : (p.) nienaganny
+[irreproachably]irreproachably (EN) : (p-sł.) nienagannie
+[irresistible]irresistible (EN) : (p.) gwałtowny; (p.) nieodparty; (p.) przemożny
+[irresistibly]irresistibly (EN) : (p-sł.) nieodparcie
+[irresolute]irresolute (EN) : (p.) chwiejny; (p.) niezdecydowany
+[irresolutely]irresolutely (EN) : (rz.) niezdecydowanie
+[irresolvable]irresolvable (EN) : (p.) nierozpuszczalny; (p.) nierozwiązalny
+[irrespective]irrespective (EN) : (p.) bezwzględny; (p.) niezależny
+[irrespectively]irrespectively (EN) : (p-sł.) niezależnie
+[irresponsibility]irresponsibility (EN) : (rz.) lekkomyślność; (rz.) nieodpowiedzialność
+[irresponsible]irresponsible (EN) : (p.) nieodpowiedzialny; (p.) niepoczytalny
+[irresponsibly]irresponsibly (EN) : (p-sł.) nieodpowiedzialnie
+[irresponsive]irresponsive (EN) : (p.) flegmatyczny; (p.) niewrażliwy
+[irretrievable]irretrievable (EN) : (p.) bezpowrotny; (p.) niepowetowany; (p.) niepowrotny
+[irreverence]irreverence (EN) : (rz.) lekceważenie
+[irreverent]irreverent (EN) : (p.) lekceważący
+[irreverently]irreverently (EN) : (p-sł.) prześmiewczo
+[irreversibility]irreversibility (EN) : (rz.) nieodwracalność
+[irreversible]irreversible (EN) : (p.) nieodwołalny; (p.) nieodwracalny
+[irrevocability]irrevocability (EN) : (rz.) nieodzowność
+[irrevocable]irrevocable (EN) : (p.) bezpowrotny; (p.) nieodwołalny
+[irrevocably]irrevocably (EN) : (p-sł.) bezapelacyjnie; (p-sł.) bezpowrotnie; (p-sł.) nieodwołalnie
+[irrigate]irrigate (EN) : (cz.) irygować; (cz.) natryskiwać; (cz.) nawadniać; (cz.) nawodniać; (cz.) przepłukać; (cz.) przepłukiwać
+[irrigation]irrigation (EN) : (rz.) irygacja; (rz.) nawadnianie; (rz.) nawodnienie; (rz.) przepłukiwanie
+[irrigational]irrigational (EN) : (p.) irygacyjny
+[irrigator]irrigator (EN) : (rz.) irygator; (rz.) wlewnik
+[irritability]irritability (EN) : (rz.) drażliwość; (rz.) pobudliwość; (rz.) porywczość; (rz.) rozdrażnianie; (rz.) rozdrażnienie
+[irritable]irritable (EN) : (p.) drażliwy; (p.) gniewliwy; (p.) gniewny; (p.) popędliwy; (p.) wrażliwy
+[irritant]irritant (EN) : (rz.) czynnik
+[irritate]irritate (EN) : (cz.) denerwować; (cz.) drażnić; (cz.) dymić; (cz.) irytować; (cz.) jątrzyć; (cz.) podrażniać; (cz.) podrażnić; (cz.) rozdrażniać; (cz.) rozdrażnić; (cz.) rozjątrzyć; (cz.) rozsierdzić; (cz.) zezłościć; (cz.) złościć
+[irritated]irritated (EN) : (p.) rozdrażniony; (p.) zirytowany
+[irritating]irritating (EN) : (p.) dokuczliwy; (p.) irytujący
+[irritation]irritation (EN) : (rz.) irytacja; (rz.) podrażnienie; (rz.) rozdrażnienie; (rz.) zdenerwowanie
+[irruption]irruption (EN) : (rz.) wdarcie
+[is]is (EN) : (cz.) być
+[isarithm]isarithm (EN) : (rz.) izarytma
+[ischemia]ischemia (EN) : (rz.) niedokrwienie
+[isinglass]isinglass (EN) : (rz.) karuk; (rz.) mika; (rz.) żelatyna
+[island]island (EN) : (rz.) wysepka; (rz.) wyspa
+[islander]islander (EN) : (rz.) wyspiarz
+[isle]isle (EN) : (rz.) wysepka; (rz.) wyspa
+[islet]islet (EN) : (rz.) ostrów; (rz.) wysepka
+[isobar]isobar (EN) : (rz.) izobar; (rz.) izobara
+[isobaric]isobaric (EN) : (p.) izobaryczny
+[isobutene]isobutene (EN) : (rz.) izobuten
+[isochronal]isochronal (EN) : (p.) izochroniczny; (p.) równoczesny
+[isochronous]isochronous (EN) : (p.) izochroniczny
+[isohaline]isohaline (EN) : (rz.) izohalina
+[isolate]isolate (EN) : (cz.) izolować; (cz.) oddzielać; (cz.) odgradzać; (cz.) odizolować; (cz.) odosobniać; (cz.) odosobnić; (cz.) separować; (cz.) wydzielać; (cz.) wyizolować; (cz.) wyobcować; (cz.) wyodrębniać; (cz.) wyodrębnić
+[isolated]isolated (EN) : (p.) izolowany; (p.) osobny; (p.) samotny
+[isolation]isolation (EN) : (rz.) izolacja; (rz.) izolowanie; (rz.) oddzielenie; (rz.) odizolowanie; (rz.) odosobnienie; (rz.) osamotnienie; (rz.) wyodrębnienie
+[isolationism]isolationism (EN) : (rz.) izolacjonizm
+[isolationist]isolationist (EN) : (rz.) izolacjonista
+[isolator]isolator (EN) : (rz.) izolator
+[isomer]isomer (EN) : (rz.) izomer
+[isomeric]isomeric (EN) : (p.) izomeryczny
+[isomerism]isomerism (EN) : (rz.) izomeria
+[isometric]isometric (EN) : (p.) izometryczny; (p.) regularny; (p.) sześcienny
+[isomorphic]isomorphic (EN) : (p.) izomorficzny; (p.) równopostaciowy
+[isomorphism]isomorphism (EN) : (rz.) izomorfizm; (rz.) równopostaciowość
+[isooctane]isooctane (EN) : (rz.) izooktan
+[isoprene]isoprene (EN) : (rz.) izopren
+[isopropyl]isopropyl (EN) : (rz.) izopropyl
+[isosceles]isosceles (EN) : (p.) równoramienny
+[isotherm]isotherm (EN) : (rz.) izoterma
+[isothermal]isothermal (EN) : (p.) izotermiczny
+[isotonic]isotonic (EN) : (p.) izotoniczny
+[isotope]isotope (EN) : (rz.) izotop; (rz.) izotopia
+[isotopic]isotopic (EN) : (p.) izotopowy
+[isotropic]isotropic (EN) : (p.) izotropowy
+[isotropy]isotropy (EN) : (rz.) izotropia; (rz.) izotropowość; (rz.) równokierunkowość
+[issuance]issuance (EN) : (rz.) wydanie; (rz.) wydawanie
+[issue]issue (EN) : (cz.) emitować; (cz.) wydać; (cz.) wydawać; (cz.) wyemitować; (cz.) wystosować; (rz.) emisja; (rz.) emitowanie; (rz.) kwestia; (rz.) nakład; (rz.) numer; (rz.) potomstwo; (rz.) problematyka; (rz.) sprawa; (rz.) wydanie; (rz.) wydawanie; (rz.) wyjście; (rz.) wynik; (rz.) wypływ; (rz.) wystawianie; (rz.) wystawienie; (rz.) zagadnięcie; (rz.) zagadnienie
+[issuer]issuer (EN) : (rz.) emitent; (rz.) remitent; (rz.) wydawca; (rz.) wystawca
+[isthmian]isthmian (EN) : (p.) przesmykowy
+[isthmus]isthmus (EN) : (rz.) cieśń; (rz.) międzymorze; (rz.) przesmyk
+[italics]italics (EN) : (rz.) kursywa
+[itch]itch (EN) : (cz.) gryźć; (cz.) swędzić; (cz.) swędzieć; (cz.) świerzbić; (cz.) świerzbieć; (cz.) zaswędzić; (rz.) chęć; (rz.) swędzenie; (rz.) świąd; (rz.) świerzbienie
+[itching]itching (EN) : (rz.) swędzenie; (rz.) świąd; (rz.) świerzb
+[item]item (EN) : (p-sł.) podobnie; (rz.) artykuł; (rz.) aukcja; (rz.) element; (rz.) paragraf; (rz.) podpunkt; (rz.) położenie; (rz.) pozycja; (rz.) przedmiot; (rz.) przesyłka; (rz.) punkt; (rz.) rzecz; (rz.) szczegół; (rz.) towar
+[itemization]itemization (EN) : (rz.) wyszczególnienie
+[itemize]itemize (EN) : (cz.) wyszczególniać
+[iterate]iterate (EN) : (cz.) powtarzać
+[iteration]iteration (EN) : (rz.) iteracja; (rz.) powtarzanie; (rz.) powtórzenie
+[iterative]iterative (EN) : (p.) iteracyjny; (p.) iteratywny; (p.) wielokrotny
+[ithyphallic]ithyphallic (EN) : (p.) falliczny
+[itinerant]itinerant (EN) : (p.) objazdowy; (p.) wędrowny
+[itinerary]itinerary (EN) : (p.) podróżny; (rz.) marszruta; (rz.) przewodnik; (rz.) trasa
+[ivied]ivied (EN) : (p.) bluszczowy
+[ivy]ivy (EN) : (rz.) bluszcz

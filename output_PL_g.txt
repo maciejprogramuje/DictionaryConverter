@@ -1,0 +1,1037 @@
+[gabriel]Gabriel (PL) : (rz.) Gabriel
+[gabriela]Gabriela (PL) : (rz.) Gabrielle
+[gamma]Gamma (PL) : (rz.) gamma
+[gosia]Gosia (PL) : (rz.) Meg
+[greenpeace]Greenpeace (PL) : (rz.) Greenpeace
+[grzegorz]Grzegorz (PL) : (rz.) Gregory
+[gabardyna]gabardyna (PL) : (rz.) gabardine
+[gabaryt]gabaryt (PL) : (rz.) dimension; (rz.) gauge; (rz.) measurement
+[gabinet]gabinet (PL) : (rz.) cabinet; (rz.) closet; (rz.) office; (rz.) study; (rz.) surgery
+[gablota]gablota (PL) : (rz.) cabinet; (rz.) cabinet; (rz.) showcase
+[gablotka]gablotka (PL) : (rz.) cabinet; (rz.) glass-cue; (rz.) showcase
+[gacek]gacek (PL) : (rz.) bat
+[gacie]gacie (PL) : (rz.) pants; (rz.) underpants
+[gad]gad (PL) : (rz.) reptile
+[gadanie]gadanie (PL) : (rz.) babble; (rz.) chatter; (rz.) claptrap; (rz.) gab; (rz.) jabber; (rz.) smatter; (rz.) talk; (rz.) twaddle
+[gadanina]gadanina (PL) : (rz.) blab; (rz.) chatter; (rz.) gaggle; (rz.) palaver; (rz.) patter; (rz.) talkfest; (rz.) tattle; (rz.) tittle-tattle; (rz.) twaddle
+[gadatliwie]gadatliwie (PL) : (p-sł.) chattily
+[gadatliwosc]gadatliwość (PL) : (rz.) talkativeness; (rz.) verbosity; (rz.) wordiness
+[gadatliwy]gadatliwy (PL) : (p.) chatty; (p.) flippant; (p.) gabby; (p.) longwinded; (p.) long-winded; (p.) loquacious; (p.) speaking; (p.) talkative; (p.) talky; (p.) verbose; (p.) windy
+[gadac]gadać (PL) : (cz.) babble; (cz.) blab; (cz.) chat; (cz.) gab; (cz.) jabber; (cz.) jaw; (cz.) patter; (cz.) talk; (cz.) twaddle
+[gadka]gadka (PL) : (rz.) chat; (rz.) story
+[gadolin]gadolin (PL) : (rz.) gadolinium
+[gadulstwo]gadulstwo (PL) : (rz.) garrulity; (rz.) talkativeness
+[gadula]gaduła (PL) : (rz.) babbler; (rz.) blab; (rz.) blabbermouth; (rz.) chatterbox; (rz.) chatterer; (rz.) gabbler; (rz.) gasser; (rz.) jay; (rz.) magpie; (rz.) prattler; (rz.) talker; (rz.) tatter; (rz.) tattler; (rz.) windbag
+[gady]gady (PL) : (rz.) reptiles
+[gadzi]gadzi (PL) : (p.) reptilian
+[gadzina]gadzina (PL) : (rz.) reptile; (rz.) vermin; (rz.) viper
+[gadzinowy]gadzinowy (PL) : (p.) mean
+[gadzet]gadżet (PL) : (rz.) gadget; (rz.) gizmo
+[gafa]gafa (PL) : (rz.) bloomer; (rz.) blunder; (rz.) boner; (rz.) gaffe; (rz.) slip; (rz.) solecism
+[gafel]gafel (PL) : (rz.) gaff
+[gag]gag (PL) : (rz.) gag
+[gagat]gagat (PL) : (rz.) jet; (rz.) sprayer
+[gagatek]gagatek (PL) : (rz.) jet
+[gaik]gaik (PL) : (rz.) boscage
+[gaj]gaj (PL) : (rz.) grove; (rz.) holt
+[gajowy]gajowy (PL) : (p.) game-keeper
+[gajowka]gajówka (PL) : (rz.) whitethroat; (rz.) white-throat
+[gal]gal (PL) : (rz.) gallium
+[galaktyczny]galaktyczny (PL) : (p.) galactic
+[galaktyka]galaktyka (PL) : (rz.) galaxy
+[galant]galant (PL) : (rz.) gallant; (rz.) spark
+[galanteria]galanteria (PL) : (rz.) gallantry; (rz.) haberdashery; (rz.) hosiery
+[galantyna]galantyna (PL) : (rz.) galantine
+[galar]galar (PL) : (rz.) barge; (rz.) scow
+[galareta]galareta (PL) : (rz.) jelly
+[galaretka]galaretka (PL) : (rz.) jelly
+[galaretowaciec]galaretowacieć (PL) : (cz.) gelatinize
+[galaretowaty]galaretowaty (PL) : (p.) gelatinous
+[galas]galas (PL) : (rz.) gallnut; (rz.) gall-nut; (rz.) oak-apple
+[galasowka]galasówka (PL) : (rz.) gall; (rz.) gallfly; (rz.) gallnut; (rz.) nutgall; (rz.) oak-gall
+[galena]galena (PL) : (rz.) galena
+[galenit]galenit (PL) : (rz.) galena
+[galeon]galeon (PL) : (rz.) galleon
+[galera]galera (PL) : (rz.) galley
+[galeria]galeria (PL) : (rz.) gallery; (rz.) loft
+[galernik]galernik (PL) : (rz.) galley
+[galery]galery (PL) : (rz.) galley
+[galeryjka]galeryjka (PL) : (rz.) gallery
+[galimatias]galimatias (PL) : (rz.) hotchpotch; (rz.) mess; (rz.) mull
+[galman]galman (PL) : (rz.) calamine
+[galon]galon (PL) : (rz.) gallon; (rz.) gallons; (rz.) galloon; (rz.) gimp; (rz.) purl
+[galonowac]galonować (PL) : (cz.) braid
+[galop]galop (PL) : (rz.) career; (rz.) gallop
+[galopowac]galopować (PL) : (cz.) gallop
+[galowy]galowy (PL) : (p.) gala
+[galwaniczny]galwaniczny (PL) : (p.) galvanic; (p.) galvanised; (p.) voltaic
+[galwanizacja]galwanizacja (PL) : (rz.) electroplating; (rz.) galvanization; (rz.) plating
+[galwanizator]galwanizator (PL) : (rz.) galvanizer
+[galwanizm]galwanizm (PL) : (rz.) galvanism
+[galwanizowanie]galwanizowanie (PL) : (rz.) electroplating; (rz.) galvanise; (rz.) galvanization
+[galwanizowac]galwanizować (PL) : (cz.) galvanize
+[galwanometr]galwanometr (PL) : (rz.) galvanometer
+[galwanoplastyka]galwanoplastyka (PL) : (rz.) electroforming
+[galwanoskop]galwanoskop (PL) : (rz.) galvanoscope
+[galwanotechnik]galwanotechnik (PL) : (rz.) electroplater
+[galwanotechnika]galwanotechnika (PL) : (rz.) electroplating
+[galwanotyp]galwanotyp (PL) : (rz.) electro; (rz.) electrotype
+[galwanotypia]galwanotypia (PL) : (rz.) electrotyping
+[gama]gama (PL) : (rz.) gamut; (rz.) range; (rz.) scale
+[gamajda]gamajda (PL) : (rz.) numskull
+[gambit]gambit (PL) : (rz.) gambit
+[gameta]gameta (PL) : (rz.) gamete
+[gamma-aktywny]gamma-aktywny (PL) : (p.) gamma-active
+[gamma-celuloza]gamma-celuloza (PL) : (rz.) gamma-cellulose
+[gamma-promieniotworczy]gamma-promieniotwórczy (PL) : (p.) gamma-active
+[gamoniowaty]gamoniowaty (PL) : (p.) gawky
+[gamon]gamoń (PL) : (rz.) bumpkin; (rz.) dimwit; (rz.) galoot; (rz.) gawk
+[ganek]ganek (PL) : (rz.) gallery; (rz.) porch
+[gang]gang (PL) : (rz.) gang; (rz.) mob
+[ganglion]ganglion (PL) : (rz.) ganglion
+[gangrena]gangrena (PL) : (rz.) gangrene
+[gangrenowac]gangrenować (PL) : (cz.) gangrene
+[gangrenowy]gangrenowy (PL) : (p.) gangrenous
+[gangster]gangster (PL) : (rz.) gangster
+[gangsterstwo]gangsterstwo (PL) : (rz.) racketeering
+[ganiac]ganiać (PL) : (cz.) chase; (cz.) run
+[ganienie]ganienie (PL) : (rz.) dispraise
+[ganic]ganić (PL) : (cz.) blame; (cz.) censure; (cz.) censurer; (cz.) criticise; (cz.) criticize; (cz.) damn; (cz.) deprecate; (cz.) dispraise; (cz.) reprehend; (cz.) reprimand; (cz.) reprobate; (cz.) reprove; (cz.) slate; (cz.) upbraid; (cz.) vituperate
+[gap]gap (PL) : (rz.) gannet; (rz.) onlooker
+[gapa]gapa (PL) : (rz.) dope; (rz.) dupe
+[gapienie]gapienie (PL) : (rz.) gape-seed
+[gapiostwo]gapiostwo (PL) : (rz.) wool-gathering
+[gapiowaty]gapiowaty (PL) : (p.) stupid
+[gapic]gapić (PL) : (cz.) gape; (cz.) stare; (cz.) yawn
+[gar]gar (PL) : (rz.) pot
+[garaz]garaż (PL) : (rz.) garage; (rz.) lockup
+[garazowac]garażować (PL) : (cz.) garage
+[garb]garb (PL) : (rz.) hump; (rz.) humpback; (rz.) lobe
+[garbarnia]garbarnia (PL) : (rz.) tannery
+[garbarz]garbarz (PL) : (rz.) skinner; (rz.) tanner
+[garbaty]garbaty (PL) : (p.) gibbous; (p.) hooked; (p.) humpbacked; (p.) hunchbacked; (p.) hunched
+[garbienie]garbienie (PL) : (rz.) stoop
+[garbic]garbić (PL) : (cz.) crook; (cz.) hump; (cz.) slouch; (cz.) stoop
+[garbnik]garbnik (PL) : (rz.) tannin
+[garbnika]garbnika (PL) : (rz.) fixation
+[garbowanie]garbowanie (PL) : (rz.) tan; (rz.) tanner
+[garbowac]garbować (PL) : (cz.) tan
+[garbus]garbus (PL) : (rz.) humpback; (rz.) hunchback
+[garda]garda (PL) : (rz.) barrette; (rz.) guard
+[gardenia]gardenia (PL) : (rz.) gardenia
+[garderoba]garderoba (PL) : (rz.) chemisette; (rz.) cloakroom; (rz.) dressing; (rz.) garment; (rz.) wardrobe
+[garderobiana]garderobiana (PL) : (rz.) dresser
+[gardzenie]gardzenie (PL) : (rz.) show
+[gardziel]gardziel (PL) : (rz.) gorge; (rz.) gullet; (rz.) throat
+[gardzic]gardzić (PL) : (cz.) despise; (cz.) disdain; (cz.) scorn
+[gardlacz]gardłacz (PL) : (rz.) pouter
+[gardlo]gardło (PL) : (rz.) gizzard; (rz.) gorge; (rz.) gullet; (rz.) pharynx; (rz.) throat
+[gardlowac]gardłować (PL) : (cz.) declaim
+[gardlowy]gardłowy (PL) : (p.) guttural; (p.) husky; (p.) pharyngeal; (p.) throaty
+[gargulec]gargulec (PL) : (rz.) gargoyle
+[garkuchnia]garkuchnia (PL) : (rz.) chop-house; (rz.) cook-shop
+[garmazeria]garmażeria (PL) : (rz.) deli; (rz.) delicatessen
+[garncarski]garncarski (PL) : (p.) fictile
+[garncarstwo]garncarstwo (PL) : (rz.) pottery
+[garncarz]garncarz (PL) : (rz.) potter
+[garnek]garnek (PL) : (rz.) crock; (rz.) jug; (rz.) little; (rz.) pan; (rz.) pot
+[garniec]garniec (PL) : (rz.) gallon; (rz.) peck
+[garnieryt]garnieryt (PL) : (rz.) garnierite
+[garnirowanie]garnirowanie (PL) : (rz.) trimming
+[garnirowac]garnirować (PL) : (cz.) garnish; (cz.) trim
+[garnitur]garnitur (PL) : (rz.) garniture; (rz.) suit
+[garnizon]garnizon (PL) : (rz.) garrison
+[garnuszek]garnuszek (PL) : (rz.) cup; (rz.) little
+[garsonka]garsonka (PL) : (rz.) costume; (rz.) shingle; (rz.) suit; (rz.) two-piece
+[garstka]garstka (PL) : (rz.) divot; (rz.) handful
+[garlacz]garłacz (PL) : (rz.) discharger
+[garsc]garść (PL) : (rz.) handful
+[gasidlo]gasidło (PL) : (rz.) snout
+[gasik]gasik (PL) : (rz.) spark-quench
+[gasic]gasić (PL) : (cz.) eclipse; (cz.) extinguish; (cz.) kill; (cz.) quench; (cz.) slake; (cz.) stifle
+[gastronom]gastronom (PL) : (rz.) gastronome
+[gastronomia]gastronomia (PL) : (rz.) catering; (rz.) gastronomy
+[gastryczny]gastryczny (PL) : (p.) gastric
+[gatunek]gatunek (PL) : (rz.) brand; (rz.) degree; (rz.) genre; (rz.) genus; (rz.) grade; (rz.) kind; (rz.) quality; (rz.) sort; (rz.) species; (rz.) standard
+[gatunkowac]gatunkować (PL) : (cz.) sort
+[gatunkowy]gatunkowy (PL) : (p.) specific
+[gaus]gaus (PL) : (rz.) gauss
+[gawiedz]gawiedź (PL) : (rz.) mob; (rz.) rabble
+[gaworzyc]gaworzyć (PL) : (cz.) babble; (cz.) coo; (cz.) prattle
+[gawot]gawot (PL) : (rz.) gavotte
+[gawron]gawron (PL) : (rz.) gaper; (rz.) gawk; (rz.) rook
+[gaweda]gawęda (PL) : (rz.) chat; (rz.) gossip
+[gawedziarski]gawędziarski (PL) : (p.) chatty; (p.) narrative
+[gawedziarz]gawędziarz (PL) : (rz.) raconteur; (rz.) storyteller; (rz.) story-teller
+[gawedzic]gawędzić (PL) : (cz.) banter; (cz.) chat; (cz.) gossip; (cz.) tattle
+[gaz]gaz (PL) : (rz.) gas
+[gaza]gaza (PL) : (rz.) cheesecloth; (rz.) gauze; (rz.) mull
+[gazda]gazda (PL) : (rz.) farmer
+[gazeciarz]gazeciarz (PL) : (rz.) newsagent; (rz.) newsboy; (rz.) news-boy; (rz.) newsman; (rz.) paperboy
+[gazela]gazela (PL) : (rz.) gazelle
+[gazeta]gazeta (PL) : (rz.) gazette; (rz.) news; (rz.) newspaper; (rz.) paper
+[gazetka]gazetka (PL) : (rz.) bulletin; (rz.) newspaper
+[gazik]gazik (PL) : (rz.) jeep; (rz.) swab
+[gazociag]gazociąg (PL) : (rz.) pipeline
+[gazolina]gazolina (PL) : (rz.) petrol
+[gazometr]gazometr (PL) : (rz.) gas-meter
+[gazomierz]gazomierz (PL) : (rz.) gas-meter
+[gazoszczelny]gazoszczelny (PL) : (p.) gastight; (p.) gas-tight
+[gazowanie]gazowanie (PL) : (rz.) gassing; (rz.) speeding
+[gazowany]gazowany (PL) : (p.) gassy
+[gazowac]gazować (PL) : (cz.) aerate; (cz.) gas
+[gazownia]gazownia (PL) : (rz.) gasworks; (rz.) gas-works
+[gazownictwo]gazownictwo (PL) : (rz.) gas
+[gazowy]gazowy (PL) : (p.) gaseous; (p.) gassy
+[gazu]gazu (PL) : (rz.) blow-out
+[gazyfikacja]gazyfikacja (PL) : (rz.) gasification
+[gac]gać (PL) : (rz.) reach
+[galgan]gałgan (PL) : (rz.) rag
+[galganek]gałganek (PL) : (rz.) rag
+[galganiarz]gałganiarz (PL) : (rz.) ragman
+[galganski]gałgański (PL) : (p.) mean
+[galganstwo]gałgaństwo (PL) : (rz.) riffraff
+[galka]gałka (PL) : (rz.) ball; (rz.) knob; (rz.) knurl; (rz.) marble; (rz.) pommel; (rz.) rundle; (rz.) stud
+[galazka]gałązka (PL) : (rz.) branch; (rz.) spray; (rz.) sprig; (rz.) twig; (rz.) wattle
+[galaz]gałąź (PL) : (rz.) bough; (rz.) branch; (rz.) leg; (rz.) limb; (rz.) offshoot; (rz.) twig
+[galezatka]gałęzatka (PL) : (rz.) seaweed
+[galezisty]gałęzisty (PL) : (p.) branchy; (p.) ramose; (p.) ramous
+[gasnica]gaśnica (PL) : (rz.) extinguisher; (rz.) fire-extinguisher
+[gasniecie]gaśniecie (PL) : (rz.) extinction
+[gaznik]gaźnik (PL) : (rz.) carburettor
+[gaza]gaża (PL) : (rz.) salary
+[gbur]gbur (PL) : (rz.) boor; (rz.) churl; (rz.) clodhopper; (rz.) curmudgeon; (rz.) loon; (rz.) lout; (rz.) yokel
+[gburowatosc]gburowatość (PL) : (rz.) boorishness; (rz.) surliness
+[gburowaty]gburowaty (PL) : (p.) boorish; (p.) gruff; (p.) rugged; (p.) surly
+[gdakanie]gdakanie (PL) : (rz.) cackle; (rz.) cackling; (rz.) chuck; (rz.) cluck
+[gdakac]gdakać (PL) : (cz.) cackle; (cz.) chuck; (cz.) cluck
+[gderanie]gderanie (PL) : (rz.) grouch; (rz.) grouse; (rz.) growl; (rz.) grumble
+[gderac]gderać (PL) : (cz.) grouch; (cz.) growl; (cz.) grumble; (cz.) nag
+[gderliwosc]gderliwość (PL) : (rz.) grumpiness
+[gderliwy]gderliwy (PL) : (p.) bad-tempered; (p.) grumpy; (p.) morose
+[gdy]gdy (PL) : (spójnik) as
+[gdyby]gdyby (PL) : (spójnik) if
+[gdyz]gdyż (PL) : (spójnik) because; (spójnik) for
+[gdzie]gdzie (PL) : (p-sł.) elsewhere; (p-sł.) where; (p-sł.) wherever
+[gdziekolwiek]gdziekolwiek (PL) : (p-sł.) anyplace; (p-sł.) anywhere; (p-sł.) elsewhere; (p-sł.) everywhere; (p-sł.) where; (p-sł.) wherever
+[gdzies]gdzieś (PL) : (p-sł.) anyplace; (p-sł.) anywhere; (p-sł.) hereabouts; (p-sł.) someplace; (p-sł.) somewhere
+[gdziez]gdzież (PL) : (p-sł.) where
+[gehenna]gehenna (PL) : (rz.) ordeal
+[gej]gej (PL) : (rz.) fairy; (rz.) gay
+[gejsza]gejsza (PL) : (rz.) geisha
+[gejtawa]gejtawa (PL) : (rz.) brail
+[gejzer]gejzer (PL) : (rz.) geyser; (rz.) gush; (rz.) gusher
+[gem]gem (PL) : (rz.) game
+[gen]gen (PL) : (rz.) gene
+[gencjana]gencjana (PL) : (rz.) gentian
+[genealogia]genealogia (PL) : (rz.) genealogy; (rz.) lineage
+[genealogiczny]genealogiczny (PL) : (p.) genealogical
+[generacja]generacja (PL) : (rz.) generation
+[generalicja]generalicja (PL) : (rz.) generals
+[generalizacja]generalizacja (PL) : (rz.) generalization
+[generalizowac]generalizować (PL) : (cz.) generalize
+[generalnie]generalnie (PL) : (p-sł.) generally
+[generalny]generalny (PL) : (p.) general
+[generator]generator (PL) : (rz.) generator; (rz.) oscillator
+[generatywny]generatywny (PL) : (p.) generative
+[general]generał (PL) : (rz.) general
+[generowac]generować (PL) : (cz.) generate
+[genetycznie]genetycznie (PL) : (p-sł.) genetically
+[genetyczny]genetyczny (PL) : (p.) generic; (p.) genetic
+[genetyk]genetyk (PL) : (rz.) geneticist
+[genetyka]genetyka (PL) : (rz.) genetics; (rz.) physics
+[geneza]geneza (PL) : (rz.) genesis; (rz.) origin; (rz.) origins
+[genialnie]genialnie (PL) : (p-sł.) genially; (p-sł.) ingeniously
+[genialnosc]genialność (PL) : (rz.) genius; (rz.) ingeniousness
+[genialny]genialny (PL) : (p.) brilliant; (p.) wheezy
+[genitalia]genitalia (PL) : (rz.) genitals
+[geniusz]geniusz (PL) : (rz.) genie; (rz.) genius
+[genom]genom (PL) : (rz.) genome
+[genotyp]genotyp (PL) : (rz.) genotype
+[genotypowy]genotypowy (PL) : (p.) genotyping
+[genowy]genowy (PL) : (p.) genetic
+[geny]geny (PL) : (rz.) genes
+[geocentryczny]geocentryczny (PL) : (p.) geocentric
+[geochemia]geochemia (PL) : (rz.) geochemistry
+[geoda]geoda (PL) : (rz.) geode
+[geodeta]geodeta (PL) : (rz.) geodesist; (rz.) surveyor
+[geodezja]geodezja (PL) : (rz.) geodesy
+[geodezyjny]geodezyjny (PL) : (p.) geodesic; (p.) geodetic
+[geodynamika]geodynamika (PL) : (rz.) geodynamics
+[geofizyczny]geofizyczny (PL) : (p.) geophysical
+[geofizyk]geofizyk (PL) : (rz.) geophysicist
+[geofizyka]geofizyka (PL) : (rz.) geophysics
+[geofon]geofon (PL) : (rz.) geophone
+[geograf]geograf (PL) : (rz.) geographer
+[geografia]geografia (PL) : (rz.) geography
+[geograficznie]geograficznie (PL) : (p-sł.) geographically
+[geograficzny]geograficzny (PL) : (p.) geographic; (p.) geographical
+[geolog]geolog (PL) : (rz.) geologist; (rz.) geology
+[geologia]geologia (PL) : (rz.) geology; (rz.) geomorphology
+[geologicznie]geologicznie (PL) : (p-sł.) geologically
+[geologiczny]geologiczny (PL) : (p.) geologic; (p.) geological
+[geomagnetyczny]geomagnetyczny (PL) : (p.) geomagnetic
+[geomagnetyzm]geomagnetyzm (PL) : (rz.) geomagnetism
+[geometra]geometra (PL) : (rz.) geometer
+[geometria]geometria (PL) : (rz.) geometry
+[geometrycznie]geometrycznie (PL) : (p-sł.) geometrically
+[geometryczny]geometryczny (PL) : (p.) geometric; (p.) geometrical
+[geomorfologia]geomorfologia (PL) : (rz.) geomorphology
+[geopolityczny]geopolityczny (PL) : (p.) geopolitical
+[geopolityka]geopolityka (PL) : (rz.) geopolitics
+[georginia]georginia (PL) : (rz.) dahlia
+[geotermiczny]geotermiczny (PL) : (p.) geothermal
+[geotropizm]geotropizm (PL) : (rz.) geotropism
+[gepard]gepard (PL) : (rz.) cheetah
+[geranium]geranium (PL) : (rz.) geranium
+[geriatra]geriatra (PL) : (rz.) geriatrician
+[geriatria]geriatria (PL) : (rz.) geriatrics
+[geriatryczny]geriatryczny (PL) : (p.) geriatric
+[german]german (PL) : (rz.) germanium
+[gerontologia]gerontologia (PL) : (rz.) gerontology
+[gest]gest (PL) : (rz.) gesture; (rz.) movement; (rz.) sign
+[gestia]gestia (PL) : (rz.) competence
+[gestykulacja]gestykulacja (PL) : (rz.) gesticulation
+[gestykulowac]gestykulować (PL) : (cz.) gesticulate; (cz.) saw
+[geszefciarstwo]geszefciarstwo (PL) : (rz.) profiteering
+[geszeft]geszeft (PL) : (rz.) racket; (rz.) speculation
+[getry]getry (PL) : (rz.) gaiters; (rz.) leggings
+[getto]getto (PL) : (rz.) ghetto
+[getyt]getyt (PL) : (rz.) goethite
+[gibki]gibki (PL) : (p.) flexible; (p.) lithe; (p.) supple
+[gibkosc]gibkość (PL) : (rz.) flexibility; (rz.) suppleness
+[gibon]gibon (PL) : (rz.) gibbon
+[giermek]giermek (PL) : (rz.) armiger; (rz.) armour-bearer; (rz.) henchman; (rz.) squire
+[giez]giez (PL) : (rz.) gadfly; (rz.) horsefly
+[gielda]giełda (PL) : (rz.) bourse; (rz.) exchange; (rz.) reline
+[gieldziarz]giełdziarz (PL) : (rz.) stockjobber
+[gig]gig (PL) : (rz.) gig
+[gigabajt]gigabajt (PL) : (rz.) gig; (rz.) gigabyte; (rz.) gigabytes
+[gigaherc]gigaherc (PL) : (rz.) gigahertz
+[gigant]gigant (PL) : (rz.) giant; (rz.) titan
+[gigantycznie]gigantycznie (PL) : (p-sł.) gigantically; (p-sł.) immensely
+[gigantyczny]gigantyczny (PL) : (p.) giant; (p.) gigantic
+[gil]gil (PL) : (rz.) bullfinch
+[gildia]gildia (PL) : (rz.) gild; (rz.) guild
+[gilosza]gilosza (PL) : (rz.) guilloche
+[gilotyna]gilotyna (PL) : (rz.) guillotine
+[gilotynowanie]gilotynowanie (PL) : (rz.) guillotine
+[gilza]gilza (PL) : (rz.) thimble
+[gimnastyczny]gimnastyczny (PL) : (p.) gymnastic
+[gimnastyk]gimnastyk (PL) : (rz.) gymnast
+[gimnastyka]gimnastyka (PL) : (rz.) gym; (rz.) gymnast; (rz.) gymnastics
+[gimnastykowac]gimnastykować (PL) : (cz.) exercise; (cz.) exercises
+[gimnazjalny]gimnazjalny (PL) : (p.) secondary-school
+[gimnazjum]gimnazjum (PL) : (rz.) college; (rz.) gymnasium
+[ginekolog]ginekolog (PL) : (rz.) gynaecologist
+[ginekologia]ginekologia (PL) : (rz.) gynaecology
+[ginac]ginąć (PL) : (cz.) die; (cz.) disappear; (cz.) perish
+[gips]gips (PL) : (rz.) cast; (rz.) daub; (rz.) gesso; (rz.) gypsum; (rz.) plaster
+[gipsiarz]gipsiarz (PL) : (rz.) plasterer
+[gipsowanie]gipsowanie (PL) : (rz.) gypsum; (rz.) plaster
+[gipsowac]gipsować (PL) : (cz.) plaster
+[girlanda]girlanda (PL) : (rz.) festoon; (rz.) garland; (rz.) wreath
+[girlsa]girlsa (PL) : (rz.) girls
+[giroskop]giroskop (PL) : (rz.) gyroscope
+[girostat]girostat (PL) : (rz.) gyrostat
+[gisernia]gisernia (PL) : (rz.) foundry
+[gitara]gitara (PL) : (rz.) guitar
+[gitarzysta]gitarzysta (PL) : (rz.) guitarist
+[giac]giąć (PL) : (cz.) bend
+[giecie]gięcie (PL) : (rz.) bending
+[gietarka]giętarka (PL) : (rz.) bender
+[gietki]giętki (PL) : (p.) elastic; (p.) flexible; (p.) lissom; (p.) lithe; (p.) malleable; (p.) nimble; (p.) pliable; (p.) pliant; (p.) supple; (p.) willowy
+[gietko]giętko (PL) : (p-sł.) flexibly; (p-sł.) supplely
+[gietkosc]giętkość (PL) : (rz.) flexibility; (rz.) pliability; (rz.) pliancy; (rz.) suppleness
+[glacjologia]glacjologia (PL) : (rz.) glaciology
+[gladiator]gladiator (PL) : (rz.) gladiator
+[gladiatorski]gladiatorski (PL) : (p.) gladiatorial
+[gladiolus]gladiolus (PL) : (rz.) sword-grass
+[glansowac]glansować (PL) : (cz.) polish
+[glazura]glazura (PL) : (rz.) glaze; (rz.) varnish
+[glazurowac]glazurować (PL) : (cz.) glaze
+[gleba]gleba (PL) : (rz.) glebe; (rz.) mould; (rz.) soil
+[gleby]gleby (PL) : (rz.) desalination
+[glejt]glejt (PL) : (rz.) safe-conduct
+[glejta]glejta (PL) : (rz.) litharge
+[glicerol]glicerol (PL) : (rz.) glycerol
+[gliceryna]gliceryna (PL) : (rz.) glycerine
+[glif]glif (PL) : (rz.) embrasure; (rz.) glyph; (rz.) splay
+[glikogen]glikogen (PL) : (rz.) glycogen
+[glikol]glikol (PL) : (rz.) glycol
+[glikoza]glikoza (PL) : (rz.) dextrose; (rz.) glucose
+[glin]glin (PL) : (rz.) aluminium
+[glina]glina (PL) : (rz.) clay; (rz.) cop
+[glinian]glinian (PL) : (rz.) aluminates
+[glinianka]glinianka (PL) : (rz.) clay-pit
+[gliniany]gliniany (PL) : (p.) aluminates; (p.) clays; (p.) earthen; (p.) fictile
+[gliniarz]gliniarz (PL) : (rz.) cop; (rz.) copper
+[gliniasty]gliniasty (PL) : (p.) argillaceous; (p.) clayey; (p.) clayish
+[glinka]glinka (PL) : (rz.) clay
+[glista]glista (PL) : (rz.) earthworm; (rz.) earth-worm; (rz.) lobworm; (rz.) muckworm; (rz.) roundworm
+[glob]glob (PL) : (rz.) globe; (rz.) orb
+[globalizacja]globalizacja (PL) : (rz.) globalization
+[globalnie]globalnie (PL) : (p-sł.) globally
+[globalny]globalny (PL) : (p.) all-in; (p.) global
+[globtroter]globtroter (PL) : (rz.) globetrotter
+[globula]globula (PL) : (rz.) globule
+[globulina]globulina (PL) : (rz.) globulin
+[globus]globus (PL) : (rz.) globe
+[glon]glon (PL) : (rz.) alga; (rz.) algae; (rz.) chunk
+[glonowy]glonowy (PL) : (p.) algal
+[gloria]gloria (PL) : (rz.) glory
+[gloryfikacja]gloryfikacja (PL) : (rz.) glorification
+[gloryfikowac]gloryfikować (PL) : (cz.) glorify; (cz.) laud
+[glosariusz]glosariusz (PL) : (rz.) glossary; (rz.) lexicon; (rz.) vocabulary
+[glukoza]glukoza (PL) : (rz.) glucose
+[glutamina]glutamina (PL) : (rz.) glutamine
+[glutaminian]glutaminian (PL) : (rz.) glutamate
+[glutation]glutation (PL) : (rz.) glutathione
+[gluten]gluten (PL) : (rz.) gluten
+[gledzic]ględzić (PL) : (cz.) harp; (cz.) jaw; (cz.) waffle
+[gmach]gmach (PL) : (rz.) building; (rz.) edifice; (rz.) fabric
+[gmatwanie]gmatwanie (PL) : (rz.) interlacement
+[gmatwanina]gmatwanina (PL) : (rz.) embroilment; (rz.) jumble; (rz.) maze; (rz.) mix-up; (rz.) tangle
+[gmatwac]gmatwać (PL) : (cz.) complicate; (cz.) complicated; (cz.) confuse; (cz.) entangle; (cz.) tangle
+[gmerac]gmerać (PL) : (cz.) fumble; (cz.) poke; (cz.) pry
+[gmin]gmin (PL) : (rz.) populace
+[gmina]gmina (PL) : (rz.) commune; (rz.) community; (rz.) municipality; (rz.) parish
+[gminny]gminny (PL) : (p.) common; (p.) communal; (p.) municipal
+[gnat]gnat (PL) : (rz.) bone
+[gnac]gnać (PL) : (cz.) dart; (cz.) run; (cz.) rush; (cz.) scamper; (cz.) speed; (cz.) stampede; (cz.) streak
+[gnejs]gnejs (PL) : (rz.) gneiss
+[gniadosz]gniadosz (PL) : (rz.) bay
+[gniady]gniady (PL) : (p.) bay
+[gniazdko]gniazdko (PL) : (rz.) jack; (rz.) socket
+[gniazdo]gniazdo (PL) : (rz.) input; (rz.) nest; (rz.) outlet; (rz.) receptacle; (rz.) seating; (rz.) slot; (rz.) socket; (rz.) spur
+[gniazdowac]gniazdować (PL) : (cz.) nest
+[gnicie]gnicie (PL) : (rz.) decay; (rz.) digestion; (rz.) fester; (rz.) putrefaction; (rz.) putrescence; (rz.) rot
+[gnida]gnida (PL) : (rz.) louse; (rz.) nit
+[gniecenie]gniecenie (PL) : (rz.) crease; (rz.) crushing; (rz.) pressure
+[gniew]gniew (PL) : (rz.) aggravation; (rz.) anger; (rz.) bisque; (rz.) choler; (rz.) rage; (rz.) resentment; (rz.) spite; (rz.) wrath
+[gniewac]gniewać (PL) : (cz.) anger; (cz.) resent
+[gniewliwosc]gniewliwość (PL) : (rz.) fretfulness; (rz.) irascibility
+[gniewliwy]gniewliwy (PL) : (p.) irritable
+[gniewnie]gniewnie (PL) : (p-sł.) angrily; (p-sł.) crossly
+[gniewny]gniewny (PL) : (p.) angriest; (p.) angry; (p.) irascible; (p.) irate; (p.) irritable; (p.) testy; (p.) wrathful; (p.) wroth
+[gniesc]gnieść (PL) : (cz.) crease; (cz.) crumple; (cz.) crush; (cz.) knead; (cz.) mash; (cz.) press; (cz.) ruffle; (cz.) squash; (cz.) stifle
+[gniezdzic]gnieździć (PL) : (cz.) nest; (cz.) nestle
+[gniezdzenie]gnieżdżenie (PL) : (rz.) nest
+[gnilcowy]gnilcowy (PL) : (p.) scorbutic
+[gnilec]gnilec (PL) : (rz.) scurvy
+[gnilny]gnilny (PL) : (p.) putrefactive; (p.) putrid
+[gnic]gnić (PL) : (cz.) decay; (cz.) decompose; (cz.) fester; (cz.) moulder; (cz.) putrefy; (cz.) ret; (cz.) rot
+[gnoic]gnoić (PL) : (cz.) rot
+[gnojek]gnojek (PL) : (rz.) stinker
+[gnojenie]gnojenie (PL) : (rz.) dung
+[gnojowisko]gnojowisko (PL) : (rz.) dunghill
+[gnojownia]gnojownią (PL) : (rz.) dunghill
+[gnom]gnom (PL) : (rz.) gnome
+[gnomiczny]gnomiczny (PL) : (p.) gnomic
+[gnomon]gnomon (PL) : (rz.) gnomon
+[gnostycyzm]gnostycyzm (PL) : (rz.) gnosis
+[gnu]gnu (PL) : (rz.) gnu
+[gnusnosc]gnuśność (PL) : (rz.) sloth
+[gnusny]gnuśny (PL) : (p.) idle; (p.) lazy; (p.) slothful; (p.) sluggish
+[gnoj]gnój (PL) : (rz.) bully; (rz.) dune; (rz.) dung; (rz.) manure; (rz.) muck
+[gnebiciel]gnębiciel (PL) : (rz.) taskmaster
+[gnebicielski]gnębicielski (PL) : (p.) oppressive
+[gnebienie]gnębienie (PL) : (rz.) oppression
+[gnebic]gnębić (PL) : (cz.) afflict; (cz.) depress; (cz.) harass; (cz.) oppress; (cz.) victimize; (cz.) worry
+[gobelin]gobelin (PL) : (rz.) arras; (rz.) tapestry
+[gocki]gocki (PL) : (p.) gothic
+[godet]godet (PL) : (rz.) gore
+[godnie]godnie (PL) : (p-sł.) appropriately; (p-sł.) worthily
+[godnosc]godność (PL) : (rz.) dignity; (rz.) peerage
+[godny]godny (PL) : (p.) condign; (p.) deserving; (p.) dignified; (p.) portly; (p.) stately; (p.) worthy
+[godowy]godowy (PL) : (p.) nuptial
+[gody]gody (PL) : (rz.) mating
+[godzenie]godzenie (PL) : (rz.) work
+[godzien]godzien (PL) : (p.) worthy
+[godzina]godzina (PL) : (rz.) h-hour; (rz.) hour; (rz.) hours; (rz.) period; (rz.) time
+[godzinka]godzinka (PL) : (rz.) hour
+[godzinowy]godzinowy (PL) : (p.) hourly
+[godziwosc]godziwość (PL) : (rz.) fairness
+[godziwy]godziwy (PL) : (p.) decent; (p.) fair
+[godzic]godzić (PL) : (cz.) agree; (cz.) hire; (cz.) placate; (cz.) reconcile; (cz.) square
+[godlo]godło (PL) : (rz.) crest; (rz.) device; (rz.) emblem; (rz.) logo; (rz.) sign; (rz.) symbol
+[gofr]gofr (PL) : (rz.) wafer; (rz.) waffle
+[gofrowanie]gofrowanie (PL) : (rz.) waffles
+[gofrowac]gofrować (PL) : (cz.) emboss
+[gogle]gogle (PL) : (rz.) glasses; (rz.) goggle; (rz.) goggles
+[gogus]goguś (PL) : (rz.) fop
+[goic]goić (PL) : (cz.) heal
+[goj]goj (PL) : (rz.) gentile
+[gojenie]gojenie (PL) : (rz.) healing
+[gokart]gokart (PL) : (rz.) go-cart; (rz.) go-kart; (rz.) kart
+[gol]gol (PL) : (rz.) goal
+[golarka]golarka (PL) : (rz.) razor; (rz.) shaver
+[golarz]golarz (PL) : (rz.) barber; (rz.) shaver
+[golas]golas (PL) : (rz.) nude
+[golec]golec (PL) : (rz.) tatterdemalion
+[golenie]golenie (PL) : (rz.) legs; (rz.) shave; (rz.) shaving
+[golen]goleń (PL) : (rz.) shank; (rz.) shin; (rz.) shinbone; (rz.) shin-bone
+[golf]golf (PL) : (rz.) golf
+[golfista]golfista (PL) : (rz.) golfer
+[golibroda]golibroda (PL) : (rz.) barber
+[golizna]golizna (PL) : (rz.) gall; (rz.) nakedness; (rz.) pelt
+[golic]golić (PL) : (cz.) shave
+[golonka]golonka (PL) : (rz.) hock; (rz.) knuckle; (rz.) pigs
+[gonada]gonada (PL) : (rz.) gonad
+[gondola]gondola (PL) : (rz.) gondola; (rz.) nacelle
+[gong]gong (PL) : (rz.) gong
+[goniec]goniec (PL) : (rz.) bishop; (rz.) courier; (rz.) errand-boy; (rz.) messenger; (rz.) newsboy; (rz.) page; (rz.) runner
+[goniometria]goniometria (PL) : (rz.) goniometry
+[gonitwa]gonitwa (PL) : (rz.) ado; (rz.) chase; (rz.) horserace; (rz.) horse-race; (rz.) pursuit; (rz.) scamper; (rz.) scramble
+[gonic]gonić (PL) : (cz.) chase; (cz.) hunt; (cz.) race
+[gonokok]gonokok (PL) : (rz.) gonococcus
+[gont]gont (PL) : (rz.) shingle
+[gorczyca]gorczyca (PL) : (rz.) mustard
+[gorczyczny]gorczyczny (PL) : (p.) mustard
+[gorliwie]gorliwie (PL) : (p-sł.) ardently; (p-sł.) devoutly; (p-sł.) eagerly; (p-sł.) earnestly; (p-sł.) fervently; (p-sł.) zealously
+[gorliwiec]gorliwiec (PL) : (rz.) zealot
+[gorliwosc]gorliwość (PL) : (rz.) ardency; (rz.) avidity; (rz.) dedication; (rz.) devoutness; (rz.) eagerness; (rz.) fervour; (rz.) mettle; (rz.) warmth; (rz.) zeal; (rz.) zealousness
+[gorliwy]gorliwy (PL) : (p.) alight; (p.) ardent; (p.) assiduous; (p.) avid; (p.) devout; (p.) eager; (p.) earnest; (p.) fervid; (p.) keen; (p.) strenuous; (p.) warm; (p.) zealous; (p.) zealousness
+[gors]gors (PL) : (rz.) chest; (rz.) corsage; (rz.) plastron
+[gorset]gorset (PL) : (rz.) corset; (rz.) girdle
+[gorszyc]gorszyć (PL) : (cz.) scandalize; (cz.) shock
+[gorszacy]gorszący (PL) : (p.) scandalous
+[gorycz]gorycz (PL) : (rz.) acrimony; (rz.) bile; (rz.) bitterness
+[goryczka]goryczka (PL) : (rz.) gentian
+[goryczkowy]goryczkowy (PL) : (p.) bitter
+[goryl]goryl (PL) : (rz.) enforcer; (rz.) gorilla
+[gorzala]gorzała (PL) : (rz.) booze; (rz.) hooch
+[gorzalka]gorzałka (PL) : (rz.) booze; (rz.) whisky
+[gorzelnia]gorzelnia (PL) : (rz.) distillery
+[gorzelnictwo]gorzelnictwo (PL) : (rz.) distillery
+[gorzelnik]gorzelnik (PL) : (rz.) distiller
+[gorzec]gorzeć (PL) : (cz.) burn
+[gorzki]gorzki (PL) : (p.) bitter
+[gorzkniec]gorzknieć (PL) : (cz.) sour
+[gorzko]gorzko (PL) : (p-sł.) bitterly; (p-sł.) sorely
+[gorzkosc]gorzkość (PL) : (rz.) bitterness
+[goraco]gorąco (PL) : (rz.) heat
+[goracokrwisty]gorącokrwisty (PL) : (p.) hot-blooded
+[goracy]gorący (PL) : (p.) heated; (p.) hot
+[goraczka]gorączka (PL) : (rz.) ague; (rz.) fever; (rz.) temperature
+[goraczkotworczy]gorączkotwórczy (PL) : (p.) pyretic
+[goraczkowo]gorączkowo (PL) : (p-sł.) fervently; (p-sł.) feverishly; (p-sł.) frantically
+[goraczkowosc]gorączkowość (PL) : (rz.) feverishness
+[goraczkowy]gorączkowy (PL) : (p.) aguish; (p.) febrile; (p.) feverish; (p.) frantic; (p.) hectic; (p.) pyretic
+[gospoda]gospoda (PL) : (rz.) inn; (rz.) pub
+[gospodarczy]gospodarczy (PL) : (p.) economic; (p.) economical
+[gospodarka]gospodarka (PL) : (rz.) economics; (rz.) economy; (rz.) farming
+[gospodarnosc]gospodarność (PL) : (rz.) economy; (rz.) thrift; (rz.) thriftiness
+[gospodarny]gospodarny (PL) : (p.) economic; (p.) economical; (p.) notable; (p.) thrifty
+[gospodarowanie]gospodarowanie (PL) : (rz.) farming; (rz.) housekeeping; (rz.) management
+[gospodarowac]gospodarować (PL) : (cz.) administer; (cz.) farm; (cz.) husband; (cz.) manage
+[gospodarstwo]gospodarstwo (PL) : (rz.) farm; (rz.) hacienda; (rz.) homestead; (rz.) household; (rz.) ranch
+[gospodarz]gospodarz (PL) : (rz.) boss; (rz.) entertainer; (rz.) farmer; (rz.) host; (rz.) husbandman; (rz.) landlord; (rz.) master; (rz.) steward
+[gospodarzenie]gospodarzenie (PL) : (rz.) running
+[gospodyni]gospodyni (PL) : (rz.) housekeeper; (rz.) housewife
+[gosposia]gosposia (PL) : (rz.) housekeeper; (rz.) housemaid; (rz.) housewife
+[goszczenie]goszczenie (PL) : (rz.) host
+[gotowanie]gotowanie (PL) : (rz.) boiling; (rz.) cooking; (rz.) simmer
+[gotowac]gotować (PL) : (cz.) boil; (cz.) cook; (cz.) poach; (cz.) simmer; (cz.) stew
+[gotowosc]gotowość (PL) : (rz.) alacrity; (rz.) alert; (rz.) eagerness; (rz.) promptitude; (rz.) readiness; (rz.) standby; (rz.) stand-by; (rz.) willingness
+[gotowy]gotowy (PL) : (p.) as-is; (p.) cut-and-dried; (p.) disposed; (p.) finished; (p.) off-the-shelf; (p.) prompt; (p.) readied; (p.) ready; (p.) readymade; (p.) ready-made; (p.) set; (p.) yare
+[gotycki]gotycki (PL) : (p.) gothic
+[gotyk]gotyk (PL) : (rz.) gothic
+[gotow]gotów (PL) : (p.) prepared; (p.) ready
+[gotowka]gotówka (PL) : (rz.) cash; (rz.) money
+[gotowkowy]gotówkowy (PL) : (p.) cash
+[golda]gołda (PL) : (rz.) gold
+[gololedz]gołoledź (PL) : (rz.) glaze
+[goloslowny]gołosłowny (PL) : (p.) emptiest; (p.) empty; (p.) groundless; (p.) unwarranted; (p.) vain
+[golowas]gołowąs (PL) : (rz.) cub
+[goly]goły (PL) : (p.) bare; (p.) naked; (p.) nude
+[golab]gołąb (PL) : (rz.) dove; (rz.) pigeon
+[golabek]gołąbek (PL) : (rz.) dove; (rz.) pigeon
+[golebiarz]gołębiarz (PL) : (rz.) sniper
+[golebica]gołębica (PL) : (rz.) dove
+[golebnik]gołębnik (PL) : (rz.) cote; (rz.) dovecot; (rz.) dovecote; (rz.) pigeon-home
+[gosciec]gościec (PL) : (rz.) gout; (rz.) rheumatism
+[goscina]gościna (PL) : (rz.) hospitality; (rz.) sojourn; (rz.) visit
+[gosciniec]gościniec (PL) : (rz.) fairing; (rz.) highroad; (rz.) highway
+[goscinnosc]gościnność (PL) : (rz.) hospitality
+[goscinny]gościnny (PL) : (p.) hospitable
+[goscic]gościć (PL) : (cz.) entertain; (cz.) feast; (cz.) host; (cz.) regale; (cz.) stay; (cz.) treat
+[gosc]gość (PL) : (rz.) caller; (rz.) chap; (rz.) coves; (rz.) cuss; (rz.) diner; (rz.) fellow; (rz.) guest; (rz.) guy; (rz.) inmate; (rz.) patron; (rz.) visitant; (rz.) visitor
+[gosccowy]gośćcowy (PL) : (p.) rheumatic
+[gozdzik]goździk (PL) : (rz.) carnation; (rz.) clove; (rz.) gillyflower; (rz.) pink
+[gra]gra (PL) : (rz.) acting; (rz.) game; (rz.) play; (rz.) sweepstakes
+[grab]grab (PL) : (rz.) hornbeam
+[graba]graba (PL) : (rz.) mitt; (rz.) paw
+[grabarz]grabarz (PL) : (rz.) gravedigger; (rz.) mortician; (rz.) scavenger-beetle; (rz.) sexton; (rz.) undertaker
+[grabiarka]grabiarka (PL) : (rz.) haymaker; (rz.) hay-maker; (rz.) hay-rake
+[grabie]grabie (PL) : (rz.) hornbeam; (rz.) rake
+[grabienie]grabienie (PL) : (rz.) freezing; (rz.) rake
+[grabiez]grabież (PL) : (rz.) depredation; (rz.) loot; (rz.) plunder; (rz.) predation; (rz.) robbery; (rz.) sack; (rz.) spoil; (rz.) spoliation
+[grabiezca]grabieżca (PL) : (rz.) harrier; (rz.) plunderer; (rz.) robber
+[grabiezczy]grabieżczy (PL) : (p.) predatory
+[grabic]grabić (PL) : (cz.) grab; (cz.) loot; (cz.) plunder; (cz.) prey; (cz.) rake; (cz.) sack
+[grabki]grabki (PL) : (rz.) rakes
+[graca]graca (PL) : (rz.) hoe
+[graciarnia]graciarnia (PL) : (rz.) lumber
+[gracja]gracja (PL) : (rz.) grace
+[gracowac]gracować (PL) : (cz.) hoe
+[gracz]gracz (PL) : (rz.) bowler; (rz.) gambler; (rz.) gamester; (rz.) player
+[grad]grad (PL) : (rz.) hail; (rz.) hailstorm; (rz.) spatter; (rz.) volley
+[gradacja]gradacja (PL) : (rz.) gradation
+[gradient]gradient (PL) : (rz.) lapse
+[gradobicie]gradobicie (PL) : (rz.) hail; (rz.) hailstorm
+[gradowy]gradowy (PL) : (p.) grad
+[gradzina]gradzina (PL) : (rz.) hail-stone
+[graf]graf (PL) : (rz.) graph
+[graffiti]graffiti (PL) : (rz.) graffiti
+[graficznie]graficznie (PL) : (p-sł.) graphically
+[graficzny]graficzny (PL) : (p.) diagrammatic; (p.) graphic; (p.) graphical
+[grafik]grafik (PL) : (rz.) graphic; (rz.) rota
+[grafika]grafika (PL) : (rz.) engraving; (rz.) graffiti; (rz.) graphic; (rz.) graphics; (rz.) image
+[grafion]grafion (PL) : (rz.) drawing-pen; (rz.) ruling; (rz.) style
+[grafit]grafit (PL) : (rz.) black-lead; (rz.) graphite; (rz.) lead
+[grafitowanie]grafitowanie (PL) : (rz.) blacking
+[grafityzowanie]grafityzowanie (PL) : (rz.) graphitizing
+[grafolog]grafolog (PL) : (rz.) graphologist
+[grafologia]grafologia (PL) : (rz.) graphology
+[grafoman]grafoman (PL) : (rz.) scribbler
+[grajek]grajek (PL) : (rz.) busker
+[gram]gram (PL) : (rz.) accidence; (rz.) gram; (rz.) grams
+[gram-sila]gram-siła (PL) : (rz.) gram-force
+[gramatura]gramatura (PL) : (rz.) substance; (rz.) weight
+[gramatyczny]gramatyczny (PL) : (p.) grammatical; (p.) grammaticality
+[gramatyk]gramatyk (PL) : (rz.) grammars
+[gramatyka]gramatyka (PL) : (rz.) grammar
+[gramoatom]gramoatom (PL) : (rz.) gram-atom
+[gramoczasteczka]gramocząsteczka (PL) : (rz.) gram-molecule; (rz.) mol
+[gramofon]gramofon (PL) : (rz.) gramophone; (rz.) phonograph; (rz.) record-player
+[gramolenie]gramolenie (PL) : (rz.) clamber; (rz.) scramble
+[gramolic]gramolić (PL) : (cz.) clamber; (cz.) lob; (cz.) scramble
+[gramorownowaznik]gramorównoważnik (PL) : (rz.) gram-equivalent
+[granat]granat (PL) : (rz.) garnet; (rz.) grenade; (rz.) navy; (rz.) pomegranate
+[granatnik]granatnik (PL) : (rz.) howitzer; (rz.) launcher
+[granatowiec]granatowiec (PL) : (rz.) pomegranate
+[granatowy]granatowy (PL) : (p.) blue; (p.) navy-blue
+[granda]granda (PL) : (rz.) grandee; (rz.) ruction; (rz.) scandal
+[grandilokwencja]grandilokwencja (PL) : (rz.) grandiloquence
+[grandziarz]grandziarz (PL) : (rz.) rowdy
+[graniastoslup]graniastosłup (PL) : (rz.) prism
+[graniastoslupowy]graniastosłupowy (PL) : (p.) prismatic
+[graniasty]graniasty (PL) : (p.) roan
+[granica]granica (PL) : (rz.) ambit; (rz.) border; (rz.) borderline; (rz.) bound; (rz.) boundary; (rz.) bourn; (rz.) compass; (rz.) customs; (rz.) frontier; (rz.) limit; (rz.) line; (rz.) minimum; (rz.) precinct; (rz.) rope
+[granice]granice (PL) : (rz.) confines
+[graniczny]graniczny (PL) : (p.) terminable
+[graniczyc]graniczyć (PL) : (cz.) abut; (cz.) border; (cz.) verge; (cz.) verges
+[granit]granit (PL) : (rz.) granite
+[grant]grant (PL) : (rz.) grant
+[granula]granula (PL) : (rz.) granule
+[granulacja]granulacja (PL) : (rz.) granulation
+[granulat]granulat (PL) : (rz.) granules; (rz.) pellet
+[granulator]granulator (PL) : (rz.) granulator
+[granulka]granulka (PL) : (rz.) granule; (rz.) pellet
+[granulowanie]granulowanie (PL) : (rz.) graining; (rz.) granulation; (rz.) pebbling
+[granulowac]granulować (PL) : (cz.) granulate
+[grapa]grapa (PL) : (rz.) grape
+[grasica]grasica (PL) : (rz.) thymus
+[grasowac]grasować (PL) : (cz.) maraud; (cz.) prowl
+[grat]grat (PL) : (rz.) crock; (rz.) jalopy
+[gratisowy]gratisowy (PL) : (p.) free
+[gratka]gratka (PL) : (rz.) windfall
+[gratulacja]gratulacja (PL) : (rz.) congratulation
+[gratulacje]gratulacje (PL) : (rz.) compliments; (rz.) congratulations
+[gratulacyjny]gratulacyjny (PL) : (p.) congratulant; (p.) congratulatory; (p.) gratulatory
+[gratulowac]gratulować (PL) : (cz.) compliment; (cz.) complimented; (cz.) congratulate
+[graty]graty (PL) : (rz.) lumber; (rz.) trash
+[gratyfikacja]gratyfikacja (PL) : (rz.) douceur; (rz.) gratification; (rz.) gratuity
+[grawer]grawer (PL) : (rz.) engraver; (rz.) etcher; (rz.) graver
+[grawerowanie]grawerowanie (PL) : (rz.) engraving; (rz.) etching
+[grawerowac]grawerować (PL) : (cz.) engrave; (cz.) etch
+[grawerunek]grawerunek (PL) : (rz.) engraving
+[grawimetr]grawimetr (PL) : (rz.) gravimeter
+[grawimetryczny]grawimetryczny (PL) : (p.) gravimetric
+[grawitacja]grawitacja (PL) : (rz.) gravitation; (rz.) gravity
+[grawitacyjny]grawitacyjny (PL) : (p.) gravitational
+[grawiton]grawiton (PL) : (rz.) graviton
+[grawitowac]grawitować (PL) : (cz.) gravitate
+[grawiura]grawiura (PL) : (rz.) engraving
+[grac]grać (PL) : (cz.) act; (cz.) perform; (cz.) play
+[gran]grań (PL) : (rz.) crag; (rz.) crest; (rz.) ridge
+[grejpfrut]grejpfrut (PL) : (rz.) grapefruit; (rz.) grape-fruit
+[grek]grek (PL) : (rz.) Greeks
+[greka]greka (PL) : (rz.) Greek
+[gremialnie]gremialnie (PL) : (p-sł.) bodily; (p-sł.) completely
+[gremialny]gremialny (PL) : (p.) collective
+[gremial]gremiał (PL) : (rz.) gremial
+[gremium]gremium (PL) : (rz.) body; (rz.) corporation
+[grenadier]grenadier (PL) : (rz.) grenadier
+[grenadyna]grenadyna (PL) : (rz.) grenadine
+[grill]grill (PL) : (rz.) barbecue
+[grillowanie]grillowanie (PL) : (rz.) barbecue; (rz.) barbecues
+[grobla]grobla (PL) : (rz.) barrage; (rz.) bund; (rz.) causeway; (rz.) dam; (rz.) dike; (rz.) embankment; (rz.) jetty; (rz.) levee; (rz.) mole; (rz.) pier; (rz.) weir
+[grobowcowy]grobowcowy (PL) : (p.) sepulchral
+[grobowiec]grobowiec (PL) : (rz.) tomb; (rz.) vault
+[grobowy]grobowy (PL) : (p.) gloomy; (p.) grave; (p.) sepulchral
+[groch]groch (PL) : (rz.) pea; (rz.) peas
+[grochowka]grochówka (PL) : (rz.) pea-soup
+[grodza]grodza (PL) : (rz.) bulkhead
+[grodzisko]grodzisko (PL) : (rz.) settlement
+[grodzic]grodzić (PL) : (cz.) enclose; (cz.) fence; (cz.) pale
+[grodz]grodź (PL) : (rz.) bulkhead
+[grog]grog (PL) : (rz.) grog
+[grom]grom (PL) : (rz.) thunder
+[gromada]gromada (PL) : (rz.) bevy; (rz.) class; (rz.) flock; (rz.) group; (rz.) heap; (rz.) horde; (rz.) phalange; (rz.) phylum; (rz.) shoal; (rz.) troupe
+[gromadka]gromadka (PL) : (rz.) cluster; (rz.) covey; (rz.) troop
+[gromadny]gromadny (PL) : (p.) joint
+[gromadzenie]gromadzenie (PL) : (rz.) accumulating; (rz.) aggregation; (rz.) gather; (rz.) simmer; (rz.) storage
+[gromadzic]gromadzić (PL) : (cz.) accrue; (cz.) accumulate; (cz.) agglomerate; (cz.) aggregate; (cz.) amass; (cz.) assemble; (cz.) bank; (cz.) collect; (cz.) congregate; (cz.) convoke; (cz.) cumulate; (cz.) flock; (cz.) gather; (cz.) glean; (cz.) heap; (cz.) hive; (cz.) hoard; (cz.) mass; (cz.) meet; (cz.) rally; (cz.) stockpile; (cz.) treasure
+[gromic]gromić (PL) : (cz.) rout; (cz.) scold
+[gromki]gromki (PL) : (p.) booming; (p.) loud; (p.) rapturous
+[gromowy]gromowy (PL) : (p.) thundering
+[gronkowcowy]gronkowcowy (PL) : (p.) staphylococcus
+[gronkowiec]gronkowiec (PL) : (rz.) staphylococcus
+[grono]grono (PL) : (rz.) bevy; (rz.) cluster; (rz.) staff; (rz.) team
+[gronostaj]gronostaj (PL) : (rz.) ermine; (rz.) stoat
+[gros]gros (PL) : (rz.) gross; (rz.) majority
+[grosiwo]grosiwo (PL) : (rz.) brass
+[grosz]grosz (PL) : (rz.) farthing; (rz.) penny
+[groszek]groszek (PL) : (rz.) pea
+[groszkowanie]groszkowanie (PL) : (rz.) graining
+[groszowy]groszowy (PL) : (p.) cheap; (p.) grosz
+[grot]grot (PL) : (rz.) arrowhead; (rz.) arrow-head; (rz.) arrowheads; (rz.) caves; (rz.) fluke; (rz.) grottos; (rz.) tip
+[grota]grota (PL) : (rz.) cave; (rz.) cavern; (rz.) grot; (rz.) grotto
+[groteska]groteska (PL) : (rz.) antic; (rz.) grotesque
+[groteskowo]groteskowo (PL) : (p-sł.) grotesquely
+[groteskowosc]groteskowość (PL) : (rz.) grotesque; (rz.) grotesqueness
+[groteskowy]groteskowy (PL) : (p.) antic; (p.) grotesque
+[grotmaszt]grotmaszt (PL) : (rz.) mainmast
+[grotolaz]grotołaz (PL) : (rz.) speleologist
+[groza]groza (PL) : (rz.) awe; (rz.) peril; (rz.) terror
+[grozic]grozić (PL) : (cz.) menace; (cz.) threaten
+[grozba]groźba (PL) : (rz.) danger; (rz.) imminence; (rz.) menace; (rz.) threat
+[grozny]groźny (PL) : (p.) awesome; (p.) dangerous; (p.) grim; (p.) gruesome; (p.) imminent; (p.) menacing; (p.) minatory; (p.) nasty; (p.) sinister; (p.) threatening
+[grubas]grubas (PL) : (rz.) blimp; (rz.) fatso; (rz.) fatty
+[grubasek]grubasek (PL) : (rz.) child; (rz.) fatty
+[gruber]gruber (PL) : (rz.) grubber
+[grubianin]grubianin (PL) : (rz.) boor; (rz.) churl; (rz.) cur
+[grubianski]grubiański (PL) : (p.) boorish; (p.) churlish; (p.) coarse; (p.) ill-bred; (p.) obscene; (p.) rough; (p.) rude; (p.) uncivil
+[grubianskosc]grubiańskość (PL) : (rz.) churlishness
+[grubianstwo]grubiaństwo (PL) : (rz.) ill-breeding; (rz.) ribaldry; (rz.) scurrility
+[grubiec]grubieć (PL) : (cz.) fat; (cz.) thicken
+[grubo]grubo (PL) : (p-sł.) roughly; (p-sł.) thick; (p-sł.) thickly; (p-sł.) warmly
+[grubodziob]grubodziób (PL) : (rz.) grosbeak; (rz.) hawfinch
+[gruboskornosc]gruboskórność (PL) : (rz.) callosity
+[gruboskorny]gruboskórny (PL) : (p.) coarse; (p.) inconsiderate; (p.) rough; (p.) rude; (p.) thick-skinned
+[gruboziarnistosc]gruboziarnistość (PL) : (rz.) coarseness
+[gruboziarnisty]gruboziarnisty (PL) : (p.) coarse; (p.) coarse-grained
+[gruboscienny]grubościenny (PL) : (p.) heavy-walled; (p.) thick-walled
+[grubosc]grubość (PL) : (rz.) largeness; (rz.) thickness
+[gruby]gruby (PL) : (p.) big; (p.) bulky; (p.) chunky; (p.) coarse; (p.) fat; (p.) fubsy; (p.) great; (p.) gross; (p.) gutsy; (p.) heavy; (p.) stout; (p.) succulent; (p.) thick; (p.) thicker
+[gruchanie]gruchanie (PL) : (rz.) coo
+[gruchawka]gruchawka (PL) : (rz.) coo; (rz.) turtledove; (rz.) turtle-dove
+[gruchac]gruchać (PL) : (cz.) coo
+[gruchot]gruchot (PL) : (rz.) boneshaker; (rz.) bone-shaker; (rz.) jalopy; (rz.) rattle; (rz.) rattletrap
+[gruchotac]gruchotać (PL) : (cz.) batter; (cz.) crush; (cz.) shatter
+[gruczol]gruczoł (PL) : (rz.) gland
+[gruczolowaty]gruczołowaty (PL) : (p.) glandular
+[gruczolowy]gruczołowy (PL) : (p.) glandular
+[gruda]gruda (PL) : (rz.) clod; (rz.) lump
+[grudka]grudka (PL) : (rz.) clot; (rz.) gob; (rz.) lump; (rz.) pellet
+[grudkowanie]grudkowanie (PL) : (rz.) balling
+[grudkowaty]grudkowaty (PL) : (p.) lumpy; (p.) nodular
+[grudkowy]grudkowy (PL) : (p.) lumpy
+[grudzien]grudzień (PL) : (rz.) December
+[grunt]grunt (PL) : (rz.) ground; (rz.) land
+[gruntowanie]gruntowanie (PL) : (rz.) grounding
+[gruntowac]gruntować (PL) : (cz.) base; (cz.) fathom; (cz.) ground
+[gruntownie]gruntownie (PL) : (p-sł.) seriously; (p-sł.) thoroughly
+[gruntownosc]gruntowność (PL) : (rz.) thoroughness
+[gruntowny]gruntowny (PL) : (p.) exhaustive; (p.) profound; (p.) solid; (p.) thorough; (p.) thoroughgoing
+[grupa]grupa (PL) : (rz.) band; (rz.) batch; (rz.) body; (rz.) bunch; (rz.) circle; (rz.) classification; (rz.) flock; (rz.) gang; (rz.) group; (rz.) lot; (rz.) nest; (rz.) posse; (rz.) set; (rz.) squad; (rz.) troop
+[grupka]grupka (PL) : (rz.) group
+[grupowac]grupować (PL) : (cz.) assemble; (cz.) assort; (cz.) group
+[grupowy]grupowy (PL) : (p.) collective
+[grusza]grusza (PL) : (rz.) pear; (rz.) pear-tree
+[gruszka]gruszka (PL) : (rz.) avocado; (rz.) converter; (rz.) pear; (rz.) swage
+[gruszkowaty]gruszkowaty (PL) : (p.) pear-shaped
+[gruz]gruz (PL) : (rz.) debris; (rz.) rubbish; (rz.) rubble
+[gruzel]gruzeł (PL) : (rz.) clot
+[gruzelek]gruzełek (PL) : (rz.) crumb
+[gruzelkowaty]gruzełkowaty (PL) : (p.) tubercular
+[gruzelkowy]gruzełkowy (PL) : (p.) tubercular
+[gruzy]gruzy (PL) : (rz.) rubble
+[gruzlica]gruźlica (PL) : (rz.) consumption; (rz.) phthisis; (rz.) tuberculosis
+[gruzliczy]gruźliczy (PL) : (p.) consumptive; (p.) tubercular
+[gruzlik]gruźlik (PL) : (rz.) consumptive
+[gryf]gryf (PL) : (rz.) fingerboard; (rz.) griffin; (rz.) gryphon; (rz.) neck
+[gryfon]gryfon (PL) : (rz.) griffon
+[gryka]gryka (PL) : (rz.) buckwheat
+[grymas]grymas (PL) : (rz.) grimace; (rz.) mop; (rz.) vagary; (rz.) whim
+[grymasic]grymasić (PL) : (cz.) grimace; (cz.) whimper
+[grymasny]grymaśny (PL) : (p.) capricious; (p.) choosey; (p.) choosy; (p.) fastidious; (p.) fretful; (p.) fussy; (p.) particular; (p.) pernickety; (p.) queasy; (p.) squeamish; (p.) wanton
+[grynszpan]grynszpan (PL) : (rz.) verdict
+[grypa]grypa (PL) : (rz.) flu; (rz.) flue; (rz.) grippe; (rz.) influenza
+[gryps]gryps (PL) : (rz.) kite
+[grys]grys (PL) : (rz.) grit; (rz.) grits
+[gryz]gryz (PL) : (rz.) bite
+[gryzipiorek]gryzipiórek (PL) : (rz.) scribbler
+[gryzmolic]gryzmolić (PL) : (cz.) scratch; (cz.) scrawl; (cz.) scribble
+[gryzmol]gryzmoł (PL) : (rz.) scrawls; (rz.) squiggle
+[gryzmola]gryzmoła (PL) : (rz.) scrawls
+[gryzmoly]gryzmoły (PL) : (rz.) scrawl
+[gryzonie]gryzonie (PL) : (rz.) rodents
+[gryzon]gryzoń (PL) : (rz.) rodent
+[gryzaco]gryząco (PL) : (p-sł.) bitingly
+[gryzacy]gryzący (PL) : (p.) biting
+[gryzc]gryźć (PL) : (cz.) bite; (cz.) bug; (cz.) clash; (cz.) fret; (cz.) gnaw; (cz.) itch; (cz.) nibble
+[grzanie]grzanie (PL) : (rz.) heating
+[grzanka]grzanka (PL) : (rz.) toast
+[grzac]grzać (PL) : (cz.) bask; (cz.) heat; (cz.) warm
+[grzalka]grzałka (PL) : (rz.) element; (rz.) geyser; (rz.) heater
+[grzbiet]grzbiet (PL) : (rz.) back; (rz.) backbone; (rz.) ridge; (rz.) spine
+[grzbietowy]grzbietowy (PL) : (p.) dorsal
+[grzebanie]grzebanie (PL) : (rz.) scratch
+[grzebac]grzebać (PL) : (cz.) bury; (cz.) dawdle; (cz.) fumble; (cz.) grub; (cz.) inter; (cz.) poke; (cz.) potter; (cz.) rake; (cz.) root; (cz.) scrabble
+[grzebieniowaty]grzebieniowaty (PL) : (p.) comb-shaped
+[grzebien]grzebień (PL) : (rz.) comb; (rz.) crest
+[grzech]grzech (PL) : (rz.) sin; (rz.) trespass; (rz.) wrongdoing; (rz.) wrong-doing
+[grzechot]grzechot (PL) : (rz.) rattle; (rz.) rustle
+[grzechotac]grzechotać (PL) : (cz.) rattle
+[grzechotka]grzechotka (PL) : (rz.) clapper; (rz.) knocker; (rz.) maraca; (rz.) rattle; (rz.) rattler
+[grzechotnik]grzechotnik (PL) : (rz.) rattlesnake
+[grzecznie]grzecznie (PL) : (p-sł.) civilly; (p-sł.) courteously; (p-sł.) fair; (p-sł.) nicely; (p-sł.) politely
+[grzecznosciowy]grzecznościowy (PL) : (p.) close; (p.) complimentary; (p.) polite
+[grzecznosc]grzeczność (PL) : (rz.) affability; (rz.) amenity; (rz.) attention; (rz.) civility; (rz.) complaisance; (rz.) courteousness; (rz.) courtesy; (rz.) grace; (rz.) politeness
+[grzeczny]grzeczny (PL) : (p.) affable; (p.) attentive; (p.) civil; (p.) complaisant; (p.) courteous; (p.) good; (p.) neat; (p.) polite; (p.) urbane
+[grzejnik]grzejnik (PL) : (rz.) heater; (rz.) radiator
+[grzesznica]grzesznica (PL) : (rz.) sinner
+[grzesznik]grzesznik (PL) : (rz.) sinner; (rz.) wrongdoer
+[grzesznosc]grzeszność (PL) : (rz.) sinfulness
+[grzeszny]grzeszny (PL) : (p.) sinful
+[grzeszyc]grzeszyć (PL) : (cz.) sin; (cz.) trespass
+[grzmiec]grzmieć (PL) : (cz.) blare; (cz.) fulminate; (cz.) grumble; (cz.) roar; (cz.) rumble; (cz.) thunder
+[grzmiacy]grzmiący (PL) : (p.) thunderous
+[grzmocenie]grzmocenie (PL) : (rz.) beating
+[grzmocic]grzmocić (PL) : (cz.) whack
+[grzmot]grzmot (PL) : (rz.) boom; (rz.) clap; (rz.) crack; (rz.) rumble; (rz.) thunder
+[grzyb]grzyb (PL) : (rz.) fungus; (rz.) mould; (rz.) mushroom
+[grzybek]grzybek (PL) : (rz.) darning-egg; (rz.) mushroom
+[grzybica]grzybica (PL) : (rz.) mycosis; (rz.) ringworm
+[grzybiczy]grzybiczy (PL) : (p.) mycosis
+[grzybien]grzybień (PL) : (rz.) lily
+[grzybnia]grzybnia (PL) : (rz.) mycelium; (rz.) spawn
+[grzybobranie]grzybobranie (PL) : (rz.) mushroom
+[grzybobojczy]grzybobójczy (PL) : (p.) fungicidal
+[grzybowy]grzybowy (PL) : (p.) fungal; (p.) fungous
+[grzyby]grzyby (PL) : (rz.) mushrooms
+[grzywa]grzywa (PL) : (rz.) crest; (rz.) forfeit; (rz.) mane
+[grzywacz]grzywacz (PL) : (rz.) billow; (rz.) ringdove; (rz.) ring-dove
+[grzywka]grzywka (PL) : (rz.) bang; (rz.) forelock; (rz.) fringe
+[grzywna]grzywna (PL) : (rz.) fine; (rz.) forfeit; (rz.) mulct; (rz.) penalty
+[grzadka]grządka (PL) : (rz.) bed; (rz.) bog; (rz.) flowerbed; (rz.) patch; (rz.) seedbed; (rz.) seed-bed
+[grzaski]grząski (PL) : (p.) boggy; (p.) quaky; (p.) slimy
+[grzeda]grzęda (PL) : (rz.) bed; (rz.) perch; (rz.) roost
+[grzezawisko]grzęzawisko (PL) : (rz.) flounder; (rz.) quagmire
+[grzeznac]grzęznąć (PL) : (cz.) flounder; (cz.) sink
+[grob]grób (PL) : (rz.) grave; (rz.) graveness; (rz.) tomb
+[grod]gród (PL) : (rz.) castle; (rz.) city; (rz.) dwelling; (rz.) town
+[grodz]gródź (PL) : (rz.) bulkhead
+[grepel]grępel (PL) : (rz.) card
+[greplarz]gręplarz (PL) : (rz.) carder
+[greplowanie]gręplowanie (PL) : (rz.) carding
+[guanidyna]guanidyna (PL) : (rz.) guanidine
+[guanina]guanina (PL) : (rz.) guanine
+[guano]guano (PL) : (rz.) guano
+[gubernator]gubernator (PL) : (rz.) governor
+[gubernatorski]gubernatorski (PL) : (p.) gubernatorial
+[gubernatorstwo]gubernatorstwo (PL) : (rz.) governorship
+[gubernia]gubernia (PL) : (rz.) government
+[gubic]gubić (PL) : (cz.) lose; (cz.) mislay; (cz.) shed
+[gulasz]gulasz (PL) : (rz.) goulash; (rz.) stew
+[gulden]gulden (PL) : (rz.) guilder
+[gulgot]gulgot (PL) : (rz.) gobble
+[gulgotac]gulgotać (PL) : (cz.) gobble; (cz.) gurgle
+[guma]guma (PL) : (rz.) elastic; (rz.) gum; (rz.) rubber
+[gumiaki]gumiaki (PL) : (rz.) rubbers
+[gumka]gumka (PL) : (rz.) elastic; (rz.) eraser; (rz.) rubber
+[gumno]gumno (PL) : (rz.) threshing
+[gumowaty]gumowaty (PL) : (p.) gummy; (p.) rubbery; (p.) viscid
+[gumowac]gumować (PL) : (cz.) rubberize
+[gumowy]gumowy (PL) : (p.) rubbery
+[gumozywica]gumożywica (PL) : (rz.) resin
+[gumowka]gumówka (PL) : (rz.) gluer
+[gupik]gupik (PL) : (rz.) guppy
+[gurda]gurda (PL) : (rz.) gourd
+[gust]gust (PL) : (rz.) liking; (rz.) taste
+[gustowac]gustować (PL) : (cz.) relish
+[gustownie]gustownie (PL) : (p-sł.) tastefully
+[gustownosc]gustowność (PL) : (rz.) elegance; (rz.) neatness; (rz.) sequence
+[gustowny]gustowny (PL) : (p.) neat; (p.) tasteful
+[gutaperka]gutaperka (PL) : (rz.) gutta-percha
+[guwerner]guwerner (PL) : (rz.) tutor
+[guwernerski]guwernerski (PL) : (p.) tutorial
+[guz]guz (PL) : (rz.) bruise; (rz.) bump; (rz.) burl; (rz.) button; (rz.) knob; (rz.) knurl; (rz.) lump; (rz.) malignance; (rz.) malignancy; (rz.) tuber; (rz.) tumour
+[guzdralstwo]guzdralstwo (PL) : (rz.) laziness
+[guzdrac]guzdrać (PL) : (cz.) dawdle; (cz.) delay
+[guzdrala]guzdrała (PL) : (rz.) dawdler; (rz.) laggard; (rz.) slowcoach
+[guzek]guzek (PL) : (rz.) bump; (rz.) knurl; (rz.) nodule; (rz.) tubercle
+[guzik]guzik (PL) : (rz.) button; (rz.) knob
+[guzkowaty]guzkowaty (PL) : (p.) nodular
+[guzowaty]guzowaty (PL) : (p.) bossed; (p.) knobbly; (p.) nodular
+[gulag]gułag (PL) : (rz.) gulag
+[guslarz]guślarz (PL) : (rz.) wizard
+[gwar]gwar (PL) : (rz.) buzz; (rz.) din; (rz.) hubble-bubble; (rz.) hubbub; (rz.) hum
+[gwara]gwara (PL) : (rz.) cockney; (rz.) dialect; (rz.) jargon; (rz.) patter; (rz.) slang; (rz.) vernacular
+[gwarancja]gwarancja (PL) : (rz.) bail; (rz.) guarantee; (rz.) guaranty; (rz.) pledge; (rz.) safeguard; (rz.) security; (rz.) warranty
+[gwarant]gwarant (PL) : (rz.) bailsman; (rz.) bondsman; (rz.) guarantee; (rz.) guarantor; (rz.) surety; (rz.) underwriter; (rz.) warrant
+[gwarantowanie]gwarantowanie (PL) : (rz.) guarantee
+[gwarantowac]gwarantować (PL) : (cz.) assure; (cz.) ensure; (cz.) guarantee; (cz.) indemnify; (cz.) safeguard; (cz.) warrant
+[gwardia]gwardia (PL) : (rz.) guard
+[gwardian]gwardian (PL) : (rz.) guardian
+[gwardzista]gwardzista (PL) : (rz.) guardsman
+[gwarek]gwarek (PL) : (rz.) grackle
+[gwarny]gwarny (PL) : (p.) bustling; (p.) loud; (p.) noisy
+[gwarowy]gwarowy (PL) : (p.) dialectal; (p.) flash; (p.) slang; (p.) slangy
+[gwarzyc]gwarzyć (PL) : (cz.) chat
+[gwasz]gwasz (PL) : (rz.) gouache
+[gwalcenie]gwałcenie (PL) : (rz.) violations
+[gwalciciel]gwałciciel (PL) : (rz.) lawbreaker; (rz.) law-breaker; (rz.) rapist; (rz.) violator
+[gwalcic]gwałcić (PL) : (cz.) rape; (cz.) ravish; (cz.) violate
+[gwalt]gwałt (PL) : (rz.) outrage; (rz.) rape; (rz.) violence
+[gwaltownie]gwałtownie (PL) : (p-sł.) explosively; (p-sł.) fiercely; (p-sł.) high-wrought; (p-sł.) rapidly; (p-sł.) roughly; (p-sł.) sharply; (p-sł.) vehemently; (p-sł.) violently
+[gwaltownosc]gwałtowność (PL) : (rz.) abruptness; (rz.) boisterousness; (rz.) fierceness; (rz.) impetuosity; (rz.) precipitation; (rz.) rapidity; (rz.) turbulence; (rz.) vehemence; (rz.) violence
+[gwaltowny]gwałtowny (PL) : (p.) boisterous; (p.) fierce; (p.) forcible; (p.) gusty; (p.) hasty; (p.) heady; (p.) irresistible; (p.) keen; (p.) outrageous; (p.) passionate; (p.) rampant; (p.) rude; (p.) sharp; (p.) steep; (p.) stormy; (p.) sudden; (p.) tearaway; (p.) truculent; (p.) turbulent; (p.) vehement; (p.) violent; (p.) wild
+[gwiazda]gwiazda (PL) : (rz.) cartwheel; (rz.) star
+[gwiazdka]gwiazdka (PL) : (rz.) asterisk; (rz.) pip; (rz.) star; (rz.) starlet
+[gwiazdkowosc]gwiazdkowość (PL) : (rz.) asterism
+[gwiazdnica]gwiazdnica (PL) : (rz.) chickweed; (rz.) stitchwort
+[gwiazdor]gwiazdor (PL) : (rz.) star
+[gwiazdorstwo]gwiazdorstwo (PL) : (rz.) stardom
+[gwiazdowy]gwiazdowy (PL) : (p.) stellar
+[gwiazdozbior]gwiazdozbiór (PL) : (rz.) constellation
+[gwiazdzisty]gwiaździsty (PL) : (p.) radial; (p.) starry; (p.) star-shaped
+[gwiezdny]gwiezdny (PL) : (p.) astral; (p.) sidereal; (p.) stellar
+[gwint]gwint (PL) : (rz.) screw-thread; (rz.) thread
+[gwintowany]gwintowany (PL) : (p.) screwed
+[gwintowac]gwintować (PL) : (cz.) rifle; (cz.) thread
+[gwintownica]gwintownica (PL) : (rz.) die-stock
+[gwintownik]gwintownik (PL) : (rz.) tap
+[gwintowy]gwintowy (PL) : (p.) screwed
+[gwizd]gwizd (PL) : (rz.) catcall; (rz.) hoot; (rz.) singing
+[gwizdac]gwizdać (PL) : (cz.) hoot; (cz.) ping; (cz.) whine; (cz.) whistle
+[gwozdziowanie]gwoździowanie (PL) : (rz.) nail
+[gwozdz]gwóźdź (PL) : (rz.) hobnail; (rz.) nail; (rz.) spike; (rz.) sprig
+[gzyms]gzyms (PL) : (rz.) cornice; (rz.) ledge; (rz.) mantelpiece
+[gzymsem]gzymsem (PL) : (rz.) dado
+[gora]góra (PL) : (rz.) berg; (rz.) hade; (rz.) heap; (rz.) mount; (rz.) mountain; (rz.) top; (rz.) up; (rz.) upper; (rz.) upstairs
+[goral]góral (PL) : (rz.) highlander; (rz.) mountaineer
+[goralski]góralski (PL) : (p.) highlander's
+[gorka]górka (PL) : (rz.) hill; (rz.) hillock
+[gornica]górnica (PL) : (rz.) mining
+[gornictwo]górnictwo (PL) : (rz.) mining
+[gornik]górnik (PL) : (rz.) collier; (rz.) miner; (rz.) pitman
+[gornolotnosc]górnolotność (PL) : (rz.) grandiloquence; (rz.) magniloquence
+[gornolotny]górnolotny (PL) : (p.) grandiloquent; (p.) highfaluting; (p.) high-flown; (p.) magniloquent
+[gornoslaski]górnośląski (PL) : (p.) upper
+[gornosc]górność (PL) : (rz.) pathos
+[gorny]górny (PL) : (p.) overhead; (p.) top; (p.) upper; (p.) upside
+[gorotworczy]górotwórczy (PL) : (p.) tectonic
+[gorowanie]górowanie (PL) : (rz.) culmination; (rz.) predominance
+[gorowac]górować (PL) : (cz.) dominate; (cz.) excel; (cz.) overlook; (cz.) overrule; (cz.) overshadow; (cz.) preponderate; (cz.) preside
+[gorski]górski (PL) : (p.) mountainous
+[gorujacy]górujący (PL) : (p.) uppermost
+[gory]góry (PL) : (rz.) mountains
+[gorzysty]górzysty (PL) : (p.) hilly; (p.) mountainous
+[gowno]gówno (PL) : (rz.) crap; (rz.) shit
+[gabczastosc]gąbczastość (PL) : (rz.) sponginess
+[gabczasty]gąbczasty (PL) : (p.) mushy; (p.) spongy
+[gabka]gąbka (PL) : (rz.) sponge
+[gabkowaty]gąbkowaty (PL) : (p.) spongy
+[gasienica]gąsienica (PL) : (rz.) band; (rz.) caterpillar; (rz.) crawler; (rz.) cutworm
+[gasienicznik]gąsienicznik (PL) : (rz.) ichneumon
+[gasior]gąsior (PL) : (rz.) crest-tile; (rz.) demijohn; (rz.) gander
+[gasiorek]gąsiorek (PL) : (rz.) gander
+[gasiatko]gąsiątko (PL) : (rz.) gosling
+[gaska]gąska (PL) : (rz.) goose
+[gaszcz]gąszcz (PL) : (rz.) boscage; (rz.) bush; (rz.) coppice; (rz.) jungle; (rz.) spinney; (rz.) thick; (rz.) thicket
+[geba]gęba (PL) : (rz.) gob; (rz.) kisser; (rz.) mug
+[geganie]gęganie (PL) : (rz.) gaggle; (rz.) squawk
+[gegac]gęgać (PL) : (cz.) gabble; (cz.) squawk
+[gesina]gęsina (PL) : (rz.) goose
+[gesior]gęsior (PL) : (rz.) goose
+[gestniec]gęstnieć (PL) : (cz.) thicken
+[gesto]gęsto (PL) : (p-sł.) densely; (p-sł.) thick; (p-sł.) thickly
+[gestosciomierz]gęstościomierz (PL) : (rz.) densitometer; (rz.) hydrometer
+[gestosc]gęstość (PL) : (rz.) compactness; (rz.) consistence; (rz.) denseness; (rz.) density; (rz.) thickness
+[gestwa]gęstwa (PL) : (rz.) brake; (rz.) slip
+[gestwina]gęstwina (PL) : (rz.) boscage; (rz.) thicket
+[gesty]gęsty (PL) : (p.) bushy; (p.) compact; (p.) dense; (p.) quickset; (p.) thick; (p.) thickset
+[ges]gęś (PL) : (rz.) geese; (rz.) goose
+[gladki]gładki (PL) : (p.) calm; (p.) even; (p.) flat; (p.) glib; (p.) glossy; (p.) oily; (p.) plain; (p.) sleek; (p.) slick; (p.) smooth; (p.) straight
+[gladko]gładko (PL) : (p-sł.) glibly; (p-sł.) smoothly; (p-sł.) swimmingly
+[gladkosc]gładkość (PL) : (rz.) glibness; (rz.) smoothness
+[gladziarka]gładziarka (PL) : (rz.) calendar; (rz.) mangle
+[gladzica]gładzica (PL) : (rz.) plaice
+[gladzik]gładzik (PL) : (rz.) jointer; (rz.) smoothing-plane
+[gladzic]gładzić (PL) : (cz.) polish; (cz.) sleek; (cz.) smooth; (cz.) stroke
+[glaskac]głaskać (PL) : (cz.) caress; (cz.) fondle; (cz.) stroke
+[glaz]głaz (PL) : (rz.) boulder; (rz.) rock; (rz.) stone
+[glodny]głodny (PL) : (p.) famished; (p.) hungry; (p.) peckish
+[glodomor]głodomór (PL) : (rz.) starveling
+[glodowanie]głodowanie (PL) : (rz.) famine; (rz.) starvation
+[glodowac]głodować (PL) : (cz.) famish; (cz.) starve
+[glodzenie]głodzenie (PL) : (rz.) starvation
+[glodzic]głodzić (PL) : (cz.) famish; (cz.) starve
+[glodowka]głodówka (PL) : (rz.) hunger-strike; (rz.) starvation
+[glos]głos (PL) : (rz.) voice; (rz.) vote
+[glosiciel]głosiciel (PL) : (rz.) advocate; (rz.) preacher
+[glosic]głosić (PL) : (cz.) preach; (cz.) say; (cz.) voice
+[gloska]głoska (PL) : (rz.) character; (rz.) phone; (rz.) sound
+[glosowanie]głosowanie (PL) : (rz.) ballot; (rz.) poll; (rz.) polling; (rz.) suffrage; (rz.) vote; (rz.) voting
+[glosowac]głosować (PL) : (cz.) ballot; (cz.) vote
+[glosownia]głosownia (PL) : (rz.) phonetics
+[glosowy]głosowy (PL) : (p.) vocal; (p.) vocals
+[gloszenie]głoszenie (PL) : (rz.) proclamation
+[glowa]głowa (PL) : (rz.) chief; (rz.) head; (rz.) pate; (rz.) poll
+[glowiasty]głowiasty (PL) : (p.) headed
+[glowica]głowica (PL) : (rz.) capital; (rz.) head; (rz.) pommel; (rz.) warhead; (rz.) war-head
+[glowizna]głowizna (PL) : (rz.) head
+[glownia]głownia (PL) : (rz.) brand; (rz.) firebrand
+[glowowy]głowowy (PL) : (p.) cephalic
+[glosnia]głośnia (PL) : (rz.) glottis
+[glosnik]głośnik (PL) : (rz.) loudspeaker; (rz.) loud-speaker; (rz.) megaphone; (rz.) speaker
+[glosniowy]głośniowy (PL) : (p.) glottal
+[glosno]głośno (PL) : (p-sł.) aloud; (p-sł.) audibly; (p-sł.) avowedly; (p-sł.) loudly
+[glosnosc]głośność (PL) : (rz.) loudness; (rz.) volume
+[glosny]głośny (PL) : (p.) famed; (p.) far-famed; (p.) loud; (p.) loudly; (p.) loudmouthed; (p.) loud-mouthed; (p.) notorious; (p.) plangent; (p.) prominent; (p.) resounding
+[gluchoniemy]głuchoniemy (PL) : (p.) deaf-and-dumb
+[gluchota]głuchota (PL) : (rz.) deafness
+[gluchy]głuchy (PL) : (p.) dead; (p.) deaf
+[glupek]głupek (PL) : (rz.) ass; (rz.) baboon; (rz.) boob; (rz.) booby; (rz.) bumpkin; (rz.) crackpot; (rz.) dimwit; (rz.) dumbness; (rz.) dummy; (rz.) fool; (rz.) goon; (rz.) jerk; (rz.) juggins; (rz.) loggerhead; (rz.) lummox; (rz.) moron; (rz.) nerd; (rz.) nincompoop; (rz.) ninny; (rz.) nit; (rz.) nitwit; (rz.) numskull; (rz.) oaf; (rz.) prune; (rz.) simpleton; (rz.) twerp; (rz.) twit; (rz.) yuk; (rz.) zany
+[glupi]głupi (PL) : (p.) absurd; (p.) asinine; (p.) crass; (p.) daft; (p.) dumb; (p.) fatuous; (p.) foolish; (p.) footling; (p.) gormless; (p.) inept; (p.) insane; (p.) insipid; (p.) muddle-headed; (p.) mute; (p.) nuts; (p.) obtuse; (p.) pigheaded; (p.) silly; (p.) sodden; (p.) stupid; (p.) wacky
+[glupiec]głupiec (PL) : (rz.) blockhead; (rz.) bonehead; (rz.) dullard; (rz.) dunce; (rz.) fool; (rz.) goof; (rz.) idiot; (rz.) loon; (rz.) macaroni; (rz.) moron; (rz.) nincompoop; (rz.) ninny; (rz.) numskull; (rz.) softy
+[glupiec]głupieć (PL) : (cz.) fool
+[glupio]głupio (PL) : (p-sł.) dumbly; (p-sł.) foolishly
+[glupkowatosc]głupkowatość (PL) : (rz.) inanity
+[glupkowaty]głupkowaty (PL) : (p.) dopey; (p.) goofy; (p.) half-witted; (p.) inane; (p.) moronic; (p.) oafish
+[glupol]głupol (PL) : (rz.) mutt; (rz.) yuk
+[glupota]głupota (PL) : (rz.) birdseed; (rz.) fatuity; (rz.) folly; (rz.) foolery; (rz.) foolishness; (rz.) silliness; (rz.) simper; (rz.) stupidity
+[glupstwo]głupstwo (PL) : (rz.) boob; (rz.) foolery; (rz.) foolishness; (rz.) nonsense
+[gluptak]głuptak (PL) : (rz.) idiot
+[gluptas]głuptas (PL) : (rz.) cully; (rz.) fool; (rz.) noodle; (rz.) silly; (rz.) simpleton; (rz.) sot
+[glusza]głusza (PL) : (rz.) backwoods; (rz.) solitude
+[gluszec]głuszec (PL) : (rz.) grouse
+[gluszyc]głuszyć (PL) : (cz.) choke
+[glod]głód (PL) : (rz.) famine; (rz.) hunger; (rz.) nagging; (rz.) scarcity; (rz.) starvation
+[glog]głóg (PL) : (rz.) haw; (rz.) hawthorn
+[glowka]główka (PL) : (rz.) head; (rz.) header
+[glownie]głównie (PL) : (p-sł.) chiefly; (p-sł.) largely; (p-sł.) mainly; (p-sł.) mostly; (p-sł.) primarily; (p-sł.) principally
+[glowny]główny (PL) : (p.) capital; (p.) cardinal; (p.) central; (p.) chief; (p.) exquisite; (p.) foremost; (p.) general; (p.) grand; (p.) high; (p.) highest; (p.) leading; (p.) main; (p.) major; (p.) paramount; (p.) primal; (p.) primary; (p.) principal; (p.) salient
+[glowny-podlegly]główny-podległy (PL) : (p.) master-slave
+[glab]głąb (PL) : (rz.) heart; (rz.) stalk
+[glebia]głębia (PL) : (rz.) abyss; (rz.) deep; (rz.) deepness; (rz.) depth; (rz.) profundity
+[glebina]głębina (PL) : (rz.) depth
+[glebinowy]głębinowy (PL) : (p.) abyssal; (p.) deep-sea
+[glebic]głębić (PL) : (cz.) dig
+[gleboki]głęboki (PL) : (p.) deep; (p.) deep-seated; (p.) intrinsic; (p.) penetrating; (p.) profound; (p.) sound; (p.) thoughtful
+[gleboko]głęboko (PL) : (p-sł.) bitterly; (p-sł.) deep; (p-sł.) deeply; (p-sł.) profoundly; (p-sł.) soundly
+[glebokosc]głębokość (PL) : (rz.) d; (rz.) deep; (rz.) deepness; (rz.) depth; (rz.) profundity

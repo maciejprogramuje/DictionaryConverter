@@ -1,0 +1,2460 @@
+[﻿abaca]﻿abaca (EN) : (rz.) manila
+[a-register]A-register (EN) : (rz.) akumulator
+[aborigines]Aborigines (EN) : (rz.) aborygeni
+[adam]Adam (EN) : (rz.) Adam
+[adventist]Adventist (EN) : (rz.) adwentysta
+[agnes]Agnes (EN) : (rz.) Agnieszka
+[alex]Alex (EN) : (rz.) Ola
+[alexander]Alexander (EN) : (rz.) Aleksander
+[alexandra]Alexandra (EN) : (rz.) Aleksandra
+[alice]Alice (EN) : (rz.) Alicja
+[alsatian]Alsatian (EN) : (rz.) wilczur
+[amadeus]Amadeus (EN) : (rz.) Amadeusz
+[amazon]Amazon (EN) : (rz.) amazonka
+[amelia]Amelia (EN) : (rz.) Amelia
+[america]America (EN) : (rz.) Ameryka
+[andrew]Andrew (EN) : (rz.) Andrzej
+[andy]Andy (EN) : (rz.) Andrzej
+[anglican]Anglican (EN) : (rz.) anglikanin
+[anglicanism]Anglicanism (EN) : (rz.) anglikanizm
+[anglo-saxon]Anglo-Saxon (EN) : (p.) anglosaski
+[anne]Anne (EN) : (rz.) Anna
+[anthony]Anthony (EN) : (rz.) Antoni
+[april]April (EN) : (rz.) kwiecień
+[aquarius]Aquarius (EN) : (rz.) wodnik
+[aries]Aries (EN) : (rz.) baran
+[arthur]Arthur (EN) : (rz.) Artur
+[aryan]Aryan (EN) : (p.) aryjski
+[australia]Australia (EN) : (rz.) Australia
+[a-buffering]a-buffering (EN) : (rz.) a-buforowanie
+[aback]aback (EN) : (p-sł.) wstecz
+[abacus]abacus (EN) : (rz.) abakus; (rz.) liczydło
+[abandon]abandon (EN) : (cz.) opuścić; (cz.) opuszczać; (cz.) porzucać; (cz.) porzucić; (cz.) wyjść; (cz.) zaniechać; (cz.) zrezygnować; (rz.) żywiołowość
+[abandoned]abandoned (EN) : (cz.) zarzucić; (p.) opuszczony
+[abandoner]abandoner (EN) : (rz.) porzucanie
+[abandoning]abandoning (EN) : (rz.) opuszczanie; (rz.) porzucanie
+[abandonment]abandonment (EN) : (rz.) abandon; (rz.) oddanie; (rz.) odpadanie; (rz.) opuszczenie; (rz.) porzucanie; (rz.) porzucenie; (rz.) zaniechanie
+[abase]abase (EN) : (cz.) obniżyć; (cz.) poniżać; (cz.) poniżyć; (cz.) upokarzać; (cz.) upokorzyć
+[abasement]abasement (EN) : (rz.) poniżenie; (rz.) ukorzenie; (rz.) upokorzenie
+[abash]abash (EN) : (cz.) mieszać; (cz.) speszyć; (cz.) zawstydzać; (cz.) zawstydzić; (cz.) zmieszać
+[abashing]abashing (EN) : (rz.) mieszanie; (rz.) speszenie; (rz.) zawstydzenie
+[abashment]abashment (EN) : (rz.) zakłopotanie; (rz.) zawstydzenie; (rz.) zmieszanie
+[abate]abate (EN) : (cz.) anulować; (cz.) maleć; (cz.) obniżyć; (cz.) opaść; (cz.) osłabiać; (cz.) osłabnąć; (cz.) ścinać; (cz.) słabnąć; (cz.) stępiać; (cz.) trącić; (cz.) ustąpić; (cz.) ustępować; (cz.) utrącić; (cz.) zelżeć; (cz.) zmniejszać; (cz.) zmniejszyć
+[abatement]abatement (EN) : (rz.) depresja; (rz.) obalenie; (rz.) obniżenie; (rz.) obniżka; (rz.) spadek; (rz.) ulga; (rz.) zniżka
+[abating]abating (EN) : (rz.) obniżanie; (rz.) ustępowanie; (rz.) zniżanie
+[abattoir]abattoir (EN) : (rz.) rzeźnia
+[abbey]abbey (EN) : (rz.) opactwo
+[abbot]abbot (EN) : (rz.) opat
+[abbrev]abbrev (EN) : (rz.) skrót
+[abbreviate]abbreviate (EN) : (cz.) skracać; (cz.) skrócić; (cz.) upraszczać
+[abbreviation]abbreviation (EN) : (rz.) abrewiacja; (rz.) skrócenie; (rz.) skrót
+[abdicate]abdicate (EN) : (cz.) abdykować; (cz.) rezygnować; (cz.) zrzekać
+[abdication]abdication (EN) : (rz.) abdykacja; (rz.) ustąpienie; (rz.) zrzeczenie
+[abdomen]abdomen (EN) : (rz.) brzuch; (rz.) odwłok; (rz.) podbrzusze
+[abdominal]abdominal (EN) : (p.) brzuszny
+[abduct]abduct (EN) : (cz.) porwać; (cz.) porywać; (cz.) uprowadzać; (cz.) uprowadzić; (cz.) uwodzić
+[abduction]abduction (EN) : (rz.) porwanie; (rz.) uprowadzenie
+[abductor]abductor (EN) : (rz.) odwodziciel; (rz.) porywacz
+[abecedarian]abecedarian (EN) : (p.) alfabetyczny
+[abele]abele (EN) : (rz.) białodrzew
+[aberrant]aberrant (EN) : (p.) anormalny; (p.) dziwny; (p.) nienormalny
+[aberration]aberration (EN) : (rz.) aberracja; (rz.) dewiacja; (rz.) odchylenie; (rz.) zboczenie
+[abet]abet (EN) : (cz.) nakłaniać; (cz.) nakłonić; (cz.) podżegać; (cz.) pomagać
+[abetment]abetment (EN) : (rz.) nakłonienie; (rz.) podżeganie
+[abetting]abetting (EN) : (rz.) nakłanianie; (rz.) podżeganie
+[abettor]abettor (EN) : (rz.) podżegacz; (rz.) współsprawca
+[abeyance]abeyance (EN) : (rz.) zagrożenie; (rz.) zawieszenie
+[abhor]abhor (EN) : (cz.) brzydzić; (cz.) czuć; (cz.) nienawidzić
+[abhorrence]abhorrence (EN) : (rz.) odraza; (rz.) wstręt
+[abhorrent]abhorrent (EN) : (p.) odrażający; (p.) wstrętny
+[abhorrently]abhorrently (EN) : (p-sł.) wstrętnie
+[abhorrer]abhorrer (EN) : (rz.) wstręciuch
+[abhorring]abhorring (EN) : (rz.) brzydzenie
+[abidance]abidance (EN) : (rz.) przestrzeganie; (rz.) stosowanie; (rz.) trwanie; (rz.) wytrzymywanie
+[abide]abide (EN) : (cz.) cierpieć; (cz.) czekać; (cz.) doczekać; (cz.) mieszkać; (cz.) obstawać; (cz.) oczekiwać; (cz.) pozostawać; (cz.) przebywać; (cz.) przestrzegać; (cz.) tolerować; (cz.) trwać; (cz.) wytrzymywać; (cz.) znosić
+[abiding]abiding (EN) : (p.) stały; (p.) trwały
+[abilities]abilities (EN) : (rz.) talent; (rz.) uzdolnienie
+[ability]ability (EN) : (rz.) kompetencja; (rz.) możliwość; (rz.) umiejętność; (rz.) zdolność; (rz.) zręczność
+[abject]abject (EN) : (p.) nędzny; (p.) nieszczęśliwy; (p.) nieszczęsny; (p.) nikczemny; (p.) podły
+[abjection]abjection (EN) : (rz.) nędza; (rz.) nieszczęście; (rz.) upodlenie; (rz.) znikczemnienie
+[abjectly]abjectly (EN) : (p-sł.) nikczemnie
+[abjectness]abjectness (EN) : (p.) nędzny; (rz.) nędza
+[abjuration]abjuration (EN) : (rz.) odwołanie; (rz.) wyparcie
+[abjuratory]abjuratory (EN) : (cz.) wypierać
+[abjure]abjure (EN) : (cz.) wypierać; (cz.) wyprzeć; (cz.) wyrzekać
+[abjurer]abjurer (EN) : (rz.) mówca
+[ablate]ablate (EN) : (cz.) odciąć; (cz.) odjąć
+[ablation]ablation (EN) : (rz.) ablacja
+[ablative]ablative (EN) : (p.) ablacyjny; (rz.) narzędnik
+[ablaut]ablaut (EN) : (rz.) apofonia
+[ablaze]ablaze (EN) : (p.) ognisty; (p.) plamisty; (p.) świetlisty
+[able]able (EN) : (p.) doświadczony; (p.) mądry; (p.) umiejętny; (p.) władny; (p.) zdatny; (p.) zdolny; (p.) zręczny
+[ablution]ablution (EN) : (rz.) ablucja; (rz.) obmycie; (rz.) umycie
+[ablutions]ablutions (EN) : (rz.) obmycie
+[ably]ably (EN) : (p-sł.) umiejętnie
+[abnegate]abnegate (EN) : (cz.) wyrzekać
+[abnegation]abnegation (EN) : (rz.) abnegacja; (rz.) wyrzeczenie
+[abnormal]abnormal (EN) : (p.) anormalny; (p.) chorobliwy; (p.) nienormalny; (p.) nieprawidłowy; (p.) nietypowy
+[abnormality]abnormality (EN) : (rz.) anormalność; (rz.) nienormalność; (rz.) nieprawidłowość
+[abnormally]abnormally (EN) : (p-sł.) anormalnie; (p-sł.) nienaturalnie; (p-sł.) nienormalnie
+[abode]abode (EN) : (rz.) dom; (rz.) mieszkanie; (rz.) siedziba; (rz.) zamieszkanie
+[abolish]abolish (EN) : (cz.) kasować; (cz.) likwidować; (cz.) obalać; (cz.) obalić; (cz.) skasować; (cz.) usuwać; (cz.) znieść; (cz.) znosić
+[abolished]abolished (EN) : (cz.) znieść
+[abolisher]abolisher (EN) : (cz.) obalać; (cz.) znosić; (rz.) wyzwoliciel
+[abolishment]abolishment (EN) : (rz.) obalenie; (rz.) zniesienie
+[abolition]abolition (EN) : (rz.) abolicja; (rz.) obalenie; (rz.) zniesienie
+[abolitionism]abolitionism (EN) : (rz.) abolicjonizm
+[abolitionist]abolitionist (EN) : (rz.) abolicjonista
+[abominable]abominable (EN) : (p.) niesmaczny; (p.) obrzydliwy; (p.) ohydny; (p.) wstrętny
+[abominably]abominably (EN) : (p-sł.) obrzydliwie; (p-sł.) odrażająco; (p-sł.) wstrętnie
+[abominate]abominate (EN) : (cz.) brzydzić; (cz.) nienawidzić
+[abomination]abomination (EN) : (rz.) abominacja; (rz.) obrzydliwość; (rz.) obrzydzenie; (rz.) paskudztwo; (rz.) wstręt
+[aboriginal]aboriginal (EN) : (p.) pierwotny; (p.) początkowy; (p.) rdzenny; (rz.) tubylec
+[aborigines]aborigines (EN) : (rz.) autochtoni; (rz.) tubylcy
+[abort]abort (EN) : (cz.) anulować; (cz.) odejść; (cz.) odrzucać; (cz.) opuścić; (cz.) opuszczać; (cz.) poniechać; (cz.) poronić; (cz.) porzucać; (cz.) przerwać; (cz.) przerywać; (cz.) skreślać; (cz.) skreślić; (cz.) zaniechać; (cz.) zerwać; (cz.) zrezygnować; (rz.) zerwanie
+[aborting]aborting (EN) : (rz.) usuwanie
+[abortion]abortion (EN) : (rz.) aborcja; (rz.) poronienie; (rz.) skrobanka
+[abortive]abortive (EN) : (p.) daremny; (p.) nieskuteczny; (p.) nieudany; (p.) zniekształcony
+[abound]abound (EN) : (cz.) mnożyć; (cz.) obfitować
+[abounding]abounding (EN) : (rz.) obfitowanie
+[about]about (EN) : (p-im.) o; (p-im.) w; (p-sł.) dookoła; (p-sł.) odnośnie; (p-sł.) około; (p-sł.) prawie; (p-sł.) wokół; (p-sł.) wokoło
+[about-turn]about-turn (EN) : (rz.) zwrot
+[above]above (EN) : (p-im.) nad; (p-im.) nade; (p-im.) ponad; (p.) ponadprzeciętny; (p-sł.) wysoko; (rz.) powyżej
+[above-ground]above-ground (EN) : (p.) nadziemny
+[aboveboard]aboveboard (EN) : (p.) legalny; (p.) uczciwy
+[abracadabra]abracadabra (EN) : (rz.) abrakadabra; (rz.) zaklęcie
+[abrade]abrade (EN) : (cz.) ocierać; (cz.) otrzeć; (cz.) przecierać; (cz.) przetrzeć; (cz.) ścierać; (cz.) wycierać; (cz.) zeszlifować
+[abrasion]abrasion (EN) : (rz.) abrazja; (rz.) otarcie; (rz.) ścieranie; (rz.) skrobanka; (rz.) wyskrobanie; (rz.) wytarcie; (rz.) zadrapanie; (rz.) zużywanie
+[abrasive]abrasive (EN) : (p.) konfliktowy; (p.) ścierny; (p.) szorstki; (rz.) ścierniwo
+[abridge]abridge (EN) : (cz.) ograniczać; (cz.) skracać; (cz.) skrócić; (cz.) streścić; (cz.) streszczać
+[abridgement]abridgement (EN) : (rz.) skrócenie
+[abridgment]abridgment (EN) : (rz.) ograniczenie; (rz.) okrojenie; (rz.) skrócenie; (rz.) skrót
+[abrogation]abrogation (EN) : (rz.) zniesienie
+[abrupt]abrupt (EN) : (p.) nagły; (p.) obcesowy; (p.) opryskliwy; (p.) raptowny; (p.) stromy; (p.) szorstki
+[abruptly]abruptly (EN) : (p-sł.) nagle
+[abruptness]abruptness (EN) : (rz.) gwałtowność; (rz.) nagłość; (rz.) obcesowość; (rz.) ostrość; (rz.) szorstkość
+[abscess]abscess (EN) : (rz.) czyrak; (rz.) ropień; (rz.) wrzód
+[abscissa]abscissa (EN) : (rz.) odcięta
+[abscond]abscond (EN) : (cz.) uciekać
+[absconder]absconder (EN) : (rz.) uciekinier; (rz.) zbieg
+[absence]absence (EN) : (rz.) absencja; (rz.) brak; (rz.) nieobecność; (rz.) niestawiennictwo
+[absent]absent (EN) : (cz.) opuszczać; (p.) nieobecny
+[absent-minded]absent-minded (EN) : (p.) nieuważny; (p.) roztrzepany
+[absent-mindedness]absent-mindedness (EN) : (rz.) roztargnienie; (rz.) zapominanie
+[absenteeism]absenteeism (EN) : (rz.) absencja; (rz.) bumelanctwo; (rz.) nieobecność
+[absenter]absenter (EN) : (p.) nieobecny
+[absenting]absenting (EN) : (rz.) opuszczanie
+[absentminded]absentminded (EN) : (p.) nieuważny; (p.) roztargniony
+[absentmindedness]absentmindedness (EN) : (rz.) roztargnienie; (rz.) zapominanie
+[absinth]absinth (EN) : (rz.) absynt
+[absinthe]absinthe (EN) : (rz.) absynt
+[absolute]absolute (EN) : (p.) absolutny; (p.) bezsporny; (p.) bezwarunkowy; (p.) bezwzględny; (p.) całkowity; (p.) czysty; (p.) prawdziwy; (p.) stanowczy; (p.) stwierdzony; (p.) zupełny; (rz.) absolut; (rz.) absolutyzacja; (rz.) piołunówka
+[absolutely]absolutely (EN) : (p-sł.) absolutnie; (p-sł.) bezwarunkowo; (p-sł.) bezwzględnie; (p-sł.) całkowicie; (p-sł.) kategorycznie; (p-sł.) koniecznie; (p-sł.) niepodzielnie; (p-sł.) oczywiście; (p-sł.) rzeczywiście
+[absoluteness]absoluteness (EN) : (rz.) absolutność; (rz.) bezwzględność; (rz.) nieograniczoność
+[absolution]absolution (EN) : (rz.) absolucja; (rz.) odpuszczenie; (rz.) przebaczenie; (rz.) rozgrzeszenie
+[absolutism]absolutism (EN) : (rz.) absolutyzm
+[absolutist]absolutist (EN) : (rz.) absolutysta
+[absolutistic]absolutistic (EN) : (p.) absolutystyczny
+[absolve]absolve (EN) : (cz.) darować; (cz.) oczyścić; (cz.) odpuszczać; (cz.) przebaczać; (cz.) rozgrzeszać; (cz.) rozgrzeszyć; (cz.) uwalniać; (cz.) uwolnić; (cz.) zwalniać; (cz.) zwolnić
+[absorb]absorb (EN) : (cz.) absorbować; (cz.) amortyzować; (cz.) chłonąć; (cz.) pochłaniać; (cz.) przyswajać; (cz.) wchłaniać; (cz.) wsysać; (cz.) zaabsorbować
+[absorbability]absorbability (EN) : (rz.) nasiąkliwość
+[absorbable]absorbable (EN) : (p.) nasiąkliwy
+[absorbency]absorbency (EN) : (rz.) absorpcja; (rz.) pochłanianie; (rz.) wchłanianie
+[absorbent]absorbent (EN) : (p.) chłonny
+[absorber]absorber (EN) : (rz.) amortyzator; (rz.) pochłaniacz; (rz.) tłumik
+[absorption]absorption (EN) : (rz.) absorpcja; (rz.) pochłanianie; (rz.) pochłonięcie; (rz.) przyswajanie; (rz.) spożytkowanie; (rz.) wchłanianie; (rz.) wchłonięcie; (rz.) zaabsorbowanie
+[absorptive]absorptive (EN) : (p.) absorpcyjny; (p.) chłonny; (p.) wsiąkliwy
+[abstain]abstain (EN) : (cz.) powstrzymywać; (cz.) wstrzymywać
+[abstainer]abstainer (EN) : (rz.) abstynent
+[abstemious]abstemious (EN) : (p.) wstrzemięźliwy
+[abstention]abstention (EN) : (rz.) wstrzymanie; (rz.) wstrzymywanie
+[abstinence]abstinence (EN) : (rz.) abstynencja; (rz.) powściągliwość; (rz.) trzeźwość; (rz.) wstrzemięźliwość
+[abstinent]abstinent (EN) : (p.) abstynencki; (p.) wstrzemięźliwy
+[abstract]abstract (EN) : (cz.) oddzielać; (cz.) wyciągać; (cz.) wydobyć; (cz.) wydobywać; (p.) abstrakcyjny; (p.) mętny; (p.) niejasny; (p.) oderwany; (rz.) abstrakcja; (rz.) abstrakt; (rz.) skrót; (rz.) streszczanie; (rz.) streszczenie; (rz.) wyciąg; (rz.) wypis
+[abstractedly]abstractedly (EN) : (p-sł.) nieuważnie
+[abstractedness]abstractedness (EN) : (rz.) obojętność
+[abstraction]abstraction (EN) : (rz.) abstrahowanie; (rz.) abstrakcja; (rz.) oddzielenie; (rz.) usunięcie
+[abstractionism]abstractionism (EN) : (rz.) abstrakcjonizm
+[abstractly]abstractly (EN) : (p-sł.) abstrakcyjnie
+[abstruse]abstruse (EN) : (p.) ciemny; (p.) niejasny; (p.) tajemniczy; (p.) węzłowaty; (p.) zawiły
+[absurd]absurd (EN) : (p.) absurdalny; (p.) bezsensowny; (p.) głupi; (p.) idiotyczny; (p.) niedorzeczny
+[absurdity]absurdity (EN) : (rz.) absurd; (rz.) absurdalność; (rz.) niedorzeczność; (rz.) nonsens
+[absurdly]absurdly (EN) : (p-sł.) absurdalnie
+[abundance]abundance (EN) : (rz.) dostatek; (rz.) hojność; (rz.) obfitość; (rz.) urodzaj
+[abundant]abundant (EN) : (p.) bogaty; (p.) bujny; (p.) liczny; (p.) nadmierny; (p.) obfity; (p.) płodny; (p.) sowity; (p.) szczodry; (p.) zasobny
+[abundantly]abundantly (EN) : (p-sł.) jasno; (p-sł.) obficie; (p-sł.) suto; (p-sł.) wyraźnie
+[abuse]abuse (EN) : (cz.) maltretować; (cz.) nadużywać; (cz.) obrażać; (cz.) wykorzystywać; (cz.) zamęczać; (cz.) znęcać; (cz.) znieważać; (rz.) nadużycie; (rz.) nadużywanie; (rz.) znęcanie; (rz.) zniewaga
+[abusing]abusing (EN) : (rz.) lżenie; (rz.) maltretowanie; (rz.) nadużycie; (rz.) obelga; (rz.) obraza; (rz.) wykorzystywanie; (rz.) wyzwisko; (rz.) zniesławienie
+[abusive]abusive (EN) : (p.) obelżywy; (p.) obraźliwy; (p.) znieważający
+[abusiveness]abusiveness (EN) : (rz.) lżenie; (rz.) przeklinanie; (rz.) złorzeczenie
+[abut]abut (EN) : (cz.) graniczyć; (cz.) opierać; (cz.) stykać
+[abysmal]abysmal (EN) : (p.) bezdenny; (p.) beznadziejny; (p.) ekstremalny; (p.) fatalny; (p.) przepastny; (p.) sromotny
+[abysmally]abysmally (EN) : (p-sł.) bezdennie; (p-sł.) przepastnie
+[abyss]abyss (EN) : (rz.) czeluść; (rz.) głębia; (rz.) otchłań
+[abyssal]abyssal (EN) : (p.) głębinowy
+[ac]ac (EN) : (rz.) prąd; (rz.) zasilacz
+[acacia]acacia (EN) : (rz.) akacja
+[academia]academia (EN) : (rz.) akademia
+[academic]academic (EN) : (p.) akademicki; (p.) formalny; (p.) jałowy; (p.) naukowy; (p.) teoretyczny; (rz.) akademickość; (rz.) akademik; (rz.) naukowiec
+[academy]academy (EN) : (rz.) akademia; (rz.) uczelnia
+[acanthus]acanthus (EN) : (rz.) akant
+[accede]accede (EN) : (cz.) akceptować; (cz.) dołączyć; (cz.) przychylać; (cz.) przychylić; (cz.) przyjmować; (cz.) przystąpić; (cz.) przystawać; (cz.) przystępować; (cz.) wstąpić; (cz.) wstępować; (cz.) zgadzać; (cz.) zgodzić
+[accelerate]accelerate (EN) : (cz.) przyspieszać; (cz.) rozpędzać
+[acceleration]acceleration (EN) : (rz.) akceleracja; (rz.) przyspieszenie; (rz.) rozruch
+[accelerator]accelerator (EN) : (rz.) akcelerator; (rz.) katalizator; (rz.) przyspieszacz
+[accelerators]accelerators (EN) : (rz.) przyspieszacz; (rz.) przyśpieszacz
+[accelerometer]accelerometer (EN) : (rz.) przyspieszeniomierz
+[accent]accent (EN) : (cz.) akcentować; (cz.) podkreślać; (cz.) przyjmować; (rz.) akcent; (rz.) kreska; (rz.) nacisk; (rz.) przycisk; (rz.) wymowa
+[accentual]accentual (EN) : (p.) akcentowy
+[accentuate]accentuate (EN) : (cz.) akcentować; (cz.) podkreślać; (cz.) uwydatniać; (cz.) uwydatnić; (cz.) uwypuklać; (cz.) zaakcentować
+[accentuation]accentuation (EN) : (rz.) akcentowanie; (rz.) podkreślenie; (rz.) zaakcentowanie
+[accept]accept (EN) : (cz.) akceptować; (cz.) honorować; (cz.) pogodzić; (cz.) przyjąć; (cz.) przyjmować; (cz.) przystać; (cz.) zaakceptować; (cz.) zgadzać
+[acceptability]acceptability (EN) : (rz.) akceptacja; (rz.) akceptowalność
+[acceptable]acceptable (EN) : (p.) akceptowalny; (p.) dopuszczalny; (p.) możliwy
+[acceptably]acceptably (EN) : (p-sł.) odpowiednio
+[acceptance]acceptance (EN) : (rz.) akcept; (rz.) akceptacja; (rz.) przyjęcie; (rz.) zgoda
+[acceptation]acceptation (EN) : (rz.) akceptacja; (rz.) kolaudacja
+[accepter]accepter (EN) : (rz.) akceptor
+[accepting]accepting (EN) : (p.) akceptacyjny; (rz.) przyjmowanie
+[acceptor]acceptor (EN) : (rz.) akceptant; (rz.) akceptor
+[access]access (EN) : (cz.) ściągać; (rz.) akces; (rz.) atak; (rz.) dojazd; (rz.) dojście; (rz.) dostęp; (rz.) napad; (rz.) przystęp
+[accessibility]accessibility (EN) : (rz.) dostępność; (rz.) przystępność
+[accessible]accessible (EN) : (p.) dojazdowy; (p.) dostępny; (p.) osiągalny; (p.) przystępny
+[accession]accession (EN) : (rz.) akces; (rz.) akcesja; (rz.) dojście; (rz.) dostęp; (rz.) objęcie; (rz.) przejęcie; (rz.) przystąpienie; (rz.) wstąpienie
+[accessories]accessories (EN) : (rz.) akcesoria; (rz.) dodatki; (rz.) osprzęt; (rz.) przybory
+[accessory]accessory (EN) : (rz.) akcesoria; (rz.) dodatek; (rz.) osprzęt; (rz.) przybory; (rz.) wspólnik; (rz.) współsprawca; (rz.) wyposażenie
+[accidence]accidence (EN) : (rz.) gram
+[accident]accident (EN) : (rz.) awaria; (rz.) katastrofa; (rz.) kraksa; (rz.) przypadek; (rz.) wypadek
+[accident-prone]accident-prone (EN) : (p.) pechowy
+[accidental]accidental (EN) : (p.) drugorzędny; (p.) nieistotny; (p.) przygodny; (p.) przypadkowy; (p.) uboczny
+[accidentally]accidentally (EN) : (p-sł.) przypadkowo
+[acclaim]acclaim (EN) : (cz.) aklamować; (cz.) ogłaszać; (cz.) oklaskiwać; (cz.) przyjmować; (rz.) uznanie
+[acclaiming]acclaiming (EN) : (rz.) uznawanie
+[acclamation]acclamation (EN) : (rz.) aklamacja
+[acclimate]acclimate (EN) : (cz.) aklimatyzować; (cz.) przyzwyczaić; (cz.) przyzwyczajać; (cz.) zaaklimatyzować
+[acclimated]acclimated (EN) : (rz.) aklimatyzowanie
+[acclimation]acclimation (EN) : (rz.) aklimatyzacja
+[acclimatization]acclimatization (EN) : (rz.) aklimatyzacja
+[acclimatize]acclimatize (EN) : (cz.) aklimatyzować; (cz.) przyzwyczaić; (cz.) przyzwyczajać; (cz.) zaaklimatyzować
+[acclimatized]acclimatized (EN) : (cz.) zaaklimatyzować
+[acclimatizing]acclimatizing (EN) : (rz.) aklimatyzowanie
+[acclivity]acclivity (EN) : (rz.) wzniesienie
+[accolade]accolade (EN) : (rz.) pochwała; (rz.) uznanie
+[accommodate]accommodate (EN) : (cz.) akomodować; (cz.) dostosować; (cz.) przystosować; (cz.) przystosowywać; (cz.) rozmieszczać; (cz.) ulokować; (cz.) wyświadczyć; (cz.) zakwaterować; (cz.) zaopatrywać; (cz.) zaopatrzyć; (cz.) zaspokajać
+[accommodating]accommodating (EN) : (p.) kompromisowy; (p.) uprzejmy; (p.) usłużny
+[accommodation]accommodation (EN) : (rz.) akomodacja; (rz.) dostosowanie; (rz.) kwatera; (rz.) kwaterowanie; (rz.) mieszkanie; (rz.) nocleg; (rz.) przystosowanie; (rz.) ugoda; (rz.) umieszczenie; (rz.) zakwaterowanie; (rz.) zaopatrzenie
+[accompanied]accompanied (EN) : (cz.) towarzyszyć
+[accompaniment]accompaniment (EN) : (rz.) akompaniament; (rz.) dodatek; (rz.) rozszerzenie; (rz.) towarzyszenie; (rz.) wtór
+[accompanist]accompanist (EN) : (rz.) akompaniator
+[accompany]accompany (EN) : (cz.) akompaniować; (cz.) asystować; (cz.) odprowadzać; (cz.) towarzyszyć; (cz.) wtórować; (cz.) załączać
+[accomplice]accomplice (EN) : (rz.) wspólnik; (rz.) współsprawca
+[accomplish]accomplish (EN) : (cz.) dokonywać; (cz.) doskonalić; (cz.) kończyć; (cz.) osiągać; (cz.) realizować; (cz.) skończyć; (cz.) spełniać; (cz.) spełnić; (cz.) wykonać; (cz.) wykończyć; (cz.) zrealizować
+[accomplished]accomplished (EN) : (p.) utalentowany; (p.) znakomity
+[accomplisher]accomplisher (EN) : (rz.) wykonawca
+[accomplishment]accomplishment (EN) : (rz.) dokonanie; (rz.) majstersztyk; (rz.) osiągnięcie; (rz.) spełnienie; (rz.) uzdolnienie; (rz.) wykończenie; (rz.) zdobycie; (rz.) zrealizowanie
+[accord]accord (EN) : (cz.) okazywać; (cz.) przyznać; (cz.) udzielać; (cz.) udzielić; (cz.) uzgadniać; (cz.) wyświadczać; (cz.) zgadzać; (rz.) akord; (rz.) harmonia; (rz.) porozumienie; (rz.) uzgodnienie; (rz.) współbrzmienie; (rz.) zgoda; (rz.) zgodność
+[accordance]accordance (EN) : (rz.) koncert; (rz.) zgoda; (rz.) zgodność
+[according]according (EN) : (p-im.) według
+[accordingly]accordingly (EN) : (p-sł.) odpowiednio; (p-sł.) stosownie
+[accordion]accordion (EN) : (rz.) akordeon; (rz.) harmonia
+[accordionist]accordionist (EN) : (rz.) akordeonista; (rz.) harmonista
+[accost]accost (EN) : (cz.) zaczepiać; (cz.) zaczepić; (cz.) zagadnąć; (cz.) zbliżyć; (cz.) zwrócić
+[account]account (EN) : (cz.) objaśniać; (cz.) obliczać; (cz.) obliczyć; (cz.) oceniać; (cz.) ocenić; (cz.) rozliczać; (cz.) ujmować; (cz.) uważać; (cz.) uwzględniać; (cz.) wyjaśniać; (cz.) wyliczać; (cz.) zaksięgować; (cz.) zestawiać; (rz.) konto; (rz.) kredyt; (rz.) obrachunek; (rz.) poczet; (rz.) rachunek; (rz.) raport; (rz.) rejestracja; (rz.) relacja; (rz.) sprawozdanie
+[accountability]accountability (EN) : (rz.) odpowiedzialność
+[accountable]accountable (EN) : (p.) odpowiedzialny; (p.) poczytalny
+[accountancy]accountancy (EN) : (rz.) księgowość; (rz.) rachmistrzostwo; (rz.) rachunkowość
+[accountant]accountant (EN) : (rz.) bilansista; (rz.) buchalter; (rz.) kontroler; (rz.) księgowa; (rz.) rachmistrz
+[accounting]accounting (EN) : (rz.) księgowanie; (rz.) księgowość; (rz.) rachunkowość
+[accounts]accounts (EN) : (rz.) księgowość; (rz.) rozliczenie
+[accredit]accredit (EN) : (cz.) akredytować; (cz.) przypisać; (cz.) upełnomocniać; (cz.) upełnomocnić
+[accreditation]accreditation (EN) : (rz.) akredytacja; (rz.) uwierzytelnienie
+[accretion]accretion (EN) : (rz.) narastanie; (rz.) przyrost
+[accrual]accrual (EN) : (rz.) przyrost
+[accrue]accrue (EN) : (cz.) gromadzić; (cz.) narastać; (cz.) powiększać; (cz.) przyrastać; (cz.) wzbogacać; (cz.) wzrastać; (cz.) zgromadzać; (cz.) zgromadzić; (cz.) zwiększać
+[accumulate]accumulate (EN) : (cz.) akumulować; (cz.) gromadzić; (cz.) kumulować; (cz.) nagromadzić; (cz.) narastać; (cz.) nasadzać; (cz.) odkładać; (cz.) skumulować; (cz.) skupiać; (cz.) zakumulować; (cz.) zbierać; (cz.) zgromadzać; (cz.) zgromadzić
+[accumulated]accumulated (EN) : (cz.) akumulować
+[accumulating]accumulating (EN) : (rz.) gromadzenie; (rz.) narastanie
+[accumulation]accumulation (EN) : (rz.) akumulacja; (rz.) kumulacja; (rz.) nagromadzenie; (rz.) nawarstwienie; (rz.) spiętrzenie
+[accumulator]accumulator (EN) : (rz.) akumulator
+[accuracy]accuracy (EN) : (rz.) celność; (rz.) dokładność; (rz.) prawidłowość; (rz.) punktualność; (rz.) ścisłość; (rz.) trafność; (rz.) troskliwość; (rz.) wierność
+[accurate]accurate (EN) : (p.) akuratny; (p.) celny; (p.) dokładny; (p.) prawidłowy; (p.) precyzyjny; (p.) punktualny; (p.) ścisły; (p.) trafny
+[accurately]accurately (EN) : (p-sł.) celnie; (p-sł.) dokładnie; (p-sł.) trafnie
+[accusation]accusation (EN) : (rz.) obwinienie; (rz.) oskarżenie; (rz.) zarzut
+[accusative]accusative (EN) : (rz.) biernik
+[accusatory]accusatory (EN) : (p.) oskarżycielski
+[accuse]accuse (EN) : (cz.) obwiniać; (cz.) oskarżać; (cz.) oskarżyć; (cz.) zarzucać
+[accused]accused (EN) : (p.) oskarżony; (p.) podsądny
+[accuser]accuser (EN) : (rz.) oskarżyciel
+[accusing]accusing (EN) : (p.) oskarżycielski
+[accustom]accustom (EN) : (cz.) przyzwyczaić; (cz.) przyzwyczajać
+[accustomed]accustomed (EN) : (p.) przyzwyczajony; (p.) zwyczajny; (p.) zwykły
+[ace]ace (EN) : (rz.) as; (rz.) oczko
+[acerbic]acerbic (EN) : (p.) cierpki; (p.) zaciekły; (p.) zgryźliwy; (p.) żwawy
+[acerbity]acerbity (EN) : (rz.) cierpkość; (rz.) uszczypliwość; (rz.) zgryźliwość
+[acetaldehyde]acetaldehyde (EN) : (rz.) acetaldehyd
+[acetate]acetate (EN) : (rz.) octan
+[acetic]acetic (EN) : (p.) octowy
+[acetifier]acetifier (EN) : (rz.) stojak
+[acetify]acetify (EN) : (cz.) zakwasić; (cz.) zakwaszać
+[acetone]acetone (EN) : (rz.) aceton
+[acetylcholine]acetylcholine (EN) : (rz.) acetylocholina
+[acetylene]acetylene (EN) : (rz.) acetylen
+[acetylsalicylic]acetylsalicylic (EN) : (p.) acetylosalicylowy
+[ache]ache (EN) : (cz.) boleć; (rz.) ból
+[achievable]achievable (EN) : (p.) osiągalny
+[achieve]achieve (EN) : (cz.) dokonać; (cz.) dokonywać; (cz.) osiągać; (cz.) osiągnąć; (cz.) realizować; (cz.) spełniać; (cz.) spełnić; (cz.) wypełniać; (cz.) wypełnić; (cz.) zdobyć; (cz.) zdobywać
+[achieved]achieved (EN) : (cz.) osiągać; (cz.) zrealizować
+[achievement]achievement (EN) : (rz.) dokonanie; (rz.) osiągnięcie; (rz.) wyczyn; (rz.) zdobycz
+[achieving]achieving (EN) : (rz.) osiągniecie
+[aching]aching (EN) : (p.) bolesny; (p.) zbolały
+[achromatic]achromatic (EN) : (p.) achromatyczny; (p.) bezbarwny
+[acicular]acicular (EN) : (p.) iglasty
+[acid]acid (EN) : (p.) cierpki; (p.) kwaśny; (p.) kwasowy; (p.) solny; (rz.) kwas; (rz.) kwasek
+[acid-forming]acid-forming (EN) : (p.) kwasotwórczy
+[acid-proof]acid-proof (EN) : (p.) kwasoodporny
+[acid-resistant]acid-resistant (EN) : (p.) kwasoodporny
+[acidic]acidic (EN) : (p.) kwaskowaty; (p.) kwaśny; (p.) kwasotwórczy; (p.) kwasowy
+[acidification]acidification (EN) : (rz.) kwaśnienie; (rz.) zakwaszanie; (rz.) zakwaszenie
+[acidify]acidify (EN) : (cz.) kwaśnieć; (cz.) zakwaszać
+[acidifying]acidifying (EN) : (rz.) kwaszenie; (rz.) zakwaszanie
+[acidity]acidity (EN) : (rz.) kwaśność; (rz.) kwasota; (rz.) kwasowość
+[acidly]acidly (EN) : (p-sł.) kwaśno
+[acidosis]acidosis (EN) : (rz.) kwasica
+[acidulate]acidulate (EN) : (cz.) podkwasić; (cz.) podkwaszać; (cz.) zakwasić
+[acidulous]acidulous (EN) : (p.) kwaskowaty; (p.) kwaskowy
+[aciform]aciform (EN) : (p.) iglasty
+[acknowledge]acknowledge (EN) : (cz.) podziękować; (cz.) potwierdzać; (cz.) potwierdzić; (cz.) przyznać; (cz.) przyznawać; (cz.) uznać; (cz.) uznawać
+[acknowledgement]acknowledgement (EN) : (rz.) podziękowanie; (rz.) potwierdzenie; (rz.) przyznanie; (rz.) uznanie; (rz.) wdzięczność
+[acknowledgment]acknowledgment (EN) : (rz.) honorowanie; (rz.) podziękowanie; (rz.) potwierdzenie; (rz.) przyznanie; (rz.) uznanie; (rz.) wdzięczność
+[acme]acme (EN) : (rz.) korona; (rz.) szczyt
+[acne]acne (EN) : (rz.) pryszczyk; (rz.) trądzik
+[acolyte]acolyte (EN) : (rz.) akolita; (rz.) pomocnik
+[aconite]aconite (EN) : (rz.) akonit
+[acorn]acorn (EN) : (rz.) żołądź
+[acoustic]acoustic (EN) : (p.) akustyczny; (p.) dźwiękowy; (rz.) akustyka
+[acoustical]acoustical (EN) : (p.) akustyczny
+[acoustically]acoustically (EN) : (p.) akustyczny
+[acoustician]acoustician (EN) : (rz.) akustyk; (rz.) akustyka
+[acoustics]acoustics (EN) : (rz.) akustyka
+[acquaint]acquaint (EN) : (cz.) donieść; (cz.) zapoznać; (cz.) zapoznawać; (cz.) zawiadamiać; (cz.) zaznajamiać; (cz.) zaznajomić
+[acquaintance]acquaintance (EN) : (rz.) znajoma; (rz.) znajomość
+[acquaintanceship]acquaintanceship (EN) : (rz.) zapoznanie
+[acquainting]acquainting (EN) : (rz.) obznajomienie
+[acquiesce]acquiesce (EN) : (cz.) pogodzić; (cz.) przystawać; (cz.) przyzwalać; (cz.) zgadzać
+[acquiescence]acquiescence (EN) : (rz.) przyzwolenie; (rz.) zezwolenie; (rz.) zgoda
+[acquiescent]acquiescent (EN) : (p.) przychylny; (p.) spolegliwy; (p.) standardowy
+[acquire]acquire (EN) : (cz.) nabyć; (cz.) nabywać; (cz.) osiągać; (cz.) osiągnąć; (cz.) posiąść; (cz.) pozyskiwać; (cz.) rozwijać; (cz.) uzyskać; (cz.) uzyskiwać; (cz.) zdobyć; (cz.) zdobywać; (cz.) zyskać
+[acquirement]acquirement (EN) : (rz.) nabycie; (rz.) nabytek
+[acquirer]acquirer (EN) : (rz.) klient; (rz.) nabywca
+[acquisition]acquisition (EN) : (rz.) akwizycja; (rz.) dorobek; (rz.) nabycie; (rz.) nabytek; (rz.) nabywanie; (rz.) zbieranie; (rz.) zdobycie; (rz.) zdobywanie
+[acquisitions]acquisitions (EN) : (rz.) nabywanie
+[acquisitive]acquisitive (EN) : (p.) pazerny; (p.) zachłanny
+[acquit]acquit (EN) : (cz.) uiszczać; (cz.) uniewinniać; (cz.) uniewinnić; (cz.) uwalniać; (cz.) uwolnić; (cz.) zwalniać; (cz.) zwolnić
+[acquittal]acquittal (EN) : (rz.) spłacenie; (rz.) uniewinnienie
+[acre]acre (EN) : (rz.) akr
+[acreage]acreage (EN) : (rz.) areał; (rz.) powierzchnia
+[acrid]acrid (EN) : (p.) cierpki; (p.) kwaskowaty; (p.) ostry; (p.) spiczasty
+[acridity]acridity (EN) : (rz.) cierpkość; (rz.) kwaskowatość
+[acrimonious]acrimonious (EN) : (p.) cierpki; (p.) uszczypliwy; (p.) zaciekły; (p.) zgryźliwy; (p.) zjadliwy
+[acrimony]acrimony (EN) : (rz.) cierpkość; (rz.) gorycz; (rz.) szorstkość; (rz.) zażartość; (rz.) zjadliwość
+[acrobat]acrobat (EN) : (rz.) akrobata; (rz.) ekwilibrysta; (rz.) linoskoczek
+[acrobatic]acrobatic (EN) : (p.) akrobatyczny
+[acrobatics]acrobatics (EN) : (rz.) akrobacja; (rz.) akrobatyka; (rz.) ekwilibrystyka
+[acronym]acronym (EN) : (rz.) akronim; (rz.) skrót; (rz.) skrótowiec
+[acropolis]acropolis (EN) : (rz.) akropol
+[across]across (EN) : (p-im.) przez; (p-sł.) poprzecznie; (p-sł.) poprzez; (p-sł.) poziomo; (p-sł.) wszerz
+[acrostic]acrostic (EN) : (rz.) akrostych
+[acrylic]acrylic (EN) : (p.) akrylowy; (rz.) akryl
+[act]act (EN) : (cz.) działać; (cz.) grać; (cz.) pełnić; (cz.) pośredniczyć; (cz.) postąpić; (cz.) postępować; (cz.) pracować; (cz.) robić; (cz.) spełniać; (cz.) sterować; (cz.) wpływać; (cz.) występować; (cz.) zachowywać; (cz.) zadziałać; (rz.) akt; (rz.) czyn; (rz.) dokument; (rz.) pełnienie; (rz.) postępek; (rz.) uchwała; (rz.) uczynek; (rz.) ustawa; (rz.) zgrywa
+[acting]acting (EN) : (rz.) aktorstwo; (rz.) działanie; (rz.) gra
+[actinic]actinic (EN) : (p.) aktyniczny
+[actinide]actinide (EN) : (rz.) aktynowiec
+[actinium]actinium (EN) : (rz.) aktyn
+[action]action (EN) : (p.) sensacyjny; (rz.) akcja; (rz.) czyn; (rz.) czynność; (rz.) działalność; (rz.) działanie; (rz.) łania; (rz.) obsługiwanie; (rz.) poczynanie; (rz.) postępowanie; (rz.) powództwo; (rz.) ruch; (rz.) skarga; (rz.) sprawa
+[actionable]actionable (EN) : (p.) zaskarżalny
+[activate]activate (EN) : (cz.) aktywizować; (cz.) aktywować; (cz.) czynić; (cz.) ożywiać; (cz.) ożywić; (cz.) pobudzać; (cz.) poruszać; (cz.) przyspieszać; (cz.) uaktywnić; (cz.) uruchamiać; (cz.) włączyć; (cz.) wywołać; (cz.) wzbudzać
+[activated]activated (EN) : (cz.) uaktywniać
+[activation]activation (EN) : (rz.) aktywacja; (rz.) aktywizacja; (rz.) aktywowanie
+[activator]activator (EN) : (rz.) aktywator
+[active]active (EN) : (p.) aktywny; (p.) czynny; (p.) realny; (p.) ruchliwy; (p.) żywy; (rz.) aktyw
+[actively]actively (EN) : (p-sł.) aktywnie; (p-sł.) czynnie
+[activism]activism (EN) : (rz.) aktywizm
+[activist]activist (EN) : (rz.) aktywista; (rz.) działacz
+[activity]activity (EN) : (rz.) aktywność; (rz.) ćwiczenie; (rz.) czynność; (rz.) działalność; (rz.) działanie; (rz.) energia; (rz.) ożywienie; (rz.) zajęcie
+[actor]actor (EN) : (rz.) agens; (rz.) aktor
+[actor's]actor's (EN) : (p.) aktorski
+[actors]actors (EN) : (rz.) obsada
+[actress]actress (EN) : (rz.) aktorka; (rz.) piłkarz
+[actual]actual (EN) : (p.) bezwzględny; (p.) faktyczny; (p.) rzeczywisty; (p.) współczesny
+[actuality]actuality (EN) : (rz.) realizm; (rz.) rzeczywistość
+[actualization]actualization (EN) : (rz.) aktualizacja
+[actualize]actualize (EN) : (cz.) urzeczywistniać; (cz.) urzeczywistnić; (cz.) zrealizować
+[actualizing]actualizing (EN) : (rz.) aktualizowanie
+[actually]actually (EN) : (p-sł.) faktycznie; (p-sł.) istotnie; (p-sł.) rzeczywiście; (p-sł.) właściwie
+[actuarial]actuarial (EN) : (p.) ubezpieczeniowy
+[actuary]actuary (EN) : (rz.) ekspert; (rz.) rzeczoznawca
+[actuate]actuate (EN) : (cz.) dynamizować; (cz.) pobudzać; (cz.) pobudzić; (cz.) poruszyć; (cz.) uruchamiać; (cz.) wpływać; (cz.) wprawiać; (cz.) wykonać; (cz.) wywołać
+[actuation]actuation (EN) : (rz.) uobecnienie; (rz.) uruchomienie; (rz.) uzbrojenie
+[actuator]actuator (EN) : (rz.) pozycjoner; (rz.) rozrusznik; (rz.) serwomotor; (rz.) siłownik
+[acuity]acuity (EN) : (rz.) ostrość
+[aculeate]aculeate (EN) : (p.) kolczasty
+[acumen]acumen (EN) : (rz.) bystrość; (rz.) orientacja; (rz.) wnikliwość
+[acupressure]acupressure (EN) : (rz.) akupresura
+[acupuncture]acupuncture (EN) : (rz.) akupunktura
+[acute]acute (EN) : (p.) bystry; (p.) dotkliwy; (p.) ostry; (p.) przenikliwy; (p.) uciążliwy; (p.) wnikliwy
+[acutely]acutely (EN) : (p-sł.) dotkliwie; (p-sł.) przenikliwie; (p-sł.) wnikliwie
+[acuteness]acuteness (EN) : (rz.) bystrość; (rz.) czułość; (rz.) ostrość; (rz.) wnikliwość
+[acyclic]acyclic (EN) : (p.) acykliczny
+[ad]ad (EN) : (rz.) ogłoszenie; (rz.) reklama
+[ad-lib]ad-lib (EN) : (cz.) improwizować
+[adage]adage (EN) : (rz.) maksyma; (rz.) powiedzenie; (rz.) przysłowie
+[adamant]adamant (EN) : (p.) twardy; (rz.) diament; (rz.) kamień
+[adamantine]adamantine (EN) : (p.) diamentowy; (p.) twardy
+[adapt]adapt (EN) : (cz.) adaptować; (cz.) adoptować; (cz.) dostosować; (cz.) dostosowywać; (cz.) posmarować; (cz.) przerabiać; (cz.) przerobić; (cz.) przystosować; (cz.) przystosowywać; (cz.) przyzwyczaić; (cz.) umieszczać; (cz.) zaadaptować; (cz.) zaadoptować; (cz.) zastosować
+[adaptability]adaptability (EN) : (rz.) przystosowalność; (rz.) zdolność
+[adaptable]adaptable (EN) : (p.) przystosowalny
+[adaptation]adaptation (EN) : (rz.) adaptacja; (rz.) dostosowanie; (rz.) przeróbka; (rz.) przystosowanie; (rz.) przystosowywanie
+[adapted]adapted (EN) : (p.) przystosowany; (p.) zaadaptowany
+[adapter]adapter (EN) : (rz.) łącznik; (rz.) nasadka; (rz.) przedłużacz; (rz.) przejściówka
+[adapting]adapting (EN) : (rz.) adaptacja; (rz.) dostosowywanie; (rz.) przystosowalność; (rz.) przystosowanie; (rz.) przystosowywanie
+[adaptive]adaptive (EN) : (p.) adaptacyjny; (p.) inteligentny; (rz.) dopasowywanie
+[adaptor]adaptor (EN) : (rz.) adaptator; (rz.) rozgałęziacz
+[add]add (EN) : (cz.) dodać; (cz.) dodawać; (cz.) dokładać; (cz.) dołączać; (cz.) dołączyć; (cz.) dolewać; (cz.) doliczać; (cz.) doliczyć; (cz.) dołożyć; (cz.) dopisać; (cz.) dopisywać; (cz.) dorzucić; (cz.) powiększać
+[add-in]add-in (EN) : (rz.) dodatek; (rz.) rozszerzenie
+[add-on]add-on (EN) : (rz.) dodatek; (rz.) rozszerzenie
+[add-or-subtract]add-or-subtract (EN) : (rz.) dodaj
+[add-subtract]add-subtract (EN) : (cz.) dodawać-odejmować
+[added]added (EN) : (cz.) dochodzić; (cz.) dopisywać; (p.) wsadowy
+[addend]addend (EN) : (rz.) dodajnik
+[addendum]addendum (EN) : (rz.) dodatek; (rz.) uzupełnienie; (rz.) załącznik
+[adder]adder (EN) : (rz.) sumator; (rz.) żmija
+[addict]addict (EN) : (cz.) oddawać; (cz.) uprawiać; (rz.) entuzjasta; (rz.) nałogowiec; (rz.) narkoman
+[addicting]addicting (EN) : (rz.) uzależnianie
+[addiction]addiction (EN) : (rz.) nałóg; (rz.) uzależnienie
+[adding]adding (EN) : (rz.) dodatek; (rz.) dodawanie; (rz.) dopowiedzenie; (rz.) dorzucenie
+[addition]addition (EN) : (rz.) dodanie; (rz.) dodatek; (rz.) dodawanie; (rz.) nałóg; (rz.) rozszerzenie; (rz.) sumowanie; (rz.) uzupełnianie
+[additional]additional (EN) : (p.) dodatkowy; (p.) dodatni; (p.) nadprogramowy
+[additionally]additionally (EN) : (p-sł.) dodatkowo; (p-sł.) nadprogramowo
+[additions]additions (EN) : (rz.) wprowadzenie
+[additive]additive (EN) : (p.) addytywny; (rz.) dodatek; (rz.) domieszka; (rz.) przyprawa
+[addle]addle (EN) : (p.) nieświeży
+[addled]addled (EN) : (p.) nieświeży
+[address]address (EN) : (cz.) adresować; (cz.) odezwać; (cz.) przemawiać; (cz.) rozwiać; (cz.) skierować; (cz.) tytułować; (cz.) wystosowywać; (cz.) zaadresować; (cz.) zająć; (cz.) zajmować; (cz.) zaradzić; (cz.) zwracać; (rz.) adres; (rz.) adresowanie; (rz.) odezwa; (rz.) poruszenie; (rz.) przemówienie; (rz.) sprawność; (rz.) zajęcie; (rz.) zajmowanie; (rz.) zręczność
+[addressability]addressability (EN) : (rz.) adresowalność
+[addressable]addressable (EN) : (p.) adresowalny
+[addressee]addressee (EN) : (rz.) adresat
+[addresser]addresser (EN) : (rz.) adresarka; (rz.) adresograf
+[addressing]addressing (EN) : (rz.) adresowanie; (rz.) radzenie; (rz.) zwracanie
+[addressograph]addressograph (EN) : (rz.) adresarka; (rz.) adresograf
+[adduce]adduce (EN) : (cz.) cytować; (cz.) dostarczać; (cz.) powoływać; (cz.) przytaczać
+[adduction]adduction (EN) : (rz.) przytoczenie
+[adductor]adductor (EN) : (rz.) przywodziciel
+[adenine]adenine (EN) : (rz.) adenina
+[adenosine]adenosine (EN) : (rz.) adenozyna
+[adept]adept (EN) : (p.) biegły; (p.) doświadczony
+[adequacy]adequacy (EN) : (rz.) adekwatność; (rz.) dostateczność; (rz.) odpowiedniość; (rz.) pełność; (rz.) stosowność; (rz.) trafność; (rz.) właściwość
+[adequate]adequate (EN) : (p.) adekwatny; (p.) dorzeczny; (p.) dostateczny; (p.) kompetentny; (p.) odpowiedni; (p.) właściwy; (p.) wystarczający
+[adequately]adequately (EN) : (p-sł.) odpowiednio; (p-sł.) właściwie
+[adhere]adhere (EN) : (cz.) lgnąć; (cz.) należeć; (cz.) obstawać; (cz.) przylegać; (cz.) przywierać; (cz.) stosować; (cz.) trzymać
+[adherence]adherence (EN) : (rz.) adhezja; (rz.) lgnięcie; (rz.) połączenie; (rz.) przestrzeganie; (rz.) przyleganie; (rz.) przywiązanie; (rz.) przywieranie; (rz.) wierność
+[adherent]adherent (EN) : (rz.) stronnik; (rz.) zwolennik
+[adherer]adherer (EN) : (rz.) zwolennik
+[adhesion]adhesion (EN) : (rz.) adhezja; (rz.) aprobata; (rz.) przyczepność; (rz.) przyleganie; (rz.) przynależność; (rz.) przywieranie; (rz.) wierność; (rz.) zrost
+[adhesions]adhesions (EN) : (rz.) przyleganie
+[adhesive]adhesive (EN) : (p.) czepliwy; (p.) czepny; (p.) lepki; (p.) przyczepny; (p.) przylepny; (rz.) klej; (rz.) lepiszcze; (rz.) przylepiec; (rz.) spoiwo
+[adhesiveness]adhesiveness (EN) : (rz.) lepkość; (rz.) przyczepność; (rz.) przylepność
+[adiabatic]adiabatic (EN) : (p.) adiabatyczny
+[adieu]adieu (EN) : (rz.) pożegnanie
+[adipose]adipose (EN) : (p.) tłusty; (rz.) tłuszcz
+[adjacency]adjacency (EN) : (rz.) przyleganie; (rz.) sąsiedztwo
+[adjacent]adjacent (EN) : (p.) przylegający; (p.) sąsiadujący; (p.) sąsiedni; (p.) styczny
+[adjectival]adjectival (EN) : (p.) przymiotnikowy
+[adjectivally]adjectivally (EN) : (p-sł.) przymiotnikowo
+[adjective]adjective (EN) : (rz.) przymiotnik
+[adjectively]adjectively (EN) : (p-sł.) przymiotnikowo
+[adjoin]adjoin (EN) : (cz.) dołączyć; (cz.) dopisać; (cz.) przyłączyć; (cz.) przylegać; (cz.) sąsiadować
+[adjoining]adjoining (EN) : (p.) sąsiedni
+[adjourn]adjourn (EN) : (cz.) odraczać; (cz.) odroczyć; (cz.) przenieść; (cz.) przesuwać; (cz.) zakańczać; (cz.) zawiesić
+[adjournment]adjournment (EN) : (rz.) odroczenie
+[adjudge]adjudge (EN) : (cz.) osądzać; (cz.) osądzić; (cz.) przysądzać; (cz.) rozstrzygać
+[adjudicate]adjudicate (EN) : (cz.) przybić; (cz.) przybijać; (cz.) rozsądzać; (cz.) rozstrzygać
+[adjudication]adjudication (EN) : (rz.) orzeknięcie; (rz.) osąd; (rz.) werdykt; (rz.) wyrok
+[adjudicator]adjudicator (EN) : (rz.) sędzia
+[adjunct]adjunct (EN) : (rz.) adiunkt; (rz.) dodatek; (rz.) dopełnienie; (rz.) pomocnik; (rz.) przydawka; (rz.) uzupełnienie
+[adjuration]adjuration (EN) : (rz.) zaprzysiężenie
+[adjure]adjure (EN) : (cz.) zaklinać
+[adjust]adjust (EN) : (cz.) aklimatyzować; (cz.) dopasować; (cz.) dostosować; (cz.) modyfikować; (cz.) nastawiać; (cz.) nastawić; (cz.) nastrajać; (cz.) poprawiać; (cz.) przystosowywać; (cz.) przyzwyczaić; (cz.) przyzwyczajać; (cz.) regulować; (cz.) uporządkować; (cz.) uregulować; (cz.) ustalać; (cz.) wyregulować; (cz.) załatwiać; (cz.) załatwić
+[adjustable]adjustable (EN) : (p.) nastawczy; (p.) nastawialny; (p.) nastawny; (p.) regulowany
+[adjuster]adjuster (EN) : (rz.) nastawiacz; (rz.) rzeczoznawca; (rz.) ustawiacz
+[adjusting]adjusting (EN) : (p.) nastawczy; (p.) regulacyjny
+[adjustment]adjustment (EN) : (rz.) aklimatyzacja; (rz.) dopasowanie; (rz.) dostosowanie; (rz.) dostrojenie; (rz.) modyfikacja; (rz.) nastawienie; (rz.) poprawa; (rz.) poprawka; (rz.) przysposobienie; (rz.) przystosowanie; (rz.) regulacja; (rz.) rektyfikacja; (rz.) skorygowanie; (rz.) uporządkowanie; (rz.) uzgodnienie; (rz.) wyregulowanie; (rz.) wyrównanie
+[adjutant]adjutant (EN) : (rz.) adiutant
+[adjuvant]adjuvant (EN) : (rz.) polepszacz
+[adlib]adlib (EN) : (cz.) improwizować
+[admeasure]admeasure (EN) : (cz.) wymierzać
+[admin]admin (EN) : (rz.) administracja
+[administer]administer (EN) : (cz.) administrować; (cz.) aplikować; (cz.) dawać; (cz.) gospodarować; (cz.) kierować; (cz.) rozdawać; (cz.) stosować; (cz.) wymierzać; (cz.) wyznaczać; (cz.) zaaplikować; (cz.) zarządzać
+[administered]administered (EN) : (cz.) podawać
+[administrate]administrate (EN) : (cz.) administrować
+[administration]administration (EN) : (rz.) administracja; (rz.) administrowanie; (rz.) kierowanie; (rz.) obsługa; (rz.) podanie; (rz.) podawanie; (rz.) rząd; (rz.) władza; (rz.) zarząd; (rz.) zarządzanie
+[administrative]administrative (EN) : (p.) administracyjny
+[administratively]administratively (EN) : (p-sł.) administracyjnie
+[administrator]administrator (EN) : (rz.) zarządca
+[admirable]admirable (EN) : (p.) wspaniały; (p.) zachwycający
+[admiral]admiral (EN) : (rz.) admirał
+[admiral's]admiral's (EN) : (p.) admiralski
+[admiralty]admiralty (EN) : (rz.) admiralicja
+[admiration]admiration (EN) : (rz.) admiracja; (rz.) podziw; (rz.) zachwyt
+[admire]admire (EN) : (cz.) podziwiać; (cz.) uwielbiać
+[admirer]admirer (EN) : (rz.) adorator; (rz.) wielbiciel
+[admissibility]admissibility (EN) : (rz.) dopuszczalność
+[admissible]admissible (EN) : (p.) dopuszczalny
+[admission]admission (EN) : (rz.) dopływ; (rz.) dopuszczenie; (rz.) dostęp; (rz.) frekwencja; (rz.) przyjęcie; (rz.) przyznanie; (rz.) wejściówka; (rz.) widownia; (rz.) wlot; (rz.) wstęp; (rz.) zasilanie; (rz.) zasilenie
+[admit]admit (EN) : (cz.) dopuścić; (cz.) dopuszczać; (cz.) przyjąć; (cz.) przyjmować; (cz.) przyznać; (cz.) przyznawać; (cz.) stwierdzać; (cz.) wpuszczać; (cz.) zezwalać; (cz.) zezwolić
+[admittance]admittance (EN) : (rz.) dopuszczenie; (rz.) dostęp; (rz.) przyjęcie; (rz.) wstęp
+[admitted]admitted (EN) : (cz.) przyjmować; (p.) wierutny
+[admittedly]admittedly (EN) : (p-sł.) wprawdzie
+[admitting]admitting (EN) : (cz.) przyjmować
+[admix]admix (EN) : (cz.) domieszać; (cz.) pomieszać
+[admixture]admixture (EN) : (rz.) dodawanie; (rz.) domieszka; (rz.) przymieszka
+[admonish]admonish (EN) : (cz.) karcić; (cz.) napominać; (cz.) ostrzegać; (cz.) przestrzegać; (cz.) strofować; (cz.) upominać
+[admonishment]admonishment (EN) : (rz.) napomnienie; (rz.) pouczenie; (rz.) przestroga; (rz.) upomnienie
+[admonition]admonition (EN) : (rz.) admonicja; (rz.) napomnienie; (rz.) ostrzeżenie; (rz.) upominanie; (rz.) upomnienie
+[adnominal]adnominal (EN) : (p.) przydawkowy
+[ado]ado (EN) : (rz.) ceregiele; (rz.) gonitwa; (rz.) hałas; (rz.) wrzawa; (rz.) zamieszanie
+[adobe]adobe (EN) : (rz.) cegła
+[adolescence]adolescence (EN) : (rz.) dojrzewanie; (rz.) dorastanie; (rz.) młodość
+[adolescent]adolescent (EN) : (p.) młodociany; (p.) młodzieńczy; (rz.) dziewczyna; (rz.) młodzieniec; (rz.) nastolatek
+[adopt]adopt (EN) : (cz.) adoptować; (cz.) obrać; (cz.) przedsiębrać; (cz.) przyjąć; (cz.) przyjmować; (cz.) przysposabiać; (cz.) przysposobić; (cz.) przyswajać; (cz.) uchwalić; (cz.) zaadoptować; (cz.) zapożyczać; (cz.) zastosować
+[adoption]adoption (EN) : (rz.) adopcja; (rz.) przybranie; (rz.) przyjęcie; (rz.) przysposobienie
+[adoptive]adoptive (EN) : (p.) adoptowany; (p.) przybrany
+[adorable]adorable (EN) : (p.) cudowny; (p.) rozkoszny; (p.) uroczy
+[adoration]adoration (EN) : (rz.) adoracja; (rz.) ubóstwianie; (rz.) uwielbienie
+[adore]adore (EN) : (cz.) adorować; (cz.) czcić; (cz.) kochać; (cz.) ubóstwiać; (cz.) uwielbiać; (cz.) wielbić
+[adorer]adorer (EN) : (rz.) adorator; (rz.) czciciel; (rz.) wielbiciel
+[adorn]adorn (EN) : (cz.) dekorować; (cz.) ozdabiać; (cz.) przystrajać; (cz.) upiększać; (cz.) zdobić
+[adornment]adornment (EN) : (rz.) dekoracja; (rz.) ozdoba; (rz.) upiększanie; (rz.) zdobienie
+[adrenal]adrenal (EN) : (rz.) nadnercze
+[adrenalin]adrenalin (EN) : (rz.) adrenalina
+[adrenaline]adrenaline (EN) : (rz.) adrenalina
+[adrenals]adrenals (EN) : (rz.) nadnercze
+[adrift]adrift (EN) : (p.) znoszony
+[adroit]adroit (EN) : (p.) pomysłowy; (p.) przebiegły; (p.) sprytny; (p.) zręczny
+[adroitly]adroitly (EN) : (p-sł.) sprytnie; (p-sł.) zręcznie
+[adroitness]adroitness (EN) : (rz.) pomysłowość; (rz.) spryt; (rz.) udatność; (rz.) zgrabność; (rz.) zręczność; (rz.) zwinność
+[adsorb]adsorb (EN) : (cz.) adsorbować
+[adsorbent]adsorbent (EN) : (rz.) adsorbent
+[adsorption]adsorption (EN) : (rz.) adsorpcja
+[adsorptive]adsorptive (EN) : (rz.) adsorbat
+[adularia]adularia (EN) : (rz.) adular
+[adulate]adulate (EN) : (cz.) pochlebiać; (cz.) przypochlebiać; (cz.) schlebiać
+[adulation]adulation (EN) : (rz.) kadzenie; (rz.) płaszczenie; (rz.) pochlebstwo; (rz.) przypochlebianie; (rz.) schlebianie
+[adulator]adulator (EN) : (rz.) pochlebca
+[adulatory]adulatory (EN) : (p.) pochlebczy
+[adult]adult (EN) : (p.) dorosły
+[adulterate]adulterate (EN) : (cz.) fałszować; (cz.) oszukiwać; (cz.) podrabiać; (cz.) zafałszować
+[adulteration]adulteration (EN) : (rz.) fałszerstwo; (rz.) fałszowanie; (rz.) zafałszowanie
+[adulterer]adulterer (EN) : (rz.) cudzołożnik
+[adulterous]adulterous (EN) : (p.) cudzołożny
+[adultery]adultery (EN) : (rz.) cudzołóstwo
+[adulthood]adulthood (EN) : (rz.) dorosłość
+[adumbrate]adumbrate (EN) : (cz.) naszkicować; (cz.) ogłosić; (cz.) szkicować; (cz.) zapowiedzieć; (cz.) zawiadamiać; (cz.) zawiadomić
+[adumbration]adumbration (EN) : (rz.) cień; (rz.) szkic; (rz.) zapowiedź
+[advance]advance (EN) : (cz.) awansować; (cz.) podwyższać; (cz.) poprawiać; (cz.) posuwać; (cz.) promować; (cz.) przyspieszać; (cz.) rozwijać; (cz.) udoskonalać; (cz.) wysuwać; (rz.) akonto; (rz.) awans; (rz.) postęp; (rz.) przedsprzedaż; (rz.) przemieszczenie; (rz.) rozwój; (rz.) wyprzedzenie; (rz.) wyrost; (rz.) zadatek; (rz.) zaliczka
+[advanced]advanced (EN) : (p.) cywilizowany; (p.) postępowy; (p.) wysunięty
+[advancement]advancement (EN) : (rz.) awans; (rz.) pogłębianie; (rz.) polepszenie; (rz.) popieranie; (rz.) postęp; (rz.) posunięcie; (rz.) rozwijanie; (rz.) rozwój; (rz.) wspieranie
+[advantage]advantage (EN) : (rz.) korzyść; (rz.) pożytek; (rz.) przewaga; (rz.) zaleta
+[advantageous]advantageous (EN) : (p.) korzystny; (p.) pomyślny
+[advection]advection (EN) : (rz.) adwekcja; (rz.) meteor
+[advent]advent (EN) : (rz.) adwent; (rz.) nadejście
+[adventitious]adventitious (EN) : (p.) przygodny; (p.) przypadkowy; (p.) uboczny
+[adventure]adventure (EN) : (rz.) przygoda
+[adventurer]adventurer (EN) : (rz.) awanturnik; (rz.) ryzykant
+[adventures]adventures (EN) : (rz.) perypetia
+[adventurous]adventurous (EN) : (p.) awanturniczy; (p.) odważny; (p.) ryzykowny
+[adverb]adverb (EN) : (rz.) przysłówek
+[adverbial]adverbial (EN) : (p.) przysłówkowy
+[adverbially]adverbially (EN) : (p-sł.) przysłówkowo
+[adversarial]adversarial (EN) : (p.) antagonistyczny
+[adversary]adversary (EN) : (rz.) adwersarz; (rz.) oponent; (rz.) przeciwnik
+[adverse]adverse (EN) : (p.) negatywny; (p.) niechętny; (p.) niekorzystny; (p.) przeciwny; (p.) szkodliwy; (p.) wrogi
+[adversity]adversity (EN) : (rz.) bieda; (rz.) niedola; (rz.) niepomyślność; (rz.) nieszczęście; (rz.) przeciwność
+[advert]advert (EN) : (cz.) nadmienić; (rz.) ogłoszenie
+[advertise]advertise (EN) : (cz.) anonsować; (cz.) obwieszczać; (cz.) ogłaszać; (cz.) reklamować; (cz.) sugerować; (cz.) usypiać; (cz.) zareklamować; (cz.) zawiadamiać
+[advertisement]advertisement (EN) : (rz.) anons; (rz.) obwieszczenie; (rz.) ogłoszenie; (rz.) reklama
+[advertiser]advertiser (EN) : (rz.) ogłoszeniodawca
+[advertising]advertising (EN) : (rz.) reklama; (rz.) reklamowanie; (rz.) rozgłaszanie
+[advertorial]advertorial (EN) : (rz.) kryptoreklama
+[advice]advice (EN) : (rz.) awizo; (rz.) doradztwo; (rz.) porada; (rz.) rada; (rz.) radzenie; (rz.) zawiadomienie
+[advisability]advisability (EN) : (rz.) stosowność; (rz.) właściwość
+[advisable]advisable (EN) : (p.) celowy; (p.) pożyteczny; (p.) rozsądny; (p.) roztropny; (p.) rzetelny; (p.) słuszny; (p.) sprawiedliwy; (p.) wskazany
+[advise]advise (EN) : (cz.) doradzać; (cz.) doradzić; (cz.) komunikować; (cz.) poradzić; (cz.) radzić; (cz.) zalecać; (cz.) zawiadamiać
+[advised]advised (EN) : (p.) roztropny
+[advisedly]advisedly (EN) : (p-sł.) naumyślnie; (p-sł.) rozmyślnie; (p-sł.) roztropnie
+[advisement]advisement (EN) : (rz.) roztropność
+[advisements]advisements (EN) : (rz.) roztropność
+[adviser]adviser (EN) : (rz.) doradca; (rz.) doradczyni; (rz.) opiniodawca; (rz.) radca; (rz.) rzecznik
+[advises]advises (EN) : (cz.) doradzić
+[advisor]advisor (EN) : (rz.) doradca; (rz.) konsultant
+[advisory]advisory (EN) : (p.) doradczy; (p.) opiniodawczy
+[advocacy]advocacy (EN) : (rz.) obrona; (rz.) poparcie; (rz.) popieranie; (rz.) rzecznictwo
+[advocate]advocate (EN) : (cz.) bronić; (cz.) orędować; (cz.) popierać; (cz.) wspierać; (cz.) zalecać; (rz.) adwokat; (rz.) głosiciel; (rz.) obrońca; (rz.) orędownik; (rz.) poplecznik; (rz.) prawnik; (rz.) rzecznik; (rz.) wyznawca; (rz.) zwolennik
+[adze]adze (EN) : (rz.) toporek
+[aegis]aegis (EN) : (rz.) egida
+[aeon]aeon (EN) : (rz.) eon; (rz.) wieczność
+[aerate]aerate (EN) : (cz.) gazować; (cz.) przewietrzyć; (cz.) wietrzyć
+[aerating]aerating (EN) : (cz.) przewietrzyć
+[aeration]aeration (EN) : (rz.) napowietrzanie
+[aerator]aerator (EN) : (rz.) aerator
+[aerial]aerial (EN) : (p.) lotniczy; (p.) napowietrzny; (p.) powietrzny; (p.) zwiewny; (rz.) antena
+[aerie]aerie (EN) : (rz.) żłobek
+[aero]aero (EN) : (rz.) aeroklub
+[aero-tow]aero-tow (EN) : (p.) holowany
+[aerobatics]aerobatics (EN) : (rz.) akrobacja; (rz.) akrobatyka
+[aerobe]aerobe (EN) : (rz.) tlenowiec
+[aerobes]aerobes (EN) : (rz.) aeroby
+[aerobic]aerobic (EN) : (rz.) aerobik
+[aerobics]aerobics (EN) : (rz.) aerobik
+[aerobiology]aerobiology (EN) : (rz.) aerobiologia
+[aerodrome]aerodrome (EN) : (rz.) aerodrom; (rz.) lotnisko
+[aerodynamic]aerodynamic (EN) : (p.) aerodynamiczny
+[aerodynamics]aerodynamics (EN) : (rz.) aerodynamika
+[aerodyne]aerodyne (EN) : (rz.) aerodyna
+[aerofoil]aerofoil (EN) : (rz.) płat
+[aerograph]aerograph (EN) : (rz.) aerograf
+[aeromechanics]aeromechanics (EN) : (rz.) aerodynamika; (rz.) aeromechanika
+[aerometeorograph]aerometeorograph (EN) : (rz.) meteorograf
+[aerometer]aerometer (EN) : (rz.) aerometr
+[aeronaut]aeronaut (EN) : (rz.) aeronauta
+[aeronautic]aeronautic (EN) : (p.) aeronautyczny
+[aeronautical]aeronautical (EN) : (p.) aeronautyczny; (p.) lotniczy
+[aeronautics]aeronautics (EN) : (rz.) aeronautyka; (rz.) lotnictwo
+[aeroplane]aeroplane (EN) : (rz.) samolot
+[aerosol]aerosol (EN) : (rz.) aerozol
+[aerospace]aerospace (EN) : (rz.) aeronautyka; (rz.) lotnictwo
+[aerostatics]aerostatics (EN) : (rz.) aerostatyka
+[aerostation]aerostation (EN) : (rz.) baloniarstwo
+[aesthete]aesthete (EN) : (rz.) esteta
+[aesthetic]aesthetic (EN) : (p.) estetyczny
+[aesthetical]aesthetical (EN) : (p.) estetyczny
+[aesthetically]aesthetically (EN) : (p-sł.) estetycznie
+[aestheticism]aestheticism (EN) : (rz.) estetyka; (rz.) estetyzm
+[aesthetics]aesthetics (EN) : (rz.) estetyk; (rz.) estetyka
+[aetiology]aetiology (EN) : (rz.) etiologia
+[afar]afar (EN) : (p-sł.) daleko
+[affability]affability (EN) : (rz.) grzeczność; (rz.) uprzejmość
+[affable]affable (EN) : (p.) grzeczny; (p.) przyjazny; (p.) uprzejmy
+[affably]affably (EN) : (p-sł.) uprzejmie
+[affair]affair (EN) : (rz.) afera; (rz.) inicjatywa; (rz.) interes; (rz.) kwestia; (rz.) przedsięwzięcie; (rz.) przygoda; (rz.) romans; (rz.) sprawa; (rz.) wydarzenie
+[affect]affect (EN) : (cz.) atakować; (cz.) oddziaływać; (cz.) pozować; (cz.) udawać; (cz.) wpływać; (cz.) wzruszać; (cz.) zadziałać; (rz.) wpływ
+[affectation]affectation (EN) : (rz.) afektacja; (rz.) poza; (rz.) pozowanie; (rz.) sztuczność; (rz.) udawanie; (rz.) wymuszoność
+[affected]affected (EN) : (p.) afektowany; (p.) sztuczny
+[affectedly]affectedly (EN) : (p-sł.) afektowanie; (p-sł.) pretensjonalnie
+[affection]affection (EN) : (rz.) afekt; (rz.) choroba; (rz.) dolegliwość; (rz.) miłość; (rz.) przywiązanie; (rz.) schorzenie; (rz.) sentyment; (rz.) sympatia; (rz.) tkliwość; (rz.) uczucie; (rz.) uwiązanie; (rz.) wzruszenie
+[affectionate]affectionate (EN) : (p.) czuły; (p.) kochający; (p.) tkliwy; (p.) uczuciowy
+[affectionately]affectionately (EN) : (p-sł.) czule; (p-sł.) tkliwie
+[affective]affective (EN) : (p.) afektywny; (p.) dośrodkowy
+[afferent]afferent (EN) : (p.) doprowadzający; (p.) dośrodkowy
+[affiance]affiance (EN) : (rz.) ufność
+[affiliate]affiliate (EN) : (cz.) afiliować; (cz.) przyjąć; (cz.) przyjmować; (cz.) przyłączać; (cz.) stowarzyszać; (rz.) oddział
+[affiliating]affiliating (EN) : (p.) przynależny
+[affiliation]affiliation (EN) : (rz.) afiliacja; (rz.) przynależność; (rz.) zrzeszanie
+[affine]affine (EN) : (p.) afiniczny
+[affinity]affinity (EN) : (rz.) bliskość; (rz.) koligacja; (rz.) podobieństwo; (rz.) pokrewieństwo; (rz.) powinowactwo; (rz.) rodzina
+[affirm]affirm (EN) : (cz.) potwierdzać; (cz.) powoływać; (cz.) stwierdzać; (cz.) twierdzić; (cz.) utrzymywać; (cz.) zapewniać; (cz.) zatwierdzać
+[affirmation]affirmation (EN) : (rz.) afirmacja; (rz.) dowód; (rz.) oświadczenie; (rz.) potwierdzenie; (rz.) twierdzenie; (rz.) zapewnienie
+[affirmative]affirmative (EN) : (p.) pozytywny; (p.) twierdzący
+[affirmatively]affirmatively (EN) : (p-sł.) twierdząco
+[affix]affix (EN) : (cz.) dodać; (cz.) dołączyć; (cz.) naklejać; (cz.) przybić; (cz.) przybijać; (cz.) przyczepiać; (cz.) przyczepić; (cz.) przymocować; (cz.) przytwierdzać; (cz.) przytwierdzić; (cz.) wiwatować; (rz.) afiks
+[affixation]affixation (EN) : (rz.) umieszczenie
+[afflatus]afflatus (EN) : (rz.) natchnienie
+[afflict]afflict (EN) : (cz.) dotykać; (cz.) dręczyć; (cz.) gnębić; (cz.) martwić; (cz.) obarczyć
+[afflicted]afflicted (EN) : (p.) chory
+[affliction]affliction (EN) : (rz.) afekt; (rz.) dolegliwość; (rz.) miłość; (rz.) nieszczęście; (rz.) przygnębienie; (rz.) przypadłość; (rz.) schorzenie; (rz.) zmartwienie
+[affluence]affluence (EN) : (rz.) dobrobyt; (rz.) dostatek; (rz.) obfitość; (rz.) zasobność
+[affluent]affluent (EN) : (p.) bogaty; (p.) dostatni; (p.) zamożny; (p.) zasobny; (rz.) dopływ
+[afflux]afflux (EN) : (rz.) napływ; (rz.) przypływ
+[afford]afford (EN) : (cz.) dać; (cz.) dawać; (cz.) dopuszczać; (cz.) dostarczyć; (cz.) pozwalać; (cz.) pozwolić; (cz.) użyczyć; (cz.) zdobyć
+[affordability]affordability (EN) : (rz.) przystępność
+[affordable]affordable (EN) : (p.) przystępny
+[affording]affording (EN) : (rz.) pozwalanie
+[afforest]afforest (EN) : (cz.) zalesiać
+[afforesting]afforesting (EN) : (rz.) zalesianie
+[affranchise]affranchise (EN) : (cz.) uwalniać; (cz.) wyzwalać; (cz.) wyzwolić
+[affray]affray (EN) : (rz.) awantura; (rz.) burda
+[affright]affright (EN) : (cz.) trwożyć; (rz.) trwoga
+[affront]affront (EN) : (cz.) obrażać; (cz.) znieważyć; (rz.) afront; (rz.) obraza; (rz.) zniewaga
+[aficionado]aficionado (EN) : (rz.) amator; (rz.) miłośnik; (rz.) wielbiciel
+[afloat]afloat (EN) : (p.) pływający
+[afoot]afoot (EN) : (p-sł.) pieszo
+[afore]afore (EN) : (p-sł.) poprzednio
+[afraid]afraid (EN) : (p.) niespokojny; (p.) przestraszony
+[afresh]afresh (EN) : (p-sł.) ponownie; (p-sł.) znowu
+[aft]aft (EN) : (p.) rufowy
+[after]after (EN) : (p-im.) po; (p-im.) według; (p-im.) za; (p.) tylni; (p.) tylny; (p-sł.) jak; (p-sł.) potem
+[after-crop]after-crop (EN) : (rz.) poplon
+[after-deck]after-deck (EN) : (rz.) rufa
+[after-dinner]after-dinner (EN) : (p.) poobiedni
+[after-effect]after-effect (EN) : (rz.) następstwo; (rz.) pozostałość
+[after-fermentation]after-fermentation (EN) : (rz.) dofermentowanie
+[after-grass]after-grass (EN) : (rz.) potraw
+[after-image]after-image (EN) : (rz.) powidok
+[after-payment]after-payment (EN) : (rz.) dopłata
+[after-run]after-run (EN) : (rz.) pogoń
+[after-sound]after-sound (EN) : (rz.) pogłos
+[after-taste]after-taste (EN) : (rz.) posmak
+[afterburner]afterburner (EN) : (rz.) dopalacz
+[afterdeck]afterdeck (EN) : (rz.) rufa
+[afterglow]afterglow (EN) : (rz.) poświata
+[aftermath]aftermath (EN) : (rz.) następstwo; (rz.) potraw; (rz.) wynik
+[afternoon]afternoon (EN) : (rz.) popołudnie
+[afters]afters (EN) : (rz.) deser; (rz.) dokładka
+[aftertaste]aftertaste (EN) : (rz.) posmak
+[afterthought]afterthought (EN) : (rz.) namysł; (rz.) refleksja; (rz.) zastanowienie
+[afterward]afterward (EN) : (p-sł.) następnie; (p-sł.) potem
+[afterwards]afterwards (EN) : (p-sł.) następnie; (p-sł.) potem
+[again]again (EN) : (p-sł.) ponownie; (p-sł.) powtórnie; (p-sł.) również; (p-sł.) znów; (p-sł.) znowu
+[against]against (EN) : (p-im.) ku; (p-im.) na; (p-im.) o; (p-im.) przeciw; (p-im.) przy; (p-im.) wbrew; (p-im.) z
+[agar-agar]agar-agar (EN) : (rz.) agar
+[agate]agate (EN) : (rz.) agat
+[age]age (EN) : (cz.) starzeć; (rz.) epoka; (rz.) starość; (rz.) wiek
+[age-long]age-long (EN) : (p.) odwieczny
+[aged]aged (EN) : (p.) sędziwy; (p.) stary; (p.) wiekowy
+[ageing]ageing (EN) : (rz.) starzenie
+[ageless]ageless (EN) : (p.) wieczny
+[agency]agency (EN) : (rz.) agencja; (rz.) agentura; (rz.) ajencja; (rz.) biuro; (rz.) czynnik; (rz.) działanie; (rz.) filia; (rz.) oddział; (rz.) pośrednictwo; (rz.) pośredniczenie; (rz.) przedstawicielstwo; (rz.) siła; (rz.) urząd
+[agenda]agenda (EN) : (rz.) notatnik; (rz.) porządek; (rz.) terminarz
+[agent]agent (EN) : (rz.) agent; (rz.) ajent; (rz.) czynnik; (rz.) odczynnik; (rz.) pełnomocnik; (rz.) pośrednik; (rz.) preparat; (rz.) przedstawiciel
+[agglomerate]agglomerate (EN) : (cz.) gromadzić; (cz.) nagromadzić; (cz.) skupiać; (rz.) aglomerat
+[agglomeration]agglomeration (EN) : (rz.) aglomeracja; (rz.) nagromadzenie; (rz.) skupisko
+[agglutinate]agglutinate (EN) : (cz.) zlepiać
+[agglutination]agglutination (EN) : (rz.) aglutynacja; (rz.) zlepianie; (rz.) zlepienie
+[agglutinative]agglutinative (EN) : (p.) aglutynacyjny
+[agglutinin]agglutinin (EN) : (rz.) aglutynina
+[aggrandize]aggrandize (EN) : (cz.) podnieść; (cz.) powiększać; (cz.) powiększyć; (cz.) przesadzać; (cz.) przesadzić
+[aggrandizement]aggrandizement (EN) : (rz.) powiększenie; (rz.) przesada; (rz.) przesadzenie
+[aggravate]aggravate (EN) : (cz.) denerwować; (cz.) obciążać; (cz.) obciążyć; (cz.) pogarszać; (cz.) pogorszyć; (cz.) rozdrażniać; (cz.) rozdrażnić; (cz.) utrudniać; (cz.) utrudnić; (cz.) wzmagać; (cz.) zdenerwować; (cz.) zirytować
+[aggravation]aggravation (EN) : (rz.) degradacja; (rz.) gniew; (rz.) irytacja; (rz.) obciążenie; (rz.) pogorszenie; (rz.) rozdrażnienie; (rz.) rozjątrzenie; (rz.) utrudnienie; (rz.) zdenerwowanie
+[aggregate]aggregate (EN) : (cz.) agregować; (cz.) gromadzić; (cz.) połączyć; (cz.) sumować; (cz.) zebrać; (p.) nagromadzony; (p.) ogólny; (p.) składowy; (rz.) agregat; (rz.) całokształt; (rz.) kompleks; (rz.) mnóstwo; (rz.) suma; (rz.) zespół; (rz.) zestaw
+[aggregated]aggregated (EN) : (cz.) agregować
+[aggregation]aggregation (EN) : (rz.) agregacja; (rz.) gromadzenie; (rz.) skupienie; (rz.) skupisko
+[aggression]aggression (EN) : (rz.) agresja; (rz.) agresywność
+[aggressive]aggressive (EN) : (p.) agresywny; (p.) kłótliwy; (p.) napastliwy; (p.) napastniczy; (p.) obraźliwy; (p.) ofensywny; (p.) zaborczy; (p.) zaczepny
+[aggressively]aggressively (EN) : (p-sł.) agresywnie
+[aggressiveness]aggressiveness (EN) : (rz.) agresywność; (rz.) napastliwość; (rz.) wojowniczość
+[aggressor]aggressor (EN) : (rz.) agresor; (rz.) napastnik
+[aggrieve]aggrieve (EN) : (cz.) krzywdzić; (cz.) przygnębić; (cz.) skrzywdzić; (cz.) zasmucać; (cz.) zmartwić
+[aggro]aggro (EN) : (rz.) rozróba
+[aghast]aghast (EN) : (p.) przerażony
+[agile]agile (EN) : (p.) sprawny; (p.) zręczny; (p.) zwinny
+[agility]agility (EN) : (rz.) obrotność; (rz.) zręczność; (rz.) zwinność; (rz.) zwrotność
+[agitate]agitate (EN) : (cz.) agitować; (cz.) mieszać; (cz.) niepokoić; (cz.) podburzać; (cz.) podniecać; (cz.) poruszać; (cz.) roztrząsać; (cz.) roztrząść; (cz.) wstrząsać; (cz.) wzbudzać; (cz.) wzruszać
+[agitated]agitated (EN) : (p.) podekscytowany
+[agitating]agitating (EN) : (rz.) wzburzanie
+[agitation]agitation (EN) : (rz.) agitacja; (rz.) bełtanie; (rz.) mieszanie; (rz.) ożywienie; (rz.) pobudzenie; (rz.) podniecenie; (rz.) poruszenie; (rz.) roztrząsanie; (rz.) trzęsienie; (rz.) wzbudzenie; (rz.) wzburzenie; (rz.) wzruszenie
+[agitator]agitator (EN) : (rz.) agitator; (rz.) mieszadło; (rz.) mieszalnik
+[aglet]aglet (EN) : (rz.) iglica
+[agley]agley (EN) : (p-sł.) ukośnie
+[agnail]agnail (EN) : (rz.) zanokcica
+[agnate]agnate (EN) : (rz.) agnat
+[agnostic]agnostic (EN) : (p.) agnostyczny; (rz.) agnostyk
+[agnosticism]agnosticism (EN) : (rz.) agnostycyzm
+[ago]ago (EN) : (p-sł.) wstecz
+[agonise]agonise (EN) : (cz.) konać
+[agonize]agonize (EN) : (cz.) borykać; (cz.) cierpieć; (cz.) dręczyć; (cz.) męczyć; (cz.) przeżywać
+[agony]agony (EN) : (rz.) agonia; (rz.) cierpienie; (rz.) katusza; (rz.) męczarnia; (rz.) udręka
+[agoraphobia]agoraphobia (EN) : (rz.) agorafobia
+[agrarian]agrarian (EN) : (p.) agrarny; (p.) rolny; (rz.) agrariusz
+[agree]agree (EN) : (cz.) godzić; (cz.) odpowiadać; (cz.) pasować; (cz.) porozumieć; (cz.) służyć; (cz.) uzgadniać; (cz.) uzgodnić; (cz.) zgadzać; (cz.) zgodzić
+[agreeable]agreeable (EN) : (p.) miły; (p.) niekłótliwy; (p.) przyjemny; (p.) wygodny; (p.) zgodny
+[agreeably]agreeably (EN) : (p-sł.) miło; (p-sł.) przyjemnie
+[agreed-upon]agreed-upon (EN) : (p.) uzgodniony
+[agreeing]agreeing (EN) : (rz.) zgadzanie; (rz.) zgodzenie
+[agreement]agreement (EN) : (rz.) porozumienie; (rz.) ugoda; (rz.) układ; (rz.) umowa; (rz.) uzgodnienie; (rz.) zgoda; (rz.) zgodność
+[agricultural]agricultural (EN) : (p.) rolniczy; (p.) rolny; (p.) uprawowy
+[agriculturally]agriculturally (EN) : (p.) rolniczy
+[agriculture]agriculture (EN) : (rz.) rolnictwo
+[agriculturist]agriculturist (EN) : (rz.) agronom; (rz.) rolnik
+[agrochemical]agrochemical (EN) : (p.) agrochemiczny
+[agrochemicals]agrochemicals (EN) : (rz.) agrochemia
+[agronomic]agronomic (EN) : (p.) agronomiczny; (p.) rolniczy
+[agronomical]agronomical (EN) : (p.) agronomiczny
+[agronomist]agronomist (EN) : (rz.) agronom
+[agronomy]agronomy (EN) : (rz.) agronomia
+[ague]ague (EN) : (rz.) dreszcze; (rz.) febra; (rz.) gorączka
+[aguish]aguish (EN) : (p.) gorączkowy; (p.) malaryczny
+[ah]ah (EN) : (wykrzyknik) ach
+[aha]aha (EN) : (wykrzyknik) aha
+[ahead]ahead (EN) : (p.) przedni; (p-sł.) naprzód; (p-sł.) wprost
+[aid]aid (EN) : (cz.) pomagać; (cz.) sprzyjać; (rz.) pomoc; (rz.) pomocnik; (rz.) wsparcie
+[aide]aide (EN) : (rz.) adiutant; (rz.) asystent; (rz.) doradca; (rz.) pomocnik
+[aide-de-camp]aide-de-camp (EN) : (rz.) adiutant
+[aided]aided (EN) : (p.) wspomagany
+[aigrette]aigrette (EN) : (rz.) egreta; (rz.) kitka
+[ail]ail (EN) : (cz.) boleć; (cz.) dolegać
+[aileron]aileron (EN) : (rz.) klapa; (rz.) lotka
+[ailment]ailment (EN) : (rz.) ból; (rz.) borykanie; (rz.) choroba; (rz.) dolegliwość; (rz.) niedomaganie; (rz.) przypadłość
+[aim]aim (EN) : (cz.) celować; (cz.) dążyć; (cz.) kierować; (cz.) mierzyć; (cz.) skierować; (rz.) cel
+[aiming]aiming (EN) : (rz.) cel; (rz.) celowanie
+[aimless]aimless (EN) : (p.) bezcelowy
+[air]air (EN) : (cz.) przewietrzać; (cz.) przewietrzyć; (cz.) suszyć; (cz.) wietrzyć; (rz.) atmosfera; (rz.) melodia; (rz.) mina; (rz.) nastrój; (rz.) pieśń; (rz.) powietrze; (rz.) wygląd; (rz.) zachowanie
+[air-belt]air-belt (EN) : (rz.) żeliwiaku
+[air-brick]air-brick (EN) : (rz.) pustak
+[air-brush]air-brush (EN) : (rz.) aerograf
+[air-bump]air-bump (EN) : (rz.) próżnia
+[air-conditioned]air-conditioned (EN) : (p.) klimatyzowany
+[air-conditioning]air-conditioning (EN) : (rz.) klimatyzacja
+[air-dried]air-dried (EN) : (p.) powietrzno-suchy
+[air-dry]air-dry (EN) : (p.) powietrzno-suchy
+[air-escape]air-escape (EN) : (rz.) odpowietrznik
+[air-free]air-free (EN) : (p.) bezpowietrzny; (p.) odpowietrzony
+[air-gun]air-gun (EN) : (rz.) wiatrówka
+[air-hole]air-hole (EN) : (rz.) przerębel; (rz.) przerębla
+[air-operated]air-operated (EN) : (p.) pneumatyczny
+[air-pump]air-pump (EN) : (rz.) pompka
+[air-raid]air-raid (EN) : (rz.) nalot
+[air-release]air-release (EN) : (rz.) odpowietrzenie; (rz.) odpowietrznik
+[air-shed]air-shed (EN) : (rz.) hangar
+[air-tight]air-tight (EN) : (p.) duszny; (p.) hermetyczny; (p.) nieprzepuszczalny; (p.) szczelny
+[airborne]airborne (EN) : (p.) lotniczy; (p.) powietrzny
+[airbrick]airbrick (EN) : (rz.) pustak
+[airbrush]airbrush (EN) : (rz.) aerograf
+[airbus]airbus (EN) : (rz.) aerobus
+[aircraft]aircraft (EN) : (rz.) samolot
+[airdrome]airdrome (EN) : (rz.) aerodrom; (rz.) lotnisko
+[airdrop]airdrop (EN) : (rz.) zrzut
+[airfield]airfield (EN) : (rz.) lądowisko; (rz.) lotnisko
+[airfoil]airfoil (EN) : (rz.) płat
+[airframe]airframe (EN) : (rz.) płatowiec
+[airgun]airgun (EN) : (rz.) wiatrówka
+[airhead]airhead (EN) : (rz.) wietrznik
+[airhostess]airhostess (EN) : (rz.) stewardesa
+[airily]airily (EN) : (p-sł.) beztrosko; (p-sł.) lekko; (p-sł.) nonszalancko
+[airiness]airiness (EN) : (rz.) beztroska; (rz.) niedbałość; (rz.) wentylacja
+[airing]airing (EN) : (rz.) napowietrzanie; (rz.) popisywanie; (rz.) powietrze; (rz.) przewietrzanie; (rz.) przewietrzenie; (rz.) wietrzenie
+[airless]airless (EN) : (p.) bezwietrzny; (p.) duszny
+[airman]airman (EN) : (rz.) lotnik; (rz.) ulotka
+[airplane]airplane (EN) : (rz.) aeroplan; (rz.) awionetka; (rz.) samolot
+[airport]airport (EN) : (rz.) aeroport; (rz.) lotnisko
+[airproof]airproof (EN) : (p.) hermetyczny; (p.) szczelny
+[airs]airs (EN) : (rz.) fanaberia
+[airscrew]airscrew (EN) : (rz.) śmigło
+[airship]airship (EN) : (rz.) sterowiec
+[airspace]airspace (EN) : (rz.) kubatura
+[airstrip]airstrip (EN) : (rz.) bieżnia; (rz.) lądowisko
+[airtight]airtight (EN) : (p.) duszny; (p.) hermetyczny; (p.) nieprzepuszczalny; (p.) szczelny
+[airtime]airtime (EN) : (p.) lotniczy
+[airwoman]airwoman (EN) : (rz.) lotnik
+[airworthiness]airworthiness (EN) : (rz.) lotność
+[airworthy]airworthy (EN) : (p.) sprawny
+[airy]airy (EN) : (p.) beztroski; (p.) lekki; (p.) lekkomyślny; (p.) powietrzny; (p.) powiewny; (p.) próżny; (p.) przewiewny; (p.) trzpiotowaty; (p.) zwiewny
+[aisle]aisle (EN) : (rz.) nawa; (rz.) przejście; (rz.) przestrzeń
+[aitchbone]aitchbone (EN) : (rz.) krzyżówka
+[ajar]ajar (EN) : (p.) półotwarty
+[akin]akin (EN) : (p.) krewny; (p.) podobny; (p.) pokrewny
+[alabaster]alabaster (EN) : (rz.) alabaster
+[alacrity]alacrity (EN) : (rz.) gotowość; (rz.) ochota; (rz.) żwawość
+[alameda]alameda (EN) : (rz.) aleja
+[alarm]alarm (EN) : (cz.) alarmować; (cz.) niepokoić; (cz.) zaalarmować; (rz.) alarm; (rz.) oszołomienie; (rz.) popłoch; (rz.) trwoga; (rz.) zaniepokojenie
+[alarm-clock]alarm-clock (EN) : (rz.) budzik
+[alarmingly]alarmingly (EN) : (p-sł.) zatrważająco
+[alarmism]alarmism (EN) : (rz.) panikarstwo
+[alarmist]alarmist (EN) : (rz.) alarmista; (rz.) panikarz
+[alary]alary (EN) : (p.) skrzydłowy
+[alb]alb (EN) : (rz.) komża
+[alba]alba (EN) : (rz.) brzask; (rz.) komża; (rz.) świt
+[albacore]albacore (EN) : (rz.) tuńczyk
+[albatross]albatross (EN) : (rz.) albatros
+[albeit]albeit (EN) : (spójnik) aczkolwiek; (spójnik) chociaż; (spójnik) jednak
+[albinism]albinism (EN) : (rz.) albinizm; (rz.) bielactwo
+[albino]albino (EN) : (rz.) albinos; (rz.) bielak
+[album]album (EN) : (rz.) album; (rz.) kaseta; (rz.) płyta
+[albumen]albumen (EN) : (rz.) albumina; (rz.) białko
+[albumin]albumin (EN) : (rz.) albumina; (rz.) białko
+[alchemical]alchemical (EN) : (p.) alchemiczny
+[alchemist]alchemist (EN) : (rz.) alchemik
+[alchemy]alchemy (EN) : (rz.) alchemia
+[alcohol]alcohol (EN) : (rz.) alkohol
+[alcohol-free]alcohol-free (EN) : (p.) bezalkoholowy
+[alcoholic]alcoholic (EN) : (p.) alkoholiczny; (p.) alkoholowy; (rz.) alkoholik
+[alcoholism]alcoholism (EN) : (rz.) alkoholizm
+[alcoholmeter]alcoholmeter (EN) : (rz.) alkoholomierz
+[alcoholometry]alcoholometry (EN) : (rz.) alkoholometria
+[alcove]alcove (EN) : (rz.) alkierz; (rz.) alkowa; (rz.) altanka; (rz.) wnęka
+[alder]alder (EN) : (rz.) olcha; (rz.) olsza
+[alderman]alderman (EN) : (rz.) ławnik
+[ale]ale (EN) : (rz.) piwo
+[alehouse]alehouse (EN) : (rz.) piwiarnia
+[alembic]alembic (EN) : (rz.) alembik
+[alert]alert (EN) : (cz.) alarmować; (cz.) ostrzegać; (p.) czujny; (p.) żwawy; (rz.) alarm; (rz.) czujność; (rz.) gotowość; (rz.) pogotowie
+[alertness]alertness (EN) : (rz.) czujność; (rz.) raźność
+[alewife]alewife (EN) : (rz.) aloza
+[alexandrine]alexandrine (EN) : (rz.) aleksandryn
+[alexandrite]alexandrite (EN) : (rz.) aleksandryt
+[alexia]alexia (EN) : (rz.) aleksja
+[alfalfa]alfalfa (EN) : (rz.) lucerna
+[alga]alga (EN) : (rz.) glon; (rz.) wodorost
+[algae]algae (EN) : (rz.) glon
+[algal]algal (EN) : (p.) glonowy
+[algebra]algebra (EN) : (rz.) algebra
+[algebraic]algebraic (EN) : (p.) algebraiczny
+[algebraically]algebraically (EN) : (p-sł.) algebraicznie
+[algebraist]algebraist (EN) : (rz.) algebraik
+[algid]algid (EN) : (p.) zimny
+[algorithm]algorithm (EN) : (rz.) algorytm
+[algorithmic]algorithmic (EN) : (p.) algorytmiczny
+[algorithmically]algorithmically (EN) : (p-sł.) algorytmicznie
+[alias]alias (EN) : (rz.) przydomek; (rz.) pseudonim
+[aliasing]aliasing (EN) : (rz.) koordynowanie; (rz.) utożsamianie
+[alibi]alibi (EN) : (rz.) alibi; (rz.) usprawiedliwienie; (rz.) wymówka
+[alidade]alidade (EN) : (rz.) alidada
+[alien]alien (EN) : (p.) cudzoziemski; (p.) obcy; (p.) odmienny; (rz.) cudzoziemiec; (rz.) kosmita
+[alienate]alienate (EN) : (cz.) alienować; (cz.) odstręczyć; (cz.) przenieść; (cz.) przenosić; (cz.) razić; (cz.) wyobcować; (cz.) zbyć; (cz.) zrażać; (cz.) zrazić
+[alienation]alienation (EN) : (rz.) alienacja; (rz.) obcość; (rz.) obłęd; (rz.) odstręczenie; (rz.) wyobcowanie; (rz.) zrażenie
+[alienist]alienist (EN) : (rz.) psychiatra
+[alight]alight (EN) : (cz.) lądować; (cz.) ładować; (cz.) schodzić; (cz.) spadać; (cz.) wodować; (cz.) wysiadać; (cz.) zeskakiwać; (cz.) zsiadać; (cz.) zstępować; (p.) gorliwy; (p.) płomienny; (p.) zapalony
+[align]align (EN) : (cz.) justować; (cz.) orientować; (cz.) osiować; (cz.) porządkować; (cz.) regulować; (cz.) szeregować; (cz.) ujednolicić; (cz.) ustawiać; (cz.) wyprostować; (cz.) wyrównać; (cz.) wyrównywać; (cz.) zestrajać; (cz.) zharmonizować
+[aligned]aligned (EN) : (cz.) zrównać; (p.) wyregulowany; (p.) wyrównany
+[alignment]alignment (EN) : (rz.) centrowanie; (rz.) dostosowywanie; (rz.) justowanie; (rz.) orientacja; (rz.) osiowanie; (rz.) przymierze; (rz.) struktura; (rz.) układanie; (rz.) uporządkowanie; (rz.) ustawienie; (rz.) wyprostowanie; (rz.) wyrównanie; (rz.) zgoda; (rz.) zrównanie
+[alike]alike (EN) : (p.) jednakowy; (p.) podobny; (p-sł.) dokładnie; (p-sł.) jednakowo; (p-sł.) podobnie; (p-sł.) zarówno
+[aliment]aliment (EN) : (rz.) pokarm; (rz.) pożywienie; (rz.) utrzymanie; (rz.) wyżywienie; (rz.) żywność
+[alimentary]alimentary (EN) : (p.) odżywczy; (p.) pokarmowy; (p.) pożywny
+[alimentation]alimentation (EN) : (rz.) pożywienie; (rz.) wyżywienie
+[alimonies]alimonies (EN) : (rz.) alimenty
+[alimony]alimony (EN) : (rz.) alimentacja; (rz.) alimenty
+[aliphatic]aliphatic (EN) : (p.) alifatyczny; (p.) łańcuchowy
+[alive]alive (EN) : (p.) baczny; (p.) wrażliwy; (p.) żwawy; (p.) żywy
+[alizarin]alizarin (EN) : (rz.) alizaryna
+[alkali]alkali (EN) : (rz.) alkalia; (rz.) zasada
+[alkali-resistant]alkali-resistant (EN) : (p.) ługoodporny
+[alkalify]alkalify (EN) : (cz.) alkalizować
+[alkaline]alkaline (EN) : (p.) alkaliczny; (p.) zasadowy
+[alkalinity]alkalinity (EN) : (rz.) alkaliczność; (rz.) zasadowość
+[alkalization]alkalization (EN) : (rz.) alkalizowanie
+[alkalize]alkalize (EN) : (cz.) alkalizować; (rz.) alkalizowanie
+[alkaloid]alkaloid (EN) : (rz.) alkaloid
+[alkenes]alkenes (EN) : (rz.) alkeny
+[alkyd]alkyd (EN) : (rz.) żywica
+[alkyl]alkyl (EN) : (rz.) alkil
+[all]all (EN) : (p.) całkowity; (p.) całoroczny; (p.) wszelki; (p-sł.) całkiem; (p-sł.) cało; (p-sł.) wszystko; (p-sł.) zupełnie; (rz.) całość; (rz.) kicha; (rz.) ogół
+[all-around]all-around (EN) : (p.) uniwersalny; (p.) wszechstronny
+[all-embracing]all-embracing (EN) : (p.) bezgraniczny; (p.) szeroki; (p.) wszechstronny
+[all-fired]all-fired (EN) : (p.) straszny; (p.) zupełny
+[all-in]all-in (EN) : (p.) globalny; (p.) łączny; (p.) ogólny; (p-sł.) łącznie; (p-sł.) ogółem
+[all-night]all-night (EN) : (p.) całonocny
+[all-oat]all-oat (EN) : (p.) całkowity; (p.) totalny
+[all-out]all-out (EN) : (p.) całkowity; (p.) totalny; (p-sł.) zupełnie
+[all-purpose]all-purpose (EN) : (p.) uniwersalny
+[all-round]all-round (EN) : (p.) uniwersalny; (p.) wielostronny; (p.) wszechstronny
+[all-ups]all-ups (EN) : (rz.) pospółka
+[allay]allay (EN) : (cz.) osłabiać; (cz.) osłabić; (cz.) rozpraszać; (cz.) uciszyć; (cz.) uśmierzać; (cz.) uśmierzyć; (cz.) uspakajać; (cz.) uspokoić; (cz.) złagodzić
+[allegation]allegation (EN) : (rz.) domniemanie; (rz.) zarzut
+[allege]allege (EN) : (cz.) powoływać; (cz.) przypuszczać; (cz.) przytaczać; (cz.) twierdzić; (cz.) utrzymywać; (cz.) zakładać; (cz.) zarzucać; (cz.) zatwierdzać
+[alleged]alleged (EN) : (p.) przypuszczalny; (p.) rzekomy
+[allegedly]allegedly (EN) : (p-sł.) rzekomo
+[allegiance]allegiance (EN) : (rz.) hołdownictwo; (rz.) lojalność; (rz.) poddaństwo; (rz.) posłuszeństwo; (rz.) wierność; (rz.) zależność
+[allegoric]allegoric (EN) : (p.) alegoryczny
+[allegorical]allegorical (EN) : (p.) alegoryczny
+[allegorically]allegorically (EN) : (p-sł.) alegorycznie
+[allegory]allegory (EN) : (rz.) alegoria
+[alleluia]alleluia (EN) : (wykrzyknik) alleluja
+[allergen]allergen (EN) : (rz.) alergen
+[allergenic]allergenic (EN) : (p.) alergiczny
+[allergic]allergic (EN) : (p.) alergiczny; (p.) uczuleniowy; (p.) uczulony
+[allergy]allergy (EN) : (rz.) alergia; (rz.) poradnia; (rz.) uczulenie
+[alleviate]alleviate (EN) : (cz.) łagodzić; (cz.) ulżyć; (cz.) zaspokajać; (cz.) zaspokoić; (cz.) złagodzić; (cz.) zmniejszyć
+[alleviation]alleviation (EN) : (rz.) odsiecz; (rz.) ukojenie; (rz.) ulga; (rz.) załagodzenie; (rz.) złagodzenie
+[alley]alley (EN) : (rz.) aleja; (rz.) alejka; (rz.) przejście; (rz.) ulica; (rz.) uliczka; (rz.) zaułek
+[alley-fuck]alley-fuck (EN) : (rz.) prostytutka
+[alleyway]alleyway (EN) : (rz.) alejka
+[alliaceous]alliaceous (EN) : (p.) czosnkowy
+[alliance]alliance (EN) : (rz.) alians; (rz.) przymierze; (rz.) sojusz
+[allied]allied (EN) : (p.) aliancki; (p.) bliski; (p.) krewny; (p.) pokrewny; (p.) sojuszniczy; (p.) sprzymierzony
+[alligator]alligator (EN) : (rz.) aligator; (rz.) maszyna
+[alliteration]alliteration (EN) : (rz.) aliteracja
+[alliterative]alliterative (EN) : (p.) aliteracyjny
+[allocate]allocate (EN) : (cz.) alokować; (cz.) asygnować; (cz.) przydzielać; (cz.) przysądzać; (cz.) rozdzielać; (cz.) rozmieszczać; (cz.) wyznaczać
+[allocated]allocated (EN) : (cz.) alokować
+[allocates]allocates (EN) : (cz.) alokować
+[allocation]allocation (EN) : (rz.) alokacja; (rz.) przemówienie; (rz.) przeznaczenie; (rz.) przydział; (rz.) przyznanie; (rz.) umieszczenie
+[allocution]allocution (EN) : (rz.) przemówienie
+[allopathic]allopathic (EN) : (p.) alopatyczny
+[allot]allot (EN) : (cz.) alokować; (cz.) asygnować; (cz.) odłączyć; (cz.) przeznaczyć; (cz.) przydzielać; (cz.) przyznać; (cz.) rozdawać; (cz.) rozdzielać; (cz.) udzielać; (cz.) uznać; (cz.) wyznaczać
+[allotment]allotment (EN) : (rz.) cząstka; (rz.) działka; (rz.) podział; (rz.) przydział; (rz.) rozdział; (rz.) wydzielanie
+[allotropic]allotropic (EN) : (p.) alotropowy
+[allotropy]allotropy (EN) : (rz.) alotropia
+[allow]allow (EN) : (cz.) dawać; (cz.) dopuszczać; (cz.) pozwalać; (cz.) pozwolić; (cz.) przeznaczyć; (cz.) przyznać; (cz.) przyznawać; (cz.) uwzględniać; (cz.) uznawać; (cz.) zezwalać; (cz.) zezwolić
+[allowable]allowable (EN) : (p.) dopuszczalny
+[allowance]allowance (EN) : (rz.) bonifikacja; (rz.) bonifikata; (rz.) deputat; (rz.) dieta; (rz.) dodatek; (rz.) kieszonkowe; (rz.) poprawka; (rz.) pozwolenie; (rz.) przydział; (rz.) rezerwa; (rz.) ulga; (rz.) uznanie; (rz.) zasiłek
+[allowed]allowed (EN) : (cz.) dopuścić
+[alloy]alloy (EN) : (cz.) mieszać; (cz.) stapiać; (rz.) domieszka; (rz.) stop
+[allspice]allspice (EN) : (rz.) ziele
+[allude]allude (EN) : (cz.) myśleć; (cz.) napomknąć; (cz.) napomykać; (cz.) powoływać; (cz.) wspominać; (cz.) wspomnieć
+[allure]allure (EN) : (cz.) kusić; (cz.) nęcić; (cz.) skusić; (cz.) uwodzić; (cz.) wabić; (cz.) zwabiać; (cz.) zwabić; (rz.) powab
+[allurement]allurement (EN) : (rz.) nęcenie; (rz.) wabienie; (rz.) wdzięk
+[allures]allures (EN) : (rz.) powab
+[alluring]alluring (EN) : (p.) ponętny; (p.) powabny; (p.) uwodzicielski
+[allusion]allusion (EN) : (rz.) aluzja; (rz.) napomknienie; (rz.) przymówka; (rz.) przytyk
+[allusive]allusive (EN) : (p.) aluzyjny
+[alluvial]alluvial (EN) : (p.) aluwialny; (p.) napływowy; (p.) osadowy
+[alluvium]alluvium (EN) : (rz.) aluwium; (rz.) holocen; (rz.) namulisko
+[ally]ally (EN) : (cz.) połączyć; (cz.) sprzymierzać; (cz.) sprzymierzyć; (rz.) aliant; (rz.) sojusznik; (rz.) sprzymierzeniec
+[allying]allying (EN) : (rz.) sprzymierzenie
+[almanac]almanac (EN) : (rz.) almanach; (rz.) kalendarium; (rz.) kalendarz
+[almighty]almighty (EN) : (p.) wszechmocny; (p.) wszechpotężny; (p.) wszechwładny
+[almond]almond (EN) : (rz.) migdał; (rz.) migdałek
+[almond-tree]almond-tree (EN) : (rz.) migdałowiec
+[almoner]almoner (EN) : (rz.) jałmużnik
+[almost]almost (EN) : (p-sł.) ledwo; (p-sł.) niby; (p-sł.) niejako; (p-sł.) nieledwie; (p-sł.) niemal; (p-sł.) niemalże; (p-sł.) nieomal; (p-sł.) omal; (p-sł.) praktycznie; (p-sł.) prawie
+[alms]alms (EN) : (rz.) jałmużna
+[almshouse]almshouse (EN) : (rz.) przytułek
+[alnico]alnico (EN) : (rz.) alniko
+[aloe]aloe (EN) : (rz.) aloes
+[aloft]aloft (EN) : (p-sł.) wysoko
+[alone]alone (EN) : (p.) jedyny; (p.) sam; (p.) samotny; (p-sł.) jedynie; (p-sł.) osobno; (p-sł.) samotnie; (p-sł.) tylko
+[along]along (EN) : (p-im.) na; (p-im.) przy; (p-im.) wzdłuż; (p-im.) z; (p-sł.) naprzód; (p-sł.) razem
+[alongside]alongside (EN) : (p-im.) przy; (p-im.) wzdłuż; (p-sł.) razem
+[aloof]aloof (EN) : (p.) powściągliwy; (p-sł.) wyniośle
+[aloofness]aloofness (EN) : (rz.) powściągliwość; (rz.) rezerwa
+[alopecia]alopecia (EN) : (rz.) łysienie; (rz.) wyłysienie
+[aloud]aloud (EN) : (p-sł.) głośno
+[alp]alp (EN) : (rz.) hala; (rz.) turnia
+[alpaca]alpaca (EN) : (rz.) alpaga; (rz.) alpaka
+[alpenstock]alpenstock (EN) : (rz.) czekan
+[alpha]alpha (EN) : (rz.) alfa
+[alphabet]alphabet (EN) : (rz.) abecadło; (rz.) alfabet
+[alphabetic]alphabetic (EN) : (p.) alfabetyczny; (p.) literowy
+[alphabetic-numeric]alphabetic-numeric (EN) : (p.) alfanumeryczny; (p.) literowo-cyfrowy
+[alphabetical]alphabetical (EN) : (p.) alfabetyczny; (p.) literowy
+[alphabetically]alphabetically (EN) : (p-sł.) alfabetycznie
+[alphanumeric]alphanumeric (EN) : (p.) alfanumeryczny; (p.) literowo-cyfrowy
+[alphanumerical]alphanumerical (EN) : (p.) alfanumeryczny; (p.) literowo-cyfrowy
+[alpine]alpine (EN) : (p.) wysokogórski
+[alpinist]alpinist (EN) : (rz.) alpinista
+[already]already (EN) : (p-sł.) już; (p-sł.) poprzednio; (p-sł.) przedtem
+[alright]alright (EN) : (p-sł.) dobrze
+[also]also (EN) : (p-sł.) również; (p-sł.) także; (p-sł.) też; (p-sł.) zarazem
+[altar]altar (EN) : (rz.) ołtarz; (rz.) rzeźba; (rz.) rzeźbiarstwo
+[altar-boy]altar-boy (EN) : (rz.) ministrant
+[altarpiece]altarpiece (EN) : (rz.) nastawa
+[alter]alter (EN) : (cz.) przemieniać; (cz.) przemienić; (cz.) przerabiać; (cz.) zmieniać; (cz.) zmienić
+[alterable]alterable (EN) : (p.) modyfikowalny
+[alteration]alteration (EN) : (rz.) deformacja; (rz.) obróbka; (rz.) odmiana; (rz.) przemiana; (rz.) przeróbka; (rz.) zmiana
+[altercate]altercate (EN) : (cz.) pokłócić
+[altercation]altercation (EN) : (rz.) kłótnia; (rz.) zwada
+[altering]altering (EN) : (rz.) zmiana; (rz.) zmienianie
+[alternant]alternant (EN) : (p.) naprzemienny
+[alternate]alternate (EN) : (cz.) rozmieniać; (cz.) wymieniać; (cz.) zmieniać; (p.) alternatywny; (p.) kolejny; (p.) naprzemianległy; (p.) naprzemienny; (p.) przemienny; (p.) zastępczy; (p.) zmianowy; (p.) zmienny
+[alternated]alternated (EN) : (p.) alternatywny
+[alternately]alternately (EN) : (p-sł.) kolejno
+[alternates]alternates (EN) : (p.) alternatywny
+[alternating]alternating (EN) : (p.) kolejny; (p.) naprzemianległy; (p.) naprzemienny; (p.) przemienny; (p.) zmienny
+[alternation]alternation (EN) : (rz.) alternatywa; (rz.) następstwo; (rz.) odmiana; (rz.) przemiana; (rz.) zmiana
+[alternative]alternative (EN) : (p.) alternatywny; (p.) inny; (p.) przestawny; (p.) wyborowy; (p.) zastępczy; (rz.) alternatywa; (rz.) alternatywność; (rz.) preselekcja; (rz.) wybór
+[alternatively]alternatively (EN) : (p-sł.) alternatywnie; (p-sł.) ewentualnie; (p-sł.) wymiennie
+[alternatives]alternatives (EN) : (p.) alternatywny
+[alternator]alternator (EN) : (rz.) alternator
+[alternators]alternators (EN) : (rz.) alternator
+[although]although (EN) : (spójnik) aczkolwiek; (spójnik) choć; (spójnik) chociaż
+[altimeter]altimeter (EN) : (rz.) wysokościomierz
+[altitude]altitude (EN) : (rz.) alt; (rz.) wysokość; (rz.) wzniesienie
+[alto]alto (EN) : (p.) altowy; (rz.) alt; (rz.) altówka; (rz.) kontralt
+[alto-cumulus]alto-cumulus (EN) : (rz.) meteor
+[altocumulus]altocumulus (EN) : (rz.) meteor
+[altogether]altogether (EN) : (p-sł.) całkowicie; (p-sł.) ogółem; (p-sł.) razem; (p-sł.) zupełnie
+[altruism]altruism (EN) : (rz.) altruizm
+[altruist]altruist (EN) : (rz.) altruista
+[altruistic]altruistic (EN) : (p.) altruistyczny
+[alum]alum (EN) : (rz.) ałun
+[alumina]alumina (EN) : (rz.) korund
+[aluminates]aluminates (EN) : (p.) gliniany; (rz.) glinian
+[aluminium]aluminium (EN) : (rz.) aluminium; (rz.) glin
+[aluminothermy]aluminothermy (EN) : (rz.) aluminotermia
+[alumni]alumni (EN) : (rz.) alumn
+[alumnus]alumnus (EN) : (rz.) absolwent; (rz.) alumn; (rz.) wychowanek
+[alveolar]alveolar (EN) : (p.) dziąsłowy; (p.) zębodołowy
+[alveolus]alveolus (EN) : (rz.) pęcherzyk; (rz.) zębodół
+[always]always (EN) : (p-sł.) ciągle; (p-sł.) wciąż; (p-sł.) zawsze
+[am]am (EN) : (cz.) być; (rz.) jestem; (rz.) rano
+[amah]amah (EN) : (rz.) mamka; (rz.) niańka
+[amalgam]amalgam (EN) : (rz.) amalgamat
+[amalgamate]amalgamate (EN) : (cz.) amalgamować; (cz.) jednoczyć; (cz.) łączyć; (cz.) połączyć
+[amalgamating]amalgamating (EN) : (rz.) amalgamowanie
+[amalgamation]amalgamation (EN) : (rz.) fuzja; (rz.) połączenie; (rz.) złącze
+[amanuensis]amanuensis (EN) : (rz.) sekretarz
+[amaranth]amaranth (EN) : (rz.) amarant
+[amass]amass (EN) : (cz.) akumulować; (cz.) gromadzić; (cz.) nagromadzić; (cz.) zbierać
+[amateur]amateur (EN) : (rz.) amator; (rz.) dyletant; (rz.) niefachowiec
+[amateurish]amateurish (EN) : (p.) amatorski; (p.) dyletancki
+[amateurishness]amateurishness (EN) : (rz.) amatorstwo; (rz.) dyletantyzm
+[amateurism]amateurism (EN) : (rz.) amatorstwo
+[amative]amative (EN) : (p.) kochliwy
+[amatory]amatory (EN) : (p.) amatorski; (p.) miłosny
+[amaze]amaze (EN) : (cz.) zadziwiać; (cz.) zdumieć; (cz.) zdumiewać
+[amazed]amazed (EN) : (p.) zadziwiony; (p.) zdumiony
+[amazement]amazement (EN) : (rz.) osłupienie; (rz.) zaskoczenie; (rz.) zdumienie
+[amazing]amazing (EN) : (p.) cudowny; (p.) niesamowity; (p.) rewelacyjny
+[amazingly]amazingly (EN) : (p-sł.) fantastycznie; (p-sł.) wspaniale; (p-sł.) zdumiewająco
+[amazonite]amazonite (EN) : (rz.) amazonit
+[ambassador]ambassador (EN) : (rz.) ambasador; (rz.) poseł
+[ambassadorial]ambassadorial (EN) : (p.) ambasadorski
+[ambassadress]ambassadress (EN) : (rz.) ambasador
+[amber]amber (EN) : (p.) bursztynowy; (rz.) bursztyn; (rz.) pomarańcz
+[ambergris]ambergris (EN) : (rz.) ambra
+[ambiance]ambiance (EN) : (rz.) atmosfera; (rz.) nastrój
+[ambidextrous]ambidextrous (EN) : (p.) oburęczny
+[ambience]ambience (EN) : (rz.) atmosfera; (rz.) otoczenie; (rz.) środowisko
+[ambiguity]ambiguity (EN) : (rz.) dwuznacznik; (rz.) dwuznaczność; (rz.) niejasność; (rz.) niejednoznaczność; (rz.) wieloznaczność
+[ambiguous]ambiguous (EN) : (p.) amfiboliczny; (p.) dwuznaczny; (p.) niejasny; (p.) niejednoznaczny; (p.) niepewny; (p.) różnoznaczny; (p.) wątpliwy; (p.) wieloznaczny
+[ambiguously]ambiguously (EN) : (p-sł.) dwuznacznie
+[ambit]ambit (EN) : (rz.) granica; (rz.) obwód; (rz.) okręg; (rz.) zakres; (rz.) zasięg
+[ambition]ambition (EN) : (rz.) ambicja; (rz.) aspiracja; (rz.) cel; (rz.) dążenie
+[ambitious]ambitious (EN) : (p.) ambitny
+[ambitiously]ambitiously (EN) : (p-sł.) ambitnie
+[ambivalence]ambivalence (EN) : (rz.) ambiwalencja; (rz.) dwojakość
+[ambivalent]ambivalent (EN) : (p.) ambiwalentny; (p.) sprzeczny; (p.) wieloznaczny
+[amble]amble (EN) : (cz.) kłusować; (cz.) przechadzać; (rz.) kłus
+[ambling]ambling (EN) : (p.) posuwisty
+[ambo]ambo (EN) : (rz.) ambona; (rz.) pulpit
+[ambrosia]ambrosia (EN) : (rz.) ambrozja
+[ambry]ambry (EN) : (rz.) spiżarnia; (rz.) szafa
+[ambulance]ambulance (EN) : (rz.) ambulans; (rz.) karetka; (rz.) pogotowie; (rz.) sanitarka
+[ambulant]ambulant (EN) : (p.) ambulatoryjny
+[ambulate]ambulate (EN) : (cz.) wywędrować
+[ambulatory]ambulatory (EN) : (p.) ambulatoryjny; (p.) objazdowy; (p.) wędrowny
+[ambush]ambush (EN) : (cz.) czyhać; (cz.) zaczaić; (cz.) zasadzać; (rz.) pułapka; (rz.) zasadzka
+[ameliorate]ameliorate (EN) : (cz.) doskonalić; (cz.) poprawiać; (cz.) udoskonalać; (cz.) udoskonalić; (cz.) ulepszać; (cz.) ulepszyć
+[amelioration]amelioration (EN) : (rz.) melioracja; (rz.) udoskonalenie; (rz.) ulepszenie
+[amenable]amenable (EN) : (p.) dostępny; (p.) odpowiedzialny; (p.) posłuszny; (p.) skłonny; (p.) ustępliwy
+[amend]amend (EN) : (cz.) korygować; (cz.) naprawiać; (cz.) naprawić; (cz.) poprawiać; (cz.) ulepszać; (cz.) usprawniać; (cz.) zmieniać
+[amendment]amendment (EN) : (rz.) korekta; (rz.) naprawa; (rz.) nowelizacja; (rz.) poprawa; (rz.) poprawka; (rz.) zmiana
+[amendments]amendments (EN) : (rz.) nowelizacja
+[amends]amends (EN) : (rz.) odszkodowanie; (rz.) rekompensata; (rz.) zabezpieczenie; (rz.) zadośćuczynienie
+[amenity]amenity (EN) : (rz.) grzeczność; (rz.) łagodność; (rz.) uprzejmość
+[americium]americium (EN) : (rz.) ameryk
+[amethyst]amethyst (EN) : (rz.) ametyst
+[amethystine]amethystine (EN) : (p.) ametystowy
+[amiability]amiability (EN) : (rz.) uprzejmość
+[amiable]amiable (EN) : (p.) dobry; (p.) miły; (p.) przemiły; (p.) sympatyczny; (p.) uprzejmy
+[amicability]amicability (EN) : (rz.) otwartość; (rz.) przyjaźń; (rz.) ugodowość
+[amicable]amicable (EN) : (p.) łatwy; (p.) pokojowy; (p.) polubowny; (p.) przyjacielski; (p.) przyjazny; (p.) ugodowy
+[amicably]amicably (EN) : (p-sł.) polubownie; (p-sł.) przyjaźnie; (p-sł.) zgodnie
+[amid]amid (EN) : (p-im.) pomiędzy; (p-im.) pośród; (p-im.) wśród
+[amides]amides (EN) : (rz.) amidki
+[amidst]amidst (EN) : (p-im.) pomiędzy; (p-im.) pośród; (p-im.) wśród
+[amine]amine (EN) : (p.) aminowy; (rz.) amina
+[aminophenol]aminophenol (EN) : (rz.) aminofenol
+[amiss]amiss (EN) : (p-sł.) błędnie; (p-sł.) fałszywie; (p-sł.) nieodpowiednio; (p-sł.) niepomyślnie; (p-sł.) źle
+[amitosis]amitosis (EN) : (rz.) amitoza
+[amitotic]amitotic (EN) : (p.) amitotyczny
+[amity]amity (EN) : (rz.) przyjaźń
+[ammeter]ammeter (EN) : (rz.) amperomierz
+[ammeters]ammeters (EN) : (rz.) amperomierz
+[ammine]ammine (EN) : (rz.) amoniakat
+[ammo]ammo (EN) : (rz.) amunicja
+[ammonia]ammonia (EN) : (rz.) amoniak
+[ammoniac]ammoniac (EN) : (p.) amoniakalny
+[ammonite]ammonite (EN) : (rz.) amonit
+[ammonium]ammonium (EN) : (rz.) amon
+[ammonization]ammonization (EN) : (rz.) amonifikacja
+[ammunition]ammunition (EN) : (rz.) amunicja
+[amnesia]amnesia (EN) : (rz.) amnezja
+[amnesty]amnesty (EN) : (cz.) amnestionować; (rz.) amnestia
+[amnion]amnion (EN) : (rz.) owodnia
+[amniotic]amniotic (EN) : (p.) owodniowy
+[amoeba]amoeba (EN) : (rz.) ameba; (rz.) pełzak
+[amok]amok (EN) : (rz.) amok
+[among]among (EN) : (p-im.) między; (p-im.) pomiędzy; (p-im.) pośród; (p-im.) wśród
+[amongst]amongst (EN) : (p-im.) między; (p-im.) pomiędzy; (p-im.) pośród; (p-im.) wśród
+[amoral]amoral (EN) : (p.) amoralny; (p.) niemoralny
+[amorality]amorality (EN) : (rz.) amoralność
+[amorous]amorous (EN) : (p.) kochliwy; (p.) miłosny; (p.) zakochany
+[amorousness]amorousness (EN) : (rz.) kochliwość
+[amorphous]amorphous (EN) : (p.) amorficzny; (p.) bezkształtny; (p.) bezpostaciowy
+[amortise]amortise (EN) : (cz.) umarzać
+[amortization]amortization (EN) : (rz.) amortyzacja
+[amortize]amortize (EN) : (cz.) amortyzować; (cz.) zamortyzować
+[amortizing]amortizing (EN) : (rz.) zarekwirowanie
+[amount]amount (EN) : (cz.) osiągać; (cz.) oznaczać; (cz.) wynieść; (cz.) wynosić; (rz.) ilość; (rz.) kwota; (rz.) liczba; (rz.) suma; (rz.) wielkość
+[amour]amour (EN) : (rz.) miłostka; (rz.) romans; (rz.) romantyczność
+[amp]amp (EN) : (rz.) amper
+[amp-hours]amp-hours (EN) : (rz.) amperogodzina
+[ampere]ampere (EN) : (rz.) amper
+[ampere-hour]ampere-hour (EN) : (rz.) amperogodzina
+[ampere-second]ampere-second (EN) : (rz.) amperosekunda; (rz.) kulomb
+[ampere-turn]ampere-turn (EN) : (rz.) amperozwój
+[amperes]amperes (EN) : (rz.) amper
+[ampersand]ampersand (EN) : (rz.) odsyłacz; (rz.) znak
+[amphetamine]amphetamine (EN) : (rz.) amfetamina
+[amphibian]amphibian (EN) : (p.) ziemnowodny; (rz.) amfibia; (rz.) płaz
+[amphibians]amphibians (EN) : (rz.) amfibia
+[amphibious]amphibious (EN) : (p.) ziemnowodny
+[amphiboles]amphiboles (EN) : (rz.) amfibole
+[amphibology]amphibology (EN) : (rz.) amfibologia; (rz.) dwuznaczność
+[amphibrach]amphibrach (EN) : (rz.) amfibrach
+[amphitheatre]amphitheatre (EN) : (rz.) amfiteatr
+[amphora]amphora (EN) : (rz.) amfora
+[ample]ample (EN) : (p.) dostatni; (p.) duży; (p.) hojny; (p.) obfity; (p.) obszerny; (p.) przestronny; (p.) sowity; (p.) wystarczający
+[ampleness]ampleness (EN) : (rz.) dostatniość; (rz.) obfitość; (rz.) obszerność; (rz.) sutość
+[amplification]amplification (EN) : (rz.) amplifikacja; (rz.) rozszerzenie; (rz.) rozwinięcie; (rz.) wzmocnienie; (rz.) zwiększenie
+[amplified]amplified (EN) : (cz.) wzmacniać
+[amplifier]amplifier (EN) : (rz.) amplifikator; (rz.) wzmacniacz; (rz.) wzmacniak
+[amplify]amplify (EN) : (cz.) powiększać; (cz.) rozszerzać; (cz.) wzmacniać; (cz.) zwiększać
+[amplitude]amplitude (EN) : (rz.) amplituda; (rz.) obfitość
+[amply]amply (EN) : (p-sł.) obszernie; (p-sł.) wystarczająco
+[ampoule]ampoule (EN) : (rz.) ampułka
+[amputate]amputate (EN) : (cz.) amputować; (cz.) odciąć
+[amputation]amputation (EN) : (rz.) amputacja; (rz.) odcięcie
+[amulet]amulet (EN) : (rz.) amulet
+[amuse]amuse (EN) : (cz.) przerwać; (cz.) przerywać; (cz.) rozbawiać; (cz.) rozbawić; (cz.) rozerwać; (cz.) rozśmieszać; (cz.) rozweselać; (cz.) śmieszyć; (cz.) ubawić; (cz.) zabawiać
+[amusement]amusement (EN) : (rz.) radość; (rz.) rozrywka; (rz.) wesołość; (rz.) zabawa
+[amuses]amuses (EN) : (rz.) przyjemność
+[amusing]amusing (EN) : (p.) śmieszny; (p.) zabawny
+[amusingly]amusingly (EN) : (p-sł.) śmiesznie; (p-sł.) wesoło; (p-sł.) zabawnie
+[amylase]amylase (EN) : (rz.) amylaza
+[anabolism]anabolism (EN) : (rz.) anabolizm
+[anachronism]anachronism (EN) : (rz.) anachroniczność; (rz.) anachronizm; (rz.) przeżytek
+[anachronistic]anachronistic (EN) : (p.) anachroniczny
+[anaconda]anaconda (EN) : (rz.) anakonda
+[anaemia]anaemia (EN) : (rz.) anemia; (rz.) niedokrwistość
+[anaemic]anaemic (EN) : (p.) anemiczny; (p.) niedokrwisty
+[anaerobe]anaerobe (EN) : (rz.) anaerob; (rz.) beztlenowiec
+[anaerobes]anaerobes (EN) : (rz.) beztlenowce
+[anaerobic]anaerobic (EN) : (p.) beztlenowy
+[anaesthesia]anaesthesia (EN) : (rz.) anestezja; (rz.) narkoza; (rz.) znieczulenie
+[anaesthesiologist]anaesthesiologist (EN) : (rz.) anestezjolog
+[anaesthesiology]anaesthesiology (EN) : (rz.) anestezjologia
+[anaesthetic]anaesthetic (EN) : (p.) znieczulający; (rz.) narkoza; (rz.) znieczulenie
+[anaesthetist]anaesthetist (EN) : (rz.) anestezjolog
+[anaesthetization]anaesthetization (EN) : (rz.) narkoza
+[anaesthetize]anaesthetize (EN) : (cz.) uśpić; (cz.) usypiać; (cz.) znieczulać; (cz.) znieczulić
+[anaglyph]anaglyph (EN) : (rz.) anaglif
+[anagrams]anagrams (EN) : (rz.) anagram
+[anal]anal (EN) : (p.) analny; (p.) odbytniczy; (p.) odbytowy
+[analgesia]analgesia (EN) : (rz.) analgezja
+[analgesic]analgesic (EN) : (p.) przeciwbólowy
+[analogical]analogical (EN) : (p.) analogiczny; (p.) zbieżny
+[analogous]analogous (EN) : (p.) analogiczny; (p.) zbieżny
+[analogue]analogue (EN) : (p.) analogiczny; (p.) analogowy; (rz.) analog
+[analogues]analogues (EN) : (p.) analogowy
+[analogy]analogy (EN) : (rz.) analogia; (rz.) podobieństwo; (rz.) zbieżność
+[analyse]analyse (EN) : (cz.) analizować
+[analyser]analyser (EN) : (rz.) analizator
+[analysing]analysing (EN) : (rz.) analizowanie
+[analysis]analysis (EN) : (rz.) analiza; (rz.) badanie; (rz.) psychoanaliza; (rz.) rozbiór
+[analyst]analyst (EN) : (rz.) analityk; (rz.) psychoanalityk
+[analytic]analytic (EN) : (p.) analityczny
+[analytical]analytical (EN) : (p.) analityczny
+[analytically]analytically (EN) : (p-sł.) analitycznie
+[analyticity]analyticity (EN) : (rz.) analityczność
+[analyze]analyze (EN) : (cz.) analizować; (cz.) badać; (cz.) przeanalizować
+[analyzer]analyzer (EN) : (rz.) analizator
+[anamnesis]anamnesis (EN) : (rz.) amnezja; (rz.) anamneza
+[anapaest]anapaest (EN) : (rz.) anapest
+[anaphase]anaphase (EN) : (rz.) anafaza
+[anaphylactic]anaphylactic (EN) : (p.) anafilaktyczny
+[anaphylaxis]anaphylaxis (EN) : (rz.) anafilaksja
+[anarchic]anarchic (EN) : (p.) anarchiczny; (p.) archaiczny
+[anarchical]anarchical (EN) : (p.) anarchiczny
+[anarchism]anarchism (EN) : (rz.) anarchizm; (rz.) archaiczność
+[anarchist]anarchist (EN) : (rz.) anarchista
+[anarchistic]anarchistic (EN) : (p.) anarchistyczny
+[anarchy]anarchy (EN) : (rz.) anarchia; (rz.) nierząd
+[anathema]anathema (EN) : (rz.) anatema; (rz.) klątwa
+[anathematize]anathematize (EN) : (cz.) wyklinać
+[anatomic]anatomic (EN) : (p.) anatomiczny
+[anatomical]anatomical (EN) : (p.) anatomiczny
+[anatomically]anatomically (EN) : (p-sł.) anatomicznie
+[anatomist]anatomist (EN) : (rz.) anatom
+[anatomize]anatomize (EN) : (cz.) zanalizować; (cz.) zbadać; (cz.) zwalniać
+[anatomy]anatomy (EN) : (rz.) anatomia
+[ancestor]ancestor (EN) : (rz.) antenat; (rz.) poprzednik; (rz.) praojciec; (rz.) protoplasta; (rz.) przodek
+[ancestors]ancestors (EN) : (rz.) przodkowie
+[ancestral]ancestral (EN) : (p.) dziedziczny; (p.) rodowy
+[ancestress]ancestress (EN) : (rz.) antenatka
+[ancestry]ancestry (EN) : (rz.) pochodzenie; (rz.) ród
+[anchor]anchor (EN) : (cz.) kotwiczyć; (cz.) umocować; (cz.) zakorzeniać; (cz.) zakotwiczać; (cz.) zakotwiczyć; (rz.) kotwica; (rz.) kotwiczenie; (rz.) kotwiczne; (rz.) zakotwiczenie
+[anchorage]anchorage (EN) : (rz.) kotwicowisko; (rz.) kotwiczne; (rz.) zakotwiczenie
+[anchored]anchored (EN) : (p.) zakotwiczony; (p.) zakotwiony; (p.) zamocowany
+[anchoring]anchoring (EN) : (p.) kotwiczny; (rz.) kotwiczenie; (rz.) utwierdzenie
+[anchorite]anchorite (EN) : (rz.) anachoreta; (rz.) odludek; (rz.) pustelnik
+[anchorman]anchorman (EN) : (rz.) prezenter
+[anchovy]anchovy (EN) : (rz.) sardela
+[ancient]ancient (EN) : (p.) antyczny; (p.) dawny; (p.) odwieczny; (p.) prastary; (p.) sędziwy; (p.) starodawny; (p.) starożytny; (p.) stary
+[ancillary]ancillary (EN) : (p.) podrzędny; (p.) podwładny; (p.) pomocniczy; (p.) służebny
+[and]and (EN) : (spójnik) a; (spójnik) i; (spójnik) oraz; (spójnik) zaś
+[andesine]andesine (EN) : (rz.) andezyn
+[andiron]andiron (EN) : (rz.) kozioł
+[andradite]andradite (EN) : (rz.) andradyt
+[androgenic]androgenic (EN) : (p.) androgenny
+[androgens]androgens (EN) : (p.) androgeny
+[androgynous]androgynous (EN) : (p.) androgeniczny
+[androgyny]androgyny (EN) : (rz.) dwupłciowość
+[anecdotal]anecdotal (EN) : (p.) anegdotyczny
+[anecdote]anecdote (EN) : (rz.) anegdota; (rz.) dykteryjka
+[anecdotic]anecdotic (EN) : (p.) anegdotyczny
+[anemograph]anemograph (EN) : (rz.) anemograf
+[anemometer]anemometer (EN) : (rz.) anemometr; (rz.) wiatromierz
+[anemone]anemone (EN) : (rz.) anemon; (rz.) zawilec
+[anemoscope]anemoscope (EN) : (rz.) anemoskop; (rz.) wiatrowskaz
+[aneroid]aneroid (EN) : (rz.) aneroid
+[anesthetize]anesthetize (EN) : (cz.) znieczulać; (cz.) znieczulić
+[aneurism]aneurism (EN) : (rz.) anewryzm; (rz.) tętniak
+[aneurysm]aneurysm (EN) : (rz.) anewryzm; (rz.) tętniak
+[anew]anew (EN) : (p-sł.) powtórnie; (p-sł.) znowu
+[angel]angel (EN) : (rz.) anioł
+[angelic]angelic (EN) : (p.) anielski
+[angelica]angelica (EN) : (rz.) arcydzięgiel; (rz.) dzięgiel
+[angelical]angelical (EN) : (p.) anielski
+[angelically]angelically (EN) : (p-sł.) anielsko
+[angelus]angelus (EN) : (rz.) anioł
+[anger]anger (EN) : (cz.) drażnić; (cz.) gniewać; (rz.) gniew; (rz.) zagniewanie; (rz.) złość
+[angering]angering (EN) : (rz.) zagniewanie
+[angina]angina (EN) : (rz.) angina; (rz.) dusznica
+[angle]angle (EN) : (rz.) haczyk; (rz.) kąt; (rz.) kątownik; (rz.) narożnik; (rz.) położenie; (rz.) róg; (rz.) węzeł
+[angler]angler (EN) : (rz.) rybak; (rz.) wędkarz
+[anglesite]anglesite (EN) : (rz.) anglezyt
+[anglicize]anglicize (EN) : (cz.) anglizować; (cz.) tłumaczyć
+[angling]angling (EN) : (rz.) wędkarstwo; (rz.) wędkowanie
+[anglophile]anglophile (EN) : (rz.) anglofil
+[angrier]angrier (EN) : (p.) wściekły; (p.) zły
+[angriest]angriest (EN) : (p.) gniewny; (p.) wściekły
+[angrily]angrily (EN) : (p-sł.) gniewnie
+[angry]angry (EN) : (p.) gniewny; (p.) rozgniewany; (p.) zły
+[angst]angst (EN) : (rz.) angstrem
+[angstrom]angstrom (EN) : (rz.) angstrem
+[anguish]anguish (EN) : (rz.) ból; (rz.) boleść; (rz.) cierpienie; (rz.) lęk; (rz.) męka; (rz.) udręczenie; (rz.) udręka
+[angular]angular (EN) : (p.) kanciasty; (p.) kątowy; (p.) kościsty; (p.) narożny
+[anhydride]anhydride (EN) : (rz.) bezwodnik
+[anhydrite]anhydrite (EN) : (rz.) anhydryt
+[anhydrous]anhydrous (EN) : (p.) bezwodny
+[aniline]aniline (EN) : (rz.) anilana; (rz.) anilina
+[animadversion]animadversion (EN) : (rz.) krytyka
+[animadvert]animadvert (EN) : (cz.) krytykować; (cz.) skrytykować
+[animal]animal (EN) : (p.) zwierzęcy; (rz.) bydlak; (rz.) zwierz; (rz.) zwierzak; (rz.) zwierzę; (rz.) zwierzenie
+[animalcule]animalcule (EN) : (rz.) drobnoustrój; (rz.) żyjątko
+[animalism]animalism (EN) : (rz.) animalizm; (rz.) zwierzęcość
+[animalist]animalist (EN) : (rz.) animalista
+[animals]animals (EN) : (rz.) zwierzęta
+[animate]animate (EN) : (cz.) animować; (cz.) ożywiać; (cz.) pobudzać; (cz.) wzbudzać; (p.) ożywiony; (p.) żywy
+[animated]animated (EN) : (p.) rysunkowy
+[animation]animation (EN) : (rz.) animacja; (rz.) animusz; (rz.) kreskówka; (rz.) ożywienie
+[animator]animator (EN) : (rz.) animator
+[animism]animism (EN) : (rz.) animizm
+[animist]animist (EN) : (rz.) animista
+[animistic]animistic (EN) : (p.) animistyczny
+[animosity]animosity (EN) : (rz.) animozja; (rz.) niechęć; (rz.) uraza
+[animus]animus (EN) : (rz.) zamiar
+[anion]anion (EN) : (rz.) anion
+[anionic]anionic (EN) : (p.) anionowy
+[anions]anions (EN) : (rz.) anion
+[anise]anise (EN) : (rz.) anyż
+[aniseed]aniseed (EN) : (p.) anyżowy; (rz.) anyż
+[anisette]anisette (EN) : (rz.) anyżówka
+[anisotropic]anisotropic (EN) : (p.) anizotropowy; (p.) różnokierunkowy
+[anisotropy]anisotropy (EN) : (rz.) anizotropia
+[ankle]ankle (EN) : (rz.) kostka
+[annalist]annalist (EN) : (rz.) annalista; (rz.) kronikarz
+[annalistic]annalistic (EN) : (p.) kronikarski
+[annals]annals (EN) : (rz.) annały; (rz.) kronika
+[anneal]anneal (EN) : (cz.) wyżarzać
+[annealing]annealing (EN) : (rz.) wyżarzanie; (rz.) wyżarzenie
+[annelid]annelid (EN) : (p.) pierścieniowy
+[annex]annex (EN) : (cz.) anektować; (cz.) dołączyć; (cz.) łączyć; (cz.) przyłączyć; (cz.) zaanektować; (rz.) aneks; (rz.) dodatek; (rz.) oficyna; (rz.) przybudówka; (rz.) załącznik
+[annexation]annexation (EN) : (rz.) aneksja; (rz.) przyłączenie; (rz.) zabór
+[annexe]annexe (EN) : (rz.) dobudówka; (rz.) oficyna; (rz.) przybudówka
+[annihilate]annihilate (EN) : (cz.) anihilować; (cz.) niszczyć; (cz.) unicestwiać; (cz.) unicestwić; (cz.) zniszczyć; (cz.) zniweczyć
+[annihilation]annihilation (EN) : (rz.) anihilacja; (rz.) unicestwienie; (rz.) zagłada; (rz.) zniszczenie; (rz.) zniweczenie
+[annihilator]annihilator (EN) : (rz.) anihilator
+[anniversary]anniversary (EN) : (p.) coroczny; (p.) doroczny; (p.) rocznicowy; (rz.) jubileusz; (rz.) rocznica
+[annotate]annotate (EN) : (cz.) adnotować; (cz.) dołączać; (cz.) komentować; (cz.) objaśniać; (cz.) zaopatrzyć; (cz.) zawierać
+[annotation]annotation (EN) : (rz.) adnotacja; (rz.) dopisek; (rz.) komentarz; (rz.) notatka; (rz.) przypis; (rz.) sprawozdanie; (rz.) uwaga
+[announce]announce (EN) : (cz.) anonsować; (cz.) komunikować; (cz.) meldować; (cz.) obwieszczać; (cz.) ogłaszać; (cz.) ogłosić; (cz.) oznajmiać; (cz.) oznajmić; (cz.) zapowiadać; (cz.) zapowiedzieć; (cz.) zawiadamiać; (cz.) zawiadomić
+[announcement]announcement (EN) : (rz.) anons; (rz.) komunikat; (rz.) obwieszczenie; (rz.) ogłaszanie; (rz.) ogłoszenie; (rz.) oświadczenie; (rz.) oznajmienie; (rz.) zapowiedź; (rz.) zawiadomienie
+[announcer]announcer (EN) : (rz.) konferansjer; (rz.) spiker
+[announcing]announcing (EN) : (rz.) obwieszczanie; (rz.) zapowiadanie; (rz.) zwiastowanie
+[annoy]annoy (EN) : (cz.) denerwować; (cz.) dokuczać; (cz.) drażnić; (cz.) irytować; (cz.) nagabywać; (cz.) naprzykrzać; (cz.) nękać; (cz.) niepokoić; (cz.) trapić; (cz.) złościć
+[annoyance]annoyance (EN) : (rz.) dokuczanie; (rz.) dokuczliwość; (rz.) irytacja; (rz.) kłopot; (rz.) przykrość; (rz.) rozdrażnienie; (rz.) strapienie; (rz.) trudność; (rz.) złośliwość; (rz.) zmartwienie
+[annoyed]annoyed (EN) : (p.) rozgniewany; (p.) zirytowany
+[annoying]annoying (EN) : (p.) dokuczliwy; (p.) nieprzyjemny; (p.) nieznośny; (p.) przykry
+[annoyingly]annoyingly (EN) : (p-sł.) irytująco
+[annual]annual (EN) : (p.) coroczny; (p.) doroczny; (p.) roczny
+[annually]annually (EN) : (p-sł.) rocznie; (p-sł.) rokrocznie
+[annuitant]annuitant (EN) : (rz.) rencista
+[annuity]annuity (EN) : (rz.) dożywocie; (rz.) rata; (rz.) renta
+[annul]annul (EN) : (cz.) anulować; (cz.) skasować; (cz.) unieważniać; (cz.) unieważnić
+[annular]annular (EN) : (p.) obrączkowy; (p.) pierścieniowaty; (p.) pierścieniowy
+[annulling]annulling (EN) : (rz.) uchylenie; (rz.) unieważnienie
+[annulment]annulment (EN) : (rz.) anulowanie; (rz.) kasacja; (rz.) skasowanie; (rz.) uchylenie; (rz.) unieważnienie; (rz.) zniesienie
+[annulus]annulus (EN) : (rz.) pierścień
+[annum]annum (EN) : (rz.) rok
+[annunciate]annunciate (EN) : (cz.) zapowiadać; (cz.) zwiastować
+[annunciation]annunciation (EN) : (rz.) oznajmienie; (rz.) zwiastowanie
+[anodal]anodal (EN) : (p.) anodowy
+[anode]anode (EN) : (rz.) anoda
+[anodes]anodes (EN) : (rz.) anoda
+[anodic]anodic (EN) : (p.) anodowy
+[anodizing]anodizing (EN) : (rz.) anodyzacja
+[anoint]anoint (EN) : (cz.) maścić; (cz.) namaścić; (cz.) namaszczać
+[anointing]anointing (EN) : (rz.) namaszczenie; (rz.) sakra
+[anointment]anointment (EN) : (rz.) namaszczenie; (rz.) pomazanie
+[anomalous]anomalous (EN) : (p.) anomalny; (p.) anormalny; (p.) nienormalny; (p.) nieprawidłowy; (p.) nietypowy
+[anomaly]anomaly (EN) : (rz.) anomalia; (rz.) nieprawidłowość
+[anon]anon (EN) : (p-sł.) niebawem
+[anonym]anonym (EN) : (rz.) anonim
+[anonymity]anonymity (EN) : (rz.) anonimowość
+[anonymous]anonymous (EN) : (p.) anonimowy; (p.) bezimienny
+[anonymously]anonymously (EN) : (p-sł.) anonimowo
+[anopheles]anopheles (EN) : (rz.) widliszek
+[anorak]anorak (EN) : (rz.) kurtka; (rz.) skafander
+[anorexia]anorexia (EN) : (rz.) anoreksja; (rz.) jadłowstręt
+[another]another (EN) : (p.) dodatkowy; (p.) drugi; (p.) inny; (p.) kolejny; (p.) następny
+[anoxia]anoxia (EN) : (rz.) hipoksja
+[answer]answer (EN) : (cz.) odbierać; (cz.) odebrać; (cz.) odpowiadać; (cz.) odpowiedzieć; (cz.) ręczyć; (cz.) spełniać; (rz.) odpowiedź; (rz.) rozwiązanie; (rz.) ustosunkowanie
+[answerable]answerable (EN) : (p.) odpowiedzialny
+[answerback]answerback (EN) : (rz.) odzew; (rz.) potwierdzenie
+[answering]answering (EN) : (rz.) odpowiadanie; (rz.) zgłoszenie
+[ant]ant (EN) : (rz.) mrówka; (rz.) termit
+[ant-eater]ant-eater (EN) : (rz.) mrówkojad
+[ant-hill]ant-hill (EN) : (rz.) mrowisko
+[antagonism]antagonism (EN) : (rz.) antagonizm
+[antagonist]antagonist (EN) : (rz.) antagonista; (rz.) oponent; (rz.) przeciwnik
+[antagonistic]antagonistic (EN) : (p.) antagonistyczny; (p.) nieprzyjazny; (p.) wrogi
+[antagonize]antagonize (EN) : (cz.) antagonizować; (cz.) przeciwdziałać; (cz.) sprzeciwiać; (cz.) zantagonizować
+[antagonizing]antagonizing (EN) : (rz.) zantagonizowanie
+[ante]ante (EN) : (rz.) stawka; (rz.) wejście
+[anteater]anteater (EN) : (rz.) mrówkojad
+[antecedence]antecedence (EN) : (rz.) pierwszeństwo; (rz.) starszeństwo
+[antecedent]antecedent (EN) : (rz.) poprzednik; (rz.) przodek
+[antechamber]antechamber (EN) : (rz.) poczekalnia; (rz.) przedpokój; (rz.) przedsionek
+[antedate]antedate (EN) : (cz.) antydatować
+[antediluvian]antediluvian (EN) : (p.) przedpotopowy
+[antelope]antelope (EN) : (rz.) antylopa
+[antemeridian]antemeridian (EN) : (p.) przedpołudniowy
+[antenatal]antenatal (EN) : (p.) prenatalny; (p.) przedporodowy
+[antenna]antenna (EN) : (rz.) antena; (rz.) czułek; (rz.) macka
+[anterior]anterior (EN) : (p.) poprzedni; (p.) uprzedni
+[anteriority]anteriority (EN) : (rz.) pierwszeństwo
+[anteroom]anteroom (EN) : (rz.) poczekalnia; (rz.) przedpokój
+[anthem]anthem (EN) : (rz.) hymn; (rz.) pieśń
+[anther]anther (EN) : (rz.) pylnik; (rz.) słupek
+[anthill]anthill (EN) : (rz.) mrowisko
+[anthological]anthological (EN) : (p.) antologiczny
+[anthology]anthology (EN) : (rz.) analogia; (rz.) antologia
+[anthracite]anthracite (EN) : (rz.) antracyt
+[anthrax]anthrax (EN) : (rz.) wąglik
+[anthropocentrism]anthropocentrism (EN) : (rz.) antropocentryzm
+[anthropogenesis]anthropogenesis (EN) : (rz.) antropogeneza
+[anthropogenic]anthropogenic (EN) : (p.) antropogeniczny; (p.) antropoidalny
+[anthropoid]anthropoid (EN) : (p.) człekokształtny
+[anthropological]anthropological (EN) : (p.) antropologiczny
+[anthropologist]anthropologist (EN) : (rz.) antropolog
+[anthropology]anthropology (EN) : (rz.) antropologia
+[anthropometry]anthropometry (EN) : (rz.) antropometria
+[anthropomorphic]anthropomorphic (EN) : (p.) antropomorficzny
+[anthropomorphism]anthropomorphism (EN) : (rz.) antropomorfizm
+[anthropophagous]anthropophagous (EN) : (p.) ludożerczy
+[anti-semite]anti-Semite (EN) : (rz.) antysemita
+[anti-semitic]anti-Semitic (EN) : (p.) antysemicki
+[anti-semitism]anti-Semitism (EN) : (rz.) antysemityzm
+[anti-aircraft]anti-aircraft (EN) : (p.) przeciwlotniczy
+[anti-doping]anti-doping (EN) : (p.) antydopingowy
+[anti-dumping]anti-dumping (EN) : (p.) antydumpingowy
+[anti-fascism]anti-fascism (EN) : (rz.) antyfaszyzm
+[anti-fascist]anti-fascist (EN) : (p.) antyfaszystowski
+[anti-gas]anti-gas (EN) : (p.) przeciwgazowy
+[anti-imperialistic]anti-imperialistic (EN) : (p.) antyimperialistyczny
+[anti-inflationary]anti-inflationary (EN) : (p.) antyinflacyjny
+[anti-influenza]anti-influenza (EN) : (p.) przeciwgrypowy
+[anti-tank]anti-tank (EN) : (p.) przeciwczołgowy; (p.) przeciwpancerny
+[anti-trust]anti-trust (EN) : (p.) antymonopolowy
+[anti-war]anti-war (EN) : (p.) antywojenny
+[antiaircraft]antiaircraft (EN) : (p.) przeciwlotniczy
+[antibacterial]antibacterial (EN) : (p.) antybakteryjny; (p.) przeciwbakteryjny
+[antibiosis]antibiosis (EN) : (rz.) antybioza
+[antibiotic]antibiotic (EN) : (rz.) antybiotyk
+[antibody]antibody (EN) : (rz.) przeciwciało
+[antic]antic (EN) : (p.) dziwaczny; (p.) groteskowy; (rz.) figiel; (rz.) groteska; (rz.) swawola
+[anticathode]anticathode (EN) : (rz.) antykatoda
+[antichrist]antichrist (EN) : (rz.) antychryst
+[anticipate]anticipate (EN) : (cz.) antycypować; (cz.) oczekiwać; (cz.) przewidywać; (cz.) przewidzieć; (cz.) uprzedzać; (cz.) wyprzedzać; (cz.) wyprzedzić; (cz.) zakładać; (cz.) zamierzać
+[anticipating]anticipating (EN) : (rz.) wyprzedzanie
+[anticipation]anticipation (EN) : (rz.) antycypacja; (rz.) przewidywanie; (rz.) uprzedzenie; (rz.) wyprzedzanie; (rz.) wyprzedzenie; (rz.) zaliczka
+[anticipatory]anticipatory (EN) : (p.) antycypacyjny; (p.) przedterminowy; (p.) wyczekujący; (p.) wyprzedzający; (rz.) wyczekiwanie
+[anticlerical]anticlerical (EN) : (p.) antyklerykalny
+[anticlimax]anticlimax (EN) : (rz.) kontrast; (rz.) rozczarowanie; (rz.) zawód
+[anticline]anticline (EN) : (rz.) antyklina; (rz.) siodło
+[anticoincidence]anticoincidence (EN) : (rz.) niejednoczesność
+[anticommunism]anticommunism (EN) : (rz.) antykomunizm
+[anticommunist]anticommunist (EN) : (rz.) antykomunista
+[anticorrosive]anticorrosive (EN) : (p.) antykorozyjny; (p.) przeciwkorozyjny
+[antics]antics (EN) : (rz.) swawola
+[anticyclone]anticyclone (EN) : (rz.) antycyklon; (rz.) wyż
+[antidazzle]antidazzle (EN) : (p.) przeciwodblaskowy
+[antidepressant]antidepressant (EN) : (p.) antydepresyjny; (p.) przeciwdepresyjny
+[antidote]antidote (EN) : (rz.) antidotum; (rz.) odtrutka
+[antifascist]antifascist (EN) : (p.) antyfaszystowski; (rz.) antyfaszysta
+[antifeminist]antifeminist (EN) : (rz.) antyfeminista
+[antifreeze]antifreeze (EN) : (rz.) odmrażacz
+[antifriction]antifriction (EN) : (p.) przeciwcierny
+[antigen]antigen (EN) : (rz.) antygen
+[antigenic]antigenic (EN) : (p.) antygenowy
+[antiknock]antiknock (EN) : (p.) przeciwstukowy
+[antilock]antilock (EN) : (p.) przeciwpoślizgowy
+[antilog]antilog (EN) : (rz.) antylogarytm
+[antilogarithm]antilogarithm (EN) : (rz.) antylogarytm
+[antimacassar]antimacassar (EN) : (rz.) pokrowiec
+[antimatter]antimatter (EN) : (rz.) antymateria
+[antimicrobial]antimicrobial (EN) : (p.) przeciwbakteryjny
+[antimissile]antimissile (EN) : (p.) przeciwrakietowy
+[antimonite]antimonite (EN) : (rz.) antymonit
+[antimony]antimony (EN) : (rz.) antymon; (rz.) antynomia; (rz.) sprzeczność
+[antinational]antinational (EN) : (p.) antypaństwowy
+[antineutrino]antineutrino (EN) : (rz.) antyneutrino
+[antineutron]antineutron (EN) : (rz.) antyneutron
+[antinomy]antinomy (EN) : (rz.) antynomia
+[antinuclear]antinuclear (EN) : (p.) antynuklearny
+[antioxidant]antioxidant (EN) : (rz.) antyutleniacz; (rz.) przeciwutleniacz
+[antiparticle]antiparticle (EN) : (rz.) antycząstka
+[antipasto]antipasto (EN) : (rz.) zakąska
+[antipathetic]antipathetic (EN) : (p.) antypatyczny; (p.) niechętny; (p.) przeciwny; (p.) wrogi
+[antipathy]antipathy (EN) : (rz.) antypatia; (rz.) niechęć; (rz.) wstręt
+[antipersonnel]antipersonnel (EN) : (p.) przeciwpiechotny
+[antiphrasis]antiphrasis (EN) : (rz.) antyfraza
+[antipodal]antipodal (EN) : (p.) antypodyczny
+[antipode]antipode (EN) : (rz.) antypoda
+[antiproton]antiproton (EN) : (rz.) antyproton
+[antipyretic]antipyretic (EN) : (p.) przeciwgorączkowy
+[antiquarian]antiquarian (EN) : (p.) antykwarski; (p.) antykwaryczny; (rz.) antykwariusz
+[antiquary]antiquary (EN) : (rz.) antykwariusz
+[antiquated]antiquated (EN) : (p.) staroświecki; (p.) szczątkowy
+[antique]antique (EN) : (p.) antyczny; (p.) dawny; (p.) starodawny; (p.) starożytny; (p.) zabytkowy; (rz.) antyk; (rz.) zabytek
+[antiquing]antiquing (EN) : (rz.) nabłyszczanie
+[antiquity]antiquity (EN) : (rz.) antyk; (rz.) dawność; (rz.) starodawność; (rz.) starożytność
+[antirevolutionary]antirevolutionary (EN) : (p.) antyrewolucyjny
+[antirust]antirust (EN) : (p.) przeciwrdzewny
+[antiscientific]antiscientific (EN) : (p.) antynaukowy
+[antisepsis]antisepsis (EN) : (rz.) antyseptyka
+[antiseptic]antiseptic (EN) : (p.) antyseptyczny; (p.) bakteriobójczy; (p.) przeciwbakteryjny; (p.) przeciwgnilny; (p.) przeciwzakaźny; (rz.) antyseptyk
+[antiseptically]antiseptically (EN) : (p-sł.) antyseptycznie
+[antisocial]antisocial (EN) : (p.) antyludowy; (p.) antyspołeczny; (p.) aspołeczny; (p.) nietowarzyski
+[antispasmodic]antispasmodic (EN) : (p.) przeciwkurczowy
+[antistatic]antistatic (EN) : (p.) antystatyczny
+[antistrophe]antistrophe (EN) : (rz.) antystrofa
+[antitank]antitank (EN) : (p.) przeciwczołgowy; (p.) przeciwpancerny
+[antithesis]antithesis (EN) : (rz.) antyteza
+[antithetic]antithetic (EN) : (p.) antytetyczny; (p.) przeciwstawny; (p.) sprzeczny
+[antithetical]antithetical (EN) : (p.) przeciwstawny; (p.) sprzeczny
+[antithetically]antithetically (EN) : (p-sł.) sprzecznie
+[antitoxic]antitoxic (EN) : (p.) antytoksyczny
+[antitoxin]antitoxin (EN) : (rz.) antytoksyna
+[antitrade]antitrade (EN) : (rz.) antypasat
+[antitrades]antitrades (EN) : (p.) antypasaty
+[antitrust]antitrust (EN) : (p.) antymonopolowy; (p.) antytrustowy
+[antiviral]antiviral (EN) : (p.) przeciwwirusowy
+[antivirus]antivirus (EN) : (rz.) antywirus
+[antiwar]antiwar (EN) : (p.) antywojenny
+[antler]antler (EN) : (rz.) poroże; (rz.) róg
+[antlers]antlers (EN) : (rz.) poroże
+[antonym]antonym (EN) : (rz.) antonim; (rz.) przeciwieństwo
+[ants']ants' (EN) : (p.) mrówczy
+[anus]anus (EN) : (rz.) odbyt; (rz.) odbytnica
+[anvil]anvil (EN) : (rz.) kowadełko; (rz.) kowadło
+[anxiety]anxiety (EN) : (rz.) lęk; (rz.) niepokój; (rz.) obawa; (rz.) trwoga; (rz.) zaniepokojenie
+[anxious]anxious (EN) : (p.) bezsenny; (p.) chętny; (p.) niespokojny; (p.) żądny; (p.) zaniepokojony
+[any]any (EN) : (p.) dowolny; (p.) jaki; (p.) którykolwiek; (p.) wszelki; (p.) żaden; (p-sł.) jakikolwiek; (p-sł.) już; (p-sł.) wcale
+[anybody]anybody (EN) : (rz.) ktoś
+[anyhow]anyhow (EN) : (p-sł.) jakkolwiek; (p-sł.) jakoś
+[anyplace]anyplace (EN) : (p-sł.) gdziekolwiek; (p-sł.) gdzieś
+[anyway]anyway (EN) : (p-sł.) jakkolwiek
+[anywhere]anywhere (EN) : (p-sł.) dokądkolwiek; (p-sł.) gdziekolwiek; (p-sł.) gdzieś; (p-sł.) nigdzie
+[anywise]anywise (EN) : (p-sł.) jakkolwiek; (p-sł.) jakoś
+[aorist]aorist (EN) : (rz.) aoryst
+[aorta]aorta (EN) : (rz.) aorta
+[apace]apace (EN) : (p-sł.) szybko; (p-sł.) żwawo
+[apart]apart (EN) : (p-sł.) oddzielnie; (p-sł.) osobno; (p-sł.) podzielnie
+[apartheid]apartheid (EN) : (rz.) apartheid
+[apartment]apartment (EN) : (rz.) apartament; (rz.) komnata; (rz.) mieszkanie; (rz.) pokój
+[apathetic]apathetic (EN) : (p.) apatyczny; (p.) obojętny
+[apathetically]apathetically (EN) : (p-sł.) apatycznie
+[apathy]apathy (EN) : (rz.) apatia; (rz.) obojętność
+[apatite]apatite (EN) : (rz.) apatyt
+[ape]ape (EN) : (cz.) błaznować; (cz.) małpować; (cz.) naśladować; (cz.) przedrzeźniać; (rz.) małpa
+[aperture]aperture (EN) : (rz.) apertura; (rz.) apretura; (rz.) odwiert; (rz.) otwór; (rz.) otworek; (rz.) przysłona; (rz.) szczelina; (rz.) szczelinka
+[apery]apery (EN) : (rz.) małpiarnia; (rz.) małpowanie
+[apex]apex (EN) : (rz.) szczyt; (rz.) wierzchołek; (rz.) wierzchotek
+[aphaeresis]aphaeresis (EN) : (rz.) afereza
+[aphasia]aphasia (EN) : (rz.) afazja
+[aphid]aphid (EN) : (rz.) mszyca
+[aphis]aphis (EN) : (rz.) mszyca
+[aphorism]aphorism (EN) : (rz.) aforyzm
+[aphrodisiac]aphrodisiac (EN) : (rz.) afrodyzjak
+[apiarian]apiarian (EN) : (p.) pszczelarski
+[apiarist]apiarist (EN) : (rz.) pszczelarz
+[apiary]apiary (EN) : (rz.) pasieka
+[apical]apical (EN) : (p.) szczytowy; (p.) wierzchołkowy
+[apiculture]apiculture (EN) : (rz.) pszczelarstwo; (rz.) pszczelnictwo
+[apish]apish (EN) : (p.) małpi; (p.) małpiarski
+[apishness]apishness (EN) : (rz.) małpowanie
+[aplomb]aplomb (EN) : (rz.) opanowanie; (rz.) samokontrola
+[apnoea]apnoea (EN) : (rz.) bezdech
+[apocalypse]apocalypse (EN) : (rz.) apokalipsa
+[apocalyptic]apocalyptic (EN) : (p.) apokaliptyczny
+[apocalyptical]apocalyptical (EN) : (p.) apokaliptyczny
+[apocrypha]apocrypha (EN) : (rz.) apokryf
+[apocryphal]apocryphal (EN) : (p.) apokryficzny
+[apodictic]apodictic (EN) : (p.) apodyktyczny
+[apodosis]apodosis (EN) : (rz.) następnik
+[apogee]apogee (EN) : (rz.) apogeum
+[apologetic]apologetic (EN) : (p.) apologetyczny; (p.) pokorny; (p.) skruszony
+[apologetically]apologetically (EN) : (p-sł.) przepraszająco
+[apologies]apologies (EN) : (rz.) przeprosiny
+[apologise]apologise (EN) : (cz.) przepraszać
+[apologist]apologist (EN) : (rz.) apologeta
+[apologize]apologize (EN) : (cz.) przepraszać; (cz.) przeprosić; (cz.) usprawiedliwiać; (cz.) usprawiedliwić
+[apologue]apologue (EN) : (rz.) apolog; (rz.) apologia
+[apology]apology (EN) : (rz.) apologia; (rz.) przeprosiny; (rz.) przeproszenie; (rz.) usprawiedliwienie; (rz.) zadośćuczynienie
+[apophthegm]apophthegm (EN) : (rz.) maksyma; (rz.) sentencja
+[apoplectic]apoplectic (EN) : (p.) apoplektyczny
+[apoplexy]apoplexy (EN) : (rz.) apopleksja; (rz.) udar
+[apostasy]apostasy (EN) : (rz.) apostazja; (rz.) odstępstwo; (rz.) odszczepieństwo
+[apostate]apostate (EN) : (rz.) apostata; (rz.) odstępca
+[apostle]apostle (EN) : (rz.) apostoł; (rz.) orędownik
+[apostolate]apostolate (EN) : (rz.) apostolstwo
+[apostolic]apostolic (EN) : (p.) apostolski
+[apostrophe]apostrophe (EN) : (rz.) apostrof; (rz.) apostrofa; (rz.) zwrot
+[apothecary]apothecary (EN) : (rz.) aptekarz
+[apothegm]apothegm (EN) : (rz.) apoftegmat
+[apothem]apothem (EN) : (rz.) apotema
+[apotheosis]apotheosis (EN) : (rz.) apoteoza
+[appal]appal (EN) : (cz.) oburzać; (cz.) przerażać; (cz.) przerazić; (cz.) zatrwożyć
+[appallingly]appallingly (EN) : (p-sł.) przerażająco; (p-sł.) zatrważająco
+[apparatchik]apparatchik (EN) : (rz.) aparatczyk
+[apparatus]apparatus (EN) : (rz.) aparat; (rz.) aparatura; (rz.) narząd; (rz.) przyrząd; (rz.) refraktometria; (rz.) urządzenie
+[apparel]apparel (EN) : (rz.) antykwariat; (rz.) odzież; (rz.) ozdoba; (rz.) strój
+[apparent]apparent (EN) : (p.) jawny; (p.) oczywisty; (p.) pozorny; (p.) widoczny
+[apparently]apparently (EN) : (p-sł.) podobno; (p-sł.) pozornie; (p-sł.) widocznie
+[apparition]apparition (EN) : (rz.) aparycja; (rz.) duch; (rz.) objawienie; (rz.) pojawienie; (rz.) ukazanie; (rz.) upiór; (rz.) widmo; (rz.) zjawa; (rz.) zjawisko
+[appeal]appeal (EN) : (cz.) apelować; (cz.) odwoływać; (cz.) przemawiać; (cz.) spodobać; (cz.) uciekać; (cz.) wzywać; (cz.) zwracać; (rz.) apel; (rz.) apelacja; (rz.) czar; (rz.) odezwa; (rz.) odwołanie; (rz.) rekurs; (rz.) urok; (rz.) wezwanie
+[appealer]appealer (EN) : (rz.) apelant
+[appear]appear (EN) : (cz.) okazywać; (cz.) pojawiać; (cz.) pojawić; (cz.) pokazywać; (cz.) przywidzieć; (cz.) stawać; (cz.) stawiać; (cz.) ukazać; (cz.) ukazywać; (cz.) wydawać; (cz.) wyglądać; (cz.) występować; (cz.) zdawać; (cz.) zjawiać
+[appearance]appearance (EN) : (rz.) fenomen; (rz.) pojawienie; (rz.) powierzchowność; (rz.) pozór; (rz.) prezencja; (rz.) stawiennictwo; (rz.) udział; (rz.) ukazanie; (rz.) wygląd; (rz.) wystąpienie; (rz.) występ; (rz.) zjawianie; (rz.) zjawienie
+[appearing]appearing (EN) : (rz.) pojawienie; (rz.) zjawianie; (rz.) zjawienie
+[appears]appears (EN) : (rz.) pozory
+[appease]appease (EN) : (cz.) łagodzić; (cz.) uciszyć; (cz.) ukajać; (cz.) ukoić; (cz.) uśmierzyć; (cz.) uspokajać; (cz.) uspokoić; (cz.) zaspokajać; (cz.) zaspokoić; (cz.) złagodzić
+[appeasement]appeasement (EN) : (rz.) uciszenie; (rz.) udobruchanie; (rz.) ustępstwo; (rz.) załagodzenie; (rz.) zaspokojenie; (rz.) złagodzenie
+[appellant]appellant (EN) : (rz.) apelant
+[appellate]appellate (EN) : (p.) apelacyjny
+[appellation]appellation (EN) : (rz.) imię; (rz.) miano; (rz.) nazwa; (rz.) określenie; (rz.) termin
+[append]append (EN) : (cz.) dodać; (cz.) dodawać; (cz.) dołączyć
+[appendage]appendage (EN) : (rz.) dodatek; (rz.) uzupełnienie; (rz.) wyrostek
+[appendix]appendix (EN) : (rz.) aneks; (rz.) dodatek; (rz.) uzupełnienie
+[apperception]apperception (EN) : (rz.) percepcja; (rz.) postrzeganie
+[appertain]appertain (EN) : (cz.) należeć; (cz.) odnosić
+[appetising]appetising (EN) : (p.) apetyczny
+[appetite]appetite (EN) : (rz.) apetyt; (rz.) łaknienie; (rz.) żądza
+[appetizer]appetizer (EN) : (rz.) przystawka; (rz.) zakąska
+[appetizing]appetizing (EN) : (p.) apetyczny
+[appetizingly]appetizingly (EN) : (p-sł.) apetycznie
+[applaud]applaud (EN) : (cz.) klaskać; (cz.) oklaskiwać; (cz.) poklepać
+[applause]applause (EN) : (rz.) aplauz; (rz.) aprobata; (rz.) brawo; (rz.) klaskanie; (rz.) oklaski; (rz.) owacja; (rz.) pochwała; (rz.) poklask
+[applauses]applauses (EN) : (rz.) oklaski
+[apple]apple (EN) : (rz.) jabłko; (rz.) jabłoń
+[apple-pie]apple-pie (EN) : (rz.) jabłecznik; (rz.) szarlotka
+[apple-tree]apple-tree (EN) : (rz.) jabłoń
+[applet]applet (EN) : (rz.) aplet
+[appliance]appliance (EN) : (rz.) akcesoria; (rz.) narzędzie; (rz.) przybory; (rz.) przyrząd; (rz.) przystosowanie; (rz.) urządzenie; (rz.) użycie; (rz.) zastosowanie
+[applicability]applicability (EN) : (rz.) przydatność; (rz.) stosowalność; (rz.) zastosowalność
+[applicable]applicable (EN) : (p.) odpowiedni; (p.) przydatny; (p.) stosowalny; (p.) stosowny; (p.) właściwy
+[applicant]applicant (EN) : (rz.) aplikant; (rz.) kandydat; (rz.) petent; (rz.) reflektant; (rz.) wnioskodawca
+[application]application (EN) : (rz.) aplikacja; (rz.) nanoszenie; (rz.) pilność; (rz.) podanie; (rz.) pozew; (rz.) prośba; (rz.) przyłożenie; (rz.) smarowanie; (rz.) stosowanie; (rz.) uwaga; (rz.) użycie; (rz.) wniosek; (rz.) zastosowanie; (rz.) zgłoszenie
+[applicative]applicative (EN) : (p.) stosowalny
+[applicator]applicator (EN) : (rz.) nakładka; (rz.) wzbudnik
+[applied]applied (EN) : (p.) praktyczny; (p.) stosowany; (p.) użytkowy; (p.) zastosowany
+[appliqué]appliqué (EN) : (rz.) aplikacja
+[apply]apply (EN) : (cz.) aplikować; (cz.) dotyczyć; (cz.) nakładać; (cz.) nanieść; (cz.) odnieść; (cz.) posmarować; (cz.) poświęcać; (cz.) przyłożyć; (cz.) realizować; (cz.) składać; (cz.) stosować; (cz.) ubiegać; (cz.) używać; (cz.) zastosować; (cz.) zgłaszać; (cz.) zgłosić; (cz.) zwracać
+[applying]applying (EN) : (rz.) stosowanie
+[appoint]appoint (EN) : (cz.) mianować; (cz.) nakazywać; (cz.) obierać; (cz.) określać; (cz.) oznaczyć; (cz.) umawiać; (cz.) wyłaniać; (cz.) wyznaczać; (cz.) wyznaczyć; (cz.) zarządzać; (cz.) zarządzić; (cz.) zlecić
+[appointed]appointed (EN) : (p.) ustalony; (p.) wyznaczony
+[appointment]appointment (EN) : (rz.) mianowanie; (rz.) nominacja; (rz.) obsada; (rz.) posada; (rz.) powołanie; (rz.) powoływanie; (rz.) randka; (rz.) schadzka; (rz.) spotkanie; (rz.) stanowisko; (rz.) wizyta; (rz.) wyznaczenie; (rz.) zarządzenie
+[apportion]apportion (EN) : (cz.) podzielać; (cz.) podzielić; (cz.) przydzielać; (cz.) rozkładać; (cz.) rozłożyć; (cz.) wyznaczyć
+[apportionment]apportionment (EN) : (rz.) przydział; (rz.) rozłożenie
+[appose]appose (EN) : (cz.) przykładać; (cz.) przystawiać
+[apposite]apposite (EN) : (p.) odpowiedni; (p.) stosowny; (p.) trafny; (p.) właściwy
+[appositeness]appositeness (EN) : (rz.) stosowność; (rz.) trafność
+[apposition]apposition (EN) : (rz.) apozycja; (rz.) dopowiedzenie; (rz.) przydawka
+[appraisal]appraisal (EN) : (rz.) klasyfikacja; (rz.) ocena; (rz.) oszacowanie; (rz.) taksacja; (rz.) wycena
+[appraise]appraise (EN) : (cz.) cenić; (cz.) oceniać; (cz.) ocenić; (cz.) oszacować; (cz.) szacować; (cz.) wyceniać
+[appraisement]appraisement (EN) : (rz.) ewaluacja; (rz.) ocena; (rz.) oszacowanie
+[appraiser]appraiser (EN) : (rz.) taksator
+[appreciable]appreciable (EN) : (p.) pokaźny; (p.) widoczny; (p.) zauważalny; (p.) znaczny
+[appreciate]appreciate (EN) : (cz.) cenić; (cz.) doceniać; (cz.) docenić; (cz.) dziękować; (cz.) oceniać; (cz.) ocenić; (cz.) oszacować; (cz.) podwyższyć; (cz.) uznać; (cz.) zauważyć
+[appreciation]appreciation (EN) : (rz.) ocena; (rz.) oszacowanie; (rz.) podwyżka; (rz.) podwyższenie; (rz.) świadomość; (rz.) uznanie; (rz.) wdzięczność
+[apprehend]apprehend (EN) : (cz.) aresztować; (cz.) obawiać; (cz.) pojąć; (cz.) pojmować; (cz.) przytrzymać; (cz.) spostrzegać; (cz.) uchwycić; (cz.) zaaresztować; (cz.) zatrzymywać; (cz.) zrozumieć
+[apprehension]apprehension (EN) : (rz.) aresztowanie; (rz.) lęk; (rz.) obawa; (rz.) pojęcie; (rz.) pojętność; (rz.) pojmanie; (rz.) pojmowanie; (rz.) postrzeganie; (rz.) przytrzymanie; (rz.) zrozumienie
+[apprehensive]apprehensive (EN) : (p.) bojaźliwy; (p.) lękliwy; (p.) pojętny; (p.) spostrzegawczy; (p.) wrażliwy
+[apprentice]apprentice (EN) : (rz.) aplikant; (rz.) czeladnik; (rz.) nowicjusz; (rz.) praktykant; (rz.) terminator; (rz.) uczeń
+[apprenticeship]apprenticeship (EN) : (rz.) aplikacja; (rz.) aplikantura; (rz.) praktyka; (rz.) staż; (rz.) terminowanie
+[apprise]apprise (EN) : (cz.) informować; (cz.) poinformować; (cz.) powiadamiać; (cz.) powiadomić
+[apprize]apprize (EN) : (cz.) taksować
+[approach]approach (EN) : (cz.) dobiegać; (cz.) dojechać; (cz.) dostąpić; (cz.) nadchodzić; (cz.) podchodzić; (cz.) przybliżyć; (cz.) zbliżać; (cz.) zbliżyć; (cz.) zwracać; (rz.) dojazd; (rz.) dojście; (rz.) dostęp; (rz.) interpretacja; (rz.) metoda; (rz.) nadejście; (rz.) podchodzenie; (rz.) podejście; (rz.) przybliżenie; (rz.) zbliżenie
+[approachable]approachable (EN) : (p.) dostępny; (p.) osiągalny; (p.) przystępny
+[approached]approached (EN) : (cz.) podchodzić; (cz.) zastać
+[approaching]approaching (EN) : (cz.) zbliżyć
+[approbate]approbate (EN) : (cz.) aprobować; (cz.) sankcjonować; (cz.) zaaprobować
+[approbation]approbation (EN) : (rz.) aprobata; (rz.) pochwała; (rz.) uznanie
+[appropriate]appropriate (EN) : (cz.) asygnować; (cz.) przejmować; (cz.) przeznaczać; (cz.) przydzielać; (cz.) przywłaszczać; (cz.) przywłaszczyć; (p.) celowy; (p.) odpowiedni; (p.) stosowny; (p.) twarzowy; (p.) właściwy
+[appropriately]appropriately (EN) : (p-sł.) godnie; (p-sł.) odpowiednio; (p-sł.) stosownie; (p-sł.) właściwie
+[appropriateness]appropriateness (EN) : (rz.) odpowiedniość; (rz.) stosowność
+[appropriation]appropriation (EN) : (rz.) asygnowanie; (rz.) przeznaczenie; (rz.) przywłaszczenie; (rz.) przyznanie
+[appropriator]appropriator (EN) : (rz.) przywłaszczyciel
+[approval]approval (EN) : (rz.) aprobata; (rz.) homologacja; (rz.) pochwała; (rz.) uznanie; (rz.) zatwierdzenie; (rz.) zgoda
+[approve]approve (EN) : (cz.) akceptować; (cz.) aprobować; (cz.) pochwalać; (cz.) pochwalić; (cz.) popierać; (cz.) stwierdzać; (cz.) uznawać; (cz.) zaakceptować; (cz.) zaaprobować; (cz.) zatwierdzać; (cz.) zatwierdzić
+[approved]approved (EN) : (cz.) homologować; (p.) zaaprobowany; (p.) zatwierdzony
+[approving]approving (EN) : (p.) pochlebny
+[approximate]approximate (EN) : (cz.) aproksymować; (cz.) podchodzić; (cz.) przybliżać; (cz.) zbliżać; (p.) przybliżony; (p.) zbliżony
+[approximated]approximated (EN) : (p.) przybliżony
+[approximately]approximately (EN) : (p-sł.) około; (p-sł.) przeciętnie
+[approximation]approximation (EN) : (rz.) aproksymacja; (rz.) bliskość; (rz.) przybliżenie; (rz.) zbliżanie
+[approximations]approximations (EN) : (rz.) aproksymacja
+[appurtenant]appurtenant (EN) : (p.) przynależny; (p.) zależny
+[apricot]apricot (EN) : (rz.) morela
+[apricot-tree]apricot-tree (EN) : (rz.) morela
+[apron]apron (EN) : (rz.) fartuch; (rz.) osłona
+[apropos]apropos (EN) : (p.) stosowny; (p.) trafny; (p-sł.) odnośnie
+[apse]apse (EN) : (rz.) absyda; (rz.) apsyda
+[apt]apt (EN) : (p.) odpowiedni; (p.) pojemny; (p.) prawdopodobny; (p.) skłonny; (p.) trafny; (p.) właściwy; (p.) zdolny
+[aptitude]aptitude (EN) : (rz.) skłonność; (rz.) stosowność; (rz.) uzdolnienie; (rz.) zdolność
+[aptly]aptly (EN) : (p-sł.) trafnie
+[aptness]aptness (EN) : (rz.) skłonność; (rz.) stosowność; (rz.) trafność; (rz.) uzdolnienie
+[aqua]aqua (EN) : (rz.) akwamaryna; (rz.) woda
+[aquaculture]aquaculture (EN) : (rz.) akwakultura; (rz.) hydroponika
+[aqualung]aqualung (EN) : (rz.) akwalung
+[aquamarine]aquamarine (EN) : (p.) seledynowy; (rz.) akwamaryn; (rz.) akwamaryna; (rz.) seledyn
+[aquanaut]aquanaut (EN) : (rz.) akwanauta
+[aquaplane]aquaplane (EN) : (rz.) akwaplan
+[aquarelle]aquarelle (EN) : (rz.) akwarela
+[aquaria]aquaria (EN) : (rz.) akwaria
+[aquarium]aquarium (EN) : (rz.) akwarium
+[aquariums]aquariums (EN) : (rz.) akwaria
+[aquatic]aquatic (EN) : (p.) nadwodny; (p.) nawodny; (p.) wodny
+[aquatint]aquatint (EN) : (rz.) akwatinta
+[aqueduct]aqueduct (EN) : (rz.) akwedukt
+[aqueous]aqueous (EN) : (p.) wodnisty; (p.) wodny
+[aquiculture]aquiculture (EN) : (rz.) hydroponika
+[aquiline]aquiline (EN) : (p.) orli
+[arabesque]arabesque (EN) : (rz.) arabeska
+[arable]arable (EN) : (p.) orny; (p.) uprawny
+[arachnid]arachnid (EN) : (rz.) pajęczak
+[aragonite]aragonite (EN) : (rz.) aragonit
+[araucaria]araucaria (EN) : (rz.) araukaria
+[arbalest]arbalest (EN) : (rz.) kusza
+[arbiter]arbiter (EN) : (rz.) sędzia
+[arbitrage]arbitrage (EN) : (rz.) arbitraż
+[arbitral]arbitral (EN) : (p.) arbitrażowy; (p.) polubowny
+[arbitrariness]arbitrariness (EN) : (rz.) arbitralność; (rz.) samowola
+[arbitrary]arbitrary (EN) : (p.) arbitralny; (p.) dowolny; (p.) rozjemczy; (p.) samowolny; (p.) umowny
+[arbitrate]arbitrate (EN) : (cz.) rozsądzać; (cz.) rozsądzić; (cz.) rozstrzygać; (cz.) sądzić
+[arbitration]arbitration (EN) : (rz.) arbitraż; (rz.) sąd
+[arbitrational]arbitrational (EN) : (p.) polubowny
+[arbitrator]arbitrator (EN) : (rz.) arbiter; (rz.) rozjemca; (rz.) sędzia
+[arboreal]arboreal (EN) : (p.) drzewny; (p.) nadrzewny
+[arboretum]arboretum (EN) : (rz.) drzewozbiór
+[arboriculture]arboriculture (EN) : (rz.) uprawa
+[arbour]arbour (EN) : (rz.) altana
+[arc]arc (EN) : (rz.) łuk
+[arcade]arcade (EN) : (rz.) arkada; (rz.) arkady; (rz.) pasaż; (rz.) podcień
+[arcaded]arcaded (EN) : (p.) arkadowy; (p.) łukowaty
+[arcades]arcades (EN) : (rz.) podcienie
+[arcane]arcane (EN) : (p.) sekretny; (p.) tajemniczy
+[arch]arch (EN) : (cz.) wyginać; (p.) chytry; (p.) figlarny; (p.) urwisowski; (rz.) łuk; (rz.) przęsło; (rz.) sklepienie
+[archaeological]archaeological (EN) : (p.) archeologiczny
+[archaeologist]archaeologist (EN) : (rz.) archeolog
+[archaeology]archaeology (EN) : (rz.) archeologia
+[archaic]archaic (EN) : (p.) archaiczny
+[archaism]archaism (EN) : (rz.) archaizm
+[archaize]archaize (EN) : (cz.) archaizować
+[archangel]archangel (EN) : (rz.) archanioł
+[archbishop]archbishop (EN) : (rz.) arcybiskup
+[archbishopric]archbishopric (EN) : (rz.) arcybiskupstwo
+[archdeacon]archdeacon (EN) : (rz.) archidiakon
+[archdiocese]archdiocese (EN) : (rz.) archidiecezja
+[archducal]archducal (EN) : (p.) arcyksiążęcy
+[archduchy]archduchy (EN) : (rz.) arcyksięstwo
+[archduke]archduke (EN) : (rz.) arcyksiążę
+[arched]arched (EN) : (p.) kopulasty; (p.) łukowaty; (p.) łukowy
+[archer]archer (EN) : (rz.) łucznik
+[archery]archery (EN) : (rz.) łucznictwo; (rz.) strzelectwo
+[archetype]archetype (EN) : (rz.) archetyp; (rz.) pierwowzór; (rz.) prototyp; (rz.) wzorzec
+[archfiend]archfiend (EN) : (rz.) szatan
+[archimandrite]archimandrite (EN) : (rz.) archimandryta
+[archipelago]archipelago (EN) : (rz.) archipelag
+[architect]architect (EN) : (rz.) architekt; (rz.) twórca
+[architectonic]architectonic (EN) : (p.) architektoniczny
+[architectonics]architectonics (EN) : (rz.) architektonika
+[architectural]architectural (EN) : (p.) architektoniczny
+[architecturally]architecturally (EN) : (p-sł.) architektonicznie
+[architecture]architecture (EN) : (rz.) architektura; (rz.) budownictwo
+[architrave]architrave (EN) : (rz.) architraw
+[archival]archival (EN) : (p.) archiwalny
+[archive]archive (EN) : (cz.) archiwizować; (cz.) archiwować; (cz.) zarchiwizować; (rz.) archiwistyka; (rz.) archiwizacja; (rz.) archiwizowanie; (rz.) archiwum
+[archives]archives (EN) : (rz.) archiwum
+[archiving]archiving (EN) : (rz.) archiwizacja; (rz.) archiwizowanie; (rz.) archiwowanie
+[archivist]archivist (EN) : (rz.) archiwariusz; (rz.) archiwista
+[archivolt]archivolt (EN) : (rz.) archiwolta
+[archly]archly (EN) : (p-sł.) figlarnie; (p-sł.) łobuzersko
+[archon]archon (EN) : (rz.) archont
+[archpriest]archpriest (EN) : (rz.) arcykapłan; (rz.) dziekan
+[archway]archway (EN) : (rz.) brama
+[arctic]arctic (EN) : (p.) arktyczny
+[ardency]ardency (EN) : (rz.) gorliwość; (rz.) żar; (rz.) żarliwość
+[ardent]ardent (EN) : (p.) gorliwy; (p.) ognisty; (p.) płonący; (p.) żarliwy
+[ardently]ardently (EN) : (p-sł.) gorliwie; (p-sł.) żarliwie
+[ardour]ardour (EN) : (rz.) zapał; (rz.) żar
+[arduous]arduous (EN) : (p.) ciężki; (p.) mozolny; (p.) stromy; (p.) trudny; (p.) żmudny
+[arduously]arduously (EN) : (p-sł.) mozolnie; (p-sł.) żmudnie
+[arduousness]arduousness (EN) : (rz.) uciążliwość
+[are]are (EN) : (rz.) ar; (rz.) leża
+[area]area (EN) : (rz.) areał; (rz.) dziedzina; (rz.) obszar; (rz.) okolica; (rz.) osiedle; (rz.) płaszczyzna; (rz.) pomieszczenie; (rz.) powierzchnia; (rz.) przestrzeń; (rz.) rejon; (rz.) sfera; (rz.) strefa; (rz.) teren
+[arena]arena (EN) : (rz.) arena; (rz.) dziedzina
+[areola]areola (EN) : (rz.) obwódka; (rz.) otoczka
+[argent]argent (EN) : (rz.) srebro
+[argentine]argentine (EN) : (p.) srebrny; (p.) srebrzysty
+[argentite]argentite (EN) : (rz.) argentyt
+[argillaceous]argillaceous (EN) : (p.) gliniasty
+[argon]argon (EN) : (rz.) argon
+[argot]argot (EN) : (rz.) żargon
+[arguable]arguable (EN) : (p.) dyskusyjny; (p.) sporny
+[arguably]arguably (EN) : (p-sł.) prawdopodobnie
+[argue]argue (EN) : (cz.) argumentować; (cz.) dowieść; (cz.) dowodzić; (cz.) dyskutować; (cz.) kłócić; (cz.) perswadować; (cz.) przekonywać; (cz.) roztrząsać; (cz.) spierać; (cz.) sprzeczać; (cz.) udowadniać; (cz.) wnioskować; (cz.) wykłócać
+[argued]argued (EN) : (cz.) polemizować
+[arguing]arguing (EN) : (rz.) argumentowanie
+[argument]argument (EN) : (rz.) argument; (rz.) debata; (rz.) dowód; (rz.) dyskusja; (rz.) kłótnia; (rz.) rozumowanie; (rz.) spór; (rz.) wywód
+[argumentation]argumentation (EN) : (rz.) argumentacja; (rz.) argumentowanie; (rz.) dowodzenie; (rz.) dyskutant
+[argumentative]argumentative (EN) : (p.) kłótliwy; (p.) sporny
+[aria]aria (EN) : (rz.) aria
+[arid]arid (EN) : (p.) jałowy; (p.) suchy; (p.) wypalony
+[aridity]aridity (EN) : (rz.) jałowość; (rz.) suchość
+[aridness]aridness (EN) : (rz.) jałowość
+[aright]aright (EN) : (p-sł.) dobrze; (p-sł.) poprawnie; (p-sł.) prawidłowo; (p-sł.) prosto; (p-sł.) słusznie; (p-sł.) właściwie
+[aril]aril (EN) : (rz.) osłonka
+[arise]arise (EN) : (cz.) lęgnąć; (cz.) narastać; (cz.) pojawiać; (cz.) pojawić; (cz.) powstać; (cz.) powstawać; (cz.) ukazać; (cz.) wynikać
+[aristocracy]aristocracy (EN) : (rz.) arystokracja
+[aristocrat]aristocrat (EN) : (rz.) arystokrata
+[aristocratic]aristocratic (EN) : (p.) arystokratyczny
+[arithmetic]arithmetic (EN) : (p.) arytmetyczny; (p.) rachunkowy; (rz.) arytmetyka
+[arithmetical]arithmetical (EN) : (p.) arytmetyczny
+[arithmetically]arithmetically (EN) : (p-sł.) arytmetycznie
+[arithmetician]arithmetician (EN) : (rz.) arytmetyk
+[ark]ark (EN) : (rz.) arka
+[arm]arm (EN) : (cz.) uzbrajać; (cz.) uzbroić; (cz.) zbroić; (rz.) broń; (rz.) dźwignia; (rz.) konar; (rz.) odnoga; (rz.) oparcie; (rz.) plecy; (rz.) poręcz; (rz.) ramię; (rz.) ręka
+[arm-rest]arm-rest (EN) : (rz.) podłokietnik
+[armada]armada (EN) : (rz.) flota
+[armadillo]armadillo (EN) : (rz.) pancernik
+[armament]armament (EN) : (rz.) armatura; (rz.) pancerz; (rz.) uzbrojenie; (rz.) zbrojenie
+[armature]armature (EN) : (rz.) armatura; (rz.) pancerz; (rz.) twornik; (rz.) uzbrojenie; (rz.) zbrojenie; (rz.) zwora
+[armband]armband (EN) : (rz.) bransoletka; (rz.) opaska
+[armchair]armchair (EN) : (rz.) fotel; (rz.) krzesło
+[armed]armed (EN) : (p.) zbrojny
+[armful]armful (EN) : (rz.) naręcze
+[armhole]armhole (EN) : (rz.) pacha; (rz.) wycięcie; (rz.) wyłącznik
+[armiger]armiger (EN) : (rz.) giermek
+[arming]arming (EN) : (rz.) uzbrajanie; (rz.) uzbrojenie
+[armistice]armistice (EN) : (rz.) rozejm; (rz.) rozłączenie; (rz.) zawieszenie
+[armless]armless (EN) : (p.) bezręki
+[armlet]armlet (EN) : (rz.) bransoleta; (rz.) naramiennik; (rz.) opaska
+[armorial]armorial (EN) : (p.) herbowy; (rz.) herbarz
+[armour]armour (EN) : (cz.) opancerzyć; (rz.) opancerzenie; (rz.) pancerz; (rz.) zbroja
+[armour-bearer]armour-bearer (EN) : (rz.) giermek
+[armour-piercing]armour-piercing (EN) : (p.) przeciwpancerny
+[armour-plating]armour-plating (EN) : (rz.) opancerzenie
+[armoured]armoured (EN) : (p.) opancerzony; (p.) pancerny
+[armourer]armourer (EN) : (rz.) płatnerz; (rz.) rusznikarz; (rz.) zbrojmistrz
+[armoury]armoury (EN) : (rz.) arsenał; (rz.) zbrojownia
+[armpit]armpit (EN) : (rz.) pacha
+[arms]arms (EN) : (rz.) broń; (rz.) uzbrojenie
+[army]army (EN) : (rz.) armia; (rz.) wojsko
+[arnica]arnica (EN) : (rz.) pomornik
+[aroma]aroma (EN) : (rz.) aromat; (rz.) woń; (rz.) zapach
+[aromatherapy]aromatherapy (EN) : (rz.) aromaterapia
+[aromatic]aromatic (EN) : (p.) aromatyczny; (p.) eteryczny; (p.) zapachowy
+[aromatically]aromatically (EN) : (p-sł.) aromatycznie
+[aromatization]aromatization (EN) : (rz.) aromatyzacja
+[aromatize]aromatize (EN) : (cz.) aromatyzować
+[arose]arose (EN) : (cz.) narastać; (cz.) pojawiać; (cz.) powstawać
+[around]around (EN) : (p.) okołoziemski; (p-sł.) dokoła; (p-sł.) dookoła; (p-sł.) naokoło; (p-sł.) niedaleko; (p-sł.) około; (p-sł.) wkoło; (p-sł.) wokół; (p-sł.) wokoło; (p-sł.) wszędzie
+[arousal]arousal (EN) : (rz.) podniecenie; (rz.) rozbudzenie
+[arouse]arouse (EN) : (cz.) aktywizować; (cz.) budzić; (cz.) obudzić; (cz.) pobudzać; (cz.) podniecać; (cz.) powodować; (cz.) przebudzić; (cz.) wzbudzać
+[arrack]arrack (EN) : (rz.) arak
+[arraign]arraign (EN) : (cz.) oskarżać; (cz.) skrytykować
+[arraignment]arraignment (EN) : (rz.) krytyka; (rz.) oskarżenie
+[arrange]arrange (EN) : (cz.) adaptować; (cz.) aranżować; (cz.) dysponować; (cz.) organizować; (cz.) planować; (cz.) porządkować; (cz.) rozmieść; (cz.) rozmieszczać; (cz.) szeregować; (cz.) ugrupować; (cz.) układać; (cz.) ułożyć; (cz.) umawiać; (cz.) umówić; (cz.) urządzać; (cz.) ustalać; (cz.) ustawiać; (cz.) zaaranżować; (cz.) załatwiać; (cz.) zaplanować
+[arrangement]arrangement (EN) : (rz.) adaptacja; (rz.) aranżacja; (rz.) porozumienie; (rz.) porządek; (rz.) przygotowanie; (rz.) rozmieszczenie; (rz.) rozstawienie; (rz.) układ; (rz.) ułożenie; (rz.) umowa; (rz.) uporządkowanie; (rz.) urządzenie; (rz.) ustawienie
+[arranger]arranger (EN) : (rz.) aranżer; (rz.) organizator
+[arranges]arranges (EN) : (rz.) plany; (rz.) przygotowania
+[arranging]arranging (EN) : (rz.) planowanie; (rz.) swatanie; (rz.) zadbanie; (rz.) zapewnienie
+[arrant]arrant (EN) : (p.) wierutny; (p.) zupełny
+[arras]arras (EN) : (rz.) gobelin
+[array]array (EN) : (cz.) odziewać; (cz.) ustawiać; (cz.) ustawić; (cz.) ustroić; (rz.) areszt; (rz.) macierz; (rz.) masa; (rz.) odzienie; (rz.) procesja; (rz.) szereg; (rz.) szyk; (rz.) tablica; (rz.) układ; (rz.) wybór; (rz.) zbiór
+[arrear]arrear (EN) : (rz.) dług; (rz.) zaległość
+[arrearage]arrearage (EN) : (rz.) zaległość
+[arrears]arrears (EN) : (rz.) zaległość; (rz.) zaległości
+[arrest]arrest (EN) : (cz.) aresztować; (cz.) hamować; (cz.) przykuwać; (cz.) unieruchamiać; (cz.) wstrzymać; (cz.) wstrzymywać; (cz.) zaaresztować; (cz.) zatrzymać; (cz.) zatrzymywać; (rz.) areszt; (rz.) aresztowanie; (rz.) zahamowanie; (rz.) zatrzymanie
+[arrestee]arrestee (EN) : (rz.) aresztant
+[arrester]arrester (EN) : (rz.) odgromnik
+[arrestment]arrestment (EN) : (rz.) unieruchomienie; (rz.) zatrzymanie
+[arrhythmia]arrhythmia (EN) : (rz.) arytmia; (rz.) niemiarowość
+[arrival]arrival (EN) : (rz.) nadejście; (rz.) przybycie; (rz.) przyjazd; (rz.) przylot
+[arrive]arrive (EN) : (cz.) nadchodzić; (cz.) nadejść; (cz.) przybyć; (cz.) przybywać; (cz.) przyjechać; (cz.) przyjeżdżać; (cz.) przyjść; (cz.) wykierować
+[arrogance]arrogance (EN) : (rz.) arogancja; (rz.) buta; (rz.) hardość; (rz.) zadufanie
+[arrogant]arrogant (EN) : (p.) arogancki; (p.) butny
+[arrogantly]arrogantly (EN) : (p-sł.) arogancko; (p-sł.) hardo; (p-sł.) nonszalancko
+[arrogate]arrogate (EN) : (cz.) przypisywać; (cz.) rościć
+[arrogation]arrogation (EN) : (rz.) roszczenie
+[arrow]arrow (EN) : (rz.) strzała; (rz.) strzałka
+[arrow-head]arrow-head (EN) : (rz.) grot; (rz.) ostrze; (rz.) szpikulec
+[arrowhead]arrowhead (EN) : (rz.) grot; (rz.) ostrze; (rz.) szpikulec
+[arrowheads]arrowheads (EN) : (rz.) grot
+[arrowroot]arrowroot (EN) : (rz.) maranta
+[arrows]arrows (EN) : (rz.) strzały
+[arse]arse (EN) : (rz.) dupa
+[arsenal]arsenal (EN) : (rz.) arsenał; (rz.) zbrojownia
+[arsenate]arsenate (EN) : (rz.) arsenian
+[arsenic]arsenic (EN) : (p.) arsenowy; (rz.) arsen; (rz.) arszenik
+[arsenide]arsenide (EN) : (rz.) arsenek
+[arsine]arsine (EN) : (rz.) arseniak; (rz.) arsenowodór; (rz.) arsyna
+[arson]arson (EN) : (rz.) podpalenie
+[arsonist]arsonist (EN) : (rz.) podpalacz
+[art]art (EN) : (rz.) chytrość; (rz.) fortel; (rz.) kunszt; (rz.) nowoczesność; (rz.) plastyka; (rz.) rzemiosło; (rz.) sztuka; (rz.) szuka; (rz.) umiejętność; (rz.) wiedza; (rz.) wzornictwo; (rz.) zręczność
+[artefact]artefact (EN) : (rz.) artefakt
+[arterial]arterial (EN) : (p.) przelotowy; (p.) tętnicowy; (p.) tętniczy
+[arteriosclerosis]arteriosclerosis (EN) : (rz.) arterioskleroza; (rz.) miażdżyca
+[artery]artery (EN) : (rz.) arteria; (rz.) kończyna; (rz.) tętnica
+[artesian]artesian (EN) : (p.) artezyjski
+[artful]artful (EN) : (p.) chytry; (p.) pomysłowy; (p.) przebiegły; (p.) zręczny
+[artfulness]artfulness (EN) : (rz.) chytrość; (rz.) pomysłowość; (rz.) przebiegłość; (rz.) zręczność
+[arthritic]arthritic (EN) : (p.) artretyczny
+[arthritis]arthritis (EN) : (rz.) artretyzm
+[arthropod]arthropod (EN) : (rz.) stawonóg
+[artichoke]artichoke (EN) : (rz.) karczoch
+[article]article (EN) : (rz.) artykuł; (rz.) detal; (rz.) paragraf; (rz.) przedimek; (rz.) przedmiot; (rz.) punkt; (rz.) rodzajnik; (rz.) rozdział; (rz.) towar
+[articles]articles (EN) : (rz.) artykuły; (rz.) paragraf; (rz.) towary
+[articulate]articulate (EN) : (cz.) artykułować; (cz.) wyartykułować; (cz.) wymawiać; (p.) komunikatywny; (p.) wyraźny
+[articulated]articulated (EN) : (p.) przegubowy
+[articulation]articulation (EN) : (rz.) artykulacja; (rz.) wymowa; (rz.) wyrazistość
+[artifice]artifice (EN) : (rz.) chytrość; (rz.) fortel; (rz.) podstęp; (rz.) sztuczka; (rz.) sztuka; (rz.) zręczność
+[artificer]artificer (EN) : (rz.) rzemieślnik; (rz.) sprawca; (rz.) wynalazca
+[artificial]artificial (EN) : (p.) sztuczny
+[artificiality]artificiality (EN) : (rz.) nienaturalność; (rz.) sztuczność
+[artificially]artificially (EN) : (p-sł.) sztucznie
+[artillerist]artillerist (EN) : (rz.) artylerzysta
+[artillery]artillery (EN) : (rz.) artyleria
+[artillery-man]artillery-man (EN) : (rz.) artylerzysta
+[artilleryman]artilleryman (EN) : (rz.) artylerzysta
+[artisan]artisan (EN) : (rz.) rzemieślnik
+[artist]artist (EN) : (rz.) artysta; (rz.) mistrz; (rz.) plastyk; (rz.) plastyka; (rz.) twórca
+[artiste]artiste (EN) : (rz.) artysta
+[artistic]artistic (EN) : (p.) artystyczny; (p.) kunsztowny
+[artistically]artistically (EN) : (p-sł.) artystycznie
+[artistry]artistry (EN) : (rz.) artyzm; (rz.) kunszt; (rz.) kunsztowność; (rz.) mistrzostwo; (rz.) sztuka
+[artless]artless (EN) : (p.) naturalny; (p.) prosty; (p.) szczery
+[artlessness]artlessness (EN) : (rz.) naturalność; (rz.) szczerość
+[artwork]artwork (EN) : (rz.) dzieło
+[arty]arty (EN) : (p.) pretensjonalny; (p.) zdolny
+[arum]arum (EN) : (rz.) larum
+[aryl]aryl (EN) : (rz.) aryl
+[as]as (EN) : (p-im.) co; (p-im.) jako; (p-im.) za; (p-sł.) jak; (p-sł.) kiedy; (p-sł.) podobnie; (p-sł.) równie; (p-sł.) skoro; (spójnik) chociaż; (spójnik) gdy; (spójnik) ponieważ
+[as-is]as-is (EN) : (p.) gotowy
+[asbestos]asbestos (EN) : (rz.) azbest
+[asbestosis]asbestosis (EN) : (rz.) azbestoza
+[ascend]ascend (EN) : (cz.) piąć; (cz.) podnosić; (cz.) wjeżdżać; (cz.) wspinać; (cz.) wstępować; (cz.) wznosić
+[ascendance]ascendance (EN) : (rz.) pochodzenie; (rz.) pokolenie; (rz.) ród
+[ascendancy]ascendancy (EN) : (rz.) panowanie; (rz.) przewaga; (rz.) skutek; (rz.) władza; (rz.) wpływ
+[ascending]ascending (EN) : (p.) rosnący; (p.) wstępujący
+[ascends]ascends (EN) : (cz.) piąć; (cz.) wznosić
+[ascension]ascension (EN) : (rz.) podniesienie; (rz.) podnośnik; (rz.) wniebowstąpienie; (rz.) wschodzenie; (rz.) wspinaczka; (rz.) wzniesienie
+[ascent]ascent (EN) : (rz.) postęp; (rz.) wchodzenie; (rz.) wspięcie; (rz.) wspinaczka; (rz.) wspinanie; (rz.) wzlot; (rz.) wzniesienie; (rz.) wznoszenie
+[ascertain]ascertain (EN) : (cz.) konstatować; (cz.) stwierdzać; (cz.) stwierdzić; (cz.) upewniać; (cz.) upewnić; (cz.) ustalać; (cz.) ustalić
+[ascertainable]ascertainable (EN) : (p.) stwierdzalny
+[ascertainment]ascertainment (EN) : (rz.) stwierdzenie; (rz.) upewnienie
+[ascetic]ascetic (EN) : (p.) ascetyczny; (rz.) asceta
+[ascetical]ascetical (EN) : (p.) ascetyczny
+[asceticism]asceticism (EN) : (rz.) ascetyzm; (rz.) asceza
+[ascorbic]ascorbic (EN) : (p.) askorbinowy
+[ascribe]ascribe (EN) : (cz.) przypisywać
+[ascription]ascription (EN) : (rz.) przypisanie; (rz.) przypisywanie; (rz.) zakres
+[asepsis]asepsis (EN) : (rz.) aseptyka; (rz.) jałowość
+[aseptic]aseptic (EN) : (p.) aseptyczny; (p.) jałowy
+[aseptically]aseptically (EN) : (p-sł.) aseptycznie
+[asexual]asexual (EN) : (p.) aseksualny; (p.) bezpłciowy
+[asexually]asexually (EN) : (p-sł.) bezpłciowo
+[ash]ash (EN) : (rz.) arcydzięgiel; (rz.) jesion; (rz.) popiół; (rz.) proch
+[ash-pan]ash-pan (EN) : (rz.) popielnik
+[ash-tray]ash-tray (EN) : (rz.) popielniczka
+[ashamed]ashamed (EN) : (p.) zawstydzony
+[ashen]ashen (EN) : (p.) blady; (p.) jesionowy; (p.) popielaty
+[ashes]ashes (EN) : (rz.) perzyna
+[ashtray]ashtray (EN) : (rz.) popielniczka
+[ashy]ashy (EN) : (p.) blady; (p.) popielaty; (p.) popiołowy; (p.) szary
+[asinine]asinine (EN) : (p.) głupi; (p.) idiotyczny; (p.) ośli
+[ask]ask (EN) : (cz.) dopytać; (cz.) kazać; (cz.) poprosić; (cz.) prosić; (cz.) pytać; (cz.) spytać; (cz.) upraszać; (cz.) uprosić; (cz.) zadać; (cz.) zadawać; (cz.) zapraszać; (cz.) zaprosić; (cz.) zapytać; (cz.) zapytywać
+[askance]askance (EN) : (p-sł.) podejrzliwie; (p-sł.) skośnie; (p-sł.) ukośnie
+[askew]askew (EN) : (p-sł.) krzywo; (p-sł.) skośnie
+[asking]asking (EN) : (rz.) doproszenie; (rz.) poproszenie; (rz.) proszenie; (rz.) zapytywanie
+[aslant]aslant (EN) : (p-sł.) skośnie; (p-sł.) ukośnie
+[asleep]asleep (EN) : (p.) śpiący
+[aslope]aslope (EN) : (p-sł.) pochyło
+[asocial]asocial (EN) : (p.) aspołeczny
+[asp]asp (EN) : (rz.) osika; (rz.) żmija
+[asparagus]asparagus (EN) : (rz.) szparag; (rz.) szparagi
+[aspect]aspect (EN) : (rz.) aspekt; (rz.) mina; (rz.) strona; (rz.) ustawienie; (rz.) widok; (rz.) wygląd; (rz.) wzgląd; (rz.) zapatrywanie
+[aspectual]aspectual (EN) : (p.) aspektowy
+[aspen]aspen (EN) : (rz.) osika
+[aspergillum]aspergillum (EN) : (rz.) kropidło
+[asperity]asperity (EN) : (rz.) chrapliwość; (rz.) chropowatość; (rz.) ostrość; (rz.) szorstkość
+[asperse]asperse (EN) : (cz.) obmawiać; (cz.) obryzgać; (cz.) oskarżać; (cz.) pokropić
+[aspersion]aspersion (EN) : (rz.) obmowa; (rz.) oszczerstwo
+[asphalt]asphalt (EN) : (cz.) asfaltować; (cz.) wyasfaltować; (rz.) asfalt; (rz.) asfaltowanie
+[asphodel]asphodel (EN) : (rz.) złotogłów
+[asphyxia]asphyxia (EN) : (rz.) duszenie; (rz.) uduszenie; (rz.) zamartwica
+[asphyxiate]asphyxiate (EN) : (cz.) udusić; (cz.) zaczadzić
+[asphyxiation]asphyxiation (EN) : (rz.) uduszenie; (rz.) zaczadzenie
+[aspic]aspic (EN) : (rz.) auszpik; (rz.) sumator; (rz.) żmija
+[aspirant]aspirant (EN) : (rz.) aspirant; (rz.) kandydat
+[aspirate]aspirate (EN) : (cz.) aspirować; (cz.) wdychać; (p.) przydechowy; (rz.) aspirata
+[aspiration]aspiration (EN) : (rz.) aspiracja; (rz.) dążenie; (rz.) przydech; (rz.) wdech; (rz.) wdychanie; (rz.) wsysanie; (rz.) zasysanie
+[aspirator]aspirator (EN) : (rz.) aspirator; (rz.) odsysacz; (rz.) pochłaniacz; (rz.) ssak; (rz.) wsysacz
+[aspire]aspire (EN) : (cz.) aspirować; (cz.) dążyć; (cz.) piąć
+[aspirin]aspirin (EN) : (rz.) aspiryna
+[aspiring]aspiring (EN) : (p.) ambitny
+[ass]ass (EN) : (rz.) dupa; (rz.) głupek; (rz.) osioł; (rz.) tępak; (rz.) tyłek; (rz.) zadek
+[ass-hole]ass-hole (EN) : (rz.) dupek
+[assail]assail (EN) : (cz.) atakować; (cz.) napadać; (cz.) padać; (cz.) rzucać; (cz.) zasypywać
+[assailant]assailant (EN) : (rz.) napastnik
+[assassin]assassin (EN) : (rz.) morderca; (rz.) oprawca; (rz.) skrytobójca; (rz.) zabójca; (rz.) zamachowiec
+[assassinate]assassinate (EN) : (cz.) mordować; (cz.) zabijać; (cz.) zamordować
+[assassination]assassination (EN) : (rz.) mordęga; (rz.) morderstwo; (rz.) zamach; (rz.) zamordowanie
+[assault]assault (EN) : (cz.) atakować; (cz.) napadać; (cz.) napaść; (cz.) padać; (cz.) poturbować; (rz.) atak; (rz.) napad; (rz.) natarcie; (rz.) ofensywa; (rz.) szturm; (rz.) znieważenie
+[assay]assay (EN) : (cz.) badać; (cz.) kupelować; (cz.) oznaczyć; (cz.) próbować; (cz.) spróbować; (rz.) analiza; (rz.) badanie; (rz.) esej; (rz.) oznaczanie; (rz.) oznaczenie; (rz.) próba; (rz.) probierstwo; (rz.) wzorzec
+[assaying]assaying (EN) : (rz.) próbowanie
+[assegai]assegai (EN) : (rz.) dzida; (rz.) włócznia
+[assemblage]assemblage (EN) : (rz.) całokształt; (rz.) montaż; (rz.) nagromadzenie; (rz.) ogół; (rz.) zbieranina; (rz.) zbiorowisko; (rz.) zgromadzenie; (rz.) zmontowanie
+[assemble]assemble (EN) : (cz.) gromadzić; (cz.) grupować; (cz.) montować; (cz.) tłumaczyć; (cz.) zbierać; (cz.) zebrać; (cz.) zgromadzać; (cz.) zgromadzić; (cz.) złożyć; (cz.) zmontować; (cz.) zwoływać
+[assembled]assembled (EN) : (cz.) zmontować
+[assembler]assembler (EN) : (rz.) asembler; (rz.) monter
+[assembling]assembling (EN) : (rz.) montaż; (rz.) montowanie; (rz.) skupianie; (rz.) zbieranie; (rz.) zmontowanie
+[assembly]assembly (EN) : (rz.) montaż; (rz.) montażownia; (rz.) montowanie; (rz.) montownia; (rz.) zbiórka; (rz.) zebranie; (rz.) zespół; (rz.) zestaw; (rz.) zgromadzenie
+[assent]assent (EN) : (cz.) sankcjonować; (cz.) usankcjonować; (cz.) uznawać; (cz.) zgadzać; (rz.) akceptacja; (rz.) sankcja; (rz.) zatwierdzenie; (rz.) zgoda
+[assert]assert (EN) : (cz.) bronić; (cz.) dochodzić; (cz.) domagać; (cz.) dowodzić; (cz.) podkreślać; (cz.) potwierdzać; (cz.) powoływać; (cz.) twierdzić; (cz.) utwierdzić; (cz.) zapewniać; (cz.) zapewnić; (cz.) zatwierdzać
+[assertion]assertion (EN) : (rz.) asercja; (rz.) pewność; (rz.) poświadczenie; (rz.) twierdzenie; (rz.) ubezpieczenie; (rz.) zapewnienie
+[assertive]assertive (EN) : (p.) apodyktyczny; (p.) asertywny; (p.) stanowczy
+[assertiveness]assertiveness (EN) : (rz.) asertywność; (rz.) stanowczość
+[assess]assess (EN) : (cz.) nakładać; (cz.) naliczać; (cz.) oceniać; (cz.) określać; (cz.) oszacować; (cz.) otaksować; (cz.) położyć; (cz.) szacować; (cz.) taksować; (cz.) wymierzyć
+[assessed]assessed (EN) : (cz.) oceniać
+[assessment]assessment (EN) : (rz.) ocena; (rz.) opodatkowanie; (rz.) oszacowanie; (rz.) wycena; (rz.) wymierzenie
+[assessor]assessor (EN) : (rz.) asesor; (rz.) rzeczoznawca; (rz.) taksator
+[asset]asset (EN) : (rz.) atut; (rz.) awantaż; (rz.) posiadłość; (rz.) wkład; (rz.) własność; (rz.) zaleta; (rz.) zasób
+[assets]assets (EN) : (rz.) aktywa; (rz.) majątek; (rz.) mienie
+[asseverate]asseverate (EN) : (cz.) oświadczyć; (cz.) zapewniać; (cz.) zapewnić
+[asseveration]asseveration (EN) : (rz.) oświadczenie; (rz.) twierdzenie; (rz.) zapewnienie
+[asshole]asshole (EN) : (rz.) dupa; (rz.) dupek; (rz.) palant
+[assiduity]assiduity (EN) : (rz.) pracowitość; (rz.) wytrwałość
+[assiduous]assiduous (EN) : (p.) gorliwy; (p.) pilny; (p.) wytrwały
+[assign]assign (EN) : (cz.) cedować; (cz.) określać; (cz.) przeznaczać; (cz.) przydzielać; (cz.) przydzielić; (cz.) przypisać; (cz.) przypisywać; (cz.) przyporządkować; (cz.) ustalać; (cz.) wydzielać; (cz.) wydzielić; (cz.) wyznaczać; (cz.) wyznaczyć
+[assignation]assignation (EN) : (rz.) asygnacja; (rz.) asygnata; (rz.) przeznaczenie; (rz.) przydział; (rz.) wydzielenie; (rz.) wyznaczenie
+[assignee]assignee (EN) : (rz.) cesjonariusz; (rz.) mandatariusz; (rz.) pełnomocnik
+[assignment]assignment (EN) : (rz.) asygnata; (rz.) cesja; (rz.) ocena; (rz.) przydział; (rz.) przydzielenie; (rz.) przypisanie; (rz.) wyznaczenie; (rz.) zadanie
+[assignor]assignor (EN) : (rz.) cedent
+[assimilate]assimilate (EN) : (cz.) asymilować; (cz.) pochłaniać; (cz.) przyswajać; (cz.) upodabniać; (cz.) wchłaniać; (cz.) zasymilować
+[assimilation]assimilation (EN) : (rz.) asymilacja; (rz.) przyswajanie; (rz.) przyswojenie; (rz.) upodobnienie; (rz.) wdrażanie
+[assimilative]assimilative (EN) : (p.) asymilacyjny
+[assist]assist (EN) : (cz.) asystować; (cz.) pomagać; (cz.) popierać; (cz.) wspierać
+[assistance]assistance (EN) : (rz.) asysta; (rz.) obecność; (rz.) opiekuńczość; (rz.) pomoc; (rz.) poparcie; (rz.) wsparcie
+[assistant]assistant (EN) : (rz.) asystent; (rz.) pomocnica; (rz.) pomocnik; (rz.) sprzedawca; (rz.) zastępca
+[assistantship]assistantship (EN) : (rz.) asystentura
+[assistantships]assistantships (EN) : (rz.) asystentura
+[associate]associate (EN) : (cz.) dołączyć; (cz.) dzwonić; (cz.) jednoczyć; (cz.) kojarzyć; (cz.) łączyć; (cz.) skojarzyć; (cz.) stowarzyszyć; (cz.) zadawać; (cz.) zrzeszać; (p.) związany; (rz.) kolega; (rz.) kombinat; (rz.) partner; (rz.) towarzysz; (rz.) wspólnik; (rz.) współpracownik
+[association]association (EN) : (rz.) asocjacja; (rz.) kojarzenie; (rz.) połączenie; (rz.) skojarzenie; (rz.) stówa; (rz.) stowarzyszenie; (rz.) wspólnictwo; (rz.) zrzeszenie; (rz.) związek
+[associational]associational (EN) : (p.) asocjacyjny; (p.) skojarzeniowy; (p.) stowarzyszeniowy
+[associative]associative (EN) : (p.) asocjacyjny; (p.) łączny; (p.) skojarzeniowy
+[assoil]assoil (EN) : (cz.) odpokutować; (cz.) rozgrzeszać; (cz.) uwalniać
+[assonance]assonance (EN) : (rz.) asonans
+[assonant]assonant (EN) : (p.) asonansowy
+[assort]assort (EN) : (cz.) dobierać; (cz.) grupować; (cz.) klasyfikować; (cz.) segregować; (cz.) sortować; (cz.) współpracować; (cz.) zaopatrywać; (cz.) zestawiać
+[assorted]assorted (EN) : (p.) różnorodny
+[assortment]assortment (EN) : (rz.) asortyment; (rz.) dobór; (rz.) mieszanka; (rz.) wybór
+[assuage]assuage (EN) : (cz.) łagodzić; (cz.) uśmierzać; (cz.) uspokajać; (cz.) zaspokajać
+[assuagement]assuagement (EN) : (rz.) uśmierzenie; (rz.) uspokojenie; (rz.) złagodzenie
+[assumable]assumable (EN) : (p.) przypuszczalny
+[assume]assume (EN) : (cz.) brać; (cz.) obejmować; (cz.) odgadywać; (cz.) pozorować; (cz.) przybierać; (cz.) przyjąć; (cz.) przyjmować; (cz.) przypuszczać; (cz.) przywdziać; (cz.) udawać; (cz.) zakładać
+[assumed]assumed (EN) : (cz.) założyć; (p.) hipotetyczny
+[assumption]assumption (EN) : (rz.) domniemanie; (rz.) objęcie; (rz.) przedsiębiorstwo; (rz.) przejęcie; (rz.) przybranie; (rz.) przypuszczenie; (rz.) pycha; (rz.) udawanie; (rz.) wniebowzięcie; (rz.) wyasygnowanie; (rz.) założenie
+[assumptive]assumptive (EN) : (p.) hipotetyczny; (p.) przypuszczalny
+[assurance]assurance (EN) : (rz.) asekuracja; (rz.) pewność; (rz.) przekonanie; (rz.) ubezpieczenie; (rz.) upewnienie; (rz.) zapewnienie
+[assure]assure (EN) : (cz.) dostarczać; (cz.) gwarantować; (cz.) twierdzić; (cz.) ubezpieczać; (cz.) upewniać; (cz.) zabezpieczyć; (cz.) zapewniać
+[assuredly]assuredly (EN) : (p-sł.) niechybnie; (p-sł.) pewnie; (p-sł.) zapewne
+[astatine]astatine (EN) : (rz.) astat
+[aster]aster (EN) : (rz.) aster
+[asterisk]asterisk (EN) : (rz.) asterysk; (rz.) gwiazdka; (rz.) oczko; (rz.) odsyłacz
+[asterism]asterism (EN) : (rz.) asteryzm; (rz.) gwiazdkowość
+[astern]astern (EN) : (p-sł.) wstecz
+[asteroid]asteroid (EN) : (rz.) asteroida; (rz.) planetoida
+[asthenia]asthenia (EN) : (rz.) astenia
+[asthma]asthma (EN) : (rz.) astma; (rz.) dusznica; (rz.) dychawica
+[asthmatic]asthmatic (EN) : (p.) astmatyczny; (p.) dychawiczny; (rz.) astmatyk
+[astigmatic]astigmatic (EN) : (p.) astygmatyczny
+[astigmatism]astigmatism (EN) : (rz.) astygmatyzm; (rz.) niezborność
+[astonish]astonish (EN) : (cz.) zadziwiać; (cz.) zdumiewać; (cz.) zdziwić
+[astonished]astonished (EN) : (p.) zdziwiony
+[astonishingly]astonishingly (EN) : (p-sł.) zadziwiająco
+[astonishment]astonishment (EN) : (rz.) zadziwienie; (rz.) zdumienie; (rz.) zdziwienie
+[astound]astound (EN) : (cz.) zadziwiać; (cz.) zaskoczyć; (cz.) zdumiewać
+[astraddle]astraddle (EN) : (p-sł.) okrakiem
+[astrakhan]astrakhan (EN) : (rz.) karakuł
+[astral]astral (EN) : (p.) astralny; (p.) gwiezdny
+[astray]astray (EN) : (p.) zabłąkany
+[astride]astride (EN) : (p.) rozkroczny; (p-sł.) okrakiem
+[astringent]astringent (EN) : (p.) cierpki
+[astrobiology]astrobiology (EN) : (rz.) astrobiologia
+[astrocompass]astrocompass (EN) : (rz.) astrokompas
+[astrodome]astrodome (EN) : (rz.) astrokopuła; (rz.) astrowieżyczka
+[astrograph]astrograph (EN) : (rz.) astrograf
+[astrolabe]astrolabe (EN) : (rz.) astrolabium
+[astrologer]astrologer (EN) : (rz.) astrolog
+[astrologic]astrologic (EN) : (p.) astrologiczny
+[astrological]astrological (EN) : (p.) astrologiczny
+[astrologist]astrologist (EN) : (rz.) astrolog
+[astrology]astrology (EN) : (rz.) astrologia
+[astrometry]astrometry (EN) : (rz.) astrometria
+[astronaut]astronaut (EN) : (rz.) astronauta; (rz.) kosmonauta
+[astronautics]astronautics (EN) : (rz.) astronautyka; (rz.) astronomia; (rz.) kosmonautyka
+[astronavigation]astronavigation (EN) : (rz.) astronawigacja
+[astronomer]astronomer (EN) : (rz.) astronom
+[astronomers]astronomers (EN) : (rz.) astronom
+[astronomic]astronomic (EN) : (p.) astronomiczny
+[astronomical]astronomical (EN) : (p.) astronomiczny
+[astronomy]astronomy (EN) : (rz.) astronautyka; (rz.) astronomia
+[astrophotography]astrophotography (EN) : (rz.) astrofotografia
+[astrophysics]astrophysics (EN) : (rz.) astrofizyka
+[astute]astute (EN) : (p.) bystry; (p.) chytry; (p.) przebiegły; (p.) rozsądny
+[astuteness]astuteness (EN) : (rz.) bystrość; (rz.) przebiegłość; (rz.) wnikliwość
+[asunder]asunder (EN) : (p.) sam
+[asylum]asylum (EN) : (rz.) azyl; (rz.) azylant; (rz.) przytułek; (rz.) przytulisko; (rz.) schron; (rz.) schronienie; (rz.) szpital; (rz.) wysepka
+[asymmetric]asymmetric (EN) : (p.) asymetryczny
+[asymmetrical]asymmetrical (EN) : (p.) asymetryczny; (p.) niesymetryczny
+[asymmetry]asymmetry (EN) : (rz.) asymetria
+[asymptomatic]asymptomatic (EN) : (p.) bezobjawowy
+[asymptote]asymptote (EN) : (rz.) asymptota
+[asymptotic]asymptotic (EN) : (p.) asymptotyczny
+[asymptotical]asymptotical (EN) : (p.) asymptotyczny
+[asynchronous]asynchronous (EN) : (p.) asynchroniczny
+[at]at (EN) : (p-im.) na; (p-im.) o; (p-im.) po; (p-im.) pod; (p-im.) przy; (p-im.) u; (p-im.) w; (p-im.) wedle; (p-im.) z; (p-im.) za
+[at-home]at-home (EN) : (rz.) fajf
+[ataractic]ataractic (EN) : (p.) uspokajający
+[atavism]atavism (EN) : (rz.) atawizm
+[atavistic]atavistic (EN) : (p.) atawistyczny
+[ataxia]ataxia (EN) : (rz.) ataksja
+[atelier]atelier (EN) : (rz.) atelier; (rz.) pracownia
+[atheism]atheism (EN) : (rz.) ateizm; (rz.) bezbożność
+[atheist]atheist (EN) : (rz.) ateista; (rz.) bezbożnik; (rz.) niedowiarek
+[atheistic]atheistic (EN) : (p.) ateistyczny
+[athenaeum]athenaeum (EN) : (rz.) czytelnia
+[atherosclerosis]atherosclerosis (EN) : (rz.) miażdżyca
+[athlete]athlete (EN) : (rz.) atleta; (rz.) lekkoatleta; (rz.) siłacz; (rz.) sportowiec; (rz.) zapaśnik
+[athletic]athletic (EN) : (p.) atletyczny; (p.) lekkoatletyczny; (p.) muskularny; (p.) silny; (p.) sportowy
+[athletically]athletically (EN) : (p-sł.) atletycznie
+[athletics]athletics (EN) : (rz.) atletyka; (rz.) lekkoatletyka
+[athwart]athwart (EN) : (p-sł.) poprzecznie
+[atilt]atilt (EN) : (p.) ukośny; (p-sł.) ukośnie; (rz.) bakier
+[atlas]atlas (EN) : (rz.) atlant; (rz.) atlas
+[atmosphere]atmosphere (EN) : (rz.) atmosfera; (rz.) nastrój; (rz.) powietrze
+[atmospheric]atmospheric (EN) : (p.) atmosferyczny
+[atoll]atoll (EN) : (rz.) atol
+[atom]atom (EN) : (rz.) atom; (rz.) odrobina
+[atomic]atomic (EN) : (p.) atomistyczny; (p.) atomowy; (p.) jednolity
+[atomically]atomically (EN) : (p-sł.) atomowo
+[atomicity]atomicity (EN) : (rz.) atomowość; (rz.) niepodzielność
+[atomics]atomics (EN) : (p.) atomowy; (rz.) atomistyka
+[atomiser]atomiser (EN) : (rz.) rozpylacz
+[atomism]atomism (EN) : (rz.) atomistyka; (rz.) atomizm
+[atomist]atomist (EN) : (rz.) atomista
+[atomization]atomization (EN) : (rz.) atomizacja; (rz.) rozpylanie
+[atomize]atomize (EN) : (cz.) atomizować; (cz.) rozdrabniać; (cz.) rozpylać
+[atomizer]atomizer (EN) : (rz.) rozpylacz
+[atomy]atomy (EN) : (rz.) atom
+[atonal]atonal (EN) : (p.) atonalny
+[atonality]atonality (EN) : (rz.) atonalność
+[atone]atone (EN) : (cz.) odpokutować; (cz.) pokutować; (cz.) rekompensować; (cz.) wyrównywać
+[atonement]atonement (EN) : (rz.) odpokutowanie; (rz.) pokuta; (rz.) rekompensata; (rz.) zadośćuczynienie
+[atrabilious]atrabilious (EN) : (p.) melancholijny
+[atrium]atrium (EN) : (rz.) przedsionek
+[atrocious]atrocious (EN) : (p.) ohydny; (p.) okropny; (p.) okrutny; (p.) straszliwy; (p.) straszny
+[atrociousness]atrociousness (EN) : (rz.) ohyda; (rz.) okropność; (rz.) okrucieństwo
+[atrocity]atrocity (EN) : (rz.) bezeceństwo; (rz.) ohyda; (rz.) okropność; (rz.) okrucieństwo
+[atrophic]atrophic (EN) : (p.) zanikowy
+[atrophied]atrophied (EN) : (p.) atroficzny
+[atrophy]atrophy (EN) : (cz.) obumierać; (rz.) atrofia; (rz.) obumieranie; (rz.) zanik; (rz.) zanikanie
+[atrophying]atrophying (EN) : (rz.) atrofia; (rz.) zanikanie
+[atropine]atropine (EN) : (rz.) atropina
+[attach]attach (EN) : (cz.) dołączać; (cz.) dołączyć; (cz.) nakleić; (cz.) odkomenderować; (cz.) opatrzyć; (cz.) podłączać; (cz.) podłączyć; (cz.) przyczepiać; (cz.) przydzielać; (cz.) przyłączać; (cz.) przyłączyć; (cz.) przymocować; (cz.) przymocowywać; (cz.) przyprawiać; (cz.) przytwierdzać; (cz.) przytwierdzić; (cz.) przywiązywać; (cz.) tkwić; (cz.) umocować; (cz.) załączać; (cz.) załączyć; (cz.) zamocować
+[attached]attached (EN) : (cz.) mocować; (p.) dołączony; (p.) przyłączony; (p.) zamocowany
+[attachment]attachment (EN) : (rz.) nasadka; (rz.) obligacja; (rz.) przyłączanie; (rz.) przyłączenie; (rz.) przyrząd; (rz.) przywiązanie; (rz.) urządzenie; (rz.) uwiązanie; (rz.) uzupełnienie; (rz.) więź; (rz.) zaczepienie; (rz.) załącznik; (rz.) zamocowanie
+[attack]attack (EN) : (cz.) atakować; (cz.) nacierać; (cz.) napadać; (cz.) napaść; (cz.) padać; (cz.) przedsiębrać; (cz.) rzucać; (cz.) szturmować; (cz.) zaatakować; (rz.) atak; (rz.) napad; (rz.) natarcie; (rz.) ofensywa; (rz.) paroksyzm; (rz.) szturm; (rz.) wypad; (rz.) zaczepka; (rz.) zamach; (rz.) zawał
+[attackable]attackable (EN) : (p.) słaby; (p.) sporny
+[attacker]attacker (EN) : (rz.) agresor; (rz.) napastnik; (rz.) zamachowiec
+[attain]attain (EN) : (cz.) docierać; (cz.) dojść; (cz.) dosięgać; (cz.) osiągać; (cz.) osiągnąć; (cz.) przybywać; (cz.) uzyskać; (cz.) wskórać; (cz.) zdobyć; (cz.) zdobywać
+[attainability]attainability (EN) : (rz.) osiągalność
+[attainable]attainable (EN) : (p.) osiągalny; (p.) realny; (p.) uchwytny
+[attainment]attainment (EN) : (rz.) doścignięcie; (rz.) osiągnięcie; (rz.) sprawność; (rz.) zdobycie
+[attainments]attainments (EN) : (rz.) wiadomość
+[attaint]attaint (EN) : (cz.) skazać; (cz.) skażać; (cz.) skazić
+[attar]attar (EN) : (rz.) olejek
+[attempt]attempt (EN) : (cz.) atakować; (cz.) napadać; (cz.) padać; (cz.) pokusić; (cz.) próbować; (cz.) przedsiębrać; (cz.) terroryzować; (cz.) usiłować; (rz.) napad; (rz.) próba; (rz.) usiłowanie; (rz.) zamach
+[attempted]attempted (EN) : (p.) próbny; (p.) próbowany
+[attempts]attempts (EN) : (rz.) zakusy
+[attend]attend (EN) : (cz.) chodzić; (cz.) obsługiwać; (cz.) pielęgnować; (cz.) słuchać; (cz.) służyć; (cz.) towarzyszyć; (cz.) uczęszczać
+[attendance]attendance (EN) : (rz.) baczenie; (rz.) frekwencja; (rz.) obecność; (rz.) obsługa; (rz.) pomoc; (rz.) uczęszczanie; (rz.) uwaga
+[attendant]attendant (EN) : (p.) dyżurny; (p.) obecny; (p.) towarzyszący; (rz.) dozorca; (rz.) pomocnik; (rz.) sługa; (rz.) towarzysz; (rz.) zastępca
+[attendee]attendee (EN) : (rz.) uczestnik
+[attention]attention (EN) : (rz.) areszt; (rz.) atencja; (rz.) baczenie; (rz.) baczność; (rz.) grzeczność; (rz.) opieka; (rz.) troska; (rz.) uprzejmość; (rz.) uwaga
+[attentive]attentive (EN) : (p.) baczny; (p.) grzeczny; (p.) pilny; (p.) pomocny; (p.) troskliwy; (p.) uprzejmy; (p.) usłużny; (p.) uważny
+[attentively]attentively (EN) : (p-sł.) bacznie; (p-sł.) uważnie
+[attentiveness]attentiveness (EN) : (rz.) pilność; (rz.) troskliwość
+[attenuate]attenuate (EN) : (cz.) łagodzić; (cz.) osłabiać; (cz.) pomniejszać; (cz.) rozcieńczać; (cz.) tłumić; (cz.) zanikać
+[attenuated]attenuated (EN) : (p.) stłumiony
+[attenuation]attenuation (EN) : (rz.) łagodzenie; (rz.) osłabienie; (rz.) tłumienie; (rz.) złagodzenie
+[attenuator]attenuator (EN) : (rz.) tłumik
+[attest]attest (EN) : (cz.) atestować; (cz.) legalizować; (cz.) poświadczać; (cz.) potwierdzać; (cz.) stwierdzać; (cz.) świadczyć; (cz.) zaświadczać
+[attestation]attestation (EN) : (rz.) atest; (rz.) atestacja; (rz.) poświadczenie; (rz.) świadectwo; (rz.) zaświadczenie
+[attic]attic (EN) : (rz.) attyka; (rz.) facjata; (rz.) mansarda; (rz.) poddasze; (rz.) strych
+[attire]attire (EN) : (cz.) odziewać; (cz.) stroić; (cz.) ubierać; (cz.) ubrać; (cz.) ustrajać; (cz.) ustroić; (cz.) zdobić; (rz.) odzież; (rz.) ozdoba; (rz.) strój; (rz.) ubiór; (rz.) ubranie
+[attitude]attitude (EN) : (rz.) nastawienie; (rz.) orientacja; (rz.) pogląd; (rz.) położenie; (rz.) postawa; (rz.) poza; (rz.) pozycja; (rz.) stan; (rz.) stanowisko; (rz.) stosunek; (rz.) traktowanie; (rz.) ustosunkowanie
+[attitudes]attitudes (EN) : (rz.) postaw
+[attitudinise]attitudinise (EN) : (cz.) pozować
+[attitudinize]attitudinize (EN) : (cz.) pozować; (cz.) zachowywać
+[attorney]attorney (EN) : (rz.) adwokat; (rz.) obrońca; (rz.) pełnomocnik; (rz.) prawnik; (rz.) prokurator; (rz.) rzecznik
+[attract]attract (EN) : (cz.) dotyczyć; (cz.) kusić; (cz.) pociągać; (cz.) przyciągać; (cz.) przyciągnąć; (cz.) zachwycać; (cz.) zwabiać
+[attraction]attraction (EN) : (rz.) atrakcja; (rz.) atrakcyjność; (rz.) ciekawostka; (rz.) pociąg; (rz.) ponęta; (rz.) powab; (rz.) przyciąganie; (rz.) skłonność; (rz.) urok; (rz.) wabienie
+[attractive]attractive (EN) : (p.) apetyczny; (p.) atrakcyjny; (p.) dogodny; (p.) ponętny; (p.) powabny
+[attractively]attractively (EN) : (p-sł.) atrakcyjnie
+[attractiveness]attractiveness (EN) : (rz.) atrakcyjność
+[attribute]attribute (EN) : (cz.) przypisywać; (cz.) przyporządkować; (rz.) atrybut; (rz.) cecha; (rz.) przydawka; (rz.) przymiot; (rz.) przymiotnik; (rz.) właściwość; (rz.) własność
+[attribution]attribution (EN) : (rz.) atrybucja; (rz.) kompetencja; (rz.) przypisywanie; (rz.) zakres
+[attributive]attributive (EN) : (p.) atrybutywny; (rz.) określanie
+[attrition]attrition (EN) : (rz.) abrazja; (rz.) otarcie; (rz.) ścieranie; (rz.) skrucha; (rz.) tarcie; (rz.) wyniszczenie; (rz.) wytarcie; (rz.) zadrapanie; (rz.) zdarcie; (rz.) zużycie
+[attune]attune (EN) : (cz.) dostroić; (cz.) nastawiać; (cz.) nastawić; (cz.) nastrajać; (cz.) nastroić; (cz.) stroić; (cz.) ustawiać; (cz.) ustawić; (cz.) zharmonizować
+[atypical]atypical (EN) : (p.) atypowy; (p.) nietypowy; (p.) poronny; (p.) typowy
+[atypically]atypically (EN) : (p-sł.) nietypowo
+[aubergine]aubergine (EN) : (rz.) bakłażan
+[auburn]auburn (EN) : (p.) ciemnobrązowy; (p.) kasztanowaty; (p.) kasztanowy
+[auction]auction (EN) : (cz.) licytować; (rz.) aukcja; (rz.) licytacja; (rz.) przetarg
+[auctioneer]auctioneer (EN) : (rz.) licytator
+[audacious]audacious (EN) : (p.) śmiały; (p.) zuchwały
+[audacity]audacity (EN) : (rz.) bezczelność; (rz.) bezwstyd; (rz.) śmiałość; (rz.) tupet; (rz.) zuchwałość; (rz.) zuchwalstwo
+[audibility]audibility (EN) : (rz.) dosłyszalność; (rz.) fonia; (rz.) słyszalność
+[audible]audible (EN) : (p.) słyszalny; (p.) słyszany; (p.) uchwytny; (p.) wyraźny
+[audibly]audibly (EN) : (p-sł.) głośno; (p-sł.) wyraźnie
+[audience]audience (EN) : (rz.) audiencja; (rz.) audytorium; (rz.) odbiorca; (rz.) oglądalność; (rz.) posłuchanie; (rz.) publiczność; (rz.) publika; (rz.) widownia
+[audio]audio (EN) : (rz.) fonia
+[audio-visual]audio-visual (EN) : (p.) audiowizualny
+[audiogram]audiogram (EN) : (rz.) audiogram
+[audiometer]audiometer (EN) : (rz.) audiometr
+[audiometric]audiometric (EN) : (p.) audiometryczny
+[audiovisual]audiovisual (EN) : (p.) audiowizualny
+[audit]audit (EN) : (cz.) kontrolować; (cz.) rewidować; (rz.) audyt; (rz.) kontrola; (rz.) rewizja
+[audition]audition (EN) : (cz.) spróbować; (rz.) próba; (rz.) przesłuchanie; (rz.) słuch; (rz.) słuchanie
+[auditioned]auditioned (EN) : (cz.) przesłuchiwać
+[auditioning]auditioning (EN) : (cz.) przesłuchiwać
+[auditor]auditor (EN) : (rz.) audytor; (rz.) nadzorca; (rz.) rewident; (rz.) słuchacz
+[auditorium]auditorium (EN) : (rz.) audytorium; (rz.) rozmównica; (rz.) sala; (rz.) widownia
+[auditory]auditory (EN) : (p.) słuchowy
+[auger]auger (EN) : (rz.) świder
+[augment]augment (EN) : (cz.) powiększać; (cz.) wzmagać; (cz.) zwiększać
+[augmentation]augmentation (EN) : (rz.) powiększenie; (rz.) wzrost; (rz.) zwiększenie
+[augur]augur (EN) : (cz.) przepowiadać; (cz.) wróżyć; (rz.) wróżba; (rz.) wróżbita
+[augury]augury (EN) : (rz.) przepowiednia; (rz.) wróżba; (rz.) zapowiedź
+[august]august (EN) : (p.) czcigodny; (p.) dostojny; (p.) sierpniowy; (rz.) sierpień
+[augustly]augustly (EN) : (p-sł.) czcigodnie
+[aunt]aunt (EN) : (rz.) ciocia; (rz.) ciotka; (rz.) stryjenka; (rz.) wujenka
+[auntie]auntie (EN) : (rz.) ciocia
+[aunty]aunty (EN) : (rz.) ciocia; (rz.) ciotunia
+[aura]aura (EN) : (rz.) nastrój
+[aural]aural (EN) : (p.) słuchowy; (p.) uszny
+[aureate]aureate (EN) : (p.) złoty
+[aureole]aureole (EN) : (rz.) aureola
+[auricle]auricle (EN) : (rz.) małżowina
+[auricular]auricular (EN) : (p.) przedsionkowy; (p.) słuchowy; (p.) uszny
+[auriferous]auriferous (EN) : (p.) złotodajny; (p.) złotonośny
+[aurochs]aurochs (EN) : (rz.) tur; (rz.) żubr
+[aurora]aurora (EN) : (rz.) jutrzenka; (rz.) zorza
+[aurous]aurous (EN) : (p.) złotawy
+[auscultation]auscultation (EN) : (rz.) auskultacja; (rz.) opukanie; (rz.) osłuchanie; (rz.) osłuchiwanie
+[auspice]auspice (EN) : (rz.) patronat; (rz.) wróżba
+[auspices]auspices (EN) : (rz.) auspicje
+[auspicious]auspicious (EN) : (p.) pomyślny
+[auspiciousness]auspiciousness (EN) : (rz.) pomyślność
+[austenite]austenite (EN) : (rz.) austenit
+[austere]austere (EN) : (p.) prosty; (p.) srogi; (p.) surowy; (p.) szorstki; (p.) zwykły
+[austereness]austereness (EN) : (rz.) skromność; (rz.) srogość; (rz.) surowość
+[austerity]austerity (EN) : (rz.) skromność; (rz.) srogość; (rz.) surowość; (rz.) szorstkość
+[austral]austral (EN) : (p.) południowy
+[autarchy]autarchy (EN) : (rz.) autarchia; (rz.) autarkia; (rz.) niezależność; (rz.) samowystarczalność
+[autarky]autarky (EN) : (rz.) autarkia; (rz.) autokracja
+[authentic]authentic (EN) : (p.) autentyczny; (p.) prawdziwy; (p.) wiarygodny
+[authentically]authentically (EN) : (p-sł.) autentycznie
+[authenticate]authenticate (EN) : (cz.) poświadczać; (cz.) uwiarygodniać; (cz.) uwiarygodnić; (cz.) uwierzytelniać; (cz.) uwierzytelnić; (cz.) zalegalizować
+[authentication]authentication (EN) : (rz.) autoryzacja; (rz.) identyfikacja; (rz.) legalizacja; (rz.) poświadczenie; (rz.) uwierzytelnienie; (rz.) zalegalizowanie
+[authenticity]authenticity (EN) : (rz.) autentyczność; (rz.) autentyzm
+[author]author (EN) : (rz.) autor; (rz.) autorstwo; (rz.) sprawca; (rz.) twórca
+[author's]author's (EN) : (p.) autorski; (p.) odautorski
+[authoress]authoress (EN) : (rz.) autorka
+[authorisation]authorisation (EN) : (rz.) uprawnienie
+[authorise]authorise (EN) : (cz.) autoryzować; (cz.) legitymować; (cz.) uprawniać; (cz.) uprawnić
+[authorising]authorising (EN) : (rz.) autoryzacja
+[authoritarian]authoritarian (EN) : (p.) autorytarny; (p.) autorytatywny; (p.) despotyczny
+[authoritarianism]authoritarianism (EN) : (rz.) autorytaryzm; (rz.) autorytatywność
+[authoritative]authoritative (EN) : (p.) autorytatywny; (p.) bezapelacyjny; (p.) miarodajny; (p.) władny
+[authoritatively]authoritatively (EN) : (p-sł.) apodyktycznie
+[authorities]authorities (EN) : (rz.) rząd
+[authority]authority (EN) : (rz.) autorytet; (rz.) instancja; (rz.) mocodawca; (rz.) powaga; (rz.) prawo; (rz.) uprawnienie; (rz.) władza; (rz.) zarząd; (rz.) zdolność; (rz.) źródło; (rz.) zwierzchność
+[authorization]authorization (EN) : (rz.) autoryzacja; (rz.) autoryzowanie; (rz.) upoważnienie; (rz.) uprawnianie
+[authorize]authorize (EN) : (cz.) autoryzować; (cz.) upoważniać; (cz.) upoważnić
+[authorized]authorized (EN) : (p.) autoryzowany
+[authorship]authorship (EN) : (rz.) autorstwo
+[autism]autism (EN) : (rz.) autyzm
+[autistic]autistic (EN) : (p.) autystyczny
+[auto]auto (EN) : (rz.) auto
+[autobahn]autobahn (EN) : (rz.) autostrada
+[autobiographic]autobiographic (EN) : (p.) autobiograficzny
+[autobiographical]autobiographical (EN) : (p.) autobiograficzny
+[autobiographically]autobiographically (EN) : (p-sł.) autobiograficznie
+[autobiography]autobiography (EN) : (rz.) autobiografia
+[autocatalysis]autocatalysis (EN) : (rz.) autokataliza
+[autochthon]autochthon (EN) : (rz.) autochton; (rz.) tubylec
+[autochthonous]autochthonous (EN) : (p.) autochtoniczny; (p.) autochtoński; (p.) tubylczy
+[autoclave]autoclave (EN) : (rz.) autoklaw
+[autocorrelation]autocorrelation (EN) : (rz.) autokorelacja
+[autocracy]autocracy (EN) : (rz.) autokracja; (rz.) jedynowładztwo; (rz.) samowładztwo
+[autocrat]autocrat (EN) : (rz.) autokrata; (rz.) jedynowładca; (rz.) samowładca
+[autocratic]autocratic (EN) : (p.) autokratyczny
+[autodidact]autodidact (EN) : (rz.) samouk
+[autodyne]autodyne (EN) : (rz.) autodyna
+[autogenesis]autogenesis (EN) : (rz.) abiogeneza; (rz.) autogeneza
+[autogenic]autogenic (EN) : (p.) autogeniczny
+[autogiro]autogiro (EN) : (rz.) autożyro; (rz.) wiatrakowiec
+[autograph]autograph (EN) : (cz.) podpisywać; (rz.) autograf; (rz.) autografia; (rz.) podpis
+[autographing]autographing (EN) : (rz.) autografowanie; (rz.) podpisywanie
+[autographs]autographs (EN) : (rz.) autografowanie
+[autography]autography (EN) : (rz.) autografia
+[autogyro]autogyro (EN) : (rz.) helikopter; (rz.) wiatrakowiec
+[autoloader]autoloader (EN) : (rz.) moduł
+[autolysis]autolysis (EN) : (rz.) autoliza
+[automate]automate (EN) : (cz.) automatyzować; (cz.) zautomatyzować
+[automated]automated (EN) : (p.) zautomatyzowany
+[automatic]automatic (EN) : (p.) automatyczny; (p.) machinalny; (p.) mechaniczny; (p.) samoczynny; (rz.) automatyka
+[automatically]automatically (EN) : (p-sł.) automatycznie
+[automatics]automatics (EN) : (rz.) automatyka
+[automation]automation (EN) : (rz.) automatyka; (rz.) automatyzacja
+[automatism]automatism (EN) : (rz.) automatyzm
+[automaton]automaton (EN) : (rz.) automat
+[automobile]automobile (EN) : (rz.) automobil; (rz.) samochód; (rz.) wóz
+[automotive]automotive (EN) : (p.) motoryzacyjny; (p.) samochodowy
+[autonomic]autonomic (EN) : (p.) autonomiczny
+[autonomist]autonomist (EN) : (rz.) autonomista
+[autonomous]autonomous (EN) : (p.) autonomiczny
+[autonomously]autonomously (EN) : (p-sł.) autonomicznie
+[autonomy]autonomy (EN) : (rz.) autonomia; (rz.) niezależność; (rz.) odrębność; (rz.) samorząd
+[autopilot]autopilot (EN) : (rz.) autopilot
+[autopsy]autopsy (EN) : (rz.) autopsja; (rz.) obdukcja
+[autorotation]autorotation (EN) : (rz.) autorotacja; (rz.) samoobrót
+[autosuggestion]autosuggestion (EN) : (rz.) autosugestia
+[autotransformer]autotransformer (EN) : (rz.) autotransformator
+[autotrophic]autotrophic (EN) : (p.) samożywny; (rz.) autotrof
+[autotrophy]autotrophy (EN) : (rz.) samożywność
+[autotype]autotype (EN) : (rz.) autotypia; (rz.) fototypia; (rz.) światłodruk
+[autumn]autumn (EN) : (rz.) jesień; (rz.) semestr
+[autumnal]autumnal (EN) : (p.) jesienny
+[auxanometer]auxanometer (EN) : (rz.) auksanometr
+[auxiliary]auxiliary (EN) : (p.) pomocniczy; (p.) posiłkowy; (p.) zapasowy
+[avail]avail (EN) : (cz.) pomagać; (cz.) przynieść; (cz.) przynosić; (rz.) korzyść; (rz.) pożytek
+[availability]availability (EN) : (rz.) dostępność; (rz.) dyspozycyjność; (rz.) istnienie; (rz.) osiągalność; (rz.) przydatność; (rz.) występowanie
+[available]available (EN) : (p.) dostępny; (p.) dyspozycyjny; (p.) osiągalny; (p.) przydatny; (p.) przystępny; (p.) przyswajalny; (p.) rozporządzalny
+[availably]availably (EN) : (p-sł.) dostępnie
+[avalanche]avalanche (EN) : (rz.) lawina
+[avant-garde]avant-garde (EN) : (p.) awangardowy; (rz.) awangarda
+[avarice]avarice (EN) : (rz.) chciwość; (rz.) skąpstwo
+[avaricious]avaricious (EN) : (p.) chciwy; (p.) skąpy
+[avatar]avatar (EN) : (rz.) awatar; (rz.) wcielenie
+[avenge]avenge (EN) : (cz.) mścić; (cz.) pomścić
+[avenger]avenger (EN) : (rz.) mściciel
+[avenue]avenue (EN) : (rz.) aleja; (rz.) droga; (rz.) ulica; (rz.) uliczka
+[aver]aver (EN) : (cz.) zapewniać
+[average]average (EN) : (cz.) równać; (cz.) uśredniać; (cz.) wynosić; (p.) przeciętny; (p.) średni; (p.) średnioroczny; (p.) statystyczny; (rz.) awaria; (rz.) ilość; (rz.) przeciętna; (rz.) przeciętność; (rz.) średnia
+[averaged]averaged (EN) : (cz.) uśrednić
+[averaging]averaging (EN) : (p.) uśredniony
+[averment]averment (EN) : (rz.) dowód; (rz.) twierdzenie
+[averse]averse (EN) : (p.) niechętny; (p.) przeciwny; (p.) szkodliwy
+[averseness]averseness (EN) : (rz.) awersja; (rz.) niechęć; (rz.) obrzydzenie; (rz.) wstręt
+[aversion]aversion (EN) : (rz.) awersja; (rz.) niechęć; (rz.) obrzydzenie; (rz.) odraza; (rz.) wstręt
+[avert]avert (EN) : (cz.) oddalać; (cz.) oddalić; (cz.) odsuwać; (cz.) odwracać; (cz.) odwrócić; (cz.) zapobiegać
+[aviary]aviary (EN) : (rz.) ptaszarnia; (rz.) woliera
+[aviation]aviation (EN) : (rz.) lotnictwo
+[aviator]aviator (EN) : (rz.) lotnik; (rz.) pilot
+[aviculture]aviculture (EN) : (rz.) ptasznictwo
+[avid]avid (EN) : (p.) chciwy; (p.) gorliwy
+[avidity]avidity (EN) : (rz.) chciwość; (rz.) gorliwość; (rz.) łapczywość
+[avidly]avidly (EN) : (p-sł.) chciwie
+[avifauna]avifauna (EN) : (rz.) awifauna; (rz.) ornitofauna
+[avionics]avionics (EN) : (rz.) awionika
+[avocado]avocado (EN) : (rz.) awokado; (rz.) gruszka
+[avocation]avocation (EN) : (rz.) zainteresowanie
+[avoid]avoid (EN) : (cz.) omijać; (cz.) stronić; (cz.) uchylać; (cz.) unikać
+[avoidance]avoidance (EN) : (rz.) stronienie; (rz.) uchylanie; (rz.) unikanie
+[avoided]avoided (EN) : (cz.) unikać
+[avouch]avouch (EN) : (cz.) ręczyć; (cz.) zeznać
+[avow]avow (EN) : (cz.) oświadczać; (cz.) potwierdzać; (cz.) przyznawać; (cz.) wyznawać
+[avowal]avowal (EN) : (rz.) wyznanie
+[avowed]avowed (EN) : (p.) zaprzysięgły
+[avowedly]avowedly (EN) : (p-sł.) głośno; (p-sł.) jawnie
+[avulsion]avulsion (EN) : (rz.) oderwanie
+[avuncular]avuncular (EN) : (p.) wujowski
+[await]await (EN) : (cz.) czekać; (cz.) oczekiwać; (cz.) przewidzieć
+[awake]awake (EN) : (cz.) budzić; (cz.) obudzić; (cz.) ocknąć; (cz.) przebudzić; (cz.) uświadamiać; (cz.) uświadomić; (cz.) wzbudzać; (cz.) wzbudzić; (cz.) zbudzić; (p.) przebudzony
+[awaken]awaken (EN) : (cz.) budzić; (cz.) obudzić; (cz.) ożywiać; (cz.) pobudzać; (cz.) przebudzać; (cz.) przebudzić; (cz.) wzbudzić
+[awakener]awakener (EN) : (rz.) budziciel
+[awakening]awakening (EN) : (rz.) obudzenie; (rz.) ocknięcie; (rz.) przebudzenie; (rz.) rozbudzenie
+[award]award (EN) : (cz.) nagradzać; (cz.) przysądzać; (cz.) przyznawać; (rz.) nagroda; (rz.) odszkodowanie; (rz.) odznaczenie; (rz.) rozstrzygnięcie; (rz.) wyrok; (rz.) wyróżnienie
+[aware]aware (EN) : (p.) poinformowany; (p.) świadomy
+[awareness]awareness (EN) : (rz.) świadomość; (rz.) uświadomienie
+[away]away (EN) : (p-sł.) daleko; (p-sł.) stąd
+[awe]awe (EN) : (cz.) trwożyć; (rz.) groza; (rz.) obawa; (rz.) postrach; (rz.) strach; (rz.) trwoga
+[awesome]awesome (EN) : (p.) groźny; (p.) przeraźliwy; (p.) straszliwy; (p.) straszny
+[awestruck]awestruck (EN) : (p.) strachliwy
+[awful]awful (EN) : (p.) ogromny; (p.) okropny; (p.) straszliwy; (p.) straszny; (p.) wstrętny
+[awfully]awfully (EN) : (p-sł.) bardzo; (p-sł.) ogromnie; (p-sł.) okropnie; (p-sł.) potwornie; (p-sł.) strasznie
+[awfulness]awfulness (EN) : (rz.) okropność; (rz.) okrucieństwo; (rz.) straszność
+[awing]awing (EN) : (rz.) trwożenie
+[awkward]awkward (EN) : (p.) kanciasty; (p.) kłopotliwy; (p.) niedogodny; (p.) nieporadny; (p.) niewygodny; (p.) niezaradny; (p.) niezdarny; (p.) niezgrabny; (p.) niezręczny; (p.) przykry; (p.) uciążliwy
+[awkwardly]awkwardly (EN) : (p-sł.) niewygodnie; (p-sł.) niezdarnie; (p-sł.) niezgrabnie
+[awkwardness]awkwardness (EN) : (rz.) nieporadność; (rz.) nieskładność; (rz.) niezdarność; (rz.) niezgrabność; (rz.) zakłopotanie
+[awl]awl (EN) : (rz.) błotnik; (rz.) skrzydło; (rz.) szydło
+[awn]awn (EN) : (rz.) paździerze; (rz.) wąs
+[awning]awning (EN) : (rz.) markiza; (rz.) tent; (rz.) zadaszenie; (rz.) zasłona
+[awoke]awoke (EN) : (cz.) budzić
+[awry]awry (EN) : (p.) krzywy; (p.) opaczny; (p-sł.) krzywo; (p-sł.) niewłaściwie; (p-sł.) opacznie
+[axe]axe (EN) : (cz.) obcinać; (cz.) redukować; (rz.) kilof; (rz.) siekiera; (rz.) topór
+[axial]axial (EN) : (p.) osiowy
+[axially]axially (EN) : (p-sł.) osiowo
+[axiology]axiology (EN) : (rz.) aksjologia
+[axiom]axiom (EN) : (rz.) aksjomat; (rz.) pewnik
+[axiomatic]axiomatic (EN) : (p.) aksjomatyczny
+[axis]axis (EN) : (rz.) oś; (rz.) oświadczenie; (rz.) twierdzenie
+[axle]axle (EN) : (rz.) oś; (rz.) ośka
+[axon]axon (EN) : (rz.) akson; (rz.) neuryt
+[axonometric]axonometric (EN) : (p.) aksonometryczny
+[ay]ay (EN) : (p-sł.) oczywiście; (p-sł.) tak; (p-sł.) zawsze
+[aye]aye (EN) : (p-sł.) oczywiście; (p-sł.) tak
+[azalea]azalea (EN) : (rz.) azalia
+[azimuth]azimuth (EN) : (rz.) azymut
+[azure]azure (EN) : (p.) błękitny; (p.) lazurowy; (rz.) błękit; (rz.) lazur
+[azurite]azurite (EN) : (rz.) azuryt

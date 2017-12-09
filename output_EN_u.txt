@@ -1,0 +1,862 @@
+[u-link]U-link (EN) : (rz.) złącznik
+[ursula]Ursula (EN) : (rz.) Urszula
+[u-tube]u-tube (EN) : (rz.) U-rurka
+[ubiquitous]ubiquitous (EN) : (p.) wszechobecny; (p.) wszędobylski
+[ubiquity]ubiquity (EN) : (rz.) wszechobecność; (rz.) wszędobylstwo
+[udder]udder (EN) : (rz.) wymię
+[ugh]ugh (EN) : (wykrzyknik) och
+[ugliness]ugliness (EN) : (rz.) brzydota; (rz.) szpetota
+[ugly]ugly (EN) : (p.) brzydki; (p.) nieładny; (p.) paskudny; (p.) szkaradny; (p.) szpetny
+[ukase]ukase (EN) : (rz.) ukaz
+[ulcer]ulcer (EN) : (rz.) owrzodzenie; (rz.) wrzód
+[ulcerate]ulcerate (EN) : (cz.) wrzodzieć
+[ulceration]ulceration (EN) : (rz.) owrzodzenie
+[ulcerous]ulcerous (EN) : (p.) wrzodowy
+[ulterior]ulterior (EN) : (p.) dalszy; (p.) następny
+[ultimate]ultimate (EN) : (p.) ostateczny; (p.) podstawowy; (p.) zasadniczy
+[ultimately]ultimately (EN) : (p-sł.) ostatecznie
+[ultimatum]ultimatum (EN) : (rz.) ultimatum
+[ultra]ultra (EN) : (p.) krańcowy; (p.) przekraczający; (rz.) poza
+[ultra-violet]ultra-violet (EN) : (p.) ultrafioletowy
+[ultracentrifuge]ultracentrifuge (EN) : (rz.) ultrawirówka
+[ultraconservative]ultraconservative (EN) : (p.) ultrakonserwatywny
+[ultramicroscopic]ultramicroscopic (EN) : (p.) ultramikroskopowy
+[ultramodern]ultramodern (EN) : (p.) ultranowoczesny
+[ultrasonic]ultrasonic (EN) : (p.) ponaddźwiękowy; (p.) ultradźwiękowy
+[ultrasound]ultrasound (EN) : (rz.) ultradźwięk; (rz.) ultrasonograf; (rz.) ultrasonografia
+[ultraviolet]ultraviolet (EN) : (rz.) nadfiolet; (rz.) ultrafiolet
+[ululate]ululate (EN) : (cz.) wyć
+[ululation]ululation (EN) : (rz.) lamentowanie; (rz.) wycie; (rz.) zawodzenie
+[umbel]umbel (EN) : (rz.) baldach
+[umbellate]umbellate (EN) : (p.) baldaszkowaty
+[umbilical]umbilical (EN) : (p.) pępkowy
+[umbilicus]umbilicus (EN) : (rz.) pępek
+[umbrage]umbrage (EN) : (rz.) cień; (rz.) obraza; (rz.) podejrzenie; (rz.) uraza; (rz.) zgorszenie
+[umbrageous]umbrageous (EN) : (p.) cienisty
+[umbrella]umbrella (EN) : (rz.) dzwon; (rz.) parasol; (rz.) parasolka
+[umlaut]umlaut (EN) : (rz.) przegłos
+[umpire]umpire (EN) : (rz.) arbiter; (rz.) rozjemca; (rz.) sędzia; (rz.) superarbiter
+[umpteenth]umpteenth (EN) : (p.) kolejny
+[un]un (EN) : (p-sł.) nie
+[unabated]unabated (EN) : (p.) nieustanny
+[unable]unable (EN) : (p.) niezdolny
+[unabridged]unabridged (EN) : (p.) pełny
+[unacceptably]unacceptably (EN) : (p-sł.) niedopuszczalnie
+[unaccompanied]unaccompanied (EN) : (p.) samotny
+[unaccountable]unaccountable (EN) : (p.) nieodpowiedzialny
+[unaccustomed]unaccustomed (EN) : (p.) niezwykły
+[unadvised]unadvised (EN) : (p.) nieroztropny; (p.) nierozważny
+[unadvisedly]unadvisedly (EN) : (p-sł.) nieroztropnie
+[unaffected]unaffected (EN) : (p.) bezpretensjonalny; (p.) nietknięty; (p.) niewymuszony; (p.) prosty; (p.) szczery
+[unaffectedly]unaffectedly (EN) : (p-sł.) bezpretensjonalnie; (p-sł.) niezłomnie
+[unaided]unaided (EN) : (p.) samodzielny
+[unalienable]unalienable (EN) : (p.) nierozerwalny; (rz.) nieprzekazywalne
+[unalloyed]unalloyed (EN) : (p.) czysty
+[unalterable]unalterable (EN) : (p.) niezmienny
+[unalterably]unalterably (EN) : (p-sł.) niezmiennie
+[unambiguous]unambiguous (EN) : (p.) jednoznaczny; (p.) niedwuznaczny
+[unambiguously]unambiguously (EN) : (p-sł.) jednoznacznie
+[unanimity]unanimity (EN) : (rz.) jednogłośność; (rz.) jednomyślność
+[unanimous]unanimous (EN) : (p.) zgodny
+[unanimously]unanimously (EN) : (p-sł.) jednogłośnie; (p-sł.) jednomyślnie
+[unanswerable]unanswerable (EN) : (p.) niepodważalny; (p.) niezbity
+[unappetizing]unappetizing (EN) : (p.) nieapetyczny
+[unapproachable]unapproachable (EN) : (p.) niedostępny; (p.) nieprzystępny
+[unapt]unapt (EN) : (p.) nieodpowiedni
+[unarguably]unarguably (EN) : (p-sł.) bezspornie
+[unarmed]unarmed (EN) : (p.) bezbronny; (p.) bezrogi; (p.) nieuzbrojony
+[unascertainable]unascertainable (EN) : (p.) niesprawdzalny
+[unashamed]unashamed (EN) : (p.) bezwstydny
+[unassailable]unassailable (EN) : (p.) bezsporny; (p.) niedostępny; (p.) nienaganny; (p.) niepodważalny
+[unassertive]unassertive (EN) : (p.) skromny
+[unassigned]unassigned (EN) : (p.) nieprzydzielony
+[unassisted]unassisted (EN) : (p.) samodzielny
+[unassuming]unassuming (EN) : (p.) bezpretensjonalny; (p.) skromny
+[unattached]unattached (EN) : (p.) niezależny
+[unattainable]unattainable (EN) : (p.) nieosiągalny; (p.) nieuchwytny
+[unattended]unattended (EN) : (p.) samotny
+[unattractive]unattractive (EN) : (p.) nieatrakcyjny; (p.) nieefektowny
+[unattractively]unattractively (EN) : (p-sł.) nieatrakcyjnie
+[unauthorised]unauthorised (EN) : (p.) bezprawny; (p.) nielegalny
+[unauthorized]unauthorized (EN) : (p.) nielegalny
+[unavailability]unavailability (EN) : (rz.) niedostępność; (rz.) niedyspozycyjność
+[unavailable]unavailable (EN) : (p.) nieaktualny; (p.) niedostępny; (p.) nieosiągalny
+[unavailing]unavailing (EN) : (p.) bezskuteczny; (p.) bezużyteczny; (p.) daremny
+[unavoidable]unavoidable (EN) : (p.) niechybny; (p.) nieunikniony
+[unavoidably]unavoidably (EN) : (p-sł.) niechybnie
+[unaware]unaware (EN) : (p.) niebaczny; (p.) nieświadomy
+[unawareness]unawareness (EN) : (rz.) nieświadomość; (rz.) niewiedza
+[unawares]unawares (EN) : (p-sł.) bezwiednie; (p-sł.) nagle; (p-sł.) niespodzianie; (p-sł.) niespodziewanie; (p-sł.) znienacka
+[unbalanced]unbalanced (EN) : (p.) niezrównoważony
+[unbar]unbar (EN) : (cz.) odryglować
+[unbearable]unbearable (EN) : (p.) bezkonkurencyjny; (p.) nieznośny
+[unbeatable]unbeatable (EN) : (p.) bezkonkurencyjny
+[unbecoming]unbecoming (EN) : (p.) nieodpowiedni; (p.) nieprzystojny; (p.) niestosowny; (p.) niewłaściwy
+[unbecomingly]unbecomingly (EN) : (p-sł.) niewłaściwie
+[unbelief]unbelief (EN) : (rz.) niewiara
+[unbelievable]unbelievable (EN) : (p.) nieprawdopodobny; (p.) niewiarygodny
+[unbelievably]unbelievably (EN) : (p-sł.) nieprawdopodobnie; (p-sł.) niespodziewanie; (p-sł.) niewiarygodnie
+[unbeliever]unbeliever (EN) : (rz.) ateista; (rz.) niedowiarek; (rz.) niewiara
+[unbend]unbend (EN) : (cz.) odgiąć; (cz.) odginać; (cz.) odprężać; (cz.) odprężyć; (cz.) odwiązać; (cz.) osłabnąć; (cz.) rozchmurzyć; (cz.) rozginać; (cz.) rozprostować; (cz.) rozprostowywać; (cz.) rozwiązać; (cz.) wyprostować
+[unbending]unbending (EN) : (p.) nieugięty
+[unbiased]unbiased (EN) : (p.) bezinteresowny; (p.) bezstronny; (p.) nieobciążony
+[unbind]unbind (EN) : (cz.) odpasać; (cz.) odwiązać; (cz.) rozkuć; (cz.) rozwiązać; (cz.) rozwiązywać
+[unblemished]unblemished (EN) : (p.) nieskazitelny
+[unblock]unblock (EN) : (cz.) odblokować; (cz.) odblokowywać; (cz.) odetkać; (cz.) odtykać
+[unblushing]unblushing (EN) : (p.) bezczelny; (p.) cyniczny
+[unbolt]unbolt (EN) : (cz.) odkręcać; (cz.) odkręcić; (cz.) odryglować
+[unborn]unborn (EN) : (p.) niegotowy; (p.) przyszły
+[unbounded]unbounded (EN) : (p.) bezgraniczny; (p.) bezkresny; (p.) nieograniczony; (p.) niepowstrzymany; (p.) niezwiązany
+[unbreakable]unbreakable (EN) : (p.) niełamliwy
+[unbridle]unbridle (EN) : (cz.) poluzować
+[unbridled]unbridled (EN) : (p.) nieokiełznany; (p.) rozwydrzony; (p.) wyuzdany
+[unbroken]unbroken (EN) : (p.) nieprzerwany; (p.) niezłamany; (p.) niezłomny
+[unbuckle]unbuckle (EN) : (cz.) odpinać; (cz.) rozpinać
+[unburden]unburden (EN) : (cz.) odciążać; (cz.) odciążyć; (cz.) rozjuczyć; (cz.) ulżyć
+[unbutton]unbutton (EN) : (cz.) odpinać; (cz.) rozpiąć; (cz.) rozpinać; (cz.) wyluzować
+[uncalled-for]uncalled-for (EN) : (p.) niestosowny
+[uncanny]uncanny (EN) : (p.) nieostrożny; (p.) niesamowity; (p.) tajemniczy
+[uncapsizable]uncapsizable (EN) : (p.) niewywrotny
+[unceasing]unceasing (EN) : (p.) bezustanny
+[unceasingly]unceasingly (EN) : (p-sł.) nieustannie
+[unceremonious]unceremonious (EN) : (p.) bezceremonialny; (p.) obcesowy
+[unceremoniously]unceremoniously (EN) : (p-sł.) bezceremonialnie; (p-sł.) obcesowo; (p-sł.) poufale
+[uncertain]uncertain (EN) : (p.) niepewny; (p.) wątpliwy
+[uncertainly]uncertainly (EN) : (p-sł.) nie; (p-sł.) niepewnie
+[uncertainty]uncertainty (EN) : (rz.) niedokładność; (rz.) nieokreśloność; (rz.) niepewność; (rz.) przypadkowość; (rz.) wątpliwość
+[unchain]unchain (EN) : (cz.) rozkiełznać; (cz.) rozkuć; (cz.) rozpętać; (cz.) uwalniać; (cz.) uwolnić
+[unchangeable]unchangeable (EN) : (p.) niezmienny
+[unchanged]unchanged (EN) : (p.) niezmieniony
+[unchanging]unchanging (EN) : (p.) niezmienny
+[uncharitable]uncharitable (EN) : (p.) nieprzychylny; (p.) nieprzyjazny; (p.) nieżyczliwy
+[unchaste]unchaste (EN) : (p.) nieskromny
+[unchecked]unchecked (EN) : (p.) nieodparty; (p.) niepowściągliwy; (p.) niepowstrzymany
+[unchristian]unchristian (EN) : (p.) pogański
+[uncivil]uncivil (EN) : (p.) grubiański; (p.) niekulturalny; (p.) nieuprzejmy
+[uncivilized]uncivilized (EN) : (p.) prymitywny
+[unclaimed]unclaimed (EN) : (p.) niechodliwy
+[unclamp]unclamp (EN) : (cz.) zwalniać; (cz.) zwolnić
+[unclasp]unclasp (EN) : (cz.) odpiąć; (cz.) otworzyć; (cz.) rozewrzeć; (cz.) rozluźniać; (cz.) rozluźnić; (cz.) rozplatać; (cz.) uwolnić
+[unclassified]unclassified (EN) : (p.) jawny; (p.) niesklasyfikowany
+[uncle]uncle (EN) : (rz.) stryj; (rz.) stryjek; (rz.) wuj; (rz.) wujek
+[uncle's]uncle's (EN) : (p.) wujeczny
+[unclean]unclean (EN) : (p.) nieczysty; (p.) trefny
+[unclear]unclear (EN) : (p.) nieczytelny; (p.) niejasny; (p.) niewyrazisty; (p.) niewyraźny
+[unclench]unclench (EN) : (cz.) rozkurczać; (cz.) rozwierać
+[unclothe]unclothe (EN) : (cz.) obnażać; (cz.) rozbierać
+[unclouded]unclouded (EN) : (p.) bezchmurny
+[uncoil]uncoil (EN) : (cz.) odwijać
+[uncoloured]uncoloured (EN) : (p.) bezbarwny
+[uncomfortable]uncomfortable (EN) : (p.) niepocieszony; (p.) nieprzytulny; (p.) niewygodny
+[uncomfortably]uncomfortably (EN) : (p-sł.) niewygodnie
+[uncommitted]uncommitted (EN) : (p.) bezdyskusyjny
+[uncommon]uncommon (EN) : (p.) niecodzienny; (p.) niepospolity; (p.) niepowszedni; (p.) nieprzeciętny; (p.) nietuzinkowy; (p.) niezwyczajny; (p.) niezwykły; (p.) rzadki
+[uncommonly]uncommonly (EN) : (p-sł.) niezwykle
+[uncommunicative]uncommunicative (EN) : (p.) niekomunikatywny; (p.) nierozmowny
+[uncompetitive]uncompetitive (EN) : (p.) niekonkurencyjny
+[uncomplimentary]uncomplimentary (EN) : (p.) niepochlebny
+[uncompromising]uncompromising (EN) : (p.) bezkompromisowy
+[unconcern]unconcern (EN) : (rz.) beztroska; (rz.) obojętność; (rz.) spokój
+[unconcerned]unconcerned (EN) : (p.) beztroski; (p.) niefrasobliwy; (p.) nonszalancki; (p.) obojętny
+[unconcernedly]unconcernedly (EN) : (p-sł.) beztrosko; (p-sł.) obojętnie
+[unconditional]unconditional (EN) : (p.) bezwarunkowy
+[unconditionally]unconditionally (EN) : (p-sł.) bezwarunkowo
+[unconditioned]unconditioned (EN) : (p.) bezwarunkowy; (p.) instynktowny
+[uncongenial]uncongenial (EN) : (p.) niesympatyczny
+[unconquerable]unconquerable (EN) : (p.) niepokonany
+[unconscionable]unconscionable (EN) : (p.) nadmierny; (p.) niedorzeczny; (p.) nierozsądny; (p.) niesumienny
+[unconscious]unconscious (EN) : (p.) bezwiedny; (p.) nieprzytomny; (p.) nieświadomy; (rz.) nieświadomość; (rz.) przytomność
+[unconsciously]unconsciously (EN) : (p-sł.) bezwiednie; (p-sł.) nieprzytomnie; (p-sł.) nieświadomie
+[unconsciousness]unconsciousness (EN) : (rz.) niepamięć; (rz.) nieprzytomność; (rz.) nieświadomość
+[unconstitutional]unconstitutional (EN) : (p.) niekonstytucyjny; (p.) nielegalny
+[unconstrained]unconstrained (EN) : (p.) swobodny
+[uncontaminated]uncontaminated (EN) : (p.) nieskażony
+[uncontested]uncontested (EN) : (p.) bezsporny
+[uncontrollable]uncontrollable (EN) : (p.) nieopanowany
+[uncontrolled]uncontrolled (EN) : (p.) niekontrolowany
+[unconventional]unconventional (EN) : (p.) niekonwencjonalny; (p.) nieszablonowy
+[unconventionality]unconventionality (EN) : (rz.) niekonwencjonalność
+[unconventionally]unconventionally (EN) : (p-sł.) niekonwencjonalnie
+[unconvertible]unconvertible (EN) : (p.) niewymienny
+[unconvincingly]unconvincingly (EN) : (p-sł.) nieprzekonująco
+[uncork]uncork (EN) : (cz.) odkorkować; (cz.) odkorkowywać
+[uncountable]uncountable (EN) : (p.) nieobliczalny; (p.) nieprzeliczalny
+[uncouple]uncouple (EN) : (cz.) odczepiać; (cz.) odpinać; (cz.) odprzęgać; (cz.) odwiązywać; (cz.) rozczepiać; (cz.) rozłączać
+[uncouth]uncouth (EN) : (p.) dziwaczny; (p.) nieokrzesany; (p.) niezgrabny; (p.) niezręczny; (p.) surowy
+[uncouthly]uncouthly (EN) : (p-sł.) prostacko
+[uncover]uncover (EN) : (cz.) obnażać; (cz.) odkryć; (cz.) odkrywać; (cz.) odsłaniać; (cz.) odsłonić
+[uncritical]uncritical (EN) : (p.) bezkrytyczny
+[uncritically]uncritically (EN) : (p-sł.) bezkrytycznie
+[unction]unction (EN) : (rz.) maść; (rz.) namaszczenie; (rz.) poświęcenie
+[unctuous]unctuous (EN) : (p.) mazisty; (p.) namaszczony; (p.) oleisty; (p.) tłusty; (p.) uroczysty
+[uncultivated]uncultivated (EN) : (p.) nieuprawny
+[uncultured]uncultured (EN) : (p.) niekulturalny
+[undaunted]undaunted (EN) : (p.) nieustraszony
+[undeceive]undeceive (EN) : (cz.) naprawiać; (cz.) naprawić; (cz.) nauczyć; (cz.) uczyć
+[undecided]undecided (EN) : (p.) niezdecydowany
+[undefined]undefined (EN) : (p.) mglisty; (p.) nieokreślony
+[undelete]undelete (EN) : (cz.) odtworzyć; (cz.) odwołać; (cz.) odzyskać; (cz.) zrekonstruować
+[undemanding]undemanding (EN) : (p.) niewybredny
+[undemonstrative]undemonstrative (EN) : (p.) opanowany; (p.) powściągliwy
+[undeniable]undeniable (EN) : (p.) niezaprzeczalny
+[undeniably]undeniably (EN) : (p-sł.) bezspornie; (p-sł.) niezaprzeczalnie
+[undependable]undependable (EN) : (p.) niezależny
+[under]under (EN) : (p-im.) pod; (p-im.) ponad; (p-im.) przy
+[under-secretary]under-secretary (EN) : (rz.) podsekretarz; (rz.) wiceminister
+[under-shirt]under-shirt (EN) : (rz.) podkoszulek
+[under-water]under-water (EN) : (p.) podwodny
+[underage]underage (EN) : (p.) niepełnoletni
+[underbelly]underbelly (EN) : (rz.) podbrzusze
+[underbrush]underbrush (EN) : (rz.) podszycie; (rz.) podszyt; (rz.) zarośla
+[undercarriage]undercarriage (EN) : (rz.) podwozie
+[underclothes]underclothes (EN) : (rz.) bielizna
+[underclothing]underclothing (EN) : (rz.) bielizna
+[undercoat]undercoat (EN) : (rz.) podkład
+[undercover]undercover (EN) : (p.) tajny
+[undercurrent]undercurrent (EN) : (rz.) nurt
+[undercut]undercut (EN) : (rz.) podcięcie; (rz.) podcios; (rz.) podtopienie
+[underdevelopment]underdevelopment (EN) : (rz.) niedorozwój; (rz.) zacofanie
+[underdone]underdone (EN) : (p.) krwisty; (p.) nieznośny; (p.) półsurowy
+[underestimate]underestimate (EN) : (cz.) doceniać; (cz.) lekceważyć; (cz.) zaniżyć
+[underexposure]underexposure (EN) : (rz.) niedoświetlenie
+[underfeeding]underfeeding (EN) : (rz.) niedożywienie
+[underflow]underflow (EN) : (rz.) niedomiar
+[undergo]undergo (EN) : (cz.) doświadczać; (cz.) doświadczyć; (cz.) poddać; (cz.) przechodzić; (cz.) ulegać; (cz.) zaznawać; (cz.) znieść
+[undergraduate]undergraduate (EN) : (rz.) student
+[underground]underground (EN) : (p.) podziemny; (p.) tajny; (p.) zaskórny; (p-sł.) tajnie; (rz.) konspiracja; (rz.) metro; (rz.) podziemie
+[undergrowth]undergrowth (EN) : (rz.) niedorozwój; (rz.) podszycie; (rz.) podszyt; (rz.) poszycie; (rz.) runo; (rz.) zarośla
+[underhand]underhand (EN) : (p.) oszukańczy; (p.) podstępny; (p.) potajemny; (p.) skryty; (p.) zakulisowy
+[underlet]underlet (EN) : (cz.) podnająć; (cz.) podnajmować
+[underlie]underlie (EN) : (cz.) kryć; (cz.) leżeć; (cz.) podlegać; (cz.) tkwić
+[underline]underline (EN) : (cz.) podkreślać; (cz.) podkreślić; (cz.) zaakcentować
+[underling]underling (EN) : (rz.) sługa
+[underlying]underlying (EN) : (cz.) podeprzeć; (p.) dany; (p.) niejasny; (p.) odnośny; (p.) odpowiedni; (p.) podścielający; (p.) podstawowy; (p.) stosowany; (p.) ukryty; (p.) zasadniczy
+[undermine]undermine (EN) : (cz.) nadwątlać; (cz.) podkopać; (cz.) podkopywać; (cz.) podminować; (cz.) podminowywać; (cz.) podważyć; (cz.) umniejszyć
+[underpants]underpants (EN) : (rz.) gacie; (rz.) slipy
+[underpayment]underpayment (EN) : (rz.) niedopłata
+[underpin]underpin (EN) : (cz.) podbudować; (cz.) podeprzeć; (cz.) podmurować; (cz.) podpierać; (cz.) podtrzymać
+[underpinnings]underpinnings (EN) : (rz.) podbudowa
+[underplay]underplay (EN) : (cz.) umniejszać; (cz.) zmniejszać
+[underrate]underrate (EN) : (cz.) niedoceniać
+[underscore]underscore (EN) : (cz.) podkreślać
+[undersea]undersea (EN) : (p.) podmorski
+[undersecretary]undersecretary (EN) : (rz.) podsekretarz; (rz.) wiceminister
+[undershirt]undershirt (EN) : (rz.) podkoszulek
+[underside]underside (EN) : (rz.) spód
+[undersign]undersign (EN) : (cz.) podpisać
+[undersize]undersize (EN) : (rz.) podwymiar; (rz.) podziarno
+[undersized]undersized (EN) : (p.) karłowaty; (p.) niski
+[underskirt]underskirt (EN) : (rz.) halka
+[understand]understand (EN) : (cz.) pojąć; (cz.) rozumieć; (cz.) sądzić; (cz.) zrozumieć
+[understandable]understandable (EN) : (p.) zrozumiały
+[understandably]understandably (EN) : (p-sł.) zrozumiale
+[understanding]understanding (EN) : (rz.) pojmowanie; (rz.) porozumienie; (rz.) rozum; (rz.) rozumienie; (rz.) wyrozumiałość; (rz.) wyrozumienie; (rz.) założenie; (rz.) zrozumienie
+[understate]understate (EN) : (cz.) pomniejszać; (cz.) umniejszać; (cz.) zaniżać
+[understatement]understatement (EN) : (rz.) niedomówienie; (rz.) niedopowiedzenie
+[understood]understood (EN) : (cz.) rozumieć
+[understudy]understudy (EN) : (rz.) dubler
+[undertake]undertake (EN) : (cz.) podejmować; (cz.) podjąć; (cz.) przedsięwziąć; (cz.) zobowiązać; (cz.) zobowiązywać
+[undertaken]undertaken (EN) : (cz.) podejmować; (cz.) zobowiązać
+[undertaker]undertaker (EN) : (rz.) grabarz; (rz.) przedsiębiorca
+[undertaking]undertaking (EN) : (rz.) przedsiębiorstwo; (rz.) przedsięwzięcie; (rz.) zobowiązanie
+[undertone]undertone (EN) : (rz.) półgłos; (rz.) półszept; (rz.) półton
+[undertook]undertook (EN) : (cz.) podejmować
+[underwater]underwater (EN) : (p.) podmorski; (p.) podwodny
+[underwear]underwear (EN) : (rz.) bielizna
+[underworld]underworld (EN) : (rz.) męt; (rz.) podziemie; (rz.) półświatek
+[underwrite]underwrite (EN) : (cz.) podpisać; (cz.) podpisywać; (cz.) poręczać; (cz.) ubezpieczać
+[underwriter]underwriter (EN) : (rz.) asekurant; (rz.) gwarant; (rz.) ubezpieczyciel
+[undesirability]undesirability (EN) : (rz.) niedogodność
+[undesirable]undesirable (EN) : (p.) niedogodny; (p.) nieodpowiedni; (p.) niepożądany
+[undetectable]undetectable (EN) : (p.) niewykrywalny
+[undeterminable]undeterminable (EN) : (p.) nieokreślony
+[undetermined]undetermined (EN) : (p.) nieokreślony
+[undignified]undignified (EN) : (p.) niegodny; (p.) nikczemny
+[undine]undine (EN) : (rz.) rusałka; (rz.) wodnica
+[undirected]undirected (EN) : (p.) niezorientowany
+[undisciplined]undisciplined (EN) : (p.) niekarny
+[undisputable]undisputable (EN) : (p.) bezsporny; (p.) niesporny
+[undisputed]undisputed (EN) : (p.) bezapelacyjny; (p.) bezdyskusyjny
+[undistinguishable]undistinguishable (EN) : (p.) nierozpoznawalny
+[undisturbed]undisturbed (EN) : (p.) niezakłócony
+[undivided]undivided (EN) : (p.) całkowity; (p.) niepodzielny
+[undo]undo (EN) : (cz.) anulować; (cz.) cofnąć; (cz.) odrobić; (cz.) odwiązać; (cz.) rozpiąć; (cz.) rozpinać; (cz.) rozwiązać; (cz.) rozwiązywać; (cz.) spadać; (cz.) unieważnić
+[undo-redo]undo-redo (EN) : (rz.) cofnij-powtórz
+[undo/redo]undo/redo (EN) : (rz.) cofanie-ponawianie; (rz.) cofnij-powtórz
+[undocking]undocking (EN) : (rz.) rozłączenie
+[undocumented]undocumented (EN) : (p.) nieudokumentowany
+[undoing]undoing (EN) : (rz.) zagłada; (rz.) zguba
+[undoubted]undoubted (EN) : (p.) niewątpliwy; (p.) pewny
+[undoubtedly]undoubtedly (EN) : (p-sł.) niewątpliwie; (p-sł.) pewnie
+[undreamed]undreamed (EN) : (p.) nieprawdopodobny
+[undreamt]undreamt (EN) : (p.) nieprawdopodobny
+[undress]undress (EN) : (cz.) obnażyć; (cz.) rozbierać; (cz.) rozebrać
+[undue]undue (EN) : (p.) nadmierny; (p.) nadzwyczajny; (p.) niepłatny; (p.) niesłuszny; (p.) niewłaściwy; (p.) przesadny; (p.) zbytni
+[undulate]undulate (EN) : (cz.) falować; (cz.) zafalować
+[undulating]undulating (EN) : (p.) falisty
+[undulation]undulation (EN) : (rz.) falistość; (rz.) falowanie; (rz.) wzburzenie
+[unduly]unduly (EN) : (p-sł.) bezpodstawnie; (p-sł.) nadmiernie; (p-sł.) zbytnio
+[undying]undying (EN) : (p.) dozgonny; (p.) nieśmiertelny
+[unearth]unearth (EN) : (cz.) odkopać; (cz.) odkopywać; (cz.) okopywać; (cz.) wydobyć; (cz.) wykopać
+[unearthly]unearthly (EN) : (p.) nadprzyrodzony; (p.) nadziemski; (p.) nieprawdopodobny; (p.) niesamowity; (p.) nieziemski
+[unease]unease (EN) : (rz.) niepewność; (rz.) niepokój; (rz.) zaniepokojenie
+[uneasiness]uneasiness (EN) : (rz.) niepokój; (rz.) skrępowanie
+[uneasy]uneasy (EN) : (p.) niełatwy; (p.) niespokojny; (p.) niewygodny; (p.) przykry; (p.) zaniepokojony
+[uneconomic]uneconomic (EN) : (p.) nieekonomiczny; (p.) nierentowny
+[uneconomical]uneconomical (EN) : (p.) nieekonomiczny; (p.) nieopłacalny; (p.) nieoszczędny
+[unemotional]unemotional (EN) : (p.) nieczuły
+[unemployed]unemployed (EN) : (p.) bezrobotny
+[unemployment]unemployment (EN) : (rz.) bezrobocie
+[unending]unending (EN) : (p.) bezustanny; (p.) nieskończony; (p.) wieczny
+[unendurable]unendurable (EN) : (p.) nieznośny
+[unequal]unequal (EN) : (p.) niejednakowy; (p.) nierównomierny; (p.) nierówny
+[unequally]unequally (EN) : (p-sł.) nierówno; (p-sł.) nierównomiernie
+[unequivocal]unequivocal (EN) : (p.) bezsprzeczny; (p.) jasny; (p.) niedwuznaczny; (p.) wyraźny
+[unerring]unerring (EN) : (p.) niechybny; (p.) nieomylny; (p.) niezawodny; (p.) precyzyjny
+[unerringly]unerringly (EN) : (p-sł.) nieomylnie
+[unessential]unessential (EN) : (p.) nieistotny; (p.) nieważny
+[unethical]unethical (EN) : (p.) nieetyczny
+[uneven]uneven (EN) : (p.) krzywy; (p.) niejednostajny; (p.) nieparzysty; (p.) nierównomierny; (p.) nierówny
+[unevenness]unevenness (EN) : (rz.) niejednolitość; (rz.) nierówność; (rz.) zmienność
+[uneventful]uneventful (EN) : (p.) spokojny
+[unexampled]unexampled (EN) : (p.) bezprzykładny; (p.) niesłychany
+[unexceptionable]unexceptionable (EN) : (p.) nienaganny
+[unexceptional]unexceptional (EN) : (p.) zwykły
+[unexpectedly]unexpectedly (EN) : (p-sł.) niespodziewanie
+[unfailing]unfailing (EN) : (p.) niezawodny
+[unfailingly]unfailingly (EN) : (p-sł.) niezawodnie
+[unfair]unfair (EN) : (p.) nieładny; (p.) niesłuszny; (p.) niesprawiedliwy; (p.) nieuczciwy
+[unfairly]unfairly (EN) : (p-sł.) niegodziwie; (p-sł.) nieładnie; (p-sł.) niesłusznie; (p-sł.) niesprawiedliwie
+[unfairness]unfairness (EN) : (rz.) niesprawiedliwość; (rz.) nieuczciwość
+[unfaithful]unfaithful (EN) : (p.) nielojalny; (p.) niewierny; (p.) wiarołomny
+[unfaithfully]unfaithfully (EN) : (p-sł.) niewiernie
+[unfaithfulness]unfaithfulness (EN) : (rz.) niewiara; (rz.) niewierność
+[unfamiliar]unfamiliar (EN) : (p.) nowy; (p.) obcy
+[unfashionable]unfashionable (EN) : (p.) niemodny
+[unfashionably]unfashionably (EN) : (p-sł.) niemodnie
+[unfasten]unfasten (EN) : (cz.) odczepiać; (cz.) odpinać; (cz.) odwiązywać; (cz.) otworzyć; (cz.) rozluźniać; (cz.) rozluźnić; (cz.) rozpiąć; (cz.) rozpinać; (cz.) rozwiązać; (cz.) zluzować
+[unfathomed]unfathomed (EN) : (p.) niezgłębiony
+[unfavourable]unfavourable (EN) : (p.) niekorzystny; (p.) niepomyślny; (p.) nieprzychylny
+[unfavourably]unfavourably (EN) : (p-sł.) niekorzystnie; (p-sł.) niepomyślnie; (p-sł.) odmownie
+[unfeeling]unfeeling (EN) : (p.) bezduszny; (p.) nieczuły
+[unfetter]unfetter (EN) : (cz.) rozkuć; (cz.) rozpętać
+[unfettered]unfettered (EN) : (p.) niegotowy; (p.) swobodny; (p.) wolny
+[unfinished]unfinished (EN) : (p.) niewykończony; (p.) półsurowy
+[unfit]unfit (EN) : (p.) nieodpowiedni; (p.) nieprawdopodobny; (p.) niestosowny; (p.) niezdatny; (p.) niezdolny
+[unfitness]unfitness (EN) : (rz.) niezdatność; (rz.) niezdolność
+[unfix]unfix (EN) : (cz.) odczepić
+[unflappable]unflappable (EN) : (p.) spokojny
+[unflattering]unflattering (EN) : (p.) niepochlebny
+[unfold]unfold (EN) : (cz.) odsłaniać; (cz.) odsłonić; (cz.) rozchylać; (cz.) rozkładać; (cz.) rozwiać; (cz.) rozwijać; (cz.) ujawniać; (cz.) wywoływać
+[unforeseeable]unforeseeable (EN) : (p.) nieprzewidywalny
+[unforeseen]unforeseen (EN) : (p.) nieprzewidziany
+[unforgettable]unforgettable (EN) : (p.) niezapomniany
+[unforgiving]unforgiving (EN) : (p.) pamiętliwy
+[unfortunate]unfortunate (EN) : (p.) niefortunny; (p.) nieszczęśliwy; (p.) nieszczęsny; (p.) pechowy
+[unfortunately]unfortunately (EN) : (p-sł.) niefortunnie; (p-sł.) niestety; (p-sł.) nieszczęśliwie
+[unfounded]unfounded (EN) : (p.) bezpodstawny; (p.) bezzasadny; (p.) nieuzasadniony
+[unfreeze]unfreeze (EN) : (cz.) odblokować; (cz.) odtajać
+[unfrequented]unfrequented (EN) : (p.) opuszczony
+[unfriendliness]unfriendliness (EN) : (rz.) nieżyczliwość
+[unfriendly]unfriendly (EN) : (p.) nieprzychylny; (p.) nieprzyjazny; (p.) nieprzyjemny; (p.) nieżyczliwy
+[unfruitful]unfruitful (EN) : (p.) bezowocny; (p.) bezpłodny; (p.) daremny; (p.) niepłodny
+[unfurl]unfurl (EN) : (cz.) rozkładać; (cz.) rozpościerać; (cz.) rozpostarć; (cz.) rozpostrzeć; (cz.) rozwijać
+[ungainly]ungainly (EN) : (p.) dziwaczny; (p.) niezdarny; (p.) niezgrabny
+[unglue]unglue (EN) : (cz.) odkleić; (cz.) odklejać
+[unglued]unglued (EN) : (cz.) zdenerwować
+[ungodly]ungodly (EN) : (p.) bezbożny; (p.) bezsensowny; (p.) piekielny; (p.) straszliwy
+[ungovernable]ungovernable (EN) : (p.) niesforny; (p.) wyuzdany
+[ungraceful]ungraceful (EN) : (p.) niezgrabny
+[ungracious]ungracious (EN) : (p.) niegrzeczny; (p.) niemiły; (p.) nieuprzejmy; (p.) niewdzięczny
+[ungrammatical]ungrammatical (EN) : (p.) niegramatyczny
+[ungrammatically]ungrammatically (EN) : (p-sł.) niegramatycznie
+[ungrateful]ungrateful (EN) : (p.) niewdzięczny
+[ungratefulness]ungratefulness (EN) : (rz.) niewdzięczność
+[ungrounded]ungrounded (EN) : (p.) bezpodstawny
+[ungrudging]ungrudging (EN) : (p.) hojny; (p.) szczodry
+[unguarded]unguarded (EN) : (p.) bezmyślny; (p.) niebaczny; (p.) nieopatrzny; (p.) nieostrożny
+[unguent]unguent (EN) : (rz.) maść
+[ungula]ungula (EN) : (rz.) stożek
+[ungulate]ungulate (EN) : (p.) kopytny
+[unhampered]unhampered (EN) : (p.) swobodny
+[unhandsome]unhandsome (EN) : (p.) nieładny; (p.) nieprzystojny
+[unhandy]unhandy (EN) : (p.) nieporęczny; (p.) niezaradny; (p.) niezgrabny
+[unhappily]unhappily (EN) : (p-sł.) nieszczęśliwie
+[unhappiness]unhappiness (EN) : (rz.) nieszczęście
+[unhappy]unhappy (EN) : (p.) nieszczęśliwy; (p.) pechowy
+[unharmed]unharmed (EN) : (p.) cały; (p.) nienaruszony
+[unhealthily]unhealthily (EN) : (p-sł.) niezdrowo
+[unhealthy]unhealthy (EN) : (p.) chorobliwy; (p.) chory; (p.) niezdrowy; (p.) szkodliwy
+[unhesitating]unhesitating (EN) : (p.) stanowczy
+[unhesitatingly]unhesitatingly (EN) : (p-sł.) pewnie; (p-sł.) stanowczo
+[unhide]unhide (EN) : (cz.) odkryć
+[unhinge]unhinge (EN) : (cz.) rozstrajać; (cz.) rozstroić; (cz.) wysadzać; (cz.) wysadzić; (cz.) wyważyć; (cz.) zdenerwować
+[unhistorical]unhistorical (EN) : (p.) niehistoryczny
+[unhitch]unhitch (EN) : (cz.) odczepiać; (cz.) wyprzęgać
+[unhook]unhook (EN) : (cz.) odhaczać; (cz.) odhaczyć; (cz.) odpinać
+[unhorse]unhorse (EN) : (cz.) zrzucać
+[unhurriedly]unhurriedly (EN) : (p-sł.) nieśpiesznie
+[unhygienic]unhygienic (EN) : (p.) niehigieniczny
+[unicellular]unicellular (EN) : (p.) jednokomórkowy
+[unicorn]unicorn (EN) : (rz.) jednorożec
+[unidentified]unidentified (EN) : (p.) niezidentyfikowany
+[unidirectional]unidirectional (EN) : (p.) jednokierunkowy
+[unification]unification (EN) : (rz.) jednoczenie; (rz.) ujednolicenie; (rz.) unifikacja; (rz.) zjednoczenie
+[unifier]unifier (EN) : (rz.) unifikator
+[uniform]uniform (EN) : (p.) identyczny; (p.) jednakowy; (p.) jednolity; (p.) równomierny; (rz.) mundur; (rz.) mundurek; (rz.) umundurowanie; (rz.) uniform
+[uniformity]uniformity (EN) : (rz.) jednolitość
+[uniformly]uniformly (EN) : (p-sł.) jednolicie
+[unify]unify (EN) : (cz.) jednoczyć; (cz.) ujednolicać; (cz.) unifikować; (cz.) zjednoczyć; (cz.) zunifikować
+[unilateral]unilateral (EN) : (p.) jednoboczny; (p.) jednostronny
+[unilaterally]unilaterally (EN) : (p-sł.) jednostronnie
+[unimaginably]unimaginably (EN) : (p-sł.) niewyobrażalnie
+[unimpeachable]unimpeachable (EN) : (p.) bezsporny; (p.) pewny
+[unimportant]unimportant (EN) : (p.) błahy; (p.) nieistotny; (p.) nieważny
+[unimpressed]unimpressed (EN) : (p.) obojętny
+[uninflected]uninflected (EN) : (p.) nieodmienny
+[uninhabited]uninhabited (EN) : (p.) bezludny; (p.) niezamieszkały
+[uninhibited]uninhibited (EN) : (p.) niekonwencjonalny; (p.) swobodny; (p.) wolny
+[uninspired]uninspired (EN) : (p.) banalny; (p.) nudny
+[uninspiring]uninspiring (EN) : (p.) nudny
+[unintelligent]unintelligent (EN) : (p.) nieinteligentny; (p.) niepojętny
+[unintelligently]unintelligently (EN) : (p-sł.) nieinteligentnie
+[unintelligible]unintelligible (EN) : (p.) niezrozumiały
+[unintentional]unintentional (EN) : (p.) bezwiedny; (p.) mimowolny; (p.) nierozmyślny; (p.) nieumyślny
+[unintentionally]unintentionally (EN) : (p-sł.) mimowolnie; (p-sł.) nieciekawie; (p-sł.) nieumyślnie
+[uninterested]uninterested (EN) : (p.) obojętny
+[uninteresting]uninteresting (EN) : (p.) nieciekawy; (p.) nudny
+[uninterrupted]uninterrupted (EN) : (p.) bezustanny
+[uninterruptedly]uninterruptedly (EN) : (p-sł.) bezustannie
+[uninviting]uninviting (EN) : (p.) nieapetyczny
+[union]union (EN) : (rz.) połączenie; (rz.) suma; (rz.) unia; (rz.) zjednoczenie; (rz.) złącze; (rz.) związek
+[unionist]unionist (EN) : (rz.) unionista
+[unionize]unionize (EN) : (cz.) jednoczyć; (cz.) zjednoczyć
+[unionized]unionized (EN) : (p.) związkowy
+[unique]unique (EN) : (p.) jednoznaczny; (p.) jedyny; (p.) swoisty; (p.) unikalny; (p.) unikatowy; (p.) wyjątkowy
+[uniquely]uniquely (EN) : (p-sł.) unikalnie; (p-sł.) wyjątkowo
+[uniqueness]uniqueness (EN) : (rz.) jednoznaczność; (rz.) niepowtarzalność; (rz.) rzadkość; (rz.) swoistość; (rz.) wyjątkowość
+[unison]unison (EN) : (rz.) harmonia; (rz.) jednomyślność; (rz.) zgoda
+[unit]unit (EN) : (rz.) agregat; (rz.) część; (rz.) element; (rz.) jednostka; (rz.) jedynka; (rz.) rozdział; (rz.) segment; (rz.) zespół
+[unitary]unitary (EN) : (p.) jednolity
+[unite]unite (EN) : (cz.) jednoczyć; (cz.) łączyć; (cz.) połączyć; (cz.) scalać; (cz.) zjednoczyć
+[united]united (EN) : (p.) chóralny
+[unitize]unitize (EN) : (cz.) scalać
+[unity]unity (EN) : (rz.) jedność; (rz.) jedynka; (rz.) wspólnota
+[univalent]univalent (EN) : (p.) jednowartościowy
+[universal]universal (EN) : (p.) nagminny; (p.) ogólnoludzki; (p.) powszechny; (p.) uniwersalny; (p.) wszechstronny; (p.) wszechświatowy
+[universalism]universalism (EN) : (rz.) uniwersalizm
+[universality]universality (EN) : (rz.) uniwersalność
+[universally]universally (EN) : (p-sł.) ogólnie; (p-sł.) powszechnie
+[universals]universals (EN) : (rz.) uniwersalia
+[universe]universe (EN) : (rz.) wszechświat
+[university]university (EN) : (rz.) uczelnia; (rz.) uniwersytet; (rz.) wszechnica
+[univocal]univocal (EN) : (p.) jednoznaczny; (rz.) wyraz
+[unjust]unjust (EN) : (p.) niesłuszny; (p.) niesprawiedliwy
+[unjustifiable]unjustifiable (EN) : (p.) nieuzasadniony
+[unjustifiably]unjustifiably (EN) : (p-sł.) bezzasadnie; (p-sł.) niesłusznie
+[unjustified]unjustified (EN) : (p.) bezpodstawny
+[unkempt]unkempt (EN) : (p.) nieogładzony; (p.) zaniedbany
+[unkind]unkind (EN) : (p.) niedobry; (p.) niegrzeczny; (p.) niełaskawy; (p.) niemiły; (p.) niepoczciwy; (p.) nieuprzejmy; (p.) nieżyczliwy
+[unkindly]unkindly (EN) : (p-sł.) nieprzyjaźnie; (p-sł.) nieuprzejmie; (p-sł.) nieżyczliwie
+[unkindness]unkindness (EN) : (rz.) nieuprzejmość; (rz.) nieżyczliwość
+[unknowingly]unknowingly (EN) : (p-sł.) bezwiednie; (p-sł.) nieświadomie
+[unknown]unknown (EN) : (p.) niewiadomy; (p.) nieznajomy; (p.) nieznany; (rz.) niewiadoma
+[unlabeled]unlabeled (EN) : (p.) nieoznaczony
+[unlace]unlace (EN) : (cz.) odsznurować; (cz.) rozsznurować
+[unlade]unlade (EN) : (cz.) rozładować; (cz.) wyładować
+[unlash]unlash (EN) : (cz.) odwiązać; (cz.) zluzować
+[unlatch]unlatch (EN) : (cz.) otworzyć
+[unlawful]unlawful (EN) : (p.) bezprawny; (p.) nielegalny; (p.) nieprawny
+[unlawfully]unlawfully (EN) : (p-sł.) bezprawnie; (p-sł.) nielegalnie
+[unlawfulness]unlawfulness (EN) : (rz.) bezprawie
+[unleaded]unleaded (EN) : (p.) bezołowiowy
+[unlearn]unlearn (EN) : (cz.) oduczać
+[unleash]unleash (EN) : (cz.) uwalniać; (cz.) wyzwalać; (cz.) wyzwolić
+[unleavened]unleavened (EN) : (p.) przaśny
+[unless]unless (EN) : (spójnik) czy; (spójnik) jeśli; (spójnik) jeżeli
+[unlettered]unlettered (EN) : (p.) niepiśmienny
+[unlike]unlike (EN) : (p.) niepodobny; (p.) nieprawdopodobny
+[unlikelihood]unlikelihood (EN) : (rz.) nieprawdopodobieństwo
+[unlikely]unlikely (EN) : (p.) nieprawdopodobny
+[unlimited]unlimited (EN) : (p.) bezbrzeżny; (p.) bezgraniczny; (p.) nieograniczony; (p.) ogromny
+[unlink]unlink (EN) : (cz.) odczepiać
+[unlit]unlit (EN) : (p.) nieoświetlony
+[unload]unload (EN) : (cz.) odciążyć; (cz.) rozładować; (cz.) rozładowywać; (cz.) usuwać; (cz.) wyładować; (cz.) wyładowywać
+[unlock]unlock (EN) : (cz.) odbezpieczać; (cz.) odblokować; (cz.) odblokowywać; (cz.) odryglować; (cz.) otwierać; (cz.) otworzyć
+[unloose]unloose (EN) : (cz.) rozluźniać; (cz.) rozluźnić; (cz.) rozpuścić; (cz.) rozpuszczać; (cz.) rozwiązać
+[unluckily]unluckily (EN) : (p-sł.) niefortunnie; (p-sł.) niestety
+[unlucky]unlucky (EN) : (p.) fatalny; (p.) feralny; (p.) nieszczęśliwy; (p.) pechowy
+[unman]unman (EN) : (cz.) zniechęcać; (cz.) zniechęcić
+[unmanageable]unmanageable (EN) : (p.) krnąbrny; (p.) niesforny
+[unmanageably]unmanageably (EN) : (p-sł.) krnąbrnie; (p-sł.) nieporęcznie
+[unmanly]unmanly (EN) : (p.) niemęski; (p.) słaby; (p.) tchórzliwy
+[unmanned]unmanned (EN) : (p.) bezzałogowy
+[unmarked]unmarked (EN) : (p.) nieskazitelny
+[unmarried]unmarried (EN) : (p.) bezżenny; (p.) kawalerski; (p.) nieżonaty
+[unmask]unmask (EN) : (cz.) demaskować; (cz.) rozkonspirować; (cz.) ujawniać; (cz.) zdekonspirować; (cz.) zdemaskować
+[unmatched]unmatched (EN) : (p.) bezkonkurencyjny; (p.) niezrównany
+[unmeaning]unmeaning (EN) : (p.) bezrozumny; (p.) nieistotny
+[unmeant]unmeant (EN) : (p.) mimowolny
+[unmemorable]unmemorable (EN) : (p.) niepamiętny
+[unmentionable]unmentionable (EN) : (p.) niecenzuralny
+[unmerciful]unmerciful (EN) : (p.) bezlitosny; (p.) nielitościwy; (p.) niemiłosierny
+[unmethodical]unmethodical (EN) : (p.) niesystematyczny
+[unmindful]unmindful (EN) : (p.) niepomny; (p.) nierozważny
+[unmistakable]unmistakable (EN) : (p.) niewątpliwy; (p.) oczywisty; (p.) wyraźny
+[unmistakeable]unmistakeable (EN) : (p.) niedwuznaczny; (p.) niewątpliwy; (p.) wyraźny
+[unmitigated]unmitigated (EN) : (p.) absolutny; (p.) całkowity; (p.) kompletny; (p.) prawdziwy
+[unmodified]unmodified (EN) : (p.) niemodyfikowany
+[unmoor]unmoor (EN) : (cz.) odcumować; (rz.) odcumowanie
+[unmoral]unmoral (EN) : (p.) niemoralny; (rz.) niemoralność
+[unmotivated]unmotivated (EN) : (cz.) umotywować
+[unmoved]unmoved (EN) : (p.) niewzruszony; (p.) obojętny
+[unmusical]unmusical (EN) : (p.) niemuzykalny
+[unnamed]unnamed (EN) : (p.) bezimienny
+[unnatural]unnatural (EN) : (p.) nienaturalny; (p.) wyrodny
+[unnaturally]unnaturally (EN) : (p-sł.) nienaturalnie
+[unnaturalness]unnaturalness (EN) : (rz.) nienaturalność
+[unnecessarily]unnecessarily (EN) : (p-sł.) niepotrzebnie
+[unnecessary]unnecessary (EN) : (p.) niepotrzebny; (p.) zbędny; (p.) zbyteczny
+[unneeded]unneeded (EN) : (p.) niepotrzebny
+[unnerve]unnerve (EN) : (cz.) osłabiać; (cz.) osłabić; (cz.) zniechęcać; (cz.) zniechęcić
+[unnoticed]unnoticed (EN) : (p.) zlekceważony
+[unobjectionable]unobjectionable (EN) : (p.) bezsprzeczny
+[unobtainable]unobtainable (EN) : (p.) niedostępny
+[unobtrusive]unobtrusive (EN) : (p.) dyskretny; (p.) skromny
+[unoffending]unoffending (EN) : (p.) nieszkodliwy
+[unofficial]unofficial (EN) : (p.) nieoficjalny
+[unofficially]unofficially (EN) : (p-sł.) nieoficjalnie
+[unoriginal]unoriginal (EN) : (p.) nieoryginalny
+[unorthodox]unorthodox (EN) : (p.) niekonwencjonalny; (p.) nieortodoksyjny
+[unostentatious]unostentatious (EN) : (p.) skromny
+[unpack]unpack (EN) : (cz.) odpakować; (cz.) odpakowywać; (cz.) rozpakować; (cz.) rozpakowywać; (cz.) wypakować; (cz.) wypakowywać
+[unpacked]unpacked (EN) : (cz.) rozpakowywać
+[unpaid]unpaid (EN) : (p.) bezinteresowny; (p.) bezpłatny
+[unpaired]unpaired (EN) : (p.) nieparzysty
+[unpalatable]unpalatable (EN) : (p.) nieprzyjemny; (p.) niesmaczny
+[unparalleled]unparalleled (EN) : (p.) bezprzykładny; (p.) niezrównany
+[unpardonable]unpardonable (EN) : (p.) nieprzebaczalny
+[unpardonably]unpardonably (EN) : (p-sł.) karygodnie
+[unperturbed]unperturbed (EN) : (p.) zaniepokojony
+[unpick]unpick (EN) : (cz.) rozpruć
+[unplanned]unplanned (EN) : (p.) bezplanowy; (p.) nieplanowy; (p.) niezaplanowany; (p.) pozaplanowy
+[unpleasant]unpleasant (EN) : (p.) niemiły; (p.) nieprzyjemny; (p.) niesympatyczny; (p.) przykry
+[unpleasantly]unpleasantly (EN) : (p-sł.) niemile; (p-sł.) nieprzyjemnie; (p-sł.) przykro
+[unpleasantness]unpleasantness (EN) : (rz.) nieprzyjemność
+[unplug]unplug (EN) : (cz.) wyłączać
+[unplugged]unplugged (EN) : (p.) akustyczny
+[unpopular]unpopular (EN) : (p.) niepopularny
+[unpopularity]unpopularity (EN) : (rz.) niepopularność
+[unpractical]unpractical (EN) : (p.) niepraktyczny; (p.) niezaradny
+[unprecedented]unprecedented (EN) : (p.) bezprecedensowy; (p.) bezprzykładny; (p.) uprzejmy
+[unpredictability]unpredictability (EN) : (rz.) nieobliczalność; (rz.) nieprzewidywalność
+[unpredictable]unpredictable (EN) : (p.) nieobliczalny; (p.) nieprzewidywalny
+[unpredictably]unpredictably (EN) : (p-sł.) nieprzewidywalnie
+[unprejudiced]unprejudiced (EN) : (p.) bezstronny; (p.) nieuprzedzony
+[unpretending]unpretending (EN) : (p.) bezpretensjonalny
+[unpretentious]unpretentious (EN) : (p.) bezpretensjonalny; (p.) skromny
+[unpretentiously]unpretentiously (EN) : (p-sł.) bezpretensjonalnie
+[unpretentiousness]unpretentiousness (EN) : (rz.) bezpretensjonalność
+[unprincipled]unprincipled (EN) : (p.) niegodziwy
+[unprintable]unprintable (EN) : (p.) niedrukowalny
+[unprocessed]unprocessed (EN) : (p.) nieprzerobiony
+[unproductive]unproductive (EN) : (p.) bezproduktywny; (p.) nieprodukcyjny; (p.) nieproduktywny; (p.) niewydajny
+[unprofessional]unprofessional (EN) : (p.) amatorski; (p.) dyletancki; (p.) niefachowy; (p.) nieprofesjonalny; (p.) niezawodowy
+[unprofitable]unprofitable (EN) : (p.) deficytowy; (p.) niedochodowy; (p.) niekorzystny; (p.) nieopłacalny; (p.) niepopłatny; (p.) nierentowny
+[unprompted]unprompted (EN) : (p.) samorzutny
+[unprotected]unprotected (EN) : (p.) bezbronny; (p.) niechroniony
+[unpunctual]unpunctual (EN) : (p.) niepunktualny; (p.) nieterminowy
+[unpunctuality]unpunctuality (EN) : (rz.) niepunktualność
+[unpunished]unpunished (EN) : (p.) bezkarny
+[unqualified]unqualified (EN) : (p.) bezwarunkowy; (p.) bezwzględny
+[unquenchable]unquenchable (EN) : (p.) nieugaszony
+[unquestionable]unquestionable (EN) : (p.) bezsporny; (p.) bezsprzeczny; (p.) niewątpliwy; (p.) pewny
+[unquestionably]unquestionably (EN) : (p-sł.) bezspornie; (p-sł.) niechybnie; (p-sł.) niewątpliwie
+[unquestioning]unquestioning (EN) : (p.) bezwarunkowy; (p.) bezwzględny; (p.) ślepy
+[unquiet]unquiet (EN) : (p.) niespokojny
+[unravel]unravel (EN) : (cz.) odplątać; (cz.) odpłatać; (cz.) rozmotywać; (cz.) rozplatać; (cz.) rozplątać; (cz.) rozplątywać; (cz.) rozwiązywać; (cz.) rozwikłać; (cz.) strzępić
+[unreachable]unreachable (EN) : (p.) nieosiągalny; (p.) nieuchwytny
+[unread]unread (EN) : (p.) nieoczytany; (p.) niewykształcony
+[unreadable]unreadable (EN) : (p.) nieczytelny
+[unready]unready (EN) : (p.) niegotowy
+[unreal]unreal (EN) : (p.) nierealny; (p.) nierzeczywisty
+[unrealistic]unrealistic (EN) : (p.) nierealistyczny; (p.) nierealny; (p.) nieżyciowy
+[unrealistically]unrealistically (EN) : (p-sł.) nierealistycznie; (p-sł.) nierealnie
+[unreality]unreality (EN) : (rz.) chimeryczność; (rz.) nierealność
+[unrealizable]unrealizable (EN) : (p.) nierealny
+[unreasonable]unreasonable (EN) : (p.) bezrozumny; (p.) nadmierny; (p.) niedorzeczny; (p.) nierozsądny; (p.) wygórowany
+[unreasonableness]unreasonableness (EN) : (rz.) nierozsądek
+[unreasonably]unreasonably (EN) : (p-sł.) bezzasadnie; (p-sł.) nierozsądnie; (p-sł.) niewłaściwie
+[unreasoning]unreasoning (EN) : (p.) bezmyślny; (p.) bezrozumny
+[unrecognizable]unrecognizable (EN) : (p.) nierozpoznawalny
+[unrecorded]unrecorded (EN) : (p.) nienagrany
+[unreel]unreel (EN) : (cz.) odwijać; (cz.) rozmotać; (cz.) rozwijać
+[unreeled]unreeled (EN) : (cz.) odwijać
+[unreeling]unreeling (EN) : (rz.) odwijanie; (rz.) rozwijanie
+[unrefined]unrefined (EN) : (p.) niewybredny
+[unregenerate]unregenerate (EN) : (p.) niemoralny
+[unrelenting]unrelenting (EN) : (p.) bezlitosny; (p.) uporczywy
+[unrelentingly]unrelentingly (EN) : (p-sł.) niemiłosiernie; (p-sł.) nieubłaganie
+[unreliability]unreliability (EN) : (rz.) niesłowność; (rz.) niesolidność; (rz.) niewiarygodność
+[unreliable]unreliable (EN) : (p.) niemiarodajny; (p.) niepewny; (p.) nierzetelny; (p.) niesłowny; (p.) niesolidny; (p.) niesumienny; (p.) niewiarygodny; (p.) zawodny
+[unreligious]unreligious (EN) : (p.) niereligijny
+[unremarkable]unremarkable (EN) : (p.) przeciętny
+[unremitting]unremitting (EN) : (p.) nieprzerwany; (p.) nieustanny
+[unrepresentative]unrepresentative (EN) : (p.) niereprezentatywny
+[unreserved]unreserved (EN) : (p.) bezwzględny; (p.) nieograniczony; (p.) nieopanowany; (p.) szczery
+[unresponsive]unresponsive (EN) : (p.) obojętny
+[unrest]unrest (EN) : (rz.) niepokój; (rz.) wzburzenie
+[unrestrained]unrestrained (EN) : (p.) swobodny
+[unrestricted]unrestricted (EN) : (p.) nieograniczony; (p.) swobodny
+[unrestrictedly]unrestrictedly (EN) : (rz.) nieograniczenie
+[unrewarding]unrewarding (EN) : (p.) niewdzięczny
+[unrhymed]unrhymed (EN) : (p.) bezrymowy
+[unrig]unrig (EN) : (cz.) rozbrajać; (cz.) roztaklować
+[unrivalled]unrivalled (EN) : (p.) bezkonkurencyjny
+[unroll]unroll (EN) : (cz.) odsłaniać; (cz.) odsłonić; (cz.) odwijać; (cz.) roztoczyć; (cz.) rozwijać; (cz.) rozwinąć
+[unromantic]unromantic (EN) : (p.) nieromantyczny
+[unruffled]unruffled (EN) : (p.) spokojny
+[unruly]unruly (EN) : (p.) krnąbrny; (p.) niesforny
+[unsaddle]unsaddle (EN) : (cz.) rozkulbaczać; (cz.) rozsiodłać
+[unsafe]unsafe (EN) : (p.) niebezpieczny; (p.) niepewny
+[unsanitary]unsanitary (EN) : (p.) antysanitarny; (p.) niehigieniczny
+[unsatisfactory]unsatisfactory (EN) : (p.) niedostateczny; (p.) niezadowalający
+[unsavoury]unsavoury (EN) : (p.) cuchnący; (p.) niemiły; (p.) niesmaczny; (p.) przykry
+[unsay]unsay (EN) : (cz.) odwołać
+[unscientific]unscientific (EN) : (p.) nienaukowy
+[unscramble]unscramble (EN) : (cz.) rozszyfrować
+[unscrew]unscrew (EN) : (cz.) odkręcać; (cz.) odkręcić; (cz.) odśrubować; (cz.) rozkręcać; (cz.) rozkręcić; (cz.) rozśrubować
+[unscrupulous]unscrupulous (EN) : (p.) niegodziwy; (p.) niesumienny
+[unseal]unseal (EN) : (cz.) odpieczętować; (cz.) rozpieczętować
+[unseasonable]unseasonable (EN) : (p.) nieodpowiedni; (p.) niepomyślny; (p.) niewczesny
+[unseemliness]unseemliness (EN) : (rz.) nieprzyzwoitość
+[unseemly]unseemly (EN) : (p.) nieprzyzwoity; (p.) niestosowny; (p.) niewłaściwy
+[unseen]unseen (EN) : (p.) niewidoczny; (p.) niewidzialny
+[unselfish]unselfish (EN) : (p.) bezinteresowny; (p.) niesamolubny
+[unselfishly]unselfishly (EN) : (p-sł.) bezinteresownie; (p-sł.) niesamolubnie
+[unselfishness]unselfishness (EN) : (rz.) altruizm
+[unsentimental]unsentimental (EN) : (p.) niesentymentalny
+[unserious]unserious (EN) : (p.) niepoważny
+[unsettle]unsettle (EN) : (cz.) bałaganić; (cz.) dezorganizować; (cz.) rozstrajać; (cz.) zachwiać; (cz.) zakłócać
+[unsettled]unsettled (EN) : (p.) bezdomny; (p.) mętny; (p.) niepewny; (p.) niespokojny
+[unshackle]unshackle (EN) : (cz.) odszaklować; (cz.) rozkuć; (cz.) uwalniać
+[unshakable]unshakable (EN) : (p.) żelazny
+[unshakeable]unshakeable (EN) : (p.) niezmienny
+[unshaken]unshaken (EN) : (p.) niewzruszony
+[unsheathe]unsheathe (EN) : (cz.) dekonspirować; (cz.) obnażyć
+[unsheltered]unsheltered (EN) : (p.) nieosłonięty
+[unship]unship (EN) : (cz.) wyładować
+[unshrinking]unshrinking (EN) : (p.) niezachwiany
+[unsightly]unsightly (EN) : (p.) brzydki; (p.) nieestetyczny; (p.) niemiły; (p.) szkaradny; (p.) szpetny
+[unsigned]unsigned (EN) : (p.) nieoznaczony
+[unskilful]unskilful (EN) : (p.) niezręczny
+[unskilled]unskilled (EN) : (p.) niewprawny; (p.) niewykwalifikowany
+[unsociable]unsociable (EN) : (p.) nietowarzyski
+[unsocial]unsocial (EN) : (p.) nieobywatelski
+[unsolder]unsolder (EN) : (cz.) odlutować; (cz.) rozlutować
+[unsolicited]unsolicited (EN) : (p.) niezapowiedziany
+[unsolvable]unsolvable (EN) : (p.) nierozwiązywalny
+[unsophisticated]unsophisticated (EN) : (p.) naturalny; (p.) niewinny; (p.) prostolinijny; (p.) prosty; (p.) szczery
+[unsound]unsound (EN) : (p.) fałszywy; (p.) niesolidny; (p.) niezdrowy; (p.) wadliwy; (p.) zepsuty
+[unsparing]unsparing (EN) : (p.) bezlitosny; (p.) hojny; (p.) szczodry
+[unspeakable]unspeakable (EN) : (p.) niewymowny; (p.) niewypowiedziany; (p.) okropny
+[unspeakably]unspeakably (EN) : (p-sł.) niewymownie; (p-sł.) niewypowiedzianie
+[unspecified]unspecified (EN) : (p.) nieokreślony
+[unsportsmanlike]unsportsmanlike (EN) : (p.) niehonorowy
+[unstable]unstable (EN) : (p.) chwiejny; (p.) niestabilny; (p.) niestały; (p.) niestateczny
+[unsteadily]unsteadily (EN) : (p-sł.) niepewnie
+[unsteadiness]unsteadiness (EN) : (rz.) chwiejność; (rz.) niestałość; (rz.) zmienność
+[unsteady]unsteady (EN) : (p.) chwiejny; (p.) niepewny; (p.) nierówny; (p.) niestacjonarny; (p.) nietrwały; (p.) nieustalony
+[unstitch]unstitch (EN) : (cz.) popruć; (cz.) pruć; (cz.) rozpruć; (cz.) rozpruwać
+[unstop]unstop (EN) : (cz.) odetkać
+[unstrained]unstrained (EN) : (p.) naturalny
+[unstring]unstring (EN) : (cz.) odsznurować
+[unsubscribe]unsubscribe (EN) : (cz.) wypisać
+[unsubstantiated]unsubstantiated (EN) : (p.) bezpodstawny
+[unsuccessful]unsuccessful (EN) : (p.) bezowocny; (p.) nadaremny
+[unsuccessfully]unsuccessfully (EN) : (p-sł.) bezskutecznie
+[unsuitable]unsuitable (EN) : (p.) nieodpowiedni; (p.) niestosowny; (p.) niewłaściwy
+[unsuited]unsuited (EN) : (p.) nieodpowiedni
+[unsupported]unsupported (EN) : (p.) niedostępny; (p.) nieobsługiwany
+[unsure]unsure (EN) : (p.) niepewny
+[unsurpassable]unsurpassable (EN) : (p.) nieprzekraczalny
+[unsurpassed]unsurpassed (EN) : (p.) nieprześcigniony
+[unswerving]unswerving (EN) : (p.) niezmienny
+[unsymmetrical]unsymmetrical (EN) : (p.) niesymetryczny
+[unsympathetic]unsympathetic (EN) : (p.) antypatyczny; (p.) obojętny
+[untangle]untangle (EN) : (cz.) rozplątać; (cz.) rozwikłać
+[untaught]untaught (EN) : (p.) naturalny
+[unthinking]unthinking (EN) : (p.) bezmyślny
+[untidily]untidily (EN) : (p-sł.) nieporządnie
+[untidiness]untidiness (EN) : (rz.) bałaganiarstwo
+[untidy]untidy (EN) : (p.) niechlujny; (p.) nieczysty; (p.) nieporządny; (p.) niestaranny
+[untie]untie (EN) : (cz.) odwiązać; (cz.) rozpiąć; (cz.) rozwiązać; (cz.) rozwiązywać
+[until]until (EN) : (p-im.) do; (spójnik) aż; (spójnik) dopóki; (spójnik) dopóty
+[untimely]untimely (EN) : (p.) niewczesny
+[untiring]untiring (EN) : (p.) niezmordowany
+[unto]unto (EN) : (p-im.) do; (p-im.) ku; (p-im.) na
+[untold]untold (EN) : (p.) niewypowiedziany
+[untouchable]untouchable (EN) : (p.) elegancki; (p.) nietykalny
+[untoward]untoward (EN) : (p.) niefortunny; (p.) nieprzychylny; (p.) oporny
+[untracked]untracked (EN) : (p.) niedrożny
+[untrained]untrained (EN) : (p.) niewprawny; (p.) niezdyscyplinowany
+[untranslatable]untranslatable (EN) : (p.) nieprzetłumaczalny
+[untried]untried (EN) : (p.) nierówny
+[untroubled]untroubled (EN) : (p.) spokojny
+[untrue]untrue (EN) : (p.) fałszywy; (p.) nielojalny; (p.) nieprawdziwy; (p.) niewierny
+[untrustworthy]untrustworthy (EN) : (p.) niepewny; (p.) niewiarygodny; (p.) zawodny
+[untruth]untruth (EN) : (rz.) nieprawda
+[untruthful]untruthful (EN) : (p.) fałszywy; (p.) nieprawdomówny; (p.) nieprawdziwy
+[untruthfully]untruthfully (EN) : (p-sł.) nieprawdziwie
+[untutored]untutored (EN) : (p.) naturalny
+[untwist]untwist (EN) : (cz.) rozkręcać; (cz.) rozplatać
+[untypical]untypical (EN) : (p.) nietypowy
+[unusable]unusable (EN) : (p.) niestosowny; (p.) niezdatny
+[unusual]unusual (EN) : (p.) niecodzienny; (p.) niepowszedni; (p.) niezwyczajny; (p.) niezwykły
+[unusually]unusually (EN) : (p-sł.) nadzwyczaj; (p-sł.) nadzwyczajnie; (p-sł.) niebywale; (p-sł.) niezwykle
+[unutterable]unutterable (EN) : (p.) niewypowiedziany
+[unvaried]unvaried (EN) : (p.) jednolity; (p.) niezmienny
+[unveil]unveil (EN) : (cz.) odkryć; (cz.) odsłaniać; (cz.) odsłonić; (cz.) wyjawiać
+[unvoiced]unvoiced (EN) : (p.) bezdźwięczny
+[unwanted]unwanted (EN) : (p.) niepotrzebny
+[unwarlike]unwarlike (EN) : (p.) niewojowniczy
+[unwarranted]unwarranted (EN) : (p.) gołosłowny
+[unwary]unwary (EN) : (p.) nieostrożny; (p.) nieroztropny; (p.) nieświadomy
+[unwatched]unwatched (EN) : (p.) niestrzeżony
+[unwavering]unwavering (EN) : (p.) niezłomny
+[unwed]unwed (EN) : (p.) samotny
+[unwelcome]unwelcome (EN) : (p.) niepożądany; (p.) niewygodny
+[unwell]unwell (EN) : (p.) chory; (p.) niezdrowy
+[unwholesome]unwholesome (EN) : (p.) niehigieniczny; (p.) niezdrowy
+[unwieldy]unwieldy (EN) : (p.) nieporadny; (p.) nieporęczny; (p.) niezgrabny
+[unwilling]unwilling (EN) : (p.) niechętny; (p.) nieskłonny; (p.) nieskory
+[unwillingly]unwillingly (EN) : (p-sł.) niechętnie
+[unwillingness]unwillingness (EN) : (rz.) niechęć
+[unwind]unwind (EN) : (cz.) odprężać; (cz.) odwijać; (cz.) rozkręcać; (cz.) rozwijać; (cz.) zrelaksować
+[unwise]unwise (EN) : (p.) niemądry; (p.) nierozsądny; (p.) nieroztropny
+[unwisely]unwisely (EN) : (p-sł.) niemądrze
+[unwittingly]unwittingly (EN) : (p-sł.) bezwiednie; (p-sł.) nieświadomie
+[unwomanly]unwomanly (EN) : (p.) niekobiecy
+[unwonted]unwonted (EN) : (p.) nieprzywykły; (p.) niezwyczajny; (p.) niezwykły
+[unworldly]unworldly (EN) : (p.) nieświatowy; (p.) nieziemski
+[unworthily]unworthily (EN) : (p-sł.) niegodnie
+[unworthy]unworthy (EN) : (p.) niegodny; (p.) niegodzien; (p.) niewart
+[unwound]unwound (EN) : (cz.) odprężać
+[unwoven]unwoven (EN) : (cz.) utkać
+[unwrap]unwrap (EN) : (cz.) odpakować; (cz.) rozpakować; (cz.) rozpakowywać; (cz.) rozwijać; (cz.) rozwinąć
+[unyielding]unyielding (EN) : (p.) nieustępliwy
+[unzip]unzip (EN) : (cz.) rozpakować
+[up]up (EN) : (cz.) podnosić; (cz.) zwiększać; (p-im.) wzdłuż; (p-sł.) wysoko; (p-sł.) wzwyż; (rz.) góra; (rz.) hop
+[up-to-date]up-to-date (EN) : (p.) aktualny; (p.) modny; (p.) nowoczesny; (p.) współczesny
+[upbeat]upbeat (EN) : (p.) wesoły
+[upbraid]upbraid (EN) : (cz.) ganić; (cz.) karć; (cz.) łajać
+[upbringing]upbringing (EN) : (rz.) wychowanie
+[update]update (EN) : (cz.) aktualizować; (cz.) odświeżać; (cz.) uaktualniać; (cz.) unowocześniać; (cz.) zaktualizować; (rz.) aktualizowanie; (rz.) uaktualnienie
+[upend]upend (EN) : (cz.) przewracać; (cz.) przewrócić
+[upgrade]upgrade (EN) : (cz.) uaktualniać; (cz.) uaktualnić; (cz.) udoskonalać; (cz.) udoskonalić; (cz.) ulepszać; (cz.) unowocześniać; (cz.) unowocześnić; (cz.) zmodernizować; (rz.) wzniesienie
+[upheaval]upheaval (EN) : (rz.) przewrót; (rz.) wstrząs; (rz.) wyniesienie; (rz.) wypiętrzenie
+[upheld]upheld (EN) : (cz.) podtrzymywać
+[uphill]uphill (EN) : (p.) stromy; (p.) uciążliwy; (p.) żmudny; (p-sł.) stromo
+[uphold]uphold (EN) : (cz.) podtrzymywać; (cz.) popierać; (cz.) przestrzegać
+[upholder]upholder (EN) : (rz.) podpora
+[upholster]upholster (EN) : (cz.) obijać; (cz.) tapetować
+[upholsterer]upholsterer (EN) : (rz.) tapicer
+[upholsterer's]upholsterer's (EN) : (p.) tapicerski
+[upholstery]upholstery (EN) : (rz.) tapicerka; (rz.) tapicernia; (rz.) tapicerstwo
+[upkeep]upkeep (EN) : (rz.) przechowywanie; (rz.) utrzymanie
+[upland]upland (EN) : (p.) wyżynny; (rz.) płaskowzgórze; (rz.) wyżyna
+[uplift]uplift (EN) : (cz.) dźwigać; (cz.) podnieść; (cz.) podnosić; (cz.) wznieść; (rz.) otucha; (rz.) podniesienie; (rz.) podnoszenie; (rz.) podwyżka; (rz.) wyniesienie; (rz.) wypiętrzenie; (rz.) wzniesienie
+[upload]upload (EN) : (cz.) nagrać; (cz.) przesłać; (cz.) wgrać; (cz.) wrzucić
+[upon]upon (EN) : (p-im.) na; (p-im.) nad; (p-im.) u
+[upper]upper (EN) : (p.) górnośląski; (p.) górny; (rz.) cholewka; (rz.) góra; (rz.) przyszwa; (rz.) wieczernik; (rz.) wierzch
+[uppermost]uppermost (EN) : (p.) górujący; (p.) najwyższy
+[uppish]uppish (EN) : (p.) bezczelny; (p.) butny
+[upraise]upraise (EN) : (cz.) dźwigać; (cz.) dźwignąć
+[upright]upright (EN) : (p.) pionowy; (p.) prawy; (p.) prostoduszny; (p.) prostolinijny; (p.) prosty; (p.) rzetelny; (p.) uczciwy; (p.) wyprostowany
+[uprightly]uprightly (EN) : (p-sł.) uczciwie; (p-sł.) zacnie
+[uprightness]uprightness (EN) : (rz.) prawość; (rz.) prostoduszność
+[uprising]uprising (EN) : (rz.) insurekcja; (rz.) powstanie; (rz.) rewolta
+[uproar]uproar (EN) : (rz.) hałas; (rz.) rozruchy; (rz.) wrzawa; (rz.) zamieszanie; (rz.) zgiełk
+[uproarious]uproarious (EN) : (p.) hałaśliwy; (p.) huczny; (p.) wrzaskliwy
+[uproot]uproot (EN) : (cz.) wykorzeniać; (cz.) wykorzenić; (cz.) wypleniać; (cz.) wyrwać; (cz.) wyrywać
+[upshot]upshot (EN) : (rz.) koniec; (rz.) rezultat; (rz.) wynik
+[upside]upside (EN) : (p.) górny
+[upsize]upsize (EN) : (cz.) rozbudować; (cz.) rozszerzyć
+[upstairs]upstairs (EN) : (rz.) góra; (rz.) piętro
+[upstanding]upstanding (EN) : (p.) pionowy; (p.) zdrowy
+[upstart]upstart (EN) : (rz.) dorobkiewicz; (rz.) parweniusz
+[upsurge]upsurge (EN) : (rz.) przypływ
+[upswing]upswing (EN) : (rz.) poprawa; (rz.) wzrost
+[uptake]uptake (EN) : (rz.) asymilacja; (rz.) przewód
+[upturn]upturn (EN) : (rz.) poprawa
+[upward]upward (EN) : (p.) zwyżkowy
+[uraemia]uraemia (EN) : (rz.) mocznica; (rz.) uremia
+[uranium]uranium (EN) : (rz.) uran
+[urban]urban (EN) : (p.) miejski; (p.) urbanistyczny; (p.) wielkomiejski
+[urbane]urbane (EN) : (p.) grzeczny; (p.) ugrzeczniony; (p.) układny; (p.) uprzejmy; (p.) wytworny
+[urbanite]urbanite (EN) : (rz.) mieszczanin; (rz.) mieszczuch
+[urbanity]urbanity (EN) : (rz.) uprzejmość
+[urbanization]urbanization (EN) : (rz.) urbanizacja
+[urbanize]urbanize (EN) : (cz.) urbanizować
+[urchin]urchin (EN) : (rz.) łobuz; (rz.) smyk; (rz.) ulicznik; (rz.) urwis
+[urea]urea (EN) : (rz.) karbamid; (rz.) mocznik
+[urethane]urethane (EN) : (rz.) uretan
+[urethra]urethra (EN) : (rz.) moczowód
+[urethral]urethral (EN) : (p.) cewkowy
+[urge]urge (EN) : (cz.) naglić; (cz.) nalegać; (cz.) namawiać; (cz.) nastawać; (cz.) ponaglać; (cz.) przynaglać; (rz.) parcie; (rz.) pragnienie
+[urgency]urgency (EN) : (p.) pilny; (rz.) nagłość; (rz.) naleganie; (rz.) natarczywość; (rz.) pilność; (rz.) pośpiech
+[urgent]urgent (EN) : (p.) naglący; (p.) nagły; (p.) pilny; (p.) usilny
+[urgently]urgently (EN) : (p-sł.) pilnie
+[uric]uric (EN) : (p.) moczowy
+[urinal]urinal (EN) : (rz.) pisuar; (rz.) urynał
+[urinary]urinary (EN) : (p.) moczowy; (p.) urologiczny
+[urinate]urinate (EN) : (cz.) sikać
+[urination]urination (EN) : (rz.) moczenie; (rz.) sikanie
+[urine]urine (EN) : (rz.) mocz; (rz.) uryna
+[urn]urn (EN) : (rz.) urna
+[urological]urological (EN) : (p.) urologiczny
+[urologist]urologist (EN) : (rz.) urolog
+[urology]urology (EN) : (rz.) urologia
+[ursine]ursine (EN) : (p.) niedźwiedzi
+[usability]usability (EN) : (rz.) użyteczność; (rz.) używalność
+[usable]usable (EN) : (p.) użyteczny; (p.) używalny; (p.) zdatny
+[usage]usage (EN) : (rz.) obchodzenie; (rz.) traktowanie; (rz.) użycie; (rz.) użytkowanie; (rz.) zastosowanie; (rz.) zużycie; (rz.) zwyczaj
+[use]use (EN) : (cz.) korzystać; (cz.) posługiwać; (cz.) skorzystać; (cz.) stosować; (cz.) użyć; (cz.) użytkować; (cz.) używać; (cz.) wykorzystać; (cz.) wykorzystywać; (cz.) zatrudniać; (rz.) korzyść; (rz.) korzystanie; (rz.) posługiwanie; (rz.) potrzeba; (rz.) użycie; (rz.) użytek; (rz.) użytkowanie; (rz.) używanie; (rz.) wykorzystanie; (rz.) wykorzystywanie; (rz.) zastosowanie; (rz.) zwyczaj
+[used]used (EN) : (cz.) posłużyć; (cz.) przeznaczyć; (cz.) spożytkować; (cz.) stosować; (cz.) wykorzystać; (cz.) wykorzystywać; (cz.) zastosować; (cz.) zużyć
+[useful]useful (EN) : (p.) celowy; (p.) pożyteczny; (p.) przydatny; (p.) utylitarny; (p.) użyteczny
+[usefully]usefully (EN) : (p-sł.) pomocnie; (p-sł.) pożytecznie; (p-sł.) użytecznie
+[usefulness]usefulness (EN) : (rz.) pożyteczność; (rz.) przydatność; (rz.) użyteczność; (rz.) użytkowość
+[useless]useless (EN) : (p.) bezcelowy; (p.) beznadziejny; (p.) bezużyteczny; (p.) niepożyteczny; (p.) nieprzydatny; (p.) płonny; (p.) zbędny
+[uselessly]uselessly (EN) : (p-sł.) bezużytecznie
+[uselessness]uselessness (EN) : (rz.) bezcelowość; (rz.) bezużyteczność
+[user]user (EN) : (rz.) odbiorca; (rz.) użytkownik
+[user-friendly]user-friendly (EN) : (p.) przyjazny
+[uses]uses (EN) : (rz.) zużywanie
+[usher]usher (EN) : (rz.) bileter; (rz.) funkcjonariusz; (rz.) szwajcar
+[usherette]usherette (EN) : (rz.) bileterka
+[usual]usual (EN) : (p.) nagminny; (p.) zwyczajny; (p.) zwykły
+[usually]usually (EN) : (p-sł.) zazwyczaj; (p-sł.) zwykle
+[usurer]usurer (EN) : (rz.) lichwiarz
+[usurp]usurp (EN) : (cz.) przywłaszczyć; (cz.) uzurpować
+[usurpation]usurpation (EN) : (rz.) uzurpacja
+[usurper]usurper (EN) : (rz.) samozwaniec; (rz.) uzurpator
+[usury]usury (EN) : (rz.) lichwa; (rz.) lichwiarstwo
+[utensil]utensil (EN) : (rz.) naczynie; (rz.) narzędzie; (rz.) półmisek; (rz.) przybór; (rz.) przybory; (rz.) sprzęt
+[utensils]utensils (EN) : (rz.) przybory; (rz.) sprzęt; (rz.) utensylia
+[uterine]uterine (EN) : (p.) maciczny
+[uterus]uterus (EN) : (rz.) macica
+[utilisation]utilisation (EN) : (rz.) utylizacja
+[utilitarian]utilitarian (EN) : (p.) utylitarny; (p.) utylitarystyczny; (p.) użyteczny; (p.) użytkowy; (rz.) utylitarysta
+[utilitarianism]utilitarianism (EN) : (rz.) utylitarność; (rz.) utylitaryzm
+[utility]utility (EN) : (rz.) pożytek; (rz.) przydatność; (rz.) użyteczność
+[utilization]utilization (EN) : (rz.) eksploatacja; (rz.) spożytkowanie; (rz.) utylizacja; (rz.) użytkowanie; (rz.) wykorzystanie; (rz.) zużytkowanie
+[utilize]utilize (EN) : (cz.) eksploatować; (cz.) spożytkować; (cz.) utylizować; (cz.) użytkować; (cz.) wykorzystywać; (cz.) zutylizować
+[utmost]utmost (EN) : (p.) krańcowy; (p.) najdalszy; (p.) ostateczny; (p.) szczytowy; (rz.) kraniec
+[utopia]utopia (EN) : (rz.) utopia
+[utopian]utopian (EN) : (rz.) utopista
+[utricle]utricle (EN) : (rz.) łagiewka
+[utter]utter (EN) : (cz.) wydawać; (cz.) wymawiać; (cz.) wypowiadać; (cz.) wyrażać; (p.) całkowity; (p.) krańcowy; (p.) stanowczy; (p.) wierutny
+[utterance]utterance (EN) : (rz.) wymowa; (rz.) wypowiedź; (rz.) wypowiedzenie; (rz.) wyraz; (rz.) wyrażenie
+[utterly]utterly (EN) : (p-sł.) całkowicie; (p-sł.) krańcowo; (p-sł.) zupełnie
+[uttermost]uttermost (EN) : (rz.) kraniec
+[uvular]uvular (EN) : (p.) języczkowy; (p.) uwularny

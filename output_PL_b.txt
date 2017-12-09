@@ -1,0 +1,1605 @@
+[barbara]Barbara (PL) : (rz.) Barbra
+[bartlomiej]Bartłomiej (PL) : (rz.) Bartholomew
+[beniamin]Beniamin (PL) : (rz.) Benjamin
+[brendy]Brendy (PL) : (rz.) brandy
+[ba]ba (PL) : (wykrzyknik) bah; (wykrzyknik) fie
+[baba]baba (PL) : (rz.) beetle; (rz.) crone; (rz.) sissy; (rz.) woman
+[babcia]babcia (PL) : (rz.) grandma; (rz.) grandmamma; (rz.) grandmother; (rz.) grandparent; (rz.) granny; (rz.) nanny
+[babiarz]babiarz (PL) : (rz.) playboy; (rz.) womanizer
+[babka]babka (PL) : (rz.) goby; (rz.) grandmother; (rz.) plantain
+[babranina]babranina (PL) : (rz.) mess; (rz.) smear
+[babrac]babrać (PL) : (cz.) daub; (cz.) smear; (cz.) smudge; (cz.) soil; (cz.) sprawl; (cz.) stain; (cz.) tamper
+[babski]babski (PL) : (p.) womanly; (p.) woman's
+[babsztyl]babsztyl (PL) : (rz.) beldam; (rz.) jade
+[babula]babula (PL) : (rz.) grandmamma
+[babunia]babunia (PL) : (rz.) grandma; (rz.) grandmother; (rz.) granny
+[baca]baca (PL) : (rz.) shepherd
+[bachanalia]bachanalia (PL) : (rz.) bacchanalia; (rz.) revelry
+[bachor]bachor (PL) : (rz.) bantling; (rz.) brat; (rz.) kid
+[bachusowy]bachusowy (PL) : (p.) bacchanal
+[baczenie]baczenie (PL) : (rz.) attendance; (rz.) attention; (rz.) vigilance
+[bacznie]bacznie (PL) : (p-sł.) attentively; (p-sł.) closely; (p-sł.) intently
+[bacznosc]baczność (PL) : (rz.) attention
+[baczny]baczny (PL) : (p.) alive; (p.) attentive; (p.) heedful; (p.) intent
+[baczyc]baczyć (PL) : (cz.) bewail; (cz.) overlook; (cz.) watch
+[badacz]badacz (PL) : (rz.) explorer; (rz.) investigator; (rz.) prospector; (rz.) researcher; (rz.) searcher; (rz.) spelunker
+[badacze]badacze (PL) : (rz.) researchers
+[badania]badania (PL) : (rz.) research
+[badanie]badanie (PL) : (rz.) analysis; (rz.) assay; (rz.) check-up; (rz.) enquiry; (rz.) exam; (rz.) examination; (rz.) exploration; (rz.) inquest; (rz.) inquiry; (rz.) inquisition; (rz.) investigation; (rz.) research; (rz.) scrutiny; (rz.) study; (rz.) trial
+[badawczy]badawczy (PL) : (p.) exploratory; (p.) inquiring; (p.) inquisitive; (p.) interrogative; (p.) investigative; (p.) investigatory; (p.) searching; (p.) speculative
+[badac]badać (PL) : (cz.) analyze; (cz.) assay; (cz.) canvass; (cz.) check; (cz.) examine; (cz.) explore; (cz.) inquire; (cz.) inspect; (cz.) interrogate; (cz.) investigate; (cz.) prove; (cz.) query; (cz.) reconnoitre; (cz.) research; (cz.) scan; (cz.) scout; (cz.) screen; (cz.) scrutinize; (cz.) search; (cz.) sift; (cz.) study; (cz.) survey; (cz.) test
+[badminton]badminton (PL) : (rz.) badminton
+[badyl]badyl (PL) : (rz.) stalk
+[badylarz]badylarz (PL) : (rz.) greengrocer
+[bagatela]bagatela (PL) : (rz.) bagatelle; (rz.) fleabite; (rz.) flea-bite; (rz.) kickshaw; (rz.) picayune; (rz.) pinpoint; (rz.) trifle
+[bagatelizowanie]bagatelizowanie (PL) : (rz.) belittling; (rz.) downplaying
+[bagatelizowac]bagatelizować (PL) : (cz.) belittle; (cz.) downplay; (cz.) ignore
+[bagatelka]bagatelka (PL) : (rz.) trifle
+[bagatelny]bagatelny (PL) : (p.) trivial
+[bagaz]bagaż (PL) : (rz.) baggage; (rz.) luggage
+[bagaznik]bagażnik (PL) : (rz.) boot; (rz.) carrier; (rz.) trunk
+[bagienny]bagienny (PL) : (p.) marshy
+[bagier]bagier (PL) : (rz.) digger; (rz.) dredger
+[bagietka]bagietka (PL) : (rz.) baguette
+[bagnet]bagnet (PL) : (rz.) bayonet; (rz.) dipstick
+[bagnisty]bagnisty (PL) : (p.) boggy; (p.) fenny; (p.) marshy; (p.) swampy
+[bagno]bagno (PL) : (rz.) bog; (rz.) fen; (rz.) marsh; (rz.) mire; (rz.) moor; (rz.) morass; (rz.) quagmire; (rz.) slough; (rz.) swamp
+[bagrownica]bagrownica (PL) : (rz.) bagger; (rz.) dredge; (rz.) dredger
+[bajarz]bajarz (PL) : (rz.) prattler
+[bajac]bajać (PL) : (cz.) twaddle
+[bajczarz]bajczarz (PL) : (rz.) gossip; (rz.) scandalmonger
+[bajda]bajda (PL) : (rz.) falsehood
+[bajdurzenie]bajdurzenie (PL) : (rz.) prate
+[bajdurzyc]bajdurzyć (PL) : (cz.) prate
+[bajecznie]bajecznie (PL) : (p-sł.) extremely; (p-sł.) fabulously
+[bajeczny]bajeczny (PL) : (p.) fabulous; (p.) fairy; (p.) legendary
+[bajer]bajer (PL) : (rz.) blarney
+[bajerancki]bajerancki (PL) : (p.) cool
+[bajka]bajka (PL) : (rz.) fable; (rz.) fairytale; (rz.) fairy-tale; (rz.) story; (rz.) tale
+[bajkopisarz]bajkopisarz (PL) : (rz.) fabulist
+[bajkowo]bajkowo (PL) : (p-sł.) fabulously
+[bajkowy]bajkowy (PL) : (p.) fabulous; (p.) magic
+[bajoro]bajoro (PL) : (rz.) morass; (rz.) puddle
+[bajonski]bajoński (PL) : (p.) prodigious
+[bajronizm]bajronizm (PL) : (rz.) Byronism
+[bajt]bajt (PL) : (rz.) byte; (rz.) octet
+[bajtowy]bajtowy (PL) : (p.) byte-serial
+[bak]bak (PL) : (rz.) container; (rz.) sideburn; (rz.) tank
+[bakalie]bakalie (PL) : (rz.) sweetmeats
+[bakarat]bakarat (PL) : (rz.) baccarat
+[bakalarz]bakałarz (PL) : (rz.) bachelor; (rz.) teacher
+[bakburta]bakburta (PL) : (rz.) larboard
+[bakcyl]bakcyl (PL) : (rz.) bacillus; (rz.) germ
+[bakelit]bakelit (PL) : (rz.) bakelite
+[baki]baki (PL) : (rz.) sideburns
+[bakier]bakier (PL) : (rz.) atilt
+[baksztag]baksztag (PL) : (rz.) backstay
+[bakteria]bakteria (PL) : (rz.) bacteria; (rz.) bacterium
+[bakterie]bakterie (PL) : (rz.) bacteria
+[bakteriobojczy]bakteriobójczy (PL) : (p.) antiseptic; (p.) bactericidal; (p.) germicidal; (p.) germicide
+[bakteriolog]bakteriolog (PL) : (rz.) bacteriologist
+[bakteriologia]bakteriologia (PL) : (rz.) bacteriology
+[bakteriologiczny]bakteriologiczny (PL) : (p.) bacteriological
+[bakteryjny]bakteryjny (PL) : (p.) bacterial
+[baklazan]bakłażan (PL) : (rz.) aubergine; (rz.) eggplant
+[bal]bal (PL) : (rz.) bale; (rz.) balk; (rz.) ball; (rz.) dance; (rz.) dancing; (rz.) deal; (rz.) log; (rz.) plank
+[balanga]balanga (PL) : (rz.) thrash
+[balans]balans (PL) : (rz.) balance; (rz.) balancing-pole
+[balansowac]balansować (PL) : (cz.) balance; (cz.) bob
+[balas]balas (PL) : (rz.) baluster; (rz.) banister
+[balast]balast (PL) : (rz.) ballast
+[balastowanie]balastowanie (PL) : (rz.) ballast; (rz.) ballasting
+[balata]balata (PL) : (rz.) balata
+[baldach]baldach (PL) : (rz.) baldachin; (rz.) umbel
+[baldachim]baldachim (PL) : (rz.) canopy
+[baldaszek]baldaszek (PL) : (rz.) whorl
+[baldaszkowaty]baldaszkowaty (PL) : (p.) umbellate
+[balerina]balerina (PL) : (rz.) ballerina
+[baleron]baleron (PL) : (rz.) gammon; (rz.) ham
+[balet]balet (PL) : (rz.) ballet
+[baletnica]baletnica (PL) : (rz.) ballerina; (rz.) ballet-dancer
+[baletnik]baletnik (PL) : (rz.) ballet-dancer
+[balia]balia (PL) : (rz.) basin; (rz.) tub; (rz.) washtub; (rz.) wash-tub
+[balista]balista (PL) : (rz.) ballista
+[balistyczny]balistyczny (PL) : (p.) ballistic; (p.) projectile
+[balistyka]balistyka (PL) : (rz.) ballistics; (rz.) gunnery
+[balkon]balkon (PL) : (rz.) balcony; (rz.) gallery
+[ballada]ballada (PL) : (rz.) ballad
+[balneolog]balneolog (PL) : (rz.) balneologist
+[balneologia]balneologia (PL) : (rz.) balneology; (rz.) spas
+[balon]balon (PL) : (rz.) balloon; (rz.) bubble; (rz.) carboy; (rz.) demijohn
+[baloniarstwo]baloniarstwo (PL) : (rz.) aerostation; (rz.) ballooning
+[baloniarz]baloniarz (PL) : (rz.) balloonist
+[balonik]balonik (PL) : (rz.) ballonet; (rz.) balloon; (rz.) bubble
+[balot]balot (PL) : (rz.) poll
+[balotaz]balotaż (PL) : (rz.) ballot
+[balotowanie]balotowanie (PL) : (rz.) ballot; (rz.) balloting
+[balotowac]balotować (PL) : (cz.) pip
+[balowac]balować (PL) : (cz.) dance; (cz.) party
+[balowy]balowy (PL) : (p.) bal
+[balsam]balsam (PL) : (rz.) balm; (rz.) balsam; (rz.) salve
+[balsamiczny]balsamiczny (PL) : (p.) balmy; (p.) balsamic; (p.) soothing
+[balsamista]balsamista (PL) : (rz.) embalmer
+[balsamowanie]balsamowanie (PL) : (rz.) embalmment
+[balsamowac]balsamować (PL) : (cz.) embalm; (cz.) perfume
+[balsamowy]balsamowy (PL) : (p.) balmy
+[balustrada]balustrada (PL) : (rz.) balustrade; (rz.) banister; (rz.) breastwork; (rz.) guardrail; (rz.) guard-rail; (rz.) handrail; (rz.) hand-rail; (rz.) parapet; (rz.) railing
+[balwierz]balwierz (PL) : (rz.) barber
+[bambetle]bambetle (PL) : (rz.) clobber; (rz.) rubbish
+[bambosz]bambosz (PL) : (rz.) carpet-slippers
+[bambus]bambus (PL) : (rz.) bamboo
+[banalizacja]banalizacja (PL) : (rz.) trivialization
+[banalizowac]banalizować (PL) : (cz.) trivialize
+[banalnie]banalnie (PL) : (p-sł.) banally; (p-sł.) trivially
+[banalnosc]banalność (PL) : (rz.) banality; (rz.) humdrum; (rz.) tediousness; (rz.) triteness
+[banalny]banalny (PL) : (p.) banal; (p.) commonplace; (p.) corny; (p.) hackneyed; (p.) platitudinous; (p.) prosy; (p.) stale; (p.) trite; (p.) trivial; (p.) uninspired
+[banan]banan (PL) : (rz.) banana
+[banal]banał (PL) : (rz.) banality; (rz.) commonplace; (rz.) hokum; (rz.) platitude; (rz.) tag; (rz.) triteness
+[banda]banda (PL) : (rz.) band; (rz.) border; (rz.) caboodle; (rz.) cushion; (rz.) gang
+[bandaz]bandaż (PL) : (rz.) bandage; (rz.) ligature; (rz.) swathe
+[bandazowanie]bandażowanie (PL) : (rz.) bandaging; (rz.) banding
+[bandazowac]bandażować (PL) : (cz.) bandage; (cz.) dress; (cz.) swathe
+[bandera]bandera (PL) : (rz.) banner; (rz.) ensign; (rz.) flag
+[banderola]banderola (PL) : (rz.) banderol; (rz.) counterfoil; (rz.) streamer; (rz.) wrapper
+[bandolier]bandolier (PL) : (rz.) bandoleer
+[bandycki]bandycki (PL) : (p.) criminal
+[bandyta]bandyta (PL) : (rz.) bandit; (rz.) brigand; (rz.) criminal; (rz.) cutthroat; (rz.) cut-throat; (rz.) gangster; (rz.) mugger; (rz.) robber; (rz.) thug
+[bandytyzm]bandytyzm (PL) : (rz.) banditry; (rz.) burglary; (rz.) robbery
+[bandzior]bandzior (PL) : (rz.) baddie; (rz.) bandit; (rz.) belly; (rz.) gangster; (rz.) hoodlum; (rz.) robber; (rz.) tug
+[bandzo]bandżo (PL) : (rz.) banjo
+[bania]bania (PL) : (rz.) calabash; (rz.) cupola; (rz.) flagon; (rz.) gourd
+[baniak]baniak (PL) : (rz.) barrel
+[baniasty]baniasty (PL) : (p.) bulging
+[banicja]banicja (PL) : (rz.) ban; (rz.) banishment; (rz.) exile; (rz.) outlawry
+[banita]banita (PL) : (rz.) exile; (rz.) outcast; (rz.) outlaw
+[banjo]banjo (PL) : (rz.) banjo
+[bank]bank (PL) : (rz.) bank; (rz.) banks
+[bankier]bankier (PL) : (rz.) banker
+[bankierski]bankierski (PL) : (p.) banker's
+[bankierstwo]bankierstwo (PL) : (rz.) banking
+[bankiet]bankiet (PL) : (rz.) banquet
+[bankietowac]bankietować (PL) : (cz.) banquet
+[banknot]banknot (PL) : (rz.) banknote; (rz.) bank-note; (rz.) bill; (rz.) greenback; (rz.) green-back; (rz.) note
+[bankowiec]bankowiec (PL) : (rz.) banker
+[bankowosc]bankowość (PL) : (rz.) banking
+[bankructwo]bankructwo (PL) : (rz.) bankrupt; (rz.) bankruptcy; (rz.) burst-up; (rz.) failure
+[bankrut]bankrut (PL) : (rz.) bankrupt; (rz.) insolvent; (rz.) washout; (rz.) wash-out
+[bankrutowanie]bankrutowanie (PL) : (rz.) bankrupting; (rz.) bankrupts
+[bankrutowac]bankrutować (PL) : (cz.) bankrupt; (cz.) fail; (cz.) flop; (cz.) smash
+[baobab]baobab (PL) : (rz.) baobab
+[bar]bar (PL) : (rz.) bar; (rz.) barium; (rz.) estaminet; (rz.) pub; (rz.) saloon
+[barak]barak (PL) : (rz.) barrack
+[baran]baran (PL) : (rz.) Aries; (rz.) bellwether; (rz.) idiot; (rz.) mouton; (rz.) ram; (rz.) yuk
+[baranek]baranek (PL) : (rz.) lamb; (rz.) lambskin; (rz.) sheep
+[barani]barani (PL) : (p.) mutton; (p.) sheep's
+[baranica]baranica (PL) : (rz.) sheepskin
+[baranina]baranina (PL) : (rz.) lamb; (rz.) mouton; (rz.) mutton
+[baraszkowac]baraszkować (PL) : (cz.) frolic; (cz.) romp
+[barateria]barateria (PL) : (rz.) barratry
+[barbakan]barbakan (PL) : (rz.) barbican
+[barbaryzm]barbaryzm (PL) : (rz.) barbarism
+[barbarzynca]barbarzyńca (PL) : (rz.) barbarian
+[barbarzynski]barbarzyński (PL) : (p.) barbaric; (p.) barbarous; (p.) outlandish; (p.) truculent
+[barbarzynsko]barbarzyńsko (PL) : (p-sł.) barbarically
+[barbarzynstwo]barbarzyństwo (PL) : (rz.) barbarism; (rz.) barbarity; (rz.) savagery; (rz.) vandalism
+[barbituran]barbituran (PL) : (rz.) barbiturate; (rz.) downer
+[barchan]barchan (PL) : (rz.) fustian
+[barchanowy]barchanowy (PL) : (p.) fustian
+[barczysty]barczysty (PL) : (p.) broad-shouldered; (p.) square-built
+[bardacha]bardacha (PL) : (rz.) can; (rz.) john; (rz.) loo
+[bardzo]bardzo (PL) : (p-sł.) awfully; (p-sł.) badly; (p-sł.) dismally; (p-sł.) greatly; (p-sł.) mighty; (p-sł.) plenty; (p-sł.) seriously; (p-sł.) sorely; (p-sł.) too; (p-sł.) very
+[barek]barek (PL) : (rz.) trolley
+[baretka]baretka (PL) : (rz.) ribbon
+[bariera]bariera (PL) : (rz.) bar; (rz.) barrier; (rz.) boom; (rz.) ditch; (rz.) division; (rz.) guardrail; (rz.) handrail; (rz.) parapet
+[barierka]barierka (PL) : (rz.) rail
+[barion]barion (PL) : (rz.) baryon
+[bark]bark (PL) : (rz.) bark; (rz.) shoulder
+[barka]barka (PL) : (rz.) barge; (rz.) barque; (rz.) houseboat
+[barkarola]barkarola (PL) : (rz.) barcarole; (rz.) barcarolle
+[barkarz]barkarz (PL) : (rz.) boat
+[barkas]barkas (PL) : (rz.) longboat
+[barkowy]barkowy (PL) : (p.) brachial; (p.) humeral
+[barman]barman (PL) : (rz.) barman; (rz.) bartender
+[barograf]barograf (PL) : (rz.) barograph
+[barok]barok (PL) : (rz.) baroque
+[barokowy]barokowy (PL) : (p.) baroque
+[barometr]barometr (PL) : (rz.) barometer
+[barometryczny]barometryczny (PL) : (p.) barometric; (p.) barometrical
+[baronia]baronia (PL) : (rz.) barony
+[baronostwo]baronostwo (PL) : (rz.) baronage; (rz.) barony
+[baronowski]baronowski (PL) : (p.) baronial
+[barszcz]barszcz (PL) : (rz.) borsch; (rz.) borscht
+[barwa]barwa (PL) : (rz.) colour; (rz.) dye; (rz.) hue; (rz.) overtone; (rz.) timbre; (rz.) tint; (rz.) tone
+[barwena]barwena (PL) : (rz.) mullet
+[barwinek]barwinek (PL) : (rz.) myrtle; (rz.) periwinkle
+[barwic]barwić (PL) : (cz.) colour; (cz.) dye; (cz.) stain
+[barwnie]barwnie (PL) : (p-sł.) gaily; (p-sł.) gorgeously
+[barwnik]barwnik (PL) : (rz.) colorant; (rz.) colouring; (rz.) dye; (rz.) dyestuff; (rz.) dye-stuff; (rz.) pigment
+[barwnosc]barwność (PL) : (rz.) blazonry; (rz.) gaudiness
+[barwny]barwny (PL) : (p.) coloured; (p.) colourful; (p.) gaudy; (p.) variegated; (p.) vivid
+[barwoczuly]barwoczuły (PL) : (p.) panchromatic
+[bary]bary (PL) : (rz.) bars
+[baryczny]baryczny (PL) : (p.) baric
+[barykada]barykada (PL) : (rz.) barricade; (rz.) roadblock
+[barykadowac]barykadować (PL) : (cz.) barricade; (cz.) block
+[baryt]baryt (PL) : (rz.) barite; (rz.) tiff
+[baryton]baryton (PL) : (rz.) baritone
+[baryla]baryła (PL) : (rz.) barrel
+[barylka]baryłka (PL) : (rz.) barrel
+[barylkowaty]baryłkowaty (PL) : (p.) barrel-shaped; (p.) crowned; (p.) tubby
+[barlog]barłóg (PL) : (rz.) litter; (rz.) pallet
+[bas]bas (PL) : (rz.) bass
+[baseball]baseball (PL) : (rz.) baseball
+[baseballista]baseballista (PL) : (rz.) ballplayer
+[basen]basen (PL) : (rz.) basin; (rz.) bedpan; (rz.) pool; (rz.) swimming; (rz.) swimming-pool; (rz.) tank
+[basetla]basetla (PL) : (rz.) bass; (rz.) double-bass
+[basista]basista (PL) : (rz.) bass
+[basowy]basowy (PL) : (p.) bas; (p.) bass; (p.) basso
+[bastion]bastion (PL) : (rz.) bastion; (rz.) rampart
+[bastonada]bastonada (PL) : (rz.) bastinado
+[basza]basza (PL) : (rz.) pasha
+[baszta]baszta (PL) : (rz.) dungeon; (rz.) tower
+[bat]bat (PL) : (rz.) whip
+[batalia]batalia (PL) : (rz.) battle; (rz.) campaign
+[batalion]batalion (PL) : (rz.) battalion
+[batalista]batalista (PL) : (rz.) battle-painter
+[bateria]bateria (PL) : (rz.) battery; (rz.) troop
+[bateryjka]bateryjka (PL) : (rz.) battery
+[batik]batik (PL) : (rz.) batik
+[batog]batog (PL) : (rz.) cord; (rz.) whip
+[batozyc]batożyć (PL) : (cz.) whip
+[batut]batut (PL) : (rz.) trampoline
+[batuta]batuta (PL) : (rz.) baton; (rz.) wand
+[batymetria]batymetria (PL) : (rz.) bathymetry
+[batysfera]batysfera (PL) : (rz.) bathysphere
+[batyskaf]batyskaf (PL) : (rz.) bathyscaph; (rz.) bathyscaphe
+[batyst]batyst (PL) : (rz.) batiste; (rz.) cambric
+[bawelna]bawełna (PL) : (rz.) cotton
+[bawialnia]bawialnia (PL) : (rz.) parlour
+[bawidamek]bawidamek (PL) : (rz.) gallant; (rz.) womaniser
+[bawidelko]bawidełko (PL) : (rz.) falderal
+[bawic]bawić (PL) : (cz.) entertain; (cz.) peddle; (cz.) play; (cz.) recreate; (cz.) romp; (cz.) sport; (cz.) spree; (cz.) toy
+[bawoli]bawoli (PL) : (p.) buff
+[bawol]bawół (PL) : (rz.) buffalo
+[baza]baza (PL) : (rz.) base; (rz.) basin; (rz.) basis; (rz.) groundwork; (rz.) station
+[bazalt]bazalt (PL) : (rz.) basalt
+[bazaltowy]bazaltowy (PL) : (p.) basaltic
+[bazar]bazar (PL) : (rz.) bazaar; (rz.) marker
+[bazgracz]bazgracz (PL) : (rz.) dauber
+[bazgranina]bazgranina (PL) : (rz.) scrawl; (rz.) scribble
+[bazgrac]bazgrać (PL) : (cz.) doodle; (cz.) scrabble; (cz.) scratch; (cz.) scrawl; (cz.) scribble
+[bazia]bazia (PL) : (rz.) catkin; (rz.) pussy
+[bazowanie]bazowanie (PL) : (rz.) build
+[bazowac]bazować (PL) : (cz.) base; (cz.) build
+[bazowy]bazowy (PL) : (p.) base; (p.) baseman
+[bazylia]bazylia (PL) : (rz.) basil
+[bazylika]bazylika (PL) : (rz.) basilica
+[bazyliszek]bazyliszek (PL) : (rz.) basilisk; (rz.) cockatrice
+[bazyliszkowy]bazyliszkowy (PL) : (p.) Basilisk's
+[bac]bać (PL) : (cz.) dread; (cz.) fear
+[balagan]bałagan (PL) : (rz.) chaos; (rz.) disorder; (rz.) huggermugger; (rz.) hugger-mugger; (rz.) mess; (rz.) muddle; (rz.) muss; (rz.) shambles
+[balaganiarski]bałaganiarski (PL) : (p.) messy
+[balaganiarstwo]bałaganiarstwo (PL) : (rz.) untidiness
+[balaganiarz]bałaganiarz (PL) : (rz.) bungler
+[balaganic]bałaganić (PL) : (cz.) disarrange; (cz.) loiter; (cz.) ruffle; (cz.) unsettle
+[balamucic]bałamucić (PL) : (cz.) footle
+[balamuctwo]bałamuctwo (PL) : (rz.) deception
+[balamut]bałamut (PL) : (rz.) flirt; (rz.) philanderer
+[balamutka]bałamutka (PL) : (rz.) coquette
+[balamutny]bałamutny (PL) : (p.) delusory
+[balalajka]bałałajka (PL) : (rz.) balalaika
+[balwan]bałwan (PL) : (rz.) billow; (rz.) blockhead; (rz.) bonehead; (rz.) dunderhead; (rz.) fathead; (rz.) idol; (rz.) jackass; (rz.) moron; (rz.) nitwit; (rz.) numskull; (rz.) snowman; (rz.) twit
+[balwanic]bałwanić (PL) : (cz.) toss
+[balwanski]bałwański (PL) : (p.) brainless; (p.) thick-headed
+[balwochwalca]bałwochwalca (PL) : (rz.) idolater
+[balwochwalczy]bałwochwalczy (PL) : (p.) idolatrous
+[balwochwalstwo]bałwochwalstwo (PL) : (rz.) idolatry
+[banka]bańka (PL) : (rz.) bleb; (rz.) bubble; (rz.) bulb; (rz.) can; (rz.) flagon
+[basniowy]baśniowy (PL) : (p.) fabulous
+[bazant]bażant (PL) : (rz.) pheasant
+[beatyfikacja]beatyfikacja (PL) : (rz.) beatification
+[beatyfikowac]beatyfikować (PL) : (cz.) beatify
+[bebechy]bebechy (PL) : (rz.) guts
+[beczenie]beczenie (PL) : (rz.) bleat; (rz.) bleating; (rz.) blubber
+[beczec]beczeć (PL) : (cz.) baa; (cz.) bleat; (cz.) blubber
+[beczka]beczka (PL) : (rz.) barrel; (rz.) cask; (rz.) drum; (rz.) kit; (rz.) roll
+[beczkarnia]beczkarnia (PL) : (rz.) coopery
+[beczkowaty]beczkowaty (PL) : (p.) barrel-shaped; (p.) bulgy
+[beczkowac]beczkować (PL) : (cz.) barrel
+[beczkowy]beczkowy (PL) : (p.) bulgy
+[beczkowoz]beczkowóz (PL) : (rz.) water-cart
+[beczulka]beczułka (PL) : (rz.) barrel; (rz.) cask; (rz.) firkin; (rz.) keg; (rz.) runlet
+[bednarstwo]bednarstwo (PL) : (rz.) cooperage; (rz.) coopery
+[bednarz]bednarz (PL) : (rz.) cooper
+[befsztyk]befsztyk (PL) : (rz.) beefsteak; (rz.) porterhouse; (rz.) roast; (rz.) steak
+[begonia]begonia (PL) : (rz.) begonia
+[behawioralny]behawioralny (PL) : (p.) behavioural
+[behawiorysta]behawiorysta (PL) : (rz.) behaviourist
+[behawioryzm]behawioryzm (PL) : (rz.) behaviourism
+[bejca]bejca (PL) : (rz.) stain
+[bejcowac]bejcować (PL) : (cz.) curry; (cz.) pickle; (cz.) stain
+[bek]bek (PL) : (rz.) bleat
+[bekas]bekas (PL) : (rz.) snipe; (rz.) woodcock
+[bekac]bekać (PL) : (cz.) burp
+[bekhend]bekhend (PL) : (rz.) backhand; (rz.) backhander
+[bekniecie]beknięcie (PL) : (rz.) belch; (rz.) burp
+[bekon]bekon (PL) : (rz.) bacon
+[bekowisko]bekowisko (PL) : (rz.) rut
+[beksa]beksa (PL) : (rz.) cry-baby; (rz.) snipe
+[bela]bela (PL) : (rz.) bale; (rz.) beam; (rz.) log
+[belemnit]belemnit (PL) : (rz.) belemnite
+[beletrysta]beletrysta (PL) : (rz.) belletrist
+[beletrystyczny]beletrystyczny (PL) : (p.) fictional
+[beletrystyka]beletrystyka (PL) : (rz.) belles; (rz.) belles-letters; (rz.) belles-lettres; (rz.) fiction
+[belfer]belfer (PL) : (rz.) beak; (rz.) pedagogue; (rz.) teacher
+[belka]belka (PL) : (rz.) balk; (rz.) beam; (rz.) joist; (rz.) spar; (rz.) timber
+[belka-igla]belka-igła (PL) : (rz.) needle-beam
+[belkowanie]belkowanie (PL) : (rz.) entablature
+[belladona]belladona (PL) : (rz.) belladonna
+[belona]belona (PL) : (rz.) garfish
+[belowanie]belowanie (PL) : (rz.) baling
+[bemol]bemol (PL) : (rz.) flat
+[benedyktyn]benedyktyn (PL) : (rz.) Benedictine
+[beneficjant]beneficjant (PL) : (rz.) beneficiary
+[beneficjent]beneficjent (PL) : (rz.) beneficiary; (rz.) incumbent
+[beneficjum]beneficjum (PL) : (rz.) benefice; (rz.) incumbency
+[benefis]benefis (PL) : (rz.) benefit
+[beniaminek]beniaminek (PL) : (rz.) darling; (rz.) favourite
+[bentoniczny]bentoniczny (PL) : (p.) benthic
+[bentosowy]bentosowy (PL) : (p.) benthic
+[benzen]benzen (PL) : (rz.) benzene
+[benzoesan]benzoesan (PL) : (rz.) benzoate
+[benzoesowy]benzoesowy (PL) : (p.) benzoic
+[benzol]benzol (PL) : (rz.) benzene
+[benzyl]benzyl (PL) : (rz.) benzyl
+[benzyna]benzyna (PL) : (rz.) gas; (rz.) gasoline; (rz.) naphtha; (rz.) petrol
+[berberys]berberys (PL) : (rz.) barberries; (rz.) barberry
+[berberysowy]berberysowy (PL) : (p.) vulnerary
+[berbec]berbeć (PL) : (rz.) brat; (rz.) kid; (rz.) tad; (rz.) toddler
+[beret]beret (PL) : (rz.) beret
+[bergamota]bergamota (PL) : (rz.) bergamot
+[berkel]berkel (PL) : (rz.) berkelium
+[berlinka]berlinka (PL) : (rz.) barge
+[beryl]beryl (PL) : (rz.) beryl; (rz.) beryllium
+[berlo]berło (PL) : (rz.) rule; (rz.) sceptre
+[bestia]bestia (PL) : (rz.) beast; (rz.) yahoo
+[bestializm]bestializm (PL) : (rz.) bestiality
+[bestialski]bestialski (PL) : (p.) bestial; (p.) savage
+[bestialstwo]bestialstwo (PL) : (rz.) bestiality; (rz.) brutishness; (rz.) savagery
+[bestiariusz]bestiariusz (PL) : (rz.) bestiary
+[bestseller]bestseller (PL) : (rz.) bestseller
+[bestwic]bestwić (PL) : (cz.) bait
+[bestyjka]bestyjka (PL) : (rz.) thing
+[besztanie]besztanie (PL) : (rz.) scolding
+[besztac]besztać (PL) : (cz.) chide; (cz.) keelhaul; (cz.) lambaste; (cz.) reprove; (cz.) row; (cz.) scold; (cz.) slate
+[beta-promieniotworczy]beta-promieniotwórczy (PL) : (p.) beta-active; (p.) beta-radioactive
+[beta-radioaktywny]beta-radioaktywny (PL) : (p.) beta-radioactive
+[betel]betel (PL) : (rz.) bethel
+[betka]betka (PL) : (rz.) cinch
+[beton]beton (PL) : (rz.) concrete
+[betoniarz]betoniarz (PL) : (rz.) concreter
+[betonowa]betonowa (PL) : (rz.) slab
+[betonowy]betonowy (PL) : (p.) concrete
+[bez]bez (PL) : (rz.) lilac
+[beza]beza (PL) : (rz.) meringue
+[bezadresowy]bezadresowy (PL) : (p.) zero-address
+[bezalkoholowy]bezalkoholowy (PL) : (p.) alcohol-free; (p.) non-alcoholic
+[bezan]bezan (PL) : (rz.) mizzen
+[bezapelacyjnie]bezapelacyjnie (PL) : (p-sł.) irrevocably; (p-sł.) outright; (p-sł.) peremptorily
+[bezapelacyjny]bezapelacyjny (PL) : (p.) authoritative; (p.) undisputed
+[bezatomowy]bezatomowy (PL) : (p.) denuclearized
+[bezawaryjny]bezawaryjny (PL) : (p.) failure-free; (p.) reliable
+[bezbarwnie]bezbarwnie (PL) : (p-sł.) tonelessly; (p-sł.) vapidly
+[bezbarwnosc]bezbarwność (PL) : (rz.) insipidity
+[bezbarwny]bezbarwny (PL) : (p.) achromatic; (p.) colourless; (p.) drab; (p.) pallid; (p.) toneless; (p.) uncoloured
+[bezbolesny]bezbolesny (PL) : (p.) indolent; (p.) painless
+[bezbolesnie]bezboleśnie (PL) : (p-sł.) indolently; (p-sł.) painlessly
+[bezboznik]bezbożnik (PL) : (rz.) atheist
+[bezboznosc]bezbożność (PL) : (rz.) atheism; (rz.) impiety; (rz.) profanity
+[bezbozny]bezbożny (PL) : (p.) godless; (p.) impious; (p.) ungodly; (p.) wicked
+[bezbramkowy]bezbramkowy (PL) : (p.) goalless
+[bezbronnosc]bezbronność (PL) : (rz.) vulnerability
+[bezbronny]bezbronny (PL) : (p.) defenceless; (p.) helpless; (p.) unarmed; (p.) unprotected; (p.) vulnerable
+[bezbrzezny]bezbrzeżny (PL) : (p.) unlimited
+[bezblednie]bezbłędnie (PL) : (p-sł.) faultlessly; (p-sł.) flawlessly
+[bezblednosc]bezbłędność (PL) : (rz.) perfection
+[bezbledny]bezbłędny (PL) : (p.) error-free; (p.) faultless; (p.) indefectible; (p.) perfect
+[bezcelowo]bezcelowo (PL) : (p-sł.) vacuously
+[bezcelowosc]bezcelowość (PL) : (rz.) uselessness
+[bezcelowy]bezcelowy (PL) : (p.) aimless; (p.) pointless; (p.) purposeless; (p.) useless
+[bezcenny]bezcenny (PL) : (p.) invaluable; (p.) priceless
+[bezceremonialnie]bezceremonialnie (PL) : (p-sł.) offhand; (p-sł.) unceremoniously
+[bezceremonialnosc]bezceremonialność (PL) : (rz.) cavalier; (rz.) shortness
+[bezceremonialny]bezceremonialny (PL) : (p.) blunt; (p.) blunting; (p.) offhand; (p.) unceremonious
+[bezchmurny]bezchmurny (PL) : (p.) cloudless; (p.) unclouded
+[bezcielesnosc]bezcielesność (PL) : (rz.) impalpability
+[bezcielesny]bezcielesny (PL) : (p.) bodiless; (p.) incorporeal
+[bezczasowosc]bezczasowość (PL) : (rz.) timelessness
+[bezczasowy]bezczasowy (PL) : (p.) timeless
+[bezczelnie]bezczelnie (PL) : (p-sł.) barefacedly; (p-sł.) impudently; (p-sł.) insolently
+[bezczelnosc]bezczelność (PL) : (rz.) audacity; (rz.) brazenness; (rz.) cheek; (rz.) effrontery; (rz.) impertinence; (rz.) impertinency; (rz.) insolence; (rz.) nerve; (rz.) rankness; (rz.) rudeness
+[bezczelny]bezczelny (PL) : (p.) barefaced; (p.) brazen; (p.) brazenfaced; (p.) brazen-faced; (p.) cheeky; (p.) immodest; (p.) impertinent; (p.) impudent; (p.) insolent; (p.) outrageous; (p.) pert; (p.) saucy; (p.) shameless; (p.) unblushing; (p.) uppish
+[bezczeszczenie]bezczeszczenie (PL) : (rz.) disgrace
+[bezczescic]bezcześcić (PL) : (cz.) desecrate; (cz.) outrage
+[bezczynnie]bezczynnie (PL) : (p-sł.) idly
+[bezczynnosc]bezczynność (PL) : (rz.) failure; (rz.) idleness; (rz.) inaction; (rz.) inactivity; (rz.) inertia
+[bezczynny]bezczynny (PL) : (p.) dormant; (p.) easeful; (p.) idle; (p.) idler; (p.) inactive; (p.) leisured; (p.) recumbent
+[bezclowy]bezcłowy (PL) : (p.) duty-free; (p.) tax-free
+[bezdech]bezdech (PL) : (rz.) apnoea
+[bezdennie]bezdennie (PL) : (p-sł.) abysmally
+[bezdenny]bezdenny (PL) : (p.) abysmal; (p.) bottomless; (p.) fathomless; (p.) infinite
+[bezdeszczowy]bezdeszczowy (PL) : (p.) dry; (p.) rainless
+[bezdomnosc]bezdomność (PL) : (rz.) homelessness
+[bezdomny]bezdomny (PL) : (p.) homeless; (p.) houseless; (p.) unsettled
+[bezdrozny]bezdrożny (PL) : (p.) trackless
+[bezdrutowy]bezdrutowy (PL) : (p.) wireless
+[bezdrzewny]bezdrzewny (PL) : (p.) treeless
+[bezdusznosc]bezduszność (PL) : (rz.) callousness
+[bezduszny]bezduszny (PL) : (p.) callous; (p.) dull; (p.) exanimate; (p.) inanimate; (p.) insentient; (p.) soulless; (p.) toneless; (p.) unfeeling; (p.) vapid
+[bezdymny]bezdymny (PL) : (p.) smokeless
+[bezdyskusyjny]bezdyskusyjny (PL) : (p.) indisputable; (p.) uncommitted; (p.) undisputed
+[bezdzietnosc]bezdzietność (PL) : (rz.) childlessness
+[bezdzietny]bezdzietny (PL) : (p.) childless
+[bezdetkowy]bezdętkowy (PL) : (p.) tubeless
+[bezdzwiecznosc]bezdźwięczność (PL) : (rz.) soundlessness
+[bezdzwieczny]bezdźwięczny (PL) : (p.) soundless; (p.) surd; (p.) unvoiced; (p.) voiceless
+[bezecenstwo]bezeceństwo (PL) : (rz.) atrocity; (rz.) infamy
+[bezechowy]bezechowy (PL) : (p.) echo-free
+[bezecnik]bezecnik (PL) : (rz.) scoundrel; (rz.) villain
+[bezecny]bezecny (PL) : (p.) wicked
+[bezgoraczkowy]bezgorączkowy (PL) : (p.) feverless
+[bezgranicznie]bezgranicznie (PL) : (p-sł.) boundlessly; (p-sł.) extremely
+[bezgranicznosc]bezgraniczność (PL) : (rz.) infinity
+[bezgraniczny]bezgraniczny (PL) : (p.) all-embracing; (p.) boundless; (p.) immeasurable; (p.) immense; (p.) implicit; (p.) limitless; (p.) unbounded; (p.) unlimited
+[bezgrzeszny]bezgrzeszny (PL) : (p.) impeccable; (p.) innocent; (p.) sinless
+[bezgwiezdny]bezgwiezdny (PL) : (p.) starless
+[bezglos]bezgłos (PL) : (rz.) silence
+[bezglosy]bezgłosy (PL) : (p.) voiceless
+[bezglowy]bezgłowy (PL) : (p.) brainless
+[bezglosnie]bezgłośnie (PL) : (p-sł.) noiselessly; (p-sł.) soundlessly
+[bezglosny]bezgłośny (PL) : (p.) dumb; (p.) noiseless; (p.) voiceless
+[bezik]bezik (PL) : (rz.) bezique
+[bezimiennie]bezimiennie (PL) : (p-sł.) namelessly
+[bezimiennosc]bezimienność (PL) : (rz.) namelessness
+[bezimienny]bezimienny (PL) : (p.) anonymous; (p.) faceless; (p.) nameless; (p.) unnamed
+[bezinteresownie]bezinteresownie (PL) : (p-sł.) disinterestedly; (p-sł.) selflessly; (p-sł.) unselfishly
+[bezinteresownosc]bezinteresowność (PL) : (rz.) disinterest; (rz.) disinterestedness; (rz.) selflessness
+[bezinteresowny]bezinteresowny (PL) : (p.) disinterested; (p.) selfless; (p.) unbiased; (p.) unpaid; (p.) unselfish
+[bezkarnosc]bezkarność (PL) : (rz.) impunity
+[bezkarny]bezkarny (PL) : (p.) unpunished
+[bezkierunkowy]bezkierunkowy (PL) : (p.) non-directional
+[bezklasowy]bezklasowy (PL) : (p.) classless
+[bezkofeinowy]bezkofeinowy (PL) : (p.) decaffeinated
+[bezkompromisowosc]bezkompromisowość (PL) : (rz.) intransigence
+[bezkompromisowy]bezkompromisowy (PL) : (p.) intransigent; (p.) thoroughgoing; (p.) uncompromising
+[bezkonfliktowy]bezkonfliktowy (PL) : (p.) peaceful
+[bezkonkurencyjny]bezkonkurencyjny (PL) : (p.) knockout; (p.) peerless; (p.) unbearable; (p.) unbeatable; (p.) unmatched; (p.) unrivalled
+[bezkostny]bezkostny (PL) : (p.) boneless
+[bezkres]bezkres (PL) : (rz.) boundlessness; (rz.) infinity
+[bezkresny]bezkresny (PL) : (p.) boundless; (p.) endless; (p.) infinite; (p.) unbounded
+[bezkrwawy]bezkrwawy (PL) : (p.) bloodless
+[bezkrytycznie]bezkrytycznie (PL) : (p-sł.) indiscriminately; (p-sł.) uncritically
+[bezkrytycznosc]bezkrytyczność (PL) : (rz.) gullibility
+[bezkrytyczny]bezkrytyczny (PL) : (p.) blind; (p.) uncritical
+[bezkrolewie]bezkrólewie (PL) : (rz.) interregnum
+[bezkregowiec]bezkręgowiec (PL) : (rz.) invertebrate
+[bezkregowy]bezkręgowy (PL) : (p.) invertebrate; (p.) spineless
+[bezksiezycowy]bezksiężycowy (PL) : (p.) moonless
+[bezksztaltnie]bezkształtnie (PL) : (p-sł.) shapelessly
+[bezksztaltnosc]bezkształtność (PL) : (rz.) shapelessness
+[bezksztaltny]bezkształtny (PL) : (p.) amorphous; (p.) formless; (p.) indistinct; (p.) shapeless
+[bezkwiatowy]bezkwiatowy (PL) : (p.) flowerless
+[bezlik]bezlik (PL) : (rz.) host; (rz.) multitude
+[bezlistny]bezlistny (PL) : (p.) bald; (p.) barren; (p.) leafless
+[bezlitosny]bezlitosny (PL) : (p.) cold-blooded; (p.) merciless; (p.) pitiless; (p.) remorseless; (p.) ruthless; (p.) unmerciful; (p.) unrelenting; (p.) unsparing
+[bezlitosnie]bezlitośnie (PL) : (p-sł.) mercilessly; (p-sł.) ruthlessly
+[bezlotek]bezlotek (PL) : (rz.) penguin
+[bezludny]bezludny (PL) : (p.) deserted; (p.) godforsaken; (p.) solitary; (p.) uninhabited
+[bezludzie]bezludzie (PL) : (rz.) waste; (rz.) wilderness
+[bezmian]bezmian (PL) : (rz.) steelyard
+[bezmiar]bezmiar (PL) : (rz.) boundlessness; (rz.) immeasurability; (rz.) immensity; (rz.) vastness
+[bezmiernie]bezmiernie (PL) : (p-sł.) immeasurably
+[bezmiernosc]bezmierność (PL) : (rz.) infinity
+[bezmierny]bezmierny (PL) : (p.) immense; (p.) infinite; (p.) measureless
+[bezmiesny]bezmięsny (PL) : (p.) meatless; (p.) vegetarian
+[bezmyslnie]bezmyślnie (PL) : (p-sł.) mindlessly; (p-sł.) thoughtlessly; (p-sł.) vacantly
+[bezmyslnosc]bezmyślność (PL) : (rz.) fatuity; (rz.) inconsiderateness; (rz.) silliness; (rz.) thoughtlessness; (rz.) vacancy
+[bezmyslny]bezmyślny (PL) : (p.) blank; (p.) fatuous; (p.) frivolous; (p.) gay; (p.) inane; (p.) inconsiderate; (p.) inconsiderateness; (p.) mindless; (p.) senseless; (p.) silly; (p.) thoughtless; (p.) unguarded; (p.) unreasoning; (p.) unthinking; (p.) vacant
+[bezmozgi]bezmózgi (PL) : (p.) brainless
+[bezmozgowiec]bezmózgowiec (PL) : (rz.) cretin; (rz.) numskull
+[beznadziejnie]beznadziejnie (PL) : (p-sł.) despairingly; (p-sł.) hopelessly
+[beznadziejnosc]beznadziejność (PL) : (rz.) hopelessness
+[beznadziejny]beznadziejny (PL) : (p.) abysmal; (p.) baneful; (p.) desperate; (p.) forlorn; (p.) hopeless; (p.) useless
+[beznamietnie]beznamiętnie (PL) : (p-sł.) blankly
+[beznamietnosc]beznamiętność (PL) : (rz.) dispassion
+[beznamietny]beznamiętny (PL) : (p.) disimpassioned; (p.) dispassionate; (p.) dry; (p.) impassive; (p.) lifeless
+[beznasienny]beznasienny (PL) : (p.) reediest; (p.) seedless
+[beznikotynowy]beznikotynowy (PL) : (p.) nicotine-free
+[beznogi]beznogi (PL) : (p.) lame; (p.) legless
+[bezobjawowy]bezobjawowy (PL) : (p.) asymptomatic
+[bezodrzutowy]bezodrzutowy (PL) : (p.) dead-beat; (p.) recoilless
+[bezogonowy]bezogonowy (PL) : (p.) excaudate; (p.) tailless
+[bezokolicznik]bezokolicznik (PL) : (rz.) infinitive
+[bezokolicznikowy]bezokolicznikowy (PL) : (p.) infinitival
+[bezolejowy]bezolejowy (PL) : (p.) oil-free
+[bezosobowo]bezosobowo (PL) : (p-sł.) impersonally
+[bezosobowosc]bezosobowość (PL) : (rz.) impersonality
+[bezosobowy]bezosobowy (PL) : (p.) impersonal
+[bezowocnie]bezowocnie (PL) : (p-sł.) fruitlessly; (p-sł.) vainly
+[bezowocnosc]bezowocność (PL) : (rz.) fruitlessness; (rz.) futility
+[bezowocny]bezowocny (PL) : (p.) fruitless; (p.) futile; (p.) unfruitful; (p.) unsuccessful
+[bezolowiowy]bezołowiowy (PL) : (p.) lead-free; (p.) unleaded
+[bezpardonowy]bezpardonowy (PL) : (p.) pitiless; (p.) ruthless
+[bezpartyjny]bezpartyjny (PL) : (p.) independent; (p.) non-party
+[bezpanski]bezpański (PL) : (p.) derelict
+[bezpanstwowiec]bezpaństwowiec (PL) : (rz.) person
+[bezpanstwowy]bezpaństwowy (PL) : (p.) stateless
+[bezpestkowy]bezpestkowy (PL) : (p.) seedless
+[bezpieczenstwo]bezpieczeństwo (PL) : (rz.) safeness; (rz.) safety; (rz.) security
+[bezpieczne]bezpieczne (PL) : (rz.) safe
+[bezpiecznie]bezpiecznie (PL) : (p-sł.) safely
+[bezpiecznik]bezpiecznik (PL) : (rz.) cut-out; (rz.) fuse
+[bezpieczny]bezpieczny (PL) : (p.) safe; (p.) safer; (p.) secure; (p.) sheltered
+[bezplanowy]bezplanowy (PL) : (p.) desultory; (p.) unplanned
+[bezpodstawnie]bezpodstawnie (PL) : (p-sł.) groundlessly; (p-sł.) unduly
+[bezpodstawnosc]bezpodstawność (PL) : (rz.) groundlessness
+[bezpodstawny]bezpodstawny (PL) : (p.) baseless; (p.) gratuitous; (p.) groundless; (p.) idle; (p.) ill-founded; (p.) invertebrate; (p.) unfounded; (p.) ungrounded; (p.) unjustified; (p.) unsubstantiated
+[bezpostaciowy]bezpostaciowy (PL) : (p.) amorphous
+[bezpotomny]bezpotomny (PL) : (p.) childless
+[bezpowietrzny]bezpowietrzny (PL) : (p.) air-free
+[bezpowrotnie]bezpowrotnie (PL) : (p-sł.) forever; (p-sł.) irrecoverably; (p-sł.) irrevocably
+[bezpowrotny]bezpowrotny (PL) : (p.) irrecoverable; (p.) irretrievable; (p.) irrevocable
+[bezpolaczeniowy]bezpołączeniowy (PL) : (p.) connectionless
+[bezposredni]bezpośredni (PL) : (p.) direct; (p.) homespun; (p.) immediate; (p.) informal; (p.) non-stop; (p.) online; (p.) on-line; (p.) outright; (p.) point-blank; (p.) proximate; (p.) straight; (p.) straightforward
+[bezposrednio]bezpośrednio (PL) : (p-sł.) directly; (p-sł.) immediately; (p-sł.) on-line; (p-sł.) point-blank; (p-sł.) squarely; (p-sł.) straight; (p-sł.) straightway
+[bezposredniosc]bezpośredniość (PL) : (rz.) directness; (rz.) immediacy; (rz.) informality; (rz.) straightforwardness
+[bezprawie]bezprawie (PL) : (rz.) illegality; (rz.) iniquity; (rz.) lawlessness; (rz.) unlawfulness
+[bezprawnie]bezprawnie (PL) : (p-sł.) forcibly; (p-sł.) illegally; (p-sł.) lawlessly; (p-sł.) unlawfully; (p-sł.) wrongfully
+[bezprawnosc]bezprawność (PL) : (rz.) illicitness
+[bezprawny]bezprawny (PL) : (p.) forcible; (p.) illegal; (p.) illegitimate; (p.) illicit; (p.) lawless; (p.) unauthorised; (p.) unlawful; (p.) wrongful
+[bezprecedensowy]bezprecedensowy (PL) : (p.) unprecedented
+[bezpretensjonalnie]bezpretensjonalnie (PL) : (p-sł.) unaffectedly; (p-sł.) unpretentiously
+[bezpretensjonalnosc]bezpretensjonalność (PL) : (rz.) unpretentiousness
+[bezpretensjonalny]bezpretensjonalny (PL) : (p.) unaffected; (p.) unassuming; (p.) unpretending; (p.) unpretentious
+[bezproblemowo]bezproblemowo (PL) : (p-sł.) easily; (p-sł.) smoothly
+[bezproblemowy]bezproblemowy (PL) : (p.) free; (p.) trouble-free
+[bezprocentowy]bezprocentowy (PL) : (p.) interest-free; (p.) passive
+[bezproduktywny]bezproduktywny (PL) : (p.) unproductive
+[bezprzedmiotowy]bezprzedmiotowy (PL) : (p.) groundless
+[bezprzewodowy]bezprzewodowy (PL) : (p.) cordless; (p.) wireless
+[bezprzyczynowy]bezprzyczynowy (PL) : (p.) baseless; (p.) causeless
+[bezprzykladny]bezprzykładny (PL) : (p.) unexampled; (p.) unparalleled; (p.) unprecedented
+[bezpylowy]bezpyłowy (PL) : (p.) dust-free
+[bezplatnie]bezpłatnie (PL) : (p-sł.) free; (p-sł.) gratis; (p-sł.) gratuitously
+[bezplatny]bezpłatny (PL) : (p.) complimentary; (p.) free; (p.) gratuitous; (p.) honorary; (p.) unpaid
+[bezplciowo]bezpłciowo (PL) : (p-sł.) asexually
+[bezplciowy]bezpłciowy (PL) : (p.) asexual; (p.) sexless
+[bezplodnosc]bezpłodność (PL) : (rz.) infertility; (rz.) sterility
+[bezplodny]bezpłodny (PL) : (p.) effete; (p.) inefficacious; (p.) infertile; (p.) sterile; (p.) unfruitful
+[bezradnie]bezradnie (PL) : (p-sł.) helplessly
+[bezradnosc]bezradność (PL) : (rz.) helplessness
+[bezradny]bezradny (PL) : (p.) baffled; (p.) forlorn; (p.) helpless; (p.) powerless
+[bezrdzeniowy]bezrdzeniowy (PL) : (p.) coreless
+[bezrobocie]bezrobocie (PL) : (rz.) joblessness; (rz.) unemployment
+[bezrobotny]bezrobotny (PL) : (p.) jobless; (p.) unemployed
+[bezrogi]bezrogi (PL) : (p.) hornless; (p.) unarmed
+[bezrolny]bezrolny (PL) : (p.) landless
+[bezrozumny]bezrozumny (PL) : (p.) irrational; (p.) unmeaning; (p.) unreasonable; (p.) unreasoning
+[bezruch]bezruch (PL) : (rz.) immobility; (rz.) inertia; (rz.) inertness; (rz.) lifelessness; (rz.) motionlessness; (rz.) quiescence; (rz.) standstill; (rz.) stillness
+[bezrymowy]bezrymowy (PL) : (p.) unrhymed
+[bezrekawnik]bezrękawnik (PL) : (rz.) pinafore; (rz.) vest; (rz.) waistcoat
+[bezreki]bezręki (PL) : (p.) armless
+[bezsennosc]bezsenność (PL) : (rz.) insomnia; (rz.) sleeplessness; (rz.) wakefulness
+[bezsenny]bezsenny (PL) : (p.) anxious; (p.) restless; (p.) sleepless
+[bezsens]bezsens (PL) : (rz.) nonsense; (rz.) senselessness
+[bezsensownie]bezsensownie (PL) : (p-sł.) senselessly
+[bezsensownosc]bezsensowność (PL) : (rz.) incongruity; (rz.) meaninglessness; (rz.) senselessness; (rz.) stupidity
+[bezsensowny]bezsensowny (PL) : (p.) absurd; (p.) meaningless; (p.) meaninglessly; (p.) nonsensical; (p.) pointless; (p.) ridiculous; (p.) senseless; (p.) stupid; (p.) ungodly
+[bezsilnie]bezsilnie (PL) : (p-sł.) powerlessly
+[bezsilnikowy]bezsilnikowy (PL) : (p.) engineless
+[bezsilnosc]bezsilność (PL) : (rz.) impotence; (rz.) powerlessness
+[bezsilny]bezsilny (PL) : (p.) helpless; (p.) impotent; (p.) infirm; (p.) powerless; (p.) toothless; (p.) weak
+[bezskrzydly]bezskrzydły (PL) : (p.) wingless
+[bezskutecznie]bezskutecznie (PL) : (p-sł.) ineffectively; (p-sł.) unsuccessfully; (p-sł.) vainly
+[bezskutecznosc]bezskuteczność (PL) : (rz.) ineffectiveness; (rz.) ineffectuality
+[bezskuteczny]bezskuteczny (PL) : (p.) ineffective; (p.) ineffectual; (p.) nugatory; (p.) self-defeating; (p.) unavailing
+[bezsmakowy]bezsmakowy (PL) : (p.) tasteless
+[bezsolny]bezsolny (PL) : (p.) salt-free
+[bezspornie]bezspornie (PL) : (p-sł.) incontrovertibly; (p-sł.) indisputably; (p-sł.) unarguably; (p-sł.) undeniably; (p-sł.) unquestionably
+[bezsporny]bezsporny (PL) : (p.) absolute; (p.) decided; (p.) incontestable; (p.) incontrovertible; (p.) indisputable; (p.) unassailable; (p.) uncontested; (p.) undisputable; (p.) unimpeachable; (p.) unquestionable
+[bezsprzeczny]bezsprzeczny (PL) : (p.) incontrovertible; (p.) unequivocal; (p.) unobjectionable; (p.) unquestionable
+[bezstratny]bezstratny (PL) : (p.) loss-free; (p.) lossless
+[bezstronnie]bezstronnie (PL) : (p-sł.) impartially
+[bezstronnosc]bezstronność (PL) : (rz.) candour; (rz.) disinterest; (rz.) disinterestedness; (rz.) evenness; (rz.) fairness; (rz.) impartiality
+[bezstronny]bezstronny (PL) : (p.) candid; (p.) detached; (p.) disinterested; (p.) dispassionate; (p.) equitable; (p.) fair-minded; (p.) impartial; (p.) neutral; (p.) objective; (p.) unbiased; (p.) unprejudiced
+[bezszelestny]bezszelestny (PL) : (p.) noiseless; (p.) silent
+[bezszmerowy]bezszmerowy (PL) : (p.) noiseless
+[bezszwowy]bezszwowy (PL) : (p.) seamless
+[bezszynowy]bezszynowy (PL) : (p.) trackless
+[bezszypulkowy]bezszypułkowy (PL) : (p.) sessile
+[bezseczny]bezsęczny (PL) : (p.) knotless
+[bezsloneczny]bezsłoneczny (PL) : (p.) sunless
+[bezslownie]bezsłownie (PL) : (p-sł.) wordlessly
+[bezslowny]bezsłowny (PL) : (p.) wordless
+[bezterminowy]bezterminowy (PL) : (p.) indefinite
+[beztlenowce]beztlenowce (PL) : (rz.) anaerobes
+[beztlenowiec]beztlenowiec (PL) : (rz.) anaerobe
+[beztlenowy]beztlenowy (PL) : (p.) anaerobic
+[beztresciowy]beztreściowy (PL) : (p.) empty
+[beztroska]beztroska (PL) : (rz.) airiness; (rz.) carelessness; (rz.) ease; (rz.) light-heartedness; (rz.) unconcern
+[beztroski]beztroski (PL) : (p.) airy; (p.) blithe; (p.) carefree; (p.) care-free; (p.) careless; (p.) complacent; (p.) devil-may-care; (p.) easy; (p.) happy-go-lucky; (p.) insouciant; (p.) jaunty; (p.) light-minded; (p.) reckless; (p.) thoughtless; (p.) unconcerned
+[beztrosko]beztrosko (PL) : (p-sł.) airily; (p-sł.) blithely; (p-sł.) jauntily; (p-sł.) merrily; (p-sł.) recklessly; (p-sł.) unconcernedly
+[bezustannie]bezustannie (PL) : (p-sł.) ceaselessly; (p-sł.) continuously; (p-sł.) incessantly; (p-sł.) uninterruptedly
+[bezustanny]bezustanny (PL) : (p.) ceaseless; (p.) continual; (p.) endless; (p.) eternal; (p.) incessant; (p.) relentless; (p.) unceasing; (p.) unending; (p.) uninterrupted
+[bezusterkowy]bezusterkowy (PL) : (p.) failure-free
+[bezuzyteczne]bezużyteczne (PL) : (rz.) garbage
+[bezuzytecznie]bezużytecznie (PL) : (p-sł.) uselessly
+[bezuzytecznosc]bezużyteczność (PL) : (rz.) uselessness
+[bezuzyteczny]bezużyteczny (PL) : (p.) barren; (p.) duff; (p.) unavailing; (p.) useless
+[bezwartosciowosc]bezwartościowość (PL) : (rz.) worthlessness
+[bezwartosciowy]bezwartościowy (PL) : (p.) chaffy; (p.) cheap; (p.) trumpery; (p.) valueless; (p.) void; (p.) waste; (p.) worthless
+[bezwarunkowo]bezwarunkowo (PL) : (p-sł.) absolutely; (p-sł.) unconditionally
+[bezwarunkowy]bezwarunkowy (PL) : (p.) absolute; (p.) peremptory; (p.) unconditional; (p.) unconditioned; (p.) unqualified; (p.) unquestioning
+[bezwiednie]bezwiednie (PL) : (p-sł.) unawares; (p-sł.) unconsciously; (p-sł.) unknowingly; (p-sł.) unwittingly
+[bezwiedny]bezwiedny (PL) : (p.) unconscious; (p.) unintentional
+[bezwietrzny]bezwietrzny (PL) : (p.) airless; (p.) quiet; (p.) windless
+[bezwodnik]bezwodnik (PL) : (rz.) anhydride
+[bezwodny]bezwodny (PL) : (p.) anhydrous; (p.) waterless
+[bezwolnosc]bezwolność (PL) : (rz.) torpidity
+[bezwolny]bezwolny (PL) : (p.) inert; (p.) involuntary; (p.) passive
+[bezwonny]bezwonny (PL) : (p.) inodorous; (p.) odour-free; (p.) odourless; (p.) scentless
+[bezwstyd]bezwstyd (PL) : (rz.) audacity; (rz.) impudence; (rz.) shamelessness
+[bezwstydnie]bezwstydnie (PL) : (p-sł.) impudently; (p-sł.) shamelessly
+[bezwstydnik]bezwstydnik (PL) : (rz.) profligate
+[bezwstydny]bezwstydny (PL) : (p.) barefaced; (p.) brazen; (p.) brazenfaced; (p.) brazen-faced; (p.) earthy; (p.) flagrant; (p.) graceless; (p.) ignoble; (p.) immodest; (p.) lewd; (p.) rank; (p.) shameless; (p.) unashamed
+[bezwymiarowy]bezwymiarowy (PL) : (p.) dimensionless; (p.) non-dimensional; (p.) zero-dimensional
+[bezwyrazowy]bezwyrazowy (PL) : (p.) expressionless
+[bezwyznaniowy]bezwyznaniowy (PL) : (p.) irreligious; (p.) nondenominational; (p.) non-denominational
+[bezwzglednie]bezwzględnie (PL) : (p-sł.) absolutely; (p-sł.) implicitly; (p-sł.) relentlessly; (p-sł.) ruthlessly; (p-sł.) strictly
+[bezwzglednosc]bezwzględność (PL) : (rz.) absoluteness; (rz.) ruthlessness; (rz.) severity; (rz.) toughness
+[bezwzgledny]bezwzględny (PL) : (p.) absolute; (p.) actual; (p.) cold-blooded; (p.) despotic; (p.) hardboiled; (p.) hard-boiled; (p.) hardhearted; (p.) hard-hearted; (p.) imperative; (p.) inconsiderate; (p.) irrespective; (p.) relentless; (p.) rigid; (p.) ruthless; (p.) severe; (p.) strict; (p.) tough; (p.) unqualified; (p.) unquestioning; (p.) unreserved
+[bezwlad]bezwład (PL) : (rz.) inertia; (rz.) palsy; (rz.) paralysis; (rz.) torpidity
+[bezwladnie]bezwładnie (PL) : (p-sł.) higgledy-piggledy; (p-sł.) inertly
+[bezwladnosc]bezwładność (PL) : (rz.) inertia; (rz.) stagnancy
+[bezwladny]bezwładny (PL) : (p.) inert; (p.) limp
+[bezwlosy]bezwłosy (PL) : (p.) hairless
+[bezzasadnie]bezzasadnie (PL) : (p-sł.) unjustifiably; (p-sł.) unreasonably
+[bezzasadny]bezzasadny (PL) : (p.) baseless; (p.) groundless; (p.) unfounded
+[bezzalogowy]bezzałogowy (PL) : (p.) beeper; (p.) crewless; (p.) unmanned
+[bezzwrotny]bezzwrotny (PL) : (p.) irreclaimable; (p.) non-returnable
+[bezzwlocznie]bezzwłocznie (PL) : (p-sł.) forthwith; (p-sł.) immediately; (p-sł.) speedily; (p-sł.) stat
+[bezzwlocznosc]bezzwłoczność (PL) : (rz.) speed
+[bezzwloczny]bezzwłoczny (PL) : (p.) immediate; (p.) prompt; (p.) speedy
+[bezzebny]bezzębny (PL) : (p.) edentate
+[bezlad]bezład (PL) : (rz.) confusion; (rz.) disorder; (rz.) helter-skelter
+[bezladnie]bezładnie (PL) : (p-sł.) higgledy-piggledy; (p-sł.) hurry-scurry; (p-sł.) pell-mell
+[bezladny]bezładny (PL) : (p.) confused; (p.) desultory; (p.) disjointed; (p.) higgledy-piggledy; (p.) incoherent; (p.) inconsequential; (p.) otherworldly; (p.) pell-mell; (p.) promiscuous
+[bezzennosc]bezżenność (PL) : (rz.) celibacy
+[bezzenny]bezżenny (PL) : (p.) celibate; (p.) unmarried
+[bezzenstwo]bezżeństwo (PL) : (rz.) celibacy
+[belkot]bełkot (PL) : (rz.) buzzword; (rz.) gibber; (rz.) gibberish; (rz.) jabber; (rz.) mumbling; (rz.) purl; (rz.) splutter
+[belkota]bełkota (PL) : (rz.) purl
+[belkotanie]bełkotanie (PL) : (rz.) gibber; (rz.) gibberish
+[belkotac]bełkotać (PL) : (cz.) babble; (cz.) gibber; (cz.) mumble; (cz.) mutter; (cz.) slur; (cz.) splutter; (cz.) sputter; (cz.) twitter
+[belkotka]bełkotka (PL) : (rz.) bubbler
+[belt]bełt (PL) : (rz.) quarrel
+[beltanie]bełtanie (PL) : (rz.) agitation
+[beltac]bełtać (PL) : (cz.) muddle; (cz.) splash; (cz.) stir
+[bez]beż (PL) : (rz.) beige; (rz.) none
+[bezowy]beżowy (PL) : (p.) beige
+[biadanie]biadanie (PL) : (rz.) jeremiad; (rz.) woe
+[biadac]biadać (PL) : (cz.) moan
+[biadolenie]biadolenie (PL) : (rz.) bleat; (rz.) lamentations; (rz.) moan
+[biadolic]biadolić (PL) : (cz.) cant; (cz.) gripe; (cz.) moan; (cz.) snivel; (cz.) squeal; (cz.) whimper; (cz.) whine
+[biatlon]biatlon (PL) : (rz.) biathlon
+[biatlonowy]biatlonowy (PL) : (p.) biathlon
+[bialaczka]białaczka (PL) : (rz.) leukaemia
+[bialawy]białawy (PL) : (p.) whitish
+[bialko]białko (PL) : (rz.) albumen; (rz.) albumin; (rz.) glair; (rz.) protein; (rz.) white
+[bialkowka]białkówka (PL) : (rz.) white
+[bialo]biało (PL) : (p-sł.) whitely
+[bialodrzew]białodrzew (PL) : (rz.) abele
+[bialoglowa]białogłowa (PL) : (rz.) petticoat; (rz.) woman
+[bialozor]białozór (PL) : (rz.) gerfalcon
+[bialosc]białość (PL) : (rz.) whiteness
+[bialy]biały (PL) : (p.) white
+[biba]biba (PL) : (rz.) carousal; (rz.) fuddle; (rz.) jag; (rz.) party
+[bibelot]bibelot (PL) : (rz.) bibelot; (rz.) bric-a-brac; (rz.) knick; (rz.) trinket
+[bibeloty]bibeloty (PL) : (rz.) trinkets
+[biblia]biblia (PL) : (rz.) bible; (rz.) scripture
+[biblijny]biblijny (PL) : (p.) biblical; (p.) scriptural
+[bibliofil]bibliofil (PL) : (rz.) bibliophile; (rz.) bibliophilist; (rz.) book-lover
+[bibliofilstwo]bibliofilstwo (PL) : (rz.) bibliophilism
+[bibliograf]bibliograf (PL) : (rz.) bibliographer
+[bibliografia]bibliografia (PL) : (rz.) bibliography
+[bibliograficznie]bibliograficznie (PL) : (p-sł.) bibliographically
+[bibliograficzny]bibliograficzny (PL) : (p.) bibliographic; (p.) bibliographical
+[biblioman]biblioman (PL) : (rz.) bibliomaniac
+[biblioteczka]biblioteczka (PL) : (rz.) bookcase
+[biblioteka]biblioteka (PL) : (rz.) library
+[bibliotekarstwo]bibliotekarstwo (PL) : (rz.) librarianship; (rz.) library
+[bibliotekarz]bibliotekarz (PL) : (rz.) librarian
+[bibliotekoznawstwo]bibliotekoznawstwo (PL) : (rz.) librarianship
+[bibosz]bibosz (PL) : (rz.) soaker
+[bibularz]bibularz (PL) : (rz.) blotter; (rz.) blotting-pad; (rz.) pad
+[bibula]bibuła (PL) : (rz.) blotting; (rz.) blotting-paper; (rz.) filter
+[bibulka]bibułka (PL) : (rz.) tissue; (rz.) tissue-paper
+[biceps]biceps (PL) : (rz.) biceps
+[bicie]bicie (PL) : (rz.) beat; (rz.) beating; (rz.) bit; (rz.) flogging; (rz.) peal; (rz.) slaughter; (rz.) throb; (rz.) whip
+[bicz]bicz (PL) : (rz.) lash; (rz.) scourge; (rz.) whip; (rz.) whiplash
+[biczowanie]biczowanie (PL) : (rz.) flagellation
+[biczowac]biczować (PL) : (cz.) flagellate; (cz.) flog; (cz.) lash; (cz.) scourge; (cz.) whip
+[biczownik]biczownik (PL) : (rz.) flagellant
+[biec]biec (PL) : (rz.) run
+[bieda]bieda (PL) : (rz.) adversity; (rz.) destitution; (rz.) hardship; (rz.) misery; (rz.) necessity; (rz.) penury; (rz.) poverty; (rz.) sufferance; (rz.) want
+[biedak]biedak (PL) : (rz.) pauper; (rz.) poor
+[biednie]biednie (PL) : (p-sł.) poorly
+[biedniec]biednieć (PL) : (cz.) decline
+[biedny]biedny (PL) : (p.) impecunious; (p.) indigent; (p.) penurious; (p.) poor; (p.) wretched
+[biedowac]biedować (PL) : (cz.) scrape
+[biedronka]biedronka (PL) : (rz.) ladybird; (rz.) ladybug
+[biedzic]biedzić (PL) : (cz.) exert
+[bieg]bieg (PL) : (rz.) circumvention; (rz.) course; (rz.) current; (rz.) flight; (rz.) fool-race; (rz.) gear; (rz.) jogging; (rz.) progress; (rz.) race; (rz.) run; (rz.) running; (rz.) scamper; (rz.) scud; (rz.) sequence; (rz.) sprint; (rz.) tenor; (rz.) tide
+[biegacz]biegacz (PL) : (rz.) jogger; (rz.) racer; (rz.) runner
+[bieganie]bieganie (PL) : (rz.) jogging; (rz.) running; (rz.) scamper
+[bieganina]bieganina (PL) : (rz.) bustle; (rz.) excitement; (rz.) hustle; (rz.) scurry
+[biegac]biegać (PL) : (cz.) jog; (cz.) run; (cz.) sprint
+[biegiem]biegiem (PL) : (p-sł.) over
+[biegle]biegle (PL) : (p-sł.) expertly; (p-sł.) fluently; (p-sł.) proficiently
+[biegun]biegun (PL) : (rz.) pole; (rz.) rocker
+[biegunka]biegunka (PL) : (rz.) diarrhoea; (rz.) dysentery
+[biegunkowy]biegunkowy (PL) : (p.) diarrhoeic; (p.) dysenteric
+[biegunowo]biegunowo (PL) : (p-sł.) diametrically
+[biegunowosc]biegunowość (PL) : (rz.) polarity
+[biegunowy]biegunowy (PL) : (p.) polar
+[biegus]biegus (PL) : (rz.) sandpiper
+[bieglosc]biegłość (PL) : (rz.) fluency; (rz.) mastery; (rz.) proficiency; (rz.) skill
+[biegly]biegły (PL) : (p.) adept; (p.) conversant; (p.) expert; (p.) fluent; (p.) proficient; (p.) skilled; (p.) versed
+[biel]biel (PL) : (rz.) white; (rz.) whiteness
+[bielactwo]bielactwo (PL) : (rz.) albinism
+[bielak]bielak (PL) : (rz.) albino
+[bielenie]bielenie (PL) : (rz.) bleach; (rz.) bleaching; (rz.) whiting
+[bielec]bieleć (PL) : (cz.) whiten
+[bielidlo]bielidło (PL) : (rz.) whiting
+[bielik]bielik (PL) : (rz.) bleach; (rz.) erne
+[bielizna]bielizna (PL) : (rz.) hosiery; (rz.) linen; (rz.) underclothes; (rz.) underclothing; (rz.) underwear
+[bielic]bielić (PL) : (cz.) blanch; (cz.) bleach; (cz.) tin; (cz.) whiten; (cz.) whitewash
+[bielizniarka]bieliźniarka (PL) : (rz.) chiffonier
+[bielmo]bielmo (PL) : (rz.) cataract; (rz.) endosperm
+[bielnik]bielnik (PL) : (rz.) bleacher
+[bierka]bierka (PL) : (rz.) checker; (rz.) kibble
+[biernie]biernie (PL) : (p-sł.) inertly; (p-sł.) passively
+[biernik]biernik (PL) : (rz.) accusative
+[biernosc]bierność (PL) : (rz.) impassivity; (rz.) inactivity; (rz.) inertness; (rz.) passivity
+[bierny]bierny (PL) : (p.) passive; (p.) quiescent
+[bierwiono]bierwiono (PL) : (rz.) log; (rz.) stump
+[bierzmowanie]bierzmowanie (PL) : (rz.) confirmation
+[bierzmowac]bierzmować (PL) : (cz.) confirm
+[bies]bies (PL) : (rz.) devil
+[biesiada]biesiada (PL) : (rz.) banquet; (rz.) feast; (rz.) revel; (rz.) revelry; (rz.) sitting; (rz.) symposium; (rz.) wassail
+[biesiadnik]biesiadnik (PL) : (rz.) banqueter; (rz.) feaster
+[biesiadny]biesiadny (PL) : (p.) convivial; (p.) festive
+[biesiadowac]biesiadować (PL) : (cz.) feast
+[bieznia]bieżnia (PL) : (rz.) airstrip; (rz.) path; (rz.) racecourse; (rz.) racetrack; (rz.) raceway; (rz.) runway; (rz.) track; (rz.) treadmill
+[bieznik]bieżnik (PL) : (rz.) tread
+[biezaco]bieżąco (PL) : (p-sł.) currently
+[biezacy]bieżący (PL) : (p.) current; (p.) obligatory
+[bifilarny]bifilarny (PL) : (p.) bifilar
+[bifurkacja]bifurkacja (PL) : (rz.) bifurcation
+[bigamia]bigamia (PL) : (rz.) bigamy
+[bigamiczny]bigamiczny (PL) : (p.) bigamous
+[bigamista]bigamista (PL) : (rz.) bigamist
+[bigos]bigos (PL) : (rz.) gallimaufry; (rz.) hotpot; (rz.) mishmash; (rz.) mulligan; (rz.) olio
+[bigoteria]bigoteria (PL) : (rz.) bigotry
+[bigoteryjny]bigoteryjny (PL) : (p.) bigoted
+[bijak]bijak (PL) : (rz.) beater; (rz.) ram
+[bijatyka]bijatyka (PL) : (rz.) brawl; (rz.) fight; (rz.) fistfight; (rz.) melee; (rz.) scrimmage
+[bijnik]bijnik (PL) : (rz.) nipple
+[bikini]bikini (PL) : (rz.) bikini
+[bila]bila (PL) : (rz.) ball; (rz.) billiard-ball
+[bilans]bilans (PL) : (rz.) balance
+[bilansista]bilansista (PL) : (rz.) accountant
+[bilansowac]bilansować (PL) : (cz.) balance
+[bilard]bilard (PL) : (rz.) bagatelle; (rz.) billiards
+[bilardowy]bilardowy (PL) : (p.) billiard
+[bilateralny]bilateralny (PL) : (p.) bilateral
+[bile]bile (PL) : (rz.) balls
+[bilet]bilet (PL) : (rz.) card; (rz.) ticket
+[bileter]bileter (PL) : (rz.) collector; (rz.) ticket-collector; (rz.) usher
+[bileterka]bileterka (PL) : (rz.) usherette
+[bilinearny]bilinearny (PL) : (p.) bilinear
+[biling]biling (PL) : (rz.) billing
+[bilion]bilion (PL) : (rz.) billion; (rz.) trillion
+[bilon]bilon (PL) : (rz.) change; (rz.) coin; (rz.) coins
+[bimber]bimber (PL) : (rz.) hooch; (rz.) moonshine
+[bimetal]bimetal (PL) : (rz.) bimetal
+[bimetaliczny]bimetaliczny (PL) : (p.) bimetallic
+[bimetalizm]bimetalizm (PL) : (rz.) bimetallism
+[bimetalowy]bimetalowy (PL) : (p.) bimetallic
+[binarny]binarny (PL) : (p.) binary
+[bindowanie]bindowanie (PL) : (rz.) binding; (rz.) bookbinding
+[bingo]bingo (PL) : (rz.) bingo
+[binokle]binokle (PL) : (rz.) eyeglasses; (rz.) eyes; (rz.) pince-nez
+[binominalny]binominalny (PL) : (p.) binomial
+[biochemia]biochemia (PL) : (rz.) biochemistry
+[biochemiczny]biochemiczny (PL) : (p.) biochemical
+[biochemik]biochemik (PL) : (rz.) biochemist
+[biodegradacja]biodegradacja (PL) : (rz.) biodegradation
+[biodro]biodro (PL) : (rz.) haunch; (rz.) hip
+[biodrowy]biodrowy (PL) : (p.) hip; (p.) iliac; (p.) pelvic
+[bioelektronika]bioelektronika (PL) : (rz.) bioelectronics
+[bioelektryczny]bioelektryczny (PL) : (p.) bioelectric
+[bioenergetyka]bioenergetyka (PL) : (rz.) bioenergetics
+[bioetyka]bioetyka (PL) : (rz.) bioethics
+[biofizyczny]biofizyczny (PL) : (p.) biophysical
+[biofizyk]biofizyk (PL) : (rz.) biophysicist; (rz.) biophysics
+[biofizyka]biofizyka (PL) : (rz.) biophysicist; (rz.) biophysics
+[biogaz]biogaz (PL) : (rz.) biogas
+[biogeneza]biogeneza (PL) : (rz.) biogenesis
+[biogeniczny]biogeniczny (PL) : (p.) biogenic
+[biogenny]biogenny (PL) : (p.) biogenic
+[biogeochemia]biogeochemia (PL) : (rz.) biogeochemistry
+[biogeografia]biogeografia (PL) : (rz.) biogeography
+[biograf]biograf (PL) : (rz.) biographer
+[biografia]biografia (PL) : (rz.) biography
+[biograficzny]biograficzny (PL) : (p.) biographic; (p.) biographical
+[biografka]biografka (PL) : (rz.) biographer
+[bioinzynieria]bioinżynieria (PL) : (rz.) bioengineering
+[biokatalizator]biokatalizator (PL) : (rz.) biocatalyst
+[bioklimatologia]bioklimatologia (PL) : (rz.) bioclimatology
+[biolog]biolog (PL) : (rz.) biologist
+[biologia]biologia (PL) : (rz.) biology
+[biologicznie]biologicznie (PL) : (p-sł.) biologically
+[biologiczny]biologiczny (PL) : (p.) biologic; (p.) biological
+[bioluminescencja]bioluminescencja (PL) : (rz.) bioluminescence
+[biomasa]biomasa (PL) : (rz.) biomass
+[biomechanika]biomechanika (PL) : (rz.) biomechanics
+[biomedycyna]biomedycyna (PL) : (rz.) biomedicine
+[biomedyczny]biomedyczny (PL) : (p.) biomedical
+[biometeorologia]biometeorologia (PL) : (rz.) biometeorology
+[biometria]biometria (PL) : (rz.) biometrics; (rz.) biometry
+[biometryczny]biometryczny (PL) : (p.) biometric
+[biometryka]biometryka (PL) : (rz.) biometrics
+[bionika]bionika (PL) : (rz.) bionics
+[biopsja]biopsja (PL) : (rz.) biopsy
+[biorca]biorca (PL) : (rz.) recipient
+[biorytm]biorytm (PL) : (rz.) biorhythm
+[bioroznorodnosc]bioróżnorodność (PL) : (rz.) biodiversity
+[biosfera]biosfera (PL) : (rz.) biosphere
+[biosynteza]biosynteza (PL) : (rz.) biosynthesis
+[biotechnika]biotechnika (PL) : (rz.) biotechnology
+[biotechnologia]biotechnologia (PL) : (rz.) biotechnology
+[biotechnologiczny]biotechnologiczny (PL) : (p.) biotechnological
+[biotop]biotop (PL) : (rz.) biotope
+[biotyczny]biotyczny (PL) : (p.) biotic
+[biotyna]biotyna (PL) : (rz.) biotin
+[biotyp]biotyp (PL) : (rz.) biotype
+[bipolarny]bipolarny (PL) : (p.) bipolar
+[birbant]birbant (PL) : (rz.) rake; (rz.) reveller
+[birbantowac]birbantować (PL) : (cz.) dissipate
+[biret]biret (PL) : (rz.) biretta
+[bis]bis (PL) : (rz.) encore
+[biseksualizm]biseksualizm (PL) : (rz.) bisexuality
+[biseksualny]biseksualny (PL) : (p.) bisexual
+[biskup]biskup (PL) : (rz.) bishop; (rz.) patriarch; (rz.) pontiff
+[biskupstwo]biskupstwo (PL) : (rz.) bishopric; (rz.) episcopate
+[biskwit]biskwit (PL) : (rz.) biscuit; (rz.) bisque
+[bisowanie]bisowanie (PL) : (rz.) encore
+[bisowac]bisować (PL) : (cz.) encore; (cz.) repeat
+[bistr]bistr (PL) : (rz.) bistros
+[bistro]bistro (PL) : (rz.) bistro
+[bisurmanic]bisurmanić (PL) : (cz.) frolic
+[biszkopt]biszkopt (PL) : (rz.) biscuit; (rz.) sponge-cake
+[bit]bit (PL) : (rz.) bit
+[bitka]bitka (PL) : (rz.) brawl; (rz.) tussle
+[bitmapa]bitmapa (PL) : (rz.) bitmap
+[bitnik]bitnik (PL) : (rz.) beatnik
+[bitny]bitny (PL) : (p.) roistering; (p.) valiant; (p.) warlike
+[bitum]bitum (PL) : (rz.) bitumen
+[bitumiczny]bitumiczny (PL) : (p.) bituminous
+[bitumin]bitumin (PL) : (rz.) bitumen
+[bitumizacja]bitumizacja (PL) : (rz.) bituminization
+[bitwa]bitwa (PL) : (rz.) battle; (rz.) combat; (rz.) engagement; (rz.) fight
+[biuletyn]biuletyn (PL) : (rz.) bulletin; (rz.) newsletter
+[biuralista]biuralista (PL) : (rz.) clerk; (rz.) official
+[biureta]biureta (PL) : (rz.) burette
+[biurko]biurko (PL) : (rz.) bureau; (rz.) davenport; (rz.) desk; (rz.) secretary; (rz.) writing-desk
+[biurkowy]biurkowy (PL) : (p.) desktop
+[biuro]biuro (PL) : (rz.) agency; (rz.) bureau; (rz.) office; (rz.) personnel
+[biurokracja]biurokracja (PL) : (rz.) bureaucracy; (rz.) officialdom
+[biurokrata]biurokrata (PL) : (rz.) bureaucrat
+[biurokratycznie]biurokratycznie (PL) : (p-sł.) bureaucratically
+[biurokratyczny]biurokratyczny (PL) : (p.) bureaucratic
+[biurokratyzacja]biurokratyzacja (PL) : (rz.) bureaucracy; (rz.) bureaucratization
+[biurowiec]biurowiec (PL) : (rz.) office
+[biurowy]biurowy (PL) : (p.) clerical; (p.) white-collar
+[biust]biust (PL) : (rz.) bosoms; (rz.) breast; (rz.) breasts; (rz.) bust
+[biustonosz]biustonosz (PL) : (rz.) bra; (rz.) brassiere
+[biwak]biwak (PL) : (rz.) bivouac; (rz.) camp
+[biwakowanie]biwakowanie (PL) : (rz.) bivouacking; (rz.) camping
+[biwakowac]biwakować (PL) : (cz.) bivouac; (cz.) camp
+[biwakowicz]biwakowicz (PL) : (rz.) camper
+[bizmut]bizmut (PL) : (rz.) bismuth
+[biznes]biznes (PL) : (rz.) business
+[biznesmen]biznesmen (PL) : (rz.) businessman
+[bizon]bizon (PL) : (rz.) bison
+[bizun]bizun (PL) : (rz.) thong
+[bic]bić (PL) : (cz.) battle; (cz.) beat; (cz.) disprove; (cz.) fight; (cz.) fill; (cz.) gush; (cz.) mint; (cz.) palpitate; (cz.) pant; (cz.) pulsate; (cz.) scuffle; (cz.) shat; (cz.) strike; (cz.) thrash; (cz.) thresh; (cz.) throb; (cz.) toll; (cz.) tussle; (cz.) wallop; (cz.) well; (cz.) whack; (cz.) whip
+[bizuteria]biżuteria (PL) : (rz.) finery; (rz.) jewel; (rz.) jewellery
+[blacha]blacha (PL) : (rz.) griddle; (rz.) latten; (rz.) sheet; (rz.) tin
+[blacharstwo]blacharstwo (PL) : (rz.) tinwork
+[blacharz]blacharz (PL) : (rz.) tinsmith; (rz.) whitesmith
+[blado]blado (PL) : (p-sł.) palely; (p-sł.) wanly
+[bladoczerwony]bladoczerwony (PL) : (p.) pale-red
+[bladolicy]bladolicy (PL) : (p.) pale-faced
+[bladosc]bladość (PL) : (rz.) paleness; (rz.) pallor
+[blady]blady (PL) : (p.) ashen; (p.) ashy; (p.) blank; (p.) ghastly; (p.) lunar; (p.) pale; (p.) pallid; (p.) sallow; (p.) wan; (p.) white
+[blaga]blaga (PL) : (rz.) bluff; (rz.) flam; (rz.) humbug; (rz.) lie
+[blagier]blagier (PL) : (rz.) bluffer; (rz.) bouncer; (rz.) braggart; (rz.) humbug; (rz.) romancer
+[blagowac]blagować (PL) : (cz.) bluff; (cz.) bounce; (cz.) flam
+[blakniecie]blaknięcie (PL) : (rz.) discolouration
+[blaknac]blaknąć (PL) : (cz.) bleed; (cz.) decline; (cz.) fade
+[blamaz]blamaż (PL) : (rz.) disgrace
+[blamowac]blamować (PL) : (cz.) lose
+[blanka]blanka (PL) : (rz.) battlement
+[blankiet]blankiet (PL) : (rz.) blank; (rz.) form; (rz.) slip
+[blankowy]blankowy (PL) : (p.) short
+[blanszowanie]blanszowanie (PL) : (rz.) blanching
+[blanszowac]blanszować (PL) : (cz.) blanch
+[blask]blask (PL) : (rz.) blaze; (rz.) brightness; (rz.) brilliance; (rz.) dazzle; (rz.) effulgence; (rz.) flame; (rz.) flare; (rz.) glamour; (rz.) glare; (rz.) gleam; (rz.) glitter; (rz.) glitz; (rz.) gloss; (rz.) glossiness; (rz.) glow; (rz.) glowing; (rz.) irradiation; (rz.) lucidity; (rz.) lustre; (rz.) radiance; (rz.) refulgence; (rz.) sheen; (rz.) shine; (rz.) sparkle; (rz.) sunshine
+[blaszanka]blaszanka (PL) : (rz.) can; (rz.) milk-can; (rz.) petrol-can; (rz.) tin
+[blaszany]blaszany (PL) : (p.) tinny
+[blaszka]blaszka (PL) : (rz.) blade; (rz.) clout; (rz.) lamella; (rz.) lamina; (rz.) metal
+[blaszkowaty]blaszkowaty (PL) : (p.) laminar
+[blaszkowy]blaszkowy (PL) : (p.) foliate
+[blat]blat (PL) : (rz.) tabletop
+[blednica]blednica (PL) : (rz.) greensickness; (rz.) green-sickness
+[blef]blef (PL) : (rz.) bluff
+[blefiarz]blefiarz (PL) : (rz.) bluffer
+[blefowanie]blefowanie (PL) : (rz.) bluffing; (rz.) bluffness
+[blefowac]blefować (PL) : (cz.) bluff
+[blejtram]blejtram (PL) : (rz.) stretcher
+[blenda]blenda (PL) : (rz.) diaphragm
+[blezer]blezer (PL) : (rz.) blazer; (rz.) cardigan
+[blichtr]blichtr (PL) : (rz.) glare; (rz.) glitz; (rz.) gloss
+[bliski]bliski (PL) : (p.) allied; (p.) close; (p.) cognate; (p.) congenial; (p.) imminent; (p.) near; (p.) nigh; (p.) proximate; (p.) related; (p.) specific
+[bliskie]bliskie (PL) : (rz.) near-miss
+[blisko]blisko (PL) : (p-sł.) by; (p-sł.) close; (p-sł.) hereabouts; (p-sł.) imminently; (p-sł.) near; (p-sł.) nearly; (p-sł.) nigh
+[bliskoznaczny]bliskoznaczny (PL) : (p.) synonymous
+[bliskosc]bliskość (PL) : (rz.) affinity; (rz.) approximation; (rz.) closeness; (rz.) contiguity; (rz.) imminence; (rz.) intimacy; (rz.) nearness; (rz.) neighbourhood; (rz.) propinquity; (rz.) proximity; (rz.) vicinity
+[blizna]blizna (PL) : (rz.) scar
+[bliznowaciec]bliznowacieć (PL) : (cz.) cicatrize
+[blizni]bliźni (PL) : (rz.) neighbour
+[blizniaczy]bliźniaczy (PL) : (p.) semidetached; (p.) semi-detached
+[blizniak]bliźniak (PL) : (rz.) twin
+[blizniaki]bliźniaki (PL) : (rz.) twins
+[bliznic]bliźnić (PL) : (cz.) heal; (cz.) scar
+[blok]blok (PL) : (rz.) bloc; (rz.) block; (rz.) notepad; (rz.) pad; (rz.) pile; (rz.) pulley
+[blokada]blokada (PL) : (rz.) block; (rz.) blockade; (rz.) blockage; (rz.) blocker; (rz.) deadlock; (rz.) lock
+[blokhauz]blokhauz (PL) : (rz.) sconce
+[blokowanie]blokowanie (PL) : (rz.) blocking
+[blokowany]blokowany (PL) : (p.) lockable
+[blokowac]blokować (PL) : (cz.) block; (cz.) blockade; (cz.) disable; (cz.) lock; (cz.) obstruct
+[blond]blond (PL) : (rz.) blond; (rz.) blonde; (rz.) fair
+[blondyn]blondyn (PL) : (rz.) blond; (rz.) blonde; (rz.) goldilocks; (rz.) whitey
+[blondynek]blondynek (PL) : (rz.) blondes
+[blondynka]blondynka (PL) : (rz.) blonde
+[blues]blues (PL) : (rz.) blues
+[bluff]bluff (PL) : (rz.) bluff
+[bluffowac]bluffować (PL) : (cz.) bluff
+[bluszcz]bluszcz (PL) : (rz.) ivy
+[bluszczowy]bluszczowy (PL) : (p.) ivied
+[bluza]bluza (PL) : (rz.) blouse; (rz.) jacket; (rz.) jumper; (rz.) smock; (rz.) sweatshirt; (rz.) tunic
+[bluzgac]bluzgać (PL) : (cz.) jet
+[bluzka]bluzka (PL) : (rz.) blouse; (rz.) shirt; (rz.) smock
+[bluznierca]bluźnierca (PL) : (rz.) blasphemer
+[bluznierczy]bluźnierczy (PL) : (p.) blasphemous; (p.) profane
+[bluznierstwo]bluźnierstwo (PL) : (rz.) blasphemy; (rz.) profanity
+[bluznic]bluźnić (PL) : (cz.) ban; (cz.) blaspheme
+[bo]bo (PL) : (spójnik) because
+[boa]boa (PL) : (rz.) boa
+[boazeria]boazeria (PL) : (rz.) panelling; (rz.) wainscot
+[bobas]bobas (PL) : (rz.) baby; (rz.) dot
+[bobina]bobina (PL) : (rz.) bobbin
+[bobsleista]bobsleista (PL) : (rz.) bobsledder
+[bobslej]bobslej (PL) : (rz.) bobsled; (rz.) bob-sled; (rz.) bobsleigh; (rz.) bob-sleigh; (rz.) bobsleighing
+[bochen]bochen (PL) : (rz.) loaf
+[bochenek]bochenek (PL) : (rz.) cob; (rz.) loaf
+[bocian]bocian (PL) : (rz.) stork
+[bociani]bociani (PL) : (p.) stork's
+[boczek]boczek (PL) : (rz.) bacon; (rz.) side
+[bocznica]bocznica (PL) : (rz.) lay-by; (rz.) side-track; (rz.) siding
+[bocznie]bocznie (PL) : (p-sł.) laterally
+[bocznik]bocznik (PL) : (rz.) by-pass; (rz.) pass; (rz.) shunt
+[bocznikowac]bocznikować (PL) : (cz.) shunt
+[boczny]boczny (PL) : (p.) lateral; (p.) sidelong
+[boczyc]boczyć (PL) : (cz.) frown; (cz.) sulk
+[bod]bod (PL) : (rz.) baud
+[bodnia]bodnia (PL) : (rz.) fore-shaft
+[bodziec]bodziec (PL) : (rz.) impetus; (rz.) impulse; (rz.) incentive; (rz.) inducement; (rz.) prod; (rz.) spur; (rz.) stimulant; (rz.) stimulus
+[bogactwo]bogactwo (PL) : (rz.) fortune; (rz.) opulence; (rz.) riches; (rz.) richness; (rz.) shekel; (rz.) variety; (rz.) wealth
+[bogacz]bogacz (PL) : (rz.) millionaire; (rz.) nabob
+[bogato]bogato (PL) : (p-sł.) richly; (p-sł.) sumptuously
+[bogaty]bogaty (PL) : (p.) abundant; (p.) affluent; (p.) moneyed; (p.) opulent; (p.) plenteous; (p.) rich; (p.) richer; (p.) wealthy; (p.) well-off
+[bogdanka]bogdanka (PL) : (rz.) leman; (rz.) sweetheart
+[bogini]bogini (PL) : (rz.) goddess
+[boginka]boginka (PL) : (rz.) nymph
+[bogobojnosc]bogobojność (PL) : (rz.) godliness
+[bogobojny]bogobojny (PL) : (p.) devout; (p.) god-fearing; (p.) godly; (p.) pious; (p.) righteous
+[bohater]bohater (PL) : (rz.) character; (rz.) hero
+[bohaterka]bohaterka (PL) : (rz.) heroine
+[bohaterski]bohaterski (PL) : (p.) epic; (p.) heroic
+[bohatersko]bohatersko (PL) : (p-sł.) heroically
+[bohaterstwo]bohaterstwo (PL) : (rz.) heroism; (rz.) valour
+[bohema]bohema (PL) : (rz.) bohemia; (rz.) bohemians
+[bohomaz]bohomaz (PL) : (rz.) daub
+[boisko]boisko (PL) : (rz.) ballpark; (rz.) field; (rz.) gymnasium; (rz.) pitch; (rz.) playground
+[boja]boja (PL) : (rz.) beacon; (rz.) buoy
+[bojar]bojar (PL) : (rz.) boyar
+[bojazliwie]bojaźliwie (PL) : (p-sł.) fearfully; (p-sł.) timidly
+[bojazliwosc]bojaźliwość (PL) : (rz.) timidity
+[bojazliwy]bojaźliwy (PL) : (p.) apprehensive; (p.) bashful; (p.) diffident; (p.) fainthearted; (p.) faint-hearted; (p.) fearful; (p.) pigeon-hearted; (p.) scary; (p.) shamefaced; (p.) sheepish; (p.) shy; (p.) timid; (p.) timorous; (p.) white-livered
+[bojazn]bojaźń (PL) : (rz.) fear; (rz.) terror
+[bojer]bojer (PL) : (rz.) iceboat; (rz.) ice-boat
+[bojkot]bojkot (PL) : (rz.) boycott
+[bojkotowac]bojkotować (PL) : (cz.) black; (cz.) boycott
+[bojler]bojler (PL) : (rz.) boiler
+[bojowiec]bojowiec (PL) : (rz.) fighter
+[bojownik]bojownik (PL) : (rz.) campaigner; (rz.) champion; (rz.) combatant; (rz.) fighter; (rz.) militant
+[bojowosc]bojowość (PL) : (rz.) bellicosity; (rz.) militancy
+[bojowy]bojowy (PL) : (p.) bellicose; (p.) belligerent; (p.) combative; (p.) military; (p.) warlike
+[bojowkarz]bojówkarz (PL) : (rz.) fighter
+[bok]bok (PL) : (rz.) flank; (rz.) side
+[bokiem]bokiem (PL) : (p-sł.) sideways
+[bokobrody]bokobrody (PL) : (rz.) side-whiskers; (rz.) whiskers
+[boks]boks (PL) : (rz.) box; (rz.) boxing; (rz.) pugilism
+[bokser]bokser (PL) : (rz.) boxer; (rz.) bulldog; (rz.) prize-fighter; (rz.) puncher
+[boksowanie]boksowanie (PL) : (rz.) boxes
+[boksowac]boksować (PL) : (cz.) box
+[boksyt]boksyt (PL) : (rz.) bauxite
+[bolec]bolec (PL) : (rz.) bolt; (rz.) cotter; (rz.) pin; (rz.) sprocket
+[bolero]bolero (PL) : (rz.) bolero
+[bolesnosc]bolesność (PL) : (rz.) pain; (rz.) painfulness
+[bolesny]bolesny (PL) : (p.) aching; (p.) distressed; (p.) grievous; (p.) hurtful; (p.) mournful; (p.) painful; (p.) smart; (p.) sore; (p.) sorrowful
+[bolec]boleć (PL) : (cz.) ache; (cz.) ail; (cz.) hurt; (cz.) kill; (cz.) pain; (cz.) smart
+[bolesciwy]boleściwy (PL) : (p.) woebegone
+[bolesnie]boleśnie (PL) : (p-sł.) painfully
+[bolesc]boleść (PL) : (rz.) anguish; (rz.) distress; (rz.) heartbreak; (rz.) pain; (rz.) soreness
+[bolid]bolid (PL) : (rz.) fireball
+[bolometr]bolometr (PL) : (rz.) bolometer
+[bolonek]bolonek (PL) : (rz.) boloney
+[bolszewik]bolszewik (PL) : (rz.) Bolshevik
+[bolszewizm]bolszewizm (PL) : (rz.) bolshevism
+[bolus]bolus (PL) : (rz.) bole
+[bolaczka]bolączka (PL) : (rz.) complaint; (rz.) problem
+[bom]bom (PL) : (rz.) boom
+[bomba]bomba (PL) : (rz.) bock; (rz.) bomb; (rz.) bombshell; (rz.) mine; (rz.) nuke; (rz.) sensation
+[bombardier]bombardier (PL) : (rz.) bombardier
+[bombardowanie]bombardowanie (PL) : (rz.) bombardment; (rz.) bombing; (rz.) raid; (rz.) tarnish
+[bombardowac]bombardować (PL) : (cz.) bomb; (cz.) bombard; (cz.) pelt; (cz.) raid; (cz.) strafe
+[bombastyczny]bombastyczny (PL) : (p.) bombastic; (p.) orotund
+[bombowiec]bombowiec (PL) : (rz.) bomber
+[bombramzagiel]bombramżagiel (PL) : (rz.) royal
+[bomu]bomu (PL) : (rz.) outreach
+[bon]bon (PL) : (rz.) bond; (rz.) coupon; (rz.) ticket
+[bonifikacja]bonifikacja (PL) : (rz.) allowance
+[bonifikata]bonifikata (PL) : (rz.) allowance; (rz.) discount; (rz.) reduction
+[bonifikowac]bonifikować (PL) : (cz.) equilibrate
+[boniowanie]boniowanie (PL) : (rz.) rustication
+[bonza]bonza (PL) : (rz.) bonze
+[bor]bor (PL) : (rz.) boron
+[boraks]boraks (PL) : (rz.) borax
+[boran]boran (PL) : (rz.) borate
+[borazon]borazon (PL) : (rz.) borazon
+[bordiura]bordiura (PL) : (rz.) rim
+[bordowy]bordowy (PL) : (p.) maroon
+[borealny]borealny (PL) : (p.) boreal
+[borek]borek (PL) : (rz.) boride
+[borny]borny (PL) : (p.) boric
+[borowac]borować (PL) : (cz.) drill
+[borowik]borowik (PL) : (rz.) boletus
+[borowina]borowina (PL) : (rz.) mud; (rz.) whortleberry
+[borowy]borowy (PL) : (p.) boric
+[borsuk]borsuk (PL) : (rz.) badger
+[borta]borta (PL) : (rz.) galloon
+[borykanie]borykanie (PL) : (rz.) ailment; (rz.) fight
+[borykac]borykać (PL) : (cz.) agonize; (cz.) cope; (cz.) face; (cz.) struggle; (cz.) wrestle
+[borowka]borówka (PL) : (rz.) bilberry; (rz.) blueberry; (rz.) cranberry; (rz.) huckleberry
+[bosak]bosak (PL) : (rz.) boathook; (rz.) boat-hook
+[boski]boski (PL) : (p.) divine; (p.) godlike; (p.) supernal
+[bosko]bosko (PL) : (p-sł.) divinely
+[boskosc]boskość (PL) : (rz.) divinity
+[bosman]bosman (PL) : (rz.) boatswain
+[boso]boso (PL) : (p-sł.) barefoot
+[bosonogi]bosonogi (PL) : (p.) barefoot; (p.) barefooted
+[bosy]bosy (PL) : (p.) bare; (p.) barefoot; (p.) barefooted
+[bot]bot (PL) : (rz.) overshoe
+[botanicznie]botanicznie (PL) : (p-sł.) botanically
+[botaniczny]botaniczny (PL) : (p.) botanic; (p.) botanical
+[botanik]botanik (PL) : (rz.) botanist
+[botanika]botanika (PL) : (rz.) botanist; (rz.) botany
+[botulizm]botulizm (PL) : (rz.) botulism
+[bowiem]bowiem (PL) : (spójnik) because
+[bozon]bozon (PL) : (rz.) boson
+[bocwina]boćwina (PL) : (rz.) chard
+[bozek]bożek (PL) : (rz.) god; (rz.) idol
+[boznica]bożnica (PL) : (rz.) synagogue
+[bozy]boży (PL) : (p.) divine
+[bozyszcze]bożyszcze (PL) : (rz.) idol; (rz.) mumbo-jumbo
+[braciszek]braciszek (PL) : (rz.) brother
+[bractwo]bractwo (PL) : (rz.) brotherhood; (rz.) confraternity; (rz.) fraternity; (rz.) guild
+[brajtszwanc]brajtszwanc (PL) : (rz.) broadtail
+[brak]brak (PL) : (rz.) absence; (rz.) dearth; (rz.) default; (rz.) defect; (rz.) deficiency; (rz.) drawback; (rz.) failing; (rz.) famine; (rz.) fault; (rz.) imbalance; (rz.) lack; (rz.) paucity; (rz.) privation; (rz.) reject; (rz.) scarcity; (rz.) shilly-shally; (rz.) shortage; (rz.) shortcoming; (rz.) sparseness; (rz.) stringency; (rz.) vice; (rz.) want
+[brakarz]brakarz (PL) : (rz.) sorter
+[braki]braki (PL) : (rz.) discards
+[brakorobstwo]brakoróbstwo (PL) : (rz.) wastage
+[brakowanie]brakowanie (PL) : (rz.) rejection
+[brakowac]brakować (PL) : (cz.) lack; (cz.) missing; (cz.) reject; (cz.) want
+[brakujacy]brakujący (PL) : (p.) deficient; (p.) missing; (p.) null
+[brama]brama (PL) : (rz.) archway; (rz.) doorway; (rz.) gantry; (rz.) gate; (rz.) gateway; (rz.) portal
+[bramka]bramka (PL) : (rz.) bar; (rz.) barrier; (rz.) bouncer; (rz.) gantry; (rz.) gate; (rz.) goal; (rz.) net; (rz.) strobe; (rz.) tollgate; (rz.) wicket
+[bramkarz]bramkarz (PL) : (rz.) bouncer; (rz.) goalie; (rz.) goalkeeper; (rz.) goal-keeper
+[bramkowanie]bramkowanie (PL) : (rz.) gating
+[bramowanie]bramowanie (PL) : (rz.) border
+[bramowac]bramować (PL) : (cz.) border
+[bramsel]bramsel (PL) : (rz.) topgallant
+[bramzagiel]bramżagiel (PL) : (rz.) topgallant
+[brandzel]brandzel (PL) : (rz.) insole
+[branka]branka (PL) : (rz.) recruitment
+[bransoleta]bransoleta (PL) : (rz.) armlet; (rz.) bangle; (rz.) bracelet; (rz.) wristband
+[bransoletka]bransoletka (PL) : (rz.) armband; (rz.) bangle; (rz.) bracelet; (rz.) wristband
+[branza]branża (PL) : (rz.) branch; (rz.) business; (rz.) trade
+[branzowy]branżowy (PL) : (p.) professional
+[brat]brat (PL) : (rz.) bro; (rz.) brother; (rz.) sibling
+[bratanek]bratanek (PL) : (rz.) nephew
+[bratanica]bratanica (PL) : (rz.) niece
+[bratanie]bratanie (PL) : (rz.) fraternization
+[bratac]bratać (PL) : (cz.) fraternize
+[bratek]bratek (PL) : (rz.) pansy
+[braterski]braterski (PL) : (p.) brotherly; (p.) fraternal
+[braterstwo]braterstwo (PL) : (rz.) brotherhood; (rz.) brotherliness; (rz.) comradeship; (rz.) fraternity
+[bratni]bratni (PL) : (p.) brotherly; (p.) fraternal; (p.) kindred
+[bratobojca]bratobójca (PL) : (rz.) fratricide
+[bratobojczy]bratobójczy (PL) : (p.) fratricidal
+[bratobojstwo]bratobójstwo (PL) : (rz.) fratricide
+[bratowa]bratowa (PL) : (rz.) sister; (rz.) sister-in-law
+[brawo]brawo (PL) : (rz.) applause
+[brawura]brawura (PL) : (rz.) bravado; (rz.) bravura; (rz.) daring; (rz.) dash; (rz.) gallantry; (rz.) recklessness
+[brawurowy]brawurowy (PL) : (p.) daring
+[brac]brać (PL) : (cz.) assume; (cz.) derive; (cz.) gain; (cz.) jockey; (cz.) lark; (cz.) open; (cz.) receive; (cz.) take
+[brednia]brednia (PL) : (rz.) nonsense; (rz.) rubbish
+[brednie]brednie (PL) : (rz.) bullshit; (rz.) footle
+[bredzenie]bredzenie (PL) : (rz.) delirium
+[bredzic]bredzić (PL) : (cz.) maunder; (cz.) rave
+[breja]breja (PL) : (rz.) mash; (rz.) mush; (rz.) slush
+[brek]brek (PL) : (rz.) break
+[breloczek]breloczek (PL) : (rz.) pendant
+[brew]brew (PL) : (rz.) brow; (rz.) eyebrow
+[brewerie]brewerie (PL) : (rz.) brawl; (rz.) rows
+[brewiarz]brewiarz (PL) : (rz.) breviary
+[brezent]brezent (PL) : (rz.) canvas; (rz.) groundsheet; (rz.) tarp; (rz.) tarpaulin
+[brniecie]brnięcie (PL) : (rz.) flounder
+[brnac]brnąć (PL) : (cz.) flounder; (cz.) muddle; (cz.) struggle; (cz.) wade
+[broczyc]broczyć (PL) : (cz.) flow; (cz.) imbrue
+[broda]broda (PL) : (rz.) barb; (rz.) beard; (rz.) chin; (rz.) stubble
+[brodacz]brodacz (PL) : (rz.) barbet
+[brodaty]brodaty (PL) : (p.) bearded
+[brodawka]brodawka (PL) : (rz.) nipple; (rz.) papilla; (rz.) wart
+[brodawkowaty]brodawkowaty (PL) : (p.) warty
+[brodawkowy]brodawkowy (PL) : (p.) papillary; (p.) warty
+[brodzenie]brodzenie (PL) : (rz.) flounder
+[brodziec]brodziec (PL) : (rz.) sandpiper; (rz.) wader
+[brodzic]brodzić (PL) : (cz.) flounder; (cz.) paddle; (cz.) wade
+[broic]broić (PL) : (cz.) romp
+[brojler]brojler (PL) : (rz.) broiler
+[brokat]brokat (PL) : (rz.) brocade
+[brokatowy]brokatowy (PL) : (p.) brocaded
+[brokerski]brokerski (PL) : (p.) broker's
+[brokuly]brokuły (PL) : (rz.) broccoli
+[brom]brom (PL) : (rz.) bromine
+[bromek]bromek (PL) : (rz.) bromide
+[brona]brona (PL) : (rz.) harrow
+[bronchit]bronchit (PL) : (rz.) bronchitis
+[bronic]bronić (PL) : (cz.) advocate; (cz.) assert; (cz.) defend; (cz.) fend; (cz.) justify; (cz.) plead; (cz.) pleaded; (cz.) protect; (cz.) save; (cz.) vindicate; (cz.) ward
+[bronowac]bronować (PL) : (cz.) drag; (cz.) harrow
+[brosz]brosz (PL) : (rz.) filing
+[brosza]brosza (PL) : (rz.) boss; (rz.) brooches
+[broszka]broszka (PL) : (rz.) brooch
+[broszura]broszura (PL) : (rz.) booklet; (rz.) brochure; (rz.) folder; (rz.) pamphlet
+[broszurka]broszurka (PL) : (rz.) brochure; (rz.) folder; (rz.) leaflet; (rz.) paperback
+[broszurowac]broszurować (PL) : (cz.) stitch
+[browar]browar (PL) : (rz.) brew; (rz.) brewery
+[browarnictwo]browarnictwo (PL) : (rz.) brewing
+[browning]browning (PL) : (rz.) browning
+[bron]broń (PL) : (rz.) arm; (rz.) arms; (rz.) bough; (rz.) firearm; (rz.) gun; (rz.) lance; (rz.) weapon; (rz.) weaponry
+[bruceloza]bruceloza (PL) : (rz.) brucellosis
+[brud]brud (PL) : (rz.) dirt; (rz.) filth; (rz.) grime; (rz.) muck; (rz.) scud; (rz.) shit; (rz.) smut; (rz.) soil; (rz.) squalor
+[brudas]brudas (PL) : (rz.) muckworm; (rz.) slattern; (rz.) trollop
+[brudno]brudno (PL) : (p-sł.) dirtily; (p-sł.) filthily
+[brudnopis]brudnopis (PL) : (rz.) draft
+[brudny]brudny (PL) : (p.) dirty; (p.) filthy; (p.) foul; (p.) greasy; (p.) grimy; (p.) grubby; (p.) messy; (p.) obscene; (p.) piggish; (p.) scruffy; (p.) sleazy; (p.) sordid; (p.) squalid
+[brudzic]brudzić (PL) : (cz.) befoul; (cz.) dirty; (cz.) foul; (cz.) grime; (cz.) smirch; (cz.) smudge; (cz.) stain
+[bruk]bruk (PL) : (rz.) cobble; (rz.) cobblestone; (rz.) cobblestones; (rz.) pavement
+[brukac]brukać (PL) : (cz.) stain
+[brukiew]brukiew (PL) : (rz.) rutabaga; (rz.) turnip
+[brukowanie]brukowanie (PL) : (rz.) paving
+[brukowac]brukować (PL) : (cz.) cobble; (cz.) imbricate; (cz.) pave
+[brukowiec]brukowiec (PL) : (rz.) cobble; (rz.) cobblestone; (rz.) rag; (rz.) tabloid
+[brulion]brulion (PL) : (rz.) notebook
+[brunatnawy]brunatnawy (PL) : (p.) brownish
+[brunatny]brunatny (PL) : (p.) brown; (p.) russet
+[brunet]brunet (PL) : (rz.) brunet
+[brunetka]brunetka (PL) : (rz.) brunette
+[brus]brus (PL) : (rz.) hone
+[brusznica]brusznica (PL) : (rz.) cowberry
+[brutal]brutal (PL) : (rz.) brute; (rz.) bully; (rz.) roughneck; (rz.) rough-neck; (rz.) ruffian
+[brutalizacja]brutalizacja (PL) : (rz.) brutalization
+[brutalizm]brutalizm (PL) : (rz.) brutalism
+[brutalizowac]brutalizować (PL) : (cz.) brutalize
+[brutalnie]brutalnie (PL) : (p-sł.) brutally; (p-sł.) roughly
+[brutalnosc]brutalność (PL) : (rz.) brutality; (rz.) brutishness; (rz.) savagery
+[brutalny]brutalny (PL) : (p.) beastly; (p.) brutal; (p.) brute; (p.) brutish; (p.) crude; (p.) harsh; (p.) heavy-handed; (p.) rough; (p.) savage
+[brutto]brutto (PL) : (rz.) gross; (rz.) pre-tax
+[bruzda]bruzda (PL) : (rz.) chase; (rz.) fissure; (rz.) furrow; (rz.) groove; (rz.) rut
+[bruzdowac]bruzdować (PL) : (cz.) groove
+[bruzdzic]bruździć (PL) : (cz.) groove; (cz.) root
+[brwi]brwi (PL) : (rz.) brow; (rz.) brows; (rz.) eyebrow
+[bryczesy]bryczesy (PL) : (rz.) breeches
+[bryczka]bryczka (PL) : (rz.) break; (rz.) britzka; (rz.) cab
+[brydz]brydż (PL) : (rz.) bridge
+[bryg]bryg (PL) : (rz.) brig
+[brygada]brygada (PL) : (rz.) brigade; (rz.) gang; (rz.) party; (rz.) team
+[brygadier]brygadier (PL) : (rz.) brigadier; (rz.) foreman; (rz.) ganger
+[brygadzista]brygadzista (PL) : (rz.) foreman; (rz.) ganger
+[brygantyna]brygantyna (PL) : (rz.) brigantine
+[bryja]bryja (PL) : (rz.) mash; (rz.) slush
+[bryk]bryk (PL) : (rz.) crammer; (rz.) crib
+[bryka]bryka (PL) : (rz.) bucks; (rz.) dray
+[brykac]brykać (PL) : (cz.) cavort; (cz.) prance; (cz.) romp; (cz.) skip
+[brykiet]brykiet (PL) : (rz.) briquette
+[brylant]brylant (PL) : (rz.) brilliant; (rz.) diamond
+[brylantyna]brylantyna (PL) : (rz.) brilliantine; (rz.) pomade
+[brystol]brystol (PL) : (rz.) Bristol; (rz.) cardstock
+[bryt]bryt (PL) : (rz.) gore
+[brytan]brytan (PL) : (rz.) mastiff
+[brytfanna]brytfanna (PL) : (rz.) frying-pan; (rz.) oven-pan; (rz.) pan
+[bryza]bryza (PL) : (rz.) breeze
+[bryzg]bryzg (PL) : (rz.) splash
+[bryzganie]bryzganie (PL) : (rz.) spatter; (rz.) splash; (rz.) sputter
+[bryzgac]bryzgać (PL) : (cz.) spatter; (cz.) splash; (cz.) splatter
+[bryla]bryła (PL) : (rz.) block; (rz.) chunk; (rz.) hunk; (rz.) lump; (rz.) sphere
+[brylka]bryłka (PL) : (rz.) nodule; (rz.) nugget; (rz.) slug
+[brylkowaty]bryłkowaty (PL) : (p.) cloggy
+[brylowatosc]bryłowatość (PL) : (rz.) massiveness
+[brylowaty]bryłowaty (PL) : (p.) lumpy; (p.) massy
+[brylowy]bryłowy (PL) : (p.) solid
+[brzana]brzana (PL) : (rz.) girlie
+[brzanka]brzanka (PL) : (rz.) timothy
+[brzask]brzask (PL) : (rz.) alba; (rz.) dawn; (rz.) daybreak; (rz.) twilight
+[brzdac]brzdąc (PL) : (rz.) bantling; (rz.) poppet; (rz.) tot
+[brzdakanie]brzdąkanie (PL) : (rz.) strum
+[brzdakac]brzdąkać (PL) : (cz.) strum; (cz.) twang
+[brzdek]brzdęk (PL) : (rz.) tang; (rz.) twang
+[brzechwa]brzechwa (PL) : (rz.) fin; (rz.) vane
+[brzeg]brzeg (PL) : (rz.) bank; (rz.) border; (rz.) brim; (rz.) brink; (rz.) coast; (rz.) edge; (rz.) edging; (rz.) hem; (rz.) lip; (rz.) ridge; (rz.) rim; (rz.) riverside; (rz.) shore; (rz.) side; (rz.) strand; (rz.) verge; (rz.) waterside
+[brzegowe]brzegowe (PL) : (rz.) wharf
+[brzegowy]brzegowy (PL) : (p.) coastal; (p.) marginal; (p.) marginality
+[brzemiennosc]brzemienność (PL) : (rz.) pregnancy
+[brzemienny]brzemienny (PL) : (p.) big; (p.) fateful; (p.) fraught; (p.) momentous; (p.) pregnant
+[brzemie]brzemię (PL) : (rz.) burden; (rz.) burthen; (rz.) load; (rz.) weight
+[brzeszczot]brzeszczot (PL) : (rz.) blade; (rz.) sword-blade
+[brzezina]brzezina (PL) : (rz.) birch
+[brzezek]brzeżek (PL) : (rz.) edge
+[brzezny]brzeżny (PL) : (p.) marginal
+[brzmienie]brzmienie (PL) : (rz.) sound; (rz.) tenor; (rz.) timbre; (rz.) tone
+[brzmieniowy]brzmieniowy (PL) : (p.) sound
+[brzmiec]brzmieć (PL) : (cz.) read; (cz.) sound
+[brzmiacy]brzmiący (PL) : (p.) resonant; (p.) voiced
+[brzoskwinia]brzoskwinia (PL) : (rz.) peach; (rz.) peach-tree
+[brzoskwiniowy]brzoskwiniowy (PL) : (p.) peach; (p.) peachy
+[brzoza]brzoza (PL) : (rz.) birch
+[brzuch]brzuch (PL) : (rz.) abdomen; (rz.) belly; (rz.) gut; (rz.) paunch; (rz.) stomach; (rz.) tummy
+[brzuchacz]brzuchacz (PL) : (rz.) potbelly; (rz.) pot-belly
+[brzuchaty]brzuchaty (PL) : (p.) bulging; (p.) corpulent; (p.) paunchy; (p.) potbellied; (p.) pot-bellied
+[brzuchomowca]brzuchomówca (PL) : (rz.) ventriloquist
+[brzuchomowstwo]brzuchomówstwo (PL) : (rz.) ventriloquism
+[brzusiec]brzusiec (PL) : (rz.) belly; (rz.) pad
+[brzuszny]brzuszny (PL) : (p.) abdominal; (p.) ventral
+[brzydactwo]brzydactwo (PL) : (rz.) eyesore
+[brzydki]brzydki (PL) : (p.) dirty; (p.) favoured; (p.) frumpish; (p.) frumpy; (p.) homely; (p.) ill-favoured; (p.) ugly; (p.) unsightly
+[brzydko]brzydko (PL) : (p-sł.) hideously; (p-sł.) meanly; (p-sł.) terribly
+[brzydota]brzydota (PL) : (rz.) deformity; (rz.) eyesore; (rz.) hideousness; (rz.) ugliness
+[brzydula]brzydula (PL) : (rz.) bag; (rz.) lemon
+[brzydzenie]brzydzenie (PL) : (rz.) abhorring; (rz.) disgust
+[brzydzic]brzydzić (PL) : (cz.) abhor; (cz.) abominate; (cz.) disgust; (cz.) execrate; (cz.) loathe
+[brzytwa]brzytwa (PL) : (rz.) razor
+[brzozka]brzózka (PL) : (rz.) birch
+[brzakac]brząkać (PL) : (cz.) strum
+[brzeczenie]brzęczenie (PL) : (rz.) beeps; (rz.) buzz; (rz.) buzzing; (rz.) hum; (rz.) jangle; (rz.) ting; (rz.) tinkle
+[brzeczec]brzęczeć (PL) : (cz.) beep; (cz.) buzz; (cz.) chink; (cz.) clang; (cz.) clatter; (cz.) clink; (cz.) clunk; (cz.) drone; (cz.) hum; (cz.) jangle; (cz.) jar; (cz.) jingle; (cz.) ting; (cz.) tingle; (cz.) tinkle; (cz.) twang; (cz.) whir; (cz.) whirr; (cz.) whiz; (cz.) zoom
+[brzeczyk]brzęczyk (PL) : (rz.) beep; (rz.) beeper; (rz.) bleeper; (rz.) buzzer; (rz.) hummer; (rz.) jingle; (rz.) trembler
+[brzek]brzęk (PL) : (rz.) chink; (rz.) clang; (rz.) clangour; (rz.) clank; (rz.) clash; (rz.) clatter; (rz.) clink; (rz.) drone; (rz.) jar; (rz.) jingle; (rz.) rattle; (rz.) tingle; (rz.) tinkle; (rz.) twang
+[brzekac]brzękać (PL) : (cz.) jangle
+[brod]bród (PL) : (rz.) ford
+[brodka]bródka (PL) : (rz.) beard
+[brog]bróg (PL) : (rz.) haystack; (rz.) shock; (rz.) stack
+[braz]brąz (PL) : (rz.) bronze; (rz.) brown
+[brazowanie]brązowanie (PL) : (rz.) bronze; (rz.) bronzing
+[brazowawy]brązowawy (PL) : (p.) brownish
+[brazowac]brązować (PL) : (cz.) braze
+[brazowienie]brązowienie (PL) : (rz.) browning
+[brazownictwo]brązownictwo (PL) : (rz.) bronzing
+[brazownik]brązownik (PL) : (rz.) coppersmith
+[brazowy]brązowy (PL) : (p.) brazen; (p.) bronzed; (p.) brown; (p.) tawny
+[bubek]bubek (PL) : (rz.) buck
+[bubel]bubel (PL) : (rz.) dud; (rz.) lemon; (rz.) trash
+[bublowaty]bublowaty (PL) : (p.) tinny; (p.) trashy
+[buchalter]buchalter (PL) : (rz.) accountant; (rz.) bookkeeper
+[buchalteria]buchalteria (PL) : (rz.) bookkeeping; (rz.) book-keeping
+[buchac]buchać (PL) : (cz.) belch; (cz.) eject; (cz.) spurt; (cz.) squirt; (cz.) thump
+[buczek]buczek (PL) : (rz.) howler
+[buczenie]buczenie (PL) : (rz.) boom; (rz.) buzz; (rz.) hum
+[buczec]buczeć (PL) : (cz.) boohoo; (cz.) hum; (cz.) sound; (cz.) zoom
+[buczyna]buczyna (PL) : (rz.) beech
+[buda]buda (PL) : (rz.) box; (rz.) calash; (rz.) hovel; (rz.) hut; (rz.) kip; (rz.) shack; (rz.) shanty; (rz.) shed; (rz.) shop; (rz.) stall
+[budka]budka (PL) : (rz.) booth; (rz.) cabin; (rz.) hut; (rz.) kiosk; (rz.) shelter; (rz.) stand
+[budowa]budowa (PL) : (rz.) build; (rz.) building; (rz.) composition; (rz.) constitution; (rz.) construction; (rz.) erection; (rz.) formation; (rz.) habit; (rz.) ship; (rz.) structure; (rz.) texture
+[budowanie]budowanie (PL) : (rz.) build; (rz.) construction; (rz.) instantiation
+[budowac]budować (PL) : (cz.) build; (cz.) construct; (cz.) edify; (cz.) erect; (cz.) raise
+[budowla]budowla (PL) : (rz.) building; (rz.) construction; (rz.) edifice; (rz.) fabric; (rz.) structure; (rz.) texture
+[budowlany]budowlany (PL) : (p.) structural
+[budownictwo]budownictwo (PL) : (rz.) architecture; (rz.) building; (rz.) construction; (rz.) housing; (rz.) land
+[buduar]buduar (PL) : (rz.) boudoir
+[buduarowy]buduarowy (PL) : (p.) intimate
+[budulec]budulec (PL) : (rz.) timber
+[budynek]budynek (PL) : (rz.) building; (rz.) construction; (rz.) courthouse; (rz.) edifice; (rz.) house; (rz.) property; (rz.) ship; (rz.) structure
+[budyn]budyń (PL) : (rz.) pandowdy; (rz.) pudding
+[budziciel]budziciel (PL) : (rz.) awakener
+[budzik]budzik (PL) : (rz.) alarm-clock
+[budzic]budzić (PL) : (cz.) arouse; (cz.) awake; (cz.) awaken; (cz.) awoke; (cz.) raise; (cz.) recall; (cz.) rouse; (cz.) wake; (cz.) waken
+[budzet]budżet (PL) : (rz.) budget
+[budzetowy]budżetowy (PL) : (p.) budgetary
+[bufa]bufa (PL) : (rz.) nodule; (rz.) puff
+[bufet]bufet (PL) : (rz.) barroom; (rz.) bar-room; (rz.) buffet; (rz.) cafeteria; (rz.) cupboard; (rz.) sideboard
+[bufetowa]bufetowa (PL) : (rz.) barmaid
+[buffeting]buffeting (PL) : (rz.) buffeting
+[bufiasty]bufiasty (PL) : (p.) puffy
+[bufon]bufon (PL) : (rz.) buffoon; (rz.) fop
+[bufonada]bufonada (PL) : (rz.) buffoonery; (rz.) clownery
+[bufor]bufor (PL) : (rz.) buffer; (rz.) spooler; (rz.) z-buffer
+[bufor-multiplekser]bufor-multiplekser (PL) : (rz.) buffer-multiplexer
+[buforowanie]buforowanie (PL) : (rz.) buffering; (rz.) cache
+[buforowac]buforować (PL) : (cz.) cache
+[buhaj]buhaj (PL) : (rz.) bull
+[bujak]bujak (PL) : (rz.) chair; (rz.) equalizer; (rz.) rocker
+[bujac]bujać (PL) : (cz.) dangle; (cz.) float; (cz.) lie; (cz.) rock; (cz.) waft
+[bujda]bujda (PL) : (rz.) blah; (rz.) bung; (rz.) fib; (rz.) fibs; (rz.) flimflam
+[bujnie]bujnie (PL) : (p-sł.) exuberantly; (p-sł.) luxuriantly
+[bujnosc]bujność (PL) : (rz.) exuberance; (rz.) luxuriance
+[bujny]bujny (PL) : (p.) abundant; (p.) bushy; (p.) exuberant; (p.) leafy; (p.) lush; (p.) luxuriant; (p.) rampant; (p.) rank
+[buk]buk (PL) : (rz.) beech
+[bukiet]bukiet (PL) : (rz.) bouquet; (rz.) bunch; (rz.) nosegay; (rz.) posy
+[bukiew]bukiew (PL) : (rz.) beechnut
+[bukmacher]bukmacher (PL) : (rz.) bookmaker
+[bukoliczny]bukoliczny (PL) : (p.) bucolic
+[bukolika]bukolika (PL) : (rz.) bucolic
+[bukowanie]bukowanie (PL) : (rz.) booking
+[bukowy]bukowy (PL) : (p.) beech
+[buksowac]buksować (PL) : (cz.) spin
+[bukszpan]bukszpan (PL) : (rz.) box; (rz.) boxwood
+[bukszpryt]bukszpryt (PL) : (rz.) bowsprit
+[buklak]bukłak (PL) : (rz.) skin
+[buldog]buldog (PL) : (rz.) bulldog
+[buldozer]buldożer (PL) : (rz.) bulldozer
+[bulgot]bulgot (PL) : (rz.) gurgitation; (rz.) gurgle
+[bulgotanie]bulgotanie (PL) : (rz.) bubbling; (rz.) gurgle
+[bulgotac]bulgotać (PL) : (cz.) bubble; (cz.) burble; (cz.) gargle; (cz.) gobble; (cz.) gurgle; (cz.) squelch
+[bulier]bulier (PL) : (rz.) boiler
+[bulina]bulina (PL) : (rz.) bowline
+[bulion]bulion (PL) : (rz.) bouillon; (rz.) broth; (rz.) consommé; (rz.) stock
+[bulic]bulić (PL) : (cz.) fork
+[bulla]bulla (PL) : (rz.) bull
+[bulterier]bulterier (PL) : (rz.) bull-terrier
+[bulwa]bulwa (PL) : (rz.) bulb; (rz.) tuber; (rz.) tubercle
+[bulwar]bulwar (PL) : (rz.) boulevard; (rz.) embankment; (rz.) promenade
+[bulwersowac]bulwersować (PL) : (cz.) shock
+[bulwiasty]bulwiasty (PL) : (p.) bulbous; (p.) tuberous
+[bumelanctwo]bumelanctwo (PL) : (rz.) absenteeism
+[bumelant]bumelant (PL) : (rz.) drone; (rz.) layabout; (rz.) loafer
+[bumelowac]bumelować (PL) : (cz.) loaf; (cz.) shirk
+[bumerang]bumerang (PL) : (rz.) boomerang
+[bungalow]bungalow (PL) : (rz.) bungalow
+[bunkier]bunkier (PL) : (rz.) blockhouse; (rz.) bunker; (rz.) fuel; (rz.) pillbox
+[bunkrowanie]bunkrowanie (PL) : (rz.) bunkering
+[bunkrowac]bunkrować (PL) : (cz.) coal
+[bunt]bunt (PL) : (rz.) mutiny; (rz.) rebellion; (rz.) revolt; (rz.) riot
+[buntowac]buntować (PL) : (cz.) mutiny; (cz.) rebel; (cz.) revolt; (cz.) riot
+[buntowniczo]buntowniczo (PL) : (p-sł.) rebelliously
+[buntowniczosc]buntowniczość (PL) : (rz.) rebelliousness
+[buntowniczy]buntowniczy (PL) : (p.) defiant; (p.) mutinous; (p.) rebellious; (p.) refractory; (p.) revolting; (p.) riotous; (p.) seditious; (p.) turbulent
+[buntownik]buntownik (PL) : (rz.) mutineer; (rz.) rebel
+[bura]bura (PL) : (rz.) flea; (rz.) reprimand; (rz.) scolding; (rz.) talking-to; (rz.) telling-off; (rz.) wigging
+[burak]burak (PL) : (rz.) beet; (rz.) beetroot; (rz.) turnip
+[burczenie]burczenie (PL) : (rz.) collywobbles
+[burczec]burczeć (PL) : (cz.) buzz; (cz.) drone; (cz.) grumble; (cz.) rumble
+[burczymucha]burczymucha (PL) : (rz.) growler
+[burda]burda (PL) : (rz.) affray; (rz.) brawl; (rz.) disturbance; (rz.) fracas; (rz.) row; (rz.) ruckus; (rz.) rumpus; (rz.) scuffle
+[burdel]burdel (PL) : (rz.) bagnio; (rz.) brothel
+[burger]burger (PL) : (rz.) burger
+[burgos]burgos (PL) : (rz.) bourgeois
+[burkliwy]burkliwy (PL) : (p.) gruff; (p.) surly
+[burleska]burleska (PL) : (rz.) burlesque; (rz.) skit
+[burleskowy]burleskowy (PL) : (p.) burlesque
+[burmistrz]burmistrz (PL) : (rz.) burgomaster; (rz.) mayor; (rz.) provost
+[burmistrzowski]burmistrzowski (PL) : (p.) mayoral
+[burnus]burnus (PL) : (rz.) burnoose
+[bursa]bursa (PL) : (rz.) dormitory
+[bursztyn]bursztyn (PL) : (rz.) amber
+[bursztynowy]bursztynowy (PL) : (p.) amber
+[burta]burta (PL) : (rz.) board; (rz.) broadside; (rz.) leeward
+[burza]burza (PL) : (rz.) blast; (rz.) snowstorm; (rz.) storm; (rz.) tempest; (rz.) thunderstorm
+[burzan]burzan (PL) : (rz.) bent
+[burzenie]burzenie (PL) : (rz.) breakage; (rz.) demolition; (rz.) dislocation
+[burzliwie]burzliwie (PL) : (p-sł.) wildly
+[burzliwosc]burzliwość (PL) : (rz.) boisterousness; (rz.) turbulence
+[burzliwy]burzliwy (PL) : (p.) boisterous; (p.) disorderly; (p.) eventful; (p.) riotous; (p.) rough; (p.) stormy; (p.) tempestuous; (p.) tumultuous; (p.) turbid; (p.) turbulent; (p.) wild
+[burzowy]burzowy (PL) : (p.) stormy; (p.) thunderhead
+[burzyciel]burzyciel (PL) : (rz.) demolisher; (rz.) destroyer; (rz.) wrecker
+[burzycielski]burzycielski (PL) : (p.) destructive
+[burzyc]burzyć (PL) : (cz.) confound; (cz.) demolish; (cz.) derange; (cz.) destroy; (cz.) raze; (cz.) ruffle; (cz.) storm; (cz.) surge
+[burzuazja]burżuazja (PL) : (rz.) bourgeoisie
+[burzuazyjny]burżuazyjny (PL) : (p.) bourgeois
+[burzuj]burżuj (PL) : (rz.) bourgeois
+[businesswoman]businesswoman (PL) : (rz.) businesswoman
+[busola]busola (PL) : (rz.) compass
+[buster]buster (PL) : (rz.) booster
+[busz]busz (PL) : (rz.) bush; (rz.) outback; (rz.) scrub
+[buszel]buszel (PL) : (rz.) bushel
+[buszowac]buszować (PL) : (cz.) ransack; (cz.) romp; (cz.) rummage; (cz.) scour
+[but]but (PL) : (rz.) boot; (rz.) overshoe; (rz.) sabot; (rz.) shoe
+[buta]buta (PL) : (rz.) arrogance; (rz.) shoe; (rz.) sole
+[butadien]butadien (PL) : (rz.) butadiene
+[butan]butan (PL) : (rz.) butane
+[butelka]butelka (PL) : (rz.) bottle; (rz.) cruet; (rz.) flask; (rz.) magnum
+[butelkowanie]butelkowanie (PL) : (rz.) bottling
+[butelkowac]butelkować (PL) : (cz.) bottle
+[butik]butik (PL) : (rz.) boutique
+[butla]butla (PL) : (rz.) carboy; (rz.) cylinder
+[butny]butny (PL) : (p.) arrogant; (p.) haughty; (p.) proud; (p.) supercilious; (p.) uppish
+[butonierka]butonierka (PL) : (rz.) boutonniere; (rz.) buttonhole
+[butwienie]butwienie (PL) : (rz.) putrefaction; (rz.) rot-proof
+[butwiec]butwieć (PL) : (cz.) decay; (cz.) moulder; (cz.) rot
+[buty]buty (PL) : (rz.) boots
+[butyl]butyl (PL) : (rz.) butyl
+[buzia]buzia (PL) : (rz.) face; (rz.) girl; (rz.) kiss; (rz.) lips; (rz.) mouth
+[buziak]buziak (PL) : (rz.) kiss; (rz.) smooch
+[buzowac]buzować (PL) : (cz.) crackle
+[bulat]bułat (PL) : (rz.) falchion; (rz.) scimitar
+[bulawa]buława (PL) : (rz.) baton; (rz.) mace; (rz.) truncheon; (rz.) wand
+[bulka]bułka (PL) : (rz.) bun; (rz.) roll
+[bunczucznosc]buńczuczność (PL) : (rz.) display
+[bunczuczny]buńczuczny (PL) : (p.) blusterous; (p.) cocky
+[bunczuk]buńczuk (PL) : (rz.) panache
+[buzka]buźka (PL) : (rz.) kisser
+[byczy]byczy (PL) : (p.) bull's; (p.) scrumptious
+[bydlak]bydlak (PL) : (rz.) animal; (rz.) beast; (rz.) wretch
+[bydle]bydle (PL) : (rz.) beast; (rz.) cattle
+[bydle]bydlę (PL) : (rz.) brute
+[bydlecy]bydlęcy (PL) : (p.) bovine; (p.) brute; (p.) brutish
+[bydlo]bydło (PL) : (rz.) cattle; (rz.) livestock
+[byk]byk (PL) : (rz.) bull; (rz.) bullock; (rz.) howler; (rz.) Taurus
+[bykowiec]bykowiec (PL) : (rz.) cow-hide; (rz.) whip
+[byle]byle (PL) : (rz.) so
+[bylica]bylica (PL) : (rz.) motherwort; (rz.) sagebrush
+[bylina]bylina (PL) : (rz.) perennial
+[bylinowy]bylinowy (PL) : (p.) perennial
+[bystro]bystro (PL) : (p-sł.) brightly; (p-sł.) sagaciously
+[bystrooki]bystrooki (PL) : (p.) clear-sighted; (p.) sharp-eyed
+[bystrosc]bystrość (PL) : (rz.) acumen; (rz.) acuteness; (rz.) astuteness; (rz.) cleverness; (rz.) cuteness; (rz.) dexterity; (rz.) nimbleness; (rz.) perspicacity; (rz.) shrewdness; (rz.) versatility
+[bystry]bystry (PL) : (p.) acute; (p.) astute; (p.) brainy; (p.) bright; (p.) clever; (p.) cute; (p.) discerning; (p.) incisive; (p.) keener; (p.) luminous; (p.) mercurial; (p.) nimble; (p.) penetrating; (p.) perspicacious; (p.) quick; (p.) quick-witted; (p.) rapid; (p.) sagacious; (p.) sharp; (p.) sharp-witted; (p.) shrewd; (p.) smart; (p.) spry; (p.) swift; (p.) versatile; (p.) witty
+[bystrze]bystrze (PL) : (rz.) swift
+[byt]byt (PL) : (rz.) being; (rz.) entity; (rz.) existence
+[bytnosc]bytność (PL) : (rz.) sojourn; (rz.) stay
+[bytowac]bytować (PL) : (cz.) exist
+[bytowy]bytowy (PL) : (p.) domestic; (p.) vital
+[bywalec]bywalec (PL) : (rz.) frequenter; (rz.) socialite
+[bywac]bywać (PL) : (cz.) frequent
+[byc]być (PL) : (cz.) am; (cz.) be; (cz.) have; (cz.) interlard; (cz.) is; (cz.) were; (cz.) will
+[byly]były (PL) : (p.) former; (p.) onetime; (p.) one-time; (p.) quondam; (p.) were; (p.) whilom
+[bzdura]bzdura (PL) : (rz.) bunkum; (rz.) crap; (rz.) crud; (rz.) hooey; (rz.) nonsense; (rz.) rubbish; (rz.) trash; (rz.) tripe
+[bzdurny]bzdurny (PL) : (p.) flimflam; (p.) mushy; (p.) nonsensical; (p.) piffling
+[bzdurzyc]bzdurzyć (PL) : (cz.) drool
+[bzik]bzik (PL) : (rz.) crank; (rz.) craze; (rz.) fad; (rz.) kink; (rz.) loony; (rz.) mania
+[bzikowaty]bzikowaty (PL) : (p.) crazy
+[bzowina]bzowina (PL) : (rz.) elder
+[bzowy]bzowy (PL) : (p.) elder; (p.) lilac
+[bzyczec]bzyczeć (PL) : (cz.) buzz; (cz.) hum
+[bzykac]bzykać (PL) : (cz.) buzz; (cz.) hiss; (cz.) hum
+[bobr]bóbr (PL) : (rz.) beaver; (rz.) castle
+[bog]bóg (PL) : (rz.) god
+[boj]bój (PL) : (rz.) battle; (rz.) combat; (rz.) fear; (rz.) fight
+[bojka]bójka (PL) : (rz.) brawl; (rz.) fight; (rz.) fray; (rz.) scrap; (rz.) scrimmage; (rz.) scuffle; (rz.) tussle
+[bol]ból (PL) : (rz.) ache; (rz.) ailment; (rz.) anguish; (rz.) earache; (rz.) labour; (rz.) pain; (rz.) pang; (rz.) sore; (rz.) soreness; (rz.) stitch; (rz.) stomach; (rz.) suffering; (rz.) twinge
+[bor]bór (PL) : (rz.) forest
+[bostwo]bóstwo (PL) : (rz.) deity; (rz.) divinity; (rz.) god; (rz.) godhead
+[bosc]bóść (PL) : (cz.) rile
+[boznica]bóżnica (PL) : (rz.) synagogue
+[babel]bąbel (PL) : (rz.) blain; (rz.) blister; (rz.) bubble; (rz.) honeycomb; (rz.) wheal
+[baczek]bączek (PL) : (rz.) dinghy; (rz.) gyroscope
+[badz]bądź (PL) : (spójnik) or
+[bak]bąk (PL) : (rz.) bittern; (rz.) breeze; (rz.) fart; (rz.) humble-bee; (rz.) top
+[bakanie]bąkanie (PL) : (rz.) stutter
+[bakac]bąkać (PL) : (cz.) mumble; (cz.) mutter
+[beben]bęben (PL) : (rz.) drum; (rz.) rundle
+[bebenek]bębenek (PL) : (rz.) barrel; (rz.) drum; (rz.) eardrum; (rz.) ear-drum; (rz.) tabor
+[bebenkowy]bębenkowy (PL) : (p.) tympanic
+[bebnica]bębnica (PL) : (rz.) flatulency
+[bebnienie]bębnienie (PL) : (rz.) drumbeat; (rz.) rattle
+[bebnic]bębnić (PL) : (cz.) drum; (cz.) thrum
+[bebnowanie]bębnowanie (PL) : (rz.) drumming; (rz.) tumbling
+[becwal]bęcwał (PL) : (rz.) cuckoo
+[bekart]bękart (PL) : (rz.) bastard; (rz.) orphan
+[blagalnie]błagalnie (PL) : (p-sł.) imploringly
+[blaganie]błaganie (PL) : (rz.) entreaty; (rz.) messiness; (rz.) supplication
+[blagac]błagać (PL) : (cz.) beg; (cz.) beseech; (cz.) conjure; (cz.) crave; (cz.) entreat; (cz.) implore; (cz.) plead; (cz.) pleaded; (cz.) pray; (cz.) reproach; (cz.) sue; (cz.) supplicate
+[blahosc]błahość (PL) : (rz.) frivolity; (rz.) insignificancy; (rz.) triviality
+[blahy]błahy (PL) : (p.) fiddling; (p.) footling; (p.) frivolous; (p.) futile; (p.) inappreciable; (p.) inconsequential; (p.) insignificant; (p.) nugatory; (p.) petty; (p.) potty; (p.) silly; (p.) slight; (p.) trifling; (p.) trivial; (p.) unimportant
+[blam]błam (PL) : (rz.) texture
+[blawatek]bławatek (PL) : (rz.) bottle; (rz.) cornflower; (rz.) corn-flower
+[blawatkowy]bławatkowy (PL) : (p.) blue
+[blawatnik]bławatnik (PL) : (rz.) draper; (rz.) mercer
+[blawatny]bławatny (PL) : (p.) blue
+[blazen]błazen (PL) : (rz.) buffoon; (rz.) clown; (rz.) fool; (rz.) jester; (rz.) nincompoop; (rz.) sot; (rz.) tomfool; (rz.) zany
+[blazenski]błazeński (PL) : (p.) clamorous; (p.) clownish; (p.) knockabout; (p.) scurrilous
+[blazenstwo]błazeństwo (PL) : (rz.) clownery; (rz.) tomfoolery
+[blaznowanie]błaznowanie (PL) : (rz.) clowning
+[blaznowac]błaznować (PL) : (cz.) ape; (cz.) clown; (cz.) fool; (cz.) playact; (cz.) play-act
+[blaznic]błaźnić (PL) : (cz.) fool
+[blogi]błogi (PL) : (p.) blissful; (p.) delightful; (p.) halcyon; (p.) soulful; (p.) sweet
+[blogo]błogo (PL) : (p-sł.) blissfully
+[blogostan]błogostan (PL) : (rz.) happiness
+[blogoslawienstwo]błogosławieństwo (PL) : (rz.) beatitude; (rz.) benediction; (rz.) benison; (rz.) blessing
+[blogoslawiony]błogosławiony (PL) : (p.) blessed
+[blogoslawic]błogosławić (PL) : (cz.) bless; (cz.) praise
+[blogosc]błogość (PL) : (rz.) bliss; (rz.) blissfulness
+[blona]błona (PL) : (rz.) film; (rz.) membrane; (rz.) pellicle; (rz.) velum
+[bloniasty]błoniasty (PL) : (p.) membranous
+[blonica]błonica (PL) : (rz.) diphtheria
+[blonka]błonka (PL) : (rz.) cuticle
+[blonkowaty]błonkowaty (PL) : (p.) membranous
+[blonnik]błonnik (PL) : (rz.) fibre
+[blotniak]błotniak (PL) : (rz.) harrier; (rz.) hen-harrier
+[blotnik]błotnik (PL) : (rz.) awl; (rz.) fender; (rz.) mudguard; (rz.) mud-guard; (rz.) splashboard; (rz.) splash-board; (rz.) wing
+[blotnistosc]błotnistość (PL) : (rz.) bog
+[blotnisty]błotnisty (PL) : (p.) miry; (p.) muddy; (p.) slushy
+[bloto]błoto (PL) : (rz.) dirt; (rz.) marsh; (rz.) mire; (rz.) muck; (rz.) mud; (rz.) sludge; (rz.) slush
+[blysk]błysk (PL) : (rz.) blaze; (rz.) blink; (rz.) flare; (rz.) flash; (rz.) glint; (rz.) sparkle; (rz.) twinkle
+[blyskanie]błyskanie (PL) : (rz.) flashes
+[blyskawica]błyskawica (PL) : (rz.) lightning
+[blyskawicowy]błyskawicowy (PL) : (p.) lightning
+[blyskawicznie]błyskawicznie (PL) : (p-sł.) instantly
+[blyskawiczny]błyskawiczny (PL) : (p.) instant; (p.) quicker; (p.) rapid
+[blyskac]błyskać (PL) : (cz.) blink; (cz.) flare; (cz.) flash; (cz.) flicker; (cz.) glare; (cz.) glint; (cz.) lighten
+[blyskotka]błyskotka (PL) : (rz.) gaud; (rz.) spangle; (rz.) spark; (rz.) tinsel; (rz.) trinket
+[blyskotki]błyskotki (PL) : (rz.) tinsel
+[blyskotliwie]błyskotliwie (PL) : (p-sł.) brilliantly
+[blyskotliwosc]błyskotliwość (PL) : (rz.) brilliance; (rz.) brilliancy; (rz.) flamboyance; (rz.) flashiness
+[blyskotliwy]błyskotliwy (PL) : (p.) bright; (p.) brilliant; (p.) flamboyant; (p.) flashy; (p.) gaudy; (p.) scintillating; (p.) witty
+[blyskowy]błyskowy (PL) : (p.) flash
+[blysnac]błysnąć (PL) : (cz.) flash
+[blyszcz]błyszcz (PL) : (rz.) glance
+[blyszczenie]błyszczenie (PL) : (rz.) glance; (rz.) glitter
+[blyszczec]błyszczeć (PL) : (cz.) blaze; (cz.) flare; (cz.) glance; (cz.) glare; (cz.) gleam; (cz.) glint; (cz.) glisten; (cz.) glister; (cz.) glitter; (cz.) glow; (cz.) lighten; (cz.) shine; (cz.) twinkle
+[blyszczaco]błyszcząco (PL) : (p-sł.) flashily; (p-sł.) lucidly
+[blyszczacy]błyszczący (PL) : (p.) brilliant; (p.) lustrous
+[blad]błąd (PL) : (rz.) blemish; (rz.) blunder; (rz.) bug; (rz.) defect; (rz.) deviation; (rz.) erratum; (rz.) error; (rz.) fallacy; (rz.) fault; (rz.) flaw; (rz.) glitch; (rz.) misapprehension; (rz.) mistake; (rz.) slip; (rz.) stumble
+[bladzic]błądzić (PL) : (cz.) err; (cz.) rove; (cz.) stray; (cz.) stumble; (cz.) wander
+[blakac]błąkać (PL) : (cz.) roam; (cz.) rove; (cz.) stray; (cz.) wander
+[blednie]błędnie (PL) : (p-sł.) amiss; (p-sł.) erroneously; (p-sł.) incorrectly; (p-sł.) mistakenly; (p-sł.) wrong
+[blednik]błędnik (PL) : (rz.) labyrinth
+[blednikowy]błędnikowy (PL) : (p.) labyrinthine
+[blednosc]błędność (PL) : (rz.) error
+[bledny]błędny (PL) : (p.) errant; (p.) erratic; (p.) erroneous; (p.) fallacious; (p.) false; (p.) faulty; (p.) incorrect; (p.) invalid; (p.) mistaken; (p.) mistyped; (p.) vicious; (p.) wrong
+[blekit]błękit (PL) : (rz.) azure; (rz.) blue; (rz.) blueness
+[blekitnosc]błękitność (PL) : (rz.) blue
+[blekitny]błękitny (PL) : (p.) azure; (p.) blue; (p.) sky-blue

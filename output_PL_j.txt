@@ -1,0 +1,354 @@
+[jacek]Jacek (PL) : (rz.) Jack
+[jakub]Jakub (PL) : (rz.) Jacob
+[jamajka]Jamajka (PL) : (rz.) Jamaica
+[jan]Jan (PL) : (rz.) John
+[jerzy]Jerzy (PL) : (rz.) George
+[joanna]Joanna (PL) : (rz.) Joanne
+[jonatan]Jonatan (PL) : (rz.) Jonathan
+[judyta]Judyta (PL) : (rz.) Judith
+[julia]Julia (PL) : (rz.) Julie
+[justyn]Justyn (PL) : (rz.) Justin
+[justyna]Justyna (PL) : (rz.) Justine
+[jozef]Józef (PL) : (rz.) Joseph
+[jozefina]Józefina (PL) : (rz.) Josephine
+[jablecznik]jabłecznik (PL) : (rz.) apple-pie; (rz.) cider
+[jablko]jabłko (PL) : (rz.) apple
+[jablon]jabłoń (PL) : (rz.) apple; (rz.) apple-tree
+[jacht]jacht (PL) : (rz.) yacht
+[jachtklub]jachtklub (PL) : (rz.) yacht-club
+[jad]jad (PL) : (rz.) bane; (rz.) poison; (rz.) venom; (rz.) virus; (rz.) vitriol
+[jadaczka]jadaczka (PL) : (rz.) rattletrap
+[jadalnia]jadalnia (PL) : (rz.) dining-room
+[jadalnosc]jadalność (PL) : (rz.) edibility
+[jadalny]jadalny (PL) : (p.) eatable; (p.) edible; (p.) esculent
+[jadac]jadać (PL) : (cz.) eat
+[jadeit]jadeit (PL) : (rz.) jadeite
+[jadowicie]jadowicie (PL) : (p-sł.) venomously
+[jadowitosc]jadowitość (PL) : (rz.) venomousness; (rz.) virulence
+[jadowity]jadowity (PL) : (p.) poisonous; (p.) poisonwoods; (p.) venomous; (p.) virulent; (p.) vitriolic
+[jadlo]jadło (PL) : (rz.) food
+[jadlodajnia]jadłodajnia (PL) : (rz.) beanery; (rz.) cook-shop; (rz.) eatery; (rz.) eating-house
+[jadlospis]jadłospis (PL) : (rz.) jade; (rz.) menu
+[jadlowstret]jadłowstręt (PL) : (rz.) anorexia
+[jaglica]jaglica (PL) : (rz.) trachoma
+[jagniatko]jagniątko (PL) : (rz.) cosset; (rz.) lambkin
+[jagnie]jagnię (PL) : (rz.) lamb
+[jagniecina]jagnięcina (PL) : (rz.) lamb
+[jagoda]jagoda (PL) : (rz.) berry; (rz.) blueberry; (rz.) huckleberry
+[jaguar]jaguar (PL) : (rz.) jaguar
+[jagla]jagła (PL) : (rz.) millet
+[jajczarski]jajczarski (PL) : (p.) egg-producing
+[jajeczko]jajeczko (PL) : (rz.) ovule; (rz.) ovum
+[jajeczkowanie]jajeczkowanie (PL) : (rz.) ovulation
+[jajeczkowac]jajeczkować (PL) : (cz.) ovulate
+[jajko]jajko (PL) : (rz.) egg
+[jajnik]jajnik (PL) : (rz.) ovary
+[jajnikowy]jajnikowy (PL) : (p.) ovarian
+[jajo]jajo (PL) : (rz.) egg; (rz.) ovum
+[jajoglowy]jajogłowy (PL) : (p.) egg-headed
+[jajorodny]jajorodny (PL) : (p.) oviparous
+[jajowaty]jajowaty (PL) : (p.) egg-shaped; (p.) oviform; (p.) ovoid
+[jajownik]jajownik (PL) : (rz.) ovum
+[jajowod]jajowód (PL) : (rz.) oviduct
+[jajozyworodny]jajożyworodny (PL) : (p.) ovoviviparous
+[jak]jak (PL) : (p-sł.) after; (p-sł.) as; (p-sł.) how
+[jakby]jakby (PL) : (spójnik) if
+[jaki]jaki (PL) : (p.) any; (p.) that; (p.) what; (p.) which
+[jakikolwiek]jakikolwiek (PL) : (p-sł.) any; (p-sł.) either
+[jakkolwiek]jakkolwiek (PL) : (p-sł.) anyhow; (p-sł.) anyway; (p-sł.) anywise; (p-sł.) however; (p-sł.) howsoever; (p-sł.) though
+[jako]jako (PL) : (p-im.) as; (p-im.) qua
+[jakobin]jakobin (PL) : (rz.) Jacobin
+[jakobinizm]jakobinizm (PL) : (rz.) Jacobinism
+[jakos]jakoś (PL) : (p-sł.) anyhow; (p-sł.) anywise; (p-sł.) somehow; (p-sł.) someway
+[jakosciowo]jakościowo (PL) : (p-sł.) qualitatively
+[jakosciowy]jakościowy (PL) : (p.) qualitative
+[jakosc]jakość (PL) : (rz.) quality; (rz.) sort
+[jakze]jakże (PL) : (p-sł.) how; (p-sł.) however
+[jalapa]jalapa (PL) : (rz.) jalap
+[jama]jama (PL) : (rz.) burrow; (rz.) cavern; (rz.) cavity; (rz.) hole; (rz.) hollow; (rz.) lacuna; (rz.) pit; (rz.) socket
+[jamb]jamb (PL) : (rz.) iamb; (rz.) iambus
+[jambiczny]jambiczny (PL) : (p.) iambic
+[jamnik]jamnik (PL) : (rz.) basset; (rz.) dachshund
+[jamochlonny]jamochłonny (PL) : (p.) coelenterate
+[janczar]janczar (PL) : (rz.) janissary
+[jankes]jankes (PL) : (rz.) yank
+[janowiec]janowiec (PL) : (rz.) furze; (rz.) gorse
+[japa]japa (PL) : (rz.) kisser; (rz.) mouth
+[jar]jar (PL) : (rz.) canyon
+[jard]jard (PL) : (rz.) yard; (rz.) yardstick
+[jarmarczny]jarmarczny (PL) : (p.) trashy
+[jarmark]jarmark (PL) : (rz.) bazaar; (rz.) fair; (rz.) kermis
+[jarmulka]jarmułka (PL) : (rz.) calotte; (rz.) skullcap
+[jarmuz]jarmuż (PL) : (rz.) kale
+[jarosz]jarosz (PL) : (rz.) vegetarian
+[jarski]jarski (PL) : (p.) vegetarian
+[jary]jary (PL) : (p.) spring
+[jarzenie]jarzenie (PL) : (rz.) glowing; (rz.) luminescence
+[jarzeniowy]jarzeniowy (PL) : (p.) fluorescent
+[jarzmo]jarzmo (PL) : (rz.) keeper; (rz.) shackle
+[jarzyn]jarzyn (PL) : (rz.) gathering
+[jarzyna]jarzyna (PL) : (rz.) legume; (rz.) vegetable
+[jarzyniarz]jarzyniarz (PL) : (rz.) greengrocer
+[jarzyc]jarzyć (PL) : (cz.) glow
+[jarzabek]jarząbek (PL) : (rz.) grouse; (rz.) hazel-grouse; (rz.) hazel-hen
+[jarzebina]jarzębina (PL) : (rz.) mountain-ash; (rz.) rowan
+[jaskier]jaskier (PL) : (rz.) buttercup
+[jaskinia]jaskinia (PL) : (rz.) cave; (rz.) cavern; (rz.) den
+[jaskiniowiec]jaskiniowiec (PL) : (rz.) cave-dweller; (rz.) caveman; (rz.) cave-man
+[jaskra]jaskra (PL) : (rz.) buttercup; (rz.) glaucoma
+[jaskrawo]jaskrawo (PL) : (p-sł.) brightly; (p-sł.) glaringly
+[jaskrawosc]jaskrawość (PL) : (rz.) brightness; (rz.) luminance; (rz.) vividness
+[jaskrawy]jaskrawy (PL) : (p.) bright; (p.) brilliant; (p.) flagrant; (p.) flaring; (p.) flashy; (p.) garish; (p.) gaudy; (p.) glaring; (p.) glaucomatous; (p.) grievous; (p.) gross; (p.) vivid
+[jaskolka]jaskółka (PL) : (rz.) gallery; (rz.) martin; (rz.) swallow
+[jasno]jasno (PL) : (p-sł.) abundantly; (p-sł.) brightly; (p-sł.) clear; (p-sł.) clearly; (p-sł.) distinctly; (p-sł.) lightly; (p-sł.) professedly; (p-sł.) serenely; (p-sł.) transparently
+[jasnoblond]jasnoblond (PL) : (p.) fair
+[jasnoczerwony]jasnoczerwony (PL) : (p.) light-red; (p.) scarlet
+[jasnoniebieski]jasnoniebieski (PL) : (p.) light-blue
+[jasnota]jasnota (PL) : (rz.) nettle
+[jasnowidz]jasnowidz (PL) : (rz.) clairvoyance; (rz.) clairvoyant; (rz.) seer
+[jasnowidzenie]jasnowidzenie (PL) : (rz.) clairvoyance
+[jasnowidztwo]jasnowidztwo (PL) : (rz.) clairvoyance
+[jasnowlosy]jasnowłosy (PL) : (p.) fair; (p.) fair-haired; (p.) flaxen-haired
+[jasnozielony]jasnozielony (PL) : (p.) light-green
+[jasnosc]jasność (PL) : (rz.) brightness; (rz.) brilliancy; (rz.) clarity; (rz.) clearness; (rz.) lightness; (rz.) lucidity; (rz.) perspicuity; (rz.) plainness; (rz.) radiance; (rz.) refulgence
+[jasny]jasny (PL) : (p.) bare; (p.) beaming; (p.) blond; (p.) blonde; (p.) bright; (p.) brilliant; (p.) clean-cut; (p.) clear; (p.) explicit; (p.) fair; (p.) intelligible; (p.) light; (p.) lucid; (p.) luculent; (p.) pale; (p.) perspicuous; (p.) plain; (p.) self-explanatory; (p.) serene; (p.) unequivocal; (p.) vivid
+[jaspis]jaspis (PL) : (rz.) jade; (rz.) jasper
+[jastrzab]jastrząb (PL) : (rz.) hawk; (rz.) kite
+[jastrzebi]jastrzębi (PL) : (p.) hawkish
+[jasyr]jasyr (PL) : (rz.) captivity; (rz.) slavery
+[jaszcz]jaszcz (PL) : (rz.) caisson; (rz.) trailer
+[jaszczur]jaszczur (PL) : (rz.) lizard; (rz.) salamander
+[jaszczurczy]jaszczurczy (PL) : (p.) lizard's; (p.) saurian
+[jaszczurka]jaszczurka (PL) : (rz.) gecko; (rz.) lizard
+[jaszczyk]jaszczyk (PL) : (rz.) tumbrel
+[jaszmak]jaszmak (PL) : (rz.) yashmak
+[jatagan]jatagan (PL) : (rz.) yataghan
+[jatka]jatka (PL) : (rz.) shambles
+[jawa]jawa (PL) : (rz.) consciousness; (rz.) reality
+[jawic]jawić (PL) : (cz.) seen
+[jawnie]jawnie (PL) : (p-sł.) avowedly; (p-sł.) explicitly; (p-sł.) openly; (p-sł.) out; (p-sł.) overtly; (p-sł.) professedly; (p-sł.) publicly
+[jawnogrzesznica]jawnogrzesznica (PL) : (rz.) harlot
+[jawnosc]jawność (PL) : (rz.) transparency
+[jawny]jawny (PL) : (p.) apparent; (p.) bald; (p.) evident; (p.) explicit; (p.) flagrant; (p.) forthright; (p.) manifest; (p.) open; (p.) overt; (p.) patent; (p.) plump; (p.) public; (p.) sheer; (p.) transparent; (p.) unclassified
+[jawor]jawor (PL) : (rz.) maple; (rz.) sycamore
+[jaz]jaz (PL) : (rz.) heck; (rz.) weir
+[jazda]jazda (PL) : (rz.) drive; (rz.) driving; (rz.) going; (rz.) horse; (rz.) journey; (rz.) ride; (rz.) riding; (rz.) running; (rz.) track; (rz.) travelling
+[jazgarz]jazgarz (PL) : (rz.) pope
+[jazgot]jazgot (PL) : (rz.) clamour; (rz.) clatter; (rz.) hum
+[jazgotac]jazgotać (PL) : (cz.) clamour; (cz.) yap; (cz.) yell
+[jazgotliwy]jazgotliwy (PL) : (p.) clamorous; (p.) vociferous
+[jazz]jazz (PL) : (rz.) jazz
+[jalmuzna]jałmużna (PL) : (rz.) alms; (rz.) dole; (rz.) handout
+[jalmuznik]jałmużnik (PL) : (rz.) almoner; (rz.) giver
+[jalowcowka]jałowcówka (PL) : (rz.) gin
+[jalowica]jałowica (PL) : (rz.) heifer
+[jalowiec]jałowiec (PL) : (rz.) juniper
+[jalowosc]jałowość (PL) : (rz.) aridity; (rz.) aridness; (rz.) asepsis; (rz.) barrenness
+[jalowy]jałowy (PL) : (p.) academic; (p.) arid; (p.) aseptic; (p.) barren; (p.) hungry; (p.) idle; (p.) sterile
+[jalowka]jałówka (PL) : (rz.) heifer
+[jasmin]jaśmin (PL) : (rz.) jasmine
+[jasniepanski]jaśniepański (PL) : (p.) cavalier
+[jasniec]jaśnieć (PL) : (cz.) glare; (cz.) shine
+[jazn]jaźń (PL) : (rz.) ego; (rz.) self
+[jebac]jebać (PL) : (cz.) fuck
+[jechac]jechać (PL) : (cz.) drive; (cz.) go; (cz.) motor; (cz.) ride; (cz.) run; (cz.) travel
+[jeden]jeden (PL) : (p.) one; (p.) single; (p.) sole
+[jedenasta]jedenasta (PL) : (rz.) eleven; (rz.) eleventh
+[jedenasty]jedenasty (PL) : (p.) eleventh
+[jedlina]jedlina (PL) : (rz.) fir; (rz.) fir-tree
+[jednak]jednak (PL) : (spójnik) albeit; (spójnik) but; (spójnik) however; (spójnik) notwithstanding; (spójnik) though
+[jednakowo]jednakowo (PL) : (p-sł.) alike; (p-sł.) equally
+[jednakowosc]jednakowość (PL) : (rz.) sameness
+[jednakowy]jednakowy (PL) : (p.) alike; (p.) equal; (p.) equipollent; (p.) uniform
+[jednakze]jednakże (PL) : (spójnik) but; (spójnik) however; (spójnik) notwithstanding
+[jednac]jednać (PL) : (cz.) conciliate; (cz.) propitiate
+[jednoadresowy]jednoadresowy (PL) : (p.) one-address
+[jednobarwny]jednobarwny (PL) : (p.) one-coloured
+[jednoboczny]jednoboczny (PL) : (p.) unilateral
+[jednoczenie]jednoczenie (PL) : (rz.) unification
+[jednoczesnosc]jednoczesność (PL) : (rz.) simultaneity
+[jednoczesny]jednoczesny (PL) : (p.) simultaneous
+[jednoczesnie]jednocześnie (PL) : (p-sł.) concurrently; (p-sł.) contemporaneously; (p-sł.) once; (p-sł.) simultaneously
+[jednoczyc]jednoczyć (PL) : (cz.) amalgamate; (cz.) associate; (cz.) conjoin; (cz.) consolidate; (cz.) federate; (cz.) herd; (cz.) unify; (cz.) unionize; (cz.) unite
+[jednoczasteczkowy]jednocząsteczkowy (PL) : (p.) monomolecular
+[jednodniowka]jednodniówka (PL) : (rz.) one-day
+[jednoglosnie]jednogłośnie (PL) : (p-sł.) unanimously
+[jednoglosnosc]jednogłośność (PL) : (rz.) unanimity
+[jednokierunkowy]jednokierunkowy (PL) : (p.) one-way; (p.) simplex; (p.) unidirectional
+[jednokomorkowiec]jednokomórkowiec (PL) : (rz.) protozoon
+[jednokomorkowy]jednokomórkowy (PL) : (p.) unicellular
+[jednolatek]jednolatek (PL) : (rz.) one-year-old
+[jednolicie]jednolicie (PL) : (p-sł.) uniformly
+[jednolitosc]jednolitość (PL) : (rz.) uniformity
+[jednolity]jednolity (PL) : (p.) atomic; (p.) homogeneous; (p.) homogenous; (p.) indiscrete; (p.) same; (p.) seamless; (p.) single; (p.) uniform; (p.) unitary; (p.) unvaried
+[jednometaliczny]jednometaliczny (PL) : (p.) monometallic
+[jednomian]jednomian (PL) : (rz.) monomial
+[jednomyslnie]jednomyślnie (PL) : (p-sł.) unanimously
+[jednomyslnosc]jednomyślność (PL) : (rz.) consensus; (rz.) unanimity; (rz.) unison
+[jednoosobowy]jednoosobowy (PL) : (p.) single
+[jednoplat]jednopłat (PL) : (rz.) monoplane
+[jednoplatowiec]jednopłatowiec (PL) : (rz.) monoplane
+[jednorodnie]jednorodnie (PL) : (p-sł.) homogeneously
+[jednorodnosc]jednorodność (PL) : (rz.) homogeneity
+[jednorozec]jednorożec (PL) : (rz.) unicorn
+[jednostajnie]jednostajnie (PL) : (p-sł.) monotonously
+[jednostajnosc]jednostajność (PL) : (rz.) evenness; (rz.) monotony
+[jednostka]jednostka (PL) : (rz.) degree; (rz.) denomination; (rz.) entity; (rz.) individual; (rz.) measure; (rz.) unit
+[jednostkowosc]jednostkowość (PL) : (rz.) individuality
+[jednostronnie]jednostronnie (PL) : (p-sł.) one-sidedly; (p-sł.) unilaterally
+[jednostronny]jednostronny (PL) : (p.) one-sided; (p.) single-sided; (p.) unilateral
+[jednoszynowy]jednoszynowy (PL) : (p.) single-rail
+[jednotorowy]jednotorowy (PL) : (p.) single-track
+[jednowartosciowy]jednowartościowy (PL) : (p.) single-valued; (p.) univalent
+[jednozasadowy]jednozasadowy (PL) : (p.) monobasic
+[jednoznacznie]jednoznacznie (PL) : (p-sł.) clearly; (p-sł.) interchangeably; (p-sł.) unambiguously
+[jednoznacznik]jednoznacznik (PL) : (rz.) synonym
+[jednoznacznosc]jednoznaczność (PL) : (rz.) uniqueness
+[jednoznaczny]jednoznaczny (PL) : (p.) clear-cut; (p.) one-valued; (p.) single-valued; (p.) unambiguous; (p.) unique; (p.) univocal
+[jednosc]jedność (PL) : (rz.) concord; (rz.) concordance; (rz.) oneness; (rz.) unity
+[jednozenstwo]jednożeństwo (PL) : (rz.) monogamy
+[jedwab]jedwab (PL) : (rz.) silk
+[jedwabisty]jedwabisty (PL) : (p.) floss-silk; (p.) silken; (p.) silkiest; (p.) silky
+[jedwabnictwo]jedwabnictwo (PL) : (rz.) sericulture
+[jedwabnik]jedwabnik (PL) : (rz.) silkworm
+[jedwabny]jedwabny (PL) : (p.) silken; (p.) silky
+[jedynie]jedynie (PL) : (p-sł.) alone; (p-sł.) barely; (p-sł.) merely; (p-sł.) only
+[jedynka]jedynka (PL) : (rz.) one; (rz.) unit; (rz.) unity
+[jedynowladca]jedynowładca (PL) : (rz.) autocrat
+[jedynowladztwo]jedynowładztwo (PL) : (rz.) autocracy
+[jedyny]jedyny (PL) : (p.) alone; (p.) bare; (p.) one; (p.) only; (p.) single; (p.) sole; (p.) unique
+[jedzenie]jedzenie (PL) : (rz.) chow; (rz.) eating; (rz.) fare; (rz.) food; (rz.) provender; (rz.) repast
+[jegomosc]jegomość (PL) : (rz.) chap; (rz.) gentleman; (rz.) stranger
+[jejmosc]jejmość (PL) : (rz.) woman
+[jeleni]jeleni (PL) : (p.) stag's
+[jelen]jeleń (PL) : (rz.) buck; (rz.) deer; (rz.) hart; (rz.) stag
+[jelita]jelita (PL) : (rz.) intestines
+[jelito]jelito (PL) : (rz.) bowel; (rz.) gut; (rz.) gutlessness; (rz.) intestine
+[jelitowy]jelitowy (PL) : (p.) enteric; (p.) intestinal
+[jelonek]jelonek (PL) : (rz.) fawn; (rz.) stag-beetle
+[jemiola]jemioła (PL) : (rz.) mistletoe
+[jemioluszka]jemiołuszka (PL) : (rz.) waxwing; (rz.) wax-wing
+[jeniec]jeniec (PL) : (rz.) captive; (rz.) prisoner
+[jeremiada]jeremiada (PL) : (rz.) jeremiad
+[jersey]jersey (PL) : (rz.) jersey
+[jerzyk]jerzyk (PL) : (rz.) swift
+[jesienny]jesienny (PL) : (p.) autumnal
+[jesien]jesień (PL) : (rz.) autumn; (rz.) fall
+[jesion]jesion (PL) : (rz.) ash
+[jesionka]jesionka (PL) : (rz.) overcoat
+[jesionowy]jesionowy (PL) : (p.) ashen
+[jesiotr]jesiotr (PL) : (rz.) sturgeon
+[jestem]jestem (PL) : (rz.) am
+[jestestwo]jestestwo (PL) : (rz.) nature
+[jezdnia]jezdnia (PL) : (rz.) carriageway; (rz.) road; (rz.) roadway; (rz.) superstructure
+[jeziorko]jeziorko (PL) : (rz.) lake
+[jezioro]jezioro (PL) : (rz.) lake; (rz.) loch
+[jelczenie]jełczenie (PL) : (rz.) rancidity
+[jelki]jełki (PL) : (p.) rancid
+[jelop]jełop (PL) : (rz.) blockhead
+[jesli]jeśli (PL) : (spójnik) if; (spójnik) unless
+[jesliby]jeśliby (PL) : (spójnik) if
+[jesc]jeść (PL) : (cz.) eat; (cz.) have; (cz.) stomach; (cz.) sup
+[jezdziec]jeździec (PL) : (rz.) equestrian; (rz.) horseman; (rz.) rider
+[jezdziecki]jeździecki (PL) : (p.) equestrian
+[jezdziectwo]jeździectwo (PL) : (rz.) horsemanship; (rz.) horse-riding; (rz.) riding
+[jezdzic]jeździć (PL) : (cz.) ride; (cz.) tour; (cz.) travel
+[jez]jeż (PL) : (rz.) hedgehog; (rz.) porcupine; (rz.) stubble
+[jezdzenie]jeżdżenie (PL) : (rz.) riding
+[jezeli]jeżeli (PL) : (spójnik) if; (spójnik) unless
+[jezozwierz]jeżozwierz (PL) : (rz.) porcupine
+[jezyk]jeżyk (PL) : (rz.) language
+[jezyna]jeżyna (PL) : (rz.) blackberry; (rz.) bramble; (rz.) loganberry
+[jezyc]jeżyć (PL) : (cz.) bristle; (cz.) ruffle
+[jidysz]jidysz (PL) : (rz.) Yiddish
+[jod]jod (PL) : (rz.) I-iodine; (rz.) iodine
+[jodek]jodek (PL) : (rz.) iodide
+[jodelka]jodełka (PL) : (rz.) herringbone; (rz.) herring-bone
+[jodlowac]jodlować (PL) : (cz.) yodel
+[jodowanie]jodowanie (PL) : (rz.) iodination
+[jodowac]jodować (PL) : (cz.) iodize
+[jodyna]jodyna (PL) : (rz.) iodine
+[jodla]jodła (PL) : (rz.) fir; (rz.) spruce
+[jodlowac]jodłować (PL) : (cz.) yodel
+[jodlowy]jodłowy (PL) : (p.) firry
+[joga]joga (PL) : (rz.) yoga; (rz.) yogi
+[jogging]jogging (PL) : (rz.) jogging
+[jogizm]jogizm (PL) : (rz.) yoga
+[jogurt]jogurt (PL) : (rz.) yoghourt; (rz.) yoghurt; (rz.) yogurt
+[jolka]jolka (PL) : (rz.) jollyboat; (rz.) yawl
+[jon]jon (PL) : (rz.) ion
+[jonit]jonit (PL) : (rz.) exchanger
+[jonizacja]jonizacja (PL) : (rz.) ionization
+[jonizator]jonizator (PL) : (rz.) ioniser
+[jonizowac]jonizować (PL) : (cz.) ionize
+[jonogram]jonogram (PL) : (rz.) Sonogram
+[jonon]jonon (PL) : (rz.) ionone
+[jonosfera]jonosfera (PL) : (rz.) ionosphere
+[jonowa]jonowa (PL) : (rz.) vacancy
+[jonowy]jonowy (PL) : (p.) ionic
+[jota]jota (PL) : (rz.) iota
+[jowialnie]jowialnie (PL) : (p-sł.) jovially
+[jowialnosc]jowialność (PL) : (rz.) jocosity; (rz.) joviality
+[jowialny]jowialny (PL) : (p.) debonair; (p.) jovial
+[joystick]joystick (PL) : (rz.) joystick
+[jolop]jołop (PL) : (rz.) blockhead
+[jubel]jubel (PL) : (rz.) joy; (rz.) merry-making
+[jubiler]jubiler (PL) : (rz.) jeweller; (rz.) jeweller's; (rz.) silversmith
+[jubilerski]jubilerski (PL) : (p.) jeweller's
+[jubileusz]jubileusz (PL) : (rz.) anniversary; (rz.) jubilation; (rz.) jubilee
+[judaistyczny]judaistyczny (PL) : (p.) Judaic
+[judaizm]judaizm (PL) : (rz.) Judaism
+[judaszowy]judaszowy (PL) : (p.) deceitful
+[judo]judo (PL) : (rz.) judo
+[jufers]jufers (PL) : (rz.) dead-eye
+[juhas]juhas (PL) : (rz.) shepherd
+[jujuba]jujuba (PL) : (rz.) jujube
+[juka]juka (PL) : (rz.) yucca
+[jumpsztag]jumpsztag (PL) : (rz.) jackstay
+[junacki]junacki (PL) : (p.) plucky; (p.) rash
+[junactwo]junactwo (PL) : (rz.) pluck; (rz.) recklessness
+[junak]junak (PL) : (rz.) brave
+[junior]junior (PL) : (rz.) junior
+[junkier]junkier (PL) : (rz.) younker
+[jurajski]jurajski (PL) : (p.) Jurassic
+[jurnosc]jurność (PL) : (rz.) lewdness; (rz.) lust
+[jurny]jurny (PL) : (p.) lewd; (p.) lustful
+[juror]juror (PL) : (rz.) judge
+[jurydyczny]jurydyczny (PL) : (p.) juridical; (p.) juristic
+[jurysdykcja]jurysdykcja (PL) : (rz.) jurisdiction
+[jurysprudencja]jurysprudencja (PL) : (rz.) jurisprudence
+[jurysta]jurysta (PL) : (rz.) jurist
+[justowanie]justowanie (PL) : (rz.) alignment; (rz.) justification
+[justowac]justować (PL) : (cz.) align; (cz.) excuse; (cz.) justify
+[justunek]justunek (PL) : (rz.) justification
+[juta]juta (PL) : (rz.) hemp; (rz.) jute
+[jutro]jutro (PL) : (rz.) morrow; (rz.) tomorrow
+[jutrzenka]jutrzenka (PL) : (rz.) aurora; (rz.) dawn; (rz.) daybreak
+[jutrznia]jutrznia (PL) : (rz.) matins
+[juzing]juzing (PL) : (rz.) houseline
+[juz]już (PL) : (p-sł.) already; (p-sł.) any; (p-sł.) yet
+[jadro]jądro (PL) : (rz.) core; (rz.) kernel; (rz.) nucleolus; (rz.) nucleus; (rz.) testicle; (rz.) testis
+[jadrowy]jądrowy (PL) : (p.) nuclear; (p.) testicular
+[jakanie]jąkanie (PL) : (rz.) fault; (rz.) impediment; (rz.) stammer; (rz.) stutter
+[jakac]jąkać (PL) : (cz.) falter; (cz.) stammer; (cz.) stumble; (cz.) stutter
+[jatrzenie]jątrzenie (PL) : (rz.) fester
+[jatrzyc]jątrzyć (PL) : (cz.) chafe; (cz.) fester; (cz.) incite; (cz.) inflame; (cz.) irritate; (cz.) rankle
+[jac]jąć (PL) : (cz.) seize
+[jeczenie]jęczenie (PL) : (rz.) groan
+[jeczec]jęczeć (PL) : (cz.) groan; (cz.) moan; (cz.) whimper; (cz.) whine
+[jeczmien]jęczmień (PL) : (rz.) barley; (rz.) sty
+[jedrnosc]jędrność (PL) : (rz.) firmness; (rz.) turgidity
+[jedrny]jędrny (PL) : (p.) firm
+[jedza]jędza (PL) : (rz.) beldam; (rz.) hag; (rz.) harpy; (rz.) shrew; (rz.) termagant; (rz.) virago; (rz.) vixen; (rz.) whore; (rz.) witch
+[jedzowaty]jędzowaty (PL) : (p.) haggish; (p.) shrewish
+[jek]jęk (PL) : (rz.) croon; (rz.) groan; (rz.) howl; (rz.) moan
+[jekliwy]jękliwy (PL) : (p.) plangent
+[jetka]jętka (PL) : (rz.) drake; (rz.) mayfly; (rz.) may-fly
+[jezor]jęzor (PL) : (rz.) clapper; (rz.) tongue
+[jezyczkowy]języczkowy (PL) : (p.) uvular
+[jezyk]język (PL) : (rz.) language; (rz.) lingo; (rz.) lingua; (rz.) parlance; (rz.) speech; (rz.) tongue
+[jezykowy]językowy (PL) : (p.) lingual; (p.) linguistic
+[jezykoznawca]językoznawca (PL) : (rz.) linguist
+[jezykoznawczo]językoznawczo (PL) : (p-sł.) linguistically
+[jezykoznawczy]językoznawczy (PL) : (p.) linguistic
+[jezykoznawstwo]językoznawstwo (PL) : (rz.) linguistics

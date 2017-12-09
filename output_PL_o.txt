@@ -1,0 +1,2622 @@
+[ola]Ola (PL) : (rz.) Alex
+[oliwia]Oliwia (PL) : (rz.) Olivia
+[oskar]Oskar (PL) : (rz.) Oscar
+[o]o (PL) : (p-im.) about; (p-im.) against; (p-im.) at
+[oaza]oaza (PL) : (rz.) oasis
+[obalac]obalać (PL) : (cz.) abolish; (cz.) abolisher; (cz.) debunk; (cz.) demolish; (cz.) disprove; (cz.) explode; (cz.) overthrow; (cz.) overturn; (cz.) quail; (cz.) rebut; (cz.) refute; (cz.) subvert
+[obalenie]obalenie (PL) : (rz.) abatement; (rz.) abolishment; (rz.) abolition; (rz.) overthrow; (rz.) refutation; (rz.) subversion
+[obalic]obalić (PL) : (cz.) abolish; (cz.) explode; (cz.) overthrow; (cz.) overturn; (cz.) quail; (cz.) refute
+[obandazowac]obandażować (PL) : (cz.) lag
+[obarczanie]obarczanie (PL) : (rz.) burdening
+[obarczac]obarczać (PL) : (cz.) bear
+[obarczenie]obarczenie (PL) : (rz.) loading
+[obarczyc]obarczyć (PL) : (cz.) afflict; (cz.) burden; (cz.) burthen; (cz.) charge; (cz.) load
+[obawa]obawa (PL) : (rz.) anxiety; (rz.) apprehension; (rz.) awe; (rz.) concern; (rz.) fear; (rz.) hang-up; (rz.) misgiving
+[obawiac]obawiać (PL) : (cz.) apprehend; (cz.) fear
+[obcas]obcas (PL) : (rz.) heel
+[obcesowo]obcesowo (PL) : (p-sł.) outright; (p-sł.) unceremoniously
+[obcesowosc]obcesowość (PL) : (rz.) abruptness; (rz.) brusqueness; (rz.) suddenness
+[obcesowy]obcesowy (PL) : (p.) abrupt; (p.) brusque; (p.) unceremonious
+[obchody]obchody (PL) : (rz.) celebrations
+[obchodzenie]obchodzenie (PL) : (rz.) evasion; (rz.) handling; (rz.) round; (rz.) treatment; (rz.) usage
+[obchodzic]obchodzić (PL) : (cz.) bypass; (cz.) by-pass; (cz.) celebrate; (cz.) circumvent; (cz.) commemorate; (cz.) evade; (cz.) feast; (cz.) handle; (cz.) handled; (cz.) hold; (cz.) inspect; (cz.) shirk; (cz.) skirt; (cz.) solemnize; (cz.) tackle
+[obchod]obchód (PL) : (rz.) celebration; (rz.) round
+[obcierac]obcierać (PL) : (cz.) wipe
+[obcinacz]obcinacz (PL) : (rz.) clipper
+[obcinanie]obcinanie (PL) : (rz.) clipping; (rz.) curtailment; (rz.) cutting; (rz.) scissoring; (rz.) truncation
+[obcinarka]obcinarka (PL) : (rz.) cutter
+[obcinac]obcinać (PL) : (cz.) axe; (cz.) clip; (cz.) crop; (cz.) curtail; (cz.) cut; (cz.) dock; (cz.) nip; (cz.) pare; (cz.) slash; (cz.) stint; (cz.) truncate
+[obcinek]obcinek (PL) : (rz.) clipping; (rz.) cutting
+[obcinki]obcinki (PL) : (rz.) clippings
+[obciosac]obciosać (PL) : (cz.) square
+[obciskanie]obciskanie (PL) : (rz.) necking
+[obciskac]obciskać (PL) : (cz.) clasp
+[obcislosc]obcisłość (PL) : (rz.) tightness
+[obcisly]obcisły (PL) : (p.) closefitting; (p.) close-fitting; (p.) skin-tight; (p.) tight; (p.) tight-fitting
+[obciaganie]obciąganie (PL) : (rz.) stretching
+[obciac]obciąć (PL) : (cz.) cut; (cz.) retrench; (cz.) truncate
+[obciazacz]obciążacz (PL) : (rz.) extender
+[obciazalnosc]obciążalność (PL) : (rz.) load
+[obciazanie]obciążanie (PL) : (rz.) load; (rz.) loading
+[obciazac]obciążać (PL) : (cz.) aggravate; (cz.) charge; (cz.) debit; (cz.) load
+[obciazenie]obciążenie (PL) : (rz.) aggravation; (rz.) burden; (rz.) burthen; (rz.) charge; (rz.) cumber; (rz.) cumbrance; (rz.) duty; (rz.) encumbrance; (rz.) handicap; (rz.) liability; (rz.) load; (rz.) loading; (rz.) strain; (rz.) termination; (rz.) workload
+[obciaznik]obciążnik (PL) : (rz.) bob; (rz.) deadweight; (rz.) leads; (rz.) sinker
+[obciazony]obciążony (PL) : (p.) loaded
+[obciazyc]obciążyć (PL) : (cz.) aggravate; (cz.) burden; (cz.) burthen; (cz.) charge; (cz.) encumber; (cz.) weight
+[obciecie]obcięcie (PL) : (rz.) clip; (rz.) dockage; (rz.) truncation
+[obciety]obcięty (PL) : (p.) truncated
+[obco]obco (PL) : (p-sł.) strangely
+[obcojezyczny]obcojęzyczny (PL) : (p.) foreign
+[obcokrajowiec]obcokrajowiec (PL) : (rz.) foreigner; (rz.) gringo; (rz.) stranger
+[obcokrajowy]obcokrajowy (PL) : (p.) foreign
+[obcowanie]obcowanie (PL) : (rz.) companionship; (rz.) intercourse
+[obcowac]obcować (PL) : (cz.) meddling
+[obcosc]obcość (PL) : (rz.) alienation; (rz.) detachment; (rz.) strangeness
+[obcy]obcy (PL) : (p.) alien; (p.) extraneous; (p.) foreign; (p.) inorganic; (p.) mere; (p.) outlandish; (p.) remote; (p.) strange; (p.) stranger; (p.) unfamiliar
+[obczyzna]obczyzna (PL) : (rz.) exile
+[obcazki]obcążki (PL) : (rz.) pliers; (rz.) tongs
+[obcegi]obcęgi (PL) : (rz.) clipper; (rz.) pincers; (rz.) pliers; (rz.) tong; (rz.) tongs
+[obdarowac]obdarować (PL) : (cz.) endow
+[obdarowywac]obdarowywać (PL) : (cz.) endow
+[obdartus]obdartus (PL) : (rz.) scruff; (rz.) tatterdemalion
+[obdarty]obdarty (PL) : (p.) tattered
+[obdarzac]obdarzać (PL) : (cz.) bestow; (cz.) endow; (cz.) lavish
+[obdarzyc]obdarzyć (PL) : (cz.) endue
+[obdrapac]obdrapać (PL) : (cz.) dilapidate
+[obdukcja]obdukcja (PL) : (rz.) autopsy
+[obdzielac]obdzielać (PL) : (cz.) deal; (cz.) endow
+[obdzierac]obdzierać (PL) : (cz.) skin
+[obdziergac]obdziergać (PL) : (cz.) edge
+[obecnie]obecnie (PL) : (p-sł.) currently; (p-sł.) now; (p-sł.) nowadays; (p-sł.) out; (p-sł.) presently
+[obecnosc]obecność (PL) : (rz.) assistance; (rz.) attendance; (rz.) inherence; (rz.) presence
+[obecny]obecny (PL) : (p.) attendant; (p.) current; (p.) present
+[obediencja]obediencja (PL) : (rz.) obedience
+[obejma]obejma (PL) : (rz.) bezel; (rz.) clasp
+[obejmowany]obejmowany (PL) : (p.) male
+[obejmowac]obejmować (PL) : (cz.) assume; (cz.) clasp; (cz.) comprehend; (cz.) comprise; (cz.) contain; (cz.) cover; (cz.) embody; (cz.) embrace; (cz.) encapsulate; (cz.) enclose; (cz.) encompass; (cz.) include; (cz.) incorporate; (cz.) involve; (cz.) lock
+[obejmujacy]obejmujący (PL) : (p.) female
+[obejrzec]obejrzeć (PL) : (cz.) see; (cz.) view
+[obejscie]obejście (PL) : (rz.) bypass; (rz.) by-pass; (rz.) farmyard; (rz.) workaround; (rz.) work-around
+[obejsc]obejść (PL) : (cz.) circumvent; (cz.) workaround
+[obelga]obelga (PL) : (rz.) abusing; (rz.) indignity; (rz.) insult; (rz.) invective; (rz.) outrage
+[obelisk]obelisk (PL) : (rz.) obelisk
+[obelzywy]obelżywy (PL) : (p.) abusive; (p.) contumelious; (p.) injurious; (p.) insulting; (p.) scurrilous; (p.) vituperative
+[oberwaniec]oberwaniec (PL) : (rz.) ragamuffin; (rz.) tatterdemalion
+[oberwac]oberwać (PL) : (cz.) collapse; (cz.) pluck
+[oberza]oberża (PL) : (rz.) hostelry; (rz.) inn; (rz.) kneading-trough; (rz.) tavern
+[oberzyna]oberżyna (PL) : (rz.) eggplant; (rz.) egg-plant
+[oberzysta]oberżysta (PL) : (rz.) innkeeper
+[obetonowanie]obetonowanie (PL) : (rz.) bracing
+[obetrzec]obetrzeć (PL) : (cz.) wipe
+[obeznany]obeznany (PL) : (p.) versed
+[obezwladniac]obezwładniać (PL) : (cz.) benumb; (cz.) disable; (cz.) overpower; (cz.) overwhelm; (cz.) suppress
+[obezwladnienie]obezwładnienie (PL) : (rz.) exhaustion; (rz.) suppression
+[obezwladnic]obezwładnić (PL) : (cz.) overwhelm; (cz.) prostrate
+[obezrec]obeżreć (PL) : (cz.) gluttonize
+[obficie]obficie (PL) : (p-sł.) abundantly; (p-sł.) copiously; (p-sł.) hard; (p-sł.) heavily; (p-sł.) luxuriantly; (p-sł.) profusely; (p-sł.) richly
+[obfitowanie]obfitowanie (PL) : (rz.) abounding
+[obfitowac]obfitować (PL) : (cz.) abound; (cz.) flush; (cz.) teem
+[obfitosc]obfitość (PL) : (rz.) abundance; (rz.) affluence; (rz.) ampleness; (rz.) amplitude; (rz.) copiousness; (rz.) cornucopia; (rz.) exuberance; (rz.) foison; (rz.) fullness; (rz.) largeness; (rz.) luxury; (rz.) plenitude; (rz.) plenty; (rz.) plethora; (rz.) profusion; (rz.) wealth
+[obfity]obfity (PL) : (p.) abundant; (p.) ample; (p.) bounteous; (p.) bountiful; (p.) copious; (p.) copiousness; (p.) exuberant; (p.) heartiest; (p.) hearty; (p.) heavy; (p.) large; (p.) lavish; (p.) luxuriant; (p.) luxurious; (p.) plenteous; (p.) plentiful; (p.) profuse; (p.) rich; (p.) rife; (p.) slap-up
+[obgadac]obgadać (PL) : (cz.) backbite
+[obgadywanie]obgadywanie (PL) : (rz.) backbiting
+[obgryzac]obgryzać (PL) : (cz.) dash; (cz.) gnaw; (cz.) nibble
+[obiad]obiad (PL) : (rz.) dinner; (rz.) lunch
+[obiadowac]obiadować (PL) : (cz.) dine
+[obibok]obibok (PL) : (rz.) do-nothing; (rz.) loafer
+[obicie]obicie (PL) : (rz.) bruise; (rz.) drubbing; (rz.) lining; (rz.) padding; (rz.) sheath; (rz.) tapestry
+[obiecanka]obiecanka (PL) : (rz.) promise
+[obiecac]obiecać (PL) : (cz.) promise
+[obiecujacy]obiecujący (PL) : (p.) promising
+[obiecywac]obiecywać (PL) : (cz.) promise
+[obieg]obieg (PL) : (rz.) circuit; (rz.) circulation; (rz.) currency; (rz.) lap; (rz.) orbiting; (rz.) rotation; (rz.) round
+[obiegac]obiegać (PL) : (cz.) circulate; (cz.) resound; (cz.) skirt
+[obiegowy]obiegowy (PL) : (p.) current; (p.) rotary; (p.) stock
+[obiekcja]obiekcja (PL) : (rz.) demur; (rz.) objection
+[obiekt]obiekt (PL) : (rz.) facility; (rz.) object; (rz.) structure; (rz.) target
+[obiektowo-relacyjny]obiektowo-relacyjny (PL) : (p.) object-relational
+[obiektowosc]obiektowość (PL) : (rz.) object-orientation
+[obiektowy]obiektowy (PL) : (p.) object-oriented
+[obiektyw]obiektyw (PL) : (rz.) lens; (rz.) object-glass; (rz.) objective; (rz.) object-lens
+[obiektywizm]obiektywizm (PL) : (rz.) objectivism; (rz.) objectivity
+[obiektywnie]obiektywnie (PL) : (p-sł.) objectively
+[obiektywnosc]obiektywność (PL) : (rz.) objectiveness; (rz.) objectivity
+[obiektywny]obiektywny (PL) : (p.) disinterested; (p.) objective
+[obiektywowy]obiektywowy (PL) : (p.) objective
+[obielic]obielić (PL) : (cz.) whitewash
+[obieraczka]obieraczka (PL) : (rz.) peeler
+[obieralnosc]obieralność (PL) : (rz.) eligibility
+[obieralny]obieralny (PL) : (p.) elective; (p.) eligible; (p.) optional
+[obieranie]obieranie (PL) : (rz.) paring; (rz.) peeling
+[obierac]obierać (PL) : (cz.) appoint; (cz.) choose; (cz.) collect; (cz.) nominate; (cz.) peel; (cz.) shell; (cz.) skin
+[obierzyna]obierzyna (PL) : (rz.) peeling
+[obietnica]obietnica (PL) : (rz.) engagement; (rz.) pledge; (rz.) promise; (rz.) troth
+[obiezyswiat]obieżyświat (PL) : (rz.) globetrotter; (rz.) globe-trotter; (rz.) ranger
+[obijak]obijak (PL) : (rz.) mallet
+[obijanie]obijanie (PL) : (rz.) beating
+[obijac]obijać (PL) : (cz.) bruise; (cz.) chip; (cz.) hang; (cz.) upholster
+[obior]obiór (PL) : (rz.) choice
+[obic]obić (PL) : (cz.) pad
+[objadac]objadać (PL) : (cz.) gormandize
+[objaw]objaw (PL) : (rz.) diagnostic; (rz.) display; (rz.) sign; (rz.) symptom
+[objawiac]objawiać (PL) : (cz.) open; (cz.) show
+[objawienie]objawienie (PL) : (rz.) apparition; (rz.) revelation
+[objawic]objawić (PL) : (cz.) reveal
+[objawowy]objawowy (PL) : (p.) symptomatic
+[objazd]objazd (PL) : (rz.) bypass; (rz.) by-pass; (rz.) circuit; (rz.) detour; (rz.) diversion; (rz.) tour; (rz.) touring
+[objazdowy]objazdowy (PL) : (p.) ambulatory; (p.) by-passing; (p.) itinerant; (p.) oblast; (p.) travelling
+[objasniajacy]objaśniający (PL) : (p.) explanatory
+[objasnianie]objaśnianie (PL) : (rz.) clarification
+[objasniac]objaśniać (PL) : (cz.) account; (cz.) annotate; (cz.) construe; (cz.) explain; (cz.) expound; (cz.) illustrate; (cz.) interpret
+[objasnienie]objaśnienie (PL) : (rz.) callout; (rz.) explanation
+[objasnic]objaśnić (PL) : (cz.) explain
+[objechac]objechać (PL) : (cz.) bypass
+[objesc]objeść (PL) : (cz.) gormandize
+[objezdzac]objeżdżać (PL) : (cz.) barnstorm; (cz.) bypass; (cz.) tour
+[objuczyc]objuczyć (PL) : (cz.) load
+[objac]objąć (PL) : (cz.) embrace; (cz.) enfold; (cz.) extend; (cz.) grapple; (cz.) grasp; (cz.) lap
+[objecie]objęcie (PL) : (rz.) accession; (rz.) assumption; (rz.) coverage; (rz.) embrace; (rz.) hue
+[objetosciowy]objętościowy (PL) : (p.) bulky; (p.) volumetric
+[objetosc]objętość (PL) : (rz.) bulk; (rz.) capacity; (rz.) compass; (rz.) comprehension; (rz.) content; (rz.) size; (rz.) volume
+[obkuwac]obkuwać (PL) : (cz.) trim
+[oblader]oblader (PL) : (rz.) slab
+[oblamowanie]oblamowanie (PL) : (rz.) border; (rz.) hem
+[oblamowac]oblamować (PL) : (cz.) hem
+[oblac]oblać (PL) : (cz.) fail; (cz.) plough; (cz.) spill
+[obleczenie]obleczenie (PL) : (rz.) bed-clothes
+[obleganie]obleganie (PL) : (rz.) besieging
+[oblegac]oblegać (PL) : (cz.) beleaguer; (cz.) beset; (cz.) besiege
+[obleniec]obleniec (PL) : (rz.) roundworm
+[oblepiac]oblepiać (PL) : (cz.) stick
+[oblew]oblew (PL) : (rz.) coating
+[oblewanie]oblewanie (PL) : (rz.) celebration; (rz.) pouring
+[oblewac]oblewać (PL) : (cz.) circumfuse; (cz.) douse; (cz.) lave; (cz.) smother; (cz.) sprinkle; (cz.) surround; (cz.) wash
+[oblesny]obleśny (PL) : (p.) lecherous; (p.) lustful; (p.) oily; (p.) slimy
+[oblezc]obleźć (PL) : (cz.) fade
+[oblicz]oblicz (PL) : (rz.) count
+[obliczalnosc]obliczalność (PL) : (rz.) computability
+[obliczalny]obliczalny (PL) : (p.) computable; (p.) computational
+[obliczanie]obliczanie (PL) : (rz.) calculation; (rz.) computation; (rz.) computing; (rz.) count; (rz.) numeration
+[obliczac]obliczać (PL) : (cz.) account; (cz.) calculate; (cz.) calculated; (cz.) compute; (cz.) count; (cz.) countenance; (cz.) estimate; (cz.) evaluate; (cz.) reckon; (cz.) tally
+[oblicze]oblicze (PL) : (rz.) countenance; (rz.) face; (rz.) side; (rz.) visage
+[obliczenie]obliczenie (PL) : (rz.) calculation; (rz.) computation; (rz.) sum
+[obliczeniowy]obliczeniowy (PL) : (p.) computable; (p.) computational
+[obliczyc]obliczyć (PL) : (cz.) account; (cz.) calculate; (cz.) count; (cz.) cube
+[oblicowka]oblicówka (PL) : (rz.) siding
+[obligacja]obligacja (PL) : (rz.) attachment; (rz.) bond; (rz.) debenture; (rz.) obligation
+[obligatoryjny]obligatoryjny (PL) : (p.) mandatory; (p.) obligatory
+[obligo]obligo (PL) : (rz.) liability
+[obligowac]obligować (PL) : (cz.) obliges
+[oblina]oblina (PL) : (rz.) wane
+[oblizac]oblizać (PL) : (cz.) lick
+[oblodzenie]oblodzenie (PL) : (rz.) icing
+[oblubienica]oblubienica (PL) : (rz.) bride
+[oblubieniec]oblubieniec (PL) : (rz.) bridegroom
+[obluzowac]obluzować (PL) : (cz.) loosen
+[oblezenie]oblężenie (PL) : (rz.) besetment; (rz.) siege
+[obmacanie]obmacanie (PL) : (rz.) finger; (rz.) palpating
+[obmacac]obmacać (PL) : (cz.) feel; (cz.) finger
+[obmawianie]obmawianie (PL) : (rz.) backbiting; (rz.) slander
+[obmawiac]obmawiać (PL) : (cz.) asperse; (cz.) backbite; (cz.) denigrate; (cz.) scandalize; (cz.) vilify
+[obmierzlosc]obmierzłość (PL) : (rz.) disgust
+[obmowa]obmowa (PL) : (rz.) aspersion; (rz.) backbiting; (rz.) obloquy; (rz.) scandal; (rz.) slander
+[obmurowanie]obmurowanie (PL) : (rz.) embankment; (rz.) lining
+[obmycie]obmycie (PL) : (rz.) ablution; (rz.) ablutions; (rz.) wash; (rz.) washing
+[obmywanie]obmywanie (PL) : (rz.) washing
+[obmywac]obmywać (PL) : (cz.) cleanse; (cz.) swill; (cz.) wash
+[obmyc]obmyć (PL) : (cz.) wash
+[obmyslac]obmyślać (PL) : (cz.) debate; (cz.) devise; (cz.) premeditate
+[obmyslic]obmyślić (PL) : (cz.) digest
+[obnazanie]obnażanie (PL) : (rz.) denudation
+[obnazac]obnażać (PL) : (cz.) bare; (cz.) strip; (cz.) unclothe; (cz.) uncover
+[obnazenie]obnażenie (PL) : (rz.) exposure
+[obnazony]obnażony (PL) : (p.) bare
+[obnazyc]obnażyć (PL) : (cz.) undress; (cz.) unsheathe
+[obnizanie]obniżanie (PL) : (rz.) abating
+[obnizac]obniżać (PL) : (cz.) cheapen; (cz.) debase; (cz.) decline; (cz.) decrease; (cz.) depress; (cz.) descend; (cz.) dip; (cz.) drop; (cz.) lower; (cz.) reduce; (cz.) sink; (cz.) slip
+[obnizenie]obniżenie (PL) : (rz.) abatement; (rz.) decrease; (rz.) degradation; (rz.) descent; (rz.) influence; (rz.) reduction; (rz.) subsidence
+[obnizka]obniżka (PL) : (rz.) abatement; (rz.) deduction; (rz.) discount; (rz.) lowering; (rz.) markdown; (rz.) reduction; (rz.) rollback
+[obnizyc]obniżyć (PL) : (cz.) abase; (cz.) abate; (cz.) decrease; (cz.) depress; (cz.) dip; (cz.) lower
+[obnosic]obnosić (PL) : (cz.) sport
+[oboista]oboista (PL) : (rz.) oboist
+[obojczyk]obojczyk (PL) : (rz.) clavicle; (rz.) collarbone; (rz.) collar-bone
+[obojnaczy]obojnaczy (PL) : (p.) bisexual; (p.) hermaphrodite; (p.) hermaphroditic; (p.) hermaphroditical
+[obojnak]obojnak (PL) : (rz.) hermaphrodite; (rz.) hermaphroditical
+[obojetnie]obojętnie (PL) : (p-sł.) indifferently; (p-sł.) unconcernedly
+[obojetnosc]obojętność (PL) : (rz.) abstractedness; (rz.) apathy; (rz.) detachment; (rz.) impassivity; (rz.) indifference; (rz.) nonchalance; (rz.) unconcern
+[obojetny]obojętny (PL) : (p.) apathetic; (p.) chilly; (p.) cold; (p.) dispassionate; (p.) inactive; (p.) indifferent; (p.) inert; (p.) listless; (p.) lukewarm; (p.) neutral; (p.) resigned; (p.) stolid; (p.) unconcerned; (p.) unimpressed; (p.) uninterested; (p.) unmoved; (p.) unresponsive; (p.) unsympathetic
+[obok]obok (PL) : (rz.) past
+[obolalosc]obolałość (PL) : (rz.) pain
+[obolaly]obolały (PL) : (p.) sore
+[obopolnie]obopólnie (PL) : (p-sł.) mutually; (p-sł.) reciprocally
+[obopolnosc]obopólność (PL) : (rz.) mutuality
+[obopolny]obopólny (PL) : (p.) mutual; (p.) reciprocal
+[obora]obora (PL) : (rz.) barn; (rz.) byre; (rz.) cowshed; (rz.) stable
+[oboranie]oboranie (PL) : (rz.) byre
+[obornik]obornik (PL) : (rz.) dung; (rz.) manure
+[obosieczny]obosieczny (PL) : (p.) double-edged; (p.) two-edged
+[obostrzenie]obostrzenie (PL) : (rz.) restriction
+[obowiazek]obowiązek (PL) : (rz.) charge; (rz.) chore; (rz.) duty; (rz.) obligation; (rz.) office; (rz.) onus; (rz.) responsibility
+[obowiazkowo]obowiązkowo (PL) : (p-sł.) dutifully; (p-sł.) obligatorily
+[obowiazkowy]obowiązkowy (PL) : (p.) compulsory; (p.) duteous; (p.) dutiful; (p.) mandatory; (p.) obligatory
+[obowiazujacy]obowiązujący (PL) : (p.) obligatory; (p.) standing
+[obowiazywanie]obowiązywanie (PL) : (rz.) duration
+[obowiazywac]obowiązywać (PL) : (cz.) force; (cz.) oblige; (cz.) operate; (cz.) stand
+[obozowanie]obozowanie (PL) : (rz.) camp; (rz.) camping; (rz.) encampment
+[obozowac]obozować (PL) : (cz.) camp; (cz.) encamp
+[obozowicz]obozowicz (PL) : (rz.) camper
+[obozowisko]obozowisko (PL) : (rz.) camp; (rz.) campground; (rz.) campsite; (rz.) encampment
+[obrabialnosc]obrabialność (PL) : (rz.) workability
+[obrabialny]obrabialny (PL) : (p.) determinable; (p.) workable
+[obrabiarka]obrabiarka (PL) : (rz.) lathe; (rz.) machine; (rz.) machine-tool
+[obrabiac]obrabiać (PL) : (cz.) hem; (cz.) process; (cz.) processing; (cz.) work
+[obrabowac]obrabować (PL) : (cz.) despoil; (cz.) rifle; (cz.) rob
+[obrabowywac]obrabowywać (PL) : (cz.) mug; (cz.) rob
+[obracanie]obracanie (PL) : (rz.) broaching; (rz.) manipulation
+[obracac]obracać (PL) : (cz.) gyrate; (cz.) handle; (cz.) hinge; (cz.) negotiate; (cz.) pirouette; (cz.) rebound; (cz.) rev; (cz.) revolve; (cz.) roll; (cz.) rotate; (cz.) slue; (cz.) spin; (cz.) swirl; (cz.) swivel; (cz.) toss; (cz.) turn
+[obrachowac]obrachować (PL) : (cz.) calculate; (cz.) count
+[obrachunek]obrachunek (PL) : (rz.) account; (rz.) count; (rz.) settlement
+[obradowac]obradować (PL) : (cz.) deliberate; (cz.) sit
+[obrady]obrady (PL) : (rz.) deliberation; (rz.) deliberations; (rz.) proceeding; (rz.) proceedings; (rz.) session
+[obramowanie]obramowanie (PL) : (rz.) border; (rz.) casing; (rz.) edging; (rz.) frame; (rz.) framing; (rz.) fringe; (rz.) mantel; (rz.) setting; (rz.) surround
+[obramowac]obramować (PL) : (cz.) edge; (cz.) hem
+[obramowywac]obramowywać (PL) : (cz.) encase; (cz.) encircle
+[obrastac]obrastać (PL) : (cz.) border; (cz.) overgrow
+[obraz]obraz (PL) : (rz.) canvas; (rz.) figure; (rz.) image; (rz.) painting; (rz.) picture; (rz.) scene; (rz.) shape; (rz.) vision
+[obraza]obraza (PL) : (rz.) abusing; (rz.) affront; (rz.) injury; (rz.) insult; (rz.) offence; (rz.) outrage; (rz.) pet; (rz.) pique; (rz.) resentment; (rz.) scandal; (rz.) umbrage
+[obrazek]obrazek (PL) : (rz.) image
+[obrazic]obrazić (PL) : (cz.) injure; (cz.) insult; (cz.) offend; (cz.) outrage; (cz.) pique
+[obrazoburca]obrazoburca (PL) : (rz.) iconoclast
+[obrazoburczy]obrazoburczy (PL) : (p.) iconoclastic
+[obrazoburstwo]obrazoburstwo (PL) : (rz.) iconoclasm
+[obrazowanie]obrazowanie (PL) : (rz.) display; (rz.) imagery
+[obrazowac]obrazować (PL) : (cz.) depict; (cz.) epitomize; (cz.) exemplify; (cz.) picture
+[obrazowo]obrazowo (PL) : (p-sł.) graphically; (p-sł.) vividly
+[obrazowosc]obrazowość (PL) : (rz.) imagery
+[obrazowy]obrazowy (PL) : (p.) figurative; (p.) graphic; (p.) pictorial; (p.) vivid
+[obrazy]obrazy (PL) : (rz.) paintings
+[obrac]obrać (PL) : (cz.) adopt; (cz.) views
+[obrazliwosc]obraźliwość (PL) : (rz.) sulkiness; (rz.) touchiness
+[obrazliwy]obraźliwy (PL) : (p.) abusive; (p.) aggressive; (p.) disrespectful; (p.) huffish; (p.) huffy; (p.) injurious; (p.) insulting; (p.) offensive; (p.) opprobrious; (p.) susceptible
+[obrazajacy]obrażający (PL) : (p.) outrageous
+[obrazalski]obrażalski (PL) : (p.) cocky
+[obrazanie]obrażanie (PL) : (rz.) image; (rz.) offender
+[obrazac]obrażać (PL) : (cz.) abuse; (cz.) affront; (cz.) huff; (cz.) injure; (cz.) insult; (cz.) offend; (cz.) outrage; (cz.) pique; (cz.) resent
+[obrazenie]obrażenie (PL) : (rz.) image; (rz.) injury; (rz.) lesion; (rz.) trauma
+[obredlanie]obredlanie (PL) : (rz.) ridging
+[obrobic]obrobić (PL) : (cz.) work
+[obrok]obrok (PL) : (rz.) fodder; (rz.) provender
+[obrona]obrona (PL) : (rz.) advocacy; (rz.) back; (rz.) defence; (rz.) justification; (rz.) plea; (rz.) vindication
+[obronic]obronić (PL) : (cz.) defend; (cz.) fend; (cz.) justify; (cz.) save; (cz.) vindicate
+[obronny]obronny (PL) : (p.) defensible; (p.) defensive; (p.) fortified
+[obrotnica]obrotnica (PL) : (rz.) racer; (rz.) turntable; (rz.) turn-table
+[obrotnik]obrotnik (PL) : (rz.) swivel
+[obrotnosc]obrotność (PL) : (rz.) agility
+[obrotny]obrotny (PL) : (p.) canny; (p.) dextrous; (p.) resourceful
+[obrotomierz]obrotomierz (PL) : (rz.) rev-counter; (rz.) tachometer
+[obrotowy]obrotowy (PL) : (p.) circulating; (p.) revolutionary; (p.) revolving; (p.) rotary; (p.) rotational
+[obroty]obroty (PL) : (rz.) revolutions
+[obronca]obrońca (PL) : (rz.) advocate; (rz.) attorney; (rz.) back; (rz.) barrister; (rz.) champion; (rz.) counsel; (rz.) defence; (rz.) defender; (rz.) guardian; (rz.) halfback; (rz.) half-back; (rz.) libertarian; (rz.) pleader; (rz.) protector; (rz.) vindicator
+[obroza]obroża (PL) : (rz.) collar; (rz.) dog-collar
+[obrumienic]obrumienić (PL) : (cz.) brown
+[obrus]obrus (PL) : (rz.) cloth; (rz.) tablecloth; (rz.) table-cloth
+[obrys]obrys (PL) : (rz.) contour
+[obrysowac]obrysować (PL) : (cz.) border
+[obrywac]obrywać (PL) : (cz.) tear
+[obrywka]obrywka (PL) : (rz.) dressing
+[obryzgac]obryzgać (PL) : (cz.) asperse; (cz.) dash; (cz.) splash
+[obryzgiwac]obryzgiwać (PL) : (cz.) spatter; (cz.) splash; (cz.) splatter
+[obrzezanie]obrzezanie (PL) : (rz.) circumcision
+[obrzezac]obrzezać (PL) : (cz.) circumcise
+[obrzezywac]obrzezywać (PL) : (cz.) circumcise
+[obrzezac]obrzeżać (PL) : (cz.) border
+[obrzeze]obrzeże (PL) : (rz.) border; (rz.) edge; (rz.) periphery; (rz.) rim; (rz.) welt
+[obrzezny]obrzeżny (PL) : (p.) peripheral
+[obrzmienie]obrzmienie (PL) : (rz.) fluxion; (rz.) swelling; (rz.) tumefaction
+[obrzucac]obrzucać (PL) : (cz.) bandy; (cz.) pelt
+[obrzucic]obrzucić (PL) : (cz.) pelt
+[obrzutka]obrzutka (PL) : (rz.) rendering
+[obrzydlistwo]obrzydlistwo (PL) : (rz.) grunge
+[obrzydliwie]obrzydliwie (PL) : (p-sł.) abominably; (p-sł.) disgustingly; (p-sł.) foully
+[obrzydliwosc]obrzydliwość (PL) : (rz.) abomination; (rz.) disgust
+[obrzydliwy]obrzydliwy (PL) : (p.) abominable; (p.) cloying; (p.) detestable; (p.) disgusting; (p.) distasteful; (p.) heinous; (p.) nauseous; (p.) noxious; (p.) poisonous; (p.) revolting; (p.) sickening; (p.) sickish; (p.) yucky
+[obrzydniecie]obrzydnięcie (PL) : (rz.) disgust
+[obrzydzac]obrzydzać (PL) : (cz.) sicken
+[obrzydzenie]obrzydzenie (PL) : (rz.) abomination; (rz.) averseness; (rz.) aversion; (rz.) disgust; (rz.) execration; (rz.) loathing
+[obrzynac]obrzynać (PL) : (cz.) lop
+[obrzynek]obrzynek (PL) : (rz.) clipping
+[obrzynki]obrzynki (PL) : (rz.) trimmings
+[obrzadek]obrządek (PL) : (rz.) rite; (rz.) ritual
+[obrzadzac]obrządzać (PL) : (cz.) groom
+[obrzed]obrzęd (PL) : (rz.) ceremony; (rz.) custom; (rz.) observance; (rz.) rite; (rz.) solemnity
+[obrzedowy]obrzędowy (PL) : (p.) ceremonial; (p.) ritual
+[obrzek]obrzęk (PL) : (rz.) dropsy; (rz.) oedema; (rz.) swelling; (rz.) tumefaction; (rz.) weal; (rz.) whelk
+[obrzekowy]obrzękowy (PL) : (p.) tumid
+[obrobka]obróbka (PL) : (rz.) alteration; (rz.) processing; (rz.) treatment
+[obrocic]obrócić (PL) : (cz.) broach; (cz.) rotate; (cz.) turn
+[obrot]obrót (PL) : (rz.) cash; (rz.) circulation; (rz.) currency; (rz.) cycle; (rz.) rev; (rz.) revolution; (rz.) rotation; (rz.) slue; (rz.) spin; (rz.) swivel; (rz.) turn; (rz.) turnaround; (rz.) turnover; (rz.) twirl; (rz.) twist
+[obrownac]obrównać (PL) : (cz.) smooth
+[obrabek]obrąbek (PL) : (rz.) hem
+[obrabiac]obrąbiać (PL) : (cz.) hem
+[obraczka]obrączka (PL) : (rz.) rind; (rz.) ring; (rz.) wedding-ring
+[obraczkowac]obrączkować (PL) : (cz.) girdle
+[obraczkowy]obrączkowy (PL) : (p.) annular; (p.) ringed
+[obreb]obręb (PL) : (rz.) compass; (rz.) district; (rz.) limit; (rz.) precinct
+[obrebiac]obrębiać (PL) : (cz.) hem; (cz.) hoop
+[obrebic]obrębić (PL) : (cz.) hoop
+[obrecz]obręcz (PL) : (rz.) rim; (rz.) tire; (rz.) tyre
+[obsada]obsada (PL) : (rz.) actors; (rz.) appointment; (rz.) cast; (rz.) casting; (rz.) crew; (rz.) manning; (rz.) mounting
+[obsadka]obsadka (PL) : (rz.) mount; (rz.) penholder
+[obsadzac]obsadzać (PL) : (cz.) man; (cz.) staff
+[obsadzenie]obsadzenie (PL) : (rz.) fill
+[obsadzic]obsadzić (PL) : (cz.) fill; (cz.) typecast
+[obscenicznosc]obsceniczność (PL) : (rz.) lewdness; (rz.) obscenity
+[obsceniczny]obsceniczny (PL) : (p.) obscene
+[obserwacja]obserwacja (PL) : (rz.) introspection; (rz.) observation; (rz.) watch
+[obserwacyjny]obserwacyjny (PL) : (p.) observational
+[obserwator]obserwator (PL) : (rz.) beholder; (rz.) bystander; (rz.) lookout; (rz.) look-out; (rz.) observer; (rz.) onlooker; (rz.) spectator; (rz.) spotter; (rz.) watcher
+[obserwatorium]obserwatorium (PL) : (rz.) observatory
+[obserwowanie]obserwowanie (PL) : (rz.) observation; (rz.) watch
+[obserwowac]obserwować (PL) : (cz.) lurk; (cz.) observe; (cz.) survey; (cz.) watch
+[obsesja]obsesja (PL) : (rz.) besetment; (rz.) obsession
+[obsesyjny]obsesyjny (PL) : (p.) obsessive
+[obsiadac]obsiadać (PL) : (cz.) fill
+[obsiac]obsiać (PL) : (cz.) sow
+[obsiew]obsiew (PL) : (rz.) sowing
+[obsiewac]obsiewać (PL) : (cz.) sow
+[obskakiwac]obskakiwać (PL) : (cz.) crowd; (cz.) surround
+[obskurant]obskurant (PL) : (rz.) obscurant
+[obskurantyzm]obskurantyzm (PL) : (rz.) obscurantism; (rz.) obscurity
+[obskurnosc]obskurność (PL) : (rz.) dinginess
+[obskurny]obskurny (PL) : (p.) dingy; (p.) mean; (p.) sordid
+[obstawa]obstawa (PL) : (rz.) bodyguard; (rz.) guard
+[obstawac]obstawać (PL) : (cz.) abide; (cz.) adhere; (cz.) insist; (cz.) persist
+[obstawiac]obstawiać (PL) : (cz.) bet; (cz.) surround
+[obstawic]obstawić (PL) : (cz.) bet
+[obstrukcja]obstrukcja (PL) : (rz.) block; (rz.) constipation; (rz.) obstruction
+[obstrukcjonista]obstrukcjonista (PL) : (rz.) filibuster; (rz.) obstructionist
+[obstrukcyjny]obstrukcyjny (PL) : (p.) obstructive
+[obstrzal]obstrzał (PL) : (rz.) gunfire
+[obstukiwac]obstukiwać (PL) : (cz.) chip
+[obsuniecie]obsunięcie (PL) : (rz.) landslide
+[obsuwanie]obsuwanie (PL) : (rz.) sinking
+[obsuwisko]obsuwisko (PL) : (rz.) landslip
+[obsydian]obsydian (PL) : (rz.) obsidian
+[obsypac]obsypać (PL) : (cz.) load; (cz.) strew
+[obsypnik]obsypnik (PL) : (rz.) furrower
+[obsypywanie]obsypywanie (PL) : (rz.) ridging
+[obsypywac]obsypywać (PL) : (cz.) bespatter; (cz.) powder; (cz.) strew
+[obszar]obszar (PL) : (rz.) area; (rz.) expanse; (rz.) extent; (rz.) premise; (rz.) region; (rz.) space; (rz.) stretch; (rz.) terrene; (rz.) territory; (rz.) tract
+[obszarniczy]obszarniczy (PL) : (p.) landed
+[obszarnik]obszarnik (PL) : (rz.) landlord; (rz.) landowner
+[obszarpaniec]obszarpaniec (PL) : (rz.) ragamuffin; (rz.) tatterdemalion
+[obszarpany]obszarpany (PL) : (p.) ragged; (p.) tattered
+[obszernie]obszernie (PL) : (p-sł.) amply; (p-sł.) extensively
+[obszernosc]obszerność (PL) : (rz.) ampleness; (rz.) length
+[obszerny]obszerny (PL) : (p.) ample; (p.) baggy; (p.) big; (p.) broad; (p.) capacious; (p.) comprehensive; (p.) extensive; (p.) loose; (p.) roomy; (p.) spacious; (p.) vast; (p.) wide
+[obszukac]obszukać (PL) : (cz.) frisk; (cz.) ransack
+[obszukiwac]obszukiwać (PL) : (cz.) frisk
+[obszycie]obszycie (PL) : (rz.) binding; (rz.) edging; (rz.) hem
+[obszywac]obszywać (PL) : (cz.) brag; (cz.) hem
+[obszywka]obszywka (PL) : (rz.) galloon; (rz.) hem; (rz.) trimming
+[obszyc]obszyć (PL) : (cz.) edge; (cz.) hem; (cz.) lace
+[obsluga]obsługa (PL) : (rz.) administration; (rz.) attendance; (rz.) handling; (rz.) operation; (rz.) service
+[obslugiwanie]obsługiwanie (PL) : (rz.) action; (rz.) handling
+[obslugiwac]obsługiwać (PL) : (cz.) attend; (cz.) cater; (cz.) handle; (cz.) man; (cz.) operate; (cz.) serve; (cz.) tend; (cz.) work
+[obsluzyc]obsłużyć (PL) : (cz.) handle
+[obtaczanie]obtaczanie (PL) : (rz.) coating
+[obtaczac]obtaczać (PL) : (cz.) grind
+[obtarcie]obtarcie (PL) : (rz.) sore
+[obtluczenie]obtłuczenie (PL) : (rz.) bruise
+[obuch]obuch (PL) : (rz.) head
+[obudowa]obudowa (PL) : (rz.) casing; (rz.) encapsulation; (rz.) housing; (rz.) lining; (rz.) package
+[obudowanie]obudowanie (PL) : (rz.) encapsulated
+[obudowac]obudować (PL) : (cz.) build; (cz.) encase
+[obudzenie]obudzenie (PL) : (rz.) awakening
+[obudzic]obudzić (PL) : (cz.) arouse; (cz.) awake; (cz.) awaken; (cz.) rouse; (cz.) wake
+[obumarcie]obumarcie (PL) : (rz.) decay; (rz.) necrosis
+[obumieranie]obumieranie (PL) : (rz.) atrophy; (rz.) languishment
+[obumierac]obumierać (PL) : (cz.) atrophy; (cz.) languish
+[obuoczny]obuoczny (PL) : (p.) binocular
+[obuplciowy]obupłciowy (PL) : (p.) epicene; (p.) hermaphrodite; (p.) hermaphroditic
+[oburzajacy]oburzający (PL) : (p.) shocking
+[oburzac]oburzać (PL) : (cz.) appal; (cz.) displease; (cz.) resent; (cz.) revolt; (cz.) sicken
+[oburzenie]oburzenie (PL) : (rz.) displeasure; (rz.) indignation; (rz.) outrage; (rz.) resentment; (rz.) wrath
+[obureczny]oburęczny (PL) : (p.) ambidextrous; (p.) bimanual; (p.) two-handed
+[obustronnie]obustronnie (PL) : (p-sł.) bilaterally
+[obustronny]obustronny (PL) : (p.) bilateral; (p.) mutual; (p.) reciprocal; (p.) two-sided
+[obuwie]obuwie (PL) : (rz.) footwear; (rz.) foot-wear
+[obuc]obuć (PL) : (cz.) shoe
+[obwarowanie]obwarowanie (PL) : (rz.) fortification; (rz.) stockade
+[obwarowac]obwarować (PL) : (cz.) retrench
+[obwarzanek]obwarzanek (PL) : (rz.) bagel; (rz.) pretzel
+[obwalowanie]obwałowanie (PL) : (rz.) bund; (rz.) rampart
+[obwalowac]obwałować (PL) : (cz.) bank; (cz.) embank
+[obwiednia]obwiednia (PL) : (rz.) envelope
+[obwieszczanie]obwieszczanie (PL) : (rz.) announcing; (rz.) notice
+[obwieszczac]obwieszczać (PL) : (cz.) advertise; (cz.) announce; (cz.) peal; (cz.) proclaim
+[obwieszczenie]obwieszczenie (PL) : (rz.) advertisement; (rz.) announcement; (rz.) notice; (rz.) statement
+[obwieszenie]obwieszenie (PL) : (rz.) hanging
+[obwies]obwieś (PL) : (rz.) scoundrel
+[obwiescic]obwieścić (PL) : (cz.) notify; (cz.) proclaim
+[obwiezc]obwieźć (PL) : (cz.) drive
+[obwijac]obwijać (PL) : (cz.) wind
+[obwinianie]obwinianie (PL) : (rz.) incrimination
+[obwiniac]obwiniać (PL) : (cz.) accuse; (cz.) blame; (cz.) incriminate
+[obwinienie]obwinienie (PL) : (rz.) accusation; (rz.) blame; (rz.) incrimination
+[obwinic]obwinić (PL) : (cz.) convict; (cz.) inculcate; (cz.) inculpate
+[obwisanie]obwisanie (PL) : (rz.) droop; (rz.) sag
+[obwisac]obwisać (PL) : (cz.) sag
+[obwislosc]obwisłość (PL) : (rz.) droop; (rz.) flabbiness
+[obwisly]obwisły (PL) : (p.) flabby; (p.) flaccid
+[obwiazywac]obwiązywać (PL) : (cz.) tie
+[obwodnica]obwodnica (PL) : (rz.) beltway; (rz.) bypass; (rz.) by-pass
+[obwodowy]obwodowy (PL) : (p.) circuital; (p.) circumferential; (p.) peripheral
+[obwoluta]obwoluta (PL) : (rz.) dustcover; (rz.) dust-cover; (rz.) jacket; (rz.) wrapper
+[obwolac]obwołać (PL) : (cz.) hail
+[obwozny]obwoźny (PL) : (p.) mobile
+[obwod]obwód (PL) : (rz.) ambit; (rz.) circle; (rz.) circuit; (rz.) circumference; (rz.) compass; (rz.) district; (rz.) girth; (rz.) loop; (rz.) network; (rz.) perimeter; (rz.) periphery
+[obwodka]obwódka (PL) : (rz.) areola; (rz.) ban; (rz.) band; (rz.) border; (rz.) hem; (rz.) rim
+[obwoj]obwój (PL) : (rz.) serving
+[obwachac]obwąchać (PL) : (cz.) sniff
+[obwachiwac]obwąchiwać (PL) : (cz.) nose
+[obycie]obycie (PL) : (rz.) manner; (rz.) manners; (rz.) refinement
+[obyczaj]obyczaj (PL) : (rz.) custom; (rz.) habit; (rz.) manner; (rz.) mode
+[obyczajnosc]obyczajność (PL) : (rz.) decency; (rz.) decorum
+[obyczajny]obyczajny (PL) : (p.) decent; (p.) decorous; (p.) modest; (p.) moral
+[obyczajowosc]obyczajowość (PL) : (rz.) customs
+[obyczajowy]obyczajowy (PL) : (p.) moral; (p.) social
+[obywatel]obywatel (PL) : (rz.) burgess; (rz.) citizen; (rz.) civilian; (rz.) commoner; (rz.) denizen; (rz.) freeman; (rz.) national
+[obywatelski]obywatelski (PL) : (p.) civic; (p.) civil
+[obywatelstwo]obywatelstwo (PL) : (rz.) citizenship; (rz.) freedom; (rz.) nationality
+[obywac]obywać (PL) : (cz.) forgo
+[obyc]obyć (PL) : (cz.) dispense; (cz.) forgo
+[obznajomienie]obznajomienie (PL) : (rz.) acquainting; (rz.) familiarity
+[oboj]obój (PL) : (rz.) hautboy; (rz.) oboe
+[oboz]obóz (PL) : (rz.) camp; (rz.) encampment
+[obladowac]obładować (PL) : (cz.) burden; (cz.) burthen; (cz.) heap; (cz.) load
+[oblaskawiac]obłaskawiać (PL) : (cz.) tame
+[oblawa]obława (PL) : (rz.) chase; (rz.) hunt; (rz.) manhunt; (rz.) raid; (rz.) roundup; (rz.) round-up
+[oblok]obłok (PL) : (rz.) cloud; (rz.) pall
+[oblozenie]obłożenie (PL) : (rz.) occupancy
+[oblozny]obłożny (PL) : (p.) severe
+[oblozyc]obłożyć (PL) : (cz.) wrap
+[obluda]obłuda (PL) : (rz.) cant; (rz.) dissimulation; (rz.) duplicity; (rz.) hypocrisy; (rz.) insincerity
+[obludnica]obłudnica (PL) : (rz.) hypocrite
+[obludnie]obłudnie (PL) : (p-sł.) insincerely
+[obludnik]obłudnik (PL) : (rz.) dissembler; (rz.) hypocrite
+[obludny]obłudny (PL) : (p.) cant; (p.) canting; (p.) false; (p.) false-hearted; (p.) hypocritical; (p.) insincere; (p.) self-righteous; (p.) twofaced; (p.) two-faced; (p.) two-tongued
+[oblupac]obłupać (PL) : (cz.) shell
+[oblupic]obłupić (PL) : (cz.) rob
+[oblupywanie]obłupywanie (PL) : (rz.) shelling
+[oblupywac]obłupywać (PL) : (cz.) peel; (cz.) shell
+[obluskiwacz]obłuskiwacz (PL) : (rz.) huller
+[obluskiwac]obłuskiwać (PL) : (cz.) husk
+[obly]obły (PL) : (p.) cylindrical; (p.) oval; (p.) rounded
+[oblak]obłąk (PL) : (rz.) bail
+[oblakanie]obłąkanie (PL) : (rz.) bedlam; (rz.) insanity; (rz.) madness
+[oblakaniec]obłąkaniec (PL) : (rz.) lunatic
+[oblakanczo]obłąkańczo (PL) : (p-sł.) insanely
+[oblakanczy]obłąkańczy (PL) : (p.) insane
+[obled]obłęd (PL) : (rz.) alienation; (rz.) insanity; (rz.) lunacy; (rz.) madness; (rz.) mania
+[obledny]obłędny (PL) : (p.) fantastic; (p.) fantastical
+[obzarstwo]obżarstwo (PL) : (rz.) gluttony
+[obzartuch]obżartuch (PL) : (rz.) glutton; (rz.) gormandize; (rz.) gourmand; (rz.) guzzler
+[ocalac]ocalać (PL) : (cz.) rescue
+[ocalenie]ocalenie (PL) : (rz.) rescue; (rz.) salvage; (rz.) salvation; (rz.) survival
+[ocalec]ocaleć (PL) : (cz.) delivered; (cz.) salvage; (cz.) survive
+[ocalic]ocalić (PL) : (cz.) rescue; (cz.) salvage; (cz.) salve; (cz.) save
+[ocean]ocean (PL) : (rz.) ocean
+[oceaniczny]oceaniczny (PL) : (p.) ocean-going; (p.) oceanic
+[oceanografia]oceanografia (PL) : (rz.) oceanography
+[oceanograficzny]oceanograficzny (PL) : (p.) oceanographic
+[ocelot]ocelot (PL) : (rz.) ocelot
+[ocembrowanie]ocembrowanie (PL) : (rz.) timbering
+[ocembrowac]ocembrować (PL) : (cz.) timber
+[ocena]ocena (PL) : (rz.) appraisal; (rz.) appraisement; (rz.) appreciation; (rz.) assessment; (rz.) assignment; (rz.) criticism; (rz.) estimate; (rz.) estimation; (rz.) evaluation; (rz.) grade; (rz.) mark; (rz.) opinion; (rz.) rating; (rz.) score; (rz.) view
+[ocenianie]ocenianie (PL) : (rz.) evaluation
+[oceniac]oceniać (PL) : (cz.) account; (cz.) appraise; (cz.) appreciate; (cz.) assess; (cz.) assessed; (cz.) calculate; (cz.) esteem; (cz.) estimate; (cz.) evaluate; (cz.) judge; (cz.) measure
+[ocenic]ocenić (PL) : (cz.) account; (cz.) appraise; (cz.) appreciate; (cz.) judge; (cz.) measure; (cz.) rate
+[ocenzurowac]ocenzurować (PL) : (cz.) censor; (cz.) censurer
+[ocet]ocet (PL) : (rz.) vinegar
+[och]och (PL) : (wykrzyknik) oh; (wykrzyknik) ugh
+[ochlapac]ochlapać (PL) : (cz.) splash
+[ochlapus]ochlapus (PL) : (rz.) boozer
+[ochlapywac]ochlapywać (PL) : (cz.) splatter
+[ochmistrz]ochmistrz (PL) : (rz.) chamberlain
+[ochoczo]ochoczo (PL) : (p-sł.) eagerly; (p-sł.) enthusiastically; (p-sł.) gaily; (p-sł.) gamely; (p-sł.) heartily; (p-sł.) hotfoot; (p-sł.) jauntily; (p-sł.) readily; (p-sł.) willingly; (p-sł.) zestfully
+[ochoczosc]ochoczość (PL) : (rz.) readiness
+[ochoczy]ochoczy (PL) : (p.) cheerful; (p.) game; (p.) ready
+[ochota]ochota (PL) : (rz.) alacrity; (rz.) craving; (rz.) readiness; (rz.) willingness; (rz.) zest
+[ochotnik]ochotnik (PL) : (rz.) volunteer
+[ochra]ochra (PL) : (rz.) ochre
+[ochraniacz]ochraniacz (PL) : (rz.) bumper; (rz.) fender; (rz.) guard; (rz.) pad; (rz.) protector; (rz.) screener; (rz.) spacer
+[ochraniac]ochraniać (PL) : (cz.) protect; (cz.) safeguard; (cz.) shield
+[ochrona]ochrona (PL) : (rz.) bodyguard; (rz.) conservation; (rz.) custody; (rz.) guard; (rz.) precaution; (rz.) preservation; (rz.) preserver; (rz.) protection; (rz.) rampart; (rz.) safeguard; (rz.) security; (rz.) shelter
+[ochroniarz]ochroniarz (PL) : (rz.) bodyguard; (rz.) enforcer; (rz.) guardsman; (rz.) lifeguard
+[ochronic]ochronić (PL) : (cz.) protect
+[ochronka]ochronka (PL) : (rz.) nursery; (rz.) orphanage
+[ochronnie]ochronnie (PL) : (p-sł.) protectively
+[ochronnik]ochronnik (PL) : (rz.) protector
+[ochronny]ochronny (PL) : (p.) preservative; (p.) preventive; (p.) prohibitive; (p.) protective; (p.) retardant
+[ochrypniecie]ochrypnięcie (PL) : (rz.) huskiness
+[ochryply]ochrypły (PL) : (p.) hoarse
+[ochrzcic]ochrzcić (PL) : (cz.) baptize; (cz.) christen
+[ochrzczenie]ochrzczenie (PL) : (rz.) baptism
+[ochwat]ochwat (PL) : (rz.) founder; (rz.) laminitis
+[ochladzacz]ochładzacz (PL) : (rz.) cooler
+[ochladzalnik]ochładzalnik (PL) : (rz.) chill
+[ochladzanie]ochładzanie (PL) : (rz.) cooling; (rz.) refrigeration
+[ochladzac]ochładzać (PL) : (cz.) chill; (cz.) cool; (cz.) freshen; (cz.) refrigerate
+[ochlap]ochłap (PL) : (rz.) offal; (rz.) pittance; (rz.) scrap
+[ochloda]ochłoda (PL) : (rz.) coolness; (rz.) refreshment
+[ochlodzenie]ochłodzenie (PL) : (rz.) cooling
+[ochlodzic]ochłodzić (PL) : (cz.) cool; (cz.) cools; (cz.) refrigerate
+[ochlonac]ochłonąć (PL) : (cz.) recover
+[ociekajacy]ociekający (PL) : (p.) dripping
+[ociekanie]ociekanie (PL) : (rz.) dripping; (rz.) gravity; (rz.) water
+[ociekac]ociekać (PL) : (cz.) drip; (cz.) stream
+[ocielic]ocielić (PL) : (cz.) calve; (cz.) fawn
+[ocienianie]ocienianie (PL) : (rz.) shading
+[ocieniac]ocieniać (PL) : (cz.) overshadow; (cz.) shade
+[ocieplacz]ocieplacz (PL) : (rz.) lining
+[ocieplac]ocieplać (PL) : (cz.) insulate
+[ocieplic]ocieplić (PL) : (cz.) warm
+[ocierac]ocierać (PL) : (cz.) abrade; (cz.) brush; (cz.) chafe; (cz.) mix; (cz.) scrape; (cz.) wipe
+[ocios]ocios (PL) : (rz.) sidewall
+[ociosac]ociosać (PL) : (cz.) hew
+[ociagajacy]ociągający (PL) : (p.) lingering
+[ociaganie]ociąganie (PL) : (rz.) reluctance
+[ociagac]ociągać (PL) : (cz.) dillydally; (cz.) dilly-dally; (cz.) draggle; (cz.) hover; (cz.) linger; (cz.) quail; (cz.) tarry
+[ociezale]ociężale (PL) : (p-sł.) heavily; (p-sł.) ponderously
+[ociezalosc]ociężałość (PL) : (rz.) heaviness; (rz.) indolence; (rz.) inertia
+[ociezaly]ociężały (PL) : (p.) tardy
+[ockniecie]ocknięcie (PL) : (rz.) awakening
+[ocknac]ocknąć (PL) : (cz.) awake
+[oclenie]oclenie (PL) : (rz.) clearance
+[oclic]oclić (PL) : (cz.) clear
+[octan]octan (PL) : (rz.) acetate
+[octowy]octowy (PL) : (p.) acetic
+[ocucac]ocucać (PL) : (cz.) revive
+[ocucenie]ocucenie (PL) : (rz.) revival
+[ocucic]ocucić (PL) : (cz.) revive; (cz.) rouse
+[ocyganic]ocyganić (PL) : (cz.) swindle
+[ocynkowac]ocynkować (PL) : (cz.) galvanize
+[ocynowac]ocynować (PL) : (cz.) tin-plate
+[oczarowanie]oczarowanie (PL) : (rz.) charm; (rz.) enchantment; (rz.) fascination; (rz.) infatuation
+[oczarowany]oczarowany (PL) : (p.) spellbound
+[oczarowac]oczarować (PL) : (cz.) becharm; (cz.) bewitch; (cz.) charm; (cz.) enchant; (cz.) enthral; (cz.) fascinate; (cz.) spellbind
+[oczarowywanie]oczarowywanie (PL) : (rz.) spellbinding
+[oczarowywac]oczarowywać (PL) : (cz.) beguile; (cz.) bewitch; (cz.) enchant; (cz.) enthral; (cz.) ravish
+[oczekiwany]oczekiwany (PL) : (p.) pending
+[oczekiwac]oczekiwać (PL) : (cz.) abide; (cz.) anticipate; (cz.) await; (cz.) expect; (cz.) expected; (cz.) listen; (cz.) wait
+[oczekujacy]oczekujący (PL) : (p.) pending
+[oczep]oczep (PL) : (rz.) wale
+[oczeret]oczeret (PL) : (rz.) bulrush
+[oczernianie]oczernianie (PL) : (rz.) defamation; (rz.) mudslinging; (rz.) slander
+[oczerniac]oczerniać (PL) : (cz.) backbite; (cz.) besmirch; (cz.) blacken; (cz.) calumniate; (cz.) decry; (cz.) defame; (cz.) detract; (cz.) slander; (cz.) slur; (cz.) traduce
+[oczernienie]oczernienie (PL) : (rz.) denigration
+[oczernic]oczernić (PL) : (cz.) blacken; (cz.) decry
+[oczko]oczko (PL) : (rz.) ace; (rz.) asterisk; (rz.) blackjack; (rz.) eye; (rz.) eyelet; (rz.) ladder; (rz.) mesh; (rz.) stitch; (rz.) stone
+[oczkowac]oczkować (PL) : (cz.) bud
+[oczny]oczny (PL) : (p.) ocular; (p.) ophthalmic; (p.) optic
+[oczodolowy]oczodołowy (PL) : (p.) orbital
+[oczodol]oczodół (PL) : (rz.) socket
+[oczy]oczy (PL) : (rz.) eyes
+[oczyszczacz]oczyszczacz (PL) : (rz.) cleaner; (rz.) purifier
+[oczyszczalnia]oczyszczalnia (PL) : (rz.) treatment
+[oczyszczalnik]oczyszczalnik (PL) : (rz.) cleaner; (rz.) purifier
+[oczyszczanie]oczyszczanie (PL) : (rz.) cleaning; (rz.) cleansing; (rz.) clearing; (rz.) expurgation; (rz.) purge; (rz.) purification; (rz.) refinement; (rz.) scavenging
+[oczyszczarka]oczyszczarka (PL) : (rz.) cleaner
+[oczyszczac]oczyszczać (PL) : (cz.) brighten; (cz.) brush; (cz.) chasten; (cz.) clarify; (cz.) cleanse; (cz.) expurgate; (cz.) purge; (cz.) purify; (cz.) rectify; (cz.) refine; (cz.) rid; (cz.) sanctify; (cz.) scavenge; (cz.) treat
+[oczyszczenie]oczyszczenie (PL) : (rz.) catharsis; (rz.) cleaning; (rz.) clearance; (rz.) defecation; (rz.) purgation; (rz.) purge; (rz.) purification
+[oczytanie]oczytanie (PL) : (rz.) reading
+[oczytany]oczytany (PL) : (p.) lettered
+[oczywistosc]oczywistość (PL) : (rz.) clearness; (rz.) evidence; (rz.) obviousness
+[oczywisty]oczywisty (PL) : (p.) apparent; (p.) clear; (p.) cut-and-dried; (p.) evident; (p.) manifest; (p.) obvious; (p.) patent; (p.) plain; (p.) self-evident; (p.) self-explanatory; (p.) unmistakable
+[oczywiscie]oczywiście (PL) : (p-sł.) absolutely; (p-sł.) ay; (p-sł.) aye; (p-sł.) certainly; (p-sł.) definitely; (p-sł.) evidently; (p-sł.) naturally; (p-sł.) obviously; (p-sł.) rather
+[oczyscic]oczyścić (PL) : (cz.) absolve; (cz.) clarify; (cz.) clean; (cz.) cleanse; (cz.) rid
+[od]od (PL) : (p-im.) from; (p-im.) of; (p-im.) off; (p-im.) since
+[oda]oda (PL) : (rz.) ode
+[odautorski]odautorski (PL) : (p.) author's
+[odbarwianie]odbarwianie (PL) : (rz.) decolourisation
+[odbarwiac]odbarwiać (PL) : (cz.) decolorize; (cz.) decolour; (cz.) decolourize; (cz.) discolour
+[odbarwienie]odbarwienie (PL) : (rz.) discoloration; (rz.) discolouration
+[odbarwic]odbarwić (PL) : (cz.) discolour
+[odbezpieczac]odbezpieczać (PL) : (cz.) unlock
+[odbicie]odbicie (PL) : (rz.) bounce; (rz.) image; (rz.) impression; (rz.) imprint; (rz.) mirror; (rz.) parry; (rz.) rebound; (rz.) reflection; (rz.) reflex; (rz.) repercussion; (rz.) rescue; (rz.) return; (rz.) shadow
+[odbieganie]odbieganie (PL) : (rz.) departure; (rz.) scamper
+[odbiegac]odbiegać (PL) : (cz.) depart; (cz.) digress; (cz.) diverge
+[odbielanie]odbielanie (PL) : (rz.) bleaching
+[odbieracz]odbieracz (PL) : (rz.) doffer
+[odbierak]odbierak (PL) : (rz.) collector
+[odbieralnik]odbieralnik (PL) : (rz.) receiver; (rz.) receptacle
+[odbierac]odbierać (PL) : (cz.) answer; (cz.) collect; (cz.) construe; (cz.) discourage; (cz.) disfranchise; (cz.) pick; (cz.) receive; (cz.) reclaim; (cz.) retake
+[odbijacz]odbijacz (PL) : (rz.) fender
+[odbijajacy]odbijający (PL) : (p.) reflective; (p.) resilient
+[odbijak]odbijak (PL) : (rz.) knocker-off
+[odbijanie]odbijanie (PL) : (rz.) belching; (rz.) eructation; (rz.) printing
+[odbijac]odbijać (PL) : (cz.) bandy; (cz.) bounce; (cz.) echo; (cz.) eruct; (cz.) imprint; (cz.) mirror; (cz.) rebound; (cz.) recapture; (cz.) reflect; (cz.) retake; (cz.) reverberate; (cz.) stamp
+[odbiorca]odbiorca (PL) : (rz.) audience; (rz.) consignee; (rz.) consumer; (rz.) payee; (rz.) receiver; (rz.) recipient; (rz.) user
+[odbiorczy]odbiorczy (PL) : (p.) recipient
+[odbiornik]odbiornik (PL) : (rz.) listener; (rz.) radioed; (rz.) receiver; (rz.) set
+[odbitka]odbitka (PL) : (rz.) blueprint; (rz.) copy; (rz.) ectype; (rz.) heliotype; (rz.) offprint; (rz.) off-print; (rz.) print; (rz.) reprint
+[odbior]odbiór (PL) : (rz.) collection; (rz.) over; (rz.) receipt; (rz.) reception
+[odbic]odbić (PL) : (cz.) eruct; (cz.) rebound; (cz.) recapture
+[odblask]odblask (PL) : (rz.) gleam; (rz.) halo; (rz.) reflection
+[odblaskowy]odblaskowy (PL) : (p.) reflective
+[odblokowac]odblokować (PL) : (cz.) clear; (cz.) unblock; (cz.) unfreeze; (cz.) unlock
+[odblokowywac]odblokowywać (PL) : (cz.) unblock; (cz.) unlock
+[odbojnica]odbojnica (PL) : (rz.) check
+[odbojnosc]odbojność (PL) : (rz.) resilience; (rz.) resiliency
+[odbrazawiac]odbrązawiać (PL) : (cz.) debunk
+[odbudowa]odbudowa (PL) : (rz.) reconstruction; (rz.) restoration
+[odbudowanie]odbudowanie (PL) : (rz.) reconstruction
+[odbudowac]odbudować (PL) : (cz.) rebuild; (cz.) rebuilt; (cz.) reconstruct; (cz.) redevelop; (cz.) restore
+[odbudowywac]odbudowywać (PL) : (cz.) rebuild; (cz.) reconstruct
+[odbyt]odbyt (PL) : (rz.) anus
+[odbytnica]odbytnica (PL) : (rz.) anus; (rz.) rectum
+[odbytnicowy]odbytnicowy (PL) : (p.) recta
+[odbytniczy]odbytniczy (PL) : (p.) anal; (p.) rectal
+[odbytowy]odbytowy (PL) : (p.) anal
+[odbywac]odbywać (PL) : (cz.) done; (cz.) hold; (cz.) serve
+[odbyc]odbyć (PL) : (cz.) done
+[odboj]odbój (PL) : (rz.) buffer; (rz.) fender
+[odbebnic]odbębnić (PL) : (cz.) drum
+[odblysnik]odbłyśnik (PL) : (rz.) reflector
+[odcedzanie]odcedzanie (PL) : (rz.) straining
+[odcedzac]odcedzać (PL) : (cz.) drain
+[odcedzic]odcedzić (PL) : (cz.) drain; (cz.) strain
+[odchody]odchody (PL) : (rz.) discharges; (rz.) droppings; (rz.) excrement; (rz.) faeces; (rz.) manure; (rz.) ordure
+[odchodzic]odchodzić (PL) : (cz.) depart; (cz.) retire
+[odchowac]odchować (PL) : (cz.) feed
+[odchrzakiwac]odchrząkiwać (PL) : (cz.) hawk
+[odchrzakniecie]odchrząknięcie (PL) : (rz.) hem
+[odchudzac]odchudzać (PL) : (cz.) diet; (cz.) slim
+[odchudzic]odchudzić (PL) : (cz.) slim
+[odchwascic]odchwaścić (PL) : (cz.) weed
+[odchylanie]odchylanie (PL) : (rz.) deflection; (rz.) deviation; (rz.) sweeping
+[odchylac]odchylać (PL) : (cz.) deflect; (cz.) deviate; (cz.) diverge; (cz.) divert; (cz.) evade; (cz.) rake; (cz.) swerve
+[odchylenie]odchylenie (PL) : (rz.) aberration; (rz.) bias; (rz.) declension; (rz.) deflection; (rz.) departure; (rz.) deviation; (rz.) divergence; (rz.) diversion; (rz.) swelter; (rz.) variation; (rz.) yaw
+[odchylic]odchylić (PL) : (cz.) move
+[odchylka]odchyłka (PL) : (rz.) deviation
+[odciek]odciek (PL) : (rz.) efflux
+[odcierpiec]odcierpieć (PL) : (cz.) expiate
+[odcien]odcień (PL) : (rz.) hue; (rz.) nuance; (rz.) shade; (rz.) shadow; (rz.) spice; (rz.) streak; (rz.) tincture; (rz.) tinge; (rz.) tint; (rz.) tone
+[odcinak]odcinak (PL) : (rz.) cut-off
+[odcinanie]odcinanie (PL) : (rz.) sheaf; (rz.) shear
+[odcinac]odcinać (PL) : (cz.) dissociate; (cz.) handle; (cz.) lop; (cz.) retort; (cz.) sever; (cz.) shutoff
+[odcinek]odcinek (PL) : (rz.) counterfoil; (rz.) coupon; (rz.) episode; (rz.) exergue; (rz.) instalment; (rz.) length; (rz.) part; (rz.) section; (rz.) sector; (rz.) segment; (rz.) snip; (rz.) stub
+[odcinkowy]odcinkowy (PL) : (p.) segmental; (p.) serial
+[odcisk]odcisk (PL) : (rz.) blister; (rz.) corn; (rz.) fingerprint; (rz.) footprint; (rz.) impression; (rz.) imprint; (rz.) print; (rz.) stamp
+[odciskac]odciskać (PL) : (cz.) impress
+[odcisnac]odcisnąć (PL) : (cz.) impress
+[odciag]odciąg (PL) : (rz.) guy; (rz.) stay
+[odciaga]odciąga (PL) : (rz.) broaching
+[odciaganie]odciąganie (PL) : (rz.) drafting
+[odciagac]odciągać (PL) : (cz.) decoy; (cz.) deduct; (cz.) detract; (cz.) distract; (cz.) divert; (cz.) hitch
+[odciagniecie]odciągnięcie (PL) : (rz.) revulsion
+[odciac]odciąć (PL) : (cz.) ablate; (cz.) amputate; (cz.) snip
+[odciazac]odciążać (PL) : (cz.) unburden
+[odciazyc]odciążyć (PL) : (cz.) lighten; (cz.) unburden; (cz.) unload
+[odciecie]odcięcie (PL) : (rz.) amputation; (rz.) cut; (rz.) cut-off; (rz.) lockout; (rz.) lock-out; (rz.) snip
+[odcieta]odcięta (PL) : (rz.) abscissa
+[odcisniecie]odciśnięcie (PL) : (rz.) trace
+[odcumowanie]odcumowanie (PL) : (rz.) unmoor
+[odcumowac]odcumować (PL) : (cz.) unmoor
+[odcyfrowanie]odcyfrowanie (PL) : (rz.) decipherment
+[odcyfrowac]odcyfrować (PL) : (cz.) decipher; (cz.) decode
+[odcyfrowywac]odcyfrowywać (PL) : (cz.) decipher
+[odczarowanie]odczarowanie (PL) : (rz.) disenchantment
+[odczarowac]odczarować (PL) : (cz.) disenchant
+[odczasownikowy]odczasownikowy (PL) : (p.) verbal
+[odczekac]odczekać (PL) : (cz.) wait
+[odczepiac]odczepiać (PL) : (cz.) detach; (cz.) uncouple; (cz.) unfasten; (cz.) unhitch; (cz.) unlink
+[odczepienie]odczepienie (PL) : (rz.) disconnection
+[odczepic]odczepić (PL) : (cz.) detach; (cz.) unfix
+[odczucie]odczucie (PL) : (rz.) feeling; (rz.) sensation; (rz.) sentiment
+[odczulanie]odczulanie (PL) : (rz.) desensitization
+[odczulac]odczulać (PL) : (cz.) desensitise; (cz.) desensitize
+[odczulenie]odczulenie (PL) : (rz.) desensitization; (rz.) felt
+[odczulic]odczulić (PL) : (cz.) desensitise
+[odczuwalnosc]odczuwalność (PL) : (rz.) perceptibility
+[odczuwalny]odczuwalny (PL) : (p.) noticeable; (p.) palpable; (p.) perceptible
+[odczuwanie]odczuwanie (PL) : (rz.) feel
+[odczuwac]odczuwać (PL) : (cz.) feel
+[odczuc]odczuć (PL) : (cz.) perceive
+[odczyn]odczyn (PL) : (rz.) reaction
+[odczynnik]odczynnik (PL) : (rz.) agent; (rz.) reagent
+[odczyszczenie]odczyszczenie (PL) : (rz.) cleaning
+[odczyt]odczyt (PL) : (rz.) lecture; (rz.) non-return-to-reference; (rz.) non-return-to-zero; (rz.) readout
+[odczytanie]odczytanie (PL) : (rz.) reading
+[odczytac]odczytać (PL) : (cz.) decode; (cz.) read; (cz.) retrieve
+[odczytywanie]odczytywanie (PL) : (rz.) reading
+[odczytywac]odczytywać (PL) : (cz.) read; (cz.) sense
+[odczyscic]odczyścić (PL) : (cz.) clean
+[oddalac]oddalać (PL) : (cz.) avert; (cz.) disallow; (cz.) dismiss; (cz.) overrule; (cz.) recede; (cz.) relegate; (cz.) remove; (cz.) wean
+[oddalenie]oddalenie (PL) : (rz.) dismissal; (rz.) distance; (rz.) estrangement; (rz.) remoteness
+[oddalic]oddalić (PL) : (cz.) avert; (cz.) dismiss; (cz.) rejected; (cz.) remove
+[oddanie]oddanie (PL) : (rz.) abandonment; (rz.) commitment; (rz.) dedication; (rz.) devotion; (rz.) disposal; (rz.) faithfulness; (rz.) putting; (rz.) rendition; (rz.) surrender
+[oddany]oddany (PL) : (p.) dedicated; (p.) devoted
+[oddawanie]oddawanie (PL) : (rz.) donation; (rz.) render; (rz.) restitution
+[oddawac]oddawać (PL) : (cz.) addict; (cz.) cast; (cz.) convey; (cz.) devote; (cz.) indulge; (cz.) reverberate; (cz.) submit
+[oddawca]oddawca (PL) : (rz.) deliverer
+[oddac]oddać (PL) : (cz.) cast; (cz.) dedicate; (cz.) grant; (cz.) remit
+[oddech]oddech (PL) : (rz.) breath; (rz.) breathing; (rz.) respiration
+[oddechowy]oddechowy (PL) : (p.) respiratory
+[oddolny]oddolny (PL) : (p.) bottom-up
+[oddychanie]oddychanie (PL) : (rz.) breathing; (rz.) respiration
+[oddychac]oddychać (PL) : (cz.) breathe; (cz.) respire; (cz.) suspire
+[oddzial]oddział (PL) : (rz.) affiliate; (rz.) agency; (rz.) body; (rz.) branch; (rz.) compartment; (rz.) department; (rz.) detachment; (rz.) division; (rz.) form; (rz.) picket; (rz.) posse; (rz.) section; (rz.) squad; (rz.) subsidiary; (rz.) troop; (rz.) ward
+[oddzialowy]oddziałowy (PL) : (p.) departmental
+[oddzialywanie]oddziaływanie (PL) : (rz.) impact; (rz.) influence; (rz.) interplay; (rz.) power
+[oddzialywac]oddziaływać (PL) : (cz.) affect; (cz.) interact
+[oddzielacz]oddzielacz (PL) : (rz.) separator
+[oddzielanie]oddzielanie (PL) : (rz.) separation
+[oddzielac]oddzielać (PL) : (cz.) abstract; (cz.) detach; (cz.) disengage; (cz.) disestablish; (cz.) dissever; (cz.) dissociate; (cz.) isolate; (cz.) part; (cz.) seclude; (cz.) separate; (cz.) separated; (cz.) sever
+[oddzielenie]oddzielenie (PL) : (rz.) abstraction; (rz.) detachment; (rz.) dieresis; (rz.) extrication; (rz.) isolation; (rz.) secession; (rz.) seclusion; (rz.) separation; (rz.) severance
+[oddzielic]oddzielić (PL) : (cz.) disestablish; (cz.) separated
+[oddzielnie]oddzielnie (PL) : (p-sł.) apart; (p-sł.) extra; (p-sł.) separately; (p-sł.) severally
+[oddzielny]oddzielny (PL) : (p.) distinct; (p.) extra; (p.) separable; (p.) separate; (p.) several; (p.) single
+[oddzwanianie]oddzwanianie (PL) : (rz.) dial-back
+[oddzwiek]oddźwięk (PL) : (rz.) chord; (rz.) echo; (rz.) repercussion; (rz.) response
+[odebranie]odebranie (PL) : (rz.) disqualification; (rz.) reception; (rz.) return
+[odebrac]odebrać (PL) : (cz.) answer; (cz.) deprive; (cz.) revoke
+[odegranie]odegranie (PL) : (rz.) enactment; (rz.) play; (rz.) playing
+[odegrac]odegrać (PL) : (cz.) play
+[odejmowalny]odejmowalny (PL) : (p.) detachable
+[odejmowanie]odejmowanie (PL) : (rz.) deduction; (rz.) subtraction
+[odejmowany]odejmowany (PL) : (p.) demountable; (p.) detachable; (p.) removable
+[odejmowac]odejmować (PL) : (cz.) deduct; (cz.) disable; (cz.) subtract
+[odejscie]odejście (PL) : (rz.) departure; (rz.) exit; (rz.) going; (rz.) recess
+[odejsc]odejść (PL) : (cz.) abort; (cz.) depart; (cz.) go; (cz.) leave; (cz.) retire
+[odepchniecie]odepchnięcie (PL) : (rz.) push; (rz.) rebuff; (rz.) repulse
+[odepchniety]odepchnięty (PL) : (p.) outcast
+[odeprzec]odeprzeć (PL) : (cz.) fend; (cz.) rebuff; (cz.) rebut; (cz.) repel
+[oderwanie]oderwanie (PL) : (rz.) avulsion; (rz.) detachment; (rz.) distraction; (rz.) lift-off; (rz.) separation; (rz.) severance
+[oderwany]oderwany (PL) : (p.) abstract
+[oderwac]oderwać (PL) : (cz.) detach; (cz.) detached; (cz.) distract; (cz.) loosen; (cz.) secede; (cz.) tear
+[odeskowanie]odeskowanie (PL) : (rz.) timbering
+[odeslanie]odesłanie (PL) : (rz.) reference; (rz.) referral; (rz.) remitter
+[odeslac]odesłać (PL) : (cz.) return
+[odetkac]odetkać (PL) : (cz.) unblock; (cz.) unstop
+[odezwa]odezwa (PL) : (rz.) address; (rz.) appeal; (rz.) manifesto; (rz.) proclamation
+[odezwanie]odezwanie (PL) : (rz.) response; (rz.) saying
+[odezwac]odezwać (PL) : (cz.) address; (cz.) speak
+[odfajkowac]odfajkować (PL) : (cz.) tick
+[odfiltrowac]odfiltrować (PL) : (cz.) filter
+[odfiltrowywac]odfiltrowywać (PL) : (cz.) filter
+[odgadniecie]odgadnięcie (PL) : (rz.) second-guessing
+[odgadywac]odgadywać (PL) : (cz.) assume; (cz.) guess
+[odgazowanie]odgazowanie (PL) : (rz.) degassing
+[odgazowac]odgazować (PL) : (cz.) degas
+[odgazowywanie]odgazowywanie (PL) : (rz.) degasification; (rz.) degasifying; (rz.) degassed; (rz.) degassing
+[odgazowywac]odgazowywać (PL) : (cz.) degas; (cz.) degasify
+[odgaleziac]odgałęziać (PL) : (cz.) branch
+[odgalezienie]odgałęzienie (PL) : (rz.) branch; (rz.) branching; (rz.) fork; (rz.) offset; (rz.) offshoot; (rz.) spur; (rz.) turnoff
+[odginac]odginać (PL) : (cz.) deflect; (cz.) straighten; (cz.) unbend
+[odgiac]odgiąć (PL) : (cz.) straighten; (cz.) unbend
+[odgniecenie]odgniecenie (PL) : (rz.) gall; (rz.) impression
+[odgniesc]odgnieść (PL) : (cz.) bruise
+[odgradzac]odgradzać (PL) : (cz.) isolate
+[odgraniczac]odgraniczać (PL) : (cz.) separate
+[odgraniczony]odgraniczony (PL) : (p.) bounded
+[odgraniczyc]odgraniczyć (PL) : (cz.) shut
+[odgrazac]odgrażać (PL) : (cz.) menace; (cz.) threaten
+[odgromnik]odgromnik (PL) : (rz.) arrester; (rz.) discharger
+[odgrywac]odgrywać (PL) : (cz.) enact; (cz.) impersonate; (cz.) perform; (cz.) play
+[odgryzc]odgryźć (PL) : (cz.) bite
+[odgrzac]odgrzać (PL) : (cz.) reheat
+[odgrzebac]odgrzebać (PL) : (cz.) disinter
+[odgorny]odgórny (PL) : (p.) top-down
+[odglos]odgłos (PL) : (rz.) echo; (rz.) noise; (rz.) report; (rz.) sound
+[odhaczac]odhaczać (PL) : (cz.) unhook
+[odhaczyc]odhaczyć (PL) : (cz.) unhook
+[odizolowanie]odizolowanie (PL) : (rz.) isolation; (rz.) seclusion
+[odizolowac]odizolować (PL) : (cz.) detach; (cz.) insulate; (cz.) isolate
+[odizolowywac]odizolowywać (PL) : (cz.) seclude
+[odjazd]odjazd (PL) : (rz.) clearance; (rz.) departure
+[odjazdowy]odjazdowy (PL) : (p.) cool
+[odjechac]odjechać (PL) : (cz.) depart; (cz.) leave
+[odjemna]odjemna (PL) : (rz.) minuend
+[odjemnik]odjemnik (PL) : (rz.) subtrahend
+[odjezdzac]odjeżdżać (PL) : (cz.) depart; (cz.) leave
+[odjac]odjąć (PL) : (cz.) ablate; (cz.) subtract
+[odjecie]odjęcie (PL) : (rz.) subtraction
+[odkarmic]odkarmić (PL) : (cz.) feed
+[odkaszlniecie]odkaszlnięcie (PL) : (rz.) hem
+[odkazic]odkazić (PL) : (cz.) disinfect; (cz.) disinfected
+[odkazanie]odkażanie (PL) : (rz.) chlorination; (rz.) decontamination; (rz.) disinfectant; (rz.) fumigation
+[odkazac]odkażać (PL) : (cz.) decontaminate; (cz.) disinfect
+[odkazenie]odkażenie (PL) : (rz.) decontamination; (rz.) disinfection; (rz.) sterilisation
+[odkleic]odkleić (PL) : (cz.) unglue
+[odklejanie]odklejanie (PL) : (rz.) boiling-off; (rz.) deglutination
+[odklejac]odklejać (PL) : (cz.) detach; (cz.) unglue
+[odkomenderowac]odkomenderować (PL) : (cz.) attach; (cz.) detach; (cz.) draft
+[odkopac]odkopać (PL) : (cz.) unearth
+[odkopywac]odkopywać (PL) : (cz.) excavate; (cz.) unearth
+[odkorkowac]odkorkować (PL) : (cz.) uncork
+[odkorkowywac]odkorkowywać (PL) : (cz.) uncork
+[odkrycia]odkrycia (PL) : (rz.) discoveries
+[odkrycie]odkrycie (PL) : (rz.) detection; (rz.) disclosure; (rz.) discovery; (rz.) find; (rz.) finding; (rz.) revelation; (rz.) showdown
+[odkrywanie]odkrywanie (PL) : (rz.) discovery; (rz.) exploration
+[odkrywac]odkrywać (PL) : (cz.) bare; (cz.) detect; (cz.) discover; (cz.) find; (cz.) make; (cz.) reveal; (cz.) support; (cz.) uncover
+[odkrywca]odkrywca (PL) : (rz.) discoverer; (rz.) explorer; (rz.) finder
+[odkrywcy]odkrywcy (PL) : (rz.) discoverers
+[odkrywczosc]odkrywczość (PL) : (rz.) novelty
+[odkrywczy]odkrywczy (PL) : (p.) explorative; (p.) exploratory; (p.) revealing; (p.) visionary
+[odkrywczyni]odkrywczyni (PL) : (rz.) discoverer
+[odkrywka]odkrywka (PL) : (rz.) opencast; (rz.) outcrop
+[odkrywkowy]odkrywkowy (PL) : (p.) opencast
+[odkryc]odkryć (PL) : (cz.) detect; (cz.) discover; (cz.) find; (cz.) reveal; (cz.) uncover; (cz.) unhide; (cz.) unveil
+[odkrztuszanie]odkrztuszanie (PL) : (rz.) expectoration
+[odkrecac]odkręcać (PL) : (cz.) unbolt; (cz.) unscrew
+[odkrecic]odkręcić (PL) : (cz.) unbolt; (cz.) unscrew
+[odksztalcalnosc]odkształcalność (PL) : (rz.) deformability; (rz.) formability
+[odksztalcalny]odkształcalny (PL) : (p.) deformable
+[odksztalcanie]odkształcanie (PL) : (rz.) straining
+[odksztalcac]odkształcać (PL) : (cz.) buckle; (cz.) deform
+[odksztalcenie]odkształcenie (PL) : (rz.) distortion; (rz.) strain; (rz.) straining
+[odksztalcic]odkształcić (PL) : (cz.) buckle; (cz.) strain
+[odkupiciel]odkupiciel (PL) : (rz.) redeemer
+[odkupicielski]odkupicielski (PL) : (p.) redemptive
+[odkupienie]odkupienie (PL) : (rz.) expiation; (rz.) redemption; (rz.) salvation
+[odkupic]odkupić (PL) : (cz.) buy; (cz.) redeem; (cz.) repurchase
+[odkupny]odkupny (PL) : (p.) redeemable
+[odkupywanie]odkupywanie (PL) : (rz.) repurchased
+[odkupywac]odkupywać (PL) : (cz.) redeem
+[odkurzacz]odkurzacz (PL) : (rz.) carpet-sweeper; (rz.) charwoman; (rz.) cleaner; (rz.) vacuum
+[odkurzanie]odkurzanie (PL) : (rz.) dust; (rz.) dusting
+[odkurzac]odkurzać (PL) : (cz.) dust; (cz.) vacuum
+[odkurzyc]odkurzyć (PL) : (cz.) vacuum
+[odkuc]odkuć (PL) : (cz.) remove
+[odkad]odkąd (PL) : (p-sł.) since; (p-sł.) when
+[odklad]odkład (PL) : (rz.) slip
+[odkladanie]odkładanie (PL) : (rz.) deposition
+[odkladac]odkładać (PL) : (cz.) accumulate; (cz.) delay; (cz.) deposit; (cz.) postpone; (cz.) postponed; (cz.) procrastinate; (cz.) save; (cz.) stow
+[odkladnica]odkładnica (PL) : (rz.) mouldboard
+[odlatywac]odlatywać (PL) : (cz.) depart
+[odlac]odlać (PL) : (cz.) pee; (cz.) piss
+[odleglosciomierz]odległościomierz (PL) : (rz.) rangefinder; (rz.) range-finder
+[odleglosc]odległość (PL) : (rz.) distance; (rz.) length; (rz.) prospect; (rz.) remoteness; (rz.) space
+[odlegly]odległy (PL) : (p.) distant; (p.) equidistant; (p.) far; (p.) faraway; (p.) far-off; (p.) remote
+[odlepianie]odlepianie (PL) : (rz.) deglutination
+[odlepiac]odlepiać (PL) : (cz.) detach
+[odlepic]odlepić (PL) : (cz.) detach
+[odlew]odlew (PL) : (rz.) cast
+[odlewanie]odlewanie (PL) : (rz.) casting; (rz.) pouring
+[odlewarka]odlewarka (PL) : (rz.) caster
+[odlewac]odlewać (PL) : (cz.) cast; (cz.) drain; (cz.) found; (cz.) mould; (cz.) piss
+[odlewnia]odlewnia (PL) : (rz.) foundry
+[odlewnictwo]odlewnictwo (PL) : (rz.) casting; (rz.) foundry
+[odlewnik]odlewnik (PL) : (rz.) caster; (rz.) founder
+[odlezec]odleżeć (PL) : (cz.) mellow
+[odlezyna]odleżyna (PL) : (rz.) bedside; (rz.) bedsore
+[odliczanie]odliczanie (PL) : (rz.) count; (rz.) countdown
+[odliczac]odliczać (PL) : (cz.) count; (cz.) deduct
+[odliczenie]odliczenie (PL) : (rz.) deduction
+[odliczyc]odliczyć (PL) : (cz.) deduct
+[odlot]odlot (PL) : (rz.) departure; (rz.) migration; (rz.) takeoff; (rz.) take-off
+[odlotowy]odlotowy (PL) : (p.) cool; (p.) snazzy
+[odludek]odludek (PL) : (rz.) anchorite; (rz.) misanthropist; (rz.) recluse
+[odludny]odludny (PL) : (p.) desolate; (p.) lone; (p.) lonely; (p.) lonesome; (p.) solitary
+[odludzie]odludzie (PL) : (rz.) seclusion; (rz.) wilderness
+[odlutowac]odlutować (PL) : (cz.) unsolder
+[odmaczac]odmaczać (PL) : (cz.) soak
+[odmagnesowac]odmagnesować (PL) : (cz.) demagnetize
+[odmagnesowywac]odmagnesowywać (PL) : (cz.) demagnetize
+[odmalowac]odmalować (PL) : (cz.) redecorate; (cz.) repaint
+[odmarzac]odmarzać (PL) : (cz.) defrost; (cz.) melt; (cz.) thaw
+[odmawiac]odmawiać (PL) : (cz.) contradict; (cz.) default; (cz.) denied; (cz.) deny; (cz.) rebuff; (cz.) refuse; (cz.) refused; (cz.) repudiate; (cz.) revoke
+[odmiana]odmiana (PL) : (rz.) alteration; (rz.) alternation; (rz.) brand; (rz.) change; (rz.) conjugation; (rz.) decline; (rz.) inflection; (rz.) inflexion; (rz.) softball; (rz.) strain; (rz.) variation; (rz.) variety
+[odmieniac]odmieniać (PL) : (cz.) conjugate; (cz.) inflect; (cz.) transform
+[odmieniec]odmieniec (PL) : (rz.) changeling
+[odmienic]odmienić (PL) : (cz.) change; (cz.) inflect; (cz.) transform
+[odmiennie]odmiennie (PL) : (p-sł.) differently
+[odmiennosc]odmienność (PL) : (rz.) dissimilarity; (rz.) distinctness; (rz.) otherness
+[odmienny]odmienny (PL) : (p.) alien; (p.) declinable; (p.) different; (p.) disparate; (p.) dissident; (p.) dissimilar; (p.) distinct; (p.) diverse; (p.) variant
+[odmierzanie]odmierzanie (PL) : (rz.) metering
+[odmierzenie]odmierzenie (PL) : (rz.) metering
+[odmierzyc]odmierzyć (PL) : (cz.) measure
+[odmineralizowanie]odmineralizowanie (PL) : (rz.) demineralization
+[odmotac]odmotać (PL) : (cz.) disentangle
+[odmowa]odmowa (PL) : (rz.) denial; (rz.) negation; (rz.) no; (rz.) rebuff; (rz.) refusal; (rz.) rejection; (rz.) repudiation; (rz.) repulse; (rz.) scandal
+[odmownie]odmownie (PL) : (p-sł.) negatively; (p-sł.) unfavourably
+[odmowny]odmowny (PL) : (p.) negative
+[odmrazacz]odmrażacz (PL) : (rz.) antifreeze; (rz.) defroster
+[odmrazac]odmrażać (PL) : (cz.) defrost
+[odmrozic]odmrozić (PL) : (cz.) defrost; (cz.) freeze
+[odmrozenie]odmrożenie (PL) : (rz.) chilblain; (rz.) defrosting; (rz.) frostbite; (rz.) frost-bite
+[odmrozony]odmrożony (PL) : (p.) frostbitten
+[odmulanie]odmulanie (PL) : (rz.) blowing-down; (rz.) blow-off
+[odmulac]odmulać (PL) : (cz.) elutriate
+[odmowienie]odmówienie (PL) : (rz.) denial
+[odmowic]odmówić (PL) : (cz.) contradict; (cz.) deny; (cz.) rebuff; (cz.) refuse; (cz.) refused; (cz.) repudiate; (cz.) revoke; (cz.) withhold
+[odmet]odmęt (PL) : (rz.) vortex
+[odmladzanie]odmładzanie (PL) : (rz.) rejuvenation
+[odmladzac]odmładzać (PL) : (cz.) rejuvenate
+[odmlodniec]odmłodnieć (PL) : (cz.) feel; (cz.) rejuvenate
+[odmlodzenie]odmłodzenie (PL) : (rz.) rejuvenation
+[odnajdowanie]odnajdowanie (PL) : (rz.) discovery; (rz.) finding
+[odnajdowac]odnajdować (PL) : (cz.) find
+[odnajdywac]odnajdywać (PL) : (cz.) find
+[odnajac]odnająć (PL) : (cz.) rent
+[odnalezienie]odnalezienie (PL) : (rz.) discovery; (rz.) retrieval; (rz.) retrievals
+[odnalezc]odnaleźć (PL) : (cz.) found; (cz.) trace
+[odnawialny]odnawialny (PL) : (p.) renewable
+[odnawianie]odnawianie (PL) : (rz.) refurbishment; (rz.) renewal
+[odnawiac]odnawiać (PL) : (cz.) decorate; (cz.) recapitalize; (cz.) recondition; (cz.) redecorate; (cz.) refurbish; (cz.) regenerate; (cz.) reload; (cz.) renew; (cz.) renovate; (cz.) renovated; (cz.) rest; (cz.) restore; (cz.) revamp
+[odniesienie]odniesienie (PL) : (rz.) cross-reference; (rz.) reference; (rz.) referral; (rz.) regard
+[odniesc]odnieść (PL) : (cz.) apply; (cz.) refer
+[odnoga]odnoga (PL) : (rz.) arm; (rz.) branch; (rz.) leg; (rz.) offshoot; (rz.) spur
+[odnosic]odnosić (PL) : (cz.) appertain; (cz.) belong; (cz.) concern; (cz.) pertain; (cz.) refer; (cz.) relate; (cz.) take
+[odnoszenie]odnoszenie (PL) : (rz.) carriage
+[odnotowac]odnotować (PL) : (cz.) record
+[odnotowywac]odnotowywać (PL) : (cz.) record
+[odnowa]odnowa (PL) : (rz.) renewal; (rz.) renovation; (rz.) restoration
+[odnowiciel]odnowiciel (PL) : (rz.) restorer
+[odnowienie]odnowienie (PL) : (rz.) redecoration; (rz.) refurbishment; (rz.) renewal; (rz.) renovation
+[odnowic]odnowić (PL) : (cz.) decorate; (cz.) recondition; (cz.) reload; (cz.) renew
+[odnosnie]odnośnie (PL) : (p-sł.) about; (p-sł.) apropos
+[odnosnik]odnośnik (PL) : (rz.) cross-reference; (rz.) footnote; (rz.) hotlink; (rz.) reference
+[odnosny]odnośny (PL) : (p.) pertinent; (p.) referential; (p.) related; (p.) relative; (p.) relevant; (p.) respective; (p.) underlying
+[odnozka]odnóżka (PL) : (rz.) shoot
+[odosabniac]odosabniać (PL) : (cz.) insulate; (cz.) seclude
+[odosobniac]odosobniać (PL) : (cz.) isolate
+[odosobnienie]odosobnienie (PL) : (rz.) confinement; (rz.) detachment; (rz.) detention; (rz.) hermitage; (rz.) isolation; (rz.) privacy; (rz.) seclusion
+[odosobniony]odosobniony (PL) : (p.) insular; (p.) secluded; (p.) solitary
+[odosobnic]odosobnić (PL) : (cz.) box; (cz.) isolate; (cz.) maroon
+[odpad]odpad (PL) : (rz.) refuse; (rz.) waste
+[odpadanie]odpadanie (PL) : (rz.) abandonment; (rz.) secession
+[odpadac]odpadać (PL) : (cz.) fall
+[odpadek]odpadek (PL) : (rz.) fag-end; (rz.) garbage; (rz.) junk; (rz.) spoilage; (rz.) waste
+[odpadki]odpadki (PL) : (rz.) garbage; (rz.) leavings; (rz.) offal; (rz.) refuse; (rz.) rubbish; (rz.) tailings; (rz.) tails; (rz.) trash
+[odpadkowy]odpadkowy (PL) : (p.) residuary; (p.) spent
+[odpadowy]odpadowy (PL) : (p.) waste
+[odpady]odpady (PL) : (rz.) discards
+[odpakowac]odpakować (PL) : (cz.) unpack; (cz.) unwrap
+[odpakowywac]odpakowywać (PL) : (cz.) unpack
+[odpalac]odpalać (PL) : (cz.) fire; (cz.) launch
+[odpalenie]odpalenie (PL) : (rz.) blastoff; (rz.) blast-off; (rz.) firing; (rz.) smoke
+[odpalic]odpalić (PL) : (cz.) fire
+[odparcie]odparcie (PL) : (rz.) disproof; (rz.) parry; (rz.) rebuttal; (rz.) repulse
+[odparowanie]odparowanie (PL) : (rz.) evaporation; (rz.) vaporization
+[odparowac]odparować (PL) : (cz.) defog; (cz.) evaporate; (cz.) parry
+[odparowywacz]odparowywacz (PL) : (rz.) vaporizer
+[odparowywanie]odparowywanie (PL) : (rz.) evaporation; (rz.) vaporization
+[odparowywac]odparowywać (PL) : (cz.) evaporate; (cz.) retort; (cz.) vaporize
+[odparzenie]odparzenie (PL) : (rz.) blister; (rz.) chafe; (rz.) scald
+[odparzyc]odparzyć (PL) : (cz.) chafe
+[odpasac]odpasać (PL) : (cz.) unbind
+[odpasc]odpaść (PL) : (cz.) fall; (cz.) lapse
+[odpieczetowac]odpieczętować (PL) : (cz.) unseal
+[odpieprzyc]odpieprzyć (PL) : (cz.) fuck
+[odpierac]odpierać (PL) : (cz.) confute; (cz.) counter; (cz.) deflect; (cz.) parry; (cz.) rebut; (cz.) refute; (cz.) repel; (cz.) retort
+[odpinac]odpinać (PL) : (cz.) unbuckle; (cz.) unbutton; (cz.) uncouple; (cz.) unfasten; (cz.) unhook
+[odpis]odpis (PL) : (rz.) copy; (rz.) duplicate; (rz.) transcript
+[odpisac]odpisać (PL) : (cz.) reply
+[odpisywanie]odpisywanie (PL) : (rz.) copying
+[odpisywac]odpisywać (PL) : (cz.) copy
+[odpiac]odpiąć (PL) : (cz.) unclasp
+[odpluskwiac]odpluskwiać (PL) : (cz.) debug
+[odplatac]odplątać (PL) : (cz.) unravel
+[odplatywac]odplątywać (PL) : (cz.) disentangle
+[odpoczynek]odpoczynek (PL) : (rz.) lie-down; (rz.) recreation; (rz.) refreshment; (rz.) repose; (rz.) rest
+[odpoczywac]odpoczywać (PL) : (cz.) recline; (cz.) repose; (cz.) rest
+[odpokutowanie]odpokutowanie (PL) : (rz.) atonement
+[odpokutowac]odpokutować (PL) : (cz.) assoil; (cz.) atone; (cz.) expiate
+[odpolityczniac]odpolityczniać (PL) : (cz.) depoliticize
+[odpolitycznic]odpolitycznić (PL) : (cz.) depoliticize
+[odpornosc]odporność (PL) : (rz.) immunity; (rz.) resistance; (rz.) robustness; (rz.) tolerance
+[odporny]odporny (PL) : (p.) foolproof; (p.) hardy; (p.) immune; (p.) impervious; (p.) insusceptible; (p.) invulnerable; (p.) proof; (p.) resilient; (p.) resistant; (p.) resistible; (p.) stanch; (p.) tolerant
+[odpowiadajacy]odpowiadający (PL) : (p.) responsive
+[odpowiadanie]odpowiadanie (PL) : (rz.) answering; (rz.) rejoinder
+[odpowiadac]odpowiadać (PL) : (cz.) agree; (cz.) answer; (cz.) correspond; (cz.) please; (cz.) rejoin; (cz.) reply; (cz.) respond
+[odpowiedni]odpowiedni (PL) : (p.) adequate; (p.) applicable; (p.) apposite; (p.) appropriate; (p.) apt; (p.) conformal; (p.) congenial; (p.) convenient; (p.) correct; (p.) corresponding; (p.) decorous; (p.) desirable; (p.) due; (p.) eligible; (p.) enough; (p.) equal; (p.) fair; (p.) fit; (p.) good; (p.) homologous; (p.) opportune; (p.) pertinent; (p.) relevant; (p.) right; (p.) seemly; (p.) suitable; (p.) suited; (p.) timely; (p.) underlying
+[odpowiednik]odpowiednik (PL) : (rz.) counterpart; (rz.) equivalent; (rz.) matcher; (rz.) parallel
+[odpowiednio]odpowiednio (PL) : (p-sł.) acceptably; (p-sł.) accordingly; (p-sł.) adequately; (p-sł.) appropriately; (p-sł.) correspondingly; (p-sł.) fittingly; (p-sł.) pertly; (p-sł.) properly; (p-sł.) proportionately; (p-sł.) respectively; (p-sł.) suitably
+[odpowiedniosc]odpowiedniość (PL) : (rz.) adequacy; (rz.) appropriateness; (rz.) congruence; (rz.) correspondence; (rz.) pertinence; (rz.) property; (rz.) suitability
+[odpowiedzialnie]odpowiedzialnie (PL) : (p-sł.) responsibly
+[odpowiedzialnosc]odpowiedzialność (PL) : (rz.) accountability; (rz.) blaming; (rz.) liability; (rz.) responsibility
+[odpowiedzialny]odpowiedzialny (PL) : (p.) accountable; (p.) amenable; (p.) answerable; (p.) guilty; (p.) liable; (p.) related; (p.) reliable; (p.) responsible; (p.) trustworthy
+[odpowiedziec]odpowiedzieć (PL) : (cz.) answer; (cz.) replay; (cz.) reply; (cz.) respond
+[odpowiedz]odpowiedź (PL) : (rz.) answer; (rz.) feedback; (rz.) plea; (rz.) rejoinder; (rz.) replication; (rz.) reply; (rz.) response
+[odpowietrzanie]odpowietrzanie (PL) : (rz.) venting
+[odpowietrzac]odpowietrzać (PL) : (cz.) de-aerate; (cz.) vent
+[odpowietrzenie]odpowietrzenie (PL) : (rz.) air-release
+[odpowietrznik]odpowietrznik (PL) : (rz.) air-escape; (rz.) air-release; (rz.) breather; (rz.) vent
+[odpowietrzony]odpowietrzony (PL) : (p.) air-free
+[odprawa]odprawa (PL) : (rz.) briefing; (rz.) check-in; (rz.) dismissal; (rz.) payoff; (rz.) repulse
+[odprawiac]odprawiać (PL) : (cz.) dismiss; (cz.) dispatch; (cz.) officiate
+[odprawienie]odprawienie (PL) : (rz.) dismissal
+[odprowadzac]odprowadzać (PL) : (cz.) accompany; (cz.) dissipate
+[odprowadzenie]odprowadzenie (PL) : (rz.) extraction
+[odprysk]odprysk (PL) : (rz.) chip; (rz.) flake; (rz.) remnants; (rz.) splinter
+[odpryskiwac]odpryskiwać (PL) : (cz.) flake
+[odprzedaz]odprzedaż (PL) : (rz.) resale
+[odprzeganie]odprzęganie (PL) : (rz.) decoupling
+[odprzegac]odprzęgać (PL) : (cz.) uncouple
+[odprezajacy]odprężający (PL) : (p.) relaxing
+[odprezac]odprężać (PL) : (cz.) relax; (cz.) slacken; (cz.) unbend; (cz.) unwind; (cz.) unwound
+[odprezenie]odprężenie (PL) : (rz.) decompression; (rz.) detente; (rz.) détente; (rz.) relaxation
+[odprezyc]odprężyć (PL) : (cz.) unbend
+[odpust]odpust (PL) : (rz.) fair; (rz.) indulgence; (rz.) pardon
+[odpustowy]odpustowy (PL) : (p.) fair
+[odpuszczac]odpuszczać (PL) : (cz.) absolve; (cz.) forgive; (cz.) temper
+[odpuszczenie]odpuszczenie (PL) : (rz.) absolution; (rz.) forgiveness; (rz.) remission
+[odpuscic]odpuścić (PL) : (cz.) forgive
+[odpychajacy]odpychający (PL) : (p.) obnoxious; (p.) repellent; (p.) repulsive
+[odpychanie]odpychanie (PL) : (rz.) repellent; (rz.) repulsion
+[odpychac]odpychać (PL) : (cz.) disaffect; (cz.) repel; (cz.) repulse
+[odpylacz]odpylacz (PL) : (rz.) duster
+[odpytywanie]odpytywanie (PL) : (rz.) polling
+[odpytywac]odpytywać (PL) : (cz.) question
+[odpor]odpór (PL) : (rz.) resistance
+[odplacac]odpłacać (PL) : (cz.) reciprocate; (cz.) repay; (cz.) requite; (cz.) retaliate
+[odplacic]odpłacić (PL) : (cz.) repay; (cz.) requite
+[odplata]odpłata (PL) : (rz.) retaliation; (rz.) retribution; (rz.) reward
+[odplatac]odpłatać (PL) : (cz.) unravel
+[odplatnosc]odpłatność (PL) : (rz.) payment; (rz.) repayment
+[odplatny]odpłatny (PL) : (p.) chargeable; (p.) metered; (p.) payable
+[odplyw]odpływ (PL) : (rz.) drain; (rz.) ebb; (rz.) ebb-tide; (rz.) effluent; (rz.) emigration; (rz.) outflow; (rz.) outlet; (rz.) plughole; (rz.) reflux; (rz.) spillway; (rz.) tide
+[odplywac]odpływać (PL) : (cz.) ebb; (cz.) ooze
+[odra]odra (PL) : (rz.) measles
+[odraczanie]odraczanie (PL) : (rz.) delay; (rz.) postponement
+[odraczac]odraczać (PL) : (cz.) adjourn; (cz.) defer; (cz.) deposit; (cz.) postpone; (cz.) prorogue; (cz.) regenerate; (cz.) revive; (cz.) suspend
+[odradzanie]odradzanie (PL) : (rz.) dissuasion; (rz.) rebirth; (rz.) regeneration
+[odradzac]odradzać (PL) : (cz.) dissuade; (cz.) regenerate; (cz.) revive
+[odrapac]odrapać (PL) : (cz.) dilapidate
+[odratowac]odratować (PL) : (cz.) rescue
+[odraza]odraza (PL) : (rz.) abhorrence; (rz.) aversion; (rz.) disgust; (rz.) dislike; (rz.) disrelish; (rz.) loathing; (rz.) repugnance
+[odrazajaco]odrażająco (PL) : (p-sł.) abominably; (p-sł.) revoltingly
+[odrazajacy]odrażający (PL) : (p.) abhorrent; (p.) horrid; (p.) offensive
+[odrdzewiac]odrdzewiać (PL) : (cz.) tumble
+[odredakcyjny]odredakcyjny (PL) : (p.) editorial; (p.) editor's
+[odremontowac]odremontować (PL) : (cz.) renovate
+[odrestaurowanie]odrestaurowanie (PL) : (rz.) restoration
+[odrestaurowac]odrestaurować (PL) : (cz.) restore
+[odrobina]odrobina (PL) : (rz.) atom; (rz.) bit; (rz.) dab; (rz.) grain; (rz.) iota; (rz.) jot; (rz.) modicum; (rz.) ounce; (rz.) pittance; (rz.) scantling; (rz.) scrap; (rz.) smidgen; (rz.) soupcon; (rz.) spark; (rz.) spot; (rz.) sprinkling; (rz.) straw; (rz.) tincture; (rz.) trace; (rz.) wee; (rz.) whit
+[odrobic]odrobić (PL) : (cz.) undo
+[odroczenie]odroczenie (PL) : (rz.) adjournment; (rz.) continuance; (rz.) deferment; (rz.) deferral; (rz.) moratorium; (rz.) postponement; (rz.) respite; (rz.) stay; (rz.) suspension
+[odroczyc]odroczyć (PL) : (cz.) adjourn; (cz.) defer; (cz.) reprieve; (cz.) suspend
+[odrodzenie]odrodzenie (PL) : (rz.) rebirth; (rz.) regeneration; (rz.) renaissance; (rz.) renascence; (rz.) revival
+[odrodzic]odrodzić (PL) : (cz.) regenerate
+[odrost]odrost (PL) : (rz.) sucker
+[odrosl]odrośl (PL) : (rz.) offset; (rz.) offshoot
+[odruch]odruch (PL) : (rz.) impulse; (rz.) reflex
+[odruchowo]odruchowo (PL) : (p-sł.) instinctively; (p-sł.) involuntarily
+[odruchowy]odruchowy (PL) : (p.) reflexive
+[odryglowac]odryglować (PL) : (cz.) unbar; (cz.) unbolt; (cz.) unlock
+[odrys]odrys (PL) : (rz.) copy
+[odrysowac]odrysować (PL) : (cz.) copy
+[odrywac]odrywać (PL) : (cz.) detach; (cz.) distract; (cz.) pull; (cz.) sever
+[odrzec]odrzeć (PL) : (cz.) strip
+[odrzucajacy]odrzucający (PL) : (p.) resilient
+[odrzucac]odrzucać (PL) : (cz.) abort; (cz.) bandy; (cz.) decline; (cz.) defeat; (cz.) disallow; (cz.) discard; (cz.) dismiss; (cz.) overrule; (cz.) rebuff; (cz.) recast; (cz.) refuse; (cz.) reject; (cz.) repel; (cz.) repudiate; (cz.) scrap; (cz.) spurn; (cz.) toss
+[odrzucenie]odrzucenie (PL) : (rz.) rebuff; (rz.) rejection; (rz.) repercussion; (rz.) repudiation; (rz.) throwback
+[odrzucic]odrzucić (PL) : (cz.) decline; (cz.) discard; (cz.) overrule; (cz.) recast; (cz.) refuse; (cz.) reject; (cz.) repudiate
+[odrzut]odrzut (PL) : (rz.) kick; (rz.) recoil; (rz.) reject; (rz.) thrust
+[odrzutnik]odrzutnik (PL) : (rz.) deflector; (rz.) thrower
+[odrzutowiec]odrzutowiec (PL) : (rz.) jet; (rz.) jet-plane
+[odrzutowy]odrzutowy (PL) : (p.) jet-propelled
+[odrzwia]odrzwia (PL) : (rz.) door; (rz.) door-case; (rz.) door-frames
+[odroznianie]odróżnianie (PL) : (rz.) discrimination
+[odrozniac]odróżniać (PL) : (cz.) differentiate; (cz.) distinguish; (cz.) separate
+[odroznienie]odróżnienie (PL) : (rz.) distinction
+[odroznic]odróżnić (PL) : (cz.) distinguished; (cz.) separate
+[odrebnie]odrębnie (PL) : (p-sł.) independently; (p-sł.) separately
+[odrebnosc]odrębność (PL) : (rz.) autonomy; (rz.) distinction; (rz.) distinctiveness; (rz.) identity; (rz.) individuality
+[odrebny]odrębny (PL) : (p.) different; (p.) distinct; (p.) separate
+[odreczny]odręczny (PL) : (p.) freehand; (p.) handmade; (p.) hand-made; (p.) handwritten; (p.) instant
+[odretwienie]odrętwienie (PL) : (rz.) numbness; (rz.) stupor; (rz.) torpidity; (rz.) torpor
+[odretwiec]odrętwieć (PL) : (cz.) benumb
+[odsadzac]odsadzać (PL) : (cz.) remove
+[odsadzka]odsadzka (PL) : (rz.) offset; (rz.) plinth; (rz.) set-off
+[odsalanie]odsalanie (PL) : (rz.) desalination; (rz.) desalinise; (rz.) desalinization
+[odsalac]odsalać (PL) : (cz.) desalinate
+[odseparowanie]odseparowanie (PL) : (rz.) separation
+[odseparowac]odseparować (PL) : (cz.) cut; (cz.) detach; (cz.) seclude; (cz.) separate
+[odseparowywac]odseparowywać (PL) : (cz.) distance
+[odsetek]odsetek (PL) : (rz.) percentage; (rz.) proportion
+[odsetki]odsetki (PL) : (rz.) interest
+[odsiadywac]odsiadywać (PL) : (cz.) serve
+[odsiecz]odsiecz (PL) : (rz.) alleviation; (rz.) relief; (rz.) troops
+[odsiedzenie]odsiedzenie (PL) : (rz.) sitting
+[odsiew]odsiew (PL) : (rz.) screening; (rz.) shakeout; (rz.) shorts
+[odsiewanie]odsiewanie (PL) : (rz.) bolting
+[odsiewac]odsiewać (PL) : (cz.) screen; (cz.) sift
+[odskakiwac]odskakiwać (PL) : (cz.) bound; (cz.) rebound; (cz.) recoil
+[odskocznia]odskocznia (PL) : (rz.) springboard; (rz.) spring-board; (rz.) steppingstone; (rz.) stepping-stone; (rz.) toehold
+[odskoczyc]odskoczyć (PL) : (cz.) bounce; (cz.) recoil
+[odskok]odskok (PL) : (rz.) bound; (rz.) rebound; (rz.) recoil
+[odsolic]odsolić (PL) : (cz.) desalinate
+[odspajac]odspajać (PL) : (cz.) prise
+[odsprzedawac]odsprzedawać (PL) : (cz.) sell
+[odsprzedawca]odsprzedawca (PL) : (rz.) reseller
+[odsprzedac]odsprzedać (PL) : (cz.) resell; (cz.) sell
+[odsprzedaz]odsprzedaż (PL) : (rz.) resale
+[odstawa]odstawa (PL) : (rz.) delivery; (rz.) haulage
+[odstawac]odstawać (PL) : (cz.) mature; (cz.) protrude
+[odstawiac]odstawiać (PL) : (cz.) shelve
+[odstawienie]odstawienie (PL) : (rz.) discontinuation
+[odstawic]odstawić (PL) : (cz.) discontinued; (cz.) shelve
+[odstac]odstać (PL) : (cz.) stray
+[odstojnik]odstojnik (PL) : (rz.) clarifier; (rz.) decanter; (rz.) setter; (rz.) settler
+[odstraszanie]odstraszanie (PL) : (rz.) deterrence; (rz.) deterring
+[odstraszac]odstraszać (PL) : (cz.) daunt; (cz.) deter
+[odstraszenie]odstraszenie (PL) : (rz.) determent; (rz.) deterrence
+[odstraszyc]odstraszyć (PL) : (cz.) deter
+[odstrzal]odstrzał (PL) : (rz.) firing; (rz.) killing; (rz.) shooting
+[odstrzelic]odstrzelić (PL) : (cz.) fire
+[odstreczac]odstręczać (PL) : (cz.) deter
+[odstreczenie]odstręczenie (PL) : (rz.) alienation; (rz.) repulsion
+[odstreczyc]odstręczyć (PL) : (cz.) alienate
+[odstapienie]odstąpienie (PL) : (rz.) cession; (rz.) transfer; (rz.) waiver
+[odstapic]odstąpić (PL) : (cz.) cede; (cz.) depart; (cz.) derogate; (cz.) desist; (cz.) recede; (cz.) relinquish; (cz.) remit; (cz.) secede; (cz.) transfer; (cz.) waive
+[odstep]odstęp (PL) : (rz.) distance; (rz.) gap; (rz.) indention; (rz.) interval; (rz.) pedestal; (rz.) setup; (rz.) space; (rz.) spacing
+[odstepca]odstępca (PL) : (rz.) apostate; (rz.) defector; (rz.) traitor
+[odstepowanie]odstępowanie (PL) : (rz.) derogation
+[odstepowac]odstępować (PL) : (cz.) cede; (cz.) depart; (cz.) derogate; (cz.) desist; (cz.) recede; (cz.) relinquish; (cz.) remit; (cz.) secede; (cz.) stand; (cz.) waive
+[odstepstwo]odstępstwo (PL) : (rz.) apostasy; (rz.) defection; (rz.) departure; (rz.) dissent; (rz.) exception; (rz.) secession
+[odsuniecie]odsunięcie (PL) : (rz.) estrangement
+[odsuwanie]odsuwanie (PL) : (rz.) marginalized
+[odsuwac]odsuwać (PL) : (cz.) avert; (cz.) edge; (cz.) move; (cz.) wean; (cz.) withdraw
+[odsypiac]odsypiać (PL) : (cz.) sleep
+[odsysacz]odsysacz (PL) : (rz.) aspirator
+[odsysac]odsysać (PL) : (cz.) draw; (cz.) suck-off
+[odsylacz]odsyłacz (PL) : (rz.) ampersand; (rz.) asterisk; (rz.) cross-reference; (rz.) hyperlink; (rz.) reference
+[odsylac]odsyłać (PL) : (cz.) recommit; (cz.) refer; (cz.) remand; (cz.) resend
+[odszaklowac]odszaklować (PL) : (cz.) unshackle
+[odszczepieniec]odszczepieniec (PL) : (rz.) dissenter; (rz.) dissident; (rz.) dropout; (rz.) renegade
+[odszczepienstwo]odszczepieństwo (PL) : (rz.) apostasy
+[odszkodowanie]odszkodowanie (PL) : (rz.) amends; (rz.) award; (rz.) compensation; (rz.) damage; (rz.) damages; (rz.) indemnification; (rz.) indemnity; (rz.) reparation; (rz.) restitution
+[odsznurowac]odsznurować (PL) : (cz.) unlace; (cz.) unstring
+[odszpuntowac]odszpuntować (PL) : (cz.) tap
+[odszukac]odszukać (PL) : (cz.) find; (cz.) search; (cz.) trace
+[odszukiwanie]odszukiwanie (PL) : (rz.) finding; (rz.) lookup
+[odszukiwac]odszukiwać (PL) : (cz.) locate
+[odszyfrowanie]odszyfrowanie (PL) : (rz.) decipherment; (rz.) decrypted; (rz.) decryption
+[odszyfrowac]odszyfrować (PL) : (cz.) decipher; (cz.) decrypt; (cz.) descramble
+[odszyfrowywac]odszyfrowywać (PL) : (cz.) decrypt
+[odsaczanie]odsączanie (PL) : (rz.) bleeding
+[odsaczyc]odsączyć (PL) : (cz.) filter
+[odsadzac]odsądzać (PL) : (cz.) remove
+[odslaniac]odsłaniać (PL) : (cz.) bare; (cz.) denude; (cz.) disclose; (cz.) expose; (cz.) reveal; (cz.) uncover; (cz.) unfold; (cz.) unroll; (cz.) unveil
+[odslona]odsłona (PL) : (rz.) opening; (rz.) scene
+[odslonic]odsłonić (PL) : (cz.) denude; (cz.) disclose; (cz.) reveal; (cz.) uncover; (cz.) unfold; (cz.) unroll; (cz.) unveil
+[odsloniecie]odsłonięcie (PL) : (rz.) basset; (rz.) disclosure; (rz.) exposure
+[odsloniety]odsłonięty (PL) : (p.) vulnerable
+[odsluchac]odsłuchać (PL) : (cz.) listen
+[odsluchiwac]odsłuchiwać (PL) : (cz.) listen
+[odtajac]odtajać (PL) : (cz.) thaw; (cz.) unfreeze
+[odtajnienie]odtajnienie (PL) : (rz.) declassification
+[odtajnic]odtajnić (PL) : (cz.) declassify
+[odtleniacz]odtleniacz (PL) : (rz.) deoxidizer
+[odtlenianie]odtlenianie (PL) : (rz.) deoxidizing; (rz.) reduction
+[odtleniac]odtleniać (PL) : (cz.) deoxidize
+[odtlenienie]odtlenienie (PL) : (rz.) deoxidizing; (rz.) reduction
+[odtransportowac]odtransportować (PL) : (cz.) send
+[odtrutka]odtrutka (PL) : (rz.) antidote; (rz.) detoxifier
+[odtruwanie]odtruwanie (PL) : (rz.) detoxification
+[odtruwac]odtruwać (PL) : (cz.) detoxify
+[odtracac]odtrącać (PL) : (cz.) rebuff; (cz.) repel; (cz.) repulse; (cz.) spurn
+[odtracenie]odtrącenie (PL) : (rz.) repudiation
+[odtwarzacz]odtwarzacz (PL) : (rz.) player; (rz.) reproducer
+[odtwarzalnosc]odtwarzalność (PL) : (rz.) reproducibility
+[odtwarzalny]odtwarzalny (PL) : (p.) reproducible
+[odtwarzanie]odtwarzanie (PL) : (rz.) playback; (rz.) playing; (rz.) recovery; (rz.) render; (rz.) replication; (rz.) reproduction
+[odtwarzac]odtwarzać (PL) : (cz.) enact; (cz.) play; (cz.) reconstruct; (cz.) recreate; (cz.) regenerate; (cz.) reproduce; (cz.) restore; (cz.) retrace
+[odtworzenie]odtworzenie (PL) : (rz.) reproduction; (rz.) restoration
+[odtworzyc]odtworzyć (PL) : (cz.) play; (cz.) reconstruct; (cz.) recreate; (cz.) reproduce; (cz.) undelete
+[odtworca]odtwórca (PL) : (rz.) impersonator; (rz.) performer; (rz.) reproducer
+[odtworczy]odtwórczy (PL) : (p.) imitative; (p.) reproductive
+[odtworczyni]odtwórczyni (PL) : (rz.) performer
+[odtykac]odtykać (PL) : (cz.) unblock
+[odtad]odtąd (PL) : (p-sł.) hence; (p-sł.) henceforth; (p-sł.) henceforward; (p-sł.) now; (p-sł.) since; (p-sł.) thenceforth; (p-sł.) thenceforward
+[odtluszczacz]odtłuszczacz (PL) : (rz.) degreaser
+[odtluszczac]odtłuszczać (PL) : (cz.) degrease; (cz.) scour
+[odtluszczenie]odtłuszczenie (PL) : (rz.) degreasing
+[odtluscic]odtłuścić (PL) : (cz.) degrease
+[oduczac]oduczać (PL) : (cz.) unlearn
+[odurzac]odurzać (PL) : (cz.) bemuse; (cz.) dope; (cz.) fuddle; (cz.) intoxicate
+[odurzenie]odurzenie (PL) : (rz.) intoxication
+[odurzyc]odurzyć (PL) : (cz.) intoxicate
+[odwach]odwach (PL) : (rz.) guardroom
+[odwadniacz]odwadniacz (PL) : (rz.) dehydrator; (rz.) dewatering
+[odwadnianie]odwadnianie (PL) : (rz.) dehydration; (rz.) dewatering; (rz.) drainage
+[odwadniarka]odwadniarka (PL) : (rz.) drainer
+[odwadniac]odwadniać (PL) : (cz.) dehydrate; (cz.) dewater; (cz.) drain
+[odwaga]odwaga (PL) : (rz.) bravery; (rz.) courage; (rz.) daring; (rz.) grit; (rz.) guts; (rz.) hardihood; (rz.) mettle; (rz.) nerve; (rz.) pecker; (rz.) pluck; (rz.) spunk; (rz.) valour
+[odwalic]odwalić (PL) : (cz.) crib
+[odwanianie]odwanianie (PL) : (rz.) deodorization
+[odwapnianie]odwapnianie (PL) : (rz.) decalcification
+[odwapniac]odwapniać (PL) : (cz.) decalcify
+[odwapnienie]odwapnienie (PL) : (rz.) decalcification
+[odwapnic]odwapnić (PL) : (cz.) decalcify
+[odwar]odwar (PL) : (rz.) decoction
+[odwarstwianie]odwarstwianie (PL) : (rz.) exfoliation
+[odwazac]odważać (PL) : (cz.) dare; (cz.) prize
+[odwaznie]odważnie (PL) : (p-sł.) courageously; (p-sł.) gamely
+[odwaznik]odważnik (PL) : (rz.) weight
+[odwazny]odważny (PL) : (p.) adventurous; (p.) bold; (p.) brave; (p.) courageous; (p.) hardy; (p.) manful; (p.) plucky; (p.) valiant
+[odwazyc]odważyć (PL) : (cz.) encourage; (cz.) venture; (cz.) weigh
+[odwdzieczac]odwdzięczać (PL) : (cz.) repaid; (cz.) repay
+[odwdzieczyc]odwdzięczyć (PL) : (cz.) repay
+[odwet]odwet (PL) : (rz.) quittance; (rz.) reprisal; (rz.) retaliation; (rz.) retribution
+[odwetowiec]odwetowiec (PL) : (rz.) revenge-seeker
+[odwetowy]odwetowy (PL) : (p.) retaliatory
+[odwiecznie]odwiecznie (PL) : (p-sł.) eternally; (p-sł.) everlastingly
+[odwieczny]odwieczny (PL) : (p.) age-long; (p.) ancient; (p.) eternal; (p.) everlasting; (p.) immemorial; (p.) long-time; (p.) primeval
+[odwiedzanie]odwiedzanie (PL) : (rz.) caller
+[odwiedzac]odwiedzać (PL) : (cz.) call; (cz.) frequent; (cz.) haunt; (cz.) visit; (cz.) visited
+[odwiedziny]odwiedziny (PL) : (rz.) visit; (rz.) visitation
+[odwiedzic]odwiedzić (PL) : (cz.) see; (cz.) visit; (cz.) visited
+[odwiercic]odwiercić (PL) : (cz.) bore
+[odwiert]odwiert (PL) : (rz.) aperture; (rz.) bore; (rz.) borehole; (rz.) bore-hole
+[odwietrznik]odwietrznik (PL) : (rz.) ventilator
+[odwiesc]odwieść (PL) : (cz.) dissuade
+[odwiezc]odwieźć (PL) : (cz.) drive
+[odwijanie]odwijanie (PL) : (rz.) unreeling
+[odwijac]odwijać (PL) : (cz.) rewind; (cz.) uncoil; (cz.) unreel; (cz.) unreeled; (cz.) unroll; (cz.) unwind
+[odwilz]odwilż (PL) : (rz.) thaw
+[odwilzacz]odwilżacz (PL) : (rz.) crop; (rz.) dehumidifier
+[odwilzyc]odwilżyć (PL) : (cz.) moisten
+[odwirowanie]odwirowanie (PL) : (rz.) centrifugation
+[odwirowac]odwirować (PL) : (cz.) centrifuge; (cz.) spin-dry
+[odwirowywac]odwirowywać (PL) : (cz.) centrifuge; (cz.) spin
+[odwiazac]odwiązać (PL) : (cz.) unbend; (cz.) unbind; (cz.) undo; (cz.) unlash; (cz.) untie
+[odwiazywac]odwiązywać (PL) : (cz.) uncouple; (cz.) unfasten
+[odwleczenie]odwleczenie (PL) : (rz.) deferment; (rz.) delay
+[odwlekac]odwlekać (PL) : (cz.) delay; (cz.) delay
+[odwodniac]odwodniać (PL) : (cz.) dehydrate
+[odwodnienie]odwodnienie (PL) : (rz.) dehydration
+[odwodnic]odwodnić (PL) : (cz.) dehydrate; (cz.) drain
+[odwodornienie]odwodornienie (PL) : (rz.) dehydrogenation
+[odwodzenie]odwodzenie (PL) : (rz.) dissuasion
+[odwodziciel]odwodziciel (PL) : (rz.) abductor
+[odwodzic]odwodzić (PL) : (cz.) discourage; (cz.) dissuade
+[odwolalny]odwołalny (PL) : (p.) revocable
+[odwolanie]odwołanie (PL) : (rz.) abjuration; (rz.) appeal; (rz.) cancellation; (rz.) countermand; (rz.) dismissal; (rz.) recall; (rz.) reference; (rz.) removal; (rz.) renouncement; (rz.) repeal; (rz.) rescission; (rz.) retraction; (rz.) revocation; (rz.) withdrawal
+[odwolac]odwołać (PL) : (cz.) cancel; (cz.) countermand; (cz.) discard; (cz.) invoke; (cz.) recant; (cz.) receive; (cz.) refer; (cz.) repeal; (cz.) rescind; (cz.) revoke; (cz.) undelete; (cz.) unsay
+[odwolywac]odwoływać (PL) : (cz.) appeal; (cz.) cancel; (cz.) dismiss; (cz.) invoke; (cz.) recall; (cz.) recant; (cz.) refer; (cz.) repeal; (cz.) rescind; (cz.) retract; (cz.) revoke; (cz.) swallow; (cz.) withdraw
+[odwracalnosc]odwracalność (PL) : (rz.) reversibility
+[odwracalny]odwracalny (PL) : (p.) convertible; (p.) invertible; (p.) reversible
+[odwracanie]odwracanie (PL) : (rz.) inversion; (rz.) reversal; (rz.) rollback
+[odwracac]odwracać (PL) : (cz.) avert; (cz.) countersign; (cz.) divert; (cz.) flip; (cz.) invert; (cz.) overrule; (cz.) reverse; (cz.) revert; (cz.) sidetrack; (cz.) turn
+[odwrotnie]odwrotnie (PL) : (p-sł.) conversely; (p-sł.) inversely
+[odwrotnosc]odwrotność (PL) : (rz.) converse; (rz.) inverse; (rz.) reciprocal; (rz.) reverse
+[odwrotny]odwrotny (PL) : (p.) back; (p.) contrary; (p.) converse; (p.) inverse; (p.) opposite; (p.) reciprocal; (p.) reverse
+[odwrocenie]odwrócenie (PL) : (rz.) diversion; (rz.) inverse; (rz.) inversion; (rz.) reversal
+[odwrocic]odwrócić (PL) : (cz.) avert; (cz.) countersign; (cz.) invert; (cz.) overrule; (cz.) reverse; (cz.) revert
+[odwrot]odwrót (PL) : (rz.) recess; (rz.) retreat; (rz.) revolution; (rz.) withdrawal
+[odwszawic]odwszawić (PL) : (cz.) delouse
+[odwzajemniac]odwzajemniać (PL) : (cz.) reciprocate; (cz.) retaliate; (cz.) return
+[odwzajemnienie]odwzajemnienie (PL) : (rz.) reciprocation; (rz.) reciprocity
+[odwzajemnic]odwzajemnić (PL) : (cz.) back; (cz.) return
+[odwzorowanie]odwzorowanie (PL) : (rz.) bitmap; (rz.) cartography; (rz.) image; (rz.) imagery; (rz.) imitation; (rz.) mapping; (rz.) representation
+[odwzorowac]odwzorować (PL) : (cz.) map
+[odwzorowywanie]odwzorowywanie (PL) : (rz.) projection
+[odwod]odwód (PL) : (rz.) reserve
+[odweglanie]odwęglanie (PL) : (rz.) decarburization
+[odweglac]odwęglać (PL) : (cz.) decarburize
+[odwlaszanie]odwłaszanie (PL) : (rz.) depilation
+[odwlok]odwłok (PL) : (rz.) abdomen
+[odymianie]odymianie (PL) : (rz.) fumigation
+[odymic]odymić (PL) : (cz.) fumigate
+[odyniec]odyniec (PL) : (rz.) boar
+[odyseja]odyseja (PL) : (rz.) odyssey
+[odzew]odzew (PL) : (rz.) answerback; (rz.) echo; (rz.) reply; (rz.) response
+[odziac]odziać (PL) : (cz.) dress
+[odziedziczyc]odziedziczyć (PL) : (cz.) inherit
+[odzienie]odzienie (PL) : (rz.) array; (rz.) clothing; (rz.) garb; (rz.) youth
+[odziewac]odziewać (PL) : (cz.) array; (cz.) attire; (cz.) dress; (cz.) invest
+[odziez]odzież (PL) : (rz.) apparel; (rz.) attire; (rz.) clothes; (rz.) clothing; (rz.) frock; (rz.) garb; (rz.) garment; (rz.) gear; (rz.) habiliment; (rz.) habit; (rz.) wear
+[odziomek]odziomek (PL) : (rz.) butt
+[odznaczenie]odznaczenie (PL) : (rz.) award; (rz.) decoration; (rz.) distinction
+[odznaczyc]odznaczyć (PL) : (cz.) deselect; (cz.) distinguish; (cz.) remove
+[odznaka]odznaka (PL) : (rz.) badge; (rz.) brassard; (rz.) ensign; (rz.) pin; (rz.) plaque
+[odzwierciedlac]odzwierciedlać (PL) : (cz.) mirror; (cz.) rebound; (cz.) reflect
+[odzwierciedlenie]odzwierciedlenie (PL) : (rz.) reflection
+[odzwierciedlic]odzwierciedlić (PL) : (cz.) reflect
+[odzwyczaic]odzwyczaić (PL) : (cz.) break
+[odzwyczajac]odzwyczajać (PL) : (cz.) wean
+[odzwyczajenie]odzwyczajenie (PL) : (rz.) disuse
+[odzysk]odzysk (PL) : (rz.) recovery; (rz.) salvage
+[odzyskanie]odzyskanie (PL) : (rz.) recapture; (rz.) recovery; (rz.) redemption; (rz.) retrieval
+[odzyskac]odzyskać (PL) : (cz.) recapture; (cz.) reclaim; (cz.) recover; (cz.) regain; (cz.) retrieve; (cz.) undelete
+[odzyskiwanie]odzyskiwanie (PL) : (rz.) readout; (rz.) reclamation; (rz.) recovery; (rz.) recuperation; (rz.) retrieval
+[odzyskiwac]odzyskiwać (PL) : (cz.) recapture; (cz.) reclaim; (cz.) recover; (cz.) recuperate; (cz.) regained; (cz.) repossess; (cz.) retrieve
+[odzywka]odzywka (PL) : (rz.) bid; (rz.) nutrient
+[odor]odór (PL) : (rz.) odour; (rz.) smell; (rz.) stench
+[odlam]odłam (PL) : (rz.) faction
+[odlamac]odłamać (PL) : (cz.) break; (cz.) chip
+[odlamek]odłamek (PL) : (rz.) chip; (rz.) fragment; (rz.) shrapnel; (rz.) sliver; (rz.) splint; (rz.) splinter
+[odlawiac]odławiać (PL) : (cz.) catch
+[odlogowy]odłogowy (PL) : (p.) fallow
+[odlowic]odłowić (PL) : (cz.) catch
+[odlozenie]odłożenie (PL) : (rz.) postponement
+[odlozony]odłożony (PL) : (p.) pending
+[odlozyc]odłożyć (PL) : (cz.) postpone; (cz.) replace; (cz.) shelve; (cz.) shunt; (cz.) snooze
+[odlupac]odłupać (PL) : (cz.) chip
+[odlupek]odłupek (PL) : (rz.) flake; (rz.) splitter
+[odlupywac]odłupywać (PL) : (cz.) prise
+[odlog]odłóg (PL) : (rz.) fallow
+[odlaczalny]odłączalny (PL) : (p.) detachable; (p.) removable; (p.) severable
+[odlaczanie]odłączanie (PL) : (rz.) dissociation
+[odlaczac]odłączać (PL) : (cz.) defect; (cz.) detach; (cz.) disable; (cz.) disconnect; (cz.) disengage; (cz.) dissociate; (cz.) override; (cz.) secede
+[odlaczenie]odłączenie (PL) : (rz.) defection; (rz.) detachment; (rz.) disengagement; (rz.) severance
+[odlacznik]odłącznik (PL) : (rz.) cut-out; (rz.) switch
+[odlaczony]odłączony (PL) : (p.) detached
+[odlaczyc]odłączyć (PL) : (cz.) allot; (cz.) deactivate; (cz.) detach; (cz.) disconnect; (cz.) disengage; (cz.) separate
+[odsniezanie]odśnieżanie (PL) : (rz.) snow-clearing
+[odspiewac]odśpiewać (PL) : (cz.) sing
+[odsrodkowo]odśrodkowo (PL) : (p-sł.) centrifugally
+[odsrodkowy]odśrodkowy (PL) : (p.) centrifugal
+[odsrubowac]odśrubować (PL) : (cz.) unscrew
+[odswiezacz]odświeżacz (PL) : (rz.) freshener; (rz.) fresheners
+[odswiezajaco]odświeżająco (PL) : (p-sł.) refreshingly
+[odswiezanie]odświeżanie (PL) : (rz.) deodorization
+[odswiezac]odświeżać (PL) : (cz.) freshen; (cz.) refresh; (cz.) restore; (cz.) update
+[odswiezenie]odświeżenie (PL) : (rz.) refreshment; (rz.) refurbishment; (rz.) revivification
+[odswiezyc]odświeżyć (PL) : (cz.) deodorize; (cz.) refresh; (cz.) renew
+[odswietny]odświętny (PL) : (p.) festive; (p.) holistic; (p.) showy; (p.) special
+[odzwiernik]odźwiernik (PL) : (rz.) pylorus
+[odzegnac]odżegnać (PL) : (cz.) deprecate
+[odzegnywanie]odżegnywanie (PL) : (rz.) deprecation
+[odzegnywac]odżegnywać (PL) : (cz.) deprecate
+[odzuzlac]odżużlać (PL) : (cz.) skim
+[odzycie]odżycie (PL) : (rz.) resurgence; (rz.) revival
+[odzywac]odżywać (PL) : (cz.) relive; (cz.) resuscitate
+[odzywczo]odżywczo (PL) : (p-sł.) nutritionally
+[odzywczy]odżywczy (PL) : (p.) alimentary; (p.) healthful; (p.) nourishing; (p.) nutrient; (p.) nutritional; (p.) nutritious; (p.) nutritive; (p.) restorative; (p.) stout; (p.) substantial
+[odzywianie]odżywianie (PL) : (rz.) nourishment; (rz.) nutrition
+[odzywiac]odżywiać (PL) : (cz.) feed; (cz.) nourish
+[odzywienie]odżywienie (PL) : (rz.) nutrition
+[odzywka]odżywka (PL) : (rz.) conditioner; (rz.) nutrient; (rz.) nutriment
+[odzyc]odżyć (PL) : (cz.) relive; (cz.) revive; (cz.) reviving
+[ofensywa]ofensywa (PL) : (rz.) assault; (rz.) attack; (rz.) offence; (rz.) offensive; (rz.) thrust
+[ofensywnie]ofensywnie (PL) : (p-sł.) offensively
+[ofensywny]ofensywny (PL) : (p.) aggressive; (p.) offensive
+[oferent]oferent (PL) : (rz.) bidder; (rz.) supplier
+[oferma]oferma (PL) : (rz.) duffer; (rz.) milksop; (rz.) muff
+[oferowanie]oferowanie (PL) : (rz.) offer; (rz.) offering; (rz.) tender
+[oferowac]oferować (PL) : (cz.) bid; (cz.) offer; (cz.) ship
+[oferta]oferta (PL) : (rz.) bid; (rz.) offer; (rz.) offering; (rz.) overture; (rz.) proffer; (rz.) proposal; (rz.) tender
+[ofiara]ofiara (PL) : (rz.) casualty; (rz.) loser; (rz.) manta; (rz.) oblation; (rz.) offering; (rz.) prey; (rz.) sacrifice; (rz.) stooge; (rz.) victim
+[ofiarnie]ofiarnie (PL) : (p-sł.) generously; (p-sł.) sacrificially
+[ofiarnosc]ofiarność (PL) : (rz.) dedication; (rz.) generosity
+[ofiarny]ofiarny (PL) : (p.) dedicated; (p.) generous; (p.) sacrificial
+[ofiarodawca]ofiarodawca (PL) : (rz.) benefactor; (rz.) contributor; (rz.) donor
+[ofiarowanie]ofiarowanie (PL) : (rz.) donation; (rz.) offer; (rz.) offertory; (rz.) volunteer
+[ofiarowac]ofiarować (PL) : (cz.) bid; (cz.) dedicate; (cz.) offer; (cz.) victimize
+[oficer]oficer (PL) : (rz.) mate; (rz.) officer
+[oficerki]oficerki (PL) : (rz.) jackboots; (rz.) knee-boots
+[oficerski]oficerski (PL) : (p.) officer's
+[oficjalista]oficjalista (PL) : (rz.) scribe
+[oficjalnie]oficjalnie (PL) : (p-sł.) officially
+[oficjalny]oficjalny (PL) : (p.) formal; (p.) official; (p.) offish; (p.) stiff
+[oficjal]oficjał (PL) : (rz.) official
+[oficyna]oficyna (PL) : (rz.) annex; (rz.) annexe; (rz.) backhouse; (rz.) lean-to; (rz.) office; (rz.) outhouse
+[ofsajdowy]ofsajdowy (PL) : (p.) offside
+[oftalmolog]oftalmolog (PL) : (rz.) ophthalmologist
+[oftalmoskop]oftalmoskop (PL) : (rz.) ophthalmoscope
+[ofukniecie]ofuknięcie (PL) : (rz.) rating; (rz.) snub
+[ogar]ogar (PL) : (rz.) bloodhound; (rz.) deerhound; (rz.) deer-hound; (rz.) hound
+[ogarek]ogarek (PL) : (rz.) candle-end; (rz.) stump
+[ogarniac]ogarniać (PL) : (cz.) embrace; (cz.) engulf; (cz.) overwhelm; (cz.) pervade; (cz.) rake; (cz.) whelm
+[ogier]ogier (PL) : (rz.) stallion
+[ogien]ogień (PL) : (rz.) blaze; (rz.) camp-fire; (rz.) fire; (rz.) firing; (rz.) flame; (rz.) glow; (rz.) gunfire; (rz.) light
+[oglad]ogląd (PL) : (rz.) view
+[ogladalnosc]oglądalność (PL) : (rz.) audience
+[ogladac]oglądać (PL) : (cz.) contemplate; (cz.) examine; (cz.) inspect; (cz.) view; (cz.) watch
+[oglednosc]oględność (PL) : (rz.) caution; (rz.) discretion
+[ogledny]oględny (PL) : (p.) moderate; (p.) provident; (p.) wary
+[ogledziny]oględziny (PL) : (rz.) examination; (rz.) perusal
+[ognicha]ognicha (PL) : (rz.) charlock
+[ognik]ognik (PL) : (rz.) flame; (rz.) glimmer
+[ognioodporny]ognioodporny (PL) : (p.) fireproof; (p.) fire-proof; (p.) fire-resistant; (p.) fire-resisting; (p.) flameproof
+[ognioszczelny]ognioszczelny (PL) : (p.) fire-tight
+[ogniotrwalosc]ogniotrwałość (PL) : (rz.) refractoriness
+[ogniotrwaly]ogniotrwały (PL) : (p.) fireproof; (p.) fire-resisting; (p.) refractory
+[ogniowy]ogniowy (PL) : (p.) fired; (p.) igneous
+[ognisko]ognisko (PL) : (rz.) bonfire; (rz.) campfire; (rz.) camp-fire; (rz.) fireplace; (rz.) focus; (rz.) grate; (rz.) hearth
+[ogniskowa]ogniskowa (PL) : (rz.) focus
+[ogniskowac]ogniskować (PL) : (cz.) focalize; (cz.) focus
+[ogniskowy]ogniskowy (PL) : (p.) focal
+[ognistosc]ognistość (PL) : (rz.) fire
+[ognisty]ognisty (PL) : (p.) ablaze; (p.) ardent; (p.) fiery; (p.) girasol; (p.) mettlesome
+[ogniwo]ogniwo (PL) : (rz.) cell; (rz.) juncture; (rz.) link; (rz.) nexus; (rz.) shackle
+[ogolenie]ogolenie (PL) : (rz.) shave
+[ogolic]ogolić (PL) : (cz.) shave
+[ogolony]ogolony (PL) : (p.) shaven
+[ogon]ogon (PL) : (rz.) cue; (rz.) tail
+[ogonek]ogonek (PL) : (rz.) hook; (rz.) petiole; (rz.) stalk; (rz.) stem; (rz.) tail
+[ogoniasty]ogoniasty (PL) : (p.) caudate
+[ogonowy]ogonowy (PL) : (p.) caudal
+[ogolacanie]ogołacanie (PL) : (rz.) denudation
+[ogolocenie]ogołocenie (PL) : (rz.) bareness; (rz.) destitution
+[ogolocic]ogołocić (PL) : (cz.) strip
+[ograbiac]ograbiać (PL) : (cz.) fleece
+[ograbienie]ograbienie (PL) : (rz.) rifling; (rz.) spoliation
+[ograbic]ograbić (PL) : (cz.) rake
+[ogradzac]ogradzać (PL) : (cz.) fence; (cz.) surround
+[ograniczajaco]ograniczająco (PL) : (p-sł.) restrictively
+[ograniczanie]ograniczanie (PL) : (rz.) hamper; (rz.) strangulation
+[ograniczac]ograniczać (PL) : (cz.) abridge; (cz.) bound; (cz.) confine; (cz.) constrain; (cz.) cramp; (cz.) curb; (cz.) cut; (cz.) delimit; (cz.) demarcate; (cz.) determine; (cz.) disable; (cz.) dwarf; (cz.) incapacitate; (cz.) limit; (cz.) qualify; (cz.) reduce; (cz.) restrain; (cz.) restrict; (cz.) specialize; (cz.) stint; (cz.) terminate
+[ograniczenie]ograniczenie (PL) : (rz.) abridgment; (rz.) border; (rz.) brake; (rz.) confinement; (rz.) constraint; (rz.) delimitation; (rz.) deprivation; (rz.) layoff; (rz.) limit; (rz.) limitation; (rz.) qualification; (rz.) reserve; (rz.) restraint; (rz.) restriction; (rz.) stint; (rz.) stringency
+[ogranicznik]ogranicznik (PL) : (rz.) borderer; (rz.) delimiter; (rz.) limiter
+[ograniczonosc]ograniczoność (PL) : (rz.) limitation
+[ograniczony]ograniczony (PL) : (p.) bounded; (p.) confined; (p.) limited; (p.) narrow-minded; (p.) restrictive
+[ograniczyc]ograniczyć (PL) : (cz.) bound; (cz.) confine; (cz.) constrict; (cz.) limit; (cz.) narrow; (cz.) restrict; (cz.) stint
+[ograc]ograć (PL) : (cz.) win
+[ogroblic]ogroblić (PL) : (cz.) dam
+[ogrodnictwo]ogrodnictwo (PL) : (rz.) gardening; (rz.) horticulture
+[ogrodniczy]ogrodniczy (PL) : (p.) horticultural
+[ogrodnik]ogrodnik (PL) : (rz.) gardener; (rz.) horticulturist
+[ogrodzenie]ogrodzenie (PL) : (rz.) enclosure; (rz.) fence; (rz.) fencing; (rz.) hedge; (rz.) kraal; (rz.) precinct; (rz.) railing; (rz.) rails
+[ogrodzic]ogrodzić (PL) : (cz.) enclose; (cz.) fence; (cz.) pale
+[ogrom]ogrom (PL) : (rz.) colossus; (rz.) enormity; (rz.) greatness; (rz.) grossness; (rz.) hugeness; (rz.) immeasurability; (rz.) immensity; (rz.) magnitude; (rz.) vastness
+[ogromnie]ogromnie (PL) : (p-sł.) awfully; (p-sł.) enormously; (p-sł.) extremely; (p-sł.) greatly; (p-sł.) hugely; (p-sł.) immensely; (p-sł.) mightily; (p-sł.) vastly; (p-sł.) wildly
+[ogromny]ogromny (PL) : (p.) awful; (p.) cavernous; (p.) enormous; (p.) formidable; (p.) gargantuan; (p.) great; (p.) huge; (p.) immeasurable; (p.) immense; (p.) infinite; (p.) jumbo; (p.) mighty; (p.) monstrous; (p.) prodigious; (p.) thumping; (p.) tremendous; (p.) unlimited; (p.) vast; (p.) whooper
+[ogrywac]ogrywać (PL) : (cz.) play
+[ogryzac]ogryzać (PL) : (cz.) gnaw; (cz.) nibble
+[ogryzek]ogryzek (PL) : (rz.) core; (rz.) scrap
+[ogryzienie]ogryzienie (PL) : (rz.) picking
+[ogrzac]ogrzać (PL) : (cz.) heat; (cz.) warm
+[ogrzewacz]ogrzewacz (PL) : (rz.) heater
+[ogrzewanie]ogrzewanie (PL) : (rz.) heat; (rz.) heating
+[ogrzewac]ogrzewać (PL) : (cz.) heat
+[ogrzewnictwo]ogrzewnictwo (PL) : (rz.) heating
+[ogrod]ogród (PL) : (rz.) garden; (rz.) park
+[ogrodek]ogródek (PL) : (rz.) garden; (rz.) yard
+[ogolnie]ogólnie (PL) : (p-sł.) broadly; (p-sł.) generally; (p-sł.) generically; (p-sł.) universally
+[ogolnik]ogólnik (PL) : (rz.) cliché; (rz.) generality; (rz.) truism
+[ogolnikowo]ogólnikowo (PL) : (p-sł.) generally; (p-sł.) vaguely
+[ogolnikowy]ogólnikowy (PL) : (p.) general; (p.) vague
+[ogolnobudowlany]ogólnobudowlany (PL) : (p.) general
+[ogolnodostepny]ogólnodostępny (PL) : (p.) public
+[ogolnogospodarczy]ogólnogospodarczy (PL) : (p.) general
+[ogolnokrajowy]ogólnokrajowy (PL) : (p.) countrywide; (p.) national; (p.) nationwide; (p.) wide
+[ogolnoludzki]ogólnoludzki (PL) : (p.) universal
+[ogolnonarodowy]ogólnonarodowy (PL) : (p.) nationwide
+[ogolnopanstwowy]ogólnopaństwowy (PL) : (p.) nationwide
+[ogolnoustrojowy]ogólnoustrojowy (PL) : (p.) systemic
+[ogolnoswiatowy]ogólnoświatowy (PL) : (p.) global; (p.) worldwide; (p.) world-wide
+[ogolnosc]ogólność (PL) : (rz.) general; (rz.) generality
+[ogolny]ogólny (PL) : (p.) aggregate; (p.) all-in; (p.) broad; (p.) common; (p.) general; (p.) generalized; (p.) generic; (p.) global; (p.) high-level; (p.) overall; (p.) total
+[ogorecznik]ogórecznik (PL) : (rz.) borage
+[ogorek]ogórek (PL) : (rz.) cucumber
+[ogol]ogół (PL) : (rz.) all; (rz.) assemblage; (rz.) totality
+[ogolem]ogółem (PL) : (p-sł.) all-in; (p-sł.) altogether
+[oglada]ogłada (PL) : (rz.) manner; (rz.) polish; (rz.) refinement
+[ogladzac]ogładzać (PL) : (cz.) polish
+[ogladzic]ogładzić (PL) : (cz.) polish
+[oglaszanie]ogłaszanie (PL) : (rz.) announcement
+[oglaszac]ogłaszać (PL) : (cz.) acclaim; (cz.) advertise; (cz.) announce; (cz.) bill; (cz.) declare; (cz.) enunciate; (cz.) notify; (cz.) open; (cz.) originate; (cz.) post; (cz.) proclaim; (cz.) promulgate; (cz.) pronounce
+[oglosic]ogłosić (PL) : (cz.) adumbrate; (cz.) announce; (cz.) herald; (cz.) publish
+[ogloszenie]ogłoszenie (PL) : (rz.) ad; (rz.) advert; (rz.) advertisement; (rz.) announcement; (rz.) commercial; (rz.) insertion; (rz.) notice; (rz.) notification; (rz.) posting; (rz.) publication
+[ogloszeniodawca]ogłoszeniodawca (PL) : (rz.) advertiser
+[ogluchnac]ogłuchnąć (PL) : (cz.) become
+[oglupiajaco]ogłupiająco (PL) : (p-sł.) maddeningly
+[oglupianie]ogłupianie (PL) : (rz.) stupidity
+[oglupiac]ogłupiać (PL) : (cz.) bemuse; (cz.) brutalize; (cz.) fool; (cz.) infatuate; (cz.) stupefy
+[oglupienie]ogłupienie (PL) : (rz.) stupidity
+[oglupic]ogłupić (PL) : (cz.) brutalize; (cz.) infatuate; (cz.) stupefy
+[ogluszajaco]ogłuszająco (PL) : (p-sł.) deafeningly
+[ogluszajacy]ogłuszający (PL) : (p.) deafening
+[ogluszac]ogłuszać (PL) : (cz.) deafen; (cz.) stun
+[ogluszyc]ogłuszyć (PL) : (cz.) deafen; (cz.) dumbfound; (cz.) stun
+[ohyda]ohyda (PL) : (rz.) atrociousness; (rz.) atrocity; (rz.) heinousness; (rz.) monstrosity; (rz.) odiousness; (rz.) shocker
+[ohydnie]ohydnie (PL) : (p-sł.) hideously
+[ohydny]ohydny (PL) : (p.) abominable; (p.) atrocious; (p.) beastly; (p.) eldritch; (p.) execrable; (p.) filthy; (p.) flagrant; (p.) ghastly; (p.) heinous; (p.) hideous; (p.) obnoxious; (p.) odious; (p.) yucky
+[ojciec]ojciec (PL) : (rz.) father
+[ojcobojca]ojcobójca (PL) : (rz.) parricide; (rz.) patricide
+[ojcobojczy]ojcobójczy (PL) : (p.) parricidal
+[ojcobojstwo]ojcobójstwo (PL) : (rz.) parricide; (rz.) patricide
+[ojcostwo]ojcostwo (PL) : (rz.) fatherhood; (rz.) paternity
+[ojcowizna]ojcowizna (PL) : (rz.) inheritance; (rz.) patrimony
+[ojcowski]ojcowski (PL) : (p.) fatherly; (p.) paternal
+[ojczulek]ojczulek (PL) : (rz.) pa
+[ojczym]ojczym (PL) : (rz.) foster-father; (rz.) stepfather; (rz.) step-father
+[ojczysty]ojczysty (PL) : (p.) native; (p.) paternal; (p.) vernacular
+[ojczyzna]ojczyzna (PL) : (rz.) country; (rz.) fatherland; (rz.) home; (rz.) homeland; (rz.) motherland
+[ojczyzniany]ojczyźniany (PL) : (p.) home
+[ojej]ojej (PL) : (wykrzyknik) gee; (wykrzyknik) gosh; (wykrzyknik) oh; (wykrzyknik) oops
+[okablowanie]okablowanie (PL) : (rz.) cabling; (rz.) harness
+[okadzac]okadzać (PL) : (cz.) cense; (cz.) incense
+[okadzenie]okadzenie (PL) : (rz.) fumigation
+[okalac]okalać (PL) : (cz.) border; (cz.) surround
+[okaleczac]okaleczać (PL) : (cz.) cripple; (cz.) disable; (cz.) maim; (cz.) mutilate
+[okaleczenie]okaleczenie (PL) : (rz.) mayhem; (rz.) mutilation; (rz.) wound
+[okaleczyc]okaleczyć (PL) : (cz.) deform; (cz.) lame; (cz.) maim; (cz.) scathe; (cz.) truncate
+[okantowac]okantować (PL) : (cz.) border
+[okap]okap (PL) : (rz.) eave; (rz.) eaves; (rz.) hood
+[okapturzyc]okapturzyć (PL) : (cz.) hood
+[okaryna]okaryna (PL) : (rz.) ocarina
+[okaz]okaz (PL) : (rz.) curio; (rz.) exhibit; (rz.) rattler; (rz.) specimen
+[okazale]okazale (PL) : (p-sł.) grandly; (p-sł.) richly
+[okazanie]okazanie (PL) : (rz.) presentation; (rz.) render; (rz.) showing
+[okazac]okazać (PL) : (cz.) impart; (cz.) render; (cz.) show
+[okazalosc]okazałość (PL) : (rz.) costliness; (rz.) grandeur; (rz.) stateliness
+[okazaly]okazały (PL) : (p.) gorgeous; (p.) sumptuous
+[okaziciel]okaziciel (PL) : (rz.) bearer; (rz.) carrier; (rz.) holder
+[okazja]okazja (PL) : (rz.) bargain; (rz.) chance; (rz.) nonce; (rz.) occasion; (rz.) opportunity
+[okazjonalnie]okazjonalnie (PL) : (p-sł.) occasionally
+[okazjonalny]okazjonalny (PL) : (p.) occasional
+[okazyjnie]okazyjnie (PL) : (p-sł.) occasionally
+[okazyjny]okazyjny (PL) : (p.) chance
+[okazywac]okazywać (PL) : (cz.) accord; (cz.) appear; (cz.) bestow; (cz.) display; (cz.) exert; (cz.) exhibit; (cz.) prove; (cz.) show; (cz.) transpire
+[okcydentalny]okcydentalny (PL) : (p.) occidental
+[okienko]okienko (PL) : (rz.) counter; (rz.) shutter; (rz.) slot; (rz.) window
+[okienkowanie]okienkowanie (PL) : (rz.) windowing
+[okiennica]okiennica (PL) : (rz.) shutter
+[okielznac]okiełznać (PL) : (cz.) bridle
+[oklapnac]oklapnąć (PL) : (cz.) droop; (cz.) flag; (cz.) wilt
+[oklaski]oklaski (PL) : (rz.) applause; (rz.) applauses
+[oklaskiwac]oklaskiwać (PL) : (cz.) acclaim; (cz.) applaud; (cz.) clap
+[oklepany]oklepany (PL) : (p.) hackneyed; (p.) trite
+[oklepac]oklepać (PL) : (cz.) gallop
+[okludowac]okludować (PL) : (cz.) occlude
+[okluzja]okluzja (PL) : (rz.) occlusion
+[okno]okno (PL) : (rz.) pane; (rz.) roundel; (rz.) skylight; (rz.) window
+[oko]oko (PL) : (rz.) eye; (rz.) optic
+[okocic]okocić (PL) : (cz.) yean
+[okolica]okolica (PL) : (rz.) area; (rz.) countryside; (rz.) environs; (rz.) locality; (rz.) location; (rz.) neighbourhood; (rz.) region; (rz.) side; (rz.) site; (rz.) surface; (rz.) surroundings; (rz.) vicinage
+[okolicznosciowy]okolicznościowy (PL) : (p.) circumstantial; (p.) incidental; (p.) occasional
+[okolicznosc]okoliczność (PL) : (rz.) circumstance; (rz.) fact; (rz.) factor
+[okoliczny]okoliczny (PL) : (p.) local; (p.) neighbouring
+[okop]okop (PL) : (rz.) ditch; (rz.) entrenchment; (rz.) foxhole; (rz.) sap; (rz.) trench
+[okopanie]okopanie (PL) : (rz.) entrenchment
+[okopac]okopać (PL) : (cz.) entrench; (cz.) retrench
+[okopcic]okopcić (PL) : (cz.) smoke
+[okopowizna]okopowizna (PL) : (rz.) root
+[okopywac]okopywać (PL) : (cz.) entrench; (cz.) unearth
+[okorek]okorek (PL) : (rz.) slab
+[okorowywac]okorowywać (PL) : (cz.) debark
+[okowy]okowy (PL) : (rz.) fetters
+[okolo]około (PL) : (p-sł.) about; (p-sł.) approximately; (p-sł.) around; (p-sł.) by; (p-sł.) near; (p-sł.) toward
+[okoloksiezycowy]okołoksiężycowy (PL) : (p.) encircling
+[okolosloneczny]okołosłoneczny (PL) : (p.) encircling
+[okoloziemski]okołoziemski (PL) : (p.) around
+[okon]okoń (PL) : (rz.) bass; (rz.) perch
+[okpienie]okpienie (PL) : (rz.) dupery; (rz.) take-in
+[okpic]okpić (PL) : (cz.) befool; (cz.) diddle; (cz.) jockey
+[okradanie]okradanie (PL) : (rz.) stealing
+[okradac]okradać (PL) : (cz.) defraud; (cz.) rob; (cz.) steal
+[okradzenie]okradzenie (PL) : (rz.) robbery
+[okrajac]okrajać (PL) : (cz.) bowdlerize; (cz.) expurgate; (cz.) prune
+[okrakiem]okrakiem (PL) : (p-sł.) astraddle; (p-sł.) astride
+[okrasa]okrasa (PL) : (rz.) fat; (rz.) gravy; (rz.) grease
+[okraszenie]okraszenie (PL) : (rz.) gravy
+[okratowanie]okratowanie (PL) : (rz.) grating; (rz.) grille; (rz.) railing
+[okratowac]okratować (PL) : (cz.) grate
+[okrawanie]okrawanie (PL) : (rz.) expurgation; (rz.) scissoring
+[okrawarka]okrawarka (PL) : (rz.) trimmer
+[okrawac]okrawać (PL) : (cz.) pare
+[okrawek]okrawek (PL) : (rz.) clipping; (rz.) scrap
+[okrawki]okrawki (PL) : (rz.) trimmings
+[okrasc]okraść (PL) : (cz.) rob
+[okres]okres (PL) : (rz.) cycle; (rz.) era; (rz.) juvenescence; (rz.) lapse; (rz.) period; (rz.) space; (rz.) span; (rz.) spell; (rz.) stage; (rz.) stint; (rz.) streak; (rz.) term; (rz.) time
+[okresowo]okresowo (PL) : (p-sł.) periodically
+[okresowosc]okresowość (PL) : (rz.) periodicity
+[okresowy]okresowy (PL) : (p.) periodic; (p.) periodical; (p.) recurrent; (p.) temporary
+[okreslajacy]określający (PL) : (p.) predicative
+[okreslanie]określanie (PL) : (rz.) attributive; (rz.) description; (rz.) determination
+[okreslac]określać (PL) : (cz.) appoint; (cz.) assess; (cz.) assign; (cz.) define; (cz.) denominate; (cz.) describe; (cz.) determine; (cz.) predetermine; (cz.) prescribe; (cz.) qualify; (cz.) specify; (cz.) terminate
+[okreslenie]określenie (PL) : (rz.) appellation; (rz.) definition; (rz.) denomination; (rz.) designation; (rz.) determination; (rz.) epithet; (rz.) phrase; (rz.) term
+[okreslic]określić (PL) : (cz.) define; (cz.) denominate; (cz.) specify
+[okreslnik]określnik (PL) : (rz.) determiner
+[okreslony]określony (PL) : (p.) definite; (p.) determinate; (p.) specific
+[okroic]okroić (PL) : (cz.) expurgate
+[okrojenie]okrojenie (PL) : (rz.) abridgment; (rz.) mutilation; (rz.) pruning; (rz.) truncation
+[okrojnik]okrojnik (PL) : (rz.) trimmer
+[okrojony]okrojony (PL) : (p.) truncated
+[okropnie]okropnie (PL) : (p-sł.) awfully; (p-sł.) beastly; (p-sł.) terribly
+[okropnosc]okropność (PL) : (rz.) atrociousness; (rz.) atrocity; (rz.) awfulness; (rz.) ghastliness; (rz.) hideousness; (rz.) horror
+[okropny]okropny (PL) : (p.) atrocious; (p.) awful; (p.) bad; (p.) dire; (p.) direful; (p.) disastrous; (p.) dreadful; (p.) fearful; (p.) fearsome; (p.) ghastly; (p.) grisly; (p.) gruesome; (p.) hateful; (p.) horrible; (p.) horrid; (p.) horrific; (p.) infernal; (p.) shocking; (p.) terrible; (p.) terrific; (p.) tremendous; (p.) unspeakable
+[okruch]okruch (PL) : (rz.) crumb; (rz.) fragment
+[okrucienstwo]okrucieństwo (PL) : (rz.) atrociousness; (rz.) atrocity; (rz.) awfulness; (rz.) cruelty; (rz.) ferocity
+[okruszyna]okruszyna (PL) : (rz.) crumb
+[okrutnie]okrutnie (PL) : (p-sł.) cruelly; (p-sł.) severely
+[okrutnik]okrutnik (PL) : (rz.) brute; (rz.) tormentor
+[okrutny]okrutny (PL) : (p.) atrocious; (p.) cruel; (p.) fell; (p.) ferocious; (p.) grim; (p.) sanguinary; (p.) savage; (p.) tyrannous
+[okrycie]okrycie (PL) : (rz.) coat; (rz.) coating; (rz.) covering; (rz.) mantle; (rz.) shroud
+[okrywa]okrywa (PL) : (rz.) coat
+[okrywanie]okrywanie (PL) : (rz.) coat; (rz.) covering
+[okrywac]okrywać (PL) : (cz.) encase; (cz.) envelop; (cz.) shroud; (cz.) vest
+[okryc]okryć (PL) : (cz.) cloak; (cz.) clothe; (cz.) cover; (cz.) mantle
+[okrzemka]okrzemka (PL) : (rz.) diatom
+[okrzesanie]okrzesanie (PL) : (rz.) polish
+[okrzesac]okrzesać (PL) : (cz.) polish; (cz.) rough-hew
+[okrzesywac]okrzesywać (PL) : (cz.) lop
+[okrzyczec]okrzyczeć (PL) : (cz.) decry
+[okrzyk]okrzyk (PL) : (rz.) cry; (rz.) ejaculation; (rz.) exclamation; (rz.) interjection; (rz.) outcry; (rz.) shout
+[okrag]okrąg (PL) : (rz.) circle; (rz.) township
+[okraglak]okrąglak (PL) : (rz.) boulder
+[okraglosc]okrągłość (PL) : (rz.) rotundity; (rz.) roundness
+[okragly]okrągły (PL) : (p.) circular; (p.) orbicular; (p.) plump; (p.) rotund; (p.) round
+[okrazac]okrążać (PL) : (cz.) circle; (cz.) circumnavigate; (cz.) encircle; (cz.) encompass; (cz.) orbit
+[okrazenie]okrążenie (PL) : (rz.) circuit; (rz.) encirclement; (rz.) envelopment; (rz.) lap
+[okrazyc]okrążyć (PL) : (cz.) beset
+[okrecanie]okręcanie (PL) : (rz.) lathing
+[okrecac]okręcać (PL) : (cz.) slew; (cz.) wrap
+[okreg]okręg (PL) : (rz.) ambit; (rz.) circumference; (rz.) district; (rz.) precinct; (rz.) township
+[okregowy]okręgowy (PL) : (p.) regional; (p.) territorial
+[okret]okręt (PL) : (rz.) battleship; (rz.) ship; (rz.) ships; (rz.) submarine; (rz.) vessel; (rz.) warship
+[okretka]okrętka (PL) : (rz.) swivel
+[okretowiec]okrętowiec (PL) : (rz.) shipbuilder
+[okretownictwo]okrętownictwo (PL) : (rz.) shipbuilding
+[okretowy]okrętowy (PL) : (p.) maritime; (p.) naval
+[okreznica]okrężnica (PL) : (rz.) colon; (rz.) gunwale; (rz.) seine
+[okreznie]okrężnie (PL) : (p-sł.) circularly; (p-sł.) circumferentially
+[okrezny]okrężny (PL) : (p.) circuitous; (p.) circular; (p.) circumferential; (p.) devious; (p.) indirect; (p.) round; (p.) roundabout
+[oksydacja]oksydacja (PL) : (rz.) oxidation
+[oksydowanie]oksydowanie (PL) : (rz.) blueing; (rz.) browning
+[oksydowac]oksydować (PL) : (cz.) oxidize
+[oksymoron]oksymoron (PL) : (rz.) oxymoron
+[oktagon]oktagon (PL) : (rz.) octagon
+[oktalny]oktalny (PL) : (p.) octal
+[oktan]oktan (PL) : (rz.) octane
+[oktant]oktant (PL) : (rz.) octant
+[oktaw]oktaw (PL) : (rz.) octaves
+[oktawa]oktawa (PL) : (rz.) octave
+[oktet]oktet (PL) : (rz.) octet
+[oktylion]oktylion (PL) : (rz.) octillion
+[okucie]okucie (PL) : (rz.) ferrule; (rz.) fitting; (rz.) forge; (rz.) tipi
+[okular]okular (PL) : (rz.) eyepiece; (rz.) eye-piece; (rz.) ocular; (rz.) rest
+[okularnik]okularnik (PL) : (rz.) cobra
+[okularowy]okularowy (PL) : (p.) eye-piece
+[okulary]okulary (PL) : (rz.) eyeglasses; (rz.) glasses; (rz.) specs; (rz.) spectacle; (rz.) spectacles
+[okulawiac]okulawiać (PL) : (cz.) lame
+[okulawic]okulawić (PL) : (cz.) lame
+[okulista]okulista (PL) : (rz.) oculist; (rz.) ophthalmologist
+[okulistyka]okulistyka (PL) : (rz.) ophthalmology
+[okulizacja]okulizacja (PL) : (rz.) budding
+[okulizowanie]okulizowanie (PL) : (rz.) budding
+[okulizowac]okulizować (PL) : (cz.) bud
+[okultysta]okultysta (PL) : (rz.) occultist
+[okultystyczny]okultystyczny (PL) : (p.) occult
+[okultyzm]okultyzm (PL) : (rz.) occultism
+[okup]okup (PL) : (rz.) ransom; (rz.) sop
+[okupacja]okupacja (PL) : (rz.) occupancy; (rz.) occupation; (rz.) profession
+[okupacyjny]okupacyjny (PL) : (p.) occupational
+[okupant]okupant (PL) : (rz.) invader; (rz.) occupant; (rz.) occupier
+[okupic]okupić (PL) : (cz.) buy; (cz.) ransom
+[okupowac]okupować (PL) : (cz.) occupy
+[okupywac]okupywać (PL) : (cz.) buy
+[okurzanie]okurzanie (PL) : (rz.) dusting
+[okurzac]okurzać (PL) : (cz.) cense
+[okolnik]okólnik (PL) : (rz.) circular
+[okolny]okólny (PL) : (p.) circuitous; (p.) circular; (p.) indirect; (p.) roundabout
+[oklad]okład (PL) : (rz.) cataplasm; (rz.) compress; (rz.) cover; (rz.) poultice
+[okladanie]okładanie (PL) : (rz.) cataplasm; (rz.) cladding
+[okladac]okładać (PL) : (cz.) fib; (cz.) sandwich
+[okladka]okładka (PL) : (rz.) binder; (rz.) cover; (rz.) sleeve
+[okladzina]okładzina (PL) : (rz.) cladding; (rz.) facing; (rz.) lining
+[oklamac]okłamać (PL) : (cz.) deceive
+[oklamywac]okłamywać (PL) : (cz.) deceive
+[olbrzym]olbrzym (PL) : (rz.) biggie; (rz.) colossus; (rz.) giant; (rz.) ogre; (rz.) titan; (rz.) whopper
+[olbrzymi]olbrzymi (PL) : (p.) cavernous; (p.) colossal; (p.) enormous; (p.) gargantuan; (p.) giant; (p.) gigantic; (p.) huge; (p.) immense; (p.) king-size; (p.) mammoth; (p.) thundering; (p.) tremendous
+[olbrzymiec]olbrzymieć (PL) : (cz.) swell
+[olcha]olcha (PL) : (rz.) alder
+[oleander]oleander (PL) : (rz.) oleander
+[olefina]olefina (PL) : (rz.) olefin; (rz.) olefins
+[oleinowy]oleinowy (PL) : (p.) oleic
+[oleistosc]oleistość (PL) : (rz.) oiliness
+[oleisty]oleisty (PL) : (p.) oiliest; (p.) oilseed; (p.) oily; (p.) oleaginous; (p.) unctuous
+[olej]olej (PL) : (rz.) oil
+[olejarka]olejarka (PL) : (rz.) oilcan
+[olejarnia]olejarnia (PL) : (rz.) mill
+[olejarz]olejarz (PL) : (rz.) oilman
+[olejek]olejek (PL) : (rz.) attar; (rz.) oil
+[olejenie]olejenie (PL) : (rz.) oil
+[oleodruk]oleodruk (PL) : (rz.) chromolithograph
+[oleomargaryna]oleomargaryna (PL) : (rz.) oleomargarine
+[oligarcha]oligarcha (PL) : (rz.) oligarch
+[oligarchia]oligarchia (PL) : (rz.) oligarchy
+[oligarchiczny]oligarchiczny (PL) : (p.) oligarchic
+[oligopol]oligopol (PL) : (rz.) oligopoly
+[oligosacharyd]oligosacharyd (PL) : (rz.) oligosaccharide
+[olimpiada]olimpiada (PL) : (rz.) contest; (rz.) Olympiad; (rz.) Olympics
+[olimpijczyk]olimpijczyk (PL) : (rz.) Olympian
+[olimpijski]olimpijski (PL) : (p.) Olympian; (p.) Olympic
+[olinowanie]olinowanie (PL) : (rz.) cordage; (rz.) rigging
+[oliwa]oliwa (PL) : (rz.) boozer; (rz.) oil; (rz.) olive; (rz.) wino
+[oliwiarka]oliwiarka (PL) : (rz.) lubricator; (rz.) oilcan
+[oliwienie]oliwienie (PL) : (rz.) lubrication
+[oliwin]oliwin (PL) : (rz.) olivine
+[oliwic]oliwić (PL) : (cz.) lubricate; (cz.) oil
+[oliwka]oliwka (PL) : (rz.) olive
+[olstro]olstro (PL) : (rz.) holster
+[olsza]olsza (PL) : (rz.) alder
+[olsnienie]olśnienie (PL) : (rz.) brainwave; (rz.) glare
+[olsniewajacy]olśniewający (PL) : (p.) brilliant
+[olsniewac]olśniewać (PL) : (cz.) dazzle
+[olsnic]olśnić (PL) : (cz.) bedazzle; (cz.) dazzle; (cz.) enchant
+[om]om (PL) : (rz.) ohm
+[omackiem]omackiem (PL) : (p-sł.) gropingly
+[omal]omal (PL) : (p-sł.) almost; (p-sł.) nearly
+[omam]omam (PL) : (rz.) hallucination
+[omamiac]omamiać (PL) : (cz.) beguile; (cz.) deceive; (cz.) delude
+[omamienie]omamienie (PL) : (rz.) delusion; (rz.) lure
+[omamic]omamić (PL) : (cz.) beguile; (cz.) deceive; (cz.) delude
+[oman]oman (PL) : (rz.) elecampane
+[omasta]omasta (PL) : (rz.) butter; (rz.) fat
+[omaszczenie]omaszczenie (PL) : (rz.) greasing
+[omawiac]omawiać (PL) : (cz.) debate; (cz.) discuss; (cz.) negotiate
+[omascic]omaścić (PL) : (cz.) grease
+[omdlalosc]omdlałość (PL) : (rz.) fatigue
+[omdlenie]omdlenie (PL) : (rz.) collapse; (rz.) faint; (rz.) languor; (rz.) swoon; (rz.) syncope
+[omdlewajaco]omdlewająco (PL) : (p-sł.) languidly
+[omdlewanie]omdlewanie (PL) : (rz.) droop; (rz.) swelter
+[omdlewac]omdlewać (PL) : (cz.) languish; (cz.) swoon
+[omdlec]omdleć (PL) : (cz.) languish; (cz.) swoon
+[omiatanie]omiatanie (PL) : (rz.) sweeping
+[omiatac]omiatać (PL) : (cz.) sweep
+[omieszkac]omieszkać (PL) : (cz.) fail
+[omijanie]omijanie (PL) : (rz.) evasion; (rz.) passing
+[omijac]omijać (PL) : (cz.) avoid; (cz.) bypass; (cz.) by-pass; (cz.) dodge; (cz.) evade; (cz.) pass; (cz.) pussyfoot
+[omlet]omlet (PL) : (rz.) omelette
+[omnibus]omnibus (PL) : (rz.) charabanc; (rz.) char-a-banc
+[omnipotencja]omnipotencja (PL) : (rz.) omnipotence
+[omomierz]omomierz (PL) : (rz.) ohmmeter
+[omotac]omotać (PL) : (cz.) wrap
+[omotka]omotka (PL) : (rz.) frapping
+[omowny]omowny (PL) : (p.) periphrastic
+[omszenie]omszenie (PL) : (rz.) pubescence
+[omurowanie]omurowanie (PL) : (rz.) walling
+[omurowac]omurować (PL) : (cz.) wall
+[omulek]omułek (PL) : (rz.) mussel
+[omylic]omylić (PL) : (cz.) lapse; (cz.) mislead
+[omylnie]omylnie (PL) : (p-sł.) fallibly
+[omylnosc]omylność (PL) : (rz.) erroneousness; (rz.) fallibility
+[omylny]omylny (PL) : (p.) fallible; (p.) misleading
+[omylka]omyłka (PL) : (rz.) blunder; (rz.) error; (rz.) fallaciousness; (rz.) fault; (rz.) lapse; (rz.) mistake
+[omylkowy]omyłkowy (PL) : (p.) erroneous; (p.) mistyped
+[omowienie]omówienie (PL) : (rz.) discussion; (rz.) overview; (rz.) review
+[omowic]omówić (PL) : (cz.) discuss
+[omlot]omłot (PL) : (rz.) threshing
+[onania]onania (PL) : (rz.) masturbation
+[onanizm]onanizm (PL) : (rz.) masturbation
+[onanizowac]onanizować (PL) : (cz.) masturbate
+[ondulacja]ondulacja (PL) : (rz.) wave
+[ondulowac]ondulować (PL) : (cz.) wave
+[onegdaj]onegdaj (PL) : (p-sł.) once
+[ongis]ongiś (PL) : (p-sł.) once
+[oniesmielac]onieśmielać (PL) : (cz.) browbeat; (cz.) concuss; (cz.) intimidate; (cz.) overawe; (cz.) overbear
+[oniesmielenie]onieśmielenie (PL) : (rz.) embarrassment; (rz.) intimidation
+[oniesmielic]onieśmielić (PL) : (cz.) daunt; (cz.) intimidate
+[onkolog]onkolog (PL) : (rz.) oncologist
+[onkologia]onkologia (PL) : (rz.) oncology
+[onomatopeiczny]onomatopeiczny (PL) : (p.) onomatopoeic; (p.) onomatopoetic
+[onomatopeja]onomatopeja (PL) : (rz.) onomatopoeia
+[ontogeneza]ontogeneza (PL) : (rz.) ontogenesis
+[ontologia]ontologia (PL) : (rz.) ontology
+[ontologiczny]ontologiczny (PL) : (p.) ontological
+[onyks]onyks (PL) : (rz.) onyx
+[opactwo]opactwo (PL) : (rz.) abbey
+[opacznie]opacznie (PL) : (p-sł.) awry
+[opaczny]opaczny (PL) : (p.) awry; (p.) erroneous; (p.) wrong
+[opad]opad (PL) : (rz.) fall; (rz.) rainfall
+[opadajacy]opadający (PL) : (p.) downward
+[opadanie]opadanie (PL) : (rz.) descent; (rz.) droop; (rz.) ebb; (rz.) subsidence
+[opadac]opadać (PL) : (cz.) decline; (cz.) decrease; (cz.) descend; (cz.) dip; (cz.) droop; (cz.) droops; (cz.) drop; (cz.) ebb; (cz.) fall; (cz.) fell; (cz.) flag; (cz.) gravitate; (cz.) sag; (cz.) sink; (cz.) slake; (cz.) slope; (cz.) slump; (cz.) subside
+[opadniecie]opadnięcie (PL) : (rz.) collapse; (rz.) fallen; (rz.) falling
+[opak]opak (PL) : (rz.) contrary
+[opakowanie]opakowanie (PL) : (rz.) carton; (rz.) pack; (rz.) package; (rz.) packaging; (rz.) packer; (rz.) packet; (rz.) packing; (rz.) wrapper
+[opakowac]opakować (PL) : (cz.) wrap
+[opakowywac]opakowywać (PL) : (cz.) packaged
+[opal]opal (PL) : (rz.) opal
+[opalacz]opalacz (PL) : (rz.) beach-suit
+[opalanie]opalanie (PL) : (rz.) firing
+[opalac]opalać (PL) : (cz.) burn; (cz.) singe; (cz.) sunbathe; (cz.) tan
+[opalenie]opalenie (PL) : (rz.) heating
+[opalenizna]opalenizna (PL) : (rz.) sunburn; (rz.) suntan; (rz.) sun-tan; (rz.) tan
+[opalescencja]opalescencja (PL) : (rz.) opalescence
+[opalizacja]opalizacja (PL) : (rz.) iridescence; (rz.) opalescence
+[opalizowanie]opalizowanie (PL) : (rz.) iridescence; (rz.) opalescence
+[opalizujacy]opalizujący (PL) : (p.) opalescent
+[opalic]opalić (PL) : (cz.) singe
+[opalony]opalony (PL) : (p.) sunburnt; (p.) sun-tanned
+[opamietanie]opamiętanie (PL) : (rz.) reason; (rz.) reflection
+[opamietac]opamiętać (PL) : (cz.) remember
+[opancerzanie]opancerzanie (PL) : (rz.) casing; (rz.) plating
+[opancerzenie]opancerzenie (PL) : (rz.) armour; (rz.) armour-plating; (rz.) plate-armour; (rz.) plating
+[opancerzony]opancerzony (PL) : (p.) armoured; (p.) bullet-proof
+[opancerzyc]opancerzyć (PL) : (cz.) armour
+[opanowanie]opanowanie (PL) : (rz.) aplomb; (rz.) capture; (rz.) command; (rz.) composure; (rz.) coolness; (rz.) countenance; (rz.) equanimity; (rz.) grip; (rz.) mastery; (rz.) restraint; (rz.) self-command
+[opanowany]opanowany (PL) : (p.) composed; (p.) cool; (p.) undemonstrative
+[opanowac]opanować (PL) : (cz.) engross; (cz.) overmaster; (cz.) overpower; (cz.) overrule; (cz.) subjugate; (cz.) surmount
+[opanowywac]opanowywać (PL) : (cz.) capture; (cz.) infest; (cz.) overrun; (cz.) subdue
+[opar]opar (PL) : (rz.) fume; (rz.) haze; (rz.) vapour
+[oparcie]oparcie (PL) : (rz.) arm; (rz.) back; (rz.) backbone; (rz.) backrest; (rz.) base; (rz.) bolster; (rz.) foothold; (rz.) footing; (rz.) maintenance; (rz.) reliance; (rz.) support
+[oparkanic]oparkanić (PL) : (cz.) fence
+[oparzelina]oparzelina (PL) : (rz.) burn; (rz.) gall; (rz.) scald
+[oparzelizna]oparzelizna (PL) : (rz.) burn
+[oparzenie]oparzenie (PL) : (rz.) burn; (rz.) scald; (rz.) sunburn
+[oparzyc]oparzyć (PL) : (cz.) burn; (cz.) scald
+[opas]opas (PL) : (rz.) store
+[opasanie]opasanie (PL) : (rz.) belt; (rz.) girder
+[opasac]opasać (PL) : (cz.) begird; (cz.) enlace; (cz.) gird; (cz.) girdle
+[opaska]opaska (PL) : (rz.) armband; (rz.) armlet; (rz.) band; (rz.) brassard; (rz.) filler; (rz.) fillet; (rz.) headband; (rz.) sweatband
+[opasywac]opasywać (PL) : (cz.) engird; (cz.) gird; (cz.) girdle; (cz.) surround
+[opat]opat (PL) : (rz.) abbot
+[opatrunek]opatrunek (PL) : (rz.) bandage; (rz.) binding; (rz.) dressing; (rz.) ligature
+[opatrywanie]opatrywanie (PL) : (rz.) dressing
+[opatrywac]opatrywać (PL) : (cz.) bind; (cz.) dress; (cz.) fix
+[opatrznosciowy]opatrznościowy (PL) : (p.) heaven-sent; (p.) provident; (p.) providential
+[opatrznosc]opatrzność (PL) : (rz.) providence
+[opatrzyc]opatrzyć (PL) : (cz.) attach; (cz.) dress
+[opatulac]opatulać (PL) : (cz.) muffle
+[opal]opał (PL) : (rz.) fuel; (rz.) wood
+[opasc]opaść (PL) : (cz.) abate; (cz.) fall; (cz.) lapse; (cz.) subside
+[opchac]opchać (PL) : (cz.) stuff
+[opcja]opcja (PL) : (rz.) option
+[opcje]opcje (PL) : (rz.) preferences
+[opcjonalnie]opcjonalnie (PL) : (p-sł.) optionally
+[opcjonalny]opcjonalny (PL) : (p.) optional
+[opera]opera (PL) : (rz.) doubler; (rz.) opera; (rz.) opera-house
+[operacja]operacja (PL) : (rz.) operation; (rz.) surgery
+[operacyjny]operacyjny (PL) : (p.) operable; (p.) operating; (p.) operational; (p.) operative; (p.) surgical
+[operand]operand (PL) : (rz.) operand
+[operator]operator (PL) : (rz.) operator; (rz.) provider
+[operatorowy]operatorowy (PL) : (p.) operational
+[operatywnosc]operatywność (PL) : (rz.) efficiency
+[operatywny]operatywny (PL) : (p.) efficient; (p.) operative
+[operetka]operetka (PL) : (rz.) operetta
+[operetkowy]operetkowy (PL) : (p.) farcical
+[operowac]operować (PL) : (cz.) operate
+[operowy]operowy (PL) : (p.) operatic
+[opieczetowac]opieczętować (PL) : (cz.) seal
+[opieka]opieka (PL) : (rz.) attention; (rz.) care; (rz.) custody; (rz.) keeping; (rz.) patronage; (rz.) protection; (rz.) provision; (rz.) safekeeping; (rz.) tutelage; (rz.) ward
+[opiekacz]opiekacz (PL) : (rz.) grill; (rz.) toaster
+[opiekac]opiekać (PL) : (cz.) broil; (cz.) toast
+[opiekowac]opiekować (PL) : (cz.) care; (cz.) chaperon; (cz.) patronize; (cz.) tend
+[opiekun]opiekun (PL) : (rz.) carer; (rz.) caretaker; (rz.) chaperone; (rz.) curator; (rz.) foster-father; (rz.) guardian; (rz.) keeper; (rz.) patrol; (rz.) patron; (rz.) protector; (rz.) trustee; (rz.) tutor; (rz.) warden; (rz.) warder
+[opiekunczosc]opiekuńczość (PL) : (rz.) assistance; (rz.) protectiveness
+[opiekunczy]opiekuńczy (PL) : (p.) caring; (p.) custodial; (p.) tutelary
+[opieprzyc]opieprzyć (PL) : (cz.) pepper
+[opierac]opierać (PL) : (cz.) abut; (cz.) base; (cz.) build; (cz.) defy; (cz.) found; (cz.) ground; (cz.) jib; (cz.) kick; (cz.) lean; (cz.) rely; (cz.) repose; (cz.) resist; (cz.) rest; (cz.) stay; (cz.) withstand; (cz.) withstood
+[opierunek]opierunek (PL) : (rz.) washing
+[opierzenie]opierzenie (PL) : (rz.) feather; (rz.) feathering
+[opierzony]opierzony (PL) : (p.) fledged
+[opieszalec]opieszalec (PL) : (rz.) laggard
+[opieszalosc]opieszałość (PL) : (rz.) indolence; (rz.) laziness; (rz.) slowness; (rz.) tardiness
+[opieszaly]opieszały (PL) : (p.) backward; (p.) slack
+[opiewac]opiewać (PL) : (cz.) chant; (cz.) state
+[opilstwo]opilstwo (PL) : (rz.) drunkenness; (rz.) intoxication
+[opinia]opinia (PL) : (rz.) estimation; (rz.) feedback; (rz.) mind; (rz.) opinion; (rz.) peer; (rz.) preconception; (rz.) sentiment; (rz.) verdict; (rz.) view
+[opiniodawca]opiniodawca (PL) : (rz.) adviser
+[opiniodawczy]opiniodawczy (PL) : (p.) advisory; (p.) deliberative
+[opinka]opinka (PL) : (rz.) waling
+[opis]opis (PL) : (rz.) circumscription; (rz.) delineation; (rz.) description; (rz.) designation; (rz.) overview; (rz.) picture; (rz.) review
+[opisanie]opisanie (PL) : (rz.) description; (rz.) portrayal
+[opisac]opisać (PL) : (cz.) characterize; (cz.) circumscribe; (cz.) describe; (cz.) represent
+[opisowy]opisowy (PL) : (p.) descriptive; (p.) narrative
+[opisywalny]opisywalny (PL) : (p.) describable
+[opisywac]opisywać (PL) : (cz.) circumscribe; (cz.) delineate; (cz.) depict; (cz.) describe; (cz.) document; (cz.) feature; (cz.) portray
+[opium]opium (PL) : (rz.) opium
+[opiac]opiąć (PL) : (cz.) enwrap
+[opilek]opiłek (PL) : (rz.) filing; (rz.) shaving
+[opilki]opiłki (PL) : (rz.) filings
+[oplatanie]oplatanie (PL) : (rz.) braiding; (rz.) cost
+[oplatarka]oplatarka (PL) : (rz.) braider
+[oplatac]oplatać (PL) : (cz.) braid; (cz.) entangle; (cz.) entwine; (cz.) twine; (cz.) wind
+[oplot]oplot (PL) : (rz.) braid; (rz.) braiding
+[opluc]opluć (PL) : (cz.) spit
+[oplatac]oplątać (PL) : (cz.) captivate; (cz.) entwine
+[opodal]opodal (PL) : (p-sł.) near; (p-sł.) nearby; (p-sł.) off
+[opodatkowanie]opodatkowanie (PL) : (rz.) assessment; (rz.) tax; (rz.) taxation
+[opodatkowac]opodatkować (PL) : (cz.) tax
+[opodatkowywanie]opodatkowywanie (PL) : (rz.) taxing
+[opodatkowywac]opodatkowywać (PL) : (cz.) tax
+[opoka]opoka (PL) : (rz.) rock
+[opona]opona (PL) : (rz.) tire; (rz.) tyre
+[oponent]oponent (PL) : (rz.) adversary; (rz.) antagonist; (rz.) objector; (rz.) opponent
+[oponowac]oponować (PL) : (cz.) object; (cz.) oppose; (cz.) withstand
+[opornica]opornica (PL) : (rz.) resistance
+[opornik]opornik (PL) : (rz.) resistance; (rz.) resistor
+[opornik-kondensator]opornik-kondensator (PL) : (rz.) resistor-capacitor
+[opornikow]oporników (PL) : (rz.) capping
+[opornosc]oporność (PL) : (rz.) resistance
+[opornosc-indukcyjnosc]oporność-indukcyjność (PL) : (rz.) resistance-inductance
+[opornosc-pojemnosc]oporność-pojemność (PL) : (rz.) resistance-capacitance
+[oporny]oporny (PL) : (p.) contumacious; (p.) defiant; (p.) deficient; (p.) disobedient; (p.) obstreperous; (p.) recalcitrant; (p.) refractory; (p.) reluctant; (p.) resistant; (p.) resistive; (p.) restive; (p.) stubborn; (p.) tough; (p.) untoward
+[oportunista]oportunista (PL) : (rz.) goody-goody; (rz.) opportunist; (rz.) timeserver; (rz.) time-server
+[oportunistyczny]oportunistyczny (PL) : (p.) opportunistic
+[oportunizm]oportunizm (PL) : (rz.) expedience; (rz.) expediency; (rz.) opportunism
+[oporzadzanie]oporządzanie (PL) : (rz.) grooming
+[oporzadzac]oporządzać (PL) : (cz.) trim
+[oporzadzenie]oporządzenie (PL) : (rz.) equipment
+[opos]opos (PL) : (rz.) opossum
+[opowiadacz]opowiadacz (PL) : (rz.) storyteller; (rz.) story-teller
+[opowiadanie]opowiadanie (PL) : (rz.) narration; (rz.) narrative; (rz.) novelette; (rz.) recital; (rz.) recitals; (rz.) relation; (rz.) story; (rz.) storytelling; (rz.) tale; (rz.) whodunit; (rz.) yarn
+[opowiadac]opowiadać (PL) : (cz.) narrate; (cz.) recount; (cz.) relate; (cz.) tell
+[opowiastka]opowiastka (PL) : (rz.) tale
+[opowiedziec]opowiedzieć (PL) : (cz.) opt; (cz.) tell
+[opowiesc]opowieść (PL) : (rz.) spiel; (rz.) story; (rz.) tale
+[opozycja]opozycja (PL) : (rz.) dissidence; (rz.) opposition
+[opozycjonista]opozycjonista (PL) : (rz.) oppositionist
+[opozycyjnosc]opozycyjność (PL) : (rz.) resistance
+[opozycyjny]opozycyjny (PL) : (p.) oppositional
+[opracowanie]opracowanie (PL) : (rz.) development; (rz.) elaboration; (rz.) handling; (rz.) study
+[opracowac]opracować (PL) : (cz.) compile; (cz.) develop; (cz.) elaborate
+[opracowywanie]opracowywanie (PL) : (rz.) development
+[opracowywac]opracowywać (PL) : (cz.) compile; (cz.) develop; (cz.) devise; (cz.) elaborate; (cz.) operate
+[oprawa]oprawa (PL) : (rz.) binding; (rz.) casing; (rz.) frame; (rz.) mount; (rz.) mounting; (rz.) selling; (rz.) setting; (rz.) stock
+[oprawca]oprawca (PL) : (rz.) assassin; (rz.) butcher; (rz.) hangman; (rz.) torturer
+[oprawianie]oprawianie (PL) : (rz.) binding; (rz.) framing
+[oprawiac]oprawiać (PL) : (cz.) bind; (cz.) encase; (cz.) enchase; (cz.) frame
+[oprawienie]oprawienie (PL) : (rz.) binding; (rz.) framing
+[oprawic]oprawić (PL) : (cz.) encase
+[oprawka]oprawka (PL) : (rz.) holder; (rz.) rim; (rz.) socket
+[oprawny]oprawny (PL) : (p.) bound
+[opresja]opresja (PL) : (rz.) oppression; (rz.) press
+[oprocentowanie]oprocentowanie (PL) : (rz.) interest
+[oprofilowanie]oprofilowanie (PL) : (rz.) fairing
+[oprofilowany]oprofilowany (PL) : (p.) faired
+[oprogramowanie]oprogramowanie (PL) : (rz.) software
+[opromieniac]opromieniać (PL) : (cz.) cheer
+[oprosic]oprosić (PL) : (cz.) pig
+[oprowadzac]oprowadzać (PL) : (cz.) guide; (cz.) round
+[opryskac]opryskać (PL) : (cz.) bespatter; (cz.) splash; (cz.) sprinkle
+[opryskiwacz]opryskiwacz (PL) : (rz.) sprayer; (rz.) sprinkler
+[opryskiwanie]opryskiwanie (PL) : (rz.) spray
+[opryskiwac]opryskiwać (PL) : (cz.) spatter; (cz.) spray
+[opryskliwie]opryskliwie (PL) : (p-sł.) brusquely; (p-sł.) harshly
+[opryskliwosc]opryskliwość (PL) : (rz.) brusqueness; (rz.) harshness; (rz.) petulance
+[opryskliwy]opryskliwy (PL) : (p.) abrupt; (p.) crabbed; (p.) fractious; (p.) gruff; (p.) ill-natured; (p.) pettish; (p.) petulant; (p.) sassy; (p.) short; (p.) surly
+[opryszczka]opryszczka (PL) : (rz.) herpes
+[opryszczkowy]opryszczkowy (PL) : (p.) herpetic
+[oprzec]oprzeć (PL) : (cz.) base
+[oprzyrzadowania]oprzyrządowania (PL) : (rz.) tooling
+[oprzyrzadowanie]oprzyrządowanie (PL) : (rz.) instrumentation
+[oprzytomniec]oprzytomnieć (PL) : (cz.) consciousness; (cz.) rally
+[oprzatac]oprzątać (PL) : (cz.) tidy
+[oprzed]oprzęd (PL) : (rz.) cocoon
+[oprocz]oprócz (PL) : (p-im.) beside; (p-im.) besides; (p-im.) beyond; (p-im.) but; (p-im.) except; (p-im.) excepting
+[oproznianie]opróżnianie (PL) : (rz.) evacuation
+[oprozniac]opróżniać (PL) : (cz.) empty; (cz.) evacuate; (cz.) exhaust; (cz.) vacate
+[oproznienie]opróżnienie (PL) : (rz.) exhaustion; (rz.) flush
+[oproznic]opróżnić (PL) : (cz.) empty; (cz.) exhaust; (cz.) vacate
+[optimum]optimum (PL) : (rz.) optimum
+[optoelektronika]optoelektronika (PL) : (rz.) optoelectronics
+[optowac]optować (PL) : (cz.) espouse; (cz.) opt
+[optycznie]optycznie (PL) : (p-sł.) optically
+[optyczny]optyczny (PL) : (p.) optic; (p.) optical
+[optyk]optyk (PL) : (rz.) oculist; (rz.) optician
+[optyka]optyka (PL) : (rz.) optician; (rz.) optics
+[optymalizacja]optymalizacja (PL) : (rz.) optimization
+[optymalizator]optymalizator (PL) : (rz.) optimizer
+[optymalizowanie]optymalizowanie (PL) : (rz.) optimizing
+[optymalizowac]optymalizować (PL) : (cz.) optimize
+[optymalnie]optymalnie (PL) : (p-sł.) best; (p-sł.) ideally; (p-sł.) optimally
+[optymalnosc]optymalność (PL) : (rz.) optimality
+[optymalny]optymalny (PL) : (p.) optimal
+[optymista]optymista (PL) : (rz.) optimist
+[optymistycznie]optymistycznie (PL) : (p-sł.) optimistically
+[optymistyczny]optymistyczny (PL) : (p.) hopeful; (p.) optimistic; (p.) positive; (p.) sanguine
+[optymizacja]optymizacja (PL) : (rz.) optimization
+[optymizator]optymizator (PL) : (rz.) optimizer; (rz.) optimizers
+[optymizm]optymizm (PL) : (rz.) hopefulness; (rz.) optimism
+[opublikowanie]opublikowanie (PL) : (rz.) posting
+[opublikowac]opublikować (PL) : (cz.) print; (cz.) publish
+[opuchlina]opuchlina (PL) : (rz.) swelling
+[opuchlizna]opuchlizna (PL) : (rz.) protuberance; (rz.) puffiness; (rz.) swell; (rz.) swelling; (rz.) tumour
+[opuchniecie]opuchnięcie (PL) : (rz.) swelling
+[opuchniety]opuchnięty (PL) : (p.) swollen
+[opuchnac]opuchnąć (PL) : (cz.) swell
+[opukanie]opukanie (PL) : (rz.) auscultation
+[opukac]opukać (PL) : (cz.) tap
+[opust]opust (PL) : (rz.) discount; (rz.) rebate
+[opustoszec]opustoszeć (PL) : (cz.) empty
+[opustoszyc]opustoszyć (PL) : (cz.) ravage
+[opuszczanie]opuszczanie (PL) : (rz.) abandoning; (rz.) absenting; (rz.) disembarkation
+[opuszczac]opuszczać (PL) : (cz.) abandon; (cz.) abort; (cz.) absent; (cz.) descend; (cz.) desert; (cz.) desolate; (cz.) elide; (cz.) exit; (cz.) forsake; (cz.) forsaken; (cz.) leave; (cz.) left; (cz.) lower; (cz.) miss; (cz.) omit; (cz.) quit; (cz.) relinquish; (cz.) skip; (cz.) slacken; (cz.) slouch; (cz.) vacate
+[opuszczenie]opuszczenie (PL) : (rz.) abandonment; (rz.) dereliction; (rz.) lapse; (rz.) leave; (rz.) omission
+[opuszczony]opuszczony (PL) : (p.) abandoned; (p.) forlorn; (p.) godforsaken; (p.) unfrequented
+[opuszka]opuszka (PL) : (rz.) bulb; (rz.) fingertip
+[opuscic]opuścić (PL) : (cz.) abandon; (cz.) abort; (cz.) desert; (cz.) desolate; (cz.) elide; (cz.) exit; (cz.) forsake; (cz.) leave; (cz.) miss; (cz.) relinquish; (cz.) skip; (cz.) slacken; (cz.) slouch
+[opychanie]opychanie (PL) : (rz.) stuffing
+[opylacz]opylacz (PL) : (rz.) duster; (rz.) sprinkler
+[opylanie]opylanie (PL) : (rz.) dusting; (rz.) sprinkling
+[opylic]opylić (PL) : (cz.) spray
+[opoj]opój (PL) : (rz.) dipsomaniac; (rz.) drunkard
+[opor]opór (PL) : (rz.) capacitance; (rz.) contumacy; (rz.) defiance; (rz.) drag; (rz.) impedance; (rz.) opposition; (rz.) reluctance; (rz.) resistance; (rz.) shoulder
+[opozniacz]opóźniacz (PL) : (rz.) delayer; (rz.) retardant
+[opozniajacy]opóźniający (PL) : (p.) retardant
+[opoznianie]opóźnianie (PL) : (rz.) delay
+[opozniac]opóźniać (PL) : (cz.) delay; (cz.) delay; (cz.) impede; (cz.) lag; (cz.) retard
+[opoznienie]opóźnienie (PL) : (rz.) deceleration; (rz.) delay; (rz.) lag; (rz.) latency; (rz.) retardation
+[opozniony]opóźniony (PL) : (p.) delayed; (p.) overdue
+[opoznic]opóźnić (PL) : (cz.) delay; (cz.) retard
+[opedzac]opędzać (PL) : (cz.) defray
+[opetanie]opętanie (PL) : (rz.) obsession
+[opetaniec]opętaniec (PL) : (rz.) fanatic
+[opetany]opętany (PL) : (p.) possessed
+[opetac]opętać (PL) : (cz.) obsess
+[opetanczy]opętańczy (PL) : (p.) daemonic; (p.) demoniac; (p.) demoniacal
+[opetywac]opętywać (PL) : (cz.) possess
+[oplacajacy]opłacający (PL) : (p.) remunerative
+[oplacalnosc]opłacalność (PL) : (rz.) payoff; (rz.) profitability
+[oplacalny]opłacalny (PL) : (p.) cost-effective; (p.) profitable; (p.) remunerative
+[oplacanie]opłacanie (PL) : (rz.) payment
+[oplacac]opłacać (PL) : (cz.) cash; (cz.) defray; (cz.) pay
+[oplacenie]opłacenie (PL) : (rz.) pay
+[oplacic]opłacić (PL) : (cz.) cash; (cz.) pay
+[oplakany]opłakany (PL) : (p.) deplorable; (p.) lamentable; (p.) regrettable
+[oplakiwanie]opłakiwanie (PL) : (rz.) bewailing
+[oplakiwac]opłakiwać (PL) : (cz.) bemoan; (cz.) bewail; (cz.) deplore; (cz.) lament; (cz.) mourn; (cz.) weep
+[oplata]opłata (PL) : (rz.) charge; (rz.) defrayal; (rz.) fare; (rz.) fee; (rz.) payment; (rz.) premium; (rz.) toll
+[oplatek]opłatek (PL) : (rz.) wafer
+[oplotek]opłotek (PL) : (rz.) hurdle
+[oplucna]opłucna (PL) : (rz.) pleura
+[oplucnowy]opłucnowy (PL) : (p.) pleural
+[oplukac]opłukać (PL) : (cz.) rinse
+[oplukiwac]opłukiwać (PL) : (cz.) lap
+[oplyniecie]opłynięcie (PL) : (rz.) circumnavigation
+[oplywac]opływać (PL) : (cz.) circumnavigate; (cz.) row
+[oplywowosc]opływowość (PL) : (rz.) streamlining
+[oplywowy]opływowy (PL) : (p.) streamlined
+[oracja]oracja (PL) : (rz.) oration
+[oracz]oracz (PL) : (rz.) ploughman
+[oralny]oralny (PL) : (p.) oral
+[orangutan]orangutan (PL) : (rz.) orang-utan
+[oranz]oranż (PL) : (rz.) orange
+[oranzada]oranżada (PL) : (rz.) orangeade
+[oranzeria]oranżeria (PL) : (rz.) conservatory; (rz.) hothouse
+[oratorium]oratorium (PL) : (rz.) oratorio; (rz.) oratory
+[oratorski]oratorski (PL) : (p.) oratorical
+[oratorstwo]oratorstwo (PL) : (rz.) eloquence; (rz.) oratory
+[oratoryjny]oratoryjny (PL) : (p.) oratorical
+[oraz]oraz (PL) : (spójnik) and
+[orac]orać (PL) : (cz.) furrow; (cz.) plough; (cz.) till
+[orbita]orbita (PL) : (rz.) orbit
+[orbitalny]orbitalny (PL) : (p.) orbital
+[orbitowanie]orbitowanie (PL) : (rz.) orbiting
+[orbitowac]orbitować (PL) : (cz.) orbit
+[orchidea]orchidea (PL) : (rz.) orchid
+[orczyca]orczyca (PL) : (rz.) evener
+[orczyk]orczyk (PL) : (rz.) brail; (rz.) whiffletree
+[orda]orda (PL) : (rz.) horde
+[order]order (PL) : (rz.) decoration
+[ordynacja]ordynacja (PL) : (rz.) law
+[ordynans]ordynans (PL) : (rz.) batman; (rz.) orderly
+[ordynariusz]ordynariusz (PL) : (rz.) ordinary
+[ordynarnie]ordynarnie (PL) : (p-sł.) coarsely; (p-sł.) outright; (p-sł.) roughly
+[ordynarnosc]ordynarność (PL) : (rz.) coarseness; (rz.) crudeness; (rz.) grossness; (rz.) rankness; (rz.) ribaldry
+[ordynarny]ordynarny (PL) : (p.) coarse; (p.) gross; (p.) offensive; (p.) ornery; (p.) raffish; (p.) rude; (p.) scurrilous; (p.) vulgar
+[ordynator]ordynator (PL) : (rz.) head
+[ordynowac]ordynować (PL) : (cz.) practice
+[ordynus]ordynus (PL) : (rz.) boor; (rz.) cad
+[organ]organ (PL) : (rz.) body; (rz.) organ
+[organdyna]organdyna (PL) : (rz.) organdie
+[organek]organek (PL) : (rz.) galley
+[organiczny]organiczny (PL) : (p.) organic
+[organista]organista (PL) : (rz.) organist
+[organizacja]organizacja (PL) : (rz.) establishment; (rz.) management; (rz.) organisation; (rz.) organization
+[organizacyjnie]organizacyjnie (PL) : (p-sł.) organisationally; (p-sł.) organizationally
+[organizacyjny]organizacyjny (PL) : (p.) organizational
+[organizator]organizator (PL) : (rz.) arranger; (rz.) manager; (rz.) marshal; (rz.) organizer; (rz.) promoter
+[organizatorski]organizatorski (PL) : (p.) organizational
+[organizm]organizm (PL) : (rz.) body; (rz.) organism; (rz.) system
+[organizowanie]organizowanie (PL) : (rz.) organisation; (rz.) organization
+[organizowac]organizować (PL) : (cz.) arrange; (cz.) organise; (cz.) organize; (cz.) sort; (cz.) stage
+[organki]organki (PL) : (rz.) mouth
+[organy]organy (PL) : (rz.) organ
+[orgazm]orgazm (PL) : (rz.) orgasm
+[orgia]orgia (PL) : (rz.) mutiny; (rz.) orgy; (rz.) saturnalia
+[orgiastyczny]orgiastyczny (PL) : (p.) orgiastic
+[orientacja]orientacja (PL) : (rz.) acumen; (rz.) alignment; (rz.) attitude; (rz.) discernment; (rz.) orientation
+[orientacyjny]orientacyjny (PL) : (p.) explorative
+[orientalny]orientalny (PL) : (p.) oriental
+[orientowanie]orientowanie (PL) : (rz.) orientation
+[orientowac]orientować (PL) : (cz.) align; (cz.) orientate
+[orka]orka (PL) : (rz.) tillage
+[orkan]orkan (PL) : (rz.) hurricane
+[orkiestra]orkiestra (PL) : (rz.) band; (rz.) orchestra
+[orkiestracja]orkiestracja (PL) : (rz.) orchestration
+[orkiestralny]orkiestralny (PL) : (p.) orchestral
+[orkiestrowac]orkiestrować (PL) : (cz.) orchestrate
+[orkiestrowy]orkiestrowy (PL) : (p.) orchestral
+[orli]orli (PL) : (p.) aquiline
+[orlik]orlik (PL) : (rz.) columbine
+[orlatko]orlątko (PL) : (rz.) eaglet
+[ornament]ornament (PL) : (rz.) dingbat; (rz.) ornament
+[ornamentacja]ornamentacja (PL) : (rz.) ornament; (rz.) ornamentation
+[ornamentacyjny]ornamentacyjny (PL) : (p.) ornamental
+[ornamentalny]ornamentalny (PL) : (p.) decorative; (p.) ornamental
+[ornamentowanie]ornamentowanie (PL) : (rz.) ornamentation
+[ornamentowy]ornamentowy (PL) : (p.) ornamental
+[ornamentyka]ornamentyka (PL) : (rz.) ornamentation; (rz.) ornaments
+[ornat]ornat (PL) : (rz.) chasuble; (rz.) vestment
+[ornitofauna]ornitofauna (PL) : (rz.) avifauna
+[ornitolog]ornitolog (PL) : (rz.) ornithologist
+[ornitologia]ornitologia (PL) : (rz.) ornithology
+[ornitologiczny]ornitologiczny (PL) : (p.) ornithological
+[orny]orny (PL) : (p.) arable
+[orosienie]orosienie (PL) : (rz.) reflux
+[orszak]orszak (PL) : (rz.) host; (rz.) procession; (rz.) retainer; (rz.) retainers; (rz.) retinue; (rz.) suite; (rz.) train
+[orsztyn]orsztyn (PL) : (rz.) hardpan
+[ortikon]ortikon (PL) : (rz.) orthicon
+[ortodoksja]ortodoksja (PL) : (rz.) orthodoxy
+[ortodoksyjny]ortodoksyjny (PL) : (p.) orthodox
+[ortodoncja]ortodoncja (PL) : (rz.) orthodontia; (rz.) orthodontics
+[ortodonta]ortodonta (PL) : (rz.) orthodontist
+[ortogonalny]ortogonalny (PL) : (p.) orthogonal
+[ortografia]ortografia (PL) : (rz.) orthography; (rz.) spelling
+[ortograficznie]ortograficznie (PL) : (p-sł.) correctly; (p-sł.) orthographically
+[ortograficzny]ortograficzny (PL) : (p.) correct; (p.) orthographic; (p.) orthographical
+[ortoklaz]ortoklaz (PL) : (rz.) orthoclase
+[ortopeda]ortopeda (PL) : (rz.) orthopaedist
+[ortopedyczny]ortopedyczny (PL) : (p.) orthopaedic
+[oryginalnie]oryginalnie (PL) : (p-sł.) originally
+[oryginalnosc]oryginalność (PL) : (rz.) originality; (rz.) quaintness
+[oryginalny]oryginalny (PL) : (p.) genuine; (p.) original; (p.) quaint
+[oryginal]oryginał (PL) : (rz.) dork; (rz.) individual; (rz.) kook; (rz.) original
+[orzech]orzech (PL) : (rz.) cashew; (rz.) nut; (rz.) walnut
+[orzechowy]orzechowy (PL) : (p.) nut-brown
+[orzechowka]orzechówka (PL) : (rz.) nutcracker; (rz.) nut-cracker
+[orzeczenie]orzeczenie (PL) : (rz.) judgement; (rz.) judgment; (rz.) predicate; (rz.) pronouncement; (rz.) ruling; (rz.) syndication
+[orzecznictwo]orzecznictwo (PL) : (rz.) jurisdiction
+[orzecznikowy]orzecznikowy (PL) : (p.) predicative
+[orzekac]orzekać (PL) : (cz.) predicate; (cz.) rule; (cz.) state
+[orzekniecie]orzeknięcie (PL) : (rz.) adjudication; (rz.) rule
+[orzesznik]orzesznik (PL) : (rz.) hickory
+[orzel]orzeł (PL) : (rz.) eagle
+[orzezwiac]orzeźwiać (PL) : (cz.) invigorate; (cz.) refresh
+[orzezwienie]orzeźwienie (PL) : (rz.) refresher; (rz.) refreshment
+[orzezwic]orzeźwić (PL) : (cz.) invigorate
+[oredowac]orędować (PL) : (cz.) advocate
+[oredownictwo]orędownictwo (PL) : (rz.) espousal
+[oredownik]orędownik (PL) : (rz.) advocate; (rz.) apostle; (rz.) barrister; (rz.) spokesman
+[oredzie]orędzie (PL) : (rz.) message; (rz.) proclamation
+[orez]oręż (PL) : (rz.) weapon
+[orzniecie]orżnięcie (PL) : (rz.) swindle
+[osa]osa (PL) : (rz.) wasp
+[osaczac]osaczać (PL) : (cz.) encircle
+[osaczenie]osaczenie (PL) : (rz.) encirclement
+[osad]osad (PL) : (rz.) debris; (rz.) deposit; (rz.) dreg; (rz.) dregs; (rz.) faeces; (rz.) lees; (rz.) residual; (rz.) residuum; (rz.) sediment; (rz.) settlings; (rz.) silt
+[osada]osada (PL) : (rz.) colony; (rz.) hamlet; (rz.) settlement
+[osadnictwo]osadnictwo (PL) : (rz.) colonization; (rz.) settlement
+[osadniczka]osadniczka (PL) : (rz.) settler
+[osadniczy]osadniczy (PL) : (p.) colonial
+[osadnik]osadnik (PL) : (rz.) colonist; (rz.) homesteader; (rz.) settler
+[osadowy]osadowy (PL) : (p.) alluvial; (p.) residual; (p.) sedimentary
+[osadzanie]osadzanie (PL) : (rz.) deposition; (rz.) sediment; (rz.) sedimentation
+[osadzac]osadzać (PL) : (cz.) commit; (cz.) embed; (cz.) mount; (cz.) precipitate; (cz.) reside; (cz.) settle
+[osadzenie]osadzenie (PL) : (rz.) deposition; (rz.) seating; (rz.) sediment; (rz.) set-back
+[osadzic]osadzić (PL) : (cz.) embed; (cz.) mount; (cz.) settle
+[osamotnienie]osamotnienie (PL) : (rz.) desolation; (rz.) isolation; (rz.) loneliness; (rz.) retirement; (rz.) seclusion; (rz.) solitude
+[osamotniony]osamotniony (PL) : (p.) retired
+[osamotnic]osamotnić (PL) : (cz.) desert
+[oschle]oschle (PL) : (p-sł.) coldly; (p-sł.) dryly
+[oschlosc]oschłość (PL) : (rz.) coldness
+[oschly]oschły (PL) : (p.) curt
+[oscylacja]oscylacja (PL) : (rz.) oscillation
+[oscylacje]oscylacje (PL) : (rz.) vibrations
+[oscylacyjny]oscylacyjny (PL) : (p.) oscillatory
+[oscylator]oscylator (PL) : (rz.) oscillator; (rz.) vibrator
+[oscyloskop]oscyloskop (PL) : (rz.) oscilloscope; (rz.) oscilloscopes
+[oscylowac]oscylować (PL) : (cz.) oscillate; (cz.) vibrate
+[oscylujacy]oscylujący (PL) : (p.) oscillatory
+[osesek]osesek (PL) : (rz.) nurseling; (rz.) nursling; (rz.) sucker; (rz.) suckling
+[oset]oset (PL) : (rz.) thistle
+[oselka]osełka (PL) : (rz.) burr; (rz.) grindstone; (rz.) hone; (rz.) whetstone
+[osiadanie]osiadanie (PL) : (rz.) settling; (rz.) subsidence
+[osiadac]osiadać (PL) : (cz.) settle; (cz.) sink; (cz.) subside
+[osiedlanie]osiedlanie (PL) : (rz.) settle; (rz.) settlement; (rz.) settling
+[osiedlac]osiedlać (PL) : (cz.) fix; (cz.) locate; (cz.) plant; (cz.) setting; (cz.) settle
+[osiedle]osiedle (PL) : (rz.) area; (rz.) estate; (rz.) settlement
+[osiedleniec]osiedleniec (PL) : (rz.) colonizer; (rz.) settler
+[osiedlic]osiedlić (PL) : (cz.) fix; (cz.) locate; (cz.) settle
+[osiemnasty]osiemnasty (PL) : (p.) eighteenth
+[osierdzie]osierdzie (PL) : (rz.) pericardium
+[osierocenie]osierocenie (PL) : (rz.) bereavement
+[osierocic]osierocić (PL) : (cz.) bereave; (cz.) bereft; (cz.) orphan
+[osika]osika (PL) : (rz.) asp; (rz.) aspen
+[osiowanie]osiowanie (PL) : (rz.) alignment
+[osiowac]osiować (PL) : (cz.) align
+[osiowo]osiowo (PL) : (p-sł.) axially
+[osiowy]osiowy (PL) : (p.) axial; (p.) pivotal
+[osiol]osioł (PL) : (rz.) ass; (rz.) burro; (rz.) donkey; (rz.) idol; (rz.) jackass
+[osiagalnosc]osiągalność (PL) : (rz.) attainability; (rz.) availability
+[osiagalny]osiągalny (PL) : (p.) accessible; (p.) achievable; (p.) approachable; (p.) attainable; (p.) available; (p.) get-at-able; (p.) obtainable; (p.) reachable; (p.) touchable
+[osiagac]osiągać (PL) : (cz.) accomplish; (cz.) achieve; (cz.) achieved; (cz.) acquire; (cz.) amount; (cz.) attain; (cz.) gain; (cz.) produce; (cz.) reach; (cz.) score
+[osiagi]osiągi (PL) : (rz.) performance
+[osiagniecie]osiągniecie (PL) : (rz.) achieving; (rz.) development
+[osiagniecie]osiągnięcie (PL) : (rz.) accomplishment; (rz.) achievement; (rz.) attainment
+[osiagnac]osiągnąć (PL) : (cz.) achieve; (cz.) acquire; (cz.) attain
+[osiasc]osiąść (PL) : (cz.) jam; (cz.) settle
+[osilek]osiłek (PL) : (rz.) bruiser
+[oskalpowac]oskalpować (PL) : (cz.) scalp
+[oskard]oskard (PL) : (rz.) mattock; (rz.) pickaxe; (rz.) pike
+[oskarzac]oskarżać (PL) : (cz.) accuse; (cz.) arraign; (cz.) asperse; (cz.) blame; (cz.) denounce; (cz.) impeach; (cz.) impute; (cz.) indict
+[oskarzenie]oskarżenie (PL) : (rz.) accusation; (rz.) arraignment; (rz.) charge; (rz.) denunciation; (rz.) impeachment; (rz.) imputation; (rz.) indictment
+[oskarzony]oskarżony (PL) : (p.) accused
+[oskarzyciel]oskarżyciel (PL) : (rz.) accuser; (rz.) plaintiff; (rz.) prosecutor
+[oskarzycielski]oskarżycielski (PL) : (p.) accusatory; (p.) accusing
+[oskarzyc]oskarżyć (PL) : (cz.) accuse; (cz.) impeach; (cz.) sue
+[oskrobanie]oskrobanie (PL) : (rz.) gilled
+[oskrobac]oskrobać (PL) : (cz.) scrape
+[oskrobywac]oskrobywać (PL) : (cz.) scrape
+[oskrzele]oskrzele (PL) : (rz.) bronchus
+[oskrzelik]oskrzelik (PL) : (rz.) bronchiole
+[oskrzelowy]oskrzelowy (PL) : (p.) bronchial
+[oskubac]oskubać (PL) : (cz.) deplume; (cz.) pluck
+[oskubywanie]oskubywanie (PL) : (rz.) deplumation
+[osm]osm (PL) : (rz.) osmium
+[osmagac]osmagać (PL) : (cz.) lash
+[osmalac]osmalać (PL) : (cz.) singe
+[osmalic]osmalić (PL) : (cz.) burn
+[osmarowac]osmarować (PL) : (cz.) smear
+[osmolic]osmolić (PL) : (cz.) dirty
+[osmotyczny]osmotyczny (PL) : (p.) osmotic
+[osmoza]osmoza (PL) : (rz.) osmosis
+[osnowa]osnowa (PL) : (rz.) contexture; (rz.) framework; (rz.) groundmass; (rz.) warp
+[osnuc]osnuć (PL) : (cz.) envelop
+[osoba]osoba (PL) : (rz.) character; (rz.) dropout; (rz.) hedger; (rz.) individual; (rz.) person; (rz.) persona; (rz.) persons; (rz.) stinger; (rz.) stunner
+[osobistosc]osobistość (PL) : (rz.) celebrity; (rz.) high-up; (rz.) personage; (rz.) personality
+[osobisty]osobisty (PL) : (p.) individual; (p.) peculiar; (p.) personal
+[osobiscie]osobiście (PL) : (p-sł.) peculiarly; (p-sł.) personally
+[osobliwie]osobliwie (PL) : (p-sł.) oddly; (p-sł.) peculiarly; (p-sł.) quaintly
+[osobliwosc]osobliwość (PL) : (rz.) curio; (rz.) curiosity; (rz.) oddity; (rz.) originality; (rz.) particularity; (rz.) peculiarity; (rz.) quaintness; (rz.) singularity; (rz.) technicality
+[osobliwy]osobliwy (PL) : (p.) curious; (p.) especial; (p.) individual; (p.) peculiar; (p.) quaint; (p.) singular
+[osobnik]osobnik (PL) : (rz.) individual; (rz.) pallbearer; (rz.) specimen
+[osobno]osobno (PL) : (p-sł.) alone; (p-sł.) apart; (p-sł.) separately; (p-sł.) severally
+[osobny]osobny (PL) : (p.) isolated; (p.) separate
+[osobowosc]osobowość (PL) : (rz.) character; (rz.) feature; (rz.) nature; (rz.) personage; (rz.) personality; (rz.) self; (rz.) singularity
+[osobowy]osobowy (PL) : (p.) personal
+[osocze]osocze (PL) : (rz.) plasma; (rz.) serum
+[osowialosc]osowiałość (PL) : (rz.) depression
+[ospa]ospa (PL) : (rz.) pox; (rz.) smallpox; (rz.) small-pox
+[ospale]ospale (PL) : (p-sł.) drowsily; (p-sł.) sluggishly
+[ospalosc]ospałość (PL) : (rz.) indolence; (rz.) languidness; (rz.) lethargy; (rz.) sloth
+[ospaly]ospały (PL) : (p.) drowsy; (p.) laggard; (p.) remiss; (p.) sluggish
+[ospowaty]ospowaty (PL) : (p.) pockmarked; (p.) pock-marked
+[osprzet]osprzęt (PL) : (rz.) accessories; (rz.) accessory; (rz.) equipment; (rz.) fixture; (rz.) hardware
+[ostaniec]ostaniec (PL) : (rz.) outlier
+[ostatecznie]ostatecznie (PL) : (p-sł.) eventually; (p-sł.) finally; (p-sł.) ultimately
+[ostatecznosc]ostateczność (PL) : (rz.) exigency; (rz.) extreme; (rz.) extremity; (rz.) finality
+[ostateczny]ostateczny (PL) : (p.) conclusive; (p.) definite; (p.) definitive; (p.) determinate; (p.) eventual; (p.) extreme; (p.) final; (p.) last-ditch; (p.) outermost; (p.) outmost; (p.) peremptory; (p.) terminable; (p.) ultimate; (p.) utmost
+[ostatek]ostatek (PL) : (rz.) remainder; (rz.) rest
+[ostatni]ostatni (PL) : (p.) endmost; (p.) final; (p.) hindmost; (p.) last; (p.) last-ditch; (p.) last-minute; (p.) late; (p.) latter; (p.) rearmost; (p.) recent
+[ostatnio]ostatnio (PL) : (p-sł.) last; (p-sł.) lately; (p-sł.) latterly; (p-sł.) newly; (p-sł.) recently
+[ostemplowanie]ostemplowanie (PL) : (rz.) stamp
+[ostemplowac]ostemplować (PL) : (cz.) postmark; (cz.) stamp
+[ostentacja]ostentacja (PL) : (rz.) display; (rz.) ostentation; (rz.) panache
+[ostentacyjnie]ostentacyjnie (PL) : (p-sł.) manifestly; (p-sł.) ostentatiously
+[ostentacyjny]ostentacyjny (PL) : (p.) ostentatious
+[osteopatia]osteopatia (PL) : (rz.) osteopathy
+[osteoporoza]osteoporoza (PL) : (rz.) osteoporosis
+[ostoja]ostoja (PL) : (rz.) backbone; (rz.) mainstay; (rz.) refuge
+[ostra]ostra (PL) : (rz.) retort
+[ostracyzm]ostracyzm (PL) : (rz.) ostracism
+[ostro]ostro (PL) : (p-sł.) keenly; (p-sł.) sharply
+[ostroga]ostroga (PL) : (rz.) carina; (rz.) groin; (rz.) spur
+[ostrokrzew]ostrokrzew (PL) : (rz.) holly
+[ostrokol]ostrokół (PL) : (rz.) palisade; (rz.) stockade
+[ostromlecz]ostromlecz (PL) : (rz.) euphorbia; (rz.) spurge
+[ostroslup]ostrosłup (PL) : (rz.) pyramid
+[ostrowlosy]ostrowłosy (PL) : (p.) wirehaired; (p.) wire-haired
+[ostrosc]ostrość (PL) : (rz.) abruptness; (rz.) acuity; (rz.) acuteness; (rz.) asperity; (rz.) chilliness; (rz.) focus; (rz.) poignancy; (rz.) severity; (rz.) sharper; (rz.) sharpness; (rz.) spiciness; (rz.) stridency; (rz.) stringency
+[ostrozen]ostrożeń (PL) : (rz.) thistle
+[ostroznie]ostrożnie (PL) : (p-sł.) carefully; (p-sł.) cautiously; (p-sł.) gingerly; (p-sł.) guardedly; (p-sł.) prudently; (p-sł.) warily
+[ostroznosc]ostrożność (PL) : (rz.) care; (rz.) carefulness; (rz.) caution; (rz.) cautiousness; (rz.) chariness; (rz.) circumspection; (rz.) foresight; (rz.) precaution; (rz.) providence; (rz.) stimulant; (rz.) wariness
+[ostrozny]ostrożny (PL) : (p.) cagey; (p.) careful; (p.) cautious; (p.) chary; (p.) circumspect; (p.) considerate; (p.) farsighted; (p.) far-sighted; (p.) heedful; (p.) leery; (p.) mindful; (p.) prospective; (p.) prudent; (p.) reserved; (p.) safe; (p.) scrupulous; (p.) shy; (p.) wary
+[ostrugac]ostrugać (PL) : (cz.) pare
+[ostry]ostry (PL) : (p.) acrid; (p.) acute; (p.) biting; (p.) hackly; (p.) hard; (p.) harsh; (p.) horny; (p.) hot; (p.) incisive; (p.) inclement; (p.) keen; (p.) keener; (p.) keenest; (p.) nippy; (p.) peppery; (p.) piercing; (p.) poignant; (p.) pointed; (p.) pungent; (p.) severe; (p.) sharp; (p.) short; (p.) shrewd; (p.) shrill; (p.) spicy; (p.) steep; (p.) strident; (p.) stringent; (p.) violent
+[ostryga]ostryga (PL) : (rz.) oyster
+[ostrygojad]ostrygojad (PL) : (rz.) oyster
+[ostryz]ostryż (PL) : (rz.) curcuma
+[ostrzarka]ostrzarka (PL) : (rz.) sharpener
+[ostrzal]ostrzał (PL) : (rz.) fire; (rz.) fusillade; (rz.) gunfire; (rz.) shelling
+[ostrze]ostrze (PL) : (rz.) arrowhead; (rz.) arrow-head; (rz.) bit; (rz.) blade; (rz.) edge; (rz.) knife-edge; (rz.) nib; (rz.) point; (rz.) spear; (rz.) spike; (rz.) warning
+[ostrzegacz]ostrzegacz (PL) : (rz.) points
+[ostrzeganie]ostrzeganie (PL) : (rz.) warning
+[ostrzegawczo]ostrzegawczo (PL) : (p-sł.) warningly
+[ostrzegawczy]ostrzegawczy (PL) : (p.) cautionary; (p.) monitory
+[ostrzegac]ostrzegać (PL) : (cz.) admonish; (cz.) alert; (cz.) caution; (cz.) warn
+[ostrzelac]ostrzelać (PL) : (cz.) strafeo
+[ostrzeliwanie]ostrzeliwanie (PL) : (rz.) shooting
+[ostrzeliwac]ostrzeliwać (PL) : (cz.) bombard; (cz.) fire; (cz.) rake; (cz.) strafe
+[ostrzezenie]ostrzeżenie (PL) : (rz.) admonition; (rz.) caution; (rz.) monition; (rz.) notice; (rz.) premonition; (rz.) warning
+[ostrzyc]ostrzyc (PL) : (rz.) clip; (rz.) shear
+[ostrzyc]ostrzyć (PL) : (cz.) edge; (cz.) hone; (cz.) point; (cz.) poll; (cz.) sharpen; (cz.) strop; (cz.) whet; (cz.) whittle
+[ostrzyzenie]ostrzyżenie (PL) : (rz.) clip; (rz.) haircut
+[ostrog]ostróg (PL) : (rz.) donjon; (rz.) groins
+[ostrow]ostrów (PL) : (rz.) islet
+[ostrozka]ostróżka (PL) : (rz.) delphinium; (rz.) larkspur
+[ostudzac]ostudzać (PL) : (cz.) cool; (cz.) quench
+[ostudzenie]ostudzenie (PL) : (rz.) cooling
+[ostudzic]ostudzić (PL) : (cz.) cool; (cz.) quench
+[ostygac]ostygać (PL) : (cz.) cool
+[ostygniecie]ostygnięcie (PL) : (rz.) cool
+[osuszacz]osuszacz (PL) : (rz.) dehumidifier; (rz.) desiccant; (rz.) dryer
+[osuszanie]osuszanie (PL) : (rz.) dehumidification; (rz.) desiccation; (rz.) drainage
+[osuszac]osuszać (PL) : (cz.) dehumidify; (cz.) drain; (cz.) exsiccate
+[osuszenie]osuszenie (PL) : (rz.) desiccation
+[osuszyc]osuszyć (PL) : (cz.) dry
+[osuwanie]osuwanie (PL) : (rz.) landslides; (rz.) subsidence
+[osuwac]osuwać (PL) : (cz.) slump; (cz.) subside
+[osuwisko]osuwisko (PL) : (rz.) event; (rz.) landslide; (rz.) landslip
+[oswajalny]oswajalny (PL) : (p.) tameable
+[oswajac]oswajać (PL) : (cz.) domesticate; (cz.) tame
+[oswobodzenie]oswobodzenie (PL) : (rz.) deliverance; (rz.) liberation; (rz.) release
+[oswobodziciel]oswobodziciel (PL) : (rz.) liberator
+[oswobodzic]oswobodzić (PL) : (cz.) liberate
+[oswoic]oswoić (PL) : (cz.) domesticate; (cz.) tame
+[oswojenie]oswojenie (PL) : (rz.) domestication; (rz.) domesticity
+[oswojony]oswojony (PL) : (p.) tame
+[osypac]osypać (PL) : (cz.) spill
+[osypisko]osypisko (PL) : (rz.) rubble; (rz.) talus
+[oszachrowac]oszachrować (PL) : (cz.) cheat
+[oszacowanie]oszacowanie (PL) : (rz.) appraisal; (rz.) appraisement; (rz.) appreciation; (rz.) assessment; (rz.) conservative; (rz.) estimate; (rz.) estimation; (rz.) evaluation; (rz.) extent; (rz.) rating; (rz.) valuation
+[oszacowac]oszacować (PL) : (cz.) appraise; (cz.) appreciate; (cz.) assess; (cz.) estimate; (cz.) evaluate
+[oszacowywac]oszacowywać (PL) : (cz.) estimated
+[oszalaly]oszalały (PL) : (p.) frantic
+[oszalec]oszaleć (PL) : (cz.) craze; (cz.) infatuate; (cz.) infuriate; (cz.) infuriated
+[oszalowanie]oszalowanie (PL) : (rz.) crib; (rz.) hoarding; (rz.) timbering
+[oszalowac]oszalować (PL) : (cz.) board
+[oszalamianie]oszałamianie (PL) : (rz.) stagger
+[oszalamiac]oszałamiać (PL) : (cz.) bemuse; (cz.) benumb; (cz.) bewilder; (cz.) daze; (cz.) dazzle; (cz.) dumbfound; (cz.) fluster; (cz.) intoxicate; (cz.) maze; (cz.) stun; (cz.) stupefy
+[oszancowanie]oszańcowanie (PL) : (rz.) entrenchment; (rz.) retrenchment
+[oszancowac]oszańcować (PL) : (cz.) entrench
+[oszczekac]oszczekać (PL) : (cz.) slander
+[oszczenic]oszczenić (PL) : (cz.) whelp
+[oszczep]oszczep (PL) : (rz.) dart; (rz.) javelin; (rz.) spear
+[oszczepnik]oszczepnik (PL) : (rz.) spearman
+[oszczerca]oszczerca (PL) : (rz.) backbiter; (rz.) calumniator; (rz.) defamer; (rz.) detractor; (rz.) libeller; (rz.) scandalmonger; (rz.) slanderer
+[oszczerczy]oszczerczy (PL) : (p.) calumnious; (p.) defamatory; (p.) libellous; (p.) slanderous
+[oszczerstwo]oszczerstwo (PL) : (rz.) aspersion; (rz.) calumny; (rz.) libel; (rz.) scandal; (rz.) slander; (rz.) slur
+[oszczednie]oszczędnie (PL) : (p-sł.) economically; (p-sł.) frugally; (p-sł.) sparely; (p-sł.) sparingly
+[oszczednosci]oszczędności (PL) : (rz.) savings
+[oszczednosc]oszczędność (PL) : (rz.) chariness; (rz.) economizer; (rz.) economy; (rz.) frugality; (rz.) nearness; (rz.) parsimony; (rz.) providence; (rz.) savings; (rz.) thrift; (rz.) thriftiness
+[oszczedny]oszczędny (PL) : (p.) cost-effective; (p.) economic; (p.) economical; (p.) frugal; (p.) nimble; (p.) parsimonious; (p.) provident; (p.) saving; (p.) sparing; (p.) thrifty
+[oszczedzac]oszczędzać (PL) : (cz.) economize; (cz.) save; (cz.) skimp; (cz.) spar; (cz.) spare
+[oszczedzic]oszczędzić (PL) : (cz.) save; (cz.) spar
+[oszkalowac]oszkalować (PL) : (cz.) calumniate
+[oszklenie]oszklenie (PL) : (rz.) glass
+[oszklic]oszklić (PL) : (cz.) glaze
+[oszolamiajacy]oszołamiający (PL) : (p.) intoxicant
+[oszolamiac]oszołamiać (PL) : (cz.) stun
+[oszolom]oszołom (PL) : (rz.) fanatic
+[oszolomienie]oszołomienie (PL) : (rz.) alarm; (rz.) bewilderment; (rz.) intoxication; (rz.) maze; (rz.) stupefaction
+[oszolomiony]oszołomiony (PL) : (p.) numb; (p.) tipsy
+[oszolomic]oszołomić (PL) : (cz.) benumb; (cz.) bewilder; (cz.) daze; (cz.) dumbfound; (cz.) intoxicate; (cz.) maze; (cz.) stun; (cz.) stupefy
+[oszpecac]oszpecać (PL) : (cz.) disfigure
+[oszpecenie]oszpecenie (PL) : (rz.) disfigurement
+[oszpecic]oszpecić (PL) : (cz.) deform
+[oszronienie]oszronienie (PL) : (rz.) frosting
+[oszukanie]oszukanie (PL) : (rz.) beguilement
+[oszukac]oszukać (PL) : (cz.) befoul; (cz.) betray; (cz.) bilk; (cz.) cheat; (cz.) defraud; (cz.) dupe; (cz.) fool; (cz.) hoodwink; (cz.) jockey; (cz.) mountebank; (cz.) screw
+[oszukanczo]oszukańczo (PL) : (p-sł.) fraudulently
+[oszukanczy]oszukańczy (PL) : (p.) bogus; (p.) crooked; (p.) deceitful; (p.) deceptive; (p.) delusive; (p.) fraudulent; (p.) trumpery; (p.) underhand
+[oszukanstwo]oszukaństwo (PL) : (rz.) deceitfulness
+[oszukiwanie]oszukiwanie (PL) : (rz.) deceit
+[oszukiwac]oszukiwać (PL) : (cz.) adulterate; (cz.) befoul; (cz.) beguile; (cz.) betray; (cz.) bluff; (cz.) cheat; (cz.) deceive; (cz.) defraud; (cz.) dupe; (cz.) fake; (cz.) fool; (cz.) gouge; (cz.) impose; (cz.) jockey; (cz.) rook; (cz.) swindle; (cz.) trick
+[oszust]oszust (PL) : (rz.) beguiler; (rz.) cheat; (rz.) cheater; (rz.) crook; (rz.) deceiver; (rz.) duper; (rz.) faker; (rz.) fiddler; (rz.) fraud; (rz.) humbug; (rz.) impostor; (rz.) juggler; (rz.) racketeer; (rz.) rook; (rz.) shark; (rz.) sharper; (rz.) swindler; (rz.) trickster
+[oszustwo]oszustwo (PL) : (rz.) bluff; (rz.) cheat; (rz.) deceit; (rz.) deception; (rz.) delusion; (rz.) dishonesty; (rz.) eyewash; (rz.) fake; (rz.) fraud; (rz.) gammon; (rz.) guile; (rz.) hanky-panky; (rz.) humbug; (rz.) imposition; (rz.) imposture; (rz.) juggler; (rz.) rig; (rz.) swindle; (rz.) take-in; (rz.) trickery
+[oszwabic]oszwabić (PL) : (cz.) chisel
+[osaczac]osączać (PL) : (cz.) encircle
+[osad]osąd (PL) : (rz.) adjudication; (rz.) censure; (rz.) discretion; (rz.) judgement; (rz.) judgment
+[osadzac]osądzać (PL) : (cz.) adjudge; (cz.) doom; (cz.) forejudge; (cz.) judge
+[osadzenie]osądzenie (PL) : (rz.) judgment
+[osadzic]osądzić (PL) : (cz.) adjudge; (cz.) doom; (cz.) judge
+[osek]osęk (PL) : (rz.) fish-gig
+[oseka]osęka (PL) : (rz.) boathook; (rz.) boat-hook; (rz.) gaff
+[oslabiacz]osłabiacz (PL) : (rz.) reducer
+[oslabianie]osłabianie (PL) : (rz.) enervation
+[oslabiac]osłabiać (PL) : (cz.) abate; (cz.) allay; (cz.) attenuate; (cz.) cripple; (cz.) debilitate; (cz.) dilute; (cz.) emasculate; (cz.) enervate; (cz.) enfeeble; (cz.) eviscerate; (cz.) extenuate; (cz.) impair; (cz.) relax; (cz.) remit; (cz.) sap; (cz.) sicken; (cz.) slake; (cz.) subdue; (cz.) unnerve; (cz.) vitiate; (cz.) weaken
+[oslabienie]osłabienie (PL) : (rz.) attenuation; (rz.) enervation; (rz.) impairment; (rz.) labefaction; (rz.) languor; (rz.) qualm; (rz.) relaxation; (rz.) remission; (rz.) weakness
+[oslabiony]osłabiony (PL) : (p.) languid; (p.) notorious
+[oslabic]osłabić (PL) : (cz.) allay; (cz.) cripple; (cz.) debilitate; (cz.) enervate; (cz.) eviscerate; (cz.) impair; (cz.) relax; (cz.) remit; (cz.) sicken; (cz.) unnerve; (cz.) weaken
+[oslabniecie]osłabnięcie (PL) : (rz.) viability
+[oslabnac]osłabnąć (PL) : (cz.) abate; (cz.) subside; (cz.) unbend; (cz.) weaken
+[osladzac]osładzać (PL) : (cz.) cheer; (cz.) sugar
+[oslanianie]osłanianie (PL) : (rz.) screening
+[oslaniac]osłaniać (PL) : (cz.) becalm; (cz.) debilitate; (cz.) enshroud; (cz.) guard; (cz.) screen; (cz.) sheathe; (cz.) shield
+[osloda]osłoda (PL) : (rz.) comfort; (rz.) solace
+[oslodzic]osłodzić (PL) : (cz.) gild; (cz.) sugar
+[oslona]osłona (PL) : (rz.) apron; (rz.) bonnet; (rz.) cloak; (rz.) cover; (rz.) cowl; (rz.) cowling; (rz.) defence; (rz.) fender; (rz.) guard; (rz.) housing; (rz.) jacket; (rz.) lee; (rz.) mantle; (rz.) muff; (rz.) overcoat; (rz.) protection; (rz.) safety; (rz.) screen; (rz.) sheath; (rz.) shelter; (rz.) shield; (rz.) shroud; (rz.) tilt; (rz.) visor; (rz.) volute; (rz.) wrapper
+[oslonic]osłonić (PL) : (cz.) becalm; (cz.) shield
+[oslonka]osłonka (PL) : (rz.) aril; (rz.) skin
+[oslonny]osłonny (PL) : (p.) protective
+[oslonowy]osłonowy (PL) : (p.) protective
+[osluchanie]osłuchanie (PL) : (rz.) auscultation; (rz.) familiarization
+[osluchiwanie]osłuchiwanie (PL) : (rz.) auscultation
+[oslupienie]osłupienie (PL) : (rz.) amazement; (rz.) bewilderment; (rz.) stupefaction; (rz.) stupor
+[oslupiec]osłupieć (PL) : (cz.) petrify
+[otaczanie]otaczanie (PL) : (rz.) encirclements
+[otaczac]otaczać (PL) : (cz.) beset; (cz.) besiege; (cz.) circle; (cz.) encircle; (cz.) enclose; (cz.) encompass; (cz.) enfold; (cz.) entrench; (cz.) environ; (cz.) surround
+[otaksowac]otaksować (PL) : (cz.) assess; (cz.) evaluate
+[otamowac]otamować (PL) : (cz.) dyke
+[otarcie]otarcie (PL) : (rz.) abrasion; (rz.) attrition
+[otchlanny]otchłanny (PL) : (p.) cavernous
+[otchlan]otchłań (PL) : (rz.) abyss; (rz.) chasm; (rz.) depth; (rz.) gulf; (rz.) limbo
+[otoczak]otoczak (PL) : (rz.) boulder; (rz.) cobble; (rz.) pebble
+[otoczenie]otoczenie (PL) : (rz.) ambience; (rz.) encirclement; (rz.) entourage; (rz.) environment; (rz.) milieu; (rz.) neighbourhood; (rz.) scene; (rz.) selling; (rz.) setting; (rz.) surroundings; (rz.) vicinity
+[otoczka]otoczka (PL) : (rz.) areola; (rz.) envelope; (rz.) hull
+[otoczony]otoczony (PL) : (p.) rimmed
+[otoczyc]otoczyć (PL) : (cz.) beset; (cz.) enclose; (cz.) encrust; (cz.) lap; (cz.) surround
+[otok]otok (PL) : (rz.) rim
+[otologia]otologia (PL) : (rz.) otology
+[otrucie]otrucie (PL) : (rz.) poisoning
+[otruc]otruć (PL) : (cz.) poison
+[otrzepac]otrzepać (PL) : (cz.) flick
+[otrzewna]otrzewna (PL) : (rz.) peritoneum
+[otrzec]otrzeć (PL) : (cz.) abrade
+[otrzezwienie]otrzeźwienie (PL) : (rz.) disillusion
+[otrzezwic]otrzeźwić (PL) : (cz.) sober
+[otrzymanie]otrzymanie (PL) : (rz.) receipt
+[otrzymac]otrzymać (PL) : (cz.) get; (cz.) got; (cz.) obtain; (cz.) receive; (cz.) touch
+[otrzymywac]otrzymywać (PL) : (cz.) get; (cz.) obtain; (cz.) qualify; (cz.) receive
+[otrabki]otrąbki (PL) : (rz.) pollard
+[otreby]otręby (PL) : (rz.) bran
+[otucha]otucha (PL) : (rz.) comfort; (rz.) courage; (rz.) reassurance; (rz.) uplift
+[otulac]otulać (PL) : (cz.) enfold; (cz.) envelop; (cz.) fold; (cz.) muffle; (cz.) tuck
+[otulina]otulina (PL) : (rz.) cover; (rz.) lag
+[otulic]otulić (PL) : (cz.) enfold; (cz.) muffle
+[otumaniac]otumaniać (PL) : (cz.) dupe
+[otumanienie]otumanienie (PL) : (rz.) haze
+[otwarcie]otwarcie (PL) : (rz.) opening
+[otwartosc]otwartość (PL) : (rz.) amicability; (rz.) candour; (rz.) frankness; (rz.) openness
+[otwarty]otwarty (PL) : (p.) candid; (p.) ingenuous; (p.) open; (p.) open-end; (p.) open-ended; (p.) outgoing; (p.) outright; (p.) outspoken; (p.) overt; (p.) patent
+[otwarty-zamkniety]otwarty-zamknięty (PL) : (p.) open-closed
+[otwieracz]otwieracz (PL) : (rz.) opener; (rz.) tin-opener
+[otwierac]otwierać (PL) : (cz.) open; (cz.) unlock
+[otworek]otworek (PL) : (rz.) aperture; (rz.) eyelet; (rz.) stoma
+[otwornica]otwornica (PL) : (rz.) foraminifer
+[otworzyc]otworzyć (PL) : (cz.) broach; (cz.) open; (cz.) unclasp; (cz.) unfasten; (cz.) unlatch; (cz.) unlock
+[otwor]otwór (PL) : (rz.) aperture; (rz.) bore; (rz.) cavity; (rz.) foramen; (rz.) gap; (rz.) gape; (rz.) hole; (rz.) inlet; (rz.) opening; (rz.) orifice; (rz.) peephole; (rz.) perforation; (rz.) slot; (rz.) socket; (rz.) vent
+[otylosc]otyłość (PL) : (rz.) fatness; (rz.) obesity; (rz.) overweight; (rz.) stoutness
+[otyly]otyły (PL) : (p.) corpulent; (p.) obese
+[otepienie]otępienie (PL) : (rz.) senility; (rz.) stupor
+[owacja]owacja (PL) : (rz.) applause; (rz.) ovation
+[owacyjny]owacyjny (PL) : (p.) enthusiastic
+[owad]owad (PL) : (rz.) insect
+[owadobojczy]owadobójczy (PL) : (p.) insecticidal
+[owadoznawstwo]owadoznawstwo (PL) : (rz.) entomology
+[owadozerca]owadożerca (PL) : (rz.) insectivore
+[owadozerny]owadożerny (PL) : (p.) insectivorous
+[owady]owady (PL) : (rz.) insects
+[owak]owak (PL) : (p-sł.) otherwise
+[owal]owal (PL) : (rz.) oval
+[owalny]owalny (PL) : (p.) oval
+[owca]owca (PL) : (rz.) ewe; (rz.) sheep
+[owczarek]owczarek (PL) : (rz.) sheepdog; (rz.) sheep-dog
+[owczarnia]owczarnia (PL) : (rz.) flock; (rz.) fold; (rz.) sheepfold; (rz.) sheep-fold
+[owczarstwo]owczarstwo (PL) : (rz.) sheep-farming
+[owczarz]owczarz (PL) : (rz.) shepherd
+[owczy]owczy (PL) : (p.) ovine; (p.) sheepish
+[owiac]owiać (PL) : (cz.) enwrap
+[owies]owies (PL) : (rz.) oat; (rz.) oats
+[owiewek]owiewek (PL) : (rz.) fairing
+[owiewka]owiewka (PL) : (rz.) deflector; (rz.) fairing
+[owijacz]owijacz (PL) : (rz.) puttee; (rz.) wrapper
+[owijac]owijać (PL) : (cz.) entwine; (cz.) envelop; (cz.) enwrap; (cz.) implicate; (cz.) muffle; (cz.) shroud; (cz.) swaddle; (cz.) swathe; (cz.) twine; (cz.) twist; (cz.) wrap
+[owinac]owinąć (PL) : (cz.) muffle; (cz.) wrap
+[owoc]owoc (PL) : (rz.) fruit; (rz.) fruitage; (rz.) rowan
+[owocnia]owocnia (PL) : (rz.) core
+[owocnie]owocnie (PL) : (p-sł.) fruitfully
+[owocnik]owocnik (PL) : (rz.) fructification
+[owocny]owocny (PL) : (p.) fruitful
+[owocobranie]owocobranie (PL) : (rz.) gathering
+[owocolistek]owocolistek (PL) : (rz.) carpel
+[owoconosny]owoconośny (PL) : (p.) fructiferous
+[owocowanie]owocowanie (PL) : (rz.) fructification; (rz.) fruitage; (rz.) fruit-bearing
+[owocowac]owocować (PL) : (cz.) fructify; (cz.) fruit; (cz.) result
+[owocowy]owocowy (PL) : (p.) fruity
+[owocujacy]owocujący (PL) : (p.) fruitful
+[owodnia]owodnia (PL) : (rz.) amnion
+[owodniowy]owodniowy (PL) : (p.) amniotic
+[owrzodzenie]owrzodzenie (PL) : (rz.) sore; (rz.) ulcer; (rz.) ulceration
+[owsianka]owsianka (PL) : (rz.) burgoo; (rz.) oatmeal; (rz.) porridge
+[owsiany]owsiany (PL) : (p.) oaten
+[owsik]owsik (PL) : (rz.) pinworm; (rz.) threadworm; (rz.) thread-worm
+[owulacja]owulacja (PL) : (rz.) ovulation
+[owladnac]owładnąć (PL) : (cz.) pervade
+[owlosienie]owłosienie (PL) : (rz.) coat; (rz.) hair
+[ozdabianie]ozdabianie (PL) : (rz.) garnish; (rz.) trim
+[ozdabiac]ozdabiać (PL) : (cz.) adorn; (cz.) decorate; (cz.) embellish
+[ozdoba]ozdoba (PL) : (rz.) adornment; (rz.) apparel; (rz.) attire; (rz.) bullion; (rz.) decoration; (rz.) dingbat; (rz.) finery; (rz.) garnish; (rz.) ornament; (rz.) ornamentation; (rz.) tassel; (rz.) trinket
+[ozdobic]ozdobić (PL) : (cz.) decorate
+[ozdobnie]ozdobnie (PL) : (p-sł.) decoratively; (p-sł.) ornamentally
+[ozdobnik]ozdobnik (PL) : (rz.) embellishment; (rz.) ornament
+[ozdobny]ozdobny (PL) : (p.) dashing; (p.) decorative; (p.) fancy; (p.) florid; (p.) high-wrought; (p.) ornamental; (p.) ornate
+[ozdrowieniec]ozdrowieniec (PL) : (rz.) convalescent
+[ozdrowiec]ozdrowieć (PL) : (cz.) cure
+[ozdobka]ozdóbka (PL) : (rz.) bauble; (rz.) gewgaw; (rz.) knickknack; (rz.) knick-knack; (rz.) trinket
+[oziebiacz]oziębiacz (PL) : (rz.) cooler
+[oziebianie]oziębianie (PL) : (rz.) refrigeration
+[oziebiac]oziębiać (PL) : (cz.) chill; (cz.) cool
+[oziebienie]oziębienie (PL) : (rz.) cooling; (rz.) refrigeration
+[oziebic]oziębić (PL) : (cz.) chill
+[ozieble]ozięble (PL) : (p-sł.) coldly
+[ozieblosc]oziębłość (PL) : (rz.) cold; (rz.) coldness; (rz.) frigidity; (rz.) frigidness; (rz.) frostiness
+[oziebly]oziębły (PL) : (p.) frigid
+[oznaczanie]oznaczanie (PL) : (rz.) assay; (rz.) determination; (rz.) marking; (rz.) notation
+[oznaczac]oznaczać (PL) : (cz.) amount; (cz.) betoken; (cz.) connote; (cz.) denote; (cz.) designate; (cz.) import; (cz.) indicate; (cz.) mark; (cz.) mean; (cz.) purport; (cz.) signify; (cz.) spell; (cz.) tally; (cz.) tick
+[oznaczenie]oznaczenie (PL) : (rz.) assay; (rz.) denotation; (rz.) designation; (rz.) designator; (rz.) determination; (rz.) indication; (rz.) mark; (rz.) sign
+[oznacznik]oznacznik (PL) : (rz.) designator; (rz.) tag
+[oznaczony]oznaczony (PL) : (p.) determinate; (p.) marked
+[oznaczyc]oznaczyć (PL) : (cz.) appoint; (cz.) assay; (cz.) indicate; (cz.) mark; (cz.) signify; (cz.) tag
+[oznajmiac]oznajmiać (PL) : (cz.) announce; (cz.) betoken; (cz.) declare; (cz.) intimate; (cz.) notify; (cz.) state
+[oznajmienie]oznajmienie (PL) : (rz.) announcement; (rz.) annunciation; (rz.) declaration
+[oznajmic]oznajmić (PL) : (cz.) announce; (cz.) intimate
+[oznaka]oznaka (PL) : (rz.) badge; (rz.) emblem; (rz.) evidence; (rz.) hallmark; (rz.) hall-mark; (rz.) indication; (rz.) indicator; (rz.) mark; (rz.) portent; (rz.) sign; (rz.) stamp; (rz.) token
+[oznakowanie]oznakowanie (PL) : (rz.) label; (rz.) marking; (rz.) signpost
+[oznakowac]oznakować (PL) : (cz.) mark
+[oznakowywac]oznakowywać (PL) : (cz.) label
+[ozon]ozon (PL) : (rz.) ozone
+[ozonosfera]ozonosfera (PL) : (rz.) ozonosphere
+[ozorek]ozorek (PL) : (rz.) tongue
+[ozor]ozór (PL) : (rz.) tongue
+[olowiany]ołowiany (PL) : (p.) leaded; (p.) leaden; (p.) leady
+[olowiowanie]ołowiowanie (PL) : (rz.) lead; (rz.) leading
+[olowiowany]ołowiowany (PL) : (p.) lead-coated
+[olowiowy]ołowiowy (PL) : (p.) leaded; (p.) saturnine
+[oltarz]ołtarz (PL) : (rz.) altar
+[oltarzyk]ołtarzyk (PL) : (rz.) ohm
+[olow]ołów (PL) : (rz.) lead; (rz.) leash; (rz.) plumb
+[olowek]ołówek (PL) : (rz.) pencil
+[os]oś (PL) : (rz.) axis; (rz.) axle; (rz.) pivot; (rz.) staff
+[oscienny]ościenny (PL) : (p.) conterminous; (p.) neighbouring
+[oscien]oścień (PL) : (rz.) goad; (rz.) prod
+[oscieze]ościeże (PL) : (rz.) jamb
+[oscieznica]ościeżnica (PL) : (rz.) frame; (rz.) jamb
+[oscisty]ościsty (PL) : (p.) bony
+[oska]ośka (PL) : (rz.) axle
+[oslepiac]oślepiać (PL) : (cz.) bedazzle; (cz.) blind; (cz.) dazzle
+[oslepic]oślepić (PL) : (cz.) blind
+[oslepniecie]oślepnięcie (PL) : (rz.) blindness
+[osli]ośli (PL) : (p.) asinine
+[osliniac]ośliniać (PL) : (cz.) salivate; (cz.) slobber
+[oslinic]oślinić (PL) : (cz.) salivate; (cz.) slobber
+[osmielac]ośmielać (PL) : (cz.) dare; (cz.) embolden; (cz.) encourage; (cz.) nerve; (cz.) presume
+[osmielic]ośmielić (PL) : (cz.) dare; (cz.) presume
+[osmieszac]ośmieszać (PL) : (cz.) lampoon; (cz.) ridicule; (cz.) stultify
+[osmiobok]ośmiobok (PL) : (rz.) octagon
+[osmiokrotnie]ośmiokrotnie (PL) : (p-sł.) eightfold
+[osmiokrotny]ośmiokrotny (PL) : (p.) eightfold
+[osmiokat]ośmiokąt (PL) : (rz.) octagon; (rz.) octahedron
+[osmiokatny]ośmiokątny (PL) : (p.) octagonal
+[osmiornica]ośmiornica (PL) : (rz.) octopus
+[osmiowiersz]ośmiowiersz (PL) : (rz.) octave
+[osmioscian]ośmiościan (PL) : (rz.) octahedron
+[osmioscienny]ośmiościenny (PL) : (p.) octahedral
+[osnik]ośnik (PL) : (rz.) drawknife; (rz.) shave
+[osrodek]ośrodek (PL) : (rz.) centre; (rz.) media; (rz.) site
+[osrodkowy]ośrodkowy (PL) : (p.) central
+[oswiadczac]oświadczać (PL) : (cz.) avow; (cz.) declare; (cz.) profess; (cz.) pronounce; (cz.) propose; (cz.) state; (cz.) vouch
+[oswiadczenie]oświadczenie (PL) : (rz.) affirmation; (rz.) announcement; (rz.) asseveration; (rz.) axis; (rz.) declaration; (rz.) lodge; (rz.) pleading; (rz.) presentment; (rz.) profession; (rz.) protestation; (rz.) statement; (rz.) testimony
+[oswiadczyny]oświadczyny (PL) : (rz.) declaration; (rz.) marriage; (rz.) proposal
+[oswiadczyc]oświadczyć (PL) : (cz.) asseverate; (cz.) declare; (cz.) enunciate; (cz.) propose; (cz.) state
+[oswiata]oświata (PL) : (rz.) education
+[oswiatowy]oświatowy (PL) : (p.) educational
+[oswiecac]oświecać (PL) : (cz.) enlighten; (cz.) illuminate; (cz.) illumine; (cz.) irradiate; (cz.) lighten
+[oswiecenie]oświecenie (PL) : (rz.) enlightenment; (rz.) illumination
+[oswiecic]oświecić (PL) : (cz.) enlighten; (cz.) lighten
+[oswietlacz]oświetlacz (PL) : (rz.) illuminator
+[oswietlac]oświetlać (PL) : (cz.) illuminate; (cz.) light; (cz.) lighten
+[oswietlenie]oświetlenie (PL) : (rz.) illumination; (rz.) irradiation; (rz.) lighting
+[oswietlic]oświetlić (PL) : (cz.) light
+[osc]ość (PL) : (rz.) bone; (rz.) fishbone; (rz.) fish-bone
+[ozrebic]oźrebić (PL) : (cz.) foal
+[ozaglowanie]ożaglowanie (PL) : (rz.) rig; (rz.) sail
+[ozebrowanie]ożebrowanie (PL) : (rz.) ribbing
+[ozenek]ożenek (PL) : (rz.) match
+[ozenic]ożenić (PL) : (cz.) marry
+[ozyna]ożyna (PL) : (rz.) blackberry
+[ozywczy]ożywczy (PL) : (p.) crisp; (p.) crispy; (p.) invigorating; (p.) resuscitative
+[ozywiac]ożywiać (PL) : (cz.) activate; (cz.) animate; (cz.) awaken; (cz.) brighten; (cz.) enliven; (cz.) exhilarate; (cz.) inspirit; (cz.) invigorate; (cz.) liven; (cz.) perk; (cz.) prompt; (cz.) quicken; (cz.) raise; (cz.) reanimate; (cz.) recall; (cz.) rekindle; (cz.) resuscitate; (cz.) revitalize; (cz.) revive; (cz.) rouse; (cz.) smarten; (cz.) vitalize; (cz.) waken
+[ozywienie]ożywienie (PL) : (rz.) activity; (rz.) agitation; (rz.) animation; (rz.) boom; (rz.) boost; (rz.) briskness; (rz.) effervescence; (rz.) liveliness; (rz.) recovery; (rz.) revitalization; (rz.) revival; (rz.) revivification; (rz.) vivacity
+[ozywiony]ożywiony (PL) : (p.) animate; (p.) heated; (p.) spirited
+[ozywic]ożywić (PL) : (cz.) activate; (cz.) boost; (cz.) brighten; (cz.) inspirit; (cz.) liven; (cz.) prompt; (cz.) quicken; (cz.) reanimate; (cz.) revitalize; (cz.) waken
+[ozyc]ożyć (PL) : (cz.) rally; (cz.) resuscitate
+[ozog]ożóg (PL) : (rz.) brand
+[osemkowo-dwojkowy]ósemkowo-dwójkowy (PL) : (p.) octal-to-binary
+[osemkowo-szesnastkowy]ósemkowo-szesnastkowy (PL) : (p.) octal-to-hexadecimal
+[osemkowy]ósemkowy (PL) : (p.) octal
+[osmy]ósmy (PL) : (p.) eighth
+[owczesny]ówczesny (PL) : (p.) contemporary; (p.) onetime

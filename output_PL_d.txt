@@ -1,0 +1,1985 @@
+[daniel]Daniel (PL) : (rz.) Daniel
+[dawid]Dawid (PL) : (rz.) Dave; (rz.) David
+[diana]Diana (PL) : (rz.) Diana
+[dominik]Dominik (PL) : (rz.) Dominic
+[dorota]Dorota (PL) : (rz.) Dorothy
+[dach]dach (PL) : (rz.) roof; (rz.) rooftop
+[dacharz]dacharz (PL) : (rz.) roofer
+[dachowiec]dachowiec (PL) : (rz.) roofer
+[dachowka]dachówka (PL) : (rz.) roof-tile; (rz.) slate; (rz.) tile
+[dacza]dacza (PL) : (rz.) bower; (rz.) cabin; (rz.) cottage; (rz.) dacha
+[dafnia]dafnia (PL) : (rz.) daphnia
+[dagerotyp]dagerotyp (PL) : (rz.) daguerreotype
+[daktyl]daktyl (PL) : (rz.) dactyl; (rz.) date
+[daktyliczny]daktyliczny (PL) : (p.) dactylic
+[daktylowiec]daktylowiec (PL) : (rz.) date; (rz.) date-palm
+[dal]dal (PL) : (rz.) distance; (rz.) remoteness
+[dalba]dalba (PL) : (rz.) dolphin
+[dalej]dalej (PL) : (rz.) onwards
+[daleki]daleki (PL) : (p.) distant; (p.) far; (p.) faraway; (p.) far-away; (p.) far-off; (p.) long-haul; (p.) remote
+[daleko]daleko (PL) : (p-sł.) afar; (p-sł.) away; (p-sł.) distantly; (p-sł.) famously; (p-sł.) far; (p-sł.) further
+[dalekobiezny]dalekobieżny (PL) : (p.) interurban; (p.) long-distance
+[dalekomierz]dalekomierz (PL) : (rz.) rangefinder; (rz.) telemeter
+[dalekomorski]dalekomorski (PL) : (p.) deep-sea
+[dalekonosny]dalekonośny (PL) : (p.) long-range
+[dalekopis]dalekopis (PL) : (rz.) teletype; (rz.) teletypewriter
+[dalekosiezny]dalekosiężny (PL) : (p.) far-reaching
+[dalekowzrocznosc]dalekowzroczność (PL) : (rz.) farsightedness; (rz.) far-sightedness; (rz.) sagacity
+[dalekowzroczny]dalekowzroczny (PL) : (p.) farseeing; (p.) far-seeing; (p.) farsighted; (p.) forward; (p.) longsighted; (p.) long-sighted
+[dalekosc]dalekość (PL) : (rz.) distance
+[dalia]dalia (PL) : (rz.) dahlia
+[dalmatyka]dalmatyka (PL) : (rz.) dalmatic
+[dalmierz]dalmierz (PL) : (rz.) rangefinder; (rz.) range-finder; (rz.) telemeter
+[dalszy]dalszy (PL) : (p.) ulterior
+[daltonizm]daltonizm (PL) : (rz.) colour-blindness
+[dama]dama (PL) : (rz.) dame; (rz.) gentlewoman; (rz.) lady; (rz.) queen
+[damaszka]damaszka (PL) : (rz.) damson
+[damka]damka (PL) : (rz.) king
+[damski]damski (PL) : (p.) ladies'
+[dandys]dandys (PL) : (rz.) buck; (rz.) dandy; (rz.) jack-a-dandy
+[dandyzm]dandyzm (PL) : (rz.) dandyism
+[dane]dane (PL) : (rz.) data; (rz.) datasheet; (rz.) statistics
+[danie]danie (PL) : (rz.) course; (rz.) dish; (rz.) plat
+[daniel]daniel (PL) : (rz.) fallow-deer
+[danina]danina (PL) : (rz.) levy; (rz.) subsidy; (rz.) tribute
+[dany]dany (PL) : (p.) given; (p.) underlying
+[dar]dar (PL) : (rz.) bestowal; (rz.) bestowing; (rz.) bestowment; (rz.) boon; (rz.) bounty; (rz.) donation; (rz.) faculty; (rz.) gift; (rz.) grant; (rz.) gratuity; (rz.) present
+[darczynca]darczyńca (PL) : (rz.) donor
+[daremnie]daremnie (PL) : (p-sł.) futilely
+[daremnosc]daremność (PL) : (rz.) frustration; (rz.) futility; (rz.) laziness; (rz.) pointlessness; (rz.) vainness; (rz.) vanity
+[daremny]daremny (PL) : (p.) abortive; (p.) bootless; (p.) futile; (p.) idle; (p.) ineffective; (p.) inefficacious; (p.) purposeless; (p.) self-defeating; (p.) unavailing; (p.) unfruitful; (p.) vain
+[darmo]darmo (PL) : (p-sł.) free; (p-sł.) gratis
+[darmowy]darmowy (PL) : (p.) complimentary; (p.) free; (p.) gratis
+[darmozjad]darmozjad (PL) : (rz.) freeloader; (rz.) parasite; (rz.) sponger
+[darnina]darnina (PL) : (rz.) sod; (rz.) turf
+[darniowanie]darniowanie (PL) : (rz.) turf
+[darniowac]darniować (PL) : (cz.) sod
+[darowanie]darowanie (PL) : (rz.) remission; (rz.) sparer; (rz.) sparest
+[darowac]darować (PL) : (cz.) absolve; (cz.) condone; (cz.) donate; (cz.) forgive; (cz.) give; (cz.) pardon; (cz.) present; (cz.) remit; (cz.) spar
+[darowizna]darowizna (PL) : (rz.) donation; (rz.) gift; (rz.) grant
+[darowywac]darowywać (PL) : (cz.) donate
+[darwinista]darwinista (PL) : (rz.) Darwinian
+[darwinizm]darwinizm (PL) : (rz.) Darwinism
+[darzyc]darzyć (PL) : (cz.) give
+[darn]darń (PL) : (rz.) sod; (rz.) sward; (rz.) turf
+[daszek]daszek (PL) : (rz.) caret
+[daszkowy]daszkowy (PL) : (p.) peaked
+[data]data (PL) : (rz.) date
+[datek]datek (PL) : (rz.) charity; (rz.) contribution; (rz.) donation; (rz.) handout; (rz.) offering; (rz.) subscription
+[datowanie]datowanie (PL) : (rz.) dater
+[datowany]datowany (PL) : (p.) dated
+[datowac]datować (PL) : (cz.) date
+[datownik]datownik (PL) : (rz.) dater; (rz.) date-stamp; (rz.) timestamp
+[dawac]dawać (PL) : (cz.) administer; (cz.) afford; (cz.) allow; (cz.) equip; (cz.) give; (cz.) graft; (cz.) let
+[dawca]dawca (PL) : (rz.) donator; (rz.) donor; (rz.) giver
+[dawka]dawka (PL) : (rz.) dose; (rz.) drench; (rz.) potion
+[dawkomierz]dawkomierz (PL) : (rz.) dosimeter
+[dawkowanie]dawkowanie (PL) : (rz.) dosage; (rz.) dose
+[dawkowac]dawkować (PL) : (cz.) dispense; (cz.) dose
+[dawkownik]dawkownik (PL) : (rz.) batcher
+[dawno]dawno (PL) : (p-sł.) long
+[dawnosc]dawność (PL) : (rz.) antiquity
+[dawny]dawny (PL) : (p.) ancient; (p.) antique; (p.) early; (p.) former; (p.) old; (p.) old-time; (p.) onetime; (p.) one-time; (p.) past; (p.) pristine
+[dac]dać (PL) : (cz.) afford; (cz.) contribute; (cz.) give; (cz.) incur; (cz.) tip
+[dbale]dbale (PL) : (p-sł.) carefully; (p-sł.) mindfully
+[dbac]dbać (PL) : (cz.) care
+[dbalosc]dbałość (PL) : (rz.) care; (rz.) diligence
+[dbaly]dbały (PL) : (p.) heedful; (p.) painstaking
+[dealer]dealer (PL) : (rz.) reseller
+[debata]debata (PL) : (rz.) argument; (rz.) debate; (rz.) discussion
+[debatowanie]debatowanie (PL) : (rz.) discussion
+[debatowac]debatować (PL) : (cz.) debate
+[debel]debel (PL) : (rz.) double
+[debet]debet (PL) : (rz.) debit; (rz.) overdraft
+[debil]debil (PL) : (rz.) fool; (rz.) idiot; (rz.) moron; (rz.) yuk
+[debilizm]debilizm (PL) : (rz.) debility
+[debilny]debilny (PL) : (p.) moronic
+[debiut]debiut (PL) : (rz.) debut
+[debiutant]debiutant (PL) : (rz.) colt; (rz.) debutant; (rz.) debutante
+[deblowy]deblowy (PL) : (p.) double
+[decentralizacja]decentralizacja (PL) : (rz.) decentralization
+[decentralizowac]decentralizować (PL) : (cz.) decentralize
+[dech]dech (PL) : (rz.) breath; (rz.) wind
+[decha]decha (PL) : (rz.) board; (rz.) plank
+[decybel]decybel (PL) : (rz.) decibel
+[decydent]decydent (PL) : (rz.) decision-maker
+[decydowanie]decydowanie (PL) : (rz.) decision-making; (rz.) determinative
+[decydowac]decydować (PL) : (cz.) choose; (cz.) decide; (cz.) determine
+[decydujaco]decydująco (PL) : (p-sł.) decisively; (p-sł.) vitally
+[decydujacy]decydujący (PL) : (p.) crucial; (p.) decisive
+[decylitr]decylitr (PL) : (rz.) decilitre
+[decymetr]decymetr (PL) : (rz.) decimetre
+[decyzja]decyzja (PL) : (rz.) decision; (rz.) resolution; (rz.) ruling
+[dedukcja]dedukcja (PL) : (rz.) deduction; (rz.) inference
+[dedukcyjnie]dedukcyjnie (PL) : (p-sł.) deductively
+[dedukcyjny]dedukcyjny (PL) : (p.) deductive
+[dedukowac]dedukować (PL) : (cz.) deduce; (cz.) infer
+[dedykacja]dedykacja (PL) : (rz.) dedication; (rz.) inscription
+[dedykacyjny]dedykacyjny (PL) : (p.) dedicatory
+[dedykowany]dedykowany (PL) : (p.) dedicated
+[dedykowac]dedykować (PL) : (cz.) dedicate; (cz.) inscribe
+[defekacja]defekacja (PL) : (rz.) crap; (rz.) defecation
+[defekowac]defekować (PL) : (cz.) defecate
+[defekt]defekt (PL) : (rz.) break-down; (rz.) defect; (rz.) defectiveness; (rz.) error; (rz.) fault; (rz.) flaw; (rz.) vice
+[defektowy]defektowy (PL) : (p.) defective
+[defenestracja]defenestracja (PL) : (rz.) defenestration
+[defensywa]defensywa (PL) : (rz.) defence; (rz.) defensive
+[defensywnie]defensywnie (PL) : (p-sł.) defensively
+[defensywny]defensywny (PL) : (p.) defensive
+[defetysta]defetysta (PL) : (rz.) defeatist
+[defetystyczny]defetystyczny (PL) : (p.) defeatist
+[defetyzm]defetyzm (PL) : (rz.) defeatism
+[defibrylator]defibrylator (PL) : (rz.) defibrillator
+[deficyt]deficyt (PL) : (rz.) deficiency; (rz.) deficit; (rz.) slippage
+[deficytowy]deficytowy (PL) : (p.) unprofitable
+[defilada]defilada (PL) : (rz.) march-past; (rz.) parade; (rz.) past; (rz.) procession
+[defilowanie]defilowanie (PL) : (rz.) parading
+[defilowac]defilować (PL) : (cz.) defile
+[definicja]definicja (PL) : (rz.) definition
+[definicyjny]definicyjny (PL) : (p.) definitional
+[definiowalny]definiowalny (PL) : (p.) definable
+[definiowanie]definiowanie (PL) : (rz.) definition
+[definiowac]definiować (PL) : (cz.) define
+[definitywnie]definitywnie (PL) : (p-sł.) definitely; (p-sł.) finally
+[definitywny]definitywny (PL) : (p.) definitive; (p.) final
+[deflacja]deflacja (PL) : (rz.) deflation
+[deflacyjny]deflacyjny (PL) : (p.) deflationary
+[deflagracja]deflagracja (PL) : (rz.) deflagration
+[deflektor]deflektor (PL) : (rz.) baffle; (rz.) deflector
+[defloracja]defloracja (PL) : (rz.) defloration
+[defoliacja]defoliacja (PL) : (rz.) defoliation
+[deforestacja]deforestacja (PL) : (rz.) deforestation
+[deformacja]deformacja (PL) : (rz.) alteration; (rz.) deformation; (rz.) deformity
+[deformowac]deformować (PL) : (cz.) deform; (cz.) strain
+[defraudacja]defraudacja (PL) : (rz.) carding; (rz.) defalcation; (rz.) embezzlement; (rz.) misappropriation; (rz.) peculation
+[defraudant]defraudant (PL) : (rz.) defaulter; (rz.) defrauder; (rz.) embezzler
+[defraudowac]defraudować (PL) : (cz.) defalcate; (cz.) embezzle; (cz.) misappropriate; (cz.) peculate
+[degeneracja]degeneracja (PL) : (rz.) degeneracy; (rz.) degeneration
+[degenerat]degenerat (PL) : (rz.) degenerate
+[degenerowac]degenerować (PL) : (cz.) degenerate
+[degradacja]degradacja (PL) : (rz.) aggravation; (rz.) degradation; (rz.) demotion; (rz.) deterioration; (rz.) relegation
+[degradowac]degradować (PL) : (cz.) declass; (cz.) degrade; (cz.) demote; (cz.) lower
+[degrengolada]degrengolada (PL) : (rz.) downfall
+[degustacja]degustacja (PL) : (rz.) tasting
+[degustator]degustator (PL) : (rz.) taster
+[degustowac]degustować (PL) : (cz.) displease; (cz.) taste
+[dehumanizacja]dehumanizacja (PL) : (rz.) dehumanization
+[dehydratacja]dehydratacja (PL) : (rz.) dehydration
+[deifikacja]deifikacja (PL) : (rz.) deification
+[deifikowac]deifikować (PL) : (cz.) deify
+[deistyczny]deistyczny (PL) : (p.) deistic; (p.) deistical
+[deizm]deizm (PL) : (rz.) deism
+[dejonizacja]dejonizacja (PL) : (rz.) deionization
+[dejwud]dejwud (PL) : (rz.) deadwood
+[dekada]dekada (PL) : (rz.) decade
+[dekadencja]dekadencja (PL) : (rz.) decadence; (rz.) decadency
+[dekadencki]dekadencki (PL) : (p.) decadent
+[dekadent]dekadent (PL) : (rz.) decadent
+[dekadentyzm]dekadentyzm (PL) : (rz.) decadency
+[dekagram]dekagram (PL) : (rz.) decagram
+[dekalkomania]dekalkomania (PL) : (rz.) decalcomania
+[dekanat]dekanat (PL) : (rz.) deanery
+[dekanter]dekanter (PL) : (rz.) decanter
+[dekantowac]dekantować (PL) : (cz.) decant
+[dekapitacja]dekapitacja (PL) : (rz.) decapitation
+[dekarbonizacja]dekarbonizacja (PL) : (rz.) decarbonisation; (rz.) decarbonising
+[dekarstwo]dekarstwo (PL) : (rz.) roofing; (rz.) tiling
+[dekarz]dekarz (PL) : (rz.) roofer
+[dekatyzowac]dekatyzować (PL) : (cz.) shrink
+[dekiel]dekiel (PL) : (rz.) cover; (rz.) hubcap; (rz.) lid
+[deklamacja]deklamacja (PL) : (rz.) declamation; (rz.) recitation
+[deklamacyjny]deklamacyjny (PL) : (p.) recitative
+[deklamator]deklamator (PL) : (rz.) declaimer
+[deklamatorski]deklamatorski (PL) : (p.) declamatory
+[deklamowanie]deklamowanie (PL) : (rz.) declamation
+[deklamowac]deklamować (PL) : (cz.) declaim; (cz.) recite
+[deklaracja]deklaracja (PL) : (rz.) declaration; (rz.) testimony
+[deklaracyjny]deklaracyjny (PL) : (p.) declarative
+[deklaratywny]deklaratywny (PL) : (p.) declarative; (p.) declaratory
+[deklarowac]deklarować (PL) : (cz.) declare; (cz.) testify
+[deklasowac]deklasować (PL) : (cz.) declass
+[deklinacja]deklinacja (PL) : (rz.) declension; (rz.) declination
+[deklinator]deklinator (PL) : (rz.) declinometer
+[deklinowac]deklinować (PL) : (cz.) decline
+[deko]deko (PL) : (rz.) decagram
+[dekoder]dekoder (PL) : (rz.) decoder
+[dekodowac]dekodować (PL) : (cz.) decode; (cz.) decrypt
+[dekolonizacja]dekolonizacja (PL) : (rz.) decolonization
+[dekolt]dekolt (PL) : (rz.) cleavage; (rz.) neckline
+[dekompilacja]dekompilacja (PL) : (rz.) decompiling; (rz.) reverse
+[dekomponowac]dekomponować (PL) : (cz.) decompose; (cz.) recompose
+[dekompozycja]dekompozycja (PL) : (rz.) decomposition
+[dekompresja]dekompresja (PL) : (rz.) decompression
+[dekonspirowac]dekonspirować (PL) : (cz.) unsheathe
+[dekontaminacja]dekontaminacja (PL) : (rz.) decontamination
+[dekontaminowac]dekontaminować (PL) : (cz.) decontaminate
+[dekoracja]dekoracja (PL) : (rz.) adornment; (rz.) decor; (rz.) decoration; (rz.) dressing; (rz.) ornament; (rz.) scenery
+[dekoracje]dekoracje (PL) : (rz.) scenery
+[dekoracyjnie]dekoracyjnie (PL) : (p-sł.) ornamentally
+[dekoracyjnosc]dekoracyjność (PL) : (rz.) decorative
+[dekoracyjny]dekoracyjny (PL) : (p.) decorative; (p.) fancy; (p.) ornamental
+[dekorator]dekorator (PL) : (rz.) decorator; (rz.) scene-painter
+[dekorowanie]dekorowanie (PL) : (rz.) decoration
+[dekorowac]dekorować (PL) : (cz.) adorn; (cz.) decorate
+[dekortykator]dekortykator (PL) : (rz.) decorticator
+[dekowanie]dekowanie (PL) : (rz.) edict; (rz.) tillage
+[dekrement]dekrement (PL) : (rz.) decrement; (rz.) decremented; (rz.) decrements
+[dekrementacja]dekrementacja (PL) : (rz.) decrement; (rz.) decrementing
+[dekret]dekret (PL) : (rz.) decree; (rz.) edict; (rz.) fiat; (rz.) order
+[dekretowanie]dekretowanie (PL) : (rz.) decree
+[dekretowac]dekretować (PL) : (cz.) decree
+[dekretowy]dekretowy (PL) : (p.) decretory
+[dekstroza]dekstroza (PL) : (rz.) dextrose
+[dekstryna]dekstryna (PL) : (rz.) dextrin
+[delegacja]delegacja (PL) : (rz.) delegacy; (rz.) delegation; (rz.) deputation
+[delegalizowac]delegalizować (PL) : (cz.) proscribe
+[delegat]delegat (PL) : (rz.) delegate; (rz.) deputy; (rz.) substitute
+[delegatura]delegatura (PL) : (rz.) delegacy; (rz.) office
+[delegowanie]delegowanie (PL) : (rz.) delegation; (rz.) posting
+[delegowac]delegować (PL) : (cz.) delegate
+[delektowac]delektować (PL) : (cz.) enjoy
+[delfin]delfin (PL) : (rz.) dauphin; (rz.) dolphin; (rz.) porpoise
+[deliberacja]deliberacja (PL) : (rz.) deliberation; (rz.) meditation
+[deliberowac]deliberować (PL) : (cz.) deliberate
+[delicja]delicja (PL) : (rz.) delicacies; (rz.) delicacy; (rz.) relish
+[delikates]delikates (PL) : (rz.) delicacy; (rz.) delicatessen; (rz.) plum
+[delikatnie]delikatnie (PL) : (p-sł.) daintily; (p-sł.) delicately; (p-sł.) fondly; (p-sł.) gently; (p-sł.) gingerly; (p-sł.) slightly; (p-sł.) tenderly
+[delikatnosc]delikatność (PL) : (rz.) daintiness; (rz.) delicacy; (rz.) finesse; (rz.) fondness; (rz.) gentleness; (rz.) mildness; (rz.) nicety; (rz.) sensitivity; (rz.) slightness; (rz.) softness; (rz.) tact; (rz.) tender; (rz.) tenderness
+[delikatny]delikatny (PL) : (p.) dainty; (p.) delicate; (p.) exquisite; (p.) fine; (p.) fine-spun; (p.) fond; (p.) fragile; (p.) gentle; (p.) gentlest; (p.) mild; (p.) nice; (p.) queasy; (p.) sappy; (p.) scabrous; (p.) sensitive; (p.) silken; (p.) soft; (p.) squeamish; (p.) sweet; (p.) tender; (p.) tenuous; (p.) thin-skinned; (p.) ticklish
+[delikt]delikt (PL) : (rz.) tort
+[delikwent]delikwent (PL) : (rz.) delinquent; (rz.) felon; (rz.) lawbreaker
+[delimitacja]delimitacja (PL) : (rz.) delimitation
+[deliryczny]deliryczny (PL) : (p.) delirious
+[delta]delta (PL) : (rz.) delta
+[deltoid]deltoid (PL) : (rz.) deltoid
+[deltowy]deltowy (PL) : (p.) deltaic
+[demagnetyzacja]demagnetyzacja (PL) : (rz.) demagnetization
+[demagog]demagog (PL) : (rz.) demagogue
+[demagogia]demagogia (PL) : (rz.) demagoguery; (rz.) demagogy
+[demagogiczny]demagogiczny (PL) : (p.) demagogic
+[demarkacja]demarkacja (PL) : (rz.) demarcation
+[demaskowac]demaskować (PL) : (cz.) debunk; (cz.) disclose; (cz.) expose; (cz.) unmask
+[dematerializacja]dematerializacja (PL) : (rz.) dematerialization
+[demencja]demencja (PL) : (rz.) dementia
+[dementowanie]dementowanie (PL) : (rz.) belying
+[dementowac]dementować (PL) : (cz.) belie; (cz.) deny; (cz.) disagree
+[demilitaryzacja]demilitaryzacja (PL) : (rz.) demilitarization
+[demineralizacja]demineralizacja (PL) : (rz.) demineralization
+[demitologizacja]demitologizacja (PL) : (rz.) exposure
+[demitologizowac]demitologizować (PL) : (cz.) demythologize
+[demiurg]demiurg (PL) : (rz.) demiurge
+[demo]demo (PL) : (rz.) demo
+[demobilizacja]demobilizacja (PL) : (rz.) demobilization
+[demobilizacyjny]demobilizacyjny (PL) : (p.) demobilising
+[demobilizowac]demobilizować (PL) : (cz.) decommission; (cz.) demob; (cz.) demobilize
+[demodulacja]demodulacja (PL) : (rz.) demodulation
+[demodulator]demodulator (PL) : (rz.) demodulator
+[demodulowac]demodulować (PL) : (cz.) demodulate
+[demografia]demografia (PL) : (rz.) demographics; (rz.) demography
+[demograficznie]demograficznie (PL) : (p-sł.) demographically
+[demograficzny]demograficzny (PL) : (p.) demographic
+[demokracja]demokracja (PL) : (rz.) democracy
+[demokrata]demokrata (PL) : (rz.) democrat
+[demokratycznie]demokratycznie (PL) : (p-sł.) democratically
+[demokratyczny]demokratyczny (PL) : (p.) democratic
+[demokratyzacja]demokratyzacja (PL) : (rz.) democratization
+[demokratyzowac]demokratyzować (PL) : (cz.) democratize
+[demolowac]demolować (PL) : (cz.) demolish; (cz.) smash; (cz.) vandalize
+[demon]demon (PL) : (rz.) daemon; (rz.) demon
+[demonetyzacja]demonetyzacja (PL) : (rz.) demonetization
+[demonicznie]demonicznie (PL) : (p-sł.) demonically
+[demoniczny]demoniczny (PL) : (p.) demoniac; (p.) demoniacal; (p.) demonic
+[demonizowac]demonizować (PL) : (cz.) demonize; (cz.) demonized
+[demonologia]demonologia (PL) : (rz.) demonology; (rz.) devilry
+[demonstracja]demonstracja (PL) : (rz.) demo; (rz.) demonstration; (rz.) presentation
+[demonstracyjny]demonstracyjny (PL) : (p.) demonstrative; (p.) ostentatious
+[demonstrant]demonstrant (PL) : (rz.) demonstrator; (rz.) protester; (rz.) rioter
+[demonstrowac]demonstrować (PL) : (cz.) demonstrate; (cz.) show
+[demontaz]demontaż (PL) : (rz.) disassembly
+[demontowac]demontować (PL) : (cz.) demount; (cz.) disassemble; (cz.) dismantle; (cz.) dismount
+[demoralizacja]demoralizacja (PL) : (rz.) demoralization; (rz.) depravity
+[demoralizowac]demoralizować (PL) : (cz.) demoralize; (cz.) deprave; (cz.) pervert
+[demotyczny]demotyczny (PL) : (p.) demotic
+[demulgator]demulgator (PL) : (rz.) de-emulsifier
+[demulgowanie]demulgowanie (PL) : (rz.) de-emulsification
+[demulgowac]demulgować (PL) : (cz.) demulsify
+[demultiplekser]demultiplekser (PL) : (rz.) selector
+[denacjonalizacja]denacjonalizacja (PL) : (rz.) denationalization
+[denat]denat (PL) : (rz.) suicide
+[denaturalizacja]denaturalizacja (PL) : (rz.) denaturalization
+[denaturalizowac]denaturalizować (PL) : (cz.) denaturalize
+[denaturowanie]denaturowanie (PL) : (rz.) denaturing
+[denaturowac]denaturować (PL) : (cz.) denature
+[dendrolog]dendrolog (PL) : (rz.) dendrologist
+[dendrologia]dendrologia (PL) : (rz.) dendrology
+[dendryt]dendryt (PL) : (rz.) dendrite
+[denerwowanie]denerwowanie (PL) : (rz.) excitement; (rz.) fluster
+[denerwowac]denerwować (PL) : (cz.) aggravate; (cz.) annoy; (cz.) displease; (cz.) fidget; (cz.) fluster; (cz.) fret; (cz.) irritate
+[denerwujacy]denerwujący (PL) : (p.) infuriating
+[denier]denier (PL) : (rz.) denier
+[denko]denko (PL) : (rz.) web
+[denny]denny (PL) : (p.) benthic; (p.) longitudinal
+[denominacja]denominacja (PL) : (rz.) denomination; (rz.) redenomination
+[denotacja]denotacja (PL) : (rz.) denotation
+[densymetr]densymetr (PL) : (rz.) densitometer
+[densytometr]densytometr (PL) : (rz.) densitometer
+[densytometria]densytometria (PL) : (rz.) densitometry
+[dentyna]dentyna (PL) : (rz.) dentine
+[dentysta]dentysta (PL) : (rz.) dentist
+[dentystyczny]dentystyczny (PL) : (p.) dental; (p.) dentist's
+[dentystyka]dentystyka (PL) : (rz.) dentistry
+[denudacja]denudacja (PL) : (rz.) denudation
+[denuncjacja]denuncjacja (PL) : (rz.) denunciation
+[denuncjant]denuncjant (PL) : (rz.) informer; (rz.) telltale
+[denuncjator]denuncjator (PL) : (rz.) denunciator; (rz.) informer
+[denuncjowac]denuncjować (PL) : (cz.) denounce
+[deontologia]deontologia (PL) : (rz.) deontology
+[departament]departament (PL) : (rz.) department
+[depersonalizacja]depersonalizacja (PL) : (rz.) depersonalisation; (rz.) depersonalization
+[depesza]depesza (PL) : (rz.) cable; (rz.) cablegram; (rz.) dispatch; (rz.) telegram; (rz.) wire
+[depeszowac]depeszować (PL) : (cz.) cable; (cz.) telegraph
+[depilacja]depilacja (PL) : (rz.) depilation
+[depilacyjny]depilacyjny (PL) : (p.) depilating; (p.) depilatory
+[depilator]depilator (PL) : (rz.) depilatory; (rz.) epilator
+[depilowac]depilować (PL) : (cz.) depilate
+[depolaryzacja]depolaryzacja (PL) : (rz.) depolarisation; (rz.) depolarization
+[depolaryzator]depolaryzator (PL) : (rz.) depolarizer
+[depolaryzowac]depolaryzować (PL) : (cz.) depolarize
+[deponent]deponent (PL) : (rz.) depositor
+[deponowac]deponować (PL) : (cz.) deposit; (cz.) lodge
+[deportacja]deportacja (PL) : (rz.) deportation; (rz.) removal; (rz.) transportation
+[deportowanie]deportowanie (PL) : (rz.) deportation
+[deportowac]deportować (PL) : (cz.) deport
+[depozyt]depozyt (PL) : (rz.) deposit; (rz.) depository; (rz.) escrow
+[depozytariusz]depozytariusz (PL) : (rz.) depositary
+[depozytor]depozytor (PL) : (rz.) depositor
+[depozytowy]depozytowy (PL) : (p.) custodial
+[deprawacja]deprawacja (PL) : (rz.) depravation; (rz.) depravity
+[deprawowac]deprawować (PL) : (cz.) demoralize; (cz.) deprave; (cz.) pervert
+[deprecjacja]deprecjacja (PL) : (rz.) debasement; (rz.) depreciation
+[deprecjonowac]deprecjonować (PL) : (cz.) debase; (cz.) depreciate
+[depresja]depresja (PL) : (rz.) abatement; (rz.) depression
+[depresyjny]depresyjny (PL) : (p.) depressive
+[deprymowac]deprymować (PL) : (cz.) deject
+[deptak]deptak (PL) : (rz.) pedestrian; (rz.) promenade; (rz.) walk
+[deptanie]deptanie (PL) : (rz.) dept
+[deptac]deptać (PL) : (cz.) tramp; (cz.) trample; (cz.) tread
+[deputacja]deputacja (PL) : (rz.) deputation
+[deputat]deputat (PL) : (rz.) allowance
+[deputowany]deputowany (PL) : (p.) deputy
+[deregulacja]deregulacja (PL) : (rz.) deregulation
+[dereniowy]dereniowy (PL) : (p.) dogberry
+[dereszowaty]dereszowaty (PL) : (p.) roan
+[deren]dereń (PL) : (rz.) dogberry; (rz.) dogwood
+[derka]derka (PL) : (rz.) blanket; (rz.) manta; (rz.) rug; (rz.) saddlecloth
+[derkacz]derkacz (PL) : (rz.) landrail
+[derma]derma (PL) : (rz.) leatherette
+[dermatolog]dermatolog (PL) : (rz.) dermatologist
+[dermatologia]dermatologia (PL) : (rz.) dermatology
+[dermatologiczny]dermatologiczny (PL) : (p.) dermatological
+[derogacja]derogacja (PL) : (rz.) derogation
+[derywacja]derywacja (PL) : (rz.) derivation
+[derywat]derywat (PL) : (rz.) derivative
+[derywowac]derywować (PL) : (cz.) derive
+[desant]desant (PL) : (rz.) descent; (rz.) embarkation; (rz.) landing
+[desantowiec]desantowiec (PL) : (rz.) ranger
+[desegregacja]desegregacja (PL) : (rz.) desegregation
+[desensybilizacja]desensybilizacja (PL) : (rz.) desensitization
+[deser]deser (PL) : (rz.) afters; (rz.) dessert; (rz.) pudding
+[desen]deseń (PL) : (rz.) design; (rz.) pattern
+[deska]deska (PL) : (rz.) board; (rz.) breadboard; (rz.) pegboard; (rz.) plank; (rz.) trencher
+[deskorolka]deskorolka (PL) : (rz.) skate; (rz.) skateboard
+[deskowanie]deskowanie (PL) : (rz.) boarding; (rz.) formwork; (rz.) planking; (rz.) sheeting
+[deskrypcja]deskrypcja (PL) : (rz.) description
+[deskryptor]deskryptor (PL) : (rz.) descriptor
+[desperacja]desperacja (PL) : (rz.) despair; (rz.) desperation; (rz.) hopelessness
+[desperacki]desperacki (PL) : (p.) desperate
+[desperat]desperat (PL) : (rz.) desperado
+[desperowac]desperować (PL) : (cz.) despair
+[despota]despota (PL) : (rz.) despot; (rz.) tyrant
+[despotycznie]despotycznie (PL) : (p-sł.) domineeringly; (p-sł.) tyrannically
+[despotyczny]despotyczny (PL) : (p.) authoritarian; (p.) despotic; (p.) highhanded; (p.) high-handed; (p.) oppressive; (p.) overbearing
+[despotyzm]despotyzm (PL) : (rz.) despotism; (rz.) tyranny
+[dessous]dessous (PL) : (rz.) petticoat
+[destabilizacja]destabilizacja (PL) : (rz.) destabilisation; (rz.) destabilization
+[destabilizowanie]destabilizowanie (PL) : (rz.) destabilizing
+[destabilizowac]destabilizować (PL) : (cz.) destabilize
+[destrukcja]destrukcja (PL) : (rz.) destruction; (rz.) ruin
+[destrukcyjnosc]destrukcyjność (PL) : (rz.) destructiveness
+[destrukcyjny]destrukcyjny (PL) : (p.) destructive; (p.) devastating; (p.) disruptive
+[destruktor]destruktor (PL) : (rz.) destructor; (rz.) garbage
+[destruktywny]destruktywny (PL) : (p.) destructive
+[destylacja]destylacja (PL) : (rz.) distillation
+[destylacyjny]destylacyjny (PL) : (p.) distillatory
+[destylarnia]destylarnia (PL) : (rz.) distillery; (rz.) still
+[destylat]destylat (PL) : (rz.) distillate
+[destylator]destylator (PL) : (rz.) distiller; (rz.) still
+[destylowac]destylować (PL) : (cz.) distil
+[desygnacja]desygnacja (PL) : (rz.) designation; (rz.) nomination
+[desygnator]desygnator (PL) : (rz.) designator
+[desygnowac]desygnować (PL) : (cz.) designate; (cz.) nominate
+[desykant]desykant (PL) : (rz.) desiccant
+[deszcz]deszcz (PL) : (rz.) downpour; (rz.) rain; (rz.) rainfall
+[deszczomierz]deszczomierz (PL) : (rz.) rain-gauge
+[deszczoodporny]deszczoodporny (PL) : (p.) rainproof
+[deszczowanie]deszczowanie (PL) : (rz.) sprinkling
+[deszczowiec]deszczowiec (PL) : (rz.) galosh; (rz.) raincoat
+[deszczowy]deszczowy (PL) : (p.) pluvial; (p.) rainy; (p.) showery; (p.) wet; (p.) wetted; (p.) wettest
+[deszczulka]deszczułka (PL) : (rz.) lath; (rz.) slat; (rz.) splint; (rz.) trencher
+[deszczyk]deszczyk (PL) : (rz.) drizzle
+[deszczowka]deszczówka (PL) : (rz.) rainwater; (rz.) rain-water
+[deszyfracja]deszyfracja (PL) : (rz.) decryption
+[deszyfrator]deszyfrator (PL) : (rz.) descrambler
+[deszyfrowanie]deszyfrowanie (PL) : (rz.) decipherment; (rz.) decrypting; (rz.) decryption
+[deszyfrowac]deszyfrować (PL) : (cz.) decrypt
+[detal]detal (PL) : (rz.) article; (rz.) detail; (rz.) retail
+[detaliczny]detaliczny (PL) : (p.) retail
+[detalista]detalista (PL) : (rz.) retailer
+[detekcja]detekcja (PL) : (rz.) detection
+[detektor]detektor (PL) : (rz.) coherer; (rz.) detector
+[detektyw]detektyw (PL) : (rz.) detective; (rz.) investigator; (rz.) sleuth
+[detektywistyczny]detektywistyczny (PL) : (p.) detective
+[detergent]detergent (PL) : (rz.) detergent
+[deterioracja]deterioracja (PL) : (rz.) deterioration
+[determinacja]determinacja (PL) : (rz.) determination; (rz.) drive; (rz.) resoluteness
+[determinanta]determinanta (PL) : (rz.) determinant
+[deterministyczny]deterministyczny (PL) : (p.) deterministic
+[determinizm]determinizm (PL) : (rz.) determinism
+[determinowac]determinować (PL) : (cz.) determine; (cz.) govern; (cz.) predetermine
+[detoksykacja]detoksykacja (PL) : (rz.) detoxification
+[detonacja]detonacja (PL) : (rz.) detonation; (rz.) explosion; (rz.) peal; (rz.) report
+[detonowac]detonować (PL) : (cz.) detonate
+[detronizacja]detronizacja (PL) : (rz.) deposition; (rz.) dethronement
+[detronizowanie]detronizowanie (PL) : (rz.) dethronement
+[detronizowac]detronizować (PL) : (cz.) dethrone
+[detrytus]detrytus (PL) : (rz.) detritus
+[deuter]deuter (PL) : (rz.) deuterium
+[deuteron]deuteron (PL) : (rz.) deuteron
+[dewaluacja]dewaluacja (PL) : (rz.) depreciation; (rz.) devaluation
+[dewaluowac]dewaluować (PL) : (cz.) devaluate; (cz.) devalue
+[dewastacja]dewastacja (PL) : (rz.) desolation; (rz.) devastation; (rz.) ravage; (rz.) vandalism
+[dewastator]dewastator (PL) : (rz.) devastator
+[dewastowac]dewastować (PL) : (cz.) devastate; (cz.) ravage; (cz.) vandalize
+[dewiacja]dewiacja (PL) : (rz.) aberration; (rz.) deviance; (rz.) deviation
+[dewiacyjny]dewiacyjny (PL) : (p.) deviant; (p.) deviatory
+[dewiator]dewiator (PL) : (rz.) deviator
+[dewiza]dewiza (PL) : (rz.) device; (rz.) motto; (rz.) slogan; (rz.) watchword
+[dewizka]dewizka (PL) : (rz.) fob; (rz.) watch-chain
+[dewizowy]dewizowy (PL) : (p.) foreign-currency
+[dewocja]dewocja (PL) : (rz.) bigotry; (rz.) devotion
+[dezaktywacja]dezaktywacja (PL) : (rz.) deactivation
+[dezaktywowac]dezaktywować (PL) : (cz.) deactivate; (cz.) decontaminate
+[dezaprobata]dezaprobata (PL) : (rz.) deprecation; (rz.) disapprobation; (rz.) disapproval
+[dezaprobowac]dezaprobować (PL) : (cz.) disapprove; (cz.) discountenance
+[dezasemblowanie]dezasemblowanie (PL) : (rz.) disassembling
+[dezasemblowac]dezasemblować (PL) : (cz.) disassemble
+[dezawuowac]dezawuować (PL) : (cz.) disavow; (cz.) disown
+[dezercja]dezercja (PL) : (rz.) defection; (rz.) desertion
+[dezerter]dezerter (PL) : (rz.) defector; (rz.) deserter
+[dezerterowac]dezerterować (PL) : (cz.) desert
+[dezinformacja]dezinformacja (PL) : (rz.) disinformation; (rz.) misinformation
+[dezintegracja]dezintegracja (PL) : (rz.) disintegration
+[dezintegrator]dezintegrator (PL) : (rz.) disintegrator
+[dezodorant]dezodorant (PL) : (rz.) deodorant; (rz.) deodorizer
+[dezodoryzacja]dezodoryzacja (PL) : (rz.) deodorisation; (rz.) deodorization
+[dezodoryzowac]dezodoryzować (PL) : (cz.) deodorize
+[dezorganizacja]dezorganizacja (PL) : (rz.) confusion; (rz.) derangement; (rz.) disorganization
+[dezorganizowac]dezorganizować (PL) : (cz.) derange; (cz.) disarrange; (cz.) discompose; (cz.) disorganize; (cz.) unsettle
+[dezorientacja]dezorientacja (PL) : (rz.) bewilderment; (rz.) confusion; (rz.) disorientation
+[dezorientowac]dezorientować (PL) : (cz.) confuse; (cz.) disorientate
+[dezyderat]dezyderat (PL) : (rz.) desideratum
+[dezyderaty]dezyderaty (PL) : (rz.) desiderata
+[dezynfekcja]dezynfekcja (PL) : (rz.) disinfectant; (rz.) disinfection; (rz.) sterilisation
+[dezynfekowac]dezynfekować (PL) : (cz.) disinfect
+[dezynfekujacy]dezynfekujący (PL) : (p.) disinfectant
+[dezyntegrator]dezyntegrator (PL) : (rz.) disintegrator
+[diabelnie]diabelnie (PL) : (p-sł.) cursedly; (p-sł.) deucedly
+[diabelny]diabelny (PL) : (p.) confounded; (p.) deuced
+[diabelski]diabelski (PL) : (p.) deuced; (p.) devilfish; (p.) devilish; (p.) diabolic; (p.) diabolical; (p.) fiendish; (p.) hellish; (p.) infernal
+[diabelsko]diabelsko (PL) : (p-sł.) devilish; (p-sł.) devilishly; (p-sł.) fiendishly
+[diabelstwo]diabelstwo (PL) : (rz.) devilment; (rz.) devilry
+[diabetyk]diabetyk (PL) : (rz.) diabetes; (rz.) diabetic
+[diabel]diabeł (PL) : (rz.) deuce; (rz.) devil; (rz.) dickens; (rz.) fiend; (rz.) serpent
+[diabelek]diabełek (PL) : (rz.) imp
+[diablica]diablica (PL) : (rz.) shrew
+[diaboliczny]diaboliczny (PL) : (p.) diabetic; (p.) diabolic; (p.) diabolical; (p.) satanic
+[diadem]diadem (PL) : (rz.) chaplet; (rz.) crown; (rz.) diadem; (rz.) tiara
+[diafon]diafon (PL) : (rz.) diaphone
+[diafragma]diafragma (PL) : (rz.) diaphragm
+[diagnosta]diagnosta (PL) : (rz.) diagnostician
+[diagnostyczny]diagnostyczny (PL) : (p.) diagnostic
+[diagnostyka]diagnostyka (PL) : (rz.) diagnosis; (rz.) diagnostic; (rz.) diagnostics
+[diagnoza]diagnoza (PL) : (rz.) diagnosis
+[diagnozowalny]diagnozowalny (PL) : (p.) diagnosable
+[diagnozowanie]diagnozowanie (PL) : (rz.) diagnosis; (rz.) troubleshooting
+[diagnozowac]diagnozować (PL) : (cz.) diagnose
+[diagonal]diagonal (PL) : (rz.) twill
+[diagonalnie]diagonalnie (PL) : (p-sł.) diagonally
+[diagonalny]diagonalny (PL) : (p.) diagonal
+[diagram]diagram (PL) : (rz.) diagram
+[diakon]diakon (PL) : (rz.) deacon
+[diakonisa]diakonisa (PL) : (rz.) deaconess
+[diakrytyczny]diakrytyczny (PL) : (p.) diacritic; (p.) diacritical
+[dialekt]dialekt (PL) : (rz.) dialect
+[dialektalny]dialektalny (PL) : (p.) dialectal
+[dialektologia]dialektologia (PL) : (rz.) dialectology
+[dialektowy]dialektowy (PL) : (p.) dialectical
+[dialektyczny]dialektyczny (PL) : (p.) dialectical
+[dialektyk]dialektyk (PL) : (rz.) dialectician
+[dialektyka]dialektyka (PL) : (rz.) dialectician; (rz.) dialectics
+[dializa]dializa (PL) : (rz.) dialysis
+[dialog]dialog (PL) : (rz.) dialog; (rz.) dialogue; (rz.) duologue
+[dialogit]dialogit (PL) : (rz.) dialogite
+[dialogowy]dialogowy (PL) : (p.) conversational
+[diamagnetyczny]diamagnetyczny (PL) : (p.) diamagnetic
+[diamagnetyzm]diamagnetyzm (PL) : (rz.) diamagnetism
+[diament]diament (PL) : (rz.) adamant; (rz.) diamond; (rz.) sparkler
+[diamentowy]diamentowy (PL) : (p.) adamantine
+[diametralnie]diametralnie (PL) : (p-sł.) diametrically
+[diametralny]diametralny (PL) : (p.) diametric; (p.) diametrical
+[diapazon]diapazon (PL) : (rz.) diapason
+[diapozytyw]diapozytyw (PL) : (rz.) filmstrip; (rz.) slide
+[diariusz]diariusz (PL) : (rz.) diary
+[diaskop]diaskop (PL) : (rz.) slide
+[diastaza]diastaza (PL) : (rz.) diastase
+[diastrofizm]diastrofizm (PL) : (rz.) diastrophism
+[diatermia]diatermia (PL) : (rz.) diathermy
+[diatoniczny]diatoniczny (PL) : (p.) diatonic
+[diatryba]diatryba (PL) : (rz.) diatribe
+[diecezja]diecezja (PL) : (rz.) bishopric; (rz.) diocese
+[diecezjalny]diecezjalny (PL) : (p.) diocesan
+[dielektryczny]dielektryczny (PL) : (p.) dielectric
+[dielektryk]dielektryk (PL) : (rz.) dielectric
+[dieta]dieta (PL) : (rz.) allowance; (rz.) diet
+[dietetyczny]dietetyczny (PL) : (p.) dietary; (p.) dietetic
+[dietetyk]dietetyk (PL) : (rz.) dietician; (rz.) nutrition; (rz.) nutritionist
+[dietetyka]dietetyka (PL) : (rz.) dietetics
+[digitalizacja]digitalizacja (PL) : (rz.) digitalisation; (rz.) digitization; (rz.) digitizing
+[diler]diler (PL) : (rz.) dealer; (rz.) peddler
+[dinozaur]dinozaur (PL) : (rz.) dinosaur
+[dinozaury]dinozaury (PL) : (rz.) dinosaurs
+[dioda]dioda (PL) : (rz.) diode
+[dioda-pentoda]dioda-pentoda (PL) : (rz.) diode-pentode
+[dioryt]dioryt (PL) : (rz.) diorite
+[diplekser]diplekser (PL) : (rz.) diplexer
+[dipol]dipol (PL) : (rz.) dipole
+[dipolowy]dipolowy (PL) : (p.) dipolar
+[diwa]diwa (PL) : (rz.) diva
+[dla]dla (PL) : (p-im.) for
+[dlaczego]dlaczego (PL) : (p-sł.) wherefore
+[dlatego]dlatego (PL) : (p-sł.) consequently; (p-sł.) so; (p-sł.) therefore; (p-sł.) thereupon; (p-sł.) wherefore
+[dmuch]dmuch (PL) : (rz.) wind
+[dmuchacz]dmuchacz (PL) : (rz.) blower; (rz.) glassblower; (rz.) glass-blower
+[dmuchanie]dmuchanie (PL) : (rz.) blowing
+[dmuchawa]dmuchawa (PL) : (rz.) blower; (rz.) blowpipe; (rz.) fan
+[dmuchawiec]dmuchawiec (PL) : (rz.) dandelion; (rz.) low-ball
+[dmuchawka]dmuchawka (PL) : (rz.) bellows
+[dmuchac]dmuchać (PL) : (cz.) blow; (cz.) puff
+[dmuchniecie]dmuchnięcie (PL) : (rz.) puff; (rz.) whiff
+[dniec]dnieć (PL) : (cz.) light
+[dniowkowy]dniówkowy (PL) : (p.) daily
+[dno]dno (PL) : (rz.) bed; (rz.) bilge; (rz.) bottom; (rz.) bottoming; (rz.) floor; (rz.) ground
+[do]do (PL) : (p-im.) by; (p-im.) for; (p-im.) in; (p-im.) into; (p-im.) on; (p-im.) onto; (p-im.) to; (p-im.) until; (p-im.) unto
+[doba]doba (PL) : (rz.) day; (rz.) hours
+[dobicie]dobicie (PL) : (rz.) finisher
+[dobiegac]dobiegać (PL) : (cz.) approach
+[dobierac]dobierać (PL) : (cz.) assort; (cz.) select; (cz.) selected; (cz.) sort
+[dobijac]dobijać (PL) : (cz.) knock
+[dobitnie]dobitnie (PL) : (p-sł.) distinctly; (p-sł.) impressively; (p-sł.) markedly; (p-sł.) strongly
+[dobitnosc]dobitność (PL) : (rz.) clearness; (rz.) emphasis
+[dobitny]dobitny (PL) : (p.) distinct; (p.) emphatic; (p.) expressive; (p.) forcible; (p.) strong
+[dobniak]dobniak (PL) : (rz.) beetle
+[doborowosc]doborowość (PL) : (rz.) excellence
+[doborowy]doborowy (PL) : (p.) excellent; (p.) picked; (p.) select
+[dobosz]dobosz (PL) : (rz.) drum; (rz.) drummer
+[dobowy]dobowy (PL) : (p.) daily; (p.) diurnal
+[dobranoc]dobranoc (PL) : (rz.) goodnight; (rz.) good-night
+[dobrnac]dobrnąć (PL) : (cz.) reach
+[dobro]dobro (PL) : (rz.) gong; (rz.) weal; (rz.) welfare
+[dobrobyt]dobrobyt (PL) : (rz.) affluence; (rz.) prosperity; (rz.) wealth; (rz.) welfare; (rz.) wellbeing; (rz.) well-being
+[dobroczynnosc]dobroczynność (PL) : (rz.) beneficence; (rz.) benevolence; (rz.) charity; (rz.) philanthropy
+[dobroczynny]dobroczynny (PL) : (p.) beneficent; (p.) beneficial; (p.) benevolent; (p.) benign; (p.) charitable; (p.) kindly; (p.) salutary
+[dobroczynca]dobroczyńca (PL) : (rz.) benefactor
+[dobrodusznosc]dobroduszność (PL) : (rz.) bonhomie; (rz.) kind-heartedness
+[dobroduszny]dobroduszny (PL) : (p.) good-humoured; (p.) good-natured
+[dobrodziej]dobrodziej (PL) : (rz.) benefactor; (rz.) benefactors
+[dobrodziejstwo]dobrodziejstwo (PL) : (rz.) benefaction; (rz.) benefit; (rz.) blessing
+[dobrotliwie]dobrotliwie (PL) : (p-sł.) blandly
+[dobrotliwosc]dobrotliwość (PL) : (rz.) blandness
+[dobrotliwy]dobrotliwy (PL) : (p.) benevolent; (p.) benignant; (p.) bland; (p.) genial; (p.) good-natured; (p.) kind-hearted; (p.) kindly
+[dobrowolnie]dobrowolnie (PL) : (p-sł.) voluntarily
+[dobrowolnosc]dobrowolność (PL) : (rz.) voluntary
+[dobrowolny]dobrowolny (PL) : (p.) discretional; (p.) discretionary; (p.) gratuitous; (p.) volitional
+[dobroc]dobroć (PL) : (rz.) better; (rz.) friendliness; (rz.) goodness; (rz.) kindliness; (rz.) kindness; (rz.) virtue
+[dobry]dobry (PL) : (p.) amiable; (p.) benign; (p.) good; (p.) hunky-dory; (p.) kind; (p.) kind-hearted; (p.) kindly; (p.) right; (p.) warm-hearted; (p.) welled
+[dobrze]dobrze (PL) : (p-sł.) alright; (p-sł.) aright; (p-sł.) fine; (p-sł.) right
+[dobudowac]dobudować (PL) : (cz.) build
+[dobudowka]dobudówka (PL) : (rz.) annexe; (rz.) extension; (rz.) outbuilding; (rz.) outhouse
+[dobytek]dobytek (PL) : (rz.) belonging; (rz.) belongings; (rz.) chattel; (rz.) effect; (rz.) having; (rz.) possession; (rz.) property
+[dobywac]dobywać (PL) : (cz.) produce
+[dobyc]dobyć (PL) : (cz.) draw
+[dobor]dobór (PL) : (rz.) assortment; (rz.) choice; (rz.) match; (rz.) selection
+[doceniac]doceniać (PL) : (cz.) appreciate; (cz.) underestimate
+[docenic]docenić (PL) : (cz.) appreciate
+[docent]docent (PL) : (rz.) teacher
+[docentura]docentura (PL) : (rz.) readership
+[dochodowosc]dochodowość (PL) : (rz.) profitableness
+[dochodowy]dochodowy (PL) : (p.) lucrative; (p.) moneymaking; (p.) payable; (p.) profitable; (p.) profit-making; (p.) remunerative; (p.) rewarding
+[dochodzenie]dochodzenie (PL) : (rz.) inquiry; (rz.) investigation; (rz.) prosecution
+[dochodzeniowy]dochodzeniowy (PL) : (p.) investigative
+[dochodzic]dochodzić (PL) : (cz.) added; (cz.) assert; (cz.) come; (cz.) reach; (cz.) strike; (cz.) supervene
+[dochowac]dochować (PL) : (cz.) preserve; (cz.) remain
+[dochod]dochód (PL) : (rz.) benefice; (rz.) income; (rz.) proceeds; (rz.) profit; (rz.) return; (rz.) revenue; (rz.) taking
+[dociekanie]dociekanie (PL) : (rz.) exam; (rz.) examination; (rz.) investigation; (rz.) study
+[dociekac]dociekać (PL) : (cz.) inquire; (cz.) investigate
+[dociekliwie]dociekliwie (PL) : (p-sł.) inquisitively
+[dociekliwosc]dociekliwość (PL) : (rz.) inquisitiveness
+[dociekliwy]dociekliwy (PL) : (p.) curious; (p.) inquiring; (p.) inquisitive; (p.) searching
+[docierak]docierak (PL) : (rz.) lap
+[docieranie]docieranie (PL) : (rz.) break-in
+[docierac]docierać (PL) : (cz.) attain; (cz.) reach
+[docinac]docinać (PL) : (cz.) taunt; (cz.) tease
+[docinek]docinek (PL) : (rz.) gibe; (rz.) jeer; (rz.) kicker; (rz.) sally; (rz.) shot
+[docisk]docisk (PL) : (rz.) clamp; (rz.) holdfast
+[dociskac]dociskać (PL) : (cz.) clamp; (cz.) depress; (cz.) subtend; (cz.) tighten
+[dociac]dociąć (PL) : (cz.) cut
+[docisniecie]dociśnięcie (PL) : (rz.) pressing
+[doczekac]doczekać (PL) : (cz.) abide; (cz.) wait
+[doczepka]doczepka (PL) : (rz.) trailer
+[doczesnosc]doczesność (PL) : (rz.) temporality
+[doczesny]doczesny (PL) : (p.) earthly; (p.) mundane; (p.) temporal; (p.) terrestrial; (p.) worldly
+[doczesnie]docześnie (PL) : (p-sł.) temporally
+[doczyszczac]doczyszczać (PL) : (cz.) clean
+[dodaj]dodaj (PL) : (rz.) add-or-subtract
+[dodajnik]dodajnik (PL) : (rz.) addend
+[dodanie]dodanie (PL) : (rz.) addition
+[dodatek]dodatek (PL) : (rz.) accessory; (rz.) accompaniment; (rz.) addendum; (rz.) add-in; (rz.) adding; (rz.) addition; (rz.) additive; (rz.) add-on; (rz.) adjunct; (rz.) allowance; (rz.) annex; (rz.) appendage; (rz.) appendix; (rz.) bonus; (rz.) complement; (rz.) condiment; (rz.) dope; (rz.) enclosure; (rz.) exordium; (rz.) extra; (rz.) plug-in; (rz.) premium; (rz.) pullout; (rz.) pull-out; (rz.) spice; (rz.) supplement; (rz.) surplus
+[dodatki]dodatki (PL) : (rz.) accessories
+[dodatkowo]dodatkowo (PL) : (p-sł.) additionally; (p-sł.) extra
+[dodatkowy]dodatkowy (PL) : (p.) additional; (p.) another; (p.) collateral; (p.) duplicate; (p.) excess; (p.) extra; (p.) further; (p.) odd; (p.) optional; (p.) plus; (p.) secondary; (p.) subsidiary; (p.) supplemental; (p.) supplementary; (p.) surplus
+[dodatni]dodatni (PL) : (p.) additional; (p.) plus; (p.) positive
+[dodatnio]dodatnio (PL) : (p-sł.) positively
+[dodawanie]dodawanie (PL) : (rz.) adding; (rz.) addition; (rz.) admixture; (rz.) summation
+[dodawac]dodawać (PL) : (cz.) add; (cz.) append; (cz.) eke; (cz.) hearten; (cz.) lend; (cz.) sum
+[dodawac-odejmowac]dodawać-odejmować (PL) : (cz.) add-subtract
+[dodac]dodać (PL) : (cz.) add; (cz.) affix; (cz.) append; (cz.) impart; (cz.) put
+[dodruk]dodruk (PL) : (rz.) impression; (rz.) imprint
+[dofermentowanie]dofermentowanie (PL) : (rz.) after-fermentation
+[dofinansowanie]dofinansowanie (PL) : (rz.) bailout; (rz.) grant; (rz.) refinancing
+[dogadzanie]dogadzanie (PL) : (rz.) indulgence
+[dogadzac]dogadzać (PL) : (cz.) indulge; (cz.) pander; (cz.) please; (cz.) satisfy
+[doganiac]doganiać (PL) : (cz.) catch; (cz.) forereach; (cz.) fore-reach; (cz.) overtake
+[doglad]dogląd (PL) : (rz.) care; (rz.) superintendence; (rz.) supervision
+[dogladanie]doglądanie (PL) : (rz.) care; (rz.) superintendence
+[dogladac]doglądać (PL) : (cz.) inspect; (cz.) mind; (cz.) nurse; (cz.) oversee; (cz.) superintend; (cz.) supervise; (cz.) tend
+[dogmat]dogmat (PL) : (rz.) dogma; (rz.) tenet
+[dogmatycznie]dogmatycznie (PL) : (p-sł.) dogmatically
+[dogmatyczny]dogmatyczny (PL) : (p.) dogmatic; (p.) opinionated
+[dogmatyk]dogmatyk (PL) : (rz.) bigot; (rz.) dogmatist
+[dogmatyzm]dogmatyzm (PL) : (rz.) dogmatism
+[dogmatyzowac]dogmatyzować (PL) : (cz.) dogmatize
+[dogniatanie]dogniatanie (PL) : (rz.) burnish
+[dogodnie]dogodnie (PL) : (p-sł.) conveniently
+[dogodnosc]dogodność (PL) : (rz.) convenience
+[dogodny]dogodny (PL) : (p.) attractive; (p.) convenient; (p.) good; (p.) handy; (p.) opportune
+[dogonic]dogonić (PL) : (cz.) catch; (cz.) reach
+[dogrywka]dogrywka (PL) : (rz.) overtime; (rz.) playoff; (rz.) play-off; (rz.) runoff; (rz.) run-off
+[dogryzac]dogryzać (PL) : (cz.) sting
+[dogrzac]dogrzać (PL) : (cz.) heat; (cz.) scorch
+[doglebnie]dogłębnie (PL) : (p-sł.) profoundly
+[doglebnosc]dogłębność (PL) : (rz.) depth
+[doglebny]dogłębny (PL) : (p.) thorough
+[doic]doić (PL) : (cz.) milk
+[dojarka]dojarka (PL) : (rz.) dairymaid; (rz.) milkmaid
+[dojarz]dojarz (PL) : (rz.) dairyman
+[dojazd]dojazd (PL) : (rz.) access; (rz.) approach
+[dojazdowy]dojazdowy (PL) : (p.) accessible
+[dojechac]dojechać (PL) : (cz.) approach; (cz.) get; (cz.) reach
+[dojenie]dojenie (PL) : (rz.) milking
+[dojezdzanie]dojeżdżanie (PL) : (rz.) commuter
+[dojezdzac]dojeżdżać (PL) : (cz.) commute; (cz.) reach
+[dojmowac]dojmować (PL) : (cz.) gripe
+[dojrzale]dojrzale (PL) : (p-sł.) maturely
+[dojrzalosc]dojrzałość (PL) : (rz.) maturity; (rz.) puberty; (rz.) ripeness; (rz.) womanhood
+[dojrzaly]dojrzały (PL) : (p.) mature; (p.) ripe
+[dojrzewanie]dojrzewanie (PL) : (rz.) adolescence; (rz.) maturation; (rz.) puberty
+[dojrzewac]dojrzewać (PL) : (cz.) incubate; (cz.) maturate; (cz.) mature; (cz.) mellow; (cz.) precociously; (cz.) ripen; (cz.) stir
+[dojrzec]dojrzeć (PL) : (cz.) glimpse; (cz.) mature; (cz.) ripen
+[dojscie]dojście (PL) : (rz.) access; (rz.) accession; (rz.) approach; (rz.) handle
+[dojsc]dojść (PL) : (cz.) attain; (cz.) get; (cz.) got; (cz.) reach
+[dok]dok (PL) : (rz.) doc; (rz.) dock
+[dokarmiac]dokarmiać (PL) : (cz.) fatten
+[dokazywanie]dokazywanie (PL) : (rz.) romp
+[dokazywac]dokazywać (PL) : (cz.) daff; (cz.) frolic; (cz.) hector; (cz.) romp
+[dokanczac]dokańczać (PL) : (cz.) finish
+[doker]doker (PL) : (rz.) longshoreman; (rz.) stevedore
+[dokonanie]dokonanie (PL) : (rz.) accomplishment; (rz.) achievement; (rz.) consummation; (rz.) effort; (rz.) feat; (rz.) performance; (rz.) revise
+[dokonac]dokonać (PL) : (cz.) achieve; (cz.) consummate; (cz.) effectuate; (cz.) stunt
+[dokonywanie]dokonywanie (PL) : (rz.) making
+[dokonywac]dokonywać (PL) : (cz.) accomplish; (cz.) achieve; (cz.) caulk; (cz.) commit; (cz.) consummate; (cz.) make; (cz.) perform
+[dokooptowac]dokooptować (PL) : (cz.) co-opt; (cz.) opt
+[dokowac]dokować (PL) : (cz.) dock
+[dokola]dokoła (PL) : (p-sł.) around
+[dokonczenie]dokończenie (PL) : (rz.) conclusion; (rz.) finish
+[dokonczyc]dokończyć (PL) : (cz.) clinch; (cz.) complete; (cz.) resume
+[dokrewny]dokrewny (PL) : (p.) endocrine
+[dokrecac]dokręcać (PL) : (cz.) screw; (cz.) tighten
+[dokrecic]dokręcić (PL) : (cz.) tighten
+[dokretka]dokrętka (PL) : (rz.) nut
+[doktor]doktor (PL) : (rz.) doctor
+[doktorat]doktorat (PL) : (rz.) doctor; (rz.) doctorate
+[doktorski]doktorski (PL) : (p.) doctoral; (p.) doctor's
+[doktryna]doktryna (PL) : (rz.) doctrine; (rz.) tenet
+[doktrynalny]doktrynalny (PL) : (p.) doctrinal
+[doktryner]doktryner (PL) : (rz.) doctrinaire; (rz.) doctrinarian
+[doktrynerski]doktrynerski (PL) : (p.) doctrinarian
+[dokuczanie]dokuczanie (PL) : (rz.) annoyance; (rz.) bedevilment; (rz.) bother; (rz.) teasing
+[dokuczac]dokuczać (PL) : (cz.) annoy; (cz.) bedevil; (cz.) grumble; (cz.) harass; (cz.) harrow; (cz.) hassle; (cz.) importune; (cz.) molest; (cz.) nag; (cz.) needle; (cz.) pester; (cz.) pinch; (cz.) spite; (cz.) sting; (cz.) taunt; (cz.) tease; (cz.) vex
+[dokuczliwie]dokuczliwie (PL) : (p-sł.) importunately
+[dokuczliwosc]dokuczliwość (PL) : (rz.) annoyance; (rz.) nuisance; (rz.) spitefulness
+[dokuczliwy]dokuczliwy (PL) : (p.) annoying; (p.) bothersome; (p.) cumbersome; (p.) importunate; (p.) irritating; (p.) nagging; (p.) pesky; (p.) spiteful; (p.) tiresome; (p.) troublesome; (p.) worrier
+[dokument]dokument (PL) : (rz.) act; (rz.) certificate; (rz.) doc; (rz.) document; (rz.) letter; (rz.) voucher
+[dokumentacja]dokumentacja (PL) : (rz.) documentation; (rz.) dossier; (rz.) material; (rz.) paperwork
+[dokumentalny]dokumentalny (PL) : (p.) documentary
+[dokumentarny]dokumentarny (PL) : (p.) documentary
+[dokumentny]dokumentny (PL) : (p.) complete
+[dokumentowanie]dokumentowanie (PL) : (rz.) documentation
+[dokumentowac]dokumentować (PL) : (cz.) document
+[dokupic]dokupić (PL) : (cz.) buy
+[dokad]dokąd (PL) : (p-sł.) where; (p-sł.) whither
+[dokadkolwiek]dokądkolwiek (PL) : (p-sł.) anywhere; (p-sł.) wherever; (p-sł.) whithersoever
+[dokads]dokądś (PL) : (p-sł.) somewhere
+[dokladac]dokładać (PL) : (cz.) add; (cz.) make
+[dokladka]dokładka (PL) : (rz.) afters; (rz.) makeweight
+[dokladnie]dokładnie (PL) : (p-sł.) accurately; (p-sł.) alike; (p-sł.) carefully; (p-sł.) closely; (p-sł.) exactly; (p-sł.) fully; (p-sł.) plumb; (p-sł.) precisely; (p-sł.) right; (p-sł.) thoroughly
+[dokladnosc]dokładność (PL) : (rz.) accuracy; (rz.) exactitude; (rz.) exactness; (rz.) faithfulness; (rz.) fidelity; (rz.) nicety; (rz.) particularity; (rz.) preciseness; (rz.) precision
+[dokladny]dokładny (PL) : (p.) accurate; (p.) businesslike; (p.) business-like; (p.) definite; (p.) exact; (p.) faithful; (p.) meticulous; (p.) near; (p.) orderly; (p.) particular; (p.) pinpoint; (p.) precise; (p.) specific; (p.) strict; (p.) thorough
+[dola]dola (PL) : (rz.) destiny; (rz.) fortune; (rz.) lot; (rz.) rake-off; (rz.) share
+[dolar]dolar (PL) : (rz.) buck; (rz.) dollar
+[dolatywac]dolatywać (PL) : (cz.) come
+[dolac]dolać (PL) : (cz.) refill
+[doleciec]dolecieć (PL) : (cz.) reach
+[dolegac]dolegać (PL) : (cz.) ail; (cz.) trouble
+[dolegliwosc]dolegliwość (PL) : (rz.) affection; (rz.) affliction; (rz.) ailment; (rz.) crud; (rz.) discomfort; (rz.) disorder; (rz.) hardship; (rz.) ill
+[dolegliwy]dolegliwy (PL) : (p.) painful; (p.) shrewd
+[doleryt]doleryt (PL) : (rz.) dolerite
+[dolewac]dolewać (PL) : (cz.) add
+[doliczac]doliczać (PL) : (cz.) add; (cz.) record
+[doliczyc]doliczyć (PL) : (cz.) add
+[dolina]dolina (PL) : (rz.) daledolina(rz.) dell; (rz.) glen; (rz.) vale; (rz.) valley
+[dolinka]dolinka (PL) : (rz.) coomb
+[dolmen]dolmen (PL) : (rz.) dolmen
+[dolnoprzepustowy]dolnoprzepustowy (PL) : (p.) low-pass
+[dolny]dolny (PL) : (p.) low
+[dolomit]dolomit (PL) : (rz.) dolomite
+[dom]dom (PL) : (rz.) abode; (rz.) home; (rz.) house; (rz.) household; (rz.) shebang; (rz.) tenement-house
+[domagac]domagać (PL) : (cz.) assert; (cz.) claim; (cz.) demand; (cz.) insist; (cz.) solicit; (cz.) vindicate
+[domator]domator (PL) : (rz.) stay-at-home
+[domatorski]domatorski (PL) : (p.) home
+[domatorstwo]domatorstwo (PL) : (rz.) domesticity; (rz.) home
+[domek]domek (PL) : (rz.) cottage; (rz.) house; (rz.) lodge; (rz.) maisonette
+[domena]domena (PL) : (rz.) domain; (rz.) field; (rz.) realm; (rz.) sphere
+[domiar]domiar (PL) : (rz.) surcharge; (rz.) surtax
+[domierzac]domierzać (PL) : (cz.) give
+[domieszac]domieszać (PL) : (cz.) admix; (cz.) mix
+[domieszka]domieszka (PL) : (rz.) additive; (rz.) admixture; (rz.) alloy; (rz.) dope; (rz.) impurity; (rz.) tincture; (rz.) tinge
+[dominacja]dominacja (PL) : (rz.) dominance; (rz.) domination; (rz.) supremacy
+[dominium]dominium (PL) : (rz.) dominion
+[domino]domino (PL) : (rz.) domino; (rz.) dominoes
+[dominowac]dominować (PL) : (cz.) boss; (cz.) dominate; (cz.) domineer
+[dominujacy]dominujący (PL) : (p.) dominant
+[domiesniowy]domięśniowy (PL) : (p.) intramuscular
+[domniemanie]domniemanie (PL) : (rz.) allegation; (rz.) assumption; (rz.) conjecture; (rz.) guess; (rz.) presumption
+[domniemany]domniemany (PL) : (p.) implicit; (p.) supposed
+[domniemac]domniemać (PL) : (cz.) conjecture; (cz.) guess
+[domniemywac]domniemywać (PL) : (cz.) believing
+[domofon]domofon (PL) : (rz.) intercom
+[domokrazca]domokrążca (PL) : (rz.) cadger; (rz.) hawker; (rz.) packman; (rz.) peddler
+[domokrazny]domokrążny (PL) : (p.) house-to-house
+[domorosly]domorosły (PL) : (p.) self-taught
+[domostwo]domostwo (PL) : (rz.) establishment; (rz.) homestead; (rz.) house; (rz.) household
+[domownicy]domownicy (PL) : (p.) household
+[domownik]domownik (PL) : (rz.) householder; (rz.) inmate
+[domowo]domowo (PL) : (p-sł.) domestically; (p-sł.) home
+[domowy]domowy (PL) : (p.) domestic; (p.) home; (p.) homelike; (p.) homely; (p.) homemade; (p.) home-made; (p.) homey; (p.) household; (p.) indoor; (p.) pacific
+[domysl]domysł (PL) : (rz.) conjecture; (rz.) guess; (rz.) guesswork; (rz.) guess-work; (rz.) inkling; (rz.) presupposition; (rz.) speculation; (rz.) supposition; (rz.) surmise
+[domyslac]domyślać (PL) : (cz.) divine; (cz.) guess; (cz.) suppose; (cz.) surmise
+[domyslec]domyśleć (PL) : (cz.) guess
+[domyslic]domyślić (PL) : (cz.) guess
+[domyslnie]domyślnie (PL) : (p-sł.) implicitly
+[domyslnik]domyślnik (PL) : (rz.) hint; (rz.) implication; (rz.) insinuation
+[domyslnosc]domyślność (PL) : (rz.) penetration
+[domyslny]domyślny (PL) : (p.) default; (p.) shrewd
+[domowic]domówić (PL) : (cz.) jibe
+[donica]donica (PL) : (rz.) bowl
+[doniczka]doniczka (PL) : (rz.) flowerpot; (rz.) flower-pot; (rz.) pot
+[doniczkowy]doniczkowy (PL) : (p.) houseplant; (p.) potted; (p.) putted
+[doniesienie]doniesienie (PL) : (rz.) conveyance; (rz.) denunciation; (rz.) report
+[doniesc]donieść (PL) : (cz.) acquaint; (cz.) report
+[donikad]donikąd (PL) : (p-sł.) nowhere
+[donioslosc]doniosłość (PL) : (rz.) importance; (rz.) relevance; (rz.) weightiness
+[doniosly]doniosły (PL) : (p.) eventful; (p.) far-reaching; (p.) fateful; (p.) grave; (p.) important; (p.) momentous; (p.) significant
+[doniosle]doniośle (PL) : (p-sł.) importantly; (p-sł.) momentously
+[donkiszoteria]donkiszoteria (PL) : (rz.) errantry
+[donor]donor (PL) : (rz.) donor
+[donos]donos (PL) : (rz.) denunciation; (rz.) information
+[donosiciel]donosiciel (PL) : (rz.) informer; (rz.) repeater; (rz.) sneak; (rz.) whistleblower
+[donosicielski]donosicielski (PL) : (p.) denunciatory
+[donosicielstwo]donosicielstwo (PL) : (rz.) informing
+[donosic]donosić (PL) : (cz.) denounce; (cz.) inform; (cz.) report; (cz.) snitch; (cz.) wear
+[donoszenie]donoszenie (PL) : (rz.) bringing
+[donosnosc]donośność (PL) : (rz.) loudness; (rz.) range; (rz.) resonance
+[donosny]donośny (PL) : (p.) loud; (p.) plangent; (p.) resonant; (p.) resounding; (p.) sonorous; (p.) stentorian
+[dookola]dookoła (PL) : (p-sł.) about; (p-sł.) around
+[dookreslenie]dookreślenie (PL) : (rz.) instantiation
+[dookreslic]dookreślić (PL) : (cz.) specified
+[dopalacz]dopalacz (PL) : (rz.) afterburner
+[dopalic]dopalić (PL) : (cz.) bake
+[dopasowanie]dopasowanie (PL) : (rz.) adjustment; (rz.) match; (rz.) matching; (rz.) mating; (rz.) snug
+[dopasowany]dopasowany (PL) : (p.) matched
+[dopasowac]dopasować (PL) : (cz.) adjust; (cz.) fit
+[dopasowywanie]dopasowywanie (PL) : (rz.) adaptive; (rz.) fitting; (rz.) matching
+[dopasowywac]dopasowywać (PL) : (cz.) readjust
+[dopatrywac]dopatrywać (PL) : (cz.) suspect
+[dopasc]dopaść (PL) : (cz.) hunt
+[dopelniacz]dopełniacz (PL) : (rz.) genitive
+[dopelniajacy]dopełniający (PL) : (p.) complementary
+[dopelniac]dopełniać (PL) : (cz.) complement; (cz.) complete; (cz.) consummate; (cz.) pad; (cz.) recharge; (cz.) replenish
+[dopelnienie]dopełnienie (PL) : (rz.) adjunct; (rz.) complement; (rz.) consummation; (rz.) implementation; (rz.) object; (rz.) padding
+[dopelnieniowy]dopełnieniowy (PL) : (p.) objective
+[dopelnij]dopełnij (PL) : (rz.) complement
+[dopelnic]dopełnić (PL) : (cz.) complete; (cz.) consummate; (cz.) recharge; (cz.) replenish; (cz.) supplement
+[dopiekac]dopiekać (PL) : (cz.) sting; (cz.) swelter
+[dopilnowac]dopilnować (PL) : (cz.) see
+[dopinanie]dopinanie (PL) : (rz.) lashing
+[dopinac]dopinać (PL) : (cz.) button
+[doping]doping (PL) : (rz.) dope
+[dopingowac]dopingować (PL) : (cz.) root
+[dopingowy]dopingowy (PL) : (p.) encouraging
+[dopisac]dopisać (PL) : (cz.) add; (cz.) adjoin
+[dopisek]dopisek (PL) : (rz.) annotation; (rz.) footnote; (rz.) insertion; (rz.) postscript
+[dopisywac]dopisywać (PL) : (cz.) add; (cz.) added
+[dopiac]dopiąć (PL) : (cz.) manage
+[dopomagac]dopomagać (PL) : (cz.) help
+[dopominac]dopominać (PL) : (cz.) demand
+[dopowiadac]dopowiadać (PL) : (cz.) say
+[dopowiedzenie]dopowiedzenie (PL) : (rz.) adding; (rz.) apposition
+[dopracowac]dopracować (PL) : (cz.) make; (cz.) refine
+[dopracowywac]dopracowywać (PL) : (cz.) elaborate
+[dopraszac]dopraszać (PL) : (cz.) beg; (cz.) solicit
+[doprawdy]doprawdy (PL) : (p-sł.) really; (p-sł.) too; (p-sł.) truly; (p-sł.) verily
+[doprawiac]doprawiać (PL) : (cz.) season
+[doprac]doprać (PL) : (cz.) wash
+[doprecyzowac]doprecyzować (PL) : (cz.) clarified
+[doprosic]doprosić (PL) : (cz.) cadge
+[doproszenie]doproszenie (PL) : (rz.) asking
+[doprowadzajacy]doprowadzający (PL) : (p.) afferent
+[doprowadzanie]doprowadzanie (PL) : (rz.) bringing
+[doprowadzac]doprowadzać (PL) : (cz.) escort; (cz.) feed; (cz.) instigate; (cz.) lead; (cz.) make; (cz.) reduce; (cz.) supply
+[doprowadzenie]doprowadzenie (PL) : (rz.) delivery; (rz.) lead; (rz.) lead-in; (rz.) reduction
+[doprowadzic]doprowadzić (PL) : (cz.) contrive; (cz.) lead; (cz.) transact
+[dopust]dopust (PL) : (rz.) scourge; (rz.) visitation
+[dopuszczalnosc]dopuszczalność (PL) : (rz.) admissibility
+[dopuszczalny]dopuszczalny (PL) : (p.) acceptable; (p.) admissible; (p.) allowable; (p.) permissible; (p.) sufferable; (p.) supportable
+[dopuszczac]dopuszczać (PL) : (cz.) admit; (cz.) afford; (cz.) allow; (cz.) commit; (cz.) let
+[dopuszczenie]dopuszczenie (PL) : (rz.) admission; (rz.) admittance; (rz.) release
+[dopuscic]dopuścić (PL) : (cz.) admit; (cz.) allowed
+[dopytac]dopytać (PL) : (cz.) ask
+[dopoki]dopóki (PL) : (spójnik) till; (spójnik) until
+[dopoty]dopóty (PL) : (spójnik) till; (spójnik) until
+[dopedzac]dopędzać (PL) : (cz.) drive; (cz.) forereach; (cz.) fore-reach; (cz.) overhaul
+[doplacac]dopłacać (PL) : (cz.) meet
+[doplacenie]dopłacenie (PL) : (rz.) supplement
+[doplacic]dopłacić (PL) : (cz.) pay
+[doplata]dopłata (PL) : (rz.) after-payment; (rz.) extra; (rz.) surcharge
+[doplyw]dopływ (PL) : (rz.) admission; (rz.) affluent; (rz.) feeder; (rz.) flow; (rz.) inflow; (rz.) influx; (rz.) inlet; (rz.) supply; (rz.) tributary
+[dorabiac]dorabiać (PL) : (cz.) replace
+[dorada]dorada (PL) : (rz.) gilthead
+[doradca]doradca (PL) : (rz.) adviser; (rz.) advisor; (rz.) aide; (rz.) consultant; (rz.) counsel; (rz.) counsellor
+[doradczy]doradczy (PL) : (p.) advisory; (p.) consultative
+[doradczyni]doradczyni (PL) : (rz.) adviser; (rz.) counsellor
+[doradzac]doradzać (PL) : (cz.) advise
+[doradzic]doradzić (PL) : (cz.) advise; (cz.) advises
+[doradztwo]doradztwo (PL) : (rz.) advice; (rz.) consulting; (rz.) expert
+[dorastanie]dorastanie (PL) : (rz.) adolescence; (rz.) growing
+[dorastac]dorastać (PL) : (cz.) grow
+[doraznie]doraźnie (PL) : (p-sł.) extemporaneously
+[dorazny]doraźny (PL) : (p.) casual; (p.) immediate; (p.) random; (p.) temporary
+[dordzeniowy]dordzeniowy (PL) : (p.) spinal
+[doregulowac]doregulować (PL) : (cz.) regulate
+[dorobek]dorobek (PL) : (rz.) acquisition; (rz.) fortune; (rz.) output; (rz.) property
+[dorobkiewicz]dorobkiewicz (PL) : (rz.) upstart
+[doroczny]doroczny (PL) : (p.) anniversary; (p.) annual; (p.) yearly
+[dorodny]dorodny (PL) : (p.) buxom; (p.) diminutive; (p.) good-looking; (p.) handsome; (p.) ripe; (p.) robust; (p.) shapely
+[doroslosc]dorosłość (PL) : (rz.) adulthood; (rz.) maturity
+[dorosly]dorosły (PL) : (p.) adult; (p.) big; (p.) grownup; (p.) grown-up
+[dorozumiec]dorozumieć (PL) : (cz.) guess; (cz.) infer
+[dorozka]dorożka (PL) : (rz.) cab; (rz.) hackney; (rz.) hackney-carriage; (rz.) taxi
+[dorozkarz]dorożkarz (PL) : (rz.) cabby; (rz.) cabman; (rz.) rcabman
+[dorsz]dorsz (PL) : (rz.) cod; (rz.) hake; (rz.) ling
+[dorwac]dorwać (PL) : (cz.) grab; (cz.) seize
+[dorywcza]dorywcza (PL) : (rz.) odd
+[dorywczo]dorywczo (PL) : (p-sł.) casually
+[dorywczy]dorywczy (PL) : (p.) casual; (p.) fitful; (p.) haphazard
+[dorzecze]dorzecze (PL) : (rz.) basin
+[dorzecznosc]dorzeczność (PL) : (rz.) efficiency
+[dorzeczny]dorzeczny (PL) : (p.) adequate; (p.) logic; (p.) reasonable
+[dorzucac]dorzucać (PL) : (cz.) comment; (cz.) throw
+[dorzucenie]dorzucenie (PL) : (rz.) adding
+[dorzucic]dorzucić (PL) : (cz.) add
+[dorownywac]dorównywać (PL) : (cz.) equal; (cz.) equalize
+[doreczac]doręczać (PL) : (cz.) deliver
+[doreczenie]doręczenie (PL) : (rz.) delivery; (rz.) service
+[doreczyciel]doręczyciel (PL) : (rz.) deliverer; (rz.) postman
+[dosadnie]dosadnie (PL) : (p-sł.) bluntly; (p-sł.) pointedly
+[dosadnosc]dosadność (PL) : (rz.) explicitness
+[dosadny]dosadny (PL) : (p.) blunt; (p.) plain; (p.) round
+[dosiadanie]dosiadanie (PL) : (rz.) horsing; (rz.) mounting; (rz.) swoop
+[dosiadac]dosiadać (PL) : (cz.) mount
+[dosieczna]dosieczna (PL) : (rz.) cosecant
+[dosiasc]dosiąść (PL) : (cz.) mount
+[dosieganie]dosięganie (PL) : (rz.) reaches
+[dosiegac]dosięgać (PL) : (cz.) attain; (cz.) reach; (cz.) win
+[dosiegnac]dosięgnąć (PL) : (cz.) reach
+[doskonale]doskonale (PL) : (p-sł.) famously; (p-sł.) perfectly; (p-sł.) supremely
+[doskonalenie]doskonalenie (PL) : (rz.) development; (rz.) improvement; (rz.) perfection
+[doskonalic]doskonalić (PL) : (cz.) accomplish; (cz.) ameliorate; (cz.) develop; (cz.) improve; (cz.) perfect; (cz.) refine; (cz.) train
+[doskonalosc]doskonałość (PL) : (rz.) excellence; (rz.) finesse; (rz.) perfection
+[doskonaly]doskonały (PL) : (p.) excellent; (p.) perfect; (p.) ripe; (p.) splendid; (p.) tiptop
+[doskwierac]doskwierać (PL) : (cz.) trouble; (cz.) worry
+[dosolic]dosolić (PL) : (cz.) sting
+[dospac]dospać (PL) : (cz.) sleep
+[dostarczac]dostarczać (PL) : (cz.) adduce; (cz.) assure; (cz.) cater; (cz.) deliver; (cz.) feed; (cz.) furnish; (cz.) provide; (cz.) purvey; (cz.) ship; (cz.) supply; (cz.) yield
+[dostarczenie]dostarczenie (PL) : (rz.) submersion
+[dostarczyciel]dostarczyciel (PL) : (rz.) caterer; (rz.) purveyor; (rz.) source
+[dostarczyc]dostarczyć (PL) : (cz.) afford; (cz.) contribute; (cz.) deliver; (cz.) procure; (cz.) provide; (cz.) purvey; (cz.) submit; (cz.) supply
+[dostatecznie]dostatecznie (PL) : (rz.) well
+[dostatecznosc]dostateczność (PL) : (rz.) adequacy; (rz.) sufficiency
+[dostateczny]dostateczny (PL) : (p.) adequate; (p.) enough; (p.) fair; (p.) passable; (p.) passing; (p.) satisfactory; (p.) sufficient
+[dostatek]dostatek (PL) : (rz.) abundance; (rz.) affluence; (rz.) ease; (rz.) prosperity; (rz.) wealth
+[dostatni]dostatni (PL) : (p.) affluent; (p.) ample; (p.) prosperous
+[dostatnio]dostatnio (PL) : (p-sł.) richly
+[dostatniosc]dostatniość (PL) : (rz.) ampleness
+[dostawa]dostawa (PL) : (rz.) cosine; (rz.) delivery; (rz.) supply
+[dostawac]dostawać (PL) : (cz.) get; (cz.) have; (cz.) obtain
+[dostawca]dostawca (PL) : (rz.) caterer; (rz.) contractor; (rz.) deliverer; (rz.) distributor; (rz.) furnisher; (rz.) provider; (rz.) purveyor; (rz.) supplier; (rz.) tradesman; (rz.) vendor
+[dostawczyni]dostawczyni (PL) : (rz.) caterer; (rz.) provider
+[dostawianie]dostawianie (PL) : (rz.) supply
+[dostawiac]dostawiać (PL) : (cz.) fetch; (cz.) supply
+[dostawka]dostawka (PL) : (rz.) bed
+[dostac]dostać (PL) : (cz.) get; (cz.) got; (cz.) procure
+[dostojenstwo]dostojeństwo (PL) : (rz.) dignity; (rz.) portliness
+[dostojnik]dostojnik (PL) : (rz.) dignitary; (rz.) notable
+[dostojnosc]dostojność (PL) : (rz.) grandeur; (rz.) lordliness
+[dostojny]dostojny (PL) : (p.) august; (p.) dignified; (p.) distinguished; (p.) imperial; (p.) lordly; (p.) portly; (p.) solemn
+[dostosowanie]dostosowanie (PL) : (rz.) accommodation; (rz.) adaptation; (rz.) adjustment; (rz.) conformity; (rz.) customization; (rz.) expedience; (rz.) expediency
+[dostosowac]dostosować (PL) : (cz.) accommodate; (cz.) adapt; (cz.) adjust; (cz.) comply; (cz.) conform; (cz.) fit; (cz.) readjust; (cz.) submit
+[dostosowywanie]dostosowywanie (PL) : (rz.) adapting; (rz.) alignment; (rz.) customization
+[dostosowywac]dostosowywać (PL) : (cz.) adapt; (cz.) conform; (cz.) customize; (cz.) frame; (cz.) suit
+[dostrajacz]dostrajacz (PL) : (rz.) tuner
+[dostrajanie]dostrajanie (PL) : (rz.) tuning
+[dostrajac]dostrajać (PL) : (cz.) detect; (cz.) tune
+[dostroic]dostroić (PL) : (cz.) attune; (cz.) conform; (cz.) tune
+[dostrojenie]dostrojenie (PL) : (rz.) adjustment; (rz.) tune
+[dostrzegalnie]dostrzegalnie (PL) : (p-sł.) discernibly; (p-sł.) noticeably; (p-sł.) perceptibly; (p-sł.) visibly
+[dostrzegalnosc]dostrzegalność (PL) : (rz.) perceptibility; (rz.) visibility
+[dostrzegalny]dostrzegalny (PL) : (p.) noticeable; (p.) observable
+[dostrzeganie]dostrzeganie (PL) : (rz.) perception; (rz.) perceptiveness
+[dostrzegac]dostrzegać (PL) : (cz.) detect; (cz.) discern; (cz.) perceive; (cz.) see; (cz.) spot
+[dostukac]dostukać (PL) : (cz.) rattle
+[dostapic]dostąpić (PL) : (cz.) approach
+[dostep]dostęp (PL) : (rz.) access; (rz.) accession; (rz.) admission; (rz.) admittance; (rz.) approach; (rz.) doorway; (rz.) entrance
+[dostepnie]dostępnie (PL) : (p-sł.) availably
+[dostepnosc]dostępność (PL) : (rz.) accessibility; (rz.) availability; (rz.) visibility
+[dostepny]dostępny (PL) : (p.) accessible; (p.) amenable; (p.) approachable; (p.) available; (p.) hospitable; (p.) off-the-shelf
+[dosuszac]dosuszać (PL) : (cz.) dry
+[dosuw]dosuw (PL) : (rz.) traverse
+[dosuwanie]dosuwanie (PL) : (rz.) justification
+[dosyt]dosyt (PL) : (rz.) satiation
+[dosyc]dosyć (PL) : (p-sł.) enough; (p-sł.) fairly; (p-sł.) quite; (p-sł.) sufficiently
+[doszczelniacz]doszczelniacz (PL) : (rz.) caulker
+[doszczetnie]doszczętnie (PL) : (p-sł.) completely
+[doszczetny]doszczętny (PL) : (p.) complete; (p.) radical; (p.) thorough
+[doszlifowac]doszlifować (PL) : (cz.) scrub
+[doszlusowac]doszlusować (PL) : (cz.) join
+[doszukac]doszukać (PL) : (cz.) detect; (cz.) found
+[doszukiwac]doszukiwać (PL) : (cz.) read; (cz.) suspect
+[doslownie]dosłownie (PL) : (p-sł.) literally; (p-sł.) textually; (p-sł.) verbatim
+[doslownosc]dosłowność (PL) : (rz.) literality; (rz.) literalness
+[doslowny]dosłowny (PL) : (p.) literal; (p.) verbal; (p.) verbatim
+[doslyszalnosc]dosłyszalność (PL) : (rz.) audibility
+[doslyszec]dosłyszeć (PL) : (cz.) catch; (cz.) hear
+[dotacja]dotacja (PL) : (rz.) donation; (rz.) endowment; (rz.) grant; (rz.) grant-in-aid; (rz.) subsidy
+[dotkliwie]dotkliwie (PL) : (p-sł.) acutely; (p-sł.) badly; (p-sł.) painfully; (p-sł.) severely; (p-sł.) soundly
+[dotkliwosc]dotkliwość (PL) : (rz.) severity
+[dotkliwy]dotkliwy (PL) : (p.) acute; (p.) heavy; (p.) intense; (p.) keen; (p.) painful; (p.) severe; (p.) smart
+[dotkniecie]dotknięcie (PL) : (rz.) dab; (rz.) knock; (rz.) touch
+[dotkniety]dotknięty (PL) : (p.) resentful
+[dotknac]dotknąć (PL) : (cz.) pique; (cz.) touch
+[dotowac]dotować (PL) : (cz.) subsidise; (cz.) subsidize
+[dotrwac]dotrwać (PL) : (cz.) survive
+[dotrzec]dotrzeć (PL) : (cz.) get; (cz.) reach
+[dotrzymac]dotrzymać (PL) : (cz.) keep
+[dotrzymywac]dotrzymywać (PL) : (cz.) keep
+[dotychczas]dotychczas (PL) : (p-sł.) heretofore; (p-sł.) hitherto; (p-sł.) yet
+[dotychczasowosc]dotychczasowość (PL) : (rz.) elder
+[dotychczasowy]dotychczasowy (PL) : (p.) current
+[dotyczyc]dotyczyć (PL) : (cz.) apply; (cz.) attract; (cz.) belong; (cz.) concern; (cz.) deal; (cz.) interest; (cz.) pertain; (cz.) refer; (cz.) regard
+[dotyczacy]dotyczący (PL) : (p.) relative
+[dotyk]dotyk (PL) : (rz.) feel; (rz.) feeling; (rz.) touch
+[dotykalnosc]dotykalność (PL) : (rz.) tangibility
+[dotykalny]dotykalny (PL) : (p.) tangible
+[dotykanie]dotykanie (PL) : (rz.) finger
+[dotykac]dotykać (PL) : (cz.) afflict; (cz.) dab; (cz.) feel; (cz.) handle; (cz.) reach; (cz.) touch
+[dotykowy]dotykowy (PL) : (p.) tactile; (p.) tactual
+[dotad]dotąd (PL) : (p-sł.) hitherto; (p-sł.) yet
+[douczac]douczać (PL) : (cz.) coach
+[doustny]doustny (PL) : (p.) oral
+[dowcip]dowcip (PL) : (rz.) esprit; (rz.) jest; (rz.) joke; (rz.) pleasantry; (rz.) quip; (rz.) wit; (rz.) witticism
+[dowcipkowac]dowcipkować (PL) : (cz.) joke
+[dowcipnie]dowcipnie (PL) : (p-sł.) ingeniously; (p-sł.) pointedly; (p-sł.) wittily
+[dowcipnis]dowcipniś (PL) : (rz.) joker; (rz.) smart; (rz.) wit; (rz.) witling
+[dowcipny]dowcipny (PL) : (p.) facetious; (p.) humorous; (p.) jocose; (p.) jocular; (p.) witty
+[dowiadywac]dowiadywać (PL) : (cz.) enquire; (cz.) find; (cz.) inquire; (cz.) learn
+[dowiedziec]dowiedzieć (PL) : (cz.) get; (cz.) hear; (cz.) know; (cz.) learn
+[dowierzac]dowierzać (PL) : (cz.) confide
+[dowierzchnia]dowierzchnia (PL) : (rz.) brow
+[dowiezienie]dowiezienie (PL) : (rz.) bringing
+[dowiesc]dowieść (PL) : (cz.) argue; (cz.) show
+[dowiezc]dowieźć (PL) : (cz.) drive
+[dowiazac]dowiązać (PL) : (cz.) bind
+[dowodowy]dowodowy (PL) : (p.) demonstrative; (p.) evidential; (p.) probative
+[dowodzenie]dowodzenie (PL) : (rz.) argumentation; (rz.) command; (rz.) contention; (rz.) demonstration; (rz.) submersion; (rz.) vindication
+[dowodzic]dowodzić (PL) : (cz.) argue; (cz.) assert; (cz.) command; (cz.) confirm; (cz.) demonstrate; (cz.) lead; (cz.) prove; (cz.) submit; (cz.) vindicate
+[dowodzacy]dowodzący (PL) : (p.) demonstrative
+[dowolnie]dowolnie (PL) : (p-sł.) free; (p-sł.) freely; (p-sł.) optionally
+[dowolnosc]dowolność (PL) : (rz.) flexibility
+[dowolny]dowolny (PL) : (p.) any; (p.) arbitrary; (p.) discretional; (p.) discretionary; (p.) free-form; (p.) optional; (p.) volitional
+[dowozic]dowozić (PL) : (cz.) transport
+[dowolac]dowołać (PL) : (cz.) call
+[dowod]dowód (PL) : (rz.) affirmation; (rz.) argument; (rz.) averment; (rz.) evidence; (rz.) obviousness; (rz.) plea; (rz.) proof; (rz.) record
+[dowodca]dowódca (PL) : (rz.) captain; (rz.) commander; (rz.) commodore
+[dowodczy]dowódczy (PL) : (p.) commander's
+[dowodztwo]dowództwo (PL) : (rz.) command; (rz.) headquarters
+[dowoz]dowóz (PL) : (rz.) delivery; (rz.) supply
+[doza]doza (PL) : (rz.) dose; (rz.) element
+[dozator]dozator (PL) : (rz.) batcher
+[dozbrajanie]dozbrajanie (PL) : (rz.) rearmament
+[dozbrajac]dozbrajać (PL) : (cz.) rearm
+[dozbrojenie]dozbrojenie (PL) : (rz.) rearmament
+[dozgonny]dozgonny (PL) : (p.) lifelong; (p.) undying
+[doznanie]doznanie (PL) : (rz.) experience; (rz.) sensation
+[doznawanie]doznawanie (PL) : (rz.) encounter
+[doznawac]doznawać (PL) : (cz.) experience; (cz.) sustain
+[doznac]doznać (PL) : (cz.) experience
+[dozorca]dozorca (PL) : (rz.) attendant; (rz.) caretaker; (rz.) concierge; (rz.) custodian; (rz.) doorkeeper; (rz.) jailer; (rz.) janitor; (rz.) keeper; (rz.) porter; (rz.) turnkey; (rz.) warder
+[dozorczyni]dozorczyni (PL) : (rz.) caretaker; (rz.) housekeeper
+[dozorowanie]dozorowanie (PL) : (rz.) inspection; (rz.) supervision
+[dozorowac]dozorować (PL) : (cz.) inspect; (cz.) supervise; (cz.) tend
+[dozorowy]dozorowy (PL) : (p.) supervisory
+[dozowanie]dozowanie (PL) : (rz.) batching; (rz.) dosage; (rz.) metering
+[dozowac]dozować (PL) : (cz.) dispense; (cz.) dose
+[dozownik]dozownik (PL) : (rz.) batcher; (rz.) dispenser; (rz.) feeder
+[dozwolic]dozwolić (PL) : (cz.) permit
+[dozymetr]dozymetr (PL) : (rz.) dosimeter
+[dozor]dozór (PL) : (rz.) care; (rz.) inspection; (rz.) supervision
+[doladowanie]doładowanie (PL) : (rz.) supercharging
+[doladowywac]doładowywać (PL) : (cz.) supercharge
+[dolek]dołek (PL) : (rz.) dimple; (rz.) hole
+[dolowac]dołować (PL) : (cz.) pit
+[dolozyc]dołożyć (PL) : (cz.) add; (cz.) make; (cz.) put; (cz.) walloping
+[dolaczac]dołączać (PL) : (cz.) add; (cz.) annotate; (cz.) attach; (cz.) enclose; (cz.) join
+[dolaczony]dołączony (PL) : (p.) attached; (p.) in-line
+[dolaczyc]dołączyć (PL) : (cz.) accede; (cz.) add; (cz.) adjoin; (cz.) affix; (cz.) annex; (cz.) append; (cz.) associate; (cz.) attach; (cz.) join; (cz.) subjoin
+[doscigniecie]doścignięcie (PL) : (rz.) attainment
+[dospiewac]dośpiewać (PL) : (cz.) sing
+[dosrodkowo]dośrodkowo (PL) : (p-sł.) centripetally; (p-sł.) concentrically
+[dosrodkowosc]dośrodkowość (PL) : (rz.) concentricity
+[dosrodkowy]dośrodkowy (PL) : (p.) affective; (p.) afferent; (p.) centripetal
+[dosrubowac]dośrubować (PL) : (cz.) screw
+[doswiadczalnie]doświadczalnie (PL) : (p-sł.) empirically; (p-sł.) experimentally
+[doswiadczalny]doświadczalny (PL) : (p.) experimental
+[doswiadczac]doświadczać (PL) : (cz.) experience; (cz.) experiment; (cz.) feel; (cz.) try; (cz.) undergo
+[doswiadczenie]doświadczenie (PL) : (rz.) experience; (rz.) experiment; (rz.) expertise; (rz.) ordeal
+[doswiadczony]doświadczony (PL) : (p.) able; (p.) adept; (p.) conversant; (p.) experienced; (p.) expert; (p.) skilled; (p.) versed
+[doswiadczyc]doświadczyć (PL) : (cz.) experience; (cz.) undergo
+[dosc]dość (PL) : (p-sł.) enough; (p-sł.) fairly; (p-sł.) quite; (p-sł.) rather; (p-sł.) reasonably; (p-sł.) so
+[doza]doża (PL) : (rz.) doge
+[dozylny]dożylny (PL) : (p.) intravenous
+[dozynki]dożynki (PL) : (rz.) harvest
+[dozywianie]dożywianie (PL) : (rz.) feed
+[dozywocie]dożywocie (PL) : (rz.) annuity; (rz.) jointure; (rz.) life; (rz.) pension
+[dozywotni]dożywotni (PL) : (p.) lifelong
+[dozywotnik]dożywotnik (PL) : (rz.) lifer
+[drab]drab (PL) : (rz.) rascal
+[drabina]drabina (PL) : (rz.) ladder; (rz.) stepladder
+[drabinka]drabinka (PL) : (rz.) ladder
+[drachma]drachma (PL) : (rz.) dram
+[draga]draga (PL) : (rz.) dredge
+[dragoman]dragoman (PL) : (rz.) dragoman
+[dragon]dragon (PL) : (rz.) dragoon
+[dragowac]dragować (PL) : (cz.) dredge
+[draka]draka (PL) : (rz.) row
+[drakonski]drakoński (PL) : (p.) draconian; (p.) severe
+[dramat]dramat (PL) : (rz.) drama; (rz.) legit
+[dramatopisarstwo]dramatopisarstwo (PL) : (rz.) dramaturgy
+[dramatopisarz]dramatopisarz (PL) : (rz.) playwright
+[dramaturg]dramaturg (PL) : (rz.) dramatist; (rz.) playwright
+[dramaturgia]dramaturgia (PL) : (rz.) drama; (rz.) dramaturgy
+[dramaturgiczny]dramaturgiczny (PL) : (p.) dramaturgic
+[dramatycznie]dramatycznie (PL) : (p-sł.) dramatically
+[dramatyczny]dramatyczny (PL) : (p.) dramatic; (p.) histrionic
+[dramatyzacja]dramatyzacja (PL) : (rz.) dramatization
+[dramatyzowac]dramatyzować (PL) : (cz.) dramatize
+[drapacz]drapacz (PL) : (rz.) scraper
+[drapak]drapak (PL) : (rz.) bolt
+[drapac]drapać (PL) : (cz.) claw; (cz.) grate; (cz.) scramble; (cz.) scrape; (cz.) scratch
+[draperia]draperia (PL) : (rz.) drapery; (rz.) sari
+[drapichrust]drapichrust (PL) : (rz.) rogue
+[drapiezca]drapieżca (PL) : (rz.) predator
+[drapiezczy]drapieżczy (PL) : (p.) grasping
+[drapieznictwo]drapieżnictwo (PL) : (rz.) predation
+[drapieznik]drapieżnik (PL) : (rz.) predator
+[drapieznosc]drapieżność (PL) : (rz.) rapacity
+[drapiezny]drapieżny (PL) : (p.) predacious; (p.) predatory; (p.) rapacious; (p.) raptorial; (p.) ravenous
+[drapniecie]drapnięcie (PL) : (rz.) bolt
+[drapowanie]drapowanie (PL) : (rz.) drapery
+[drapowac]drapować (PL) : (cz.) drape
+[drastycznie]drastycznie (PL) : (p-sł.) drastically
+[drastycznosc]drastyczność (PL) : (rz.) indecency
+[drastyczny]drastyczny (PL) : (p.) drastic; (p.) risqué
+[dratwa]dratwa (PL) : (rz.) twine
+[dran]drań (PL) : (rz.) bastard; (rz.) cad; (rz.) scoundrel; (rz.) villain
+[dranski]drański (PL) : (p.) mean
+[dranstwo]draństwo (PL) : (rz.) meanness; (rz.) riffraff; (rz.) roguery
+[drasniecie]draśnięcie (PL) : (rz.) graze; (rz.) scrape; (rz.) scratch
+[drazetka]drażetka (PL) : (rz.) pill
+[drazliwosc]drażliwość (PL) : (rz.) fretfulness; (rz.) irritability; (rz.) petulance; (rz.) sensitivity; (rz.) touchiness
+[drazliwy]drażliwy (PL) : (p.) edgy; (p.) fretful; (p.) huffish; (p.) huffy; (p.) irascible; (p.) irritable; (p.) peevish; (p.) pettish; (p.) sensitive; (p.) slippery; (p.) squeamish; (p.) susceptible; (p.) tetchy; (p.) thorny; (p.) ticklish; (p.) touchy
+[draznienie]drażnienie (PL) : (rz.) provocation
+[draznic]drażnić (PL) : (cz.) anger; (cz.) annoy; (cz.) bait; (cz.) banter; (cz.) chafe; (cz.) displease; (cz.) exasperate; (cz.) fret; (cz.) irk; (cz.) irritate; (cz.) jar; (cz.) nettle; (cz.) rasp; (cz.) ruffle; (cz.) tantalize; (cz.) tease; (cz.) vex; (cz.) zap
+[drelich]drelich (PL) : (rz.) denim; (rz.) drill; (rz.) dungaree; (rz.) jean
+[drelichowy]drelichowy (PL) : (p.) denim
+[dren]dren (PL) : (rz.) drain; (rz.) drainpipe
+[drenaz]drenaż (PL) : (rz.) drain; (rz.) drainage
+[drenowanie]drenowanie (PL) : (rz.) drainage
+[drenowac]drenować (PL) : (cz.) ditch; (cz.) drain
+[dreptanie]dreptanie (PL) : (rz.) toddle; (rz.) tripping
+[dreptac]dreptać (PL) : (cz.) mince; (cz.) patter; (cz.) scurry; (cz.) toddle
+[dres]dres (PL) : (rz.) tracksuit; (rz.) track-suit
+[dreszcz]dreszcz (PL) : (rz.) chill; (rz.) shiver; (rz.) shudder; (rz.) thrill; (rz.) throb; (rz.) tremor
+[dreszcze]dreszcze (PL) : (rz.) ague; (rz.) rigor
+[dreszczowiec]dreszczowiec (PL) : (rz.) family; (rz.) thriller
+[dreszczowy]dreszczowy (PL) : (p.) creepy; (p.) thrilling
+[dreszczyk]dreszczyk (PL) : (rz.) shudder; (rz.) thrill
+[drewienko]drewienko (PL) : (rz.) stick
+[drewniak]drewniak (PL) : (rz.) clod; (rz.) clog; (rz.) sabot
+[drewniaki]drewniaki (PL) : (rz.) clogs
+[drewniany]drewniany (PL) : (p.) ligneous; (p.) timbered; (p.) wooden; (p.) woodenly; (p.) woody
+[drewnienie]drewnienie (PL) : (rz.) lignifying
+[drewno]drewno (PL) : (rz.) lumber; (rz.) timber; (rz.) tree; (rz.) wood; (rz.) woodworking
+[drewutnia]drewutnia (PL) : (rz.) wood-shed
+[drezyna]drezyna (PL) : (rz.) car; (rz.) go-devil; (rz.) trolley
+[drganie]drganie (PL) : (rz.) chatter; (rz.) flicker; (rz.) jitter; (rz.) oscillation; (rz.) palpitation; (rz.) quiver; (rz.) throb; (rz.) trembling; (rz.) tremor; (rz.) twitch; (rz.) vibration
+[drgawka]drgawka (PL) : (rz.) convulsion; (rz.) spasm; (rz.) twitch
+[drgawkowy]drgawkowy (PL) : (p.) convulsive
+[drgac]drgać (PL) : (cz.) flicker; (cz.) oscillate; (cz.) palpitate; (cz.) throb; (cz.) tremble; (cz.) twitch; (cz.) vibrate; (cz.) wince
+[drgnienie]drgnienie (PL) : (rz.) shiver
+[drgniecie]drgnięcie (PL) : (rz.) jerk
+[driada]driada (PL) : (rz.) dryad
+[drobiarski]drobiarski (PL) : (p.) poultry-farming
+[drobiazg]drobiazg (PL) : (rz.) biggie; (rz.) fingerling; (rz.) knickknack; (rz.) knick-knack; (rz.) little; (rz.) mite; (rz.) trifle; (rz.) trinket
+[drobiazgowo]drobiazgowo (PL) : (p-sł.) meticulously; (p-sł.) minutely
+[drobiazgowosc]drobiazgowość (PL) : (rz.) hair-splitting; (rz.) lengthiness; (rz.) pedantry
+[drobiazgowy]drobiazgowy (PL) : (p.) detailed; (p.) finicky; (p.) fussy; (p.) meticulous; (p.) minute; (p.) narrow; (p.) niggling; (p.) painstaking; (p.) pernickety; (p.) punctilious; (p.) searching; (p.) thorough; (p.) verbose
+[drobina]drobina (PL) : (rz.) fraction; (rz.) molecule; (rz.) particle
+[drobic]drobić (PL) : (cz.) crumble; (cz.) mince; (cz.) toddle
+[drobne]drobne (PL) : (rz.) change
+[drobniak]drobniak (PL) : (rz.) coin
+[drobniec]drobnieć (PL) : (cz.) lessen
+[drobno]drobno (PL) : (p-sł.) fine; (p-sł.) finely
+[drobnokrystaliczny]drobnokrystaliczny (PL) : (p.) fine-crystalline
+[drobnomieszczanski]drobnomieszczański (PL) : (p.) smug
+[drobnostka]drobnostka (PL) : (rz.) biggie; (rz.) fleabite; (rz.) flea-bite; (rz.) jot; (rz.) littleness; (rz.) nothing; (rz.) trifle
+[drobnostkowy]drobnostkowy (PL) : (p.) mean; (p.) meticulous
+[drobnoustroj]drobnoustrój (PL) : (rz.) animalcule; (rz.) germ; (rz.) microbe; (rz.) micro-organism
+[drobnoziarnisty]drobnoziarnisty (PL) : (p.) fine; (p.) fine-grained
+[drobnosc]drobność (PL) : (rz.) pettiness
+[drobny]drobny (PL) : (p.) dainty; (p.) delicate; (p.) fine; (p.) fine-grained; (p.) granular; (p.) inconsiderable; (p.) minute; (p.) paltry; (p.) petite; (p.) petty; (p.) puny; (p.) slight; (p.) small; (p.) tenuous; (p.) tiny; (p.) trifling; (p.) wee; (p.) wispy
+[droczyc]droczyć (PL) : (cz.) banter; (cz.) tease
+[droga]droga (PL) : (rz.) avenue; (rz.) highway; (rz.) journey; (rz.) lane; (rz.) pad; (rz.) path; (rz.) pathname; (rz.) pathway; (rz.) road; (rz.) roadway; (rz.) route; (rz.) street; (rz.) track; (rz.) trail; (rz.) walk; (rz.) way
+[drogeria]drogeria (PL) : (rz.) chemist's; (rz.) drugstore; (rz.) drug-store
+[drogi]drogi (PL) : (p.) beloved; (p.) dear; (p.) expensive; (p.) pricey
+[drogo]drogo (PL) : (p-sł.) dearly; (p-sł.) expensively
+[drogocennosc]drogocenność (PL) : (rz.) preciousness
+[drogocenny]drogocenny (PL) : (p.) precious; (p.) valuable
+[drogomierz]drogomierz (PL) : (rz.) distance
+[drogowiec]drogowiec (PL) : (rz.) roadman
+[drogowskaz]drogowskaz (PL) : (rz.) directory; (rz.) fingerpost; (rz.) finger-post; (rz.) guidepost; (rz.) guide-post; (rz.) signpost; (rz.) sign-post
+[dromader]dromader (PL) : (rz.) dromedary
+[drop]drop (PL) : (rz.) bustard
+[drozd]drozd (PL) : (rz.) robin; (rz.) thrush
+[drozdze]drożdże (PL) : (rz.) leaven; (rz.) yeast
+[drozdzowka]drożdżówka (PL) : (rz.) bun
+[droznosc]drożność (PL) : (rz.) permeability
+[drozny]drożny (PL) : (p.) permeable
+[drozyna]drożyna (PL) : (rz.) footpath; (rz.) lane
+[drozyzna]drożyzna (PL) : (rz.) dearness; (rz.) dearth
+[druciany]druciany (PL) : (p.) wiry
+[druciarz]druciarz (PL) : (rz.) tinker; (rz.) wiredrawer
+[druczek]druczek (PL) : (rz.) leaflet
+[drugi]drugi (PL) : (p.) another; (p.) farther; (p.) latter; (p.) other; (p.) second
+[drugoplanowy]drugoplanowy (PL) : (p.) peripheral
+[drugorzedny]drugorzędny (PL) : (p.) accidental; (p.) minor; (p.) secondary; (p.) second-class; (p.) second-rate; (p.) subsidiary
+[drugorzedowy]drugorzędowy (PL) : (p.) secondary
+[druh]druh (PL) : (rz.) companion; (rz.) scout; (rz.) scoutmaster
+[druhna]druhna (PL) : (rz.) bridesmaid
+[druidyczny]druidyczny (PL) : (p.) druidic
+[druk]druk (PL) : (rz.) impression; (rz.) press; (rz.) print; (rz.) printing; (rz.) type
+[drukarka]drukarka (PL) : (rz.) printer
+[drukarnia]drukarnia (PL) : (rz.) printing; (rz.) printing-house; (rz.) print-works
+[drukarski]drukarski (PL) : (p.) printer's
+[drukarstwo]drukarstwo (PL) : (rz.) printing
+[drukarz]drukarz (PL) : (rz.) printer; (rz.) typo; (rz.) typographer
+[drukowalny]drukowalny (PL) : (p.) printable
+[drukowanie]drukowanie (PL) : (rz.) print; (rz.) printing
+[drukowany]drukowany (PL) : (p.) printed
+[drukowac]drukować (PL) : (cz.) print
+[drumla]drumla (PL) : (rz.) jew's-harp
+[drut]drut (PL) : (rz.) needle; (rz.) wire
+[drutowac]drutować (PL) : (cz.) wire
+[druty]druty (PL) : (rz.) tag
+[druza]druza (PL) : (rz.) geode
+[druzgocacy]druzgocący (PL) : (p.) smashing
+[druzgotac]druzgotać (PL) : (cz.) comminute; (cz.) crush; (cz.) smash
+[druzba]drużba (PL) : (rz.) groomsman
+[druzka]drużka (PL) : (rz.) bridesmaid
+[druzyna]drużyna (PL) : (rz.) line-up; (rz.) squad; (rz.) team
+[drwal]drwal (PL) : (rz.) feller; (rz.) logger; (rz.) lumberjack; (rz.) lumberman; (rz.) woodcutter; (rz.) woodman
+[drwalnia]drwalnia (PL) : (rz.) wood-shed
+[drwina]drwina (PL) : (rz.) derision; (rz.) jeer; (rz.) mockery; (rz.) sneer; (rz.) taunt
+[drwinkowac]drwinkować (PL) : (cz.) joke
+[drwic]drwić (PL) : (cz.) gibe; (cz.) jeer; (cz.) mock; (cz.) scoff; (cz.) sneer
+[drybling]drybling (PL) : (rz.) dribble
+[dryblowac]dryblować (PL) : (cz.) dribble
+[dryf]dryf (PL) : (rz.) drift; (rz.) drift-anchor; (rz.) leeway
+[dryfkotwa]dryfkotwa (PL) : (rz.) drogue
+[dryfowanie]dryfowanie (PL) : (rz.) drift
+[dryfowac]dryfować (PL) : (cz.) drift; (cz.) drifting; (cz.) float
+[dryft]dryft (PL) : (rz.) drift
+[dryfter]dryfter (PL) : (rz.) drifter
+[dryg]dryg (PL) : (rz.) flair; (rz.) knack
+[dryl]dryl (PL) : (rz.) drill
+[drylowac]drylować (PL) : (cz.) stone
+[drynda]drynda (PL) : (rz.) growler
+[dryndziarz]dryndziarz (PL) : (rz.) cabby; (rz.) cabman
+[drzazga]drzazga (PL) : (rz.) chip; (rz.) sliver; (rz.) splinter
+[drzemac]drzemać (PL) : (cz.) doze; (cz.) drowse; (cz.) lurk; (cz.) nap; (cz.) nod; (cz.) slumber; (cz.) snooze
+[drzemka]drzemka (PL) : (rz.) doze; (rz.) drowse; (rz.) nap; (rz.) slumber; (rz.) snooze
+[drzewce]drzewce (PL) : (rz.) flagstaff; (rz.) shaft; (rz.) spar; (rz.) staffs; (rz.) truncheon
+[drzewiasty]drzewiasty (PL) : (p.) ligneous; (p.) treelike; (p.) woody
+[drzewko]drzewko (PL) : (rz.) sapling; (rz.) tree
+[drzewnik]drzewnik (PL) : (rz.) lignin
+[drzewny]drzewny (PL) : (p.) arboreal; (p.) woody
+[drzewo]drzewo (PL) : (rz.) timber; (rz.) tree; (rz.) wood
+[drzeworyt]drzeworyt (PL) : (rz.) engraving; (rz.) woodcut; (rz.) xylograph
+[drzeworytnictwo]drzeworytnictwo (PL) : (rz.) woodcarving; (rz.) wood-carving; (rz.) wood-engraving; (rz.) xylography
+[drzeworytniczy]drzeworytniczy (PL) : (p.) xylographic
+[drzeworytnik]drzeworytnik (PL) : (rz.) wood; (rz.) woodcutter
+[drzewozbior]drzewozbiór (PL) : (rz.) arboretum
+[drzewoznawstwo]drzewoznawstwo (PL) : (rz.) dendrology
+[drzec]drzeć (PL) : (cz.) quarrel; (cz.) rip; (cz.) tear
+[drzwi]drzwi (PL) : (rz.) door; (rz.) doors; (rz.) trapdoor
+[drzwiczki]drzwiczki (PL) : (rz.) door; (rz.) hatch
+[drob]drób (PL) : (rz.) crumble; (rz.) fowl; (rz.) poultry
+[drobka]dróbka (PL) : (rz.) giblets
+[drog]dróg (PL) : (rz.) road; (rz.) roads
+[drozka]dróżka (PL) : (rz.) lane; (rz.) path
+[droznik]dróżnik (PL) : (rz.) ditcher; (rz.) gatekeeper; (rz.) gate-keeper; (rz.) gateman; (rz.) linesman
+[drag]drąg (PL) : (rz.) boathook; (rz.) heaver; (rz.) pole; (rz.) rod; (rz.) spar
+[dragal]drągal (PL) : (rz.) lout
+[drazek]drążek (PL) : (rz.) joystick; (rz.) lever; (rz.) rod; (rz.) shaft; (rz.) stick
+[drazyc]drążyć (PL) : (cz.) bore; (cz.) cave; (cz.) drill
+[dreczenie]dręczenie (PL) : (rz.) trouble
+[dreczyciel]dręczyciel (PL) : (rz.) molester; (rz.) tormentor; (rz.) torturer
+[dreczyc]dręczyć (PL) : (cz.) afflict; (cz.) agonize; (cz.) beset; (cz.) bother; (cz.) exasperate; (cz.) gnaw; (cz.) harass; (cz.) hassle; (cz.) heckle; (cz.) lacerate; (cz.) mortify; (cz.) nag; (cz.) pester; (cz.) rankle; (cz.) tantalize; (cz.) torment; (cz.) vex; (cz.) worry
+[dretwienie]drętwienie (PL) : (rz.) numbness
+[dretwiec]drętwieć (PL) : (cz.) benumb; (cz.) stiffen
+[dretwo]drętwo (PL) : (p-sł.) lifelessly
+[dretwota]drętwota (PL) : (rz.) numbness
+[dretwy]drętwy (PL) : (p.) dreary; (p.) dry; (p.) numb
+[drzenie]drżenie (PL) : (rz.) dither; (rz.) quake; (rz.) quaver; (rz.) quiver; (rz.) shiver; (rz.) shudder; (rz.) thrill; (rz.) tremble; (rz.) trembling; (rz.) tremor; (rz.) trepidation
+[drzec]drżeć (PL) : (cz.) creep; (cz.) quake; (cz.) quaver; (cz.) quiver; (cz.) shake; (cz.) shiver; (cz.) shudder; (cz.) thrill; (cz.) tremble; (cz.) vibrate
+[drzaco]drżąco (PL) : (p-sł.) shakily
+[drzacy]drżący (PL) : (p.) shaky; (p.) tremulous
+[drzaczka]drżączka (PL) : (rz.) tizzy
+[dualizm]dualizm (PL) : (rz.) dualism; (rz.) duality
+[dualnosc]dualność (PL) : (rz.) duality
+[dubbingowac]dubbingować (PL) : (cz.) dub
+[dubeltowka]dubeltówka (PL) : (rz.) shotgun
+[dubler]dubler (PL) : (rz.) double; (rz.) doubler; (rz.) stand-in; (rz.) understudy
+[dublet]dublet (PL) : (rz.) dipole; (rz.) doublet
+[dublon]dublon (PL) : (rz.) doubloon
+[dublowanie]dublowanie (PL) : (rz.) double; (rz.) doubling; (rz.) duplication
+[dublowac]dublować (PL) : (cz.) double; (cz.) redouble
+[duby]duby (PL) : (rz.) balderdash
+[duch]duch (PL) : (rz.) apparition; (rz.) esprit; (rz.) ghost; (rz.) mettle; (rz.) mind; (rz.) morale; (rz.) pecker; (rz.) revenant; (rz.) soul; (rz.) spectre; (rz.) spirit; (rz.) spook
+[duchowienstwo]duchowieństwo (PL) : (rz.) clergy; (rz.) priesthood
+[duchowny]duchowny (PL) : (p.) clerical; (p.) divine; (p.) ecclesiastic; (p.) ecclesiastical
+[duchowo]duchowo (PL) : (p-sł.) inwardly; (p-sł.) spiritually
+[duchowosc]duchowość (PL) : (rz.) inwardness; (rz.) spirituality
+[duchowy]duchowy (PL) : (p.) ghostly; (p.) inward; (p.) nonmaterial; (p.) psychical; (p.) spiritual
+[duda]duda (PL) : (rz.) bagpipe; (rz.) fathead; (rz.) pipe
+[dudek]dudek (PL) : (rz.) cully; (rz.) hoopoe
+[dudka]dudka (PL) : (rz.) hoopoe; (rz.) pipe
+[dudki]dudki (PL) : (rz.) hoopoes
+[dudnienie]dudnienie (PL) : (rz.) beat; (rz.) rumble
+[dudnic]dudnić (PL) : (cz.) resound; (cz.) rumble; (cz.) thump
+[dudy]dudy (PL) : (rz.) bagpipes
+[dudziarz]dudziarz (PL) : (rz.) bag-piper; (rz.) piper
+[duet]duet (PL) : (rz.) duel; (rz.) duet
+[dufny]dufny (PL) : (p.) self-confident; (p.) smug
+[dukat]dukat (PL) : (rz.) ducat
+[dukac]dukać (PL) : (cz.) stammer
+[dukt]dukt (PL) : (rz.) duet; (rz.) product
+[dulka]dulka (PL) : (rz.) oarlock; (rz.) rowlock
+[duma]duma (PL) : (rz.) haughtiness; (rz.) hauteur; (rz.) pride; (rz.) swagger
+[dumanie]dumanie (PL) : (rz.) musing; (rz.) reverie
+[dumac]dumać (PL) : (cz.) meditate
+[dumnie]dumnie (PL) : (p-sł.) highly; (p-sł.) proudly
+[dumny]dumny (PL) : (p.) haughty; (p.) high; (p.) lordly; (p.) overbearing; (p.) proud; (p.) prouder; (p.) supercilious
+[dupa]dupa (PL) : (rz.) arse; (rz.) ass; (rz.) asshole; (rz.) butt; (rz.) buttocks; (rz.) duff; (rz.) duster
+[dupek]dupek (PL) : (rz.) asshole; (rz.) ass-hole; (rz.) klutz
+[dupleksowy]dupleksowy (PL) : (p.) duplex; (p.) full-duplex
+[duplikacja]duplikacja (PL) : (rz.) duplication; (rz.) duplications
+[duplikat]duplikat (PL) : (rz.) counterpart; (rz.) duplicate
+[duplikowac]duplikować (PL) : (cz.) duplicate
+[dur]dur (PL) : (rz.) major; (rz.) typhoid
+[dural]dural (PL) : (rz.) duralumin
+[duraluminium]duraluminium (PL) : (rz.) duralumin
+[duren]dureń (PL) : (rz.) blockhead; (rz.) booby; (rz.) idiot; (rz.) jackass; (rz.) juggins; (rz.) loggerhead; (rz.) numskull; (rz.) tit; (rz.) twerp; (rz.) twit
+[durnowaty]durnowaty (PL) : (p.) dotty; (p.) dumb
+[durny]durny (PL) : (p.) daft; (p.) dumb; (p.) foolish; (p.) goofy; (p.) silly; (p.) stupid
+[durowy]durowy (PL) : (p.) major; (p.) typhoid
+[durszlak]durszlak (PL) : (rz.) colander; (rz.) sieve; (rz.) strainer
+[durzyc]durzyć (PL) : (cz.) dupe; (cz.) fool
+[dusiciel]dusiciel (PL) : (rz.) constrictor; (rz.) strangler
+[dusigrosz]dusigrosz (PL) : (rz.) cheapskate; (rz.) miser; (rz.) niggard; (rz.) penny-pincher; (rz.) tightwad
+[dusic]dusić (PL) : (cz.) braise; (cz.) choke; (cz.) simmer; (cz.) smother; (cz.) squeeze; (cz.) squelch; (cz.) stew; (cz.) stifle; (cz.) strangle; (cz.) strangulate; (cz.) suffocate; (cz.) sulk; (cz.) suppress; (cz.) throttle
+[dusza]dusza (PL) : (rz.) psyche; (rz.) soul; (rz.) spirit
+[duszenie]duszenie (PL) : (rz.) asphyxia; (rz.) simmer
+[dusznica]dusznica (PL) : (rz.) angina; (rz.) asthma
+[duszno]duszno (PL) : (p-sł.) stiflingly; (p-sł.) sultrily
+[duszny]duszny (PL) : (p.) airless; (p.) airtight; (p.) air-tight; (p.) frowsty; (p.) frowzy; (p.) fuggy; (p.) muggy; (p.) oppressive; (p.) sticky; (p.) stuffy; (p.) sultry
+[duszony]duszony (PL) : (p.) braised; (p.) stewed
+[duszpasterski]duszpasterski (PL) : (p.) pastoral; (p.) priestly
+[duszpasterstwo]duszpasterstwo (PL) : (rz.) ministry; (rz.) priesthood
+[duszpasterz]duszpasterz (PL) : (rz.) priest
+[duzo]dużo (PL) : (p-sł.) plenty
+[duzy]duży (PL) : (p.) ample; (p.) big; (p.) bulky; (p.) capital; (p.) goodly; (p.) grand; (p.) great; (p.) gross; (p.) large; (p.) massive; (p.) massy; (p.) sizable
+[dwoisty]dwoisty (PL) : (p.) dual
+[dwoic]dwoić (PL) : (cz.) divide
+[dwojaki]dwojaki (PL) : (p.) twofold
+[dwojakosc]dwojakość (PL) : (rz.) ambivalence
+[dwojenie]dwojenie (PL) : (rz.) doubling; (rz.) skiving; (rz.) two
+[dworak]dworak (PL) : (rz.) courtier; (rz.) farmhand
+[dworek]dworek (PL) : (rz.) manor-house
+[dworkowy]dworkowy (PL) : (p.) manorial
+[dworny]dworny (PL) : (p.) courtly
+[dworowac]dworować (PL) : (cz.) ridicule
+[dworski]dworski (PL) : (p.) courtly
+[dworskosc]dworskość (PL) : (rz.) courtliness
+[dworzanin]dworzanin (PL) : (rz.) courtier
+[dworzec]dworzec (PL) : (rz.) depot; (rz.) station; (rz.) terminal
+[dwuatomowy]dwuatomowy (PL) : (p.) diatomic
+[dwubajtowy]dwubajtowy (PL) : (p.) double-byte
+[dwubarwny]dwubarwny (PL) : (p.) two-colour
+[dwubiegun]dwubiegun (PL) : (rz.) dipole
+[dwubiegunowosc]dwubiegunowość (PL) : (rz.) bipolarity; (rz.) tension
+[dwubiegunowy]dwubiegunowy (PL) : (p.) bipolar; (p.) dipolar; (p.) double-pole
+[dwuboj]dwubój (PL) : (rz.) biathlon
+[dwuchromian]dwuchromian (PL) : (rz.) dichromate
+[dwuczasteczkowy]dwucząsteczkowy (PL) : (p.) bimolecular
+[dwudzielnosc]dwudzielność (PL) : (rz.) bipartition; (rz.) dichotomy; (rz.) duality
+[dwudzielny]dwudzielny (PL) : (p.) bifid; (p.) bipartite
+[dwudziesty]dwudziesty (PL) : (p.) twentieth; (p.) twenty
+[dwufazowy]dwufazowy (PL) : (p.) diphase
+[dwugarmond]dwugarmond (PL) : (rz.) paragon
+[dwugloska]dwugłoska (PL) : (rz.) diphthong
+[dwujezycznosc]dwujęzyczność (PL) : (rz.) bilingualism
+[dwujezyczny]dwujęzyczny (PL) : (p.) bilingual
+[dwukierunkowosc]dwukierunkowość (PL) : (rz.) bi-direction
+[dwukierunkowy]dwukierunkowy (PL) : (p.) bidirectional
+[dwukolowiec]dwukołowiec (PL) : (rz.) hansom
+[dwukropek]dwukropek (PL) : (rz.) colon
+[dwukrotnie]dwukrotnie (PL) : (p-sł.) twice; (p-sł.) twofold
+[dwukrotny]dwukrotny (PL) : (p.) twofold
+[dwukolka]dwukółka (PL) : (rz.) dray; (rz.) gig
+[dwulicowosc]dwulicowość (PL) : (rz.) double-dealing; (rz.) duplicity; (rz.) obliqueness
+[dwuliniowy]dwuliniowy (PL) : (p.) bilinear
+[dwulufowy]dwulufowy (PL) : (p.) twin-barrel
+[dwumetaliczny]dwumetaliczny (PL) : (p.) bimetallic
+[dwumian]dwumian (PL) : (rz.) binomial
+[dwumiesiecznik]dwumiesięcznik (PL) : (rz.) bimonthly
+[dwunastkowy]dwunastkowy (PL) : (p.) duodecimal
+[dwunastnica]dwunastnica (PL) : (rz.) duodenum
+[dwunastokat]dwunastokąt (PL) : (rz.) dodecagon
+[dwunastoscian]dwunastościan (PL) : (rz.) dodecahedron
+[dwunasty]dwunasty (PL) : (p.) twelfth
+[dwunitkowy]dwunitkowy (PL) : (p.) bifilar
+[dwunozny]dwunożny (PL) : (p.) bipedal
+[dwuobiektywowy]dwuobiektywowy (PL) : (p.) binocular
+[dwuoczny]dwuoczny (PL) : (p.) binocular
+[dwuogniskowy]dwuogniskowy (PL) : (p.) bifocal
+[dwupostaciowosc]dwupostaciowość (PL) : (rz.) dimorphism
+[dwupostaciowy]dwupostaciowy (PL) : (p.) dimorphic
+[dwuplat]dwupłat (PL) : (rz.) biplane
+[dwuplatowiec]dwupłatowiec (PL) : (rz.) biplane
+[dwuplciowosc]dwupłciowość (PL) : (rz.) androgyny
+[dwurzedowy]dwurzędowy (PL) : (p.) double-breasted
+[dwusiarczek]dwusiarczek (PL) : (rz.) disulfide
+[dwusieczna]dwusieczna (PL) : (rz.) bisector
+[dwustronnie]dwustronnie (PL) : (p-sł.) bilaterally
+[dwustronny]dwustronny (PL) : (p.) double-ended; (p.) double-sided; (p.) two-sided
+[dwuteownik]dwuteownik (PL) : (rz.) I-bar; (rz.) I-section; (rz.) joist
+[dwutlenek]dwutlenek (PL) : (rz.) dioxide
+[dwutygodniowy]dwutygodniowy (PL) : (p.) fortnightly
+[dwuuszny]dwuuszny (PL) : (p.) binaural
+[dwuwarstwowy]dwuwarstwowy (PL) : (p.) two-tier
+[dwuwartosciowy]dwuwartościowy (PL) : (p.) bivalent; (p.) divalent
+[dwuwiersz]dwuwiersz (PL) : (rz.) couplet; (rz.) distich
+[dwuwklesly]dwuwklęsły (PL) : (p.) biconcave; (p.) concavo-concave
+[dwuwymiarowy]dwuwymiarowy (PL) : (p.) two-dimensional
+[dwuwypukly]dwuwypukły (PL) : (p.) biconvex; (p.) convexo-convex
+[dwuweglan]dwuwęglan (PL) : (rz.) bicarbonate
+[dwuzasadowy]dwuzasadowy (PL) : (p.) dibasic
+[dwuzgloskowiec]dwuzgłoskowiec (PL) : (rz.) disyllable
+[dwuznacznie]dwuznacznie (PL) : (p-sł.) ambiguously; (p-sł.) equivocally; (p-sł.) insinuatingly
+[dwuznacznik]dwuznacznik (PL) : (rz.) ambiguity; (rz.) equivoque; (rz.) prevarication; (rz.) pun
+[dwuznacznosc]dwuznaczność (PL) : (rz.) ambiguity; (rz.) amphibology; (rz.) equivocation; (rz.) equivoque
+[dwuznaczny]dwuznaczny (PL) : (p.) ambiguous; (p.) equivocal
+[dwuznak]dwuznak (PL) : (rz.) digraph
+[dwuzenstwo]dwużeństwo (PL) : (rz.) bigamy
+[dwochsetny]dwóchsetny (PL) : (p.) two-hundredth
+[dwoja]dwója (PL) : (rz.) two
+[dwojka]dwójka (PL) : (rz.) deuce; (rz.) dyad; (rz.) twain; (rz.) two
+[dwojkowo-dziesietny]dwójkowo-dziesiętny (PL) : (p.) binary-decimal; (p.) binary-to-decimal
+[dwojkowo-szesnastkowy]dwójkowo-szesnastkowy (PL) : (p.) binary-to-hexadecimal
+[dwojkowo-osemkowy]dwójkowo-ósemkowy (PL) : (p.) binary-to-octal
+[dwojkowy]dwójkowy (PL) : (p.) binary
+[dwojnasob]dwójnasób (PL) : (p-sł.) double; (p-sł.) doubly; (p-sł.) twofold
+[dwojnog]dwójnóg (PL) : (rz.) bipod
+[dwojlomnosc]dwójłomność (PL) : (rz.) birefringence
+[dwor]dwór (PL) : (rz.) court; (rz.) manor; (rz.) manor-house; (rz.) mansion; (rz.) yard
+[dworka]dwórka (PL) : (rz.) maid
+[dybel]dybel (PL) : (rz.) dowel
+[dyby]dyby (PL) : (rz.) cangue; (rz.) pillory
+[dychawica]dychawica (PL) : (rz.) asthma
+[dychawiczny]dychawiczny (PL) : (p.) asthmatic; (p.) pursy
+[dychac]dychać (PL) : (cz.) breathe
+[dychotomia]dychotomia (PL) : (rz.) dichotomy
+[dychotomiczny]dychotomiczny (PL) : (p.) dichotomous
+[dydaktycznie]dydaktycznie (PL) : (p-sł.) didactically
+[dydaktyczny]dydaktyczny (PL) : (p.) didactic; (p.) didactical
+[dydaktyka]dydaktyka (PL) : (rz.) didactics; (rz.) teaching
+[dydaktyzm]dydaktyzm (PL) : (rz.) didacticism
+[dyferencja]dyferencja (PL) : (rz.) difference
+[dyferencjalny]dyferencjalny (PL) : (p.) differential
+[dyferencjal]dyferencjał (PL) : (rz.) differential
+[dyfrakcja]dyfrakcja (PL) : (rz.) diffraction
+[dyfrakcyjny]dyfrakcyjny (PL) : (p.) diffractive
+[dyfteria]dyfteria (PL) : (rz.) diphtheria
+[dyfteryt]dyfteryt (PL) : (rz.) diphtheria
+[dyftong]dyftong (PL) : (rz.) diphthong
+[dyftongizacja]dyftongizacja (PL) : (rz.) breaking
+[dyftongizowac]dyftongizować (PL) : (cz.) diphthongize
+[dyfuzja]dyfuzja (PL) : (rz.) diffusion
+[dyfuzor]dyfuzor (PL) : (rz.) diffuser
+[dyfuzyjny]dyfuzyjny (PL) : (p.) diffusive
+[dyg]dyg (PL) : (rz.) bob; (rz.) curtsey; (rz.) curtsy
+[dygac]dygać (PL) : (cz.) curtsey
+[dygnitarstwo]dygnitarstwo (PL) : (rz.) dignity
+[dygnitarz]dygnitarz (PL) : (rz.) dignitary
+[dygotanie]dygotanie (PL) : (rz.) shake
+[dygotac]dygotać (PL) : (cz.) dither; (cz.) flutter; (cz.) shake; (cz.) tremble
+[dygresja]dygresja (PL) : (rz.) digression; (rz.) flashback
+[dygresyjny]dygresyjny (PL) : (p.) discursive
+[dykcja]dykcja (PL) : (rz.) diction; (rz.) elocution
+[dykta]dykta (PL) : (rz.) plywood
+[dyktafon]dyktafon (PL) : (rz.) recorder
+[dyktando]dyktando (PL) : (rz.) dictation
+[dyktat]dyktat (PL) : (rz.) dictate
+[dyktator]dyktator (PL) : (rz.) dictation; (rz.) dictator
+[dyktatorski]dyktatorski (PL) : (p.) dictatorial
+[dyktatorstwo]dyktatorstwo (PL) : (rz.) dictatorship
+[dyktatura]dyktatura (PL) : (rz.) dictatorship
+[dykteryjka]dykteryjka (PL) : (rz.) anecdote; (rz.) story
+[dyktowanie]dyktowanie (PL) : (rz.) dictation
+[dyktowac]dyktować (PL) : (cz.) dictate; (cz.) tell
+[dylatacja]dylatacja (PL) : (rz.) dilatation
+[dylatometr]dylatometr (PL) : (rz.) dilatometer
+[dylemat]dylemat (PL) : (rz.) dilemma; (rz.) predicament; (rz.) tickler
+[dyletancki]dyletancki (PL) : (p.) amateurish; (p.) unprofessional
+[dyletanctwo]dyletanctwo (PL) : (rz.) dilettantism
+[dyletant]dyletant (PL) : (rz.) amateur; (rz.) dilettante; (rz.) layman
+[dyletantyzm]dyletantyzm (PL) : (rz.) amateurishness; (rz.) dilettantism
+[dylizans]dyliżans (PL) : (rz.) coach; (rz.) stagecoach
+[dylowac]dylować (PL) : (cz.) board
+[dyluwium]dyluwium (PL) : (rz.) diluvium
+[dym]dym (PL) : (rz.) burn; (rz.) fume; (rz.) reek; (rz.) smoke
+[dymac]dymać (PL) : (cz.) balloon; (cz.) bloat; (cz.) bulge; (cz.) flaunt; (cz.) inflate; (cz.) pout
+[dymek]dymek (PL) : (rz.) balloon; (rz.) diaper; (rz.) fume
+[dymienica]dymienica (PL) : (rz.) bubo
+[dymienie]dymienie (PL) : (rz.) smoke; (rz.) smoking
+[dymisja]dymisja (PL) : (rz.) demission; (rz.) dismissal; (rz.) resignation; (rz.) retirement
+[dymisjonowac]dymisjonować (PL) : (cz.) depose; (cz.) resign; (cz.) retire
+[dymic]dymić (PL) : (cz.) fume; (cz.) irritate; (cz.) reek; (cz.) smoke
+[dymnica]dymnica (PL) : (rz.) fumitory; (rz.) smoke-box
+[dymnik]dymnik (PL) : (rz.) skylight
+[dymny]dymny (PL) : (p.) smoky
+[dymorfizm]dymorfizm (PL) : (rz.) dimorphism
+[dyna]dyna (PL) : (rz.) dyne
+[dynamicznie]dynamicznie (PL) : (p-sł.) dynamically
+[dynamicznosc]dynamiczność (PL) : (rz.) dynamism
+[dynamiczny]dynamiczny (PL) : (p.) brisk; (p.) dynamic; (p.) energetic
+[dynamika]dynamika (PL) : (rz.) dynamics
+[dynamit]dynamit (PL) : (rz.) dynamite
+[dynamizm]dynamizm (PL) : (rz.) dynamic; (rz.) dynamism
+[dynamizowac]dynamizować (PL) : (cz.) actuate
+[dynamometr]dynamometr (PL) : (rz.) dynamometer
+[dynasta]dynasta (PL) : (rz.) dynast
+[dynastia]dynastia (PL) : (rz.) dynasty
+[dynastyczny]dynastyczny (PL) : (p.) dynastic
+[dynatron]dynatron (PL) : (rz.) dynatron; (rz.) negatron
+[dyndac]dyndać (PL) : (cz.) dangle
+[dynia]dynia (PL) : (rz.) pumpkin
+[dyniasty]dyniasty (PL) : (p.) bulbous
+[dynoda]dynoda (PL) : (rz.) dynode
+[dyplom]dyplom (PL) : (rz.) certificate; (rz.) diploma; (rz.) sheepskin
+[dyplomacja]dyplomacja (PL) : (rz.) diplomacy
+[dyplomata]dyplomata (PL) : (rz.) diplomat; (rz.) diplomatist
+[dyplomatycznie]dyplomatycznie (PL) : (p-sł.) diplomatically
+[dyplomatyczny]dyplomatyczny (PL) : (p.) diplomatic
+[dyplomowany]dyplomowany (PL) : (p.) qualified
+[dyplomowac]dyplomować (PL) : (cz.) certificate
+[dyplomowy]dyplomowy (PL) : (p.) qualifying
+[dyptych]dyptych (PL) : (rz.) diptych
+[dyptyk]dyptyk (PL) : (rz.) diptych
+[dyrekcja]dyrekcja (PL) : (rz.) boardroom; (rz.) direction; (rz.) management
+[dyrekcyjny]dyrekcyjny (PL) : (p.) director's
+[dyrektor]dyrektor (PL) : (rz.) chief; (rz.) director; (rz.) executive; (rz.) governor; (rz.) head; (rz.) headmaster; (rz.) manager; (rz.) president; (rz.) principal; (rz.) producer; (rz.) schoolmaster; (rz.) superintendent; (rz.) warden
+[dyrektoriat]dyrektoriat (PL) : (rz.) directorate
+[dyrektorka]dyrektorka (PL) : (rz.) headmistress
+[dyrektorowac]dyrektorować (PL) : (cz.) dispense
+[dyrektorski]dyrektorski (PL) : (p.) managerial
+[dyrektorstwo]dyrektorstwo (PL) : (rz.) directory
+[dyrektywa]dyrektywa (PL) : (rz.) directive; (rz.) statement
+[dyrygent]dyrygent (PL) : (rz.) bandmaster; (rz.) concertmaster; (rz.) conductor; (rz.) supervisor
+[dyrygentura]dyrygentura (PL) : (rz.) conducting
+[dyrygowac]dyrygować (PL) : (cz.) conduct; (cz.) lead
+[dyscyplina]dyscyplina (PL) : (rz.) branch; (rz.) discipline; (rz.) event
+[dyscyplinarny]dyscyplinarny (PL) : (p.) disciplinary
+[dyscyplinowac]dyscyplinować (PL) : (cz.) discipline
+[dysertacja]dysertacja (PL) : (rz.) dissertation; (rz.) thesis
+[dysfunkcja]dysfunkcja (PL) : (rz.) dysfunction
+[dysharmonia]dysharmonia (PL) : (rz.) disharmony; (rz.) jangle; (rz.) mismatch
+[dysharmonijny]dysharmonijny (PL) : (p.) disharmonious
+[dyshonor]dyshonor (PL) : (rz.) disgrace; (rz.) dishonour
+[dysjunkcja]dysjunkcja (PL) : (rz.) disjunction
+[dysjunkcyjny]dysjunkcyjny (PL) : (p.) disjunctive
+[dysjunktywny]dysjunktywny (PL) : (p.) disjunctive
+[dysk]dysk (PL) : (rz.) disc; (rz.) discus; (rz.) disk; (rz.) platter
+[dyskietka]dyskietka (PL) : (rz.) disc; (rz.) disk; (rz.) diskette; (rz.) floppy
+[dyskobol]dyskobol (PL) : (rz.) thrower
+[dyskografia]dyskografia (PL) : (rz.) discography
+[dyskomfort]dyskomfort (PL) : (rz.) discomfort
+[dyskont]dyskont (PL) : (rz.) discounts
+[dyskonto]dyskonto (PL) : (rz.) discount
+[dyskontowanie]dyskontowanie (PL) : (rz.) negotiation
+[dyskontowac]dyskontować (PL) : (cz.) discount
+[dyskoteka]dyskoteka (PL) : (rz.) club; (rz.) disco; (rz.) discotheque
+[dyskrecja]dyskrecja (PL) : (rz.) discretion; (rz.) secrecy
+[dyskrecjonalny]dyskrecjonalny (PL) : (p.) discretional; (p.) discretionary
+[dyskredytowanie]dyskredytowanie (PL) : (rz.) disparagement
+[dyskredytowac]dyskredytować (PL) : (cz.) discredit; (cz.) disparage
+[dyskretnie]dyskretnie (PL) : (p-sł.) discreetly
+[dyskretny]dyskretny (PL) : (p.) discreet; (p.) discrete; (p.) keyed; (p.) quiet; (p.) secret; (p.) unobtrusive
+[dyskretyzator]dyskretyzator (PL) : (rz.) digitizer
+[dyskretyzowany]dyskretyzowany (PL) : (p.) digitise
+[dyskretyzowac]dyskretyzować (PL) : (cz.) digitize
+[dyskryminacja]dyskryminacja (PL) : (rz.) discrimination
+[dyskryminacyjny]dyskryminacyjny (PL) : (p.) discriminatory
+[dyskryminator]dyskryminator (PL) : (rz.) discriminator
+[dyskryminowanie]dyskryminowanie (PL) : (rz.) discrimination
+[dyskryminowac]dyskryminować (PL) : (cz.) discriminate; (cz.) incriminate
+[dyskurs]dyskurs (PL) : (rz.) discourse
+[dyskursywny]dyskursywny (PL) : (p.) discursive
+[dyskusja]dyskusja (PL) : (rz.) argument; (rz.) debate; (rz.) discourse; (rz.) discussion; (rz.) gaggle
+[dyskusyjny]dyskusyjny (PL) : (p.) arguable; (p.) contestable; (p.) controversial; (p.) debatable
+[dyskutant]dyskutant (PL) : (rz.) argumentation; (rz.) debater; (rz.) disputant; (rz.) panellist
+[dyskutowac]dyskutować (PL) : (cz.) argue; (cz.) debate; (cz.) discuss; (cz.) dispute
+[dyskwalifikacja]dyskwalifikacja (PL) : (rz.) disqualification
+[dyskwalifikowanie]dyskwalifikowanie (PL) : (rz.) disqualification
+[dyskwalifikowac]dyskwalifikować (PL) : (cz.) disqualify; (cz.) incapacitate
+[dysleksja]dysleksja (PL) : (rz.) dyslexia
+[dyslektyczny]dyslektyczny (PL) : (p.) dyslexic
+[dyslokacja]dyslokacja (PL) : (rz.) dislocation; (rz.) disposition
+[dyslokowac]dyslokować (PL) : (cz.) dislocate
+[dysocjacja]dysocjacja (PL) : (rz.) dissociation
+[dysocjowac]dysocjować (PL) : (cz.) decompose; (cz.) dissociate
+[dysonans]dysonans (PL) : (rz.) discord; (rz.) discordance; (rz.) dissonance
+[dysonansowy]dysonansowy (PL) : (p.) discordant
+[dyspensa]dyspensa (PL) : (rz.) dispensation; (rz.) dyspepsia; (rz.) indult
+[dyspensowac]dyspensować (PL) : (cz.) dispense
+[dyspergator]dyspergator (PL) : (rz.) dispersant
+[dyspergowac]dyspergować (PL) : (cz.) disperse
+[dyspersja]dyspersja (PL) : (rz.) dispersal; (rz.) dispersion
+[dysponent]dysponent (PL) : (rz.) disposer; (rz.) officer; (rz.) trustee
+[dysponowanie]dysponowanie (PL) : (rz.) disposal
+[dysponowac]dysponować (PL) : (cz.) arrange; (cz.) dispose; (cz.) have
+[dyspozycja]dyspozycja (PL) : (rz.) disposal; (rz.) disposition; (rz.) instruction
+[dyspozycyjnosc]dyspozycyjność (PL) : (rz.) availability; (rz.) flexibility; (rz.) high-availability
+[dyspozycyjny]dyspozycyjny (PL) : (p.) available; (p.) disposable; (p.) flexible
+[dyspozytor]dyspozytor (PL) : (rz.) dispatcher
+[dysproporcja]dysproporcja (PL) : (rz.) disproportion; (rz.) imbalance
+[dysproz]dysproz (PL) : (rz.) dysprosium
+[dysputa]dysputa (PL) : (rz.) controversy; (rz.) dispute
+[dysputant]dysputant (PL) : (rz.) disputant
+[dysputowac]dysputować (PL) : (cz.) dispute
+[dyssypacja]dyssypacja (PL) : (rz.) dissipation
+[dystans]dystans (PL) : (rz.) detachment; (rz.) distance; (rz.) length
+[dystansowac]dystansować (PL) : (cz.) distance; (cz.) outpace; (cz.) outstrip
+[dystorsja]dystorsja (PL) : (rz.) distortion
+[dystrakcja]dystrakcja (PL) : (rz.) distraction
+[dystrofia]dystrofia (PL) : (rz.) dystrophy
+[dystrybucja]dystrybucja (PL) : (rz.) distribution
+[dystrybucyjny]dystrybucyjny (PL) : (p.) distributional
+[dystrybuowanie]dystrybuowanie (PL) : (rz.) distribution
+[dystrybuowac]dystrybuować (PL) : (cz.) distribute
+[dystrybutor]dystrybutor (PL) : (rz.) dispenser; (rz.) distributor; (rz.) pump
+[dystrykt]dystrykt (PL) : (rz.) district
+[dystych]dystych (PL) : (rz.) distich
+[dystyngowany]dystyngowany (PL) : (p.) capital; (p.) dignified; (p.) distinguee; (p.) distinguished; (p.) genteel; (p.) ladylike; (p.) refined
+[dystynkcja]dystynkcja (PL) : (rz.) dignity; (rz.) distinction; (rz.) gentility; (rz.) refinement
+[dysydent]dysydent (PL) : (rz.) dissenter; (rz.) dissident; (rz.) nonconformist
+[dysymilacja]dysymilacja (PL) : (rz.) dissimilation
+[dysza]dysza (PL) : (rz.) jet; (rz.) nozzle; (rz.) snout; (rz.) sprinkler
+[dyszel]dyszel (PL) : (rz.) beam; (rz.) drawbar; (rz.) gaud; (rz.) pole; (rz.) shaft; (rz.) shafts
+[dyszenie]dyszenie (PL) : (rz.) gasp; (rz.) nozzles
+[dyszec]dyszeć (PL) : (cz.) chug; (cz.) gasp; (cz.) pant; (cz.) puff; (cz.) wheeze
+[dyszka]dyszka (PL) : (rz.) nozzle
+[dyszkant]dyszkant (PL) : (rz.) descant; (rz.) soprano; (rz.) treble
+[dyszkantowy]dyszkantowy (PL) : (p.) treble
+[dytyramb]dytyramb (PL) : (rz.) dithyramb
+[dytyrambiczny]dytyrambiczny (PL) : (p.) dithyrambic
+[dywagacja]dywagacja (PL) : (rz.) divagation
+[dywan]dywan (PL) : (rz.) carpet; (rz.) rug; (rz.) runner; (rz.) wool
+[dywanik]dywanik (PL) : (rz.) carpet; (rz.) rug
+[dywergencja]dywergencja (PL) : (rz.) divergence
+[dywersant]dywersant (PL) : (rz.) saboteur
+[dywersja]dywersja (PL) : (rz.) diversion; (rz.) sabotage
+[dywersyfikacja]dywersyfikacja (PL) : (rz.) diversification
+[dywersyjny]dywersyjny (PL) : (p.) diversionary
+[dywidenda]dywidenda (PL) : (rz.) dividend; (rz.) divvy
+[dywizja]dywizja (PL) : (rz.) division
+[dywizjon]dywizjon (PL) : (rz.) command; (rz.) squadron
+[dywizorek]dywizorek (PL) : (rz.) copy-holder
+[dywizyjny]dywizyjny (PL) : (p.) divisional
+[dyzenteria]dyzenteria (PL) : (rz.) dysentery
+[dyzenteryjny]dyzenteryjny (PL) : (p.) dysenteric
+[dyzur]dyżur (PL) : (rz.) duty
+[dyzurny]dyżurny (PL) : (p.) attendant; (p.) orderly
+[dzban]dzban (PL) : (rz.) cruse; (rz.) ewer; (rz.) jar; (rz.) jug; (rz.) mug; (rz.) pitcher; (rz.) vase
+[dzbanek]dzbanek (PL) : (rz.) crock; (rz.) ewer; (rz.) jug; (rz.) pot; (rz.) teapot
+[dziabac]dziabać (PL) : (cz.) bound
+[dziad]dziad (PL) : (rz.) lout
+[dziadek]dziadek (PL) : (rz.) dummy; (rz.) gaffer; (rz.) granddad; (rz.) grandfather; (rz.) grandpa; (rz.) grandparent
+[dziadkowie]dziadkowie (PL) : (rz.) grandparents
+[dziadostwo]dziadostwo (PL) : (rz.) poverty; (rz.) slum; (rz.) trash
+[dziadowski]dziadowski (PL) : (p.) beggarly; (p.) foul; (p.) trashy
+[dziadunio]dziadunio (PL) : (rz.) granddad; (rz.) grandpa; (rz.) grandpapa
+[dziadzio]dziadzio (PL) : (rz.) granddad; (rz.) grandpa
+[dziadzius]dziadziuś (PL) : (rz.) grandpa
+[dzianet]dzianet (PL) : (rz.) jennet
+[dzianie]dzianie (PL) : (rz.) knitting
+[dzianina]dzianina (PL) : (rz.) knitwear
+[dziarski]dziarski (PL) : (p.) brisk; (p.) dashing; (p.) game; (p.) spry
+[dziarskosc]dziarskość (PL) : (rz.) dapper; (rz.) dash
+[dziatwa]dziatwa (PL) : (rz.) brood; (rz.) children
+[dziac]dziać (PL) : (cz.) knit; (cz.) stir
+[dzial]dział (PL) : (rz.) branch; (rz.) column; (rz.) department; (rz.) division; (rz.) section
+[dzialacz]działacz (PL) : (rz.) activist; (rz.) campaigner
+[dzialajacy]działający (PL) : (p.) operative
+[dzialalnosc]działalność (PL) : (rz.) action; (rz.) activity; (rz.) brokerage
+[dzialanie]działanie (PL) : (rz.) acting; (rz.) action; (rz.) activity; (rz.) agency; (rz.) effect; (rz.) function; (rz.) impact; (rz.) operation; (rz.) proceeding
+[dzialac]działać (PL) : (cz.) act; (cz.) execute; (cz.) function; (cz.) operate; (cz.) work
+[dzialka]działka (PL) : (rz.) allotment; (rz.) count; (rz.) division; (rz.) lot; (rz.) plot; (rz.) share; (rz.) site
+[dzialko]działko (PL) : (rz.) cannon
+[dzialo]działo (PL) : (rz.) cannon; (rz.) gun; (rz.) ordnance; (rz.) piece
+[dzialowy]działowy (PL) : (p.) departmental
+[dzicz]dzicz (PL) : (rz.) barbarian; (rz.) barbarians; (rz.) wilderness
+[dziczka]dziczka (PL) : (rz.) wilding
+[dziczyzna]dziczyzna (PL) : (rz.) game; (rz.) venison
+[dzida]dzida (PL) : (rz.) assegai; (rz.) spear
+[dzidzius]dzidziuś (PL) : (rz.) baby
+[dzieci]dzieci (PL) : (rz.) children
+[dzieciak]dzieciak (PL) : (rz.) brat; (rz.) child; (rz.) gamin; (rz.) kid; (rz.) nestling
+[dzieciarnia]dzieciarnia (PL) : (rz.) children
+[dziecina]dziecina (PL) : (rz.) baby
+[dziecinada]dziecinada (PL) : (rz.) childishness; (rz.) puerility
+[dzieciniec]dzieciniec (PL) : (rz.) kindergarten
+[dziecinka]dziecinka (PL) : (rz.) babe; (rz.) baby
+[dziecinny]dziecinny (PL) : (p.) babyish; (p.) childish; (p.) childlike; (p.) infantile; (p.) infantine; (p.) puerile
+[dzieciobojca]dzieciobójca (PL) : (rz.) child-murderer; (rz.) infanticide
+[dzieciobojstwo]dzieciobójstwo (PL) : (rz.) infanticide
+[dzieciorob]dzieciorób (PL) : (rz.) cock
+[dzieciuch]dzieciuch (PL) : (rz.) baby
+[dzieciatko]dzieciątko (PL) : (rz.) babe; (rz.) baby; (rz.) infant
+[dziecie]dziecię (PL) : (rz.) kid
+[dzieciectwo]dziecięctwo (PL) : (rz.) infancy
+[dzieciecy]dziecięcy (PL) : (p.) childlike; (p.) infantile; (p.) infantine; (p.) puerile
+[dziecinstwo]dzieciństwo (PL) : (rz.) childhood; (rz.) infancy; (rz.) puerility
+[dziecko]dziecko (PL) : (rz.) babe; (rz.) baby; (rz.) child; (rz.) chit; (rz.) infant; (rz.) kid; (rz.) papoose; (rz.) toddler; (rz.) tot; (rz.) weanling; (rz.) youngling; (rz.) youngster
+[dziedzic]dziedzic (PL) : (rz.) heir; (rz.) heritor; (rz.) laird; (rz.) squire; (rz.) successor
+[dziedzictwo]dziedzictwo (PL) : (rz.) devolution; (rz.) heirloom; (rz.) heritage; (rz.) inheritance; (rz.) patrimony; (rz.) succession
+[dziedziczenie]dziedziczenie (PL) : (rz.) inheritance; (rz.) succession
+[dziedzicznosc]dziedziczność (PL) : (rz.) heredity; (rz.) inheritance; (rz.) succession
+[dziedziczny]dziedziczny (PL) : (p.) ancestral; (p.) hereditable; (p.) hereditary; (p.) heritable; (p.) inheritable; (p.) patrimonial
+[dziedziczyc]dziedziczyć (PL) : (cz.) descend; (cz.) inherit
+[dziedzina]dziedzina (PL) : (rz.) area; (rz.) arena; (rz.) discipline; (rz.) domain; (rz.) field; (rz.) province; (rz.) realm; (rz.) scope; (rz.) sphere
+[dziedziniec]dziedziniec (PL) : (rz.) backyard; (rz.) churchyard; (rz.) corral; (rz.) court; (rz.) courtyard; (rz.) farmyard; (rz.) forecourt; (rz.) piazza; (rz.) quadrangle; (rz.) yard
+[dziegiec]dziegieć (PL) : (rz.) tar
+[dzieje]dzieje (PL) : (rz.) history; (rz.) story
+[dziejopis]dziejopis (PL) : (rz.) historian; (rz.) historiographer
+[dziejopisarstwo]dziejopisarstwo (PL) : (rz.) historiography
+[dziejopisarz]dziejopisarz (PL) : (rz.) historian
+[dziejowy]dziejowy (PL) : (p.) historic; (p.) historical
+[dziekan]dziekan (PL) : (rz.) archpriest; (rz.) deacon; (rz.) dean
+[dziekanat]dziekanat (PL) : (rz.) deanery; (rz.) deanship
+[dziekanski]dziekański (PL) : (p.) decanal
+[dzielenie]dzielenie (PL) : (rz.) divide; (rz.) division; (rz.) fission; (rz.) segmentation
+[dzielic]dzielić (PL) : (cz.) bisect; (cz.) carve; (cz.) distribute; (cz.) divide; (cz.) group; (cz.) partake; (cz.) partition; (cz.) share; (cz.) split; (cz.) stream
+[dzielnica]dzielnica (PL) : (rz.) district; (rz.) estate; (rz.) neighbourhood; (rz.) precinct; (rz.) quarter; (rz.) ward
+[dzielnie]dzielnie (PL) : (p-sł.) bravely; (p-sł.) gamely; (p-sł.) valiantly
+[dzielnik]dzielnik (PL) : (rz.) divider; (rz.) divisor
+[dzielnosc]dzielność (PL) : (rz.) bravery; (rz.) gallantry; (rz.) intrepidity; (rz.) prowess; (rz.) valour
+[dzielny]dzielny (PL) : (p.) brave; (p.) doughty; (p.) gallant; (p.) manful; (p.) manly; (p.) stalwart; (p.) stout; (p.) strenuous; (p.) strong; (p.) valiant
+[dzielony]dzielony (PL) : (p.) sectional
+[dziennie]dziennie (PL) : (p-sł.) daily
+[dziennik]dziennik (PL) : (rz.) daily; (rz.) daybook; (rz.) day-book; (rz.) diary; (rz.) journal; (rz.) log; (rz.) logbook; (rz.) newspaper; (rz.) register; (rz.) workbook
+[dziennikarstwo]dziennikarstwo (PL) : (rz.) journalism
+[dziennikarz]dziennikarz (PL) : (rz.) broadcaster; (rz.) gazetteer; (rz.) journalist; (rz.) pressman; (rz.) reporter
+[dzienny]dzienny (PL) : (p.) daily; (p.) diurnal
+[dziergac]dziergać (PL) : (cz.) border; (cz.) knit
+[dzierlatka]dzierlatka (PL) : (rz.) chit; (rz.) filly
+[dzierzba]dzierzba (PL) : (rz.) shrike
+[dzierzawa]dzierżawa (PL) : (rz.) hire; (rz.) holding; (rz.) lease; (rz.) leasehold; (rz.) leasing; (rz.) rent; (rz.) rental; (rz.) tenacity; (rz.) tenancy; (rz.) tenure
+[dzierzawca]dzierżawca (PL) : (rz.) copyholder; (rz.) leaseholder; (rz.) lease-holder; (rz.) lessee; (rz.) occupier; (rz.) tenant
+[dzierzawczy]dzierżawczy (PL) : (p.) possessive
+[dzierzawienie]dzierżawienie (PL) : (rz.) leasing
+[dzierzawic]dzierżawić (PL) : (cz.) lease; (cz.) rent; (cz.) tenant
+[dzierzawny]dzierżawny (PL) : (p.) leasehold
+[dzierzymorda]dzierżymorda (PL) : (rz.) tyrant
+[dzierzyc]dzierżyć (PL) : (cz.) hold; (cz.) wield
+[dziesiata]dziesiąta (PL) : (rz.) ten
+[dziesiatkowanie]dziesiątkowanie (PL) : (rz.) decimation
+[dziesiatkowac]dziesiątkować (PL) : (cz.) decimate
+[dziesiatkowy]dziesiątkowy (PL) : (p.) decal; (p.) decimal
+[dziesiaty]dziesiąty (PL) : (p.) tenth
+[dziesiecina]dziesięcina (PL) : (rz.) tithe
+[dziesieciobok]dziesięciobok (PL) : (rz.) decagon
+[dziesieciokrotnie]dziesięciokrotnie (PL) : (p-sł.) tenfold
+[dziesieciokrotnosc]dziesięciokrotność (PL) : (rz.) decuple
+[dziesieciokrotny]dziesięciokrotny (PL) : (p.) tenfold
+[dziesieciokat]dziesięciokąt (PL) : (rz.) decagon
+[dziesieciolecie]dziesięciolecie (PL) : (rz.) decade
+[dziesiecioscian]dziesięciościan (PL) : (rz.) decahedron
+[dziesietno-dwojkowy]dziesiętno-dwójkowy (PL) : (p.) decimal-to-binary
+[dziesietno-osemkowy]dziesiętno-ósemkowy (PL) : (p.) decimal-to-octal
+[dziesietny]dziesiętny (PL) : (p.) decimal; (p.) denary
+[dzietny]dzietny (PL) : (p.) decimal
+[dziewanna]dziewanna (PL) : (rz.) mullein
+[dziewczyna]dziewczyna (PL) : (rz.) adolescent; (rz.) colleen; (rz.) damsel; (rz.) floozy; (rz.) girl; (rz.) girlfriend; (rz.) lass; (rz.) lassie; (rz.) maid
+[dziewczynka]dziewczynka (PL) : (rz.) girl; (rz.) lass
+[dziewczatko]dziewczątko (PL) : (rz.) lass
+[dziewcze]dziewczę (PL) : (rz.) lass
+[dziewczecy]dziewczęcy (PL) : (p.) girlish
+[dziewiarka]dziewiarka (PL) : (rz.) knitter
+[dziewiarstwo]dziewiarstwo (PL) : (rz.) knitting
+[dziewiarz]dziewiarz (PL) : (rz.) knitter
+[dziewica]dziewica (PL) : (rz.) damsel; (rz.) girl; (rz.) maiden; (rz.) vestal; (rz.) virgin
+[dziewictwo]dziewictwo (PL) : (rz.) virginity
+[dziewiczosc]dziewiczość (PL) : (rz.) chastity; (rz.) innocence
+[dziewiczy]dziewiczy (PL) : (p.) intact; (p.) maiden; (p.) virgin; (p.) virginal
+[dziewiaty]dziewiąty (PL) : (p.) ninth
+[dziewietnasty]dziewiętnasty (PL) : (p.) nineteenth
+[dziewiecdziesiaty]dziewięćdziesiąty (PL) : (p.) ninetieth
+[dziewka]dziewka (PL) : (rz.) maid; (rz.) wench; (rz.) whore
+[dziewoja]dziewoja (PL) : (rz.) wench
+[dzieworodztwo]dzieworództwo (PL) : (rz.) parthenogenesis
+[dziewucha]dziewucha (PL) : (rz.) girl; (rz.) wench
+[dziewuszka]dziewuszka (PL) : (rz.) lass
+[dzielo]dzieło (PL) : (rz.) artwork; (rz.) creation; (rz.) deed; (rz.) masterpiece; (rz.) opus; (rz.) print; (rz.) work; (rz.) workmanship
+[dzien]dzień (PL) : (rz.) date; (rz.) day; (rz.) days; (rz.) daytime; (rz.) valentine
+[dzieza]dzieża (PL) : (rz.) kneading-trough; (rz.) store
+[dzik]dzik (PL) : (rz.) boar; (rz.) wild
+[dziki]dziki (PL) : (p.) farouche; (p.) fell; (p.) ferocious; (p.) fierce; (p.) haggard; (p.) natural; (p.) savage; (p.) truculent; (p.) wild; (p.) wildcat
+[dzikie]dzikie (PL) : (rz.) wild
+[dziko]dziko (PL) : (p-sł.) ferociously; (p-sł.) fiercely; (p-sł.) savagely; (p-sł.) wildly
+[dzikosc]dzikość (PL) : (rz.) ferocity; (rz.) savagery; (rz.) wildness
+[dzikus]dzikus (PL) : (rz.) barbarian
+[dziobak]dziobak (PL) : (rz.) duckbill; (rz.) platypus
+[dziobanie]dziobanie (PL) : (rz.) nibble; (rz.) peck
+[dziobaty]dziobaty (PL) : (p.) pockmarked; (p.) pock-marked
+[dziobac]dziobać (PL) : (cz.) peck
+[dziobek]dziobek (PL) : (rz.) beak; (rz.) mouth; (rz.) nozzle; (rz.) spout
+[dziobnica]dziobnica (PL) : (rz.) stem
+[dziobnik]dziobnik (PL) : (rz.) bowsprit
+[dziobniecie]dziobnięcie (PL) : (rz.) dab
+[dziobowy]dziobowy (PL) : (p.) fore; (p.) forward
+[dziobowka]dziobówka (PL) : (rz.) forecastle
+[dzionek]dzionek (PL) : (rz.) day
+[dzisiaj]dzisiaj (PL) : (p-sł.) today
+[dziupla]dziupla (PL) : (rz.) hollow
+[dziura]dziura (PL) : (rz.) burrow; (rz.) cavity; (rz.) chink; (rz.) chuckhole; (rz.) dropout; (rz.) hole; (rz.) hollow; (rz.) leak; (rz.) pit; (rz.) puncture
+[dziurawic]dziurawić (PL) : (cz.) bore; (cz.) perforate; (cz.) pounce
+[dziurawy]dziurawy (PL) : (p.) dodgy; (p.) holey; (p.) hollow; (p.) leaky
+[dziurka]dziurka (PL) : (rz.) buttonhole; (rz.) hole; (rz.) keyhole
+[dziurkacz]dziurkacz (PL) : (rz.) perforator; (rz.) punch; (rz.) puncher
+[dziurkarka]dziurkarka (PL) : (rz.) perforator; (rz.) pink; (rz.) punch
+[dziurkowanie]dziurkowanie (PL) : (rz.) perforation; (rz.) piercing; (rz.) punch
+[dziurkowaty]dziurkowaty (PL) : (p.) porous
+[dziurkowac]dziurkować (PL) : (cz.) perforate; (cz.) pink; (cz.) punch
+[dziw]dziw (PL) : (rz.) miracle
+[dziwa]dziwa (PL) : (rz.) queer
+[dziwactwo]dziwactwo (PL) : (rz.) crank; (rz.) eccentricity; (rz.) fad; (rz.) foible; (rz.) nondescript; (rz.) oddity; (rz.) quirk
+[dziwacznie]dziwacznie (PL) : (p-sł.) weirdly
+[dziwacznosc]dziwaczność (PL) : (rz.) eccentricity; (rz.) fantasticality; (rz.) oddity; (rz.) queer; (rz.) queerness; (rz.) singularity
+[dziwaczny]dziwaczny (PL) : (p.) antic; (p.) bizarre; (p.) droll; (p.) eccentric; (p.) extravagant; (p.) fanciful; (p.) fantastic; (p.) fantastical; (p.) freak; (p.) freakish; (p.) freaky; (p.) kinky; (p.) nondescript; (p.) odd; (p.) odd-looking; (p.) outlandish; (p.) peculiar; (p.) queer; (p.) quizzical; (p.) rum; (p.) screwy; (p.) singular; (p.) uncouth; (p.) ungainly; (p.) wayward; (p.) weird; (p.) whimsical
+[dziwadlo]dziwadło (PL) : (rz.) freak; (rz.) oddness
+[dziwak]dziwak (PL) : (rz.) character; (rz.) crank; (rz.) dork; (rz.) freak; (rz.) guy; (rz.) kook; (rz.) nondescript; (rz.) oddball
+[dziwic]dziwić (PL) : (cz.) marvel; (cz.) surprise; (cz.) wonder
+[dziwka]dziwka (PL) : (rz.) bitch; (rz.) hooker; (rz.) moll; (rz.) slag; (rz.) slut; (rz.) trollop; (rz.) whore
+[dziwkarz]dziwkarz (PL) : (rz.) rake
+[dziwnie]dziwnie (PL) : (p-sł.) curiously; (p-sł.) funnily; (p-sł.) oddly; (p-sł.) queerly; (p-sł.) strangely; (p-sł.) weirdly
+[dziwnosc]dziwność (PL) : (rz.) oddity; (rz.) queer; (rz.) strangeness
+[dziwny]dziwny (PL) : (p.) aberrant; (p.) bizarre; (p.) eerie; (p.) foreign; (p.) funny; (p.) odd; (p.) odd-looking; (p.) outré; (p.) peculiar; (p.) quaint; (p.) queer; (p.) quirky; (p.) rum; (p.) rummy; (p.) singular; (p.) strange; (p.) surprising; (p.) weird
+[dziwolag]dziwoląg (PL) : (rz.) freak; (rz.) monster
+[dziwotwor]dziwotwór (PL) : (rz.) monster
+[dziwowac]dziwować (PL) : (cz.) marvel
+[dziwowisko]dziwowisko (PL) : (rz.) oddity
+[dziob]dziób (PL) : (rz.) beak; (rz.) billing; (rz.) bow; (rz.) nib; (rz.) nose; (rz.) prow
+[dziobek]dzióbek (PL) : (rz.) beak; (rz.) mouth; (rz.) nib; (rz.) nozzle
+[dziaslo]dziąsło (PL) : (rz.) gum
+[dziaslowy]dziąsłowy (PL) : (p.) alveolar; (p.) cacuminal; (p.) gingival
+[dzieciol]dzięcioł (PL) : (rz.) pecker; (rz.) woodpecker
+[dziegiel]dzięgiel (PL) : (rz.) angelica
+[dziekczynienie]dziękczynienie (PL) : (rz.) thankfulness; (rz.) thanks; (rz.) thanksgiving
+[dziekczynny]dziękczynny (PL) : (p.) thankful
+[dziekowanie]dziękowanie (PL) : (rz.) thanks
+[dziekowac]dziękować (PL) : (cz.) appreciate; (cz.) thank
+[dzis]dziś (PL) : (p-sł.) today
+[dzwon]dzwon (PL) : (rz.) bell; (rz.) dingdong; (rz.) ding-dong; (rz.) umbrella
+[dzwonek]dzwonek (PL) : (rz.) bell; (rz.) bellflower; (rz.) bell-flower; (rz.) bleep; (rz.) bluebell; (rz.) doorbell; (rz.) ring; (rz.) ringer; (rz.) trumpet
+[dzwoniec]dzwoniec (PL) : (rz.) greenfinch; (rz.) linnet
+[dzwonienie]dzwonienie (PL) : (rz.) clink; (rz.) dingdong; (rz.) ding-dong; (rz.) jangle; (rz.) jingle; (rz.) knell; (rz.) sounding; (rz.) tinkle; (rz.) toll
+[dzwonic]dzwonić (PL) : (cz.) associate; (cz.) call; (cz.) chime; (cz.) clang; (cz.) clink; (cz.) jangle; (cz.) jingle; (cz.) phone; (cz.) ring; (cz.) sound; (cz.) ting; (cz.) tinkle; (cz.) toll
+[dzwonnica]dzwonnica (PL) : (rz.) belfry
+[dzwonnik]dzwonnik (PL) : (rz.) bell-ringer; (rz.) ringer
+[dzwono]dzwono (PL) : (rz.) felloe
+[dzwonowaty]dzwonowaty (PL) : (p.) bell-shaped
+[dzwonowy]dzwonowy (PL) : (p.) bell-shaped
+[dzwony]dzwony (PL) : (p.) flares
+[doj]dój (PL) : (rz.) milk; (rz.) milking
+[dojka]dójka (PL) : (rz.) dig; (rz.) milkmaid; (rz.) teat
+[dol]dół (PL) : (rz.) bottom; (rz.) bottoming; (rz.) down; (rz.) foot; (rz.) hollow; (rz.) pit
+[dab]dąb (PL) : (rz.) blackjack; (rz.) oak
+[das]dąs (PL) : (rz.) mumps
+[dasac]dąsać (PL) : (cz.) pout; (cz.) sulk
+[dac]dąć (PL) : (cz.) blow
+[dazenie]dążenie (PL) : (rz.) ambition; (rz.) aspiration; (rz.) drift; (rz.) pursuance; (rz.) pursuit; (rz.) striving
+[daznosc]dążność (PL) : (rz.) drift; (rz.) tendency; (rz.) trend
+[dazyc]dążyć (PL) : (cz.) aim; (cz.) aspire; (cz.) endeavour; (cz.) pursue; (cz.) seek; (cz.) strive; (cz.) tend; (cz.) trend
+[debianka]dębianka (PL) : (rz.) oak-gall
+[debina]dębina (PL) : (rz.) oak-wood
+[debowy]dębowy (PL) : (p.) oaken
+[decie]dęcie (PL) : (rz.) blow
+[detka]dętka (PL) : (rz.) bladder; (rz.) tube
+[dlawica]dławica (PL) : (rz.) gland
+[dlawiec]dławiec (PL) : (rz.) croup
+[dlawienie]dławienie (PL) : (rz.) choking; (rz.) damping
+[dlawik]dławik (PL) : (rz.) choking; (rz.) gland; (rz.) reactor
+[dlawic]dławić (PL) : (cz.) choke; (cz.) squelch; (cz.) stifle; (cz.) strangle; (cz.) throttle
+[dlawnica]dławnica (PL) : (rz.) gland; (rz.) stuffing-box
+[dloniasty]dłoniasty (PL) : (p.) palmate
+[dlon]dłoń (PL) : (rz.) hand; (rz.) palm
+[dlubanie]dłubanie (PL) : (rz.) tinker
+[dlubanina]dłubanina (PL) : (rz.) drudgery
+[dlubac]dłubać (PL) : (cz.) gouge; (cz.) poke; (cz.) tinker
+[dlug]dług (PL) : (rz.) arrear; (rz.) debt; (rz.) duty; (rz.) indebtedness; (rz.) length
+[dlugi]długi (PL) : (p.) long
+[dlugo]długo (PL) : (p-sł.) long
+[dlugodystansowy]długodystansowy (PL) : (p.) long-distance
+[dlugofalowy]długofalowy (PL) : (p.) long-range; (p.) long-term
+[dlugoletni]długoletni (PL) : (p.) long
+[dlugonogi]długonogi (PL) : (p.) leggy
+[dlugookresowy]długookresowy (PL) : (p.) long-term
+[dlugopis]długopis (PL) : (rz.) ball-pen; (rz.) ballpoint; (rz.) biro; (rz.) pen
+[dlugoterminowy]długoterminowy (PL) : (p.) long-term
+[dlugotrwalosc]długotrwałość (PL) : (rz.) length
+[dlugotrwaly]długotrwały (PL) : (p.) livelong; (p.) long-lasting; (p.) prolonged
+[dlugowiecznosc]długowieczność (PL) : (rz.) longevity
+[dlugowieczny]długowieczny (PL) : (p.) long; (p.) long-lived
+[dlugowlosy]długowłosy (PL) : (p.) long; (p.) longhaired; (p.) long-haired
+[dlugosc]długość (PL) : (rz.) length; (rz.) lengthiness; (rz.) longitude; (rz.) span
+[dluto]dłuto (PL) : (rz.) chisel
+[dlutowac]dłutować (PL) : (cz.) chisel
+[dluznik]dłużnik (PL) : (rz.) borrower; (rz.) debtor
+[dluzny]dłużny (PL) : (p.) beholden; (p.) indebted; (p.) owing
+[dluzyca]dłużyca (PL) : (rz.) log
+[dluzyc]dłużyć (PL) : (cz.) drag
+[dzgac]dźgać (PL) : (cz.) jab; (cz.) prod; (cz.) stab
+[dzgniecie]dźgnięcie (PL) : (rz.) jab; (rz.) job; (rz.) prod; (rz.) stab; (rz.) thrust
+[dzwig]dźwig (PL) : (rz.) crab; (rz.) crane; (rz.) derrick; (rz.) elevator; (rz.) hoist; (rz.) lift; (rz.) ram
+[dzwigacz]dźwigacz (PL) : (rz.) elevator
+[dzwiganie]dźwiganie (PL) : (rz.) elevation
+[dzwigar]dźwigar (PL) : (rz.) beam; (rz.) girder
+[dzwigac]dźwigać (PL) : (cz.) bear; (cz.) carry; (cz.) heave; (cz.) hoist; (cz.) lift; (cz.) load; (cz.) raise; (cz.) uplift; (cz.) upraise
+[dzwigienka]dźwigienka (PL) : (rz.) slide
+[dzwignia]dźwignia (PL) : (rz.) arm; (rz.) heaver; (rz.) jack; (rz.) lever; (rz.) leverage
+[dzwignica]dźwignica (PL) : (rz.) crane
+[dzwignik]dźwignik (PL) : (rz.) crane
+[dzwigniecie]dźwignięcie (PL) : (rz.) heave; (rz.) leverage
+[dzwignac]dźwignąć (PL) : (cz.) upraise
+[dzwieczenie]dźwięczenie (PL) : (rz.) clangour; (rz.) tingle; (rz.) tingling; (rz.) tinkle
+[dzwieczec]dźwięczeć (PL) : (cz.) chink; (cz.) clang; (cz.) clink; (cz.) jingle; (cz.) peal; (cz.) resonate; (cz.) resound; (cz.) ring; (cz.) sound; (cz.) tingle; (cz.) tinkle
+[dzwiecznosc]dźwięczność (PL) : (rz.) resonance
+[dzwieczny]dźwięczny (PL) : (p.) canorous; (p.) glottal; (p.) musical; (p.) orotund; (p.) resonant; (p.) sonorous; (p.) tingled; (p.) vocal; (p.) voiced
+[dzwiek]dźwięk (PL) : (rz.) clink; (rz.) hollow; (rz.) sound; (rz.) tone
+[dzwiekochlonny]dźwiękochłonny (PL) : (p.) deadener; (p.) sound-absorbing
+[dzwiekonasladowczy]dźwiękonaśladowczy (PL) : (p.) echoic; (p.) onomatopoeic
+[dzwiekoszczelny]dźwiękoszczelny (PL) : (p.) soundproof; (p.) sound-proof; (p.) sound-proofed
+[dzwiekowy]dźwiękowy (PL) : (p.) acoustic; (p.) phonic; (p.) sonic; (p.) sound
+[dzdzownica]dżdżownica (PL) : (rz.) earthworm; (rz.) lobworm
+[dzdzystosc]dżdżystość (PL) : (rz.) rain
+[dzdzysty]dżdżysty (PL) : (p.) drizzly; (p.) rainy; (p.) wet
+[dzem]dżem (PL) : (rz.) jam; (rz.) marmalade
+[dzentelmen]dżentelmen (PL) : (rz.) gent; (rz.) gentleman
+[dzentelmenski]dżentelmeński (PL) : (p.) gentlemanlike; (p.) gentlemanly
+[dzet]dżet (PL) : (rz.) jet
+[dzez]dżez (PL) : (rz.) jazz
+[dzihad]dżihad (PL) : (rz.) jihad
+[dzin]dżin (PL) : (rz.) gin
+[dzins]dżins (PL) : (rz.) denim; (rz.) jean; (rz.) jeans
+[dzinsowy]dżinsowy (PL) : (p.) vaquero
+[dzinsy]dżinsy (PL) : (rz.) jeans
+[dzip]dżip (PL) : (rz.) jeep
+[dzojstik]dżojstik (PL) : (rz.) joystick
+[dzokej]dżokej (PL) : (rz.) jockey; (rz.) rider
+[dzoker]dżoker (PL) : (rz.) joker
+[dzonka]dżonka (PL) : (rz.) junk
+[dzudo]dżudo (PL) : (rz.) judo
+[dzul]dżul (PL) : (rz.) joule
+[dzuma]dżuma (PL) : (rz.) pest; (rz.) plague
+[dzungla]dżungla (PL) : (rz.) jungle
+[dzyn]dżyn (PL) : (rz.) clang

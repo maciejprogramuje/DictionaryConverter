@@ -1,0 +1,1654 @@
+[f-centres]F-centres (EN) : (rz.) centra
+[february]February (EN) : (rz.) luty
+[felix]Felix (EN) : (rz.) Feliks
+[flemish]Flemish (EN) : (p.) flamandzki
+[fm-fermium]Fm-fermium (EN) : (rz.) ferm
+[franciscan]Franciscan (EN) : (rz.) franciszkanin
+[friday]Friday (EN) : (rz.) piątek
+[fable]fable (EN) : (rz.) bajka
+[fabled]fabled (EN) : (p.) sławny
+[fabric]fabric (EN) : (rz.) budowla; (rz.) fabryka; (rz.) gmach; (rz.) infrastruktura; (rz.) materiał; (rz.) sukno; (rz.) tkanina
+[fabricate]fabricate (EN) : (cz.) fabrykować; (cz.) fałszować; (cz.) sfałszować; (cz.) tworzyć; (cz.) wymyślać; (cz.) wytwarzać; (cz.) zmyślać; (cz.) zmyślić
+[fabrication]fabrication (EN) : (rz.) fabrykacja; (rz.) podrobienie; (rz.) produkcja; (rz.) wymysł; (rz.) wyrób; (rz.) wytwarzanie
+[fabricator]fabricator (EN) : (rz.) fabrykant; (rz.) fałszerz; (rz.) łgarz
+[fabulist]fabulist (EN) : (rz.) bajkopisarz
+[fabulous]fabulous (EN) : (p.) bajeczny; (p.) bajkowy; (p.) baśniowy; (p.) fantastyczny; (p.) legendarny; (p.) niewiarygodny; (p.) piękny
+[fabulously]fabulously (EN) : (p-sł.) bajecznie; (p-sł.) bajkowo; (p-sł.) fantastycznie
+[facade]facade (EN) : (rz.) fasada; (rz.) front
+[face]face (EN) : (cz.) borykać; (cz.) napotkać; (cz.) napotykać; (rz.) buzia; (rz.) czoło; (rz.) lico; (rz.) liczko; (rz.) mina; (rz.) oblicze; (rz.) powierzchnia; (rz.) przód; (rz.) rzecz; (rz.) ściana; (rz.) stykanie; (rz.) tarcza; (rz.) twarz
+[faceless]faceless (EN) : (p.) bezimienny
+[facet]facet (EN) : (rz.) faseta; (rz.) strona
+[facetiae]facetiae (EN) : (rz.) facecja
+[facetious]facetious (EN) : (p.) dowcipny; (p.) krotochwilny; (p.) niemądry; (p.) zabawny; (p.) żartobliwy
+[facetiously]facetiously (EN) : (p-sł.) humorystycznie; (p-sł.) żartobliwie
+[facia]facia (EN) : (rz.) szyld; (rz.) wywieszka
+[facial]facial (EN) : (p.) twarzowy
+[facile]facile (EN) : (p.) łatwy; (p.) powierzchowny
+[facilely]facilely (EN) : (p-sł.) łatwo; (p-sł.) płytko; (p-sł.) powierzchownie; (p-sł.) zgodnie
+[facilitate]facilitate (EN) : (cz.) udogodnić; (cz.) udostępniać; (cz.) udostępnić; (cz.) ułatwiać; (cz.) ułatwić; (cz.) umożliwiać
+[facilitation]facilitation (EN) : (rz.) ułatwienie
+[facilities]facilities (EN) : (rz.) pomieszczenia; (rz.) urządzenia
+[facility]facility (EN) : (rz.) łatwość; (rz.) obiekt; (rz.) udogodnienie; (rz.) ułatwienie; (rz.) zgodliwość; (rz.) zręczność
+[facing]facing (EN) : (rz.) okładzina; (rz.) planowanie; (rz.) pokrycie; (rz.) wyłogi
+[facsimile]facsimile (EN) : (rz.) faks; (rz.) faksymile; (rz.) kopia
+[facsimiles]facsimiles (EN) : (rz.) faksymile
+[fact]fact (EN) : (rz.) fakt; (rz.) konkret; (rz.) okoliczność; (rz.) rzeczywistość; (rz.) silnia
+[factice]factice (EN) : (rz.) faktysa
+[faction]faction (EN) : (rz.) część; (rz.) frakcja; (rz.) klika; (rz.) odłam; (rz.) partia
+[factional]factional (EN) : (p.) wichrzycielski
+[factious]factious (EN) : (p.) kłótliwy; (p.) partyjny; (p.) stronniczy; (p.) wichrzycielski
+[factiousness]factiousness (EN) : (rz.) wichrzycielstwo
+[factitious]factitious (EN) : (p.) nieoryginalny; (p.) sztuczny
+[factitive]factitive (EN) : (p.) kazualny
+[factor]factor (EN) : (rz.) agent; (rz.) ajent; (rz.) czynnik; (rz.) faktor; (rz.) mnożnik; (rz.) okoliczność; (rz.) pośrednik; (rz.) współczynnik; (rz.) wydźwięk
+[factorial]factorial (EN) : (rz.) silnia
+[factoring]factoring (EN) : (rz.) faktoryzacja
+[factorization]factorization (EN) : (rz.) faktoryzacja
+[factory]factory (EN) : (rz.) fabryka; (rz.) faktoria; (rz.) wytwórnia
+[factual]factual (EN) : (p.) faktyczny; (p.) rzeczowy
+[factuality]factuality (EN) : (p.) faktyczny; (rz.) faktyczność
+[factually]factually (EN) : (p-sł.) faktycznie; (p-sł.) rzeczowo
+[facultative]facultative (EN) : (p.) fakultatywny
+[faculty]faculty (EN) : (rz.) dar; (rz.) fakultet; (rz.) talent; (rz.) uzdolnienie; (rz.) wydział; (rz.) zdolność
+[fad]fad (EN) : (rz.) bzik; (rz.) dziwactwo; (rz.) fanaberia; (rz.) fantazja; (rz.) kaprys; (rz.) nowinka; (rz.) zachcianka
+[fade]fade (EN) : (cz.) blaknąć; (cz.) obleźć; (cz.) płowieć; (cz.) przekwitać; (cz.) spłowieć; (cz.) więdnąć; (cz.) wyblaknąć; (cz.) wypłowieć; (cz.) zamierać; (cz.) zanikać; (cz.) zaniknąć; (cz.) zbladnąć; (cz.) zwiędnąć
+[fading]fading (EN) : (rz.) płowienie; (rz.) przekwitanie; (rz.) ściemnianie; (rz.) zanik; (rz.) zanikanie
+[faeces]faeces (EN) : (rz.) fekalia; (rz.) kał; (rz.) odchody; (rz.) osad; (rz.) stolec
+[fag]fag (EN) : (rz.) ciota; (rz.) fajka; (rz.) harówka; (rz.) homoseksualista; (rz.) papieros; (rz.) pedał; (rz.) szlug
+[fag-end]fag-end (EN) : (rz.) niedopałek; (rz.) odpadek; (rz.) resztka
+[faggot]faggot (EN) : (rz.) ciota; (rz.) faszyna; (rz.) pedał; (rz.) pęk; (rz.) wiązka
+[fagot]fagot (EN) : (rz.) wiązka
+[faience]faience (EN) : (rz.) fajans
+[fail]fail (EN) : (cz.) bankrutować; (cz.) chybiać; (cz.) nawalać; (cz.) nawalić; (cz.) oblać; (cz.) omieszkać; (cz.) pęknąć; (cz.) uchybić; (cz.) zabraknąć; (cz.) zaniedbać; (cz.) zawieść; (cz.) zawiesić; (cz.) zawodzić; (cz.) zbankrutować; (rz.) murowanie; (rz.) rozbrzmiewanie
+[failing]failing (EN) : (rz.) brak; (rz.) zawodzenie
+[failure]failure (EN) : (rz.) awaria; (rz.) awaryjność; (rz.) bankructwo; (rz.) bezczynność; (rz.) fiasko; (rz.) niedomoga; (rz.) nieopanowanie; (rz.) niepowodzenie; (rz.) nieskuteczność; (rz.) niewidzenie; (rz.) niewydolność; (rz.) niewypłacalność; (rz.) pechowiec; (rz.) porażka; (rz.) uchybienie; (rz.) uszkodzenie; (rz.) wada; (rz.) zaniechanie; (rz.) zaniedbanie
+[failure-free]failure-free (EN) : (p.) bezawaryjny; (p.) bezusterkowy
+[fain]fain (EN) : (p-sł.) chętnie
+[faint]faint (EN) : (cz.) mdleć; (cz.) słabnąć; (cz.) zasłabnąć; (cz.) zemdleć; (p.) lekki; (p.) niemocny; (p.) niewyraźny; (p.) nikły; (p.) słaby; (p.) ulotny; (p.) wątły; (rz.) omdlenie
+[faint-heart]faint-heart (EN) : (rz.) ameba
+[faint-hearted]faint-hearted (EN) : (p.) bojaźliwy; (p.) tchórzliwy
+[fainthearted]fainthearted (EN) : (p.) bojaźliwy; (p.) tchórzliwy
+[faintly]faintly (EN) : (p-sł.) nieśmiało; (p-sł.) słabo
+[faintness]faintness (EN) : (rz.) nieśmiałość; (rz.) słabość
+[fair]fair (EN) : (p.) dostateczny; (p.) godziwy; (p.) jasnoblond; (p.) jasnowłosy; (p.) jasny; (p.) odpowiedni; (p.) odpustowy; (p.) piękny; (p.) prawy; (p.) rzetelny; (p.) sprawiedliwy; (p.) targowy; (p.) uczciwy; (p-sł.) grzecznie; (p-sł.) sprawiedliwie; (p-sł.) uczciwie; (rz.) blond; (rz.) czystopis; (rz.) jarmark; (rz.) kiermasz; (rz.) odpust; (rz.) targ; (rz.) trója
+[fair-haired]fair-haired (EN) : (p.) jasnowłosy
+[fair-minded]fair-minded (EN) : (p.) bezstronny; (p.) sprawiedliwy
+[faired]faired (EN) : (p.) oprofilowany
+[fairing]fairing (EN) : (rz.) gościniec; (rz.) oprofilowanie; (rz.) owiewek; (rz.) owiewka
+[fairly]fairly (EN) : (p-sł.) całkowicie; (p-sł.) dość; (p-sł.) dosyć; (p-sł.) rzetelnie; (p-sł.) słusznie; (p-sł.) uczciwie; (p-sł.) wyraźnie; (p-sł.) zupełnie
+[fairness]fairness (EN) : (rz.) bezstronność; (rz.) godziwość; (rz.) piękność; (rz.) sprawiedliwość
+[fairway]fairway (EN) : (rz.) farwater
+[fairy]fairy (EN) : (p.) bajeczny; (p.) czarodziejski; (p.) czarowny; (rz.) ciota; (rz.) czarodziejka; (rz.) gej; (rz.) wróżka
+[fairy-tale]fairy-tale (EN) : (rz.) bajka
+[fairytale]fairytale (EN) : (rz.) bajka
+[faith]faith (EN) : (rz.) słowność; (rz.) ufność; (rz.) wiara; (rz.) wierność; (rz.) wyznanie; (rz.) zaufanie
+[faithful]faithful (EN) : (p.) dokładny; (p.) lojalny; (p.) uczciwy; (p.) wierny
+[faithfully]faithfully (EN) : (p-sł.) wiernie
+[faithfulness]faithfulness (EN) : (rz.) dokładność; (rz.) oddanie; (rz.) wierność
+[faithless]faithless (EN) : (p.) niewierny; (p.) wiarołomny; (p.) zdradziecki
+[faithlessly]faithlessly (EN) : (p-sł.) niewiernie; (p-sł.) zdradziecko
+[faithlessness]faithlessness (EN) : (rz.) niewierność
+[fake]fake (EN) : (cz.) fabrykować; (cz.) fałszować; (cz.) fingować; (cz.) oszukiwać; (cz.) podrabiać; (cz.) podrobić; (cz.) sfałszować; (cz.) sfingować; (cz.) upozorowywać; (p.) fałszerski; (p.) fałszywy; (rz.) falsyfikat; (rz.) fałszerstwo; (rz.) fałszowanie; (rz.) kant; (rz.) oszustwo; (rz.) podróbka; (rz.) szwindel
+[faked]faked (EN) : (p.) fałszywy; (p.) komediancki
+[faked-up]faked-up (EN) : (p.) lipny
+[faker]faker (EN) : (rz.) fałszerz; (rz.) oszust
+[fakir]fakir (EN) : (rz.) fakir
+[falcate]falcate (EN) : (p.) sierpowaty
+[falchion]falchion (EN) : (rz.) bułat
+[falcon]falcon (EN) : (rz.) sokół
+[falconer]falconer (EN) : (rz.) sokolnik
+[falconry]falconry (EN) : (rz.) sokolnictwo
+[falderal]falderal (EN) : (rz.) bawidełko; (rz.) cacko; (rz.) nonsens; (rz.) przyśpiew
+[fall]fall (EN) : (cz.) kłaść; (cz.) mieścić; (cz.) odpadać; (cz.) odpaść; (cz.) opadać; (cz.) opaść; (cz.) padać; (cz.) paść; (cz.) przewracać; (cz.) przewrócić; (cz.) przynależeć; (cz.) przypadać; (cz.) spadać; (cz.) spaść; (cz.) upadać; (cz.) upaść; (cz.) wpaść; (cz.) wypadać; (cz.) wypaść; (cz.) zawalać; (cz.) zawalić; (cz.) zlatywać; (rz.) jesień; (rz.) opad; (rz.) padanie; (rz.) spadanie; (rz.) spadek; (rz.) upadek
+[fallacious]fallacious (EN) : (p.) błędny; (p.) sokoli; (p.) złudny
+[fallaciousness]fallaciousness (EN) : (rz.) omyłka; (rz.) złudność; (rz.) zwodniczość
+[fallacy]fallacy (EN) : (rz.) błąd; (rz.) mylność; (rz.) wykrętność; (rz.) złudzenie
+[fallen]fallen (EN) : (rz.) opadnięcie
+[fallibility]fallibility (EN) : (rz.) omylność
+[fallible]fallible (EN) : (p.) omylny
+[fallibly]fallibly (EN) : (p-sł.) omylnie
+[falling]falling (EN) : (rz.) opadnięcie; (rz.) spadanie; (rz.) upadanie; (rz.) wpadanie
+[fallout]fallout (EN) : (rz.) rezultat
+[fallow]fallow (EN) : (p.) odłogowy; (p.) płowy; (p.) ugorowy; (rz.) odłóg; (rz.) ugór
+[fallow-deer]fallow-deer (EN) : (rz.) daniel
+[falls]falls (EN) : (rz.) upadanie
+[false]false (EN) : (p.) błędny; (p.) fałszywy; (p.) kłamliwy; (p.) mylny; (p.) nieprawdziwy; (p.) obłudny; (p.) zdradliwy; (p.) zdradziecki
+[false-hearted]false-hearted (EN) : (p.) obłudny; (p.) perfidny
+[falsehood]falsehood (EN) : (rz.) bajda; (rz.) fałsz; (rz.) fałszywość; (rz.) kłamstwo
+[falsely]falsely (EN) : (p-sł.) fałszywie
+[falseness]falseness (EN) : (rz.) pozowanie; (rz.) sztuczność; (rz.) udawanie
+[falsetto]falsetto (EN) : (rz.) falset
+[falsification]falsification (EN) : (rz.) fałszerstwo; (rz.) sfałszowanie
+[falsifier]falsifier (EN) : (rz.) fałszerz
+[falsify]falsify (EN) : (cz.) fałszować; (cz.) podrabiać; (cz.) sfałszować; (cz.) zawieść; (cz.) zawodzić
+[falsity]falsity (EN) : (rz.) fałszywość
+[falter]falter (EN) : (cz.) chwiać; (cz.) jąkać; (cz.) łamać; (cz.) słabnąć; (cz.) wahać
+[fame]fame (EN) : (rz.) fama; (rz.) rozgłos; (rz.) sława; (rz.) wieść
+[famed]famed (EN) : (p.) głośny; (p.) sławny
+[familial]familial (EN) : (p.) rodzinny
+[familiar]familiar (EN) : (p.) familiarny; (p.) konfidencjonalny; (p.) nieobcy; (p.) poufny; (p.) rodzinny; (p.) swojski; (p.) znajomy; (rz.) zaznajomienie
+[familiarity]familiarity (EN) : (rz.) obznajomienie; (rz.) poufałość; (rz.) śmiałość
+[familiarization]familiarization (EN) : (rz.) osłuchanie; (rz.) popularyzacja; (rz.) zaznajomienie
+[familiarize]familiarize (EN) : (cz.) popularyzować; (cz.) spoufalać; (cz.) zaznajamiać
+[familiarly]familiarly (EN) : (p-sł.) poufale
+[family]family (EN) : (p.) familijny; (p.) rodzinny; (rz.) dreszczowiec; (rz.) familia; (rz.) rodzina; (rz.) rodzinka
+[famine]famine (EN) : (rz.) brak; (rz.) głód; (rz.) głodowanie; (rz.) klęska
+[famish]famish (EN) : (cz.) głodować; (cz.) głodzić; (cz.) wygłodzić; (cz.) zagładzać; (cz.) zagłodzić
+[famished]famished (EN) : (p.) głodny
+[famous]famous (EN) : (p.) renomowany; (p.) sławny; (p.) słynny; (p.) znakomity
+[famously]famously (EN) : (p-sł.) daleko; (p-sł.) doskonale; (p-sł.) sławnie
+[fan]fan (EN) : (cz.) rozdymać; (cz.) wachlować; (rz.) amator; (rz.) dmuchawa; (rz.) entuzjasta; (rz.) fan; (rz.) kibic; (rz.) suszarka; (rz.) wachlarz; (rz.) wentylator
+[fan-shaped]fan-shaped (EN) : (p.) wachlarzowaty
+[fanatic]fanatic (EN) : (p.) fanatyczny; (rz.) fanatyk; (rz.) opętaniec; (rz.) oszołom; (rz.) zagorzalec
+[fanatical]fanatical (EN) : (p.) fanatyczny; (p.) zaprzysięgły
+[fanatically]fanatically (EN) : (p-sł.) fanatycznie
+[fanaticism]fanaticism (EN) : (rz.) fanatyzm; (rz.) zagorzałość
+[fancier]fancier (EN) : (rz.) hodowca
+[fanciful]fanciful (EN) : (p.) dziwaczny; (p.) fantastyczny; (p.) kapryśny; (p.) nieżyciowy
+[fancifully]fancifully (EN) : (p-sł.) fantazyjnie; (p-sł.) kapryśnie
+[fanciness]fanciness (EN) : (rz.) fantazyjność
+[fancy]fancy (EN) : (cz.) polubić; (cz.) upodobać; (cz.) wyimaginować; (cz.) wyobrażać; (cz.) zadurzać; (p.) dekoracyjny; (p.) efekciarski; (p.) fantastyczny; (p.) fantazyjny; (p.) modny; (p.) ozdobny; (rz.) chętka; (rz.) fantazja; (rz.) kaprys; (rz.) polot; (rz.) upodobanie; (rz.) wyobrażenie; (rz.) wyobraźnia; (rz.) wyrój
+[fancywork]fancywork (EN) : (rz.) wyszywanka
+[fandango]fandango (EN) : (rz.) fandango
+[fanfare]fanfare (EN) : (rz.) fanfara
+[fang]fang (EN) : (rz.) chwyt; (rz.) kieł; (rz.) pazur; (rz.) uchwyt; (rz.) występ; (rz.) żądło
+[fanner]fanner (EN) : (rz.) wentylator; (rz.) wialnia
+[fanny]fanny (EN) : (rz.) srom
+[fanon]fanon (EN) : (rz.) manipularz
+[fantasia]fantasia (EN) : (rz.) fantazja
+[fantasise]fantasise (EN) : (rz.) urojenie
+[fantasize]fantasize (EN) : (cz.) marzyć
+[fantast]fantast (EN) : (rz.) fantasta
+[fantastic]fantastic (EN) : (p.) chimeryczny; (p.) dziwaczny; (p.) fantastyczny; (p.) nierzeczywisty; (p.) obłędny
+[fantastical]fantastical (EN) : (p.) dziwaczny; (p.) fantastyczny; (p.) obłędny
+[fantasticality]fantasticality (EN) : (rz.) dziwaczność; (rz.) fantastyczność
+[fantastically]fantastically (EN) : (p-sł.) fantastycznie
+[fantasy]fantasy (EN) : (rz.) fantastyka; (rz.) fantazja; (rz.) kaprys; (rz.) wyobraźnia; (rz.) zachcianka
+[far]far (EN) : (p.) daleki; (p.) odległy; (p-sł.) daleko
+[far-away]far-away (EN) : (p.) daleki
+[far-famed]far-famed (EN) : (p.) głośny; (p.) sławny; (p.) słynny
+[far-fetched]far-fetched (EN) : (p.) naciągany; (p.) nieprawdopodobny; (p.) nierealny; (p.) przesadny
+[far-off]far-off (EN) : (p.) daleki; (p.) odległy
+[far-reaching]far-reaching (EN) : (p.) dalekosiężny; (p.) doniosły; (p.) perspektywiczny
+[far-seeing]far-seeing (EN) : (p.) dalekowzroczny
+[far-sighted]far-sighted (EN) : (p.) ostrożny; (p.) przezorny
+[far-sightedness]far-sightedness (EN) : (rz.) dalekowzroczność
+[farad]farad (EN) : (rz.) farad
+[farandole]farandole (EN) : (rz.) farandola
+[faraway]faraway (EN) : (p.) daleki; (p.) odległy
+[farce]farce (EN) : (rz.) farsa
+[farcical]farcical (EN) : (p.) farsowy; (p.) operetkowy; (p.) śmieszny
+[fare]fare (EN) : (cz.) czuć; (cz.) mieć; (cz.) podróżować; (rz.) jedzenie; (rz.) opłata; (rz.) pasażer; (rz.) potrawa; (rz.) strawa; (rz.) taryfa; (rz.) wikt
+[farewell]farewell (EN) : (rz.) pożegnanie
+[farfetched]farfetched (EN) : (p.) nieprawdopodobny; (p.) nierealny; (p.) przesadny
+[farinaceous]farinaceous (EN) : (p.) mączny; (p.) skrobiowy
+[faring]faring (EN) : (rz.) mączka; (rz.) radzenie
+[farm]farm (EN) : (cz.) gospodarować; (rz.) farma; (rz.) ferma; (rz.) folwark; (rz.) gospodarstwo; (rz.) zagroda
+[farm-hand]farm-hand (EN) : (rz.) parobek
+[farmer]farmer (EN) : (rz.) chłop; (rz.) gazda; (rz.) gospodarz; (rz.) rolnik; (rz.) włościanin
+[farmhand]farmhand (EN) : (rz.) dworak; (rz.) parobek
+[farmhouse]farmhouse (EN) : (rz.) zagroda
+[farming]farming (EN) : (rz.) gospodarka; (rz.) gospodarowanie; (rz.) hodowla; (rz.) rolnictwo
+[farmland]farmland (EN) : (rz.) rola
+[farmstead]farmstead (EN) : (rz.) zagroda
+[farmyard]farmyard (EN) : (rz.) dziedziniec; (rz.) obejście; (rz.) podwórze
+[faro]faro (EN) : (rz.) faraon
+[farouche]farouche (EN) : (p.) dziki; (p.) płochliwy; (p.) ponury
+[farseeing]farseeing (EN) : (p.) dalekowzroczny
+[farsighted]farsighted (EN) : (p.) dalekowzroczny; (p.) ostrożny; (p.) przewidujący; (p.) przezorny
+[farsightedness]farsightedness (EN) : (rz.) dalekowzroczność
+[fart]fart (EN) : (cz.) pierdzieć; (rz.) bąk; (rz.) pierdnięcie
+[farther]farther (EN) : (p.) drugi
+[farthing]farthing (EN) : (rz.) grosz; (rz.) moneta
+[farting]farting (EN) : (rz.) pierdzenie
+[fascia]fascia (EN) : (rz.) pasek; (rz.) powięź
+[fascicle]fascicle (EN) : (rz.) pęk; (rz.) zszywka
+[fascinate]fascinate (EN) : (cz.) czarować; (cz.) fascynować; (cz.) frapować; (cz.) hipnotyzować; (cz.) oczarować; (cz.) zachwycać; (cz.) zafascynować
+[fascinating]fascinating (EN) : (p.) fascynujący
+[fascinatingly]fascinatingly (EN) : (p-sł.) fascynująco
+[fascination]fascination (EN) : (rz.) fascynacja; (rz.) oczarowanie; (rz.) urok; (rz.) zafascynowanie
+[fascine]fascine (EN) : (rz.) faszyna
+[fascism]fascism (EN) : (rz.) faszyzm
+[fascist]fascist (EN) : (p.) faszystowski; (rz.) faszysta
+[fashion]fashion (EN) : (cz.) fasonować; (cz.) kształtować; (cz.) wykończać; (rz.) fason; (rz.) moda; (rz.) styl; (rz.) wzór; (rz.) zwyczaj
+[fashionable]fashionable (EN) : (p.) elegancki; (p.) modny; (p.) wytworny
+[fashionably]fashionably (EN) : (p-sł.) modnie
+[fast]fast (EN) : (cz.) pościć; (p.) mocny; (p.) pospieszny; (p.) pośpieszny; (p.) postny; (p.) prędki; (p.) silny; (p.) szybki; (p.) wartki; (rz.) post; (rz.) szybka
+[fast-selling]fast-selling (EN) : (p.) chodliwy
+[fast-shooting]fast-shooting (EN) : (p.) szybkostrzelny
+[fastback]fastback (EN) : (rz.) coupe
+[fasten]fasten (EN) : (cz.) chwycić; (cz.) chwytać; (cz.) mocować; (cz.) przybić; (cz.) przybijać; (cz.) przymocować; (cz.) przymocowywać; (cz.) spiąć; (cz.) spinać; (cz.) umocować; (cz.) wzmocnić; (cz.) zamknąć; (cz.) zapiąć; (cz.) zapinać; (cz.) zawiązać; (cz.) zmocować
+[fastener]fastener (EN) : (rz.) klamra; (rz.) łącznik; (rz.) spinacz; (rz.) zaczep; (rz.) zakończenie; (rz.) zamek; (rz.) zamknięcie; (rz.) zapięcie; (rz.) zatrzask; (rz.) złącze; (rz.) zszywka
+[fastening]fastening (EN) : (rz.) klamra; (rz.) mocowanie; (rz.) pasek; (rz.) połączenie; (rz.) przybijanie; (rz.) przymocowanie; (rz.) sznur; (rz.) utwierdzanie; (rz.) zamek; (rz.) zapadka; (rz.) zapięcie; (rz.) zatrzask; (rz.) złącze
+[fastidious]fastidious (EN) : (p.) grymaśny; (p.) skrupulatny; (p.) wybredny
+[fastidiousness]fastidiousness (EN) : (rz.) skrupulatność
+[fasting]fasting (EN) : (p-sł.) czczo
+[fastness]fastness (EN) : (rz.) solidność; (rz.) szybkość; (rz.) trwałość; (rz.) twierdza
+[fat]fat (EN) : (cz.) grubieć; (cz.) tłuścić; (cz.) tuczyć; (p.) gruby; (p.) tłusty; (p.) tłuszczowy; (rz.) okrasa; (rz.) omasta; (rz.) sadło; (rz.) smalec; (rz.) tłuszcz; (rz.) tłuszczenie
+[fatal]fatal (EN) : (p.) fatalny; (p.) nieuchronny; (p.) śmiertelny; (p.) zgubny
+[fatalism]fatalism (EN) : (rz.) fatalizm
+[fatalist]fatalist (EN) : (rz.) fatalista
+[fatalistic]fatalistic (EN) : (p.) fatalistyczny
+[fatality]fatality (EN) : (rz.) fatalizm; (rz.) fatum; (rz.) nieszczęście; (rz.) wypadek
+[fatally]fatally (EN) : (p-sł.) fatalnie; (p-sł.) śmiertelnie
+[fate]fate (EN) : (rz.) fatum; (rz.) los; (rz.) przeznaczenie; (rz.) śmierć; (rz.) zguba; (rz.) zrządzenie
+[fated]fated (EN) : (p.) fatalny
+[fateful]fateful (EN) : (p.) brzemienny; (p.) doniosły; (p.) fatalny; (p.) losowy; (p.) nieszczęsny; (p.) pamiętny; (p.) proroczy
+[fatefully]fatefully (EN) : (p-sł.) fatalnie
+[fathead]fathead (EN) : (rz.) bałwan; (rz.) duda
+[father]father (EN) : (rz.) ksiądz; (rz.) ojciec; (rz.) praojciec; (rz.) tata; (rz.) teść
+[father-in-law]father-in-law (EN) : (rz.) teść
+[fatherhood]fatherhood (EN) : (rz.) ojcostwo
+[fatherland]fatherland (EN) : (rz.) ojczyzna
+[fatherly]fatherly (EN) : (p.) ojcowski
+[fathom]fathom (EN) : (cz.) gruntować; (cz.) pojąć; (cz.) rozumieć; (cz.) sondować; (cz.) zgłębiać; (cz.) zrozumieć; (rz.) sążeń
+[fathometer]fathometer (EN) : (rz.) echosonda
+[fathomless]fathomless (EN) : (p.) bezdenny
+[fatidic]fatidic (EN) : (p.) proroczy; (p.) wieszczy
+[fatigue]fatigue (EN) : (cz.) nużyć; (rz.) fatyga; (rz.) męka; (rz.) omdlałość; (rz.) trud; (rz.) utrudzenie; (rz.) zmęczenie; (rz.) znużenie
+[fatness]fatness (EN) : (rz.) otyłość; (rz.) tusza
+[fatso]fatso (EN) : (rz.) grubas; (rz.) spaślak
+[fatten]fatten (EN) : (cz.) dokarmiać; (cz.) podkarmiać; (cz.) rozpasać; (cz.) spaść; (cz.) tuczyć; (cz.) tyć; (cz.) utuczyć; (cz.) utyć; (cz.) użyźniać
+[fatty]fatty (EN) : (p.) sprośny; (p.) tłusty; (p.) tłuszczowy; (rz.) grubas; (rz.) grubasek; (rz.) tłuścioch
+[fatuity]fatuity (EN) : (rz.) bezmyślność; (rz.) głupota
+[fatuous]fatuous (EN) : (p.) bezmyślny; (p.) głupi; (p.) niedorzeczny
+[faucet]faucet (EN) : (rz.) kielich; (rz.) kran; (rz.) kurek
+[fault]fault (EN) : (rz.) błąd; (rz.) brak; (rz.) defekt; (rz.) faul; (rz.) feler; (rz.) jąkanie; (rz.) karygodność; (rz.) omyłka; (rz.) przywara; (rz.) uchybienie; (rz.) usterka; (rz.) uszkodzenie; (rz.) wada; (rz.) wina; (rz.) wino
+[faultiness]faultiness (EN) : (rz.) wadliwość
+[faultless]faultless (EN) : (p.) bezbłędny; (p.) nienaganny; (p.) niewadliwy; (p.) niewinny; (p.) wzorowy
+[faultlessly]faultlessly (EN) : (p-sł.) bezbłędnie; (p-sł.) nienagannie
+[faulty]faulty (EN) : (p.) błędny; (p.) wadliwy
+[faun]faun (EN) : (rz.) faun
+[fauna]fauna (EN) : (rz.) fauna
+[favour]favour (EN) : (rz.) łaska; (rz.) przychylność; (rz.) przysługa; (rz.) sprzyjanie
+[favourable]favourable (EN) : (p.) korzystny; (p.) łaskawy; (p.) pomyślny; (p.) życzliwy
+[favourably]favourably (EN) : (p-sł.) korzystnie; (p-sł.) przychylnie
+[favoured]favoured (EN) : (p.) brzydki; (p.) niesympatyczny; (p.) nieurodziwy
+[favourite]favourite (EN) : (p.) ulubiony; (rz.) beniaminek; (rz.) faworyt; (rz.) pupil; (rz.) pupilek; (rz.) ulubieniec
+[favouritism]favouritism (EN) : (rz.) faworyzowanie
+[fawn]fawn (EN) : (cz.) cielić; (cz.) łasić; (cz.) nadskakiwać; (cz.) ocielić; (cz.) pełzać; (cz.) przymilać; (rz.) jelonek; (rz.) sarenka
+[fax]fax (EN) : (cz.) faksować; (rz.) faks; (rz.) telefaks
+[faxmodem]faxmodem (EN) : (rz.) faksmodem
+[faze]faze (EN) : (cz.) niepokoić; (cz.) peszyć
+[façade]façade (EN) : (rz.) elewacja; (rz.) fasada
+[fealty]fealty (EN) : (rz.) lojalność; (rz.) wierność
+[fear]fear (EN) : (cz.) bać; (cz.) lękać; (cz.) obawiać; (rz.) bój; (rz.) bojaźń; (rz.) cykor; (rz.) lęk; (rz.) obawa; (rz.) przestrach; (rz.) strach; (rz.) trwoga
+[fearful]fearful (EN) : (p.) bojaźliwy; (p.) lękliwy; (p.) okropny; (p.) strachliwy; (p.) straszny
+[fearfully]fearfully (EN) : (p-sł.) bojaźliwie
+[fearless]fearless (EN) : (p.) nieustraszony
+[fearlessly]fearlessly (EN) : (p-sł.) nieustraszenie
+[fearlessness]fearlessness (EN) : (rz.) nieustraszoność
+[fearsome]fearsome (EN) : (p.) okropny; (p.) straszny
+[feasibility]feasibility (EN) : (rz.) prawdopodobieństwo; (rz.) wykonalność
+[feasible]feasible (EN) : (p.) możliwy; (p.) prawdopodobny; (p.) wykonalny
+[feast]feast (EN) : (cz.) biesiadować; (cz.) gościć; (cz.) obchodzić; (cz.) podejmować; (cz.) ucztować; (rz.) biesiada; (rz.) festyn; (rz.) święto; (rz.) uczta; (rz.) uroczystość
+[feaster]feaster (EN) : (rz.) biesiadnik
+[feat]feat (EN) : (rz.) dokonanie; (rz.) wyczyn
+[feather]feather (EN) : (cz.) upierzyć; (rz.) opierzenie; (rz.) pierze; (rz.) piórko; (rz.) pióro; (rz.) szpunt
+[feather-brained]feather-brained (EN) : (p.) niemądry; (p.) trzpiotowaty
+[featherbed]featherbed (EN) : (rz.) pierzyna
+[featherbrain]featherbrain (EN) : (rz.) tępak
+[featherbrained]featherbrained (EN) : (p.) niemądry; (p.) trzpiotowaty
+[feathered]feathered (EN) : (p.) pierzasty; (p.) piórowy
+[feathering]feathering (EN) : (rz.) opierzenie; (rz.) pióro
+[feathers]feathers (EN) : (rz.) pierze; (rz.) upierzenie
+[feathery]feathery (EN) : (p.) pierzasty
+[feature]feature (EN) : (cz.) cechować; (cz.) opisywać; (cz.) przedstawiać; (cz.) uwydatniać; (cz.) uwydatnić; (cz.) uwypuklać; (cz.) uwypuklić; (rz.) cecha; (rz.) osobowość; (rz.) reportaż; (rz.) rys; (rz.) właściwość; (rz.) wyróżnik
+[feature-length]feature-length (EN) : (p.) pełnometrażowy
+[featureless]featureless (EN) : (p.) nijaki
+[features]features (EN) : (rz.) cech
+[febrile]febrile (EN) : (p.) gorączkowy
+[feckless]feckless (EN) : (p.) niedołężny; (p.) nieodpowiedzialny; (p.) słaby
+[feculent]feculent (EN) : (p.) mętny
+[fecund]fecund (EN) : (p.) płodny
+[fecundity]fecundity (EN) : (rz.) płodność
+[fed-up]fed-up (EN) : (p.) rozdrażniony; (p.) znudzony
+[federal]federal (EN) : (p.) federacyjny; (p.) federalny; (p.) rządowy; (p.) związkowy
+[federalisation]federalisation (EN) : (rz.) federalizacja
+[federalism]federalism (EN) : (rz.) federalizm
+[federalist]federalist (EN) : (rz.) federalista
+[federalization]federalization (EN) : (rz.) federacja
+[federate]federate (EN) : (cz.) jednoczyć
+[federation]federation (EN) : (rz.) federacja; (rz.) związek
+[federative]federative (EN) : (p.) federacyjny
+[fee]fee (EN) : (rz.) czesne; (rz.) honorarium; (rz.) opłata; (rz.) składka; (rz.) wpisowe; (rz.) wynagrodzenie; (rz.) zapłata
+[feeble]feeble (EN) : (p.) kiepski; (p.) słaby
+[feebly]feebly (EN) : (p-sł.) słabo
+[feed]feed (EN) : (cz.) doprowadzać; (cz.) dostarczać; (cz.) karmić; (cz.) nakarmić; (cz.) odchować; (cz.) odkarmić; (cz.) odżywiać; (cz.) paść; (cz.) posilać; (cz.) pożywiać; (cz.) pożywić; (cz.) tuczyć; (cz.) wyżywić; (cz.) zasilać; (cz.) zerować; (cz.) żerować; (cz.) żywić; (rz.) dożywianie; (rz.) karma; (rz.) pasienie; (rz.) pasza; (rz.) paszenie; (rz.) pokarm; (rz.) posuw
+[feedback]feedback (EN) : (rz.) odpowiedź; (rz.) opinia; (rz.) reakcja; (rz.) sprzężenie
+[feeder]feeder (EN) : (rz.) dopływ; (rz.) dozownik; (rz.) karmiciel; (rz.) podajnik; (rz.) traktor; (rz.) zasilacz; (rz.) zjadacz
+[feedlot]feedlot (EN) : (rz.) tuczarnia
+[feel]feel (EN) : (cz.) czuć; (cz.) doświadczać; (cz.) dotykać; (cz.) macać; (cz.) miewać; (cz.) obmacać; (cz.) odczuwać; (cz.) odmłodnieć; (cz.) poczuć; (cz.) poczuwać; (cz.) rozgaszczać; (cz.) wyczuwać; (cz.) wymacać; (rz.) czucie; (rz.) dotyk; (rz.) odczuwanie
+[feeler]feeler (EN) : (rz.) czujka; (rz.) czułek; (rz.) macka; (rz.) wywiadowca
+[feelers]feelers (EN) : (rz.) szczelinomierz
+[feeling]feeling (EN) : (rz.) czucie; (rz.) dotyk; (rz.) macanie; (rz.) odczucie; (rz.) poczucie; (rz.) uczucie; (rz.) wrażenie; (rz.) wymacywanie
+[feet]feet (EN) : (rz.) stopa
+[feign]feign (EN) : (cz.) symulować; (cz.) udawać
+[feint]feint (EN) : (rz.) udawanie; (rz.) zwód
+[feldspar]feldspar (EN) : (rz.) skaleń
+[felicitous]felicitous (EN) : (p.) szczęśliwy; (p.) trafny; (p.) właściwy
+[felicity]felicity (EN) : (rz.) szczęście; (rz.) szczęśliwość
+[feline]feline (EN) : (p.) koci
+[fell]fell (EN) : (cz.) czuć; (cz.) opadać; (cz.) powalać; (cz.) powalić; (cz.) ścinać; (cz.) spadać; (cz.) upadać; (cz.) zrąbać; (p.) dziki; (p.) okrutny; (p.) srogi; (rz.) wyrąb
+[feller]feller (EN) : (rz.) drwal; (rz.) kolega; (rz.) koleś; (rz.) kumpel
+[felloe]felloe (EN) : (rz.) dzwono
+[fellow]fellow (EN) : (rz.) chłop; (rz.) członek; (rz.) człowiek; (rz.) facet; (rz.) gość; (rz.) kolega; (rz.) kum; (rz.) kumpel; (rz.) pot; (rz.) rolnik; (rz.) towarzysz; (rz.) współobywatel; (rz.) współpracownik
+[fellow-citizen]fellow-citizen (EN) : (rz.) rodak
+[fellow-countryman]fellow-countryman (EN) : (rz.) rodak
+[fellowship]fellowship (EN) : (rz.) członkostwo; (rz.) koleżeństwo; (rz.) solidarność; (rz.) stanowisko; (rz.) stypendium; (rz.) towarzystwo; (rz.) wspólnota; (rz.) współuczestnictwo; (rz.) współudział; (rz.) związek
+[felon]felon (EN) : (rz.) delikwent; (rz.) przestępca; (rz.) zanokcica; (rz.) zastrzał; (rz.) zbrodniarz
+[felonious]felonious (EN) : (p.) kryminalny; (p.) przestępczy
+[felony]felony (EN) : (rz.) przestępstwo; (rz.) występek; (rz.) zbrodnia
+[felt]felt (EN) : (cz.) filcować; (cz.) pilśnić; (cz.) wyczuć; (rz.) filc; (rz.) filcowanie; (rz.) odczulenie; (rz.) pilśń; (rz.) pilśnienie; (rz.) wojłok
+[felt-tip]felt-tip (EN) : (p.) mazakowy; (rz.) mazak; (rz.) pisak
+[felting]felting (EN) : (rz.) filcowanie; (rz.) folowanie; (rz.) spilśnianie
+[felucca]felucca (EN) : (rz.) feluka
+[female]female (EN) : (p.) kobiecy; (p.) obejmujący; (p.) samiczy; (p.) żeński; (rz.) kobieta; (rz.) samica
+[feminine]feminine (EN) : (p.) kobiecy; (p.) niewieści; (p.) żeński
+[femininity]femininity (EN) : (rz.) kobiecość; (rz.) żeńskość
+[feminism]feminism (EN) : (rz.) feminizm
+[feminist]feminist (EN) : (rz.) feminista; (rz.) feministka
+[feministic]feministic (EN) : (p.) feministyczny
+[feminization]feminization (EN) : (rz.) feminizacja
+[feminize]feminize (EN) : (cz.) feminizować
+[femme]femme (EN) : (rz.) kobieta; (rz.) żona
+[femoral]femoral (EN) : (p.) udowy
+[fen]fen (EN) : (rz.) bagno; (rz.) moczary; (rz.) trzęsawisko; (rz.) żuławy
+[fence]fence (EN) : (cz.) fechtować; (cz.) grodzić; (cz.) ogradzać; (cz.) ogrodzić; (cz.) oparkanić; (cz.) zagradzać; (cz.) zagrodzić; (rz.) częstokół; (rz.) fechtunek; (rz.) meliniarz; (rz.) ogrodzenie; (rz.) parkan; (rz.) paser; (rz.) płot; (rz.) siatka; (rz.) szermierka
+[fencer]fencer (EN) : (rz.) fechmistrz; (rz.) fechtmistrz; (rz.) szermierz
+[fencing]fencing (EN) : (rz.) fechtunek; (rz.) ogrodzenie; (rz.) paserstwo; (rz.) szermierka; (rz.) szermierstwo
+[fend]fend (EN) : (cz.) bronić; (cz.) obronić; (cz.) odeprzeć
+[fender]fender (EN) : (rz.) błotnik; (rz.) ochraniacz; (rz.) odbijacz; (rz.) odbój; (rz.) osłona; (rz.) zderzak
+[fenland]fenland (EN) : (rz.) żuławy
+[fennel]fennel (EN) : (rz.) koper
+[fenny]fenny (EN) : (p.) bagnisty
+[fenugreek]fenugreek (EN) : (rz.) kozieradka
+[feoff]feoff (EN) : (rz.) łan; (rz.) lenno
+[feretory]feretory (EN) : (rz.) feretron; (rz.) mary; (rz.) relikwiarz
+[ferial]ferial (EN) : (p.) powszedni
+[ferment]ferment (EN) : (cz.) fermentować; (rz.) niepokój
+[fermentation]fermentation (EN) : (rz.) fermentacja; (rz.) wzburzenie
+[fermium]fermium (EN) : (rz.) ferm
+[fern]fern (EN) : (rz.) paproć
+[ferocious]ferocious (EN) : (p.) dziki; (p.) okrutny; (p.) srogi; (p.) zaciekły
+[ferociously]ferociously (EN) : (p-sł.) dziko
+[ferocity]ferocity (EN) : (rz.) dzikość; (rz.) okrucieństwo; (rz.) skromność; (rz.) srogość; (rz.) surowość; (rz.) zaciekłość
+[ferrate]ferrate (EN) : (rz.) żelazian
+[ferret]ferret (EN) : (cz.) pomyszkować; (cz.) wyszperać; (rz.) fretka; (rz.) statek
+[ferric]ferric (EN) : (p.) żelazowy
+[ferrite]ferrite (EN) : (rz.) ferryt
+[ferroalloy]ferroalloy (EN) : (rz.) żelazostop
+[ferrochromium]ferrochromium (EN) : (rz.) żelazochrom
+[ferroelectric]ferroelectric (EN) : (rz.) ferrodielektryk; (rz.) ferroelektryk
+[ferromagnetic]ferromagnetic (EN) : (p.) ferromagnetyczny
+[ferromagnetism]ferromagnetism (EN) : (rz.) ferromagnetyzm
+[ferromanganese]ferromanganese (EN) : (rz.) żelazomangan
+[ferromolybdenum]ferromolybdenum (EN) : (rz.) żelazomolibden
+[ferrosilicon]ferrosilicon (EN) : (rz.) żelazokrzem
+[ferrotungsten]ferrotungsten (EN) : (rz.) żelazowolfram
+[ferrous]ferrous (EN) : (p.) żelazawy
+[ferrovanadium]ferrovanadium (EN) : (rz.) żelazowanad
+[ferruginous]ferruginous (EN) : (p.) rdzawy; (p.) żelazisty
+[ferrule]ferrule (EN) : (rz.) okucie; (rz.) skuwka; (rz.) tulejka
+[ferry]ferry (EN) : (cz.) przeprawiać; (cz.) przewozić; (rz.) prom
+[ferry-boat]ferry-boat (EN) : (rz.) prom
+[ferryboat]ferryboat (EN) : (rz.) prom
+[ferryman]ferryman (EN) : (rz.) przewoźnik
+[fertile]fertile (EN) : (p.) chlebodajny; (p.) plenny; (p.) płodny; (p.) rodny; (p.) urodzajny; (p.) żyzny
+[fertilely]fertilely (EN) : (p-sł.) płodnie; (rz.) płodność; (rz.) urodzajność; (rz.) żyzność
+[fertilisation]fertilisation (EN) : (rz.) nawożenie
+[fertilise]fertilise (EN) : (cz.) użyźniać
+[fertiliser]fertiliser (EN) : (rz.) nawóz
+[fertility]fertility (EN) : (rz.) plenność; (rz.) płodność; (rz.) urodzajność; (rz.) żyzność
+[fertilization]fertilization (EN) : (rz.) nawożenie; (rz.) użyźnianie; (rz.) użyźnienie; (rz.) zapłodnienie
+[fertilize]fertilize (EN) : (cz.) nawozić; (cz.) użyźniać; (cz.) zapładniać; (cz.) zapylać
+[fertilizer]fertilizer (EN) : (rz.) nawóz
+[fervency]fervency (EN) : (rz.) ferwor
+[fervent]fervent (EN) : (p.) żarliwy
+[fervently]fervently (EN) : (p-sł.) gorączkowo; (p-sł.) gorliwie; (p-sł.) żarliwie
+[fervid]fervid (EN) : (p.) gorliwy
+[fervour]fervour (EN) : (rz.) ferwor; (rz.) gorliwość; (rz.) zapał; (rz.) żar; (rz.) żarliwość
+[festal]festal (EN) : (p.) świąteczny
+[fester]fester (EN) : (cz.) gnić; (cz.) jątrzyć; (cz.) ropieć; (cz.) rozjątrzać; (rz.) gnicie; (rz.) jątrzenie; (rz.) ropień; (rz.) ropienie; (rz.) zajad
+[festival]festival (EN) : (rz.) festiwal; (rz.) festyn; (rz.) święto
+[festive]festive (EN) : (p.) biesiadny; (p.) odświętny; (p.) świąteczny; (p.) uroczysty; (p.) wesoły
+[festively]festively (EN) : (p-sł.) świątecznie
+[festivity]festivity (EN) : (p.) festynowy; (rz.) święto; (rz.) uroczystość; (rz.) wesołość; (rz.) zabawa
+[festoon]festoon (EN) : (rz.) feston; (rz.) girlanda
+[fetch]fetch (EN) : (cz.) aportować; (cz.) dostawiać; (cz.) pobierać; (cz.) przynieść; (cz.) przynosić; (cz.) przywieźć; (cz.) sprowadzać; (cz.) sprowadzić; (cz.) władować; (cz.) wywabiać
+[fetching]fetching (EN) : (p.) atrakcyjny; (p.) korzystny
+[fetchingly]fetchingly (EN) : (p-sł.) apetycznie; (p-sł.) ponętnie
+[fete]fete (EN) : (cz.) fetować; (cz.) ufetować; (rz.) feta
+[fetid]fetid (EN) : (p.) niewonny
+[fetish]fetish (EN) : (rz.) fetysz
+[fetishism]fetishism (EN) : (rz.) fetyszyzm
+[fetishist]fetishist (EN) : (rz.) fetyszysta
+[fetlock]fetlock (EN) : (rz.) pęcina
+[fetor]fetor (EN) : (rz.) smród
+[fetter]fetter (EN) : (cz.) skrępować; (rz.) kajdany; (rz.) pęta; (rz.) skrępowanie; (rz.) skucie; (rz.) smarowacz; (rz.) spętanie; (rz.) zakucie
+[fetters]fetters (EN) : (rz.) kajdany; (rz.) okowy; (rz.) pęta
+[fettle]fettle (EN) : (rz.) samopoczucie
+[feud]feud (EN) : (rz.) lenno; (rz.) spór; (rz.) waśń; (rz.) wojna
+[feudal]feudal (EN) : (p.) feudalny; (p.) lenny
+[feudalism]feudalism (EN) : (rz.) feudalizm; (rz.) lenno
+[feudality]feudality (EN) : (rz.) feudalizm
+[feudalization]feudalization (EN) : (rz.) feudalizacja
+[feudatory]feudatory (EN) : (rz.) lennik
+[feuilleton]feuilleton (EN) : (rz.) felieton
+[fever]fever (EN) : (rz.) febra; (rz.) gorączka; (rz.) rozgorączkowanie
+[feverish]feverish (EN) : (p.) febryczny; (p.) gorączkowy; (p.) malaryczny
+[feverishly]feverishly (EN) : (p-sł.) gorączkowo; (p-sł.) nieprzytomnie
+[feverishness]feverishness (EN) : (rz.) gorączkowość
+[feverless]feverless (EN) : (p.) bezgorączkowy
+[few]few (EN) : (p.) nieliczny
+[fiacre]fiacre (EN) : (rz.) fiakier
+[fiasco]fiasco (EN) : (rz.) fiasko; (rz.) niepowodzenie
+[fiat]fiat (EN) : (rz.) dekret; (rz.) płask; (rz.) płaskownik; (rz.) równina
+[fib]fib (EN) : (cz.) cyganić; (cz.) okładać; (cz.) pobujać; (rz.) bujda; (rz.) cygaństwo; (rz.) kłamstwo
+[fibber]fibber (EN) : (rz.) kłamca; (rz.) kłamczuch; (rz.) łgarz
+[fibre]fibre (EN) : (rz.) błonnik; (rz.) włóknik; (rz.) włókno
+[fibreboard]fibreboard (EN) : (rz.) laminat
+[fibril]fibril (EN) : (rz.) fibryla; (rz.) włókienko
+[fibrillation]fibrillation (EN) : (rz.) fibrylacja
+[fibrin]fibrin (EN) : (rz.) fibryna; (rz.) włóknik
+[fibrinogen]fibrinogen (EN) : (rz.) fibrynogen
+[fibroid]fibroid (EN) : (p.) włóknisty
+[fibroin]fibroin (EN) : (rz.) fibroina
+[fibrosis]fibrosis (EN) : (rz.) zwłóknienie
+[fibrous]fibrous (EN) : (p.) włóknisty; (p.) żylasty
+[fibs]fibs (EN) : (rz.) bujda
+[fibster]fibster (EN) : (rz.) kłamczuch
+[fickle]fickle (EN) : (p.) kapryśny; (p.) zmienny
+[fickleness]fickleness (EN) : (rz.) nietrwałość; (rz.) płochość; (rz.) zmienność
+[fictile]fictile (EN) : (p.) garncarski; (p.) gliniany
+[fiction]fiction (EN) : (rz.) beletrystyka; (rz.) fantastyka; (rz.) fikcja; (rz.) iluzoryczność; (rz.) urojenie; (rz.) wymysł
+[fictional]fictional (EN) : (p.) beletrystyczny; (p.) fikcyjny; (p.) powieściowy
+[fictionally]fictionally (EN) : (p-sł.) fikcyjnie
+[fictitious]fictitious (EN) : (p.) fikcyjny; (p.) zmyślony
+[fictitiously]fictitiously (EN) : (p-sł.) fikcyjnie; (rz.) zmyślenie
+[fid]fid (EN) : (rz.) fit
+[fiddle]fiddle (EN) : (cz.) rzępolić; (rz.) pot; (rz.) skrzypce; (rz.) skrzypki
+[fiddler]fiddler (EN) : (rz.) kanciarz; (rz.) oszust; (rz.) rzępoła; (rz.) rzępolenie; (rz.) skrzypek
+[fiddlestick]fiddlestick (EN) : (rz.) smyczek
+[fiddling]fiddling (EN) : (p.) błahy
+[fidelity]fidelity (EN) : (rz.) dokładność; (rz.) ścisłość; (rz.) wierność
+[fidget]fidget (EN) : (cz.) denerwować; (cz.) wiercić; (rz.) niepokój; (rz.) wiercipięta; (rz.) wiertarka; (rz.) wiertło
+[fidgety]fidgety (EN) : (p.) nerwowy; (p.) niespokojny
+[fiduciary]fiduciary (EN) : (p.) powierniczy
+[fie]fie (EN) : (wykrzyknik) ba
+[fief]fief (EN) : (rz.) feudum; (rz.) lenno
+[field]field (EN) : (rz.) boisko; (rz.) domena; (rz.) dziedzina; (rz.) łan; (rz.) pole; (rz.) teren; (rz.) zagon
+[field-glass]field-glass (EN) : (rz.) luneta
+[field-gun]field-gun (EN) : (rz.) polówka
+[field-marshal]field-marshal (EN) : (rz.) feldmarszałek
+[fieldfare]fieldfare (EN) : (rz.) kwiczoł
+[fiend]fiend (EN) : (rz.) diabeł; (rz.) szatan
+[fiendish]fiendish (EN) : (p.) diabelski; (p.) szatański
+[fiendishly]fiendishly (EN) : (p-sł.) diabelsko
+[fierce]fierce (EN) : (p.) dziki; (p.) gwałtowny; (p.) srogi; (p.) wściekły; (p.) zaciekły; (p.) zagorzały
+[fiercely]fiercely (EN) : (p-sł.) dziko; (p-sł.) gwałtownie; (p-sł.) srogo; (p-sł.) wściekle; (p-sł.) zawzięcie; (p-sł.) zażarcie
+[fierceness]fierceness (EN) : (rz.) gwałtowność
+[fieriness]fieriness (EN) : (rz.) wściekłość
+[fiery]fiery (EN) : (p.) ognisty; (p.) płomienny; (p.) zapalczywy; (p.) zapalny
+[fiesta]fiesta (EN) : (rz.) święto
+[fifteen]fifteen (EN) : (rz.) mendel
+[fifteenth]fifteenth (EN) : (p.) piętnasty
+[fifth]fifth (EN) : (p.) piąty
+[fig]fig (EN) : (rz.) figa; (rz.) figowiec
+[fig-tree]fig-tree (EN) : (rz.) figowiec
+[fight]fight (EN) : (cz.) bić; (cz.) kłócić; (cz.) walczyć; (cz.) zwalczyć; (rz.) bijatyka; (rz.) bitwa; (rz.) bój; (rz.) bójka; (rz.) borykanie; (rz.) kłótnia; (rz.) mordobicie; (rz.) tępienie; (rz.) walka; (rz.) zwalczanie
+[fighter]fighter (EN) : (rz.) bojowiec; (rz.) bojówkarz; (rz.) bojownik; (rz.) myśliwiec; (rz.) szermierz; (rz.) wojownik; (rz.) żołnierz
+[fighting]fighting (EN) : (rz.) zwalczanie; (rz.) zwalczenie
+[figment]figment (EN) : (rz.) wymysł
+[figural]figural (EN) : (p.) figuralny
+[figuration]figuration (EN) : (rz.) kształtowanie; (rz.) upiększenie
+[figurative]figurative (EN) : (p.) alegoryczny; (p.) obrazowy; (p.) przenośny; (p.) przewoźny; (p.) symboliczny
+[figuratively]figuratively (EN) : (p-sł.) przenośnie; (p-sł.) symbolicznie
+[figure]figure (EN) : (cz.) figurować; (cz.) kształtować; (cz.) przedstawiać; (cz.) tworzyć; (cz.) wyobrażać; (rz.) cyfra; (rz.) figura; (rz.) figurka; (rz.) ilustracja; (rz.) kształt; (rz.) liczba; (rz.) obraz; (rz.) postać; (rz.) powierzchowność; (rz.) rycina; (rz.) rysunek; (rz.) sylwetka
+[figure-head]figure-head (EN) : (rz.) figurka
+[figured]figured (EN) : (p.) wzorzysty
+[figurehead]figurehead (EN) : (rz.) figurka
+[figurine]figurine (EN) : (rz.) figurka; (rz.) posążek
+[filament]filament (EN) : (rz.) włókno; (rz.) żarnik
+[filamentary]filamentary (EN) : (p.) włókienkowy
+[filamentous]filamentous (EN) : (p.) nitkowaty; (p.) nitkowy
+[filature]filature (EN) : (rz.) przędzenie
+[filbert]filbert (EN) : (rz.) leszczyna
+[filbert-tree]filbert-tree (EN) : (rz.) leszczyna
+[filch]filch (EN) : (cz.) ukraść
+[file]file (EN) : (cz.) piłować; (cz.) segregować; (cz.) układać; (rz.) akt; (rz.) akta; (rz.) ewidencja; (rz.) kartoteka; (rz.) pilnik; (rz.) plik; (rz.) registrator; (rz.) rejestr; (rz.) rząd; (rz.) segregator; (rz.) skoroszyt; (rz.) szpagat; (rz.) zbiór
+[filer]filer (EN) : (rz.) nadzorca; (rz.) segregator; (rz.) zarządca
+[filial]filial (EN) : (p.) synowski
+[filibeg]filibeg (EN) : (rz.) spódniczka
+[filibuster]filibuster (EN) : (rz.) korsarz; (rz.) obstrukcjonista
+[filicide]filicide (EN) : (rz.) synobójstwo
+[filigree]filigree (EN) : (rz.) filigran
+[filing]filing (EN) : (rz.) akta; (rz.) archiwizacja; (rz.) brosz; (rz.) kartotekowanie; (rz.) opiłek; (rz.) segregowanie
+[filings]filings (EN) : (rz.) opiłki
+[fill]fill (EN) : (cz.) bić; (cz.) nabić; (cz.) nabiegać; (cz.) nadąć; (cz.) nadziać; (cz.) najść; (cz.) nalać; (cz.) nalewać; (cz.) napawać; (cz.) napchać; (cz.) napełniać; (cz.) napełnić; (cz.) napuszczać; (cz.) nasycić; (cz.) nawieźć; (cz.) obsadzić; (cz.) obsiadać; (cz.) pełnić; (cz.) plombować; (cz.) przepajać; (cz.) roznieść; (cz.) sycić; (cz.) szpachlować; (cz.) uzupełnić; (cz.) wezbrać; (cz.) wypchać; (cz.) wypełniać; (cz.) wypełnić; (cz.) zalegać; (cz.) zalęgać; (cz.) zalepiać; (cz.) zapchać; (cz.) zapełniać; (cz.) zapełnić; (rz.) napełnienie; (rz.) obsadzenie; (rz.) pełność; (rz.) porcja; (rz.) wypełnienie; (rz.) zasypka
+[filler]filler (EN) : (rz.) kabla; (rz.) ładowacz; (rz.) napełniacz; (rz.) opaska; (rz.) podsadzkarz; (rz.) spoiwo; (rz.) szpachlówka; (rz.) wypełniacz; (rz.) wypełnienie
+[fillet]fillet (EN) : (rz.) filet; (rz.) opaska; (rz.) przepaska; (rz.) wstążka
+[filling]filling (EN) : (rz.) farsz; (rz.) fleczer; (rz.) materiał; (rz.) nadzianie; (rz.) nadzienie; (rz.) nalewanie; (rz.) napełnianie; (rz.) plomba; (rz.) plombowanie; (rz.) podsadzka; (rz.) wypełnianie; (rz.) wypełnienie
+[fillings]fillings (EN) : (rz.) szpachlówka
+[fillip]fillip (EN) : (rz.) prztyczek; (rz.) prztyk; (rz.) pstryczek; (rz.) pstryk
+[fillister]fillister (EN) : (rz.) rowek
+[filly]filly (EN) : (rz.) dzierlatka; (rz.) klaczka; (rz.) koza; (rz.) podfruwajka; (rz.) źrebica
+[film]film (EN) : (cz.) filmować; (rz.) błona; (rz.) film; (rz.) kinematografia; (rz.) negatyw; (rz.) warstwa
+[film-maker]film-maker (EN) : (rz.) filmowiec
+[filmed]filmed (EN) : (p.) użebrowany; (p.) żebrowy
+[filmic]filmic (EN) : (p.) filmowy
+[filming]filming (EN) : (rz.) ekranizacja; (rz.) filmowanie
+[filmmaker]filmmaker (EN) : (rz.) filmowiec
+[filmmaking]filmmaking (EN) : (rz.) kinematografia; (rz.) produkcja
+[filmsetting]filmsetting (EN) : (rz.) fotoskład
+[filmstrip]filmstrip (EN) : (rz.) diapozytyw
+[filter]filter (EN) : (cz.) cedzić; (cz.) filtrować; (cz.) odfiltrować; (cz.) odfiltrowywać; (cz.) odsączyć; (cz.) przefiltrować; (cz.) przesączać; (cz.) przesączyć; (cz.) sączyć; (rz.) bibuła; (rz.) cedzenie; (rz.) cedzidło; (rz.) filtr; (rz.) sączek; (rz.) sączenie
+[filterable]filterable (EN) : (p.) przesączalny
+[filth]filth (EN) : (rz.) brud; (rz.) nieczystość; (rz.) paskudztwo; (rz.) plugastwo
+[filthily]filthily (EN) : (p-sł.) brudno
+[filthy]filthy (EN) : (p.) brudny; (p.) ohydny; (p.) plugawy; (p.) sprośny
+[filtrate]filtrate (EN) : (cz.) filtrować; (cz.) sączyć
+[filtration]filtration (EN) : (rz.) cedzenie; (rz.) filtracja
+[fin]fin (EN) : (rz.) brzechwa; (rz.) płetwa; (rz.) statecznik
+[final]final (EN) : (p.) definitywny; (p.) finalny; (p.) finałowy; (p.) końcowy; (p.) nieodwołalny; (p.) ostateczny; (p.) ostatni; (p.) prawomocny; (rz.) finał; (rz.) wyrok
+[finale]finale (EN) : (rz.) finał
+[finalist]finalist (EN) : (rz.) finalista
+[finality]finality (EN) : (rz.) nieodwołalność; (rz.) ostateczność
+[finalization]finalization (EN) : (rz.) finalizacja; (rz.) zakończenie
+[finalize]finalize (EN) : (cz.) finalizować; (cz.) kończyć; (cz.) sfinalizować
+[finally]finally (EN) : (p-sł.) definitywnie; (p-sł.) ostatecznie; (p-sł.) wreszcie
+[finance]finance (EN) : (cz.) finansować; (cz.) sfinansować; (rz.) finanse; (rz.) finansjera
+[finances]finances (EN) : (cz.) finansować
+[financial]financial (EN) : (p.) finansowy
+[financially]financially (EN) : (p-sł.) finansowo; (p-sł.) materialnie
+[financier]financier (EN) : (rz.) finansista; (rz.) finansowiec
+[financing]financing (EN) : (rz.) finansowanie
+[finch]finch (EN) : (rz.) zięba
+[find]find (EN) : (cz.) dowiadywać; (cz.) odkryć; (cz.) odkrywać; (cz.) odnajdować; (cz.) odnajdywać; (cz.) odszukać; (cz.) stwierdzać; (cz.) znajdować; (cz.) znaleźć; (rz.) odkrycie; (rz.) wykopalisko; (rz.) znalezisko
+[findable]findable (EN) : (p.) wykrywalny
+[finder]finder (EN) : (rz.) odkrywca; (rz.) poszukiwacz; (rz.) szukacz; (rz.) znalazca
+[finding]finding (EN) : (rz.) konstatacja; (rz.) odkrycie; (rz.) odnajdowanie; (rz.) odszukiwanie; (rz.) ustalenie; (rz.) wniosek; (rz.) wyszukanie; (rz.) wyszukiwanie; (rz.) znajdywanie; (rz.) znalezienie
+[fine]fine (EN) : (cz.) cienieć; (cz.) czuć; (cz.) klarować; (p.) cienki; (p.) czysty; (p.) delikatny; (p.) drobnoziarnisty; (p.) drobny; (p.) finezyjny; (p.) karny; (p.) ładny; (p.) miałki; (p.) piękny; (p.) porządny; (p.) przyjemny; (p.) świetny; (p.) udatny; (p.) wytworny; (p-sł.) dobrze; (p-sł.) drobno; (p-sł.) pięknie; (rz.) grzywna; (rz.) kara; (rz.) ród; (rz.) ziarno
+[fine-crystalline]fine-crystalline (EN) : (p.) drobnokrystaliczny
+[fine-drawn]fine-drawn (EN) : (p.) przystojny
+[fine-grained]fine-grained (EN) : (p.) drobnoziarnisty; (p.) drobny; (p.) precyzyjny; (p.) szczegółowy
+[fine-ringed]fine-ringed (EN) : (p.) wąskosłoisty
+[fine-spun]fine-spun (EN) : (p.) cienki; (p.) delikatny
+[finely]finely (EN) : (p-sł.) drobno; (p-sł.) świetnie
+[fineness]fineness (EN) : (rz.) czystość; (rz.) miałkość
+[finery]finery (EN) : (rz.) biżuteria; (rz.) elegancja; (rz.) ozdoba; (rz.) przystrojenie
+[finesse]finesse (EN) : (rz.) czystość; (rz.) delikatność; (rz.) doskonałość; (rz.) finezja
+[finessed]finessed (EN) : (p.) finezyjny
+[finessing]finessing (EN) : (p-sł.) finezyjnie
+[finest]finest (EN) : (p.) najwspanialszy
+[finger]finger (EN) : (cz.) obmacać; (rz.) dotykanie; (rz.) macanie; (rz.) obmacanie; (rz.) palec; (rz.) paluch
+[finger-nail]finger-nail (EN) : (rz.) paznokieć
+[finger-post]finger-post (EN) : (rz.) drogowskaz
+[fingerboard]fingerboard (EN) : (rz.) gryf; (rz.) klawiatura
+[fingering]fingering (EN) : (rz.) aplikatura; (rz.) palcowanie
+[fingerling]fingerling (EN) : (rz.) drobiazg; (rz.) palczak; (rz.) pstrąg
+[fingernail]fingernail (EN) : (rz.) paznokieć
+[fingerpost]fingerpost (EN) : (rz.) drogowskaz
+[fingerprint]fingerprint (EN) : (rz.) odcisk
+[fingers]fingers (EN) : (rz.) palcowanie
+[fingertip]fingertip (EN) : (rz.) opuszka
+[finial]finial (EN) : (rz.) kwiaton
+[finical]finical (EN) : (p.) skrupulatny; (p.) wybredny
+[finicky]finicky (EN) : (p.) drobiazgowy; (p.) wybredny
+[finish]finish (EN) : (cz.) apretować; (cz.) dokańczać; (cz.) kończyć; (cz.) pokończyć; (cz.) przestać; (cz.) skończyć; (cz.) wykańczać; (cz.) wykończyć; (cz.) wykonywać; (rz.) apretura; (rz.) dokończenie; (rz.) koniec; (rz.) meta; (rz.) wykończenie; (rz.) zakończenie
+[finished]finished (EN) : (p.) finalny; (p.) gotowy
+[finisher]finisher (EN) : (rz.) dobicie; (rz.) koniec; (rz.) wykończalnia
+[finishing]finishing (EN) : (p.) wykończeniowy; (rz.) kończenie; (rz.) wykańczanie; (rz.) wykończalnictwo; (rz.) wykończanie; (rz.) wykończenie
+[finite]finite (EN) : (p.) końcowy; (p.) skończony
+[finitely]finitely (EN) : (rz.) skończenie
+[finiteness]finiteness (EN) : (rz.) skończoność
+[fink]fink (EN) : (rz.) łamistrajk; (rz.) szpicel
+[finned]finned (EN) : (p.) żebrowy
+[finny]finny (EN) : (p.) rybi
+[fiord]fiord (EN) : (rz.) fiord
+[fipple]fipple (EN) : (rz.) zatyczka
+[fir]fir (EN) : (rz.) choinka; (rz.) jedlina; (rz.) jodła; (rz.) sosna
+[fir-tree]fir-tree (EN) : (rz.) jedlina
+[fire]fire (EN) : (cz.) odpalać; (cz.) odpalić; (cz.) odstrzelić; (cz.) ostrzeliwać; (cz.) palić; (cz.) podpalić; (cz.) rozgorączkować; (cz.) roznamiętniać; (cz.) strzelać; (cz.) strzelić; (cz.) wyrzucać; (cz.) wystrzelić; (cz.) wystrzeliwać; (cz.) wyzwalać; (cz.) wyzwolić; (cz.) zapalać; (cz.) zapalić; (cz.) zwalniać; (cz.) zwolnić; (rz.) kominek; (rz.) ogień; (rz.) ognistość; (rz.) ostrzał; (rz.) palba; (rz.) pożar; (rz.) wystrzał
+[fire-bar]fire-bar (EN) : (rz.) rusztowina
+[fire-basket]fire-basket (EN) : (rz.) koksiak
+[fire-bridge]fire-bridge (EN) : (rz.) przewał
+[fire-engine]fire-engine (EN) : (rz.) sikawka
+[fire-extinguisher]fire-extinguisher (EN) : (rz.) gaśnica
+[fire-fighter]fire-fighter (EN) : (rz.) strażak
+[fire-hose]fire-hose (EN) : (rz.) sikawka
+[fire-place]fire-place (EN) : (rz.) kominek; (rz.) palenisko
+[fire-plug]fire-plug (EN) : (rz.) hydrant
+[fire-proof]fire-proof (EN) : (p.) ognioodporny
+[fire-raiser]fire-raiser (EN) : (rz.) podpalacz
+[fire-raising]fire-raising (EN) : (rz.) podpalenie
+[fire-resistant]fire-resistant (EN) : (p.) ognioodporny
+[fire-resisting]fire-resisting (EN) : (p.) ognioodporny; (p.) ogniotrwały
+[fire-station]fire-station (EN) : (rz.) remiza
+[fire-tight]fire-tight (EN) : (p.) ognioszczelny
+[firearm]firearm (EN) : (rz.) broń
+[fireball]fireball (EN) : (rz.) bolid
+[firebrand]firebrand (EN) : (rz.) głownia; (rz.) podżegacz; (rz.) zarzewie
+[firebreak]firebreak (EN) : (rz.) przecinka
+[fireclay]fireclay (EN) : (rz.) szamota
+[firecracker]firecracker (EN) : (rz.) petarda
+[fired]fired (EN) : (p.) ogniowy
+[firedamp]firedamp (EN) : (rz.) metan
+[firefly]firefly (EN) : (rz.) świetlik
+[fireman]fireman (EN) : (rz.) palacz; (rz.) strażak
+[fireplace]fireplace (EN) : (rz.) kominek; (rz.) ognisko; (rz.) palenisko
+[fireplug]fireplug (EN) : (rz.) hydrant
+[fireproof]fireproof (EN) : (p.) ognioodporny; (p.) ogniotrwały
+[fireside]fireside (EN) : (rz.) kominek
+[firestone]firestone (EN) : (rz.) krzemień
+[firewall]firewall (EN) : (rz.) zapora
+[firewood]firewood (EN) : (rz.) chrust
+[firework]firework (EN) : (rz.) fajerwerk
+[firing]firing (EN) : (rz.) odpalenie; (rz.) odstrzał; (rz.) ogień; (rz.) opalanie; (rz.) strzelanie; (rz.) wystrzał; (rz.) wystrzelenie
+[firkin]firkin (EN) : (rz.) beczułka; (rz.) faska; (rz.) połowa
+[firm]firm (EN) : (p.) jędrny; (p.) mocny; (p.) niezłomny; (p.) pewny; (p.) stanowczy; (p.) twardy; (rz.) firma
+[firma]firma (EN) : (p.) firmowy
+[firmament]firmament (EN) : (rz.) nieboskłon
+[firmly]firmly (EN) : (p-sł.) mocno; (p-sł.) pewnie; (p-sł.) solidnie; (p-sł.) stanowczo
+[firmness]firmness (EN) : (rz.) jędrność; (rz.) stanowczość; (rz.) twardość; (rz.) zdecydowanie
+[firry]firry (EN) : (p.) jodłowy
+[first]first (EN) : (p.) pierwszy; (p-sł.) najpierw; (p-sł.) wpierw; (p-sł.) wprzód; (rz.) początek
+[first-born]first-born (EN) : (p.) pierworodny
+[first-rate]first-rate (EN) : (p.) pierwszorzędny
+[firstly]firstly (EN) : (p-sł.) najpierw
+[firth]firth (EN) : (rz.) zatoka
+[fiscal]fiscal (EN) : (p.) finansowy; (p.) fiskalny; (p.) skarbowy
+[fish]fish (EN) : (cz.) czyhać; (cz.) instrumentować; (cz.) łowić; (cz.) poławiać; (cz.) polować; (cz.) wędkować; (cz.) wyławiać; (cz.) wyłowić; (rz.) łowienie; (rz.) ryba; (rz.) rybka; (rz.) ryby; (rz.) tubek
+[fish-bar]fish-bar (EN) : (rz.) łubek
+[fish-bone]fish-bone (EN) : (rz.) ość
+[fish-gig]fish-gig (EN) : (rz.) osęk
+[fishbone]fishbone (EN) : (rz.) ość
+[fisher]fisher (EN) : (rz.) poławiacz; (rz.) rybak; (rz.) wędkarz
+[fisherman]fisherman (EN) : (rz.) poławiacz; (rz.) rybak; (rz.) wędkarz
+[fishery]fishery (EN) : (rz.) łowisko; (rz.) rybactwo; (rz.) rybołówstwo
+[fishing]fishing (EN) : (rz.) instrumentacja; (rz.) łowienie; (rz.) połów; (rz.) ratowanie; (rz.) rybactwo; (rz.) rybołówstwo; (rz.) wędkarstwo; (rz.) wędkowanie
+[fishing-rod]fishing-rod (EN) : (rz.) wędka; (rz.) wędzisko
+[fishmonger's]fishmonger's (EN) : (p.) rybny
+[fishy]fishy (EN) : (p.) rybi; (p.) rybny
+[fissile]fissile (EN) : (p.) łupliwy; (p.) rozszczepialny
+[fission]fission (EN) : (rz.) dzielenie; (rz.) rozbicie; (rz.) rozszczepianie; (rz.) rozszczepienie
+[fissionable]fissionable (EN) : (p.) rozszczepialny
+[fissure]fissure (EN) : (rz.) bruzda; (rz.) pęknięcie; (rz.) rozpadlina; (rz.) szczelina
+[fist]fist (EN) : (rz.) kułak; (rz.) pięść
+[fisted]fisted (EN) : (p.) niezręczny; (p.) skąpy
+[fistfight]fistfight (EN) : (rz.) bijatyka
+[fistula]fistula (EN) : (rz.) fistuła; (rz.) przetoka
+[fit]fit (EN) : (cz.) dopasować; (cz.) dostosować; (cz.) montować; (cz.) nadawać; (cz.) pasować; (cz.) przypasować; (cz.) umeblować; (cz.) urządzić; (cz.) wpasować; (cz.) wyposażać; (cz.) wyposażyć; (cz.) zaopatrzyć; (cz.) zmieścić; (p.) odpowiedni; (p.) sprawny; (p.) zdatny; (p.) zdrowy; (rz.) atak; (rz.) krój; (rz.) montowanie; (rz.) napad; (rz.) pasowanie
+[fitful]fitful (EN) : (p.) dorywczy; (p.) kapryśny; (p.) niespokojny; (p.) spazmatyczny
+[fitfully]fitfully (EN) : (p-sł.) kapryśnie; (p-sł.) niespokojnie
+[fitment]fitment (EN) : (rz.) mebel; (rz.) urządzenie; (rz.) wyposażenie
+[fitness]fitness (EN) : (rz.) kondycja; (rz.) przydatność; (rz.) siłownia; (rz.) sprawność; (rz.) tężyzna; (rz.) zdatność
+[fitted]fitted (EN) : (p.) zdolny
+[fitter]fitter (EN) : (rz.) instalator; (rz.) krawiec; (rz.) monter; (rz.) montowanie
+[fitting]fitting (EN) : (p.) leżący; (p.) stosowny; (rz.) armatura; (rz.) część; (rz.) dopasowywanie; (rz.) łącznik; (rz.) montaż; (rz.) okucie; (rz.) pasowanie; (rz.) przymiarka; (rz.) przymierzalnia; (rz.) przystosowywanie; (rz.) urządzenie; (rz.) wyposażanie; (rz.) wyposażenie
+[fittingly]fittingly (EN) : (p-sł.) odpowiednio; (p-sł.) stosownie
+[fittings]fittings (EN) : (rz.) armatura
+[five]five (EN) : (rz.) piątka
+[fivefold]fivefold (EN) : (p.) pięciokrotny; (p-sł.) pięciokrotnie
+[fiver]fiver (EN) : (rz.) piątka
+[fix]fix (EN) : (cz.) naprawiać; (cz.) naprawić; (cz.) opatrywać; (cz.) osiedlać; (cz.) osiedlić; (cz.) patrzeć; (cz.) poprawiać; (cz.) przygotowywać; (cz.) przymocować; (cz.) szprycować; (cz.) twardnieć; (cz.) uporządkować; (cz.) ustalać; (cz.) ustalić; (cz.) utkwić; (cz.) utrwalać; (cz.) utrwalić; (cz.) wklinować; (cz.) wmontować; (cz.) wprawiać; (cz.) wyrychtować; (cz.) wyznaczyć; (rz.) irytacja; (rz.) kłopot; (rz.) pozycja; (rz.) ustalenie
+[fixate]fixate (EN) : (cz.) wlepiać; (cz.) wytrzeszczać
+[fixation]fixation (EN) : (rz.) fiksacja; (rz.) garbnika; (rz.) krzepnięcie; (rz.) przytwierdzenie; (rz.) utrwalenie; (rz.) wiązanie; (rz.) zamocowywanie
+[fixative]fixative (EN) : (rz.) utrwalacz
+[fixed]fixed (EN) : (p.) nielotny; (p.) nieruchomy; (p.) stały; (p.) sztywny; (p.) ustalony; (p.) utrwalony; (p.) zamocowany; (p.) związany
+[fixed-point]fixed-point (EN) : (p.) stałopozycyjny; (p.) stałoprzecinkowy
+[fixedly]fixedly (EN) : (p-sł.) niewzruszenie; (p-sł.) trwale
+[fixedness]fixedness (EN) : (rz.) stałość
+[fixer]fixer (EN) : (rz.) adwokat; (rz.) utrwalacz
+[fixture]fixture (EN) : (rz.) armatura; (rz.) impreza; (rz.) osprzęt; (rz.) przynależność; (rz.) urządzenie
+[fizz]fizz (EN) : (cz.) musować; (cz.) syczeć; (rz.) musowanie; (rz.) syczenie; (rz.) syk
+[fizzle]fizzle (EN) : (cz.) plajtować; (cz.) zasyczeć; (rz.) fiasko; (rz.) syczenie
+[fjord]fjord (EN) : (rz.) fiord
+[flabbergast]flabbergast (EN) : (cz.) zdumieć; (cz.) zdumiewać
+[flabbiness]flabbiness (EN) : (rz.) obwisłość; (rz.) sflaczałość; (rz.) słabość; (rz.) ślamazarność
+[flabby]flabby (EN) : (p.) obwisły; (p.) ślamazarny; (p.) wiotki; (p.) zwiotczały
+[flaccid]flaccid (EN) : (p.) flakowaty; (p.) obwisły; (p.) wiotki; (p.) zwiotczały
+[flaccidity]flaccidity (EN) : (rz.) słabość; (rz.) wiotkość; (rz.) zwiotczenie
+[flaccidness]flaccidness (EN) : (rz.) słabość; (rz.) wiotkość; (rz.) zwiotczenie
+[flag]flag (EN) : (cz.) kuleć; (cz.) oklapnąć; (cz.) opadać; (cz.) przywiędnąć; (cz.) słabnąć; (cz.) zwisać; (rz.) bandera; (rz.) chorągiew; (rz.) chorągiewka; (rz.) ciasteczko; (rz.) flaga; (rz.) lotka; (rz.) płyta; (rz.) sztandar; (rz.) znacznik
+[flagellant]flagellant (EN) : (rz.) biczownik
+[flagellate]flagellate (EN) : (cz.) biczować; (cz.) ubiczować
+[flagellation]flagellation (EN) : (rz.) biczowanie; (rz.) samobiczowanie
+[flagellum]flagellum (EN) : (cz.) wić; (p.) wiciowy
+[flageolet]flageolet (EN) : (rz.) flażolet
+[flagged]flagged (EN) : (p.) taflowy
+[flagitious]flagitious (EN) : (p.) niecny; (p.) zbrodniczy
+[flagon]flagon (EN) : (rz.) bania; (rz.) bańka; (rz.) flacha
+[flagrant]flagrant (EN) : (p.) bezwstydny; (p.) jaskrawy; (p.) jawny; (p.) notoryczny; (p.) ohydny
+[flagship]flagship (EN) : (rz.) flagowiec
+[flagstaff]flagstaff (EN) : (rz.) drzewce; (rz.) flagsztok; (rz.) maszt
+[flagstone]flagstone (EN) : (rz.) fliza
+[flail]flail (EN) : (cz.) młócić; (rz.) cep
+[flair]flair (EN) : (rz.) dryg; (rz.) spryt; (rz.) zamiłowanie
+[flake]flake (EN) : (cz.) łuszczyć; (cz.) odpryskiwać; (rz.) iskra; (rz.) łuska; (rz.) odłupek; (rz.) odprysk; (rz.) plasterek; (rz.) płat; (rz.) płatek; (rz.) warstwa
+[flaky]flaky (EN) : (p.) łuskowaty; (p.) płatkowy
+[flam]flam (EN) : (cz.) blagować; (rz.) blaga
+[flambeau]flambeau (EN) : (rz.) pochodnia; (rz.) wieczernik; (rz.) znicz
+[flamboyance]flamboyance (EN) : (rz.) błyskotliwość; (rz.) kwiecistość
+[flamboyant]flamboyant (EN) : (p.) błyskotliwy; (p.) ekstrawagancki; (p.) krzykliwy; (p.) kwiecisty
+[flame]flame (EN) : (cz.) płonąć; (rz.) blask; (rz.) flama; (rz.) ogień; (rz.) ognik; (rz.) paszkwil; (rz.) płomień
+[flame-plating]flame-plating (EN) : (rz.) napawanie; (rz.) natapianie
+[flameproof]flameproof (EN) : (p.) ognioodporny
+[flamingo]flamingo (EN) : (rz.) flaming
+[flammability]flammability (EN) : (rz.) łatwopalność; (rz.) palność
+[flammable]flammable (EN) : (p.) łatwopalny; (p.) palny
+[flange]flange (EN) : (rz.) kołnierz; (rz.) kryza; (rz.) stopka
+[flank]flank (EN) : (rz.) bok; (rz.) flanka; (rz.) szponder
+[flannel]flannel (EN) : (rz.) flanela
+[flap]flap (EN) : (cz.) klaskać; (cz.) trzepotać; (cz.) zwisać; (rz.) klapa; (rz.) klapka; (rz.) klaps; (rz.) łopot; (rz.) machnięcie; (rz.) nakrywka; (rz.) patka; (rz.) poła; (rz.) uderzenie; (rz.) zapadka
+[flap-aileron]flap-aileron (EN) : (rz.) klapolotka
+[flapjack]flapjack (EN) : (rz.) herbatnik; (rz.) naleśnik
+[flapper]flapper (EN) : (rz.) klapa; (rz.) niewodu; (rz.) packa; (rz.) serce
+[flapping]flapping (EN) : (rz.) łopotanie; (rz.) uderzenie
+[flare]flare (EN) : (cz.) błyskać; (cz.) błyszczeć; (cz.) migotać; (cz.) popisywać; (rz.) blask; (rz.) błysk; (rz.) flara; (rz.) raca; (rz.) radość; (rz.) rozbłysk; (rz.) rozszerzenie; (rz.) tuba
+[flares]flares (EN) : (p.) dzwony
+[flaring]flaring (EN) : (p.) jaskrawy; (p.) kloszowy; (p.) krzykliwy
+[flash]flash (EN) : (cz.) błyskać; (cz.) błysnąć; (cz.) migać; (cz.) napierać; (cz.) przebłyskiwać; (cz.) pulsować; (p.) błyskowy; (p.) gwarowy; (p.) pstry; (rz.) błysk; (rz.) flesz; (rz.) mrugnięcie; (rz.) przebłysk; (rz.) rozbłysk
+[flash-lamp]flash-lamp (EN) : (rz.) flesz
+[flash-light]flash-light (EN) : (rz.) flesz
+[flashback]flashback (EN) : (rz.) dygresja; (rz.) retrospekcja; (rz.) wspomnienie
+[flashcard]flashcard (EN) : (rz.) plansza
+[flasher]flasher (EN) : (rz.) migacz
+[flashes]flashes (EN) : (rz.) błyskanie
+[flashgun]flashgun (EN) : (rz.) flesz
+[flashily]flashily (EN) : (p-sł.) błyszcząco; (p-sł.) efektownie
+[flashiness]flashiness (EN) : (rz.) błyskotliwość
+[flashing]flashing (EN) : (rz.) miganie
+[flashlight]flashlight (EN) : (rz.) latarka; (rz.) podpałka
+[flashy]flashy (EN) : (p.) błyskotliwy; (p.) efekciarski; (p.) jaskrawy; (p.) szpanerski
+[flask]flask (EN) : (rz.) butelka; (rz.) flakon; (rz.) flaszka; (rz.) kolba; (rz.) manierka; (rz.) piersiówka; (rz.) termos
+[flat]flat (EN) : (p.) gładki; (p.) matowy; (p.) nudny; (p.) płaski; (p.) równinny; (p.) równy; (p.) stanowczy; (p-sł.) nudnie; (p-sł.) płasko; (rz.) bemol; (rz.) mielizna; (rz.) mieszkanie; (rz.) nizina; (rz.) płaskownik; (rz.) przebicie; (rz.) równina
+[flat-foot]flat-foot (EN) : (rz.) platfus
+[flat-rate]flat-rate (EN) : (p.) ryczałtowy
+[flatbed]flatbed (EN) : (p.) płaski; (p.) prostokątny
+[flatfish]flatfish (EN) : (rz.) płastuga; (rz.) płaszczka
+[flatfoot]flatfoot (EN) : (rz.) krawężnik
+[flatland]flatland (EN) : (rz.) równina
+[flatly]flatly (EN) : (p-sł.) stanowczo
+[flatmate]flatmate (EN) : (rz.) współlokator; (rz.) współmieszkaniec
+[flatness]flatness (EN) : (rz.) płaskość; (rz.) płytkość
+[flatten]flatten (EN) : (cz.) matować; (cz.) matowieć; (cz.) płaszczyć; (cz.) przygnębiać; (cz.) równać; (cz.) rozpłaszczać; (cz.) rozprasować; (cz.) spłaszczać; (cz.) spłaszczyć; (cz.) wygładzać; (cz.) wyrównać; (cz.) wyrównywać
+[flatter]flatter (EN) : (cz.) kadzić; (cz.) pochlebiać; (cz.) połechtać; (cz.) przypochlebiać; (cz.) schlebiać
+[flatterer]flatterer (EN) : (rz.) chwalca; (rz.) pochlebca
+[flattering]flattering (EN) : (p.) pochlebczy; (p.) pochlebny
+[flatteringly]flatteringly (EN) : (p-sł.) pochlebnie
+[flattery]flattery (EN) : (rz.) pochlebstwo; (rz.) schlebianie
+[flatting]flatting (EN) : (rz.) równanie; (rz.) spłaszczanie
+[flatulence]flatulence (EN) : (rz.) wzdęcie
+[flatulency]flatulency (EN) : (rz.) bębnica; (rz.) napuszoność; (rz.) wzdęcie
+[flaunt]flaunt (EN) : (cz.) afiszować; (cz.) dymać; (cz.) nadymać; (cz.) paradować
+[flautist]flautist (EN) : (rz.) flecista
+[flavescent]flavescent (EN) : (p.) żółtawy
+[flavour]flavour (EN) : (cz.) przyprawiać; (rz.) posmak; (rz.) smak; (rz.) zapach
+[flavouring]flavouring (EN) : (rz.) przyprawa
+[flaw]flaw (EN) : (cz.) łupać; (cz.) rozpadać; (cz.) rozszczepiać; (rz.) błąd; (rz.) defekt; (rz.) rysa; (rz.) skaza; (rz.) szczelina; (rz.) ułomność; (rz.) wada
+[flawless]flawless (EN) : (p.) nieskazitelny; (p.) niewadliwy
+[flawlessly]flawlessly (EN) : (p-sł.) bezbłędnie; (p-sł.) nieskazitelnie
+[flax]flax (EN) : (rz.) len
+[flaxen]flaxen (EN) : (p.) lniany; (p.) płowy
+[flaxen-haired]flaxen-haired (EN) : (p.) jasnowłosy
+[flay]flay (EN) : (cz.) skórować; (cz.) skrytykować; (cz.) zdzierać
+[flea]flea (EN) : (rz.) bura; (rz.) nagana; (rz.) pchła
+[flea-bite]flea-bite (EN) : (rz.) bagatela; (rz.) drobnostka
+[fleabite]fleabite (EN) : (rz.) bagatela; (rz.) drobnostka
+[fleche]fleche (EN) : (rz.) wieżyczka
+[fleck]fleck (EN) : (cz.) kropkować; (cz.) nakrapiać; (rz.) cętka; (rz.) kropka; (rz.) pieg; (rz.) plamienie; (rz.) plamka
+[fledged]fledged (EN) : (p.) opierzony
+[fledgling]fledgling (EN) : (rz.) żółtodziób
+[flee]flee (EN) : (cz.) lecieć; (cz.) pierzchać; (cz.) uciekać
+[fleece]fleece (EN) : (cz.) ograbiać; (cz.) strzyc; (rz.) runo; (rz.) wełna
+[fleecy]fleecy (EN) : (p.) wełnisty
+[fleer]fleer (EN) : (cz.) zadrwić
+[fleet]fleet (EN) : (rz.) flota
+[fleeting]fleeting (EN) : (p.) przelotny
+[fleetingly]fleetingly (EN) : (p-sł.) przelotnie
+[fleetly]fleetly (EN) : (p-sł.) chyżo
+[fleetness]fleetness (EN) : (rz.) krótkotrwałość; (rz.) ulotność
+[flesh]flesh (EN) : (cz.) schudnąć; (rz.) ciało; (rz.) miąższ; (rz.) mięso
+[flesher]flesher (EN) : (rz.) rzeźnik
+[fleshiness]fleshiness (EN) : (rz.) mięsistość
+[fleshing]fleshing (EN) : (rz.) mizdrowanie
+[fleshly]fleshly (EN) : (p.) zmysłowy
+[fleshy]fleshy (EN) : (p.) mięsisty; (p.) tłusty
+[flex]flex (EN) : (cz.) napinać; (cz.) zginać
+[flexibility]flexibility (EN) : (rz.) dowolność; (rz.) dyspozycyjność; (rz.) elastyczność; (rz.) gibkość; (rz.) giętkość
+[flexible]flexible (EN) : (p.) dyspozycyjny; (p.) elastyczny; (p.) gibki; (p.) giętki; (p.) niesztywny; (p.) pojednawczy
+[flexibly]flexibly (EN) : (p-sł.) elastycznie; (p-sł.) giętko
+[flexion]flexion (EN) : (rz.) zgięcie; (rz.) zginanie
+[flexography]flexography (EN) : (rz.) fleksografia
+[flexor]flexor (EN) : (rz.) zginacz
+[flexuous]flexuous (EN) : (p.) falisty
+[flexure]flexure (EN) : (rz.) zgięcie
+[flibbertigibbet]flibbertigibbet (EN) : (rz.) sroka; (rz.) trzpiotka
+[flick]flick (EN) : (cz.) otrzepać; (rz.) prztyczek; (rz.) śmignięcie; (rz.) smuga; (rz.) strzepnięcie; (rz.) trzask; (rz.) trzaśnięcie; (rz.) trzepnięcie
+[flicker]flicker (EN) : (cz.) błyskać; (cz.) chwiać; (cz.) drgać; (cz.) migać; (cz.) migotać; (cz.) mrugać; (cz.) pełgać; (cz.) powiewać; (rz.) chwianie; (rz.) drganie; (rz.) mgnienie; (rz.) migot; (rz.) migotanie; (rz.) mruganie
+[flicks]flicks (EN) : (rz.) kino
+[flier]flier (EN) : (rz.) latawiec; (rz.) lotnik; (rz.) ulotka
+[flies]flies (EN) : (rz.) rozporek
+[flight]flight (EN) : (rz.) bieg; (rz.) eskadra; (rz.) kondygnacja; (rz.) lot; (rz.) lotka; (rz.) pierzchnięcie; (rz.) przelot; (rz.) rejs; (rz.) stado; (rz.) ucieczka; (rz.) zbiegostwo
+[flight-feather]flight-feather (EN) : (rz.) lotka
+[flightiness]flightiness (EN) : (rz.) kapryśność
+[flighty]flighty (EN) : (p.) kapryśny; (p.) lekkomyślny
+[flimflam]flimflam (EN) : (p.) bzdurny; (rz.) bujda
+[flimsiness]flimsiness (EN) : (rz.) marność; (rz.) wiotkość
+[flimsy]flimsy (EN) : (p.) cienki; (p.) kruchy; (p.) niepozorny; (p.) słaby; (p.) wątły
+[flinch]flinch (EN) : (cz.) cofać; (cz.) tchórzyć; (cz.) uchylać; (cz.) wzdrygać; (cz.) zawahać; (cz.) zżymać
+[fling]fling (EN) : (cz.) ciskać; (cz.) rzucać; (rz.) ciskanie; (rz.) miotanie; (rz.) rzucanie; (rz.) rzut; (rz.) wyrzut
+[flint]flint (EN) : (rz.) krzemień; (rz.) krzesiwo
+[flinty]flinty (EN) : (p.) krzemienisty; (p.) krzemienny
+[flip]flip (EN) : (cz.) odwracać; (cz.) przewracać; (cz.) przytykać; (cz.) pstrykać; (cz.) trzepać; (cz.) wywracać; (rz.) klapka; (rz.) przytyk; (rz.) trzepnięcie
+[flip-flap]flip-flap (EN) : (rz.) huśtawka; (rz.) petarda
+[flip-flop]flip-flop (EN) : (rz.) klapka; (rz.) przerzutnik
+[flippancy]flippancy (EN) : (rz.) lekceważenie; (rz.) nonszalancja
+[flippant]flippant (EN) : (p.) gadatliwy; (p.) impertynencki; (p.) niepoważny; (p.) nonszalancki; (p.) swawolny
+[flippantly]flippantly (EN) : (p-sł.) nieprzystojnie
+[flipper]flipper (EN) : (rz.) płetwa
+[flirt]flirt (EN) : (cz.) flirtować; (cz.) machać; (rz.) bałamut; (rz.) flirciarka; (rz.) flirciarz; (rz.) szarpnięcie
+[flirtation]flirtation (EN) : (rz.) flirt
+[flirtatious]flirtatious (EN) : (p.) flirciarski
+[flirter]flirter (EN) : (rz.) flirciarz
+[flirting]flirting (EN) : (rz.) flirtowanie
+[flit]flit (EN) : (cz.) latać; (cz.) pomykać; (cz.) przeprowadzać; (rz.) ucieczka
+[flitch]flitch (EN) : (rz.) pryzma
+[flitter]flitter (EN) : (cz.) fruwać; (cz.) latać
+[flivver]flivver (EN) : (rz.) samolot
+[float]float (EN) : (cz.) bujać; (cz.) dryfować; (cz.) pływać; (cz.) rozchodzić; (cz.) rozpisywać; (cz.) słać; (cz.) spławiać; (cz.) spławić; (cz.) unosić; (rz.) packa; (rz.) pławik; (rz.) pływak; (rz.) spławik; (rz.) tratwa
+[floatability]floatability (EN) : (rz.) flotacyjność
+[floatable]floatable (EN) : (p.) spławny
+[floatation]floatation (EN) : (rz.) flotacja; (rz.) pływanie
+[floating]floating (EN) : (p.) latający; (p.) niestabilny; (p.) płynny; (p.) zmienny
+[floating-point]floating-point (EN) : (p.) zmiennopozycyjny
+[floatplane]floatplane (EN) : (rz.) wodnosamolot
+[flocculate]flocculate (EN) : (cz.) strącać; (cz.) strącić
+[flocculation]flocculation (EN) : (rz.) flokulacja
+[flocculent]flocculent (EN) : (p.) kłaczkowaty
+[floccus]floccus (EN) : (rz.) kłak
+[flock]flock (EN) : (cz.) gromadzić; (rz.) gromada; (rz.) grupa; (rz.) kierdel; (rz.) kłak; (rz.) kosmyk; (rz.) owczarnia; (rz.) parafia; (rz.) stado; (rz.) tłum; (rz.) trzoda
+[flocky]flocky (EN) : (p.) kłaczasty; (p.) kłaczkowaty
+[floe]floe (EN) : (rz.) kra
+[flog]flog (EN) : (cz.) biczować; (cz.) chłostać; (cz.) smagać; (cz.) wychłostać
+[flogging]flogging (EN) : (rz.) bicie; (rz.) chłosta
+[flood]flood (EN) : (cz.) zalać; (cz.) zalewać; (cz.) zatapiać; (cz.) zatopić; (rz.) mnóstwo; (rz.) potok; (rz.) powódź; (rz.) rozlew; (rz.) zalanie; (rz.) zalew
+[flood-gate]flood-gate (EN) : (rz.) śluza; (rz.) zastawa
+[flood-light]flood-light (EN) : (cz.) iluminować
+[flood-tide]flood-tide (EN) : (rz.) przypływ
+[floodgate]floodgate (EN) : (rz.) śluza; (rz.) upust; (rz.) zastawa
+[flooding]flooding (EN) : (rz.) powódź; (rz.) trasowanie; (rz.) wzbieranie; (rz.) zalanie; (rz.) zalewanie; (rz.) zatopienie
+[floodlight]floodlight (EN) : (cz.) iluminować; (rz.) naświetlacz; (rz.) reflektor
+[floodtide]floodtide (EN) : (rz.) przypływ
+[floor]floor (EN) : (rz.) dno; (rz.) klepisko; (rz.) parter; (rz.) piętro; (rz.) piętrzenie; (rz.) podłoga; (rz.) posadzka; (rz.) ziemia
+[floorer]floorer (EN) : (rz.) posadzkarz
+[flooring]flooring (EN) : (rz.) podłoga
+[floozy]floozy (EN) : (rz.) dziewczyna; (rz.) lafirynda
+[flop]flop (EN) : (cz.) bankrutować; (cz.) chlupać; (cz.) trzepotać; (rz.) fiasko; (rz.) klapa; (rz.) niedołęga; (rz.) niepowodzenie; (rz.) pacnięcie; (rz.) plajta; (rz.) trzepotanie; (rz.) upadek
+[flopper]flopper (EN) : (rz.) zmarszczka
+[floppy]floppy (EN) : (p.) miękki; (p.) niesztywny; (p.) sflaczały; (rz.) dyskietka
+[flora]flora (EN) : (rz.) flora; (rz.) roślinność
+[floral]floral (EN) : (p.) kwiatowy; (p.) roślinny
+[florescence]florescence (EN) : (rz.) kwitnięcie; (rz.) rozkwit
+[floret]floret (EN) : (rz.) kwiatek
+[floricultural]floricultural (EN) : (p.) kwiaciarski
+[floriculture]floriculture (EN) : (rz.) kwiaciarstwo
+[florid]florid (EN) : (p.) kwiecisty; (p.) ozdobny; (p.) rumiany
+[floridity]floridity (EN) : (rz.) kwiecistość
+[floridly]floridly (EN) : (p-sł.) kwieciście
+[florin]florin (EN) : (rz.) floren; (rz.) kwiaciarnia; (rz.) kwiaciarz
+[florist]florist (EN) : (rz.) kwiaciarnia; (rz.) kwiaciarz
+[florist's]florist's (EN) : (rz.) kwiaciarnia
+[floristic]floristic (EN) : (p.) florystyczny
+[floss]floss (EN) : (rz.) nitka
+[floss-silk]floss-silk (EN) : (p.) jedwabisty; (p.) puszysty
+[flotation]flotation (EN) : (rz.) flotacja; (rz.) pływanie; (rz.) uruchomienie; (rz.) wykonanie
+[flotilla]flotilla (EN) : (rz.) flotylla
+[flotsam]flotsam (EN) : (rz.) ładunek; (rz.) szczątki
+[flounce]flounce (EN) : (cz.) miotać; (cz.) pluskać; (cz.) rzucać; (rz.) falbana; (rz.) falbanka
+[flounder]flounder (EN) : (cz.) brnąć; (cz.) brodzić; (cz.) grzęznąć; (cz.) miotać; (cz.) plątać; (cz.) szarpać; (rz.) brnięcie; (rz.) brodzenie; (rz.) flądra; (rz.) grzęzawisko; (rz.) płastuga; (rz.) stornia; (rz.) tarzanie
+[flour]flour (EN) : (rz.) mączka; (rz.) mąka
+[flourish]flourish (EN) : (cz.) kwitnąć; (cz.) prosperować; (cz.) rozkwitać; (cz.) rozwijać; (cz.) wymachiwać; (cz.) zakwitnąć; (rz.) fanfara; (rz.) tusz; (rz.) wymachiwanie; (rz.) wywijas; (rz.) zakrętas; (rz.) zawijas
+[floury]floury (EN) : (p.) mączysty
+[flout]flout (EN) : (cz.) kpić; (cz.) szydzić; (cz.) zważać
+[flow]flow (EN) : (cz.) broczyć; (cz.) napływać; (cz.) płynąć; (cz.) przepływać; (cz.) zalewać; (rz.) dopływ; (rz.) potok; (rz.) powódź; (rz.) przepływ; (rz.) przepływomierz; (rz.) przypływ; (rz.) spływ; (rz.) strumień; (rz.) sypkość
+[flow-off]flow-off (EN) : (rz.) przelew
+[flower]flower (EN) : (cz.) kwitnąć; (cz.) rozkwitać; (cz.) zakwitać; (rz.) elita; (rz.) kwiat; (rz.) kwiatek; (rz.) kwiecie
+[flower-bed]flower-bed (EN) : (rz.) klomb; (rz.) kwietnik; (rz.) rabata
+[flower-pot]flower-pot (EN) : (rz.) doniczka
+[flowerbed]flowerbed (EN) : (rz.) grządka; (rz.) klomb; (rz.) kwietnik; (rz.) rabata
+[flowered]flowered (EN) : (p.) kwiatowy; (p.) kwiecisty
+[flowering]flowering (EN) : (rz.) kwitnięcie; (rz.) kwitnienie
+[flowerless]flowerless (EN) : (p.) bezkwiatowy
+[flowerpot]flowerpot (EN) : (rz.) doniczka; (rz.) wazon
+[flowery]flowery (EN) : (p.) kwiatowy; (p.) kwiecisty
+[flowing]flowing (EN) : (p.) fałdzisty; (p.) potoczysty
+[flu]flu (EN) : (rz.) grypa; (rz.) pot
+[fluctuate]fluctuate (EN) : (cz.) chwiać; (cz.) falować; (cz.) wahać; (cz.) zmieniać
+[fluctuation]fluctuation (EN) : (rz.) falowanie; (rz.) fluktuacja; (rz.) wahanie
+[flue]flue (EN) : (rz.) czopuch; (rz.) grypa; (rz.) komin; (rz.) płomienica
+[fluency]fluency (EN) : (rz.) biegłość; (rz.) płynność; (rz.) potoczystość; (rz.) wymowność
+[fluent]fluent (EN) : (p.) biegły; (p.) płynny; (p.) potoczysty; (p.) wymowny
+[fluently]fluently (EN) : (p-sł.) biegle; (p-sł.) płynnie
+[fluey]fluey (EN) : (p.) kudłaty; (p.) puchaty; (p.) puszysty
+[fluff]fluff (EN) : (cz.) spulchniać; (rz.) meszek; (rz.) puch
+[fluffy]fluffy (EN) : (p.) kłaczasty; (p.) puszysty
+[fluid]fluid (EN) : (p.) ciekły; (p.) płynny; (rz.) ciecz; (rz.) płyn
+[fluid-operated]fluid-operated (EN) : (p.) hydrauliczny
+[fluidic]fluidic (EN) : (p.) cieczowy
+[fluidity]fluidity (EN) : (rz.) ciekłość; (rz.) płynność
+[fluidize]fluidize (EN) : (cz.) upłynniać; (cz.) upłynnić
+[fluidly]fluidly (EN) : (p-sł.) płynnie
+[fluke]fluke (EN) : (rz.) fuks; (rz.) grot; (rz.) szczęście
+[fluky]fluky (EN) : (p.) kapryśny; (p.) szczęśliwy; (p.) zmienny
+[flume]flume (EN) : (rz.) koryto
+[fluming]fluming (EN) : (rz.) spławianie
+[flummery]flummery (EN) : (rz.) legumina
+[flummox]flummox (EN) : (cz.) speszyć; (cz.) zmieszać
+[flunk]flunk (EN) : (cz.) rzucać; (cz.) rzucić
+[flunkey]flunkey (EN) : (rz.) lokaj; (rz.) pachołek; (rz.) pochlebca; (rz.) służalec
+[flunkeyism]flunkeyism (EN) : (rz.) służalczość
+[fluoresce]fluoresce (EN) : (cz.) fluoryzować
+[fluorescence]fluorescence (EN) : (rz.) fluorescencja
+[fluorescent]fluorescent (EN) : (p.) fluorescencyjny; (p.) jarzeniowy
+[fluoric]fluoric (EN) : (p.) fluorowy
+[fluoridate]fluoridate (EN) : (cz.) fluorować
+[fluoridation]fluoridation (EN) : (rz.) fluorowanie
+[fluoride]fluoride (EN) : (rz.) fluor; (rz.) fluorek
+[fluorinated]fluorinated (EN) : (rz.) fluorowanie
+[fluorination]fluorination (EN) : (rz.) fluorowanie
+[fluorine]fluorine (EN) : (rz.) fluor
+[fluorite]fluorite (EN) : (rz.) fluoryt
+[fluorography]fluorography (EN) : (rz.) fluorografia
+[flurry]flurry (EN) : (cz.) poruszać; (cz.) zdenerwować; (rz.) podniecenie; (rz.) poruszenie; (rz.) śnieżyca; (rz.) szkwał; (rz.) wichura
+[flush]flush (EN) : (cz.) napełniać; (cz.) obfitować; (cz.) płukać; (cz.) przemyć; (cz.) rumienić; (cz.) spłoszyć; (cz.) spłukiwać; (cz.) wymieść; (cz.) zabarwiać; (cz.) zabarwić; (cz.) zaczerwienić; (cz.) zaognić; (cz.) zarumienić; (rz.) opróżnienie; (rz.) przypływ; (rz.) spłuczka; (rz.) spłukiwanie; (rz.) strumień; (rz.) zarumienienie
+[flusher]flusher (EN) : (rz.) płuczka
+[fluster]fluster (EN) : (cz.) denerwować; (cz.) oszałamiać; (rz.) denerwowanie; (rz.) podniecenie; (rz.) wzburzanie
+[flute]flute (EN) : (rz.) flet; (rz.) rowek; (rz.) żłobina
+[fluting]fluting (EN) : (rz.) rowkowanie; (rz.) żłobkowanie
+[flutist]flutist (EN) : (rz.) flecista
+[flutter]flutter (EN) : (cz.) dygotać; (cz.) niepokoić; (cz.) płoszyć; (cz.) powiewać; (cz.) trzepotać; (cz.) zatrzepotać; (rz.) chwianie; (rz.) fruwanie; (rz.) kołatanie; (rz.) niepokój; (rz.) niepokojenie; (rz.) przypływ; (rz.) trzepot; (rz.) trzepotanie
+[fluvial]fluvial (EN) : (p.) rzeczny
+[flux]flux (EN) : (rz.) krwotok; (rz.) niestabilność; (rz.) prąd; (rz.) przepływ; (rz.) przypływ; (rz.) strumień; (rz.) topnik; (rz.) upływ; (rz.) zmienność
+[fluxing]fluxing (EN) : (rz.) uplastycznianie; (rz.) zmiękczanie
+[fluxion]fluxion (EN) : (rz.) obrzmienie
+[fly]fly (EN) : (cz.) fruwać; (cz.) latać; (cz.) lecieć; (cz.) mknąć; (cz.) przelatywać; (cz.) przylecieć; (rz.) latania; (rz.) mucha; (rz.) muszka; (rz.) nadscenie; (rz.) rozporek
+[fly-leaf]fly-leaf (EN) : (rz.) przedtytuł; (rz.) wyklejka
+[flyer]flyer (EN) : (rz.) latawiec; (rz.) lotnik; (rz.) ulotka
+[flying]flying (EN) : (rz.) fruwanie; (rz.) latanie; (rz.) przelatywanie; (rz.) zalatywanie
+[flying-boat]flying-boat (EN) : (rz.) hydroplan; (rz.) wodnopłatowiec
+[flyleaf]flyleaf (EN) : (rz.) przedtytuł; (rz.) wyklejka
+[flyover]flyover (EN) : (rz.) estakada; (rz.) mostek; (rz.) wiadukt
+[flypaper]flypaper (EN) : (rz.) lep
+[flypast]flypast (EN) : (rz.) przelot
+[flysheet]flysheet (EN) : (rz.) tropik; (rz.) ulotka
+[flytrap]flytrap (EN) : (rz.) muchołapka
+[foal]foal (EN) : (cz.) oźrebić; (rz.) źrebak; (rz.) źrebię
+[foam]foam (EN) : (cz.) pienić; (cz.) spienić; (cz.) wyszumieć; (rz.) piana; (rz.) pianka
+[foamy]foamy (EN) : (p.) pienisty; (p.) spieniony
+[fob]fob (EN) : (rz.) dewizka; (rz.) kieszonka; (rz.) tasiemka
+[focal]focal (EN) : (p.) ogniskowy
+[focalize]focalize (EN) : (cz.) ogniskować
+[focus]focus (EN) : (cz.) nastawiać; (cz.) ogniskować; (cz.) skupiać; (cz.) skupić; (rz.) centrum; (rz.) fokus; (rz.) koncentracja; (rz.) nieostrość; (rz.) ognisko; (rz.) ogniskowa; (rz.) ostrość; (rz.) siedlisko; (rz.) skupianie; (rz.) skupienie
+[fodder]fodder (EN) : (rz.) karma; (rz.) obrok; (rz.) pasza
+[foe]foe (EN) : (rz.) nieprzyjaciel; (rz.) przeciwnik; (rz.) wróg
+[foetid]foetid (EN) : (p.) niewonny
+[foetus]foetus (EN) : (rz.) płód; (rz.) zarodek
+[fog]fog (EN) : (rz.) mgła; (rz.) mglistość
+[foggily]foggily (EN) : (p-sł.) mglisto
+[foggy]foggy (EN) : (p.) mglisty; (p.) niepewny
+[fogy]fogy (EN) : (rz.) piernik
+[foible]foible (EN) : (rz.) dziwactwo; (rz.) słabostka
+[foil]foil (EN) : (cz.) udaremniać; (cz.) udaremnić; (rz.) floret; (rz.) folia
+[foison]foison (EN) : (rz.) obfitość
+[foist]foist (EN) : (cz.) podrzucać; (cz.) wsuwać
+[fold]fold (EN) : (cz.) falcować; (cz.) komponować; (cz.) otulać; (cz.) sfałdować; (cz.) składać; (cz.) stanowić; (cz.) zaginać; (cz.) zginać; (rz.) falc; (rz.) fałd; (rz.) fałda; (rz.) owczarnia; (rz.) zagięcie; (rz.) zagroda; (rz.) zakładka; (rz.) załamek; (rz.) zaszewka
+[folder]folder (EN) : (rz.) broszura; (rz.) broszurka; (rz.) falcówka; (rz.) folder; (rz.) prospekt; (rz.) skoroszyt; (rz.) teczka; (rz.) ulotka
+[foliage]foliage (EN) : (rz.) listowie; (rz.) ulistnienie
+[foliate]foliate (EN) : (p.) blaszkowy
+[foliation]foliation (EN) : (rz.) foliacja
+[folic]folic (EN) : (p.) foliowy
+[folio]folio (EN) : (rz.) folio; (rz.) pagina
+[folk]folk (EN) : (p.) folklorystyczny; (p.) ludowy; (rz.) lud; (rz.) naród
+[folklore]folklore (EN) : (rz.) folklor; (rz.) folklorystyka
+[folksiness]folksiness (EN) : (rz.) ludowość
+[folksong]folksong (EN) : (rz.) pieśń
+[folksy]folksy (EN) : (p.) ludowy
+[follicle]follicle (EN) : (rz.) kokon
+[follicular]follicular (EN) : (p.) mieszkowy
+[follow]follow (EN) : (cz.) iść; (cz.) nastąpić; (cz.) następować; (cz.) podążać; (cz.) śledzić
+[follow-up]follow-up (EN) : (rz.) kontynuacja
+[follower]follower (EN) : (rz.) następca; (rz.) przyleganie; (rz.) stronnik; (rz.) wyznawca; (rz.) zwolennik
+[following]following (EN) : (p.) następny; (rz.) następowanie; (rz.) zwolennik
+[folly]folly (EN) : (rz.) głupota; (rz.) szał; (rz.) szaleństwo
+[foment]foment (EN) : (cz.) podsycać; (cz.) podżegać; (cz.) wzniecać
+[fond]fond (EN) : (p.) czuły; (p.) delikatny; (p.) naiwny
+[fondant]fondant (EN) : (rz.) cukierek; (rz.) kremówka
+[fondle]fondle (EN) : (cz.) cackać; (cz.) chuchać; (cz.) głaskać; (cz.) pieścić; (cz.) tulić
+[fondly]fondly (EN) : (p-sł.) czule; (p-sł.) delikatnie; (p-sł.) miłośnie
+[fondness]fondness (EN) : (rz.) czułość; (rz.) delikatność; (rz.) sentyment; (rz.) zamiłowanie
+[font]font (EN) : (rz.) chrzcielnica; (rz.) czcionka; (rz.) krój; (rz.) zbiór
+[fontal]fontal (EN) : (p.) źródlany; (p.) źródłowy
+[fontanel]fontanel (EN) : (rz.) ciemiączko
+[food]food (EN) : (rz.) jadło; (rz.) jedzenie; (rz.) pokarm; (rz.) potrawa; (rz.) pożywienie; (rz.) spód; (rz.) strawa; (rz.) wyżywienie; (rz.) żer; (rz.) żywność
+[foodstuff]foodstuff (EN) : (rz.) karma
+[fool]fool (EN) : (cz.) błaźnić; (cz.) błaznować; (cz.) durzyć; (cz.) głupieć; (cz.) majstrować; (cz.) ogłupiać; (cz.) oszukać; (cz.) oszukiwać; (cz.) pozorować; (cz.) wygłupiać; (rz.) błazen; (rz.) debil; (rz.) głupek; (rz.) głupiec; (rz.) głuptas; (rz.) wariat; (rz.) żartowniś
+[fool-race]fool-race (EN) : (rz.) bieg
+[foolery]foolery (EN) : (rz.) głupota; (rz.) głupstwo
+[foolhardily]foolhardily (EN) : (p-sł.) ryzykancko
+[foolhardy]foolhardy (EN) : (p.) nieroztropny; (p.) wariacki
+[foolish]foolish (EN) : (p.) durny; (p.) głupi; (p.) niemądry; (p.) nierozsądny; (p.) nierozumny; (p.) pochopny
+[foolishly]foolishly (EN) : (p-sł.) głupio; (p-sł.) niemądrze; (p-sł.) nierozumnie
+[foolishness]foolishness (EN) : (rz.) głupota; (rz.) głupstwo
+[foolproof]foolproof (EN) : (p.) niezawodny; (p.) odporny; (p.) przejrzysty
+[foot]foot (EN) : (rz.) dół; (rz.) noga; (rz.) spód; (rz.) stopa
+[foot-hills]foot-hills (EN) : (rz.) podgórze; (rz.) pogórze
+[foot-mark]foot-mark (EN) : (rz.) ślad
+[foot-note]foot-note (EN) : (rz.) komentarz; (rz.) notatka; (rz.) przypis
+[foot-operated]foot-operated (EN) : (p.) nożny
+[foot-pace]foot-pace (EN) : (rz.) podest; (rz.) podium
+[foot-path]foot-path (EN) : (rz.) ścieżka
+[foot-rest]foot-rest (EN) : (rz.) podnóżek
+[foot-soldier]foot-soldier (EN) : (rz.) piechur
+[foot-wear]foot-wear (EN) : (rz.) obuwie
+[football]football (EN) : (rz.) futbol; (rz.) piłkarstwo
+[footballer]footballer (EN) : (rz.) futbolista; (rz.) piłkarz
+[footbridge]footbridge (EN) : (rz.) kładka
+[footer]footer (EN) : (rz.) stopa; (rz.) stopka
+[footfall]footfall (EN) : (rz.) krok
+[foothill]foothill (EN) : (rz.) pogórze
+[foothills]foothills (EN) : (rz.) pogórze; (rz.) przedgórze
+[foothold]foothold (EN) : (rz.) oparcie
+[footing]footing (EN) : (rz.) oparcie; (rz.) podstawa; (rz.) położenie
+[footle]footle (EN) : (cz.) bałamucić; (rz.) brednie
+[footling]footling (EN) : (p.) błahy; (p.) głupi
+[footman]footman (EN) : (rz.) lokaj; (rz.) piechur
+[footmark]footmark (EN) : (rz.) ślad
+[footnote]footnote (EN) : (rz.) dopisek; (rz.) komentarz; (rz.) notatka; (rz.) notka; (rz.) odnośnik; (rz.) przypis
+[footpath]footpath (EN) : (rz.) chodnik; (rz.) drożyna; (rz.) ścieżka
+[footprint]footprint (EN) : (rz.) odcisk; (rz.) ślad
+[footrest]footrest (EN) : (rz.) podnóżek
+[footstep]footstep (EN) : (rz.) krok; (rz.) ślad
+[footstool]footstool (EN) : (rz.) podnóżek
+[footwall]footwall (EN) : (rz.) spąg
+[footway]footway (EN) : (rz.) chodnik
+[footwear]footwear (EN) : (rz.) obuwie
+[footy]footy (EN) : (p.) marny
+[foozle]foozle (EN) : (cz.) fuszerować; (cz.) patałaszyć; (cz.) sfuszerować; (cz.) spartaczyć; (cz.) spartolić; (cz.) spaskudzić; (rz.) fuszerka; (rz.) partactwo; (rz.) patałach
+[fop]fop (EN) : (rz.) bufon; (rz.) fircyk; (rz.) goguś; (rz.) laluś; (rz.) modniś; (rz.) piękniś
+[foppery]foppery (EN) : (rz.) fircykowatość
+[for]for (EN) : (p-im.) dla; (p-im.) do; (p-im.) mimo; (p-im.) na; (p-im.) po; (p-im.) przez; (p-im.) w; (p-im.) z; (p-im.) za; (p-im.) zamiast; (spójnik) aby; (spójnik) ażeby; (spójnik) gdyż; (spójnik) ponieważ
+[forage]forage (EN) : (cz.) furażować; (rz.) furaż; (rz.) furażowanie; (rz.) pasza; (rz.) pożywienie
+[forager]forager (EN) : (rz.) furażer
+[foramen]foramen (EN) : (rz.) otwór
+[foraminifer]foraminifer (EN) : (rz.) otwornica
+[forasmuch]forasmuch (EN) : (p-sł.) skoro
+[foray]foray (EN) : (cz.) plądrować; (rz.) najazd; (rz.) napad
+[forbear]forbear (EN) : (cz.) powstrzymywać
+[forbearance]forbearance (EN) : (rz.) pobłażliwość; (rz.) wyrozumiałość
+[forbid]forbid (EN) : (cz.) zabraniać; (cz.) zabronić; (cz.) zakazać; (cz.) zakazywać
+[forbidden]forbidden (EN) : (cz.) zakazywać
+[forbidding]forbidding (EN) : (p.) ponury; (p.) posępny
+[force]force (EN) : (cz.) forsować; (cz.) narzucać; (cz.) obowiązywać; (cz.) przymusić; (cz.) przymuszać; (cz.) rzucać; (cz.) wymusić; (cz.) wymuszać; (cz.) zmusić; (cz.) zmuszać; (rz.) moc; (rz.) przemoc; (rz.) siła; (rz.) życie
+[forced]forced (EN) : (cz.) przesiedlić; (p.) przymusowy; (p.) wymuszony
+[forceful]forceful (EN) : (p.) potężny; (p.) silny
+[forcefully]forcefully (EN) : (p-sł.) mocno
+[forcefulness]forcefulness (EN) : (rz.) energia; (rz.) siła
+[forceps]forceps (EN) : (rz.) kleszcze; (rz.) pęseta; (rz.) pinceta; (rz.) szczypczyki
+[forcible]forcible (EN) : (p.) bezprawny; (p.) dobitny; (p.) gwałtowny; (p.) potężny; (p.) przymusowy
+[forcibly]forcibly (EN) : (p-sł.) bezprawnie; (p-sł.) przymusowo
+[forcing]forcing (EN) : (rz.) przymuszanie; (rz.) wymuszanie; (rz.) zmuszanie; (rz.) zmuszenie
+[ford]ford (EN) : (rz.) bród
+[fordo]fordo (EN) : (cz.) niszczyć; (cz.) psuć; (cz.) zabijać
+[fore]fore (EN) : (p.) dziobowy; (p.) przedni; (rz.) przód
+[fore-part]fore-part (EN) : (rz.) front; (rz.) początek
+[fore-reach]fore-reach (EN) : (cz.) doganiać; (cz.) dopędzać
+[fore-shaft]fore-shaft (EN) : (rz.) bodnia; (rz.) szybik
+[forearm]forearm (EN) : (rz.) przedramię
+[forebear]forebear (EN) : (rz.) przodek
+[forebode]forebode (EN) : (cz.) przeczuć; (cz.) przeczuwać; (cz.) przepowiadać; (cz.) przewidywać; (cz.) zapowiadać
+[foreboding]foreboding (EN) : (rz.) przeczucie
+[forecast]forecast (EN) : (cz.) prognozować; (cz.) przewidywać; (cz.) zapowiadać; (rz.) prognostyk; (rz.) prognoza; (rz.) przewidywanie; (rz.) zapowiedź
+[forecaster]forecaster (EN) : (rz.) prognostyk
+[forecastle]forecastle (EN) : (rz.) dziobówka; (rz.) forkasztel; (rz.) kubryk; (rz.) nadbudówka
+[foreclosure]foreclosure (EN) : (rz.) wykluczenie
+[forecourt]forecourt (EN) : (rz.) dziedziniec
+[foredoom]foredoom (EN) : (cz.) skazywać
+[forefather]forefather (EN) : (rz.) antenat; (rz.) przodek
+[forefront]forefront (EN) : (rz.) czoło; (rz.) czołówka
+[foregather]foregather (EN) : (cz.) zbierać
+[forego]forego (EN) : (cz.) zrzekać
+[foregoer]foregoer (EN) : (rz.) przywódca
+[foreground]foreground (EN) : (rz.) przedpole
+[forehand]forehand (EN) : (p.) czołowy; (rz.) czoło; (rz.) forhend; (rz.) prowadzenie; (rz.) przód
+[forehead]forehead (EN) : (rz.) czoło; (rz.) przodek
+[foreign]foreign (EN) : (p.) cudzoziemski; (p.) dziwny; (p.) napływowy; (p.) obcojęzyczny; (p.) obcokrajowy; (p.) obcy; (p.) postronny; (p.) pozakrajowy; (p.) zagraniczny
+[foreign-currency]foreign-currency (EN) : (p.) dewizowy
+[foreigner]foreigner (EN) : (rz.) autochton; (rz.) cudzoziemiec; (rz.) obcokrajowiec; (rz.) zagranicznik
+[forejudge]forejudge (EN) : (cz.) osądzać
+[foreknowledge]foreknowledge (EN) : (rz.) przeczucie; (rz.) przewidzenie
+[foreland]foreland (EN) : (rz.) cypel; (rz.) przylądek
+[forelock]forelock (EN) : (rz.) grzywka; (rz.) kosmyk; (rz.) zatyczka; (rz.) zawleczka
+[foreman]foreman (EN) : (rz.) brygadier; (rz.) brygadzista; (rz.) kierownik; (rz.) majster; (rz.) mistrz; (rz.) nadzorca; (rz.) przodownik; (rz.) starosta; (rz.) sztygar
+[foremast]foremast (EN) : (rz.) fokmaszt
+[foremen]foremen (EN) : (rz.) podmajstrzy
+[foremilk]foremilk (EN) : (rz.) młodziwo; (rz.) siara
+[foremost]foremost (EN) : (p.) główny; (p.) pierwszy; (p.) przedni
+[forename]forename (EN) : (rz.) imię
+[forenoon]forenoon (EN) : (rz.) przedpołudnie
+[forensic]forensic (EN) : (p.) prawniczy; (p.) sądowy
+[forepart]forepart (EN) : (rz.) front; (rz.) początek
+[forereach]forereach (EN) : (cz.) doganiać; (cz.) dopędzać
+[forerunner]forerunner (EN) : (rz.) poprzednik; (rz.) prekursor; (rz.) przedplon; (rz.) zwiastun
+[foresail]foresail (EN) : (rz.) fok
+[foresee]foresee (EN) : (cz.) przewidywać
+[foreseeable]foreseeable (EN) : (p.) przewidywalny
+[foreseen]foreseen (EN) : (cz.) przewidywać
+[foreshadow]foreshadow (EN) : (cz.) wróżyć; (cz.) zapowiadać; (cz.) zwiastować
+[foreshore]foreshore (EN) : (rz.) podwodzie; (rz.) przybrzeże
+[foreshow]foreshow (EN) : (cz.) przepowiadać; (cz.) zapowiadać
+[foreside]foreside (EN) : (rz.) strona; (rz.) teren
+[foresight]foresight (EN) : (rz.) muszka; (rz.) ostrożność; (rz.) przewidywanie; (rz.) przezorność; (rz.) zapobiegliwość
+[foreskin]foreskin (EN) : (rz.) napletek
+[forest]forest (EN) : (rz.) bór; (rz.) knieja; (rz.) las; (rz.) leśniczówka; (rz.) puszcza
+[forestall]forestall (EN) : (cz.) uprzedzać; (cz.) wyprzedzać; (cz.) wyprzedzić; (cz.) zapobiegać
+[forestalls]forestalls (EN) : (cz.) antycypować
+[forestation]forestation (EN) : (rz.) zalesianie; (rz.) zalesienie
+[forestaysail]forestaysail (EN) : (rz.) foksztaksel
+[forester]forester (EN) : (rz.) leśnictwo; (rz.) leśniczy; (rz.) leśnik
+[forestry]forestry (EN) : (rz.) leśnictwo
+[foreswear]foreswear (EN) : (cz.) przysięgać
+[foretaste]foretaste (EN) : (rz.) przedsmak
+[foretell]foretell (EN) : (cz.) przepowiadać; (cz.) wróżyć
+[forethought]forethought (EN) : (rz.) premedytacja; (rz.) przezorność; (rz.) zapobiegliwość
+[foretime]foretime (EN) : (rz.) przeszłość
+[foretoken]foretoken (EN) : (cz.) zapowiadać; (rz.) wróżba
+[foretold]foretold (EN) : (cz.) przepowiadać
+[foretop]foretop (EN) : (rz.) kosz; (rz.) mars
+[forever]forever (EN) : (p-sł.) bezpowrotnie; (p-sł.) zawsze
+[forewarn]forewarn (EN) : (cz.) przestrzegać
+[foreword]foreword (EN) : (rz.) przedmowa; (rz.) przedsłowie; (rz.) wstęp
+[forfeit]forfeit (EN) : (cz.) stracić; (cz.) zaprzepaścić; (cz.) zaprzepaszczać; (rz.) fant; (rz.) grzywa; (rz.) grzywna; (rz.) przepadek; (rz.) przesyt; (rz.) strata
+[forfeiture]forfeiture (EN) : (rz.) przepadek; (rz.) utrata
+[forgather]forgather (EN) : (cz.) spotykać; (cz.) zbierać
+[forge]forge (EN) : (cz.) falsyfikować; (cz.) fałszować; (cz.) kuć; (cz.) podrabiać; (cz.) włączać; (cz.) wykuć; (cz.) wykuwać; (cz.) zawierać; (rz.) kuźnia; (rz.) okucie
+[forgeable]forgeable (EN) : (p.) kowalny; (p.) kujny
+[forger]forger (EN) : (rz.) fabrykant; (rz.) falsyfikator; (rz.) fałszerz; (rz.) kowal; (rz.) podrabiacz
+[forgery]forgery (EN) : (rz.) fabrykat; (rz.) falsyfikat; (rz.) fałszerstwo; (rz.) fałszowanie
+[forget]forget (EN) : (cz.) zapominać; (cz.) zapomnieć
+[forget-me-not]forget-me-not (EN) : (rz.) niezabudka; (rz.) niezapominajka; (rz.) stokrotka
+[forgetful]forgetful (EN) : (p.) niepomny; (p.) zapominalski
+[forgetfulness]forgetfulness (EN) : (rz.) roztargnienie; (rz.) zapominanie; (rz.) zapomnienie
+[forgivable]forgivable (EN) : (p.) wybaczalny
+[forgive]forgive (EN) : (cz.) darować; (cz.) odpuścić; (cz.) odpuszczać; (cz.) przebaczać; (cz.) przebaczyć; (cz.) wybaczać; (cz.) wybaczyć
+[forgiveness]forgiveness (EN) : (rz.) odpuszczenie; (rz.) przebaczenie; (rz.) wybaczenie
+[forgiving]forgiving (EN) : (p.) pobłażliwy
+[forgo]forgo (EN) : (cz.) obyć; (cz.) obywać; (cz.) powstrzymywać; (cz.) rezygnować; (cz.) zrzekać
+[forgotten]forgotten (EN) : (cz.) zapominać
+[fork]fork (EN) : (cz.) bulić; (cz.) rozdwajać; (cz.) rozwidlać; (rz.) odgałęzienie; (rz.) rozwidlenie; (rz.) widelec; (rz.) widełki; (rz.) widły
+[forked]forked (EN) : (p.) rosochaty; (p.) rozwidlony; (p.) widlasty
+[forklift]forklift (EN) : (rz.) podnośnik
+[forlorn]forlorn (EN) : (p.) beznadziejny; (p.) bezradny; (p.) nieszczęśliwy; (p.) opuszczony; (p.) rozpaczliwy; (p.) samotny; (p.) żałosny
+[form]form (EN) : (cz.) formować; (cz.) kształtować; (cz.) rozwijać; (cz.) sformować; (cz.) stanowić; (cz.) tworzyć; (cz.) uformować; (cz.) ustanawiać; (cz.) ustanowić; (cz.) wchodzić; (cz.) wyrabiać; (cz.) wyrobić; (rz.) blankiet; (rz.) forma; (rz.) formalność; (rz.) formularz; (rz.) klasa; (rz.) kondycja; (rz.) ławka; (rz.) oddział; (rz.) postać; (rz.) rodzaj; (rz.) samopoczucie
+[formability]formability (EN) : (rz.) odkształcalność
+[formal]formal (EN) : (p.) formalistyczny; (p.) formalny; (p.) oficjalny; (p.) urzędowy; (p.) wizytowy
+[formaldehyde]formaldehyde (EN) : (rz.) formaldehyd; (rz.) metanal
+[formalin]formalin (EN) : (rz.) formalina
+[formalism]formalism (EN) : (rz.) formalizm
+[formalist]formalist (EN) : (rz.) formalista
+[formalistic]formalistic (EN) : (p.) formalistyczny
+[formality]formality (EN) : (rz.) formalność
+[formalization]formalization (EN) : (rz.) formalizacja; (rz.) problemu
+[formalize]formalize (EN) : (cz.) formalizować; (cz.) kształtować; (cz.) sformalizować; (cz.) ukształtować
+[formally]formally (EN) : (p-sł.) ceremonialnie; (p-sł.) formalnie
+[format]format (EN) : (cz.) formatować; (rz.) format; (rz.) książki; (rz.) postać
+[formation]formation (EN) : (rz.) budowa; (rz.) formacja; (rz.) formowanie; (rz.) powołanie; (rz.) powstawanie; (rz.) system; (rz.) szyk; (rz.) twór; (rz.) tworzenie; (rz.) ugrupowanie; (rz.) układanie
+[formative]formative (EN) : (p.) formatywny; (p.) słowotwórczy
+[formatively]formatively (EN) : (p-sł.) słowotwórczo
+[formatter]formatter (EN) : (rz.) formater
+[formatting]formatting (EN) : (rz.) formatowanie; (rz.) łamanie; (rz.) makietowanie
+[former]former (EN) : (p.) były; (p.) dawny; (p.) poprzedni
+[formerly]formerly (EN) : (p-sł.) niegdyś; (p-sł.) poprzednio
+[formic]formic (EN) : (p.) mrówkowy
+[formidable]formidable (EN) : (p.) ogromny; (p.) straszny; (p.) trudny
+[formless]formless (EN) : (p.) bezkształtny
+[formula]formula (EN) : (rz.) formuła; (rz.) formułka; (rz.) przepis; (rz.) receptura; (rz.) wzór
+[formulate]formulate (EN) : (cz.) formułować; (cz.) sformułować; (cz.) ująć; (cz.) wyrażać
+[formulation]formulation (EN) : (rz.) formułowanie; (rz.) preparat; (rz.) sformułowanie
+[formwork]formwork (EN) : (rz.) deskowanie; (rz.) szalowanie
+[fornicate]fornicate (EN) : (cz.) cudzołożyć
+[fornication]fornication (EN) : (rz.) nierząd
+[forsake]forsake (EN) : (cz.) opuścić; (cz.) opuszczać; (cz.) porzucać; (cz.) zaniechać
+[forsaken]forsaken (EN) : (cz.) opuszczać
+[forswear]forswear (EN) : (cz.) wypierać; (cz.) wyprzeć; (cz.) zaprzeć; (cz.) zaprzestać
+[forsythia]forsythia (EN) : (rz.) forsycja
+[fort]fort (EN) : (rz.) twierdza
+[forth]forth (EN) : (p-sł.) naprzód
+[forthcoming]forthcoming (EN) : (p.) nadchodzący; (p.) przyszły
+[forthright]forthright (EN) : (p.) jawny; (p.) prosty
+[forthwith]forthwith (EN) : (p-sł.) bezzwłocznie; (p-sł.) natychmiast
+[fortieth]fortieth (EN) : (p.) czterdziesty
+[fortification]fortification (EN) : (rz.) fortyfikacja; (rz.) obwarowanie; (rz.) umocnienie
+[fortified]fortified (EN) : (p.) obronny; (p.) warowny
+[fortifier]fortifier (EN) : (cz.) wzmocnić
+[fortify]fortify (EN) : (cz.) fortyfikować; (cz.) ufortyfikować; (cz.) umacniać; (cz.) wzmacniać
+[fortitude]fortitude (EN) : (rz.) męstwo
+[fortnightly]fortnightly (EN) : (p.) dwutygodniowy
+[fortress]fortress (EN) : (rz.) forteca; (rz.) twierdza; (rz.) warownia
+[fortuitous]fortuitous (EN) : (p.) przypadkowy
+[fortuitously]fortuitously (EN) : (p-sł.) przygodnie; (p-sł.) przypadkowo
+[fortuity]fortuity (EN) : (rz.) przypadkowość
+[fortunate]fortunate (EN) : (p.) fortunny; (p.) pomyślny; (p.) szczęśliwy
+[fortunately]fortunately (EN) : (p-sł.) pomyślnie; (p-sł.) szczęśliwie
+[fortune]fortune (EN) : (rz.) bogactwo; (rz.) dola; (rz.) dorobek; (rz.) fortuna; (rz.) los; (rz.) majątek; (rz.) majętność; (rz.) powodzenie; (rz.) szczęście; (rz.) traf
+[fortune-teller]fortune-teller (EN) : (rz.) kabalarz; (rz.) wróżbiarz; (rz.) wróżbita
+[fortuned]fortuned (EN) : (p.) zamożny
+[forum]forum (EN) : (rz.) forum
+[forward]forward (EN) : (cz.) ekspediować; (cz.) przeekspediować; (cz.) przesłać; (cz.) wysłać; (p.) dalekowzroczny; (p.) dziobowy; (p.) przedni; (p.) średni; (p-sł.) naprzód
+[forwarder]forwarder (EN) : (rz.) spedytor; (rz.) załadowca
+[forwardness]forwardness (EN) : (rz.) postęp
+[forwards]forwards (EN) : (cz.) przesłać; (cz.) przesyłać; (cz.) wysłać; (p-sł.) naprzód
+[fosse]fosse (EN) : (rz.) fosa
+[fossil]fossil (EN) : (p.) kopalny; (p.) przedpotopowy; (p.) skamieniały; (rz.) kopal; (rz.) skamielina; (rz.) skamieniałość; (rz.) wykopalisko
+[fossilization]fossilization (EN) : (rz.) fosylizacja
+[fossilize]fossilize (EN) : (cz.) skamienieć
+[foster]foster (EN) : (cz.) wychowywać; (cz.) wyniańczyć
+[foster-child]foster-child (EN) : (rz.) wychowanek
+[foster-father]foster-father (EN) : (rz.) ojczym; (rz.) opiekun; (rz.) piastun
+[foster-mother]foster-mother (EN) : (rz.) macocha; (rz.) mamka; (rz.) piastunka
+[foul]foul (EN) : (cz.) brudzić; (cz.) faulować; (cz.) kalać; (cz.) sfaulować; (cz.) zanieczyścić; (p.) brudny; (p.) dziadowski; (p.) niecny; (p.) niegodziwy; (p.) niehonorowy; (p.) nieuczciwy; (p.) plugawy; (p.) sprośny; (p.) wstrętny
+[foul-mouthed]foul-mouthed (EN) : (p.) trywialny; (p.) wulgarny
+[foulard]foulard (EN) : (rz.) fular
+[foully]foully (EN) : (p-sł.) haniebnie; (p-sł.) nieuczciwie; (p-sł.) obrzydliwie
+[foulmouthed]foulmouthed (EN) : (p.) trywialny; (p.) wulgarny
+[foulness]foulness (EN) : (rz.) smród
+[found]found (EN) : (cz.) doszukać; (cz.) fundować; (cz.) odlewać; (cz.) odnaleźć; (cz.) opierać; (cz.) roztapiać; (cz.) tworzyć; (cz.) ufundować; (cz.) upatrywać; (cz.) uzasadniać; (cz.) zakładać; (cz.) znaleźć
+[foundation]foundation (EN) : (rz.) fundacja; (rz.) fundament; (rz.) podbudowa; (rz.) podkład; (rz.) podmurówka; (rz.) podstawa; (rz.) podwalina; (rz.) ufundowanie; (rz.) założenie
+[foundational]foundational (EN) : (rz.) stypendysta
+[founder]founder (EN) : (rz.) fundator; (rz.) ochwat; (rz.) odlewnik; (rz.) pomysłodawca; (rz.) twórca; (rz.) wytapiacz; (rz.) założyciel
+[foundling]foundling (EN) : (rz.) podrzutek; (rz.) znajda
+[foundry]foundry (EN) : (rz.) gisernia; (rz.) huta; (rz.) odlewnia; (rz.) odlewnictwo
+[fount]fount (EN) : (rz.) czcionka; (rz.) font; (rz.) krynica; (rz.) zbiornik; (rz.) źródło
+[fountain]fountain (EN) : (rz.) fontanna; (rz.) pijalnia; (rz.) wodotrysk; (rz.) źródło
+[fountainhead]fountainhead (EN) : (rz.) źródło
+[four]four (EN) : (rz.) czwarta
+[four-footed]four-footed (EN) : (p.) czworonogi; (p.) czworonożny
+[four-pole]four-pole (EN) : (rz.) czwórnik
+[fourfold]fourfold (EN) : (p.) czterokrotny; (p.) poczwórny; (p-sł.) czterokrotnie
+[fourteenth]fourteenth (EN) : (p.) czternasty
+[fourth]fourth (EN) : (rz.) czwarta
+[fowl]fowl (EN) : (rz.) drób; (rz.) kogut; (rz.) ptactwo; (rz.) ptak; (rz.) pularda
+[fowler]fowler (EN) : (rz.) ptasznik
+[fox]fox (EN) : (cz.) zdezorientować; (rz.) filut; (rz.) lis
+[fox-terrier]fox-terrier (EN) : (rz.) foksterier
+[foxglove]foxglove (EN) : (rz.) naparstnica
+[foxhole]foxhole (EN) : (rz.) okop
+[foxhound]foxhound (EN) : (rz.) wyżeł
+[foxiness]foxiness (EN) : (rz.) chytrość
+[foxtrot]foxtrot (EN) : (rz.) fokstrot
+[foxy]foxy (EN) : (p.) ponętny; (p.) rudy
+[foyer]foyer (EN) : (rz.) fotoreporter; (rz.) foyer
+[fracas]fracas (EN) : (rz.) awantura; (rz.) burda; (rz.) rozróbka
+[fractal]fractal (EN) : (rz.) część; (rz.) frakcja; (rz.) ułamek
+[fraction]fraction (EN) : (rz.) część; (rz.) drobina; (rz.) frakcja; (rz.) ułamek
+[fractional]fractional (EN) : (p.) frakcyjny; (p.) nieznaczny; (p.) ułamkowy
+[fractionate]fractionate (EN) : (cz.) frakcjonować
+[fractionation]fractionation (EN) : (rz.) frakcjonowanie
+[fractioning]fractioning (EN) : (rz.) frakcjonowanie
+[fractious]fractious (EN) : (p.) krnąbrny; (p.) niesforny; (p.) opryskliwy
+[fracture]fracture (EN) : (cz.) łamać; (cz.) złamać; (cz.) złapać; (rz.) naruszenie; (rz.) pękanie; (rz.) pęknięcie; (rz.) przełam; (rz.) złamanie
+[fragile]fragile (EN) : (p.) delikatny; (p.) kruchy; (p.) łamliwy; (p.) wątły
+[fragility]fragility (EN) : (rz.) kruchość; (rz.) łamliwość; (rz.) wrażliwość
+[fragment]fragment (EN) : (rz.) część; (rz.) fragment; (rz.) łom; (rz.) odłamek; (rz.) okruch; (rz.) ułamek; (rz.) urywek
+[fragmentary]fragmentary (EN) : (p.) częściowy; (p.) fragmentaryczny; (p.) ułamkowy; (p.) urywkowy; (p.) wycinkowy
+[fragmentation]fragmentation (EN) : (rz.) fragmentacja; (rz.) rozczłonkowanie; (rz.) rozdrobnienie; (rz.) rozpryskiwanie
+[fragmented]fragmented (EN) : (p.) fragmentaryczny
+[fragrance]fragrance (EN) : (rz.) aromat; (rz.) woń; (rz.) zapach
+[fragrant]fragrant (EN) : (p.) aromatyczny; (p.) pachnący; (p.) wonny
+[fragrantly]fragrantly (EN) : (p-sł.) aromatycznie; (p-sł.) pachnąco
+[frail]frail (EN) : (p.) kruchy; (p.) słabowity; (p.) słaby; (p.) wątły
+[frailness]frailness (EN) : (rz.) wątłość
+[frailty]frailty (EN) : (rz.) słabość; (rz.) słabostka; (rz.) ułomność; (rz.) wątłość
+[frame]frame (EN) : (cz.) dostosowywać; (cz.) kadrować; (cz.) konstruować; (cz.) oprawiać; (cz.) tworzyć; (cz.) uknuć; (rz.) framuga; (rz.) futryna; (rz.) kadłub; (rz.) kadr; (rz.) klatka; (rz.) obramowanie; (rz.) oprawa; (rz.) ościeżnica; (rz.) rama; (rz.) ramka; (rz.) ramownica; (rz.) stelaż; (rz.) struktura; (rz.) szkielet
+[framer]framer (EN) : (rz.) ramiarz
+[framework]framework (EN) : (rz.) konstrukcja; (rz.) kratownica; (rz.) osnowa; (rz.) podstawa; (rz.) rama; (rz.) schemat; (rz.) struktura; (rz.) szkielet; (rz.) wypaczenie; (rz.) zrąb
+[framing]framing (EN) : (rz.) kadrowanie; (rz.) obramowanie; (rz.) oprawianie; (rz.) oprawienie
+[franc]franc (EN) : (rz.) frank
+[franchise]franchise (EN) : (rz.) ajencja; (rz.) frankowanie; (rz.) koncesja; (rz.) licencja; (rz.) prawo; (rz.) przywilej
+[franchising]franchising (EN) : (rz.) franszyza
+[francium]francium (EN) : (rz.) frans
+[francs]francs (EN) : (rz.) frankowanie
+[frangibility]frangibility (EN) : (rz.) łamliwość
+[frangible]frangible (EN) : (p.) łamliwy
+[frank]frank (EN) : (cz.) frankować; (p.) szczery
+[frankfurter]frankfurter (EN) : (rz.) kiełbaska; (rz.) parówka
+[frankincense]frankincense (EN) : (rz.) kadzidło
+[frankly]frankly (EN) : (p-sł.) szczerze
+[frankness]frankness (EN) : (rz.) otwartość; (rz.) szczerość
+[frantic]frantic (EN) : (p.) frenetyczny; (p.) gorączkowy; (p.) oszalały; (p.) szalony; (p.) wariacki
+[frantically]frantically (EN) : (p-sł.) gorączkowo; (p-sł.) szalenie
+[frap]frap (EN) : (cz.) związywać
+[frapping]frapping (EN) : (rz.) omotka
+[fraternal]fraternal (EN) : (p.) braterski; (p.) bratni
+[fraternity]fraternity (EN) : (rz.) bractwo; (rz.) braterstwo
+[fraternization]fraternization (EN) : (rz.) bratanie
+[fraternize]fraternize (EN) : (cz.) bratać; (cz.) zbratać
+[fratricidal]fratricidal (EN) : (p.) bratobójczy
+[fratricide]fratricide (EN) : (rz.) bratobójca; (rz.) bratobójstwo
+[fraud]fraud (EN) : (rz.) fałszerstwo; (rz.) hochsztapler; (rz.) hochsztaplerstwo; (rz.) machlojka; (rz.) oszust; (rz.) oszustwo; (rz.) szalbierstwo
+[fraudulence]fraudulence (EN) : (p.) nieuczciwy
+[fraudulent]fraudulent (EN) : (p.) nieuczciwy; (p.) oszukańczy; (p.) szalbierski
+[fraudulently]fraudulently (EN) : (p-sł.) oszukańczo
+[fraught]fraught (EN) : (p.) brzemienny; (p.) pełny
+[fray]fray (EN) : (cz.) postrzępić; (cz.) strzępić; (cz.) szatkować; (cz.) wycierać; (cz.) wystrzępić; (rz.) bójka; (rz.) zwada
+[frazil]frazil (EN) : (rz.) ryż
+[frazzle]frazzle (EN) : (rz.) strzęp
+[freak]freak (EN) : (p.) dziwaczny; (rz.) dziwadło; (rz.) dziwak; (rz.) dziwoląg; (rz.) kaprys; (rz.) świr; (rz.) wybryk; (rz.) zagrywka
+[freaked]freaked (EN) : (p.) pstry
+[freakish]freakish (EN) : (p.) cudaczny; (p.) dziwaczny; (p.) kapryśny
+[freaky]freaky (EN) : (p.) dziwaczny
+[freckle]freckle (EN) : (rz.) pieg; (rz.) plamka
+[freckled]freckled (EN) : (p.) nakrapiany; (p.) piegowaty
+[free]free (EN) : (cz.) uwalniać; (cz.) uwolnić; (cz.) wyzwalać; (cz.) wyzwolić; (cz.) zwalniać; (cz.) zwolnić; (p.) bezpłatny; (p.) bezproblemowy; (p.) darmowy; (p.) gratisowy; (p.) hojny; (p.) nieodpłatny; (p.) niezależny; (p.) swobodny; (p.) wolnocłowy; (p.) wolny; (p-sł.) bezpłatnie; (p-sł.) darmo; (p-sł.) dowolnie; (p-sł.) swobodnie
+[free-form]free-form (EN) : (p.) dowolny; (p.) niesformatowany; (p.) swobodny
+[free-handed]free-handed (EN) : (p.) hojny; (p.) szczodry
+[free-market]free-market (EN) : (p.) wolnorynkowy
+[free-spoken]free-spoken (EN) : (p.) szczery
+[free-standing]free-standing (EN) : (p.) wolnostojący
+[freebie]freebie (EN) : (rz.) upominek
+[freebooter]freebooter (EN) : (rz.) korsarz
+[freed]freed (EN) : (p.) swobodny
+[freedman]freedman (EN) : (rz.) wyzwoleniec
+[freedom]freedom (EN) : (rz.) niezależność; (rz.) obywatelstwo; (rz.) prawo; (rz.) swoboda; (rz.) uprawnienie; (rz.) wolność
+[freeform]freeform (EN) : (p.) swobodny
+[freehand]freehand (EN) : (p.) odręczny
+[freehanded]freehanded (EN) : (p.) hojny; (p.) szczodry
+[freeholder]freeholder (EN) : (rz.) właściciel
+[freelance]freelance (EN) : (rz.) najemnik
+[freeloader]freeloader (EN) : (rz.) darmozjad; (rz.) pasożyt; (rz.) truteń
+[freely]freely (EN) : (p-sł.) chętnie; (p-sł.) dowolnie; (p-sł.) luzem; (p-sł.) swobodnie; (p-sł.) wolno
+[freeman]freeman (EN) : (rz.) członek; (rz.) obywatel
+[freemason]freemason (EN) : (rz.) mason; (rz.) wolnomularz
+[freemasonic]freemasonic (EN) : (p.) wolnomularski
+[freemasonry]freemasonry (EN) : (rz.) masoneria; (rz.) wolnomularstwo
+[freesia]freesia (EN) : (rz.) frezja
+[freethinker]freethinker (EN) : (rz.) wolnomyśliciel
+[freeway]freeway (EN) : (rz.) autostrada
+[freeze]freeze (EN) : (cz.) kostnieć; (cz.) lodowacieć; (cz.) marznąć; (cz.) mrozić; (cz.) nieruchomieć; (cz.) odmrozić; (cz.) przemarzać; (cz.) tężeć; (cz.) zamarzać; (cz.) zamierać; (cz.) zamrażać; (cz.) zamrozić; (cz.) zastygać; (cz.) zatrzymywać; (cz.) zlodowacieć
+[freezer]freezer (EN) : (rz.) chłodnia; (rz.) zamrażalnia; (rz.) zamrażalnik; (rz.) zamrażarka
+[freezing]freezing (EN) : (p.) lodowaty; (p.) lodowy; (p.) zimny; (rz.) grabienie; (rz.) krzepnięcie; (rz.) mrożenie; (rz.) wymarzanie; (rz.) zamarzanie; (rz.) zamarznięcie; (rz.) zamrażanie
+[freight]freight (EN) : (cz.) frachtować; (cz.) ładować; (cz.) przewozić; (cz.) zafrachtować; (rz.) fracht; (rz.) ładunek; (rz.) przewóz
+[freightage]freightage (EN) : (rz.) frachtowanie
+[freighter]freighter (EN) : (rz.) frachtowiec; (rz.) transportowiec
+[frenetic]frenetic (EN) : (p.) frenetyczny
+[frenzied]frenzied (EN) : (p.) szaleńczy
+[frenzy]frenzy (EN) : (rz.) szał; (rz.) szaleństwo
+[frequency]frequency (EN) : (rz.) częstość; (rz.) częstotliwość; (rz.) frekwencja
+[frequency-to-voltage]frequency-to-voltage (EN) : (p.) częstotliwościowo-napięciowy
+[frequent]frequent (EN) : (cz.) bywać; (cz.) odwiedzać; (cz.) uczęszczać; (p.) częsty; (p.) rozpowszechniony
+[frequentative]frequentative (EN) : (p.) częstotliwy; (p.) wielokrotny
+[frequenter]frequenter (EN) : (rz.) bywalec
+[frequently]frequently (EN) : (p-sł.) często
+[fresco]fresco (EN) : (rz.) fresk
+[fresh]fresh (EN) : (p.) hoży; (p.) nowatorski; (p.) nowy; (p.) rześki; (p.) świeży
+[freshen]freshen (EN) : (cz.) ochładzać; (cz.) odświeżać
+[freshener]freshener (EN) : (rz.) odświeżacz
+[fresheners]fresheners (EN) : (rz.) odświeżacz
+[fresher]fresher (EN) : (rz.) świeżość
+[freshly]freshly (EN) : (p-sł.) świeżo
+[freshman]freshman (EN) : (rz.) nowicjusz
+[freshness]freshness (EN) : (rz.) chłód; (rz.) świeżość
+[freshwater]freshwater (EN) : (p.) słodkowodny
+[fret]fret (EN) : (cz.) denerwować; (cz.) drażnić; (cz.) gryźć; (cz.) podgryzać; (cz.) ścierać; (cz.) wygryzać; (rz.) rozdrażnienie
+[fret-saw]fret-saw (EN) : (rz.) laubzega
+[fretful]fretful (EN) : (p.) drażliwy; (p.) grymaśny; (p.) niespokojny
+[fretfulness]fretfulness (EN) : (rz.) drażliwość; (rz.) gniewliwość; (rz.) niepokój
+[fretsaw]fretsaw (EN) : (rz.) laubzega; (rz.) włośnica; (rz.) wyrzynarka
+[friability]friability (EN) : (rz.) kruchość
+[friable]friable (EN) : (p.) kruchy
+[friar]friar (EN) : (rz.) mnich; (rz.) zakonnik
+[fricassee]fricassee (EN) : (rz.) potrawka
+[fricative]fricative (EN) : (p.) frykatywny; (p.) szczelinowy
+[friction]friction (EN) : (rz.) natarcie; (rz.) tarcie
+[frictional]frictional (EN) : (p.) cierny; (p.) tarciowy
+[fridge]fridge (EN) : (rz.) lodówka; (rz.) zamrażarka
+[friend]friend (EN) : (rz.) kolega; (rz.) kumpel; (rz.) pobratymiec; (rz.) przyjaciel
+[friendless]friendless (EN) : (p.) samotny
+[friendliest]friendliest (EN) : (p.) przyjacielski; (p.) przyjazny
+[friendliness]friendliness (EN) : (rz.) dobroć; (rz.) życzliwość
+[friendly]friendly (EN) : (p.) koleżeński; (p.) przychylny; (p.) przyjacielski; (p.) przyjazny; (p.) życzliwy
+[friendship]friendship (EN) : (rz.) przyjaźń
+[frieze]frieze (EN) : (rz.) fryz; (rz.) fryza; (rz.) ratyna
+[friezing]friezing (EN) : (rz.) kędzierzawienie
+[frigate]frigate (EN) : (rz.) fregata
+[fright]fright (EN) : (rz.) czupiradło; (rz.) koczkodan; (rz.) maszkara; (rz.) paskudnik; (rz.) przestrach; (rz.) strach; (rz.) trema; (rz.) trwoga
+[frighten]frighten (EN) : (cz.) nastraszyć; (cz.) postraszyć; (cz.) przepłoszyć; (cz.) przerażać; (cz.) przerazić; (cz.) przestraszyć; (cz.) straszyć; (cz.) trwożyć; (cz.) wystraszyć; (cz.) zastraszyć
+[frightened]frightened (EN) : (p.) przestraszony
+[frightening]frightening (EN) : (p.) przerażający; (p.) straszliwy; (p.) straszny
+[frighteningly]frighteningly (EN) : (p-sł.) zastraszająco
+[frightful]frightful (EN) : (p.) przeraźliwy; (p.) straszny
+[frightfully]frightfully (EN) : (p-sł.) przerażająco; (p-sł.) strasznie
+[frigid]frigid (EN) : (p.) chłodny; (p.) oziębły; (p.) zimny
+[frigidity]frigidity (EN) : (rz.) lodowatość; (rz.) oziębłość
+[frigidness]frigidness (EN) : (rz.) chłód; (rz.) lodowatość; (rz.) oziębłość
+[frill]frill (EN) : (rz.) falbana; (rz.) falbanka; (rz.) kreza; (rz.) żabot; (rz.) zbytek
+[fringe]fringe (EN) : (rz.) frędzel; (rz.) grzywka; (rz.) krawędź; (rz.) krepina; (rz.) lamówka; (rz.) obramowanie; (rz.) pobrzeże; (rz.) rąbek
+[fringes]fringes (EN) : (rz.) pobrzeże
+[frisk]frisk (EN) : (cz.) harcować; (cz.) machać; (cz.) obszukać; (cz.) obszukiwać; (cz.) przeszukiwać; (rz.) sus
+[friskily]friskily (EN) : (p-sł.) swawolnie
+[friskiness]friskiness (EN) : (rz.) swawolność
+[frisky]frisky (EN) : (p.) swawolny
+[frit]frit (EN) : (cz.) spiekać
+[fritillary]fritillary (EN) : (rz.) korona
+[fritter]fritter (EN) : (rz.) kawałek; (rz.) racuch; (rz.) rozdrobnienie
+[frivolity]frivolity (EN) : (rz.) błahość; (rz.) lekkomyślność; (rz.) pustota
+[frivolous]frivolous (EN) : (p.) bezmyślny; (p.) błahy; (p.) frywolny; (p.) lekkomyślny; (p.) niepoważny
+[frivolously]frivolously (EN) : (p-sł.) frywolnie
+[frizz]frizz (EN) : (cz.) fryzować; (cz.) kręcić
+[frizzle]frizzle (EN) : (cz.) usmażyć
+[frizzy]frizzy (EN) : (p.) kędzierzawy
+[frock]frock (EN) : (rz.) habit; (rz.) odzież; (rz.) sukienka; (rz.) suknia
+[frock-coat]frock-coat (EN) : (rz.) anglez
+[froe]froe (EN) : (rz.) sukienka
+[frog]frog (EN) : (rz.) krzyżownica; (rz.) żaba
+[frogman]frogman (EN) : (rz.) płetwonurek
+[frogspawn]frogspawn (EN) : (rz.) skrzek
+[frolic]frolic (EN) : (cz.) baraszkować; (cz.) bisurmanić; (cz.) dokazywać; (cz.) pofiglować; (cz.) pohasać; (cz.) swawolić; (p.) figlarny; (p.) swawolny; (rz.) igraszka; (rz.) swawola; (rz.) zabawa
+[frolics]frolics (EN) : (rz.) swawola; (rz.) swawolenie
+[frolicsome]frolicsome (EN) : (p.) figlarny; (p.) filuterny
+[from]from (EN) : (p-im.) od; (p-im.) spod; (p-im.) spośród; (p-im.) według; (p-im.) z; (p-im.) ze
+[frond]frond (EN) : (rz.) listek
+[frondescence]frondescence (EN) : (rz.) listowie
+[front]front (EN) : (rz.) czoło; (rz.) fasada; (rz.) front; (rz.) przód
+[front-end]front-end (EN) : (p.) komunikacyjny; (p.) wysunięty
+[front-page]front-page (EN) : (p.) tytułowy
+[frontage]frontage (EN) : (rz.) położenie
+[frontal]frontal (EN) : (p.) czołowy; (p.) frontalny
+[frontier]frontier (EN) : (rz.) granica
+[frontispiece]frontispiece (EN) : (rz.) fasada; (rz.) fronton
+[frontlet]frontlet (EN) : (rz.) łeb; (rz.) przepaska
+[fronton]fronton (EN) : (rz.) fronton
+[frosh]frosh (EN) : (rz.) fryc; (rz.) nowicjusz
+[frost]frost (EN) : (rz.) mróz; (rz.) przymrozek; (rz.) szron
+[frost-bite]frost-bite (EN) : (rz.) odmrożenie
+[frost-cleft]frost-cleft (EN) : (rz.) przemarzlina
+[frost-proof]frost-proof (EN) : (p.) mrozoodporny
+[frost-work]frost-work (EN) : (rz.) mróz
+[frostbite]frostbite (EN) : (rz.) odmrożenie
+[frostbitten]frostbitten (EN) : (p.) odmrożony
+[frosted]frosted (EN) : (p.) matowy
+[frostily]frostily (EN) : (p-sł.) mroźno
+[frostiness]frostiness (EN) : (rz.) lodowatość; (rz.) oziębłość
+[frosting]frosting (EN) : (rz.) kostkowanie; (rz.) lukier; (rz.) mazerowanie; (rz.) mrożenie; (rz.) oszronienie
+[frostwork]frostwork (EN) : (rz.) mróz
+[frosty]frosty (EN) : (p.) lodowaty; (p.) mroźny
+[froth]froth (EN) : (cz.) mydlić; (cz.) pienić; (rz.) piana; (rz.) pianka
+[frothiness]frothiness (EN) : (rz.) pustosłowie
+[frothy]frothy (EN) : (p.) pienisty
+[frown]frown (EN) : (cz.) boczyć; (cz.) chmurzyć; (cz.) marszczyć; (rz.) zmarszczenie
+[frowsty]frowsty (EN) : (p.) duszny
+[frowzy]frowzy (EN) : (p.) duszny; (p.) niechlujny
+[fructiferous]fructiferous (EN) : (p.) owoconośny
+[fructification]fructification (EN) : (rz.) owocnik; (rz.) owocowanie
+[fructify]fructify (EN) : (cz.) owocować; (cz.) zaowocować
+[fructose]fructose (EN) : (rz.) fruktoza
+[frugal]frugal (EN) : (p.) oszczędny; (p.) prosty; (p.) zbawienny
+[frugality]frugality (EN) : (rz.) oszczędność; (rz.) skromność
+[frugally]frugally (EN) : (p-sł.) oszczędnie; (p-sł.) skromnie
+[fruit]fruit (EN) : (cz.) owocować; (rz.) owoc; (rz.) płód
+[fruit-bearing]fruit-bearing (EN) : (rz.) owocowanie
+[fruit-cake]fruit-cake (EN) : (rz.) placek
+[fruitage]fruitage (EN) : (rz.) owoc; (rz.) owocowanie
+[fruitcake]fruitcake (EN) : (rz.) placek
+[fruitful]fruitful (EN) : (p.) owocny; (p.) owocujący; (p.) płodny; (p.) żyzny
+[fruitfully]fruitfully (EN) : (p-sł.) owocnie
+[fruition]fruition (EN) : (rz.) realizacja; (rz.) spełnienie; (rz.) urzeczywistnienie
+[fruitless]fruitless (EN) : (p.) bezowocny; (p.) niepłodny
+[fruitlessly]fruitlessly (EN) : (p-sł.) bezowocnie
+[fruitlessness]fruitlessness (EN) : (rz.) bezowocność
+[fruity]fruity (EN) : (p.) owocowy
+[frumpish]frumpish (EN) : (p.) brzydki; (p.) nieatrakcyjny; (p.) niemodny
+[frumpy]frumpy (EN) : (p.) brzydki; (p.) nieatrakcyjny; (p.) niemodny
+[frustrate]frustrate (EN) : (cz.) frustrować; (cz.) krzyżować; (cz.) rozchwiać; (cz.) sfrustrować; (cz.) udaremniać; (cz.) udaremnić; (cz.) zawieść; (cz.) zniweczyć
+[frustrated]frustrated (EN) : (p.) sfrustrowany
+[frustration]frustration (EN) : (rz.) daremność; (rz.) fiasko; (rz.) frustracja; (rz.) sfrustrowanie; (rz.) udaremnienie; (rz.) unicestwienie; (rz.) zdenerwowanie; (rz.) złość
+[fry]fry (EN) : (cz.) przesmażyć; (cz.) przysmażać; (cz.) przysmażyć; (cz.) skwarzyć; (cz.) smażyć; (cz.) usmażyć; (rz.) narybek; (rz.) wycier; (rz.) zarybek
+[fryer]fryer (EN) : (rz.) frytkownica
+[frying-pan]frying-pan (EN) : (rz.) brytfanna; (rz.) patelnia
+[fubsy]fubsy (EN) : (p.) gruby; (p.) pękaty
+[fuchsia]fuchsia (EN) : (rz.) fuksja
+[fuck]fuck (EN) : (cz.) jebać; (cz.) odpieprzyć; (cz.) pieprzyć; (cz.) pierdolić
+[fuddle]fuddle (EN) : (cz.) odurzać; (rz.) biba; (rz.) zamroczenie
+[fuddy-duddy]fuddy-duddy (EN) : (rz.) wapniak
+[fudge]fudge (EN) : (cz.) spartaczyć; (rz.) nonsens
+[fuel]fuel (EN) : (cz.) podsycać; (cz.) podsycić; (cz.) tankować; (rz.) bunkier; (rz.) opał; (rz.) paliwo
+[fuelling]fuelling (EN) : (rz.) podsycanie; (rz.) podsycenie; (rz.) tankowanie
+[fuels]fuels (EN) : (rz.) podsycanie; (rz.) podsycenie
+[fug]fug (EN) : (rz.) zaduch
+[fugacious]fugacious (EN) : (p.) przelotny
+[fugacity]fugacity (EN) : (rz.) fugatywność; (rz.) lotność
+[fuggy]fuggy (EN) : (p.) duszny
+[fugitive]fugitive (EN) : (p.) przelotny; (p.) zbiegły; (rz.) nawał; (rz.) uciekinier; (rz.) zbieg
+[fugue]fugue (EN) : (rz.) fuga
+[fulfil]fulfil (EN) : (cz.) spełniać; (cz.) spełnić; (cz.) wykonać; (cz.) wykonywać; (cz.) zaspokajać
+[fulfilment]fulfilment (EN) : (rz.) spełnienie; (rz.) wykonanie
+[fuliginous]fuliginous (EN) : (p.) ciemny
+[full]full (EN) : (p.) kompletny; (p.) pełen; (p.) pełnoetatowy; (p.) pełnoprawny; (p.) pełnowartościowy; (p.) pełny
+[full-bodied]full-bodied (EN) : (p.) wytrawny; (p.) zażywny
+[full-cheeked]full-cheeked (EN) : (p.) pyzaty
+[full-cloth]full-cloth (EN) : (rz.) płótno
+[full-dress]full-dress (EN) : (p.) wieczorowy
+[full-duplex]full-duplex (EN) : (p.) dupleksowy
+[full-ended]full-ended (EN) : (p.) pełny
+[full-featured]full-featured (EN) : (p.) profesjonalny
+[full-page]full-page (EN) : (p.) całostronicowy
+[full-time]full-time (EN) : (p.) pełnoetatowy
+[fuller]fuller (EN) : (rz.) folusznik; (rz.) pilśniarz
+[fullness]fullness (EN) : (rz.) obfitość; (rz.) pełnia; (rz.) pełność
+[fulltime]fulltime (EN) : (p.) etatowy; (p.) pełnoetatowy
+[fully]fully (EN) : (p-sł.) całkowicie; (p-sł.) dokładnie; (p-sł.) pełno; (p-sł.) wyczerpująco
+[fully-fledged]fully-fledged (EN) : (p.) pełnowartościowy
+[fulmar]fulmar (EN) : (rz.) fulmar
+[fulminate]fulminate (EN) : (cz.) grzmieć
+[fulsome]fulsome (EN) : (p.) lokajski; (p.) niesmaczny; (p.) przesadny; (p.) wylewny
+[fulvous]fulvous (EN) : (p.) płowy
+[fumble]fumble (EN) : (cz.) chwycić; (cz.) chwytać; (cz.) gmerać; (cz.) grzebać; (cz.) szperać; (cz.) trzymać
+[fume]fume (EN) : (cz.) dymić; (cz.) żołądkować; (rz.) dym; (rz.) dymek; (rz.) opar; (rz.) wybuch
+[fumigant]fumigant (EN) : (rz.) fumigant
+[fumigate]fumigate (EN) : (cz.) odymić
+[fumigation]fumigation (EN) : (rz.) fumigacja; (rz.) odkażanie; (rz.) odymianie; (rz.) okadzenie; (rz.) zadymianie
+[fumitory]fumitory (EN) : (rz.) dymnica
+[fun]fun (EN) : (rz.) frajda; (rz.) heca; (rz.) ubaw; (rz.) uciecha; (rz.) wesołość; (rz.) zabawa
+[funambulist]funambulist (EN) : (rz.) linoskoczek
+[function]function (EN) : (cz.) działać; (cz.) funkcjonować; (rz.) działanie; (rz.) funkcja; (rz.) możliwość; (rz.) zadanie
+[functional]functional (EN) : (p.) czynnościowy; (p.) funkcjonalny; (p.) funkcyjny
+[functionalism]functionalism (EN) : (rz.) funkcjonalizm
+[functionalities]functionalities (EN) : (rz.) funkcjonalność
+[functionality]functionality (EN) : (rz.) funkcjonalizm; (rz.) funkcjonalność; (rz.) zespół; (rz.) zestaw
+[functionally]functionally (EN) : (p-sł.) funkcjonalnie; (p-sł.) funkcyjnie
+[functionary]functionary (EN) : (rz.) funkcjonariusz
+[fund]fund (EN) : (cz.) finansować; (rz.) fundusz; (rz.) kasa
+[fundamental]fundamental (EN) : (p.) fundamentalny; (p.) istotny; (p.) kapitalny; (p.) kardynalny; (p.) podstawowy; (p.) pryncypialny; (p.) zasadniczy; (rz.) funda; (rz.) podstawa; (rz.) zasada
+[fundamentalism]fundamentalism (EN) : (rz.) fundamentalizm
+[fundamentalist]fundamentalist (EN) : (rz.) fundamentalista
+[fundamentally]fundamentally (EN) : (p-sł.) zasadniczo
+[funding]funding (EN) : (rz.) finansowanie; (rz.) konsolidacja
+[funeral]funeral (EN) : (p.) karawaniarski; (p.) pogrzebowy; (rz.) pogrzeb; (rz.) pogrzebowe
+[funerary]funerary (EN) : (p.) pogrzebowy
+[funereal]funereal (EN) : (p.) pogrzebowy; (p.) przedpogrzebowy; (p.) żałobny
+[fungal]fungal (EN) : (p.) grzybowy
+[fungible]fungible (EN) : (p.) zamienny
+[fungicidal]fungicidal (EN) : (p.) grzybobójczy
+[fungicide]fungicide (EN) : (rz.) fungicyd
+[fungous]fungous (EN) : (p.) grzybowy
+[fungus]fungus (EN) : (rz.) grzyb
+[funicular]funicular (EN) : (p.) linowy
+[funk]funk (EN) : (cz.) stchórzyć; (rz.) strach; (rz.) tchórz
+[funky]funky (EN) : (p.) nowoczesny; (p.) tchórzliwy
+[funnel]funnel (EN) : (rz.) komin; (rz.) lej; (rz.) leja; (rz.) lejek; (rz.) maszyna
+[funnel-shaped]funnel-shaped (EN) : (p.) lejkowaty
+[funnily]funnily (EN) : (p-sł.) dziwnie; (p-sł.) humorystycznie; (p-sł.) komicznie; (p-sł.) zabawnie
+[funny]funny (EN) : (p.) dziwny; (p.) pocieszny; (p.) śmieszny; (p.) ucieszny; (p.) wesoły; (p.) zabawny
+[fur]fur (EN) : (rz.) futerko; (rz.) futro; (rz.) kamień; (rz.) nalot; (rz.) sierść
+[furbelow]furbelow (EN) : (rz.) falbana; (rz.) falbanka
+[furbish]furbish (EN) : (cz.) polerować; (cz.) wypolerować; (cz.) wypucować
+[furfuran]furfuran (EN) : (rz.) furan
+[furious]furious (EN) : (p.) wściekły; (p.) zaciekły
+[furiously]furiously (EN) : (p-sł.) szaleńczo
+[furl]furl (EN) : (cz.) składać; (cz.) zwijać; (rz.) zwitek
+[furlong]furlong (EN) : (rz.) miara
+[furlough]furlough (EN) : (rz.) ferie; (rz.) urlop; (rz.) wakacje
+[furnace]furnace (EN) : (rz.) palenisko; (rz.) piec
+[furnish]furnish (EN) : (cz.) dostarczać; (cz.) meblować; (cz.) urządzać; (cz.) wyposażać; (cz.) zaopatrywać
+[furnished]furnished (EN) : (p.) umeblowany
+[furnisher]furnisher (EN) : (rz.) dostawca
+[furnishings]furnishings (EN) : (rz.) meble; (rz.) umeblowanie; (rz.) urządzenie; (rz.) wyposażenie
+[furniture]furniture (EN) : (rz.) mebel; (rz.) meblarstwo; (rz.) meble; (rz.) sztabik; (rz.) umeblowanie
+[furore]furore (EN) : (rz.) furora; (rz.) wściekłość
+[furrier]furrier (EN) : (rz.) futrzarz; (rz.) kożusznik; (rz.) kuśnierz
+[furriery]furriery (EN) : (rz.) futrzarstwo; (rz.) kuśnierstwo
+[furriness]furriness (EN) : (rz.) puszystość
+[furrow]furrow (EN) : (cz.) orać; (rz.) bruzda
+[furrower]furrower (EN) : (rz.) obsypnik
+[furry]furry (EN) : (p.) futrzany
+[further]further (EN) : (cz.) pomagać; (cz.) popierać; (p.) dodatkowy; (p-sł.) daleko
+[furtherance]furtherance (EN) : (rz.) wspomożenie
+[furtive]furtive (EN) : (p.) potajemny; (p.) tajemny; (p.) ukradkowy
+[furtively]furtively (EN) : (p-sł.) ukradkiem; (p-sł.) ukradkowo
+[furuncle]furuncle (EN) : (rz.) czyrak; (rz.) furunkuł
+[fury]fury (EN) : (rz.) furia; (rz.) pasja; (rz.) szał; (rz.) wściekłość; (rz.) zacietrzewienie
+[furze]furze (EN) : (rz.) janowiec
+[fuscous]fuscous (EN) : (p.) ciemny
+[fuse]fuse (EN) : (cz.) amalgamować; (cz.) roztapiać; (cz.) stapiać; (cz.) stopić; (cz.) suszyć; (cz.) topić; (rz.) bezpiecznik; (rz.) korek; (rz.) lamelka; (rz.) lont; (rz.) zapalnik
+[fuse-link]fuse-link (EN) : (rz.) topik
+[fusel]fusel (EN) : (rz.) fuzel
+[fuselage]fuselage (EN) : (rz.) kadłub; (rz.) płatowiec
+[fuser]fuser (EN) : (rz.) nagrzewnica
+[fusibility]fusibility (EN) : (rz.) topliwość
+[fusible]fusible (EN) : (p.) łatwopalny; (p.) niskotopliwy; (p.) topliwy
+[fusillade]fusillade (EN) : (rz.) ostrzał
+[fusion]fusion (EN) : (rz.) fuzja; (rz.) połączenie; (rz.) spawanie; (rz.) stapianie; (rz.) stopienie; (rz.) synteza; (rz.) topienie; (rz.) wtop; (rz.) wtopienie; (rz.) zlanie
+[fuss]fuss (EN) : (cz.) certować; (cz.) cudować; (rz.) awantura; (rz.) ceregiele; (rz.) hałas; (rz.) krzątanina; (rz.) rwetes; (rz.) zamieszanie
+[fussbudget]fussbudget (EN) : (rz.) kołtun
+[fussily]fussily (EN) : (p-sł.) kapryśnie; (p-sł.) pretensjonalnie
+[fussiness]fussiness (EN) : (rz.) awanturnictwo; (rz.) awanturniczość
+[fussy]fussy (EN) : (p.) drobiazgowy; (p.) grymaśny; (p.) hałaśliwy; (p.) kapryśny; (p.) małostkowy; (p.) niespokojny; (p.) staranny; (p.) wybredny; (p.) zrzędny
+[fustian]fustian (EN) : (p.) barchanowy; (rz.) barchan
+[fustiness]fustiness (EN) : (rz.) stęchlizna
+[fusty]fusty (EN) : (p.) stęchły; (p.) zaściankowy
+[futile]futile (EN) : (p.) bezowocny; (p.) błahy; (p.) czczy; (p.) daremny; (p.) nadaremny; (p.) nierzeczowy; (p.) powierzchowny; (p.) próżny
+[futilely]futilely (EN) : (p-sł.) daremnie
+[futility]futility (EN) : (rz.) bezowocność; (rz.) czczość; (rz.) daremność; (rz.) marność
+[future]future (EN) : (p.) przyszłościowy; (p.) przyszły; (rz.) przyszłość
+[futurism]futurism (EN) : (rz.) futuryzm
+[futurist]futurist (EN) : (rz.) futurysta
+[futuristic]futuristic (EN) : (p.) futurystyczny
+[futurity]futurity (EN) : (rz.) przyszłość
+[futurology]futurology (EN) : (rz.) futurologia
+[fuzz]fuzz (EN) : (rz.) czupryna; (rz.) meszek; (rz.) puch; (rz.) puszek
+[fuzz-ball]fuzz-ball (EN) : (rz.) purchawka
+[fuzzily]fuzzily (EN) : (p-sł.) mdło
+[fuzziness]fuzziness (EN) : (rz.) kędzierzawość
+[fuzzy]fuzzy (EN) : (p.) kędzierzawy; (p.) nieostry; (p.) postrzępiony; (p.) wątpliwy
+[fylfot]fylfot (EN) : (rz.) swastyka

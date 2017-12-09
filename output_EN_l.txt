@@ -1,0 +1,1132 @@
+[laura]Laura (EN) : (rz.) Laura
+[leninism]Leninism (EN) : (rz.) leninizm
+[leo]Leo (EN) : (rz.) Leon; (rz.) lew
+[libra]Libra (EN) : (rz.) waga
+[lilliputian]Lilliputian (EN) : (rz.) liliput
+[lilly]Lilly (EN) : (rz.) Liliana
+[lucas]Lucas (EN) : (rz.) Łukasz
+[lucy]Lucy (EN) : (rz.) Łucja
+[luke]Luke (EN) : (rz.) Łukasz
+[lutheranism]Lutheranism (EN) : (rz.) luteranizm
+[lysol]Lysol (EN) : (rz.) lizol
+[lab]lab (EN) : (rz.) laboratorium; (rz.) pracownia
+[labefaction]labefaction (EN) : (rz.) osłabienie; (rz.) upadek
+[label]label (EN) : (cz.) etykietować; (cz.) metkować; (cz.) oznakowywać; (rz.) etykieta; (rz.) etykietka; (rz.) kartka; (rz.) kwalifikator; (rz.) metka; (rz.) naklejka; (rz.) nalepka; (rz.) oznakowanie; (rz.) wytwórnia
+[labeller]labeller (EN) : (rz.) etykieciarka
+[labelling]labelling (EN) : (rz.) etykietowanie; (rz.) znakowanie
+[labial]labial (EN) : (p.) wargowy
+[labile]labile (EN) : (p.) chwiejny; (p.) labilny; (p.) nietrwały; (p.) zmienny
+[labium]labium (EN) : (rz.) warga
+[laboratory]laboratory (EN) : (p.) laboratoryjny; (rz.) laborant; (rz.) laboratorium; (rz.) pracownia
+[laborious]laborious (EN) : (p.) mozolny; (p.) pilny; (p.) pracochłonny; (p.) pracowity; (p.) wypracowany; (p.) żmudny
+[laboriously]laboriously (EN) : (p-sł.) mozolnie; (p-sł.) pracowicie
+[laboriousness]laboriousness (EN) : (rz.) pracowitość
+[labour]labour (EN) : (rz.) ból; (rz.) poród; (rz.) praca; (rz.) robocizna; (rz.) robota
+[labour-consuming]labour-consuming (EN) : (p.) pracochłonny
+[labourer]labourer (EN) : (rz.) robotnik; (rz.) wyrobnik
+[labourite]labourite (EN) : (rz.) laburzysta
+[laburnum]laburnum (EN) : (rz.) złotokap
+[labyrinth]labyrinth (EN) : (rz.) błędnik; (rz.) labirynt
+[labyrinthine]labyrinthine (EN) : (p.) błędnikowy; (p.) labiryntowy
+[lace]lace (EN) : (cz.) obszyć; (cz.) sznurować; (cz.) zasznurować; (rz.) koronka; (rz.) sznur; (rz.) sznurowadło; (rz.) sznurówka
+[lace-making]lace-making (EN) : (rz.) koronkarstwo
+[lacerate]lacerate (EN) : (cz.) dręczyć; (cz.) podrzeć; (cz.) potargać; (cz.) ranić; (cz.) rozdzierać; (cz.) rozrywać; (cz.) rwać; (cz.) szarpać
+[laceration]laceration (EN) : (rz.) poszarpanie; (rz.) rana
+[lachrymal]lachrymal (EN) : (p.) łzowy
+[lachrymator]lachrymator (EN) : (rz.) lakrymator
+[lacing]lacing (EN) : (rz.) koronka; (rz.) marlinka; (rz.) przewiązka; (rz.) spinanie; (rz.) sznurowadło; (rz.) sznurowanie; (rz.) wyszywanie; (rz.) zasznurowanie; (rz.) zszywanie
+[lack]lack (EN) : (cz.) brakować; (rz.) brak; (rz.) niedostatek
+[lack-lustre]lack-lustre (EN) : (p.) matowy
+[lackadaisical]lackadaisical (EN) : (p.) apatyczny; (p.) czułostkowy
+[lackey]lackey (EN) : (rz.) lokaj; (rz.) sługus; (rz.) służalec
+[lackey's]lackey's (EN) : (p.) lokajski
+[lacklustre]lacklustre (EN) : (p.) matowy
+[laconic]laconic (EN) : (p.) lakoniczny; (p.) zwięzły
+[laconically]laconically (EN) : (p-sł.) lakonicznie
+[lacquer]lacquer (EN) : (cz.) lakierować; (rz.) laka; (rz.) lakier; (rz.) pokost
+[lactase]lactase (EN) : (rz.) laktaza
+[lactate]lactate (EN) : (rz.) mleczan
+[lactation]lactation (EN) : (rz.) laktacja; (rz.) mleczność
+[lacteal]lacteal (EN) : (p.) mleczny
+[lactic]lactic (EN) : (p.) mleczny; (p.) mlekowy
+[lactiferous]lactiferous (EN) : (p.) mleczny
+[lactometer]lactometer (EN) : (rz.) laktodensymetr; (rz.) laktometr
+[lactose]lactose (EN) : (rz.) laktoza
+[lacuna]lacuna (EN) : (rz.) jama
+[lacy]lacy (EN) : (p.) koronkowy
+[lad]lad (EN) : (rz.) chłopak; (rz.) chłopiec; (rz.) młodzian; (rz.) młodzieniec
+[ladder]ladder (EN) : (rz.) drabina; (rz.) drabinka; (rz.) oczko
+[ladder-mending]ladder-mending (EN) : (rz.) repasacja
+[lade]lade (EN) : (cz.) ładować; (cz.) władować
+[laden]laden (EN) : (p.) naładowany; (p.) pogrążony
+[ladies']ladies' (EN) : (p.) damski
+[lading]lading (EN) : (rz.) ładunek; (rz.) załadowanie
+[ladle]ladle (EN) : (rz.) chochla; (rz.) czerpak; (rz.) kadź; (rz.) kopyść; (rz.) warząchew; (rz.) warzecha
+[lady]lady (EN) : (rz.) dama
+[lady-killer]lady-killer (EN) : (rz.) kobieciarz; (rz.) podrywacz
+[lady-love]lady-love (EN) : (rz.) flama
+[ladybird]ladybird (EN) : (rz.) biedronka
+[ladybug]ladybug (EN) : (rz.) biedronka
+[ladylike]ladylike (EN) : (p.) dystyngowany; (p.) wytworny
+[laevorotation]laevorotation (EN) : (rz.) lewoskrętność
+[laevorotatory]laevorotatory (EN) : (p.) lewoskrętny
+[laevulose]laevulose (EN) : (rz.) lewuloza
+[lag]lag (EN) : (cz.) obandażować; (cz.) opóźniać; (cz.) zwlekać; (rz.) opóźnienie; (rz.) otulina; (rz.) zesłaniec; (rz.) zwłoka
+[laggard]laggard (EN) : (p.) ospały; (p.) powolny; (p.) spóźnialski; (rz.) guzdrała; (rz.) maruder; (rz.) opieszalec
+[lagoon]lagoon (EN) : (rz.) laguna; (rz.) zalew
+[laic]laic (EN) : (p.) świecki
+[laicize]laicize (EN) : (cz.) laicyzować; (cz.) zeświecczać; (cz.) zlaicyzować
+[laid]laid (EN) : (cz.) nakrywać
+[lair]lair (EN) : (rz.) koczowisko; (rz.) kryjówka; (rz.) legowisko; (rz.) szałas
+[laird]laird (EN) : (rz.) dziedzic; (rz.) ziemianin
+[lake]lake (EN) : (rz.) jeziorko; (rz.) jezioro; (rz.) pojezierze
+[lam]lam (EN) : (cz.) chłostać
+[lama]lama (EN) : (rz.) mnich
+[lamb]lamb (EN) : (rz.) baranek; (rz.) baranina; (rz.) jagnię; (rz.) jagnięcina; (rz.) roszponka
+[lambaste]lambaste (EN) : (cz.) besztać; (cz.) młócić
+[lambent]lambent (EN) : (p.) migotliwy
+[lambkin]lambkin (EN) : (rz.) jagniątko
+[lambrequin]lambrequin (EN) : (rz.) lambrekin
+[lambskin]lambskin (EN) : (rz.) baranek
+[lame]lame (EN) : (cz.) okaleczyć; (cz.) okulawiać; (cz.) okulawić; (p.) beznogi; (p.) chromy; (p.) kaleki; (p.) kiepski; (p.) kulawy; (p.) lichy; (p.) niepełny; (p.) słaby; (p.) ułomny; (p.) wadliwy
+[lamella]lamella (EN) : (rz.) blaszka; (rz.) lamela
+[lamely]lamely (EN) : (p-sł.) kulawo; (p-sł.) nieprzekonująco
+[lameness]lameness (EN) : (rz.) chromanie; (rz.) ułomność
+[lament]lament (EN) : (cz.) lamentować; (cz.) opłakiwać; (cz.) ubolewać; (rz.) lament; (rz.) skarga
+[lamentable]lamentable (EN) : (p.) opłakany; (p.) żałosny
+[lamentation]lamentation (EN) : (rz.) lament; (rz.) lamentacja; (rz.) narzekanie
+[lamentations]lamentations (EN) : (rz.) biadolenie; (rz.) zawodzenie
+[lamina]lamina (EN) : (rz.) blaszka
+[laminar]laminar (EN) : (p.) blaszkowaty; (p.) laminarny
+[laminate]laminate (EN) : (cz.) laminować
+[lamination]lamination (EN) : (rz.) laminowanie; (rz.) łupanie; (rz.) rozwarstwienie; (rz.) uwarstwienie
+[laminitis]laminitis (EN) : (rz.) ochwat
+[lamp]lamp (EN) : (rz.) lampa; (rz.) lampka; (rz.) latarnia
+[lamp-shade]lamp-shade (EN) : (rz.) abażur
+[lampion]lampion (EN) : (rz.) lampion
+[lampoon]lampoon (EN) : (cz.) ośmieszać; (rz.) pamflet; (rz.) paszkwil
+[lampooner]lampooner (EN) : (rz.) pamflecista; (rz.) paszkwilant
+[lamprey]lamprey (EN) : (rz.) minóg
+[lampshade]lampshade (EN) : (rz.) abażur; (rz.) klosz
+[lanai]lanai (EN) : (rz.) weranda
+[lance]lance (EN) : (rz.) broń; (rz.) kopia; (rz.) lanca
+[lancelet]lancelet (EN) : (rz.) lancetnik
+[lancer]lancer (EN) : (rz.) lansjer; (rz.) ułan
+[lancet]lancet (EN) : (rz.) łańcuszek
+[land]land (EN) : (cz.) lądować; (cz.) wylądować; (cz.) wyładować; (cz.) wyładowywać; (cz.) zsiadać; (rz.) budownictwo; (rz.) grunt; (rz.) kraina; (rz.) kraj; (rz.) ląd; (rz.) lądowe; (rz.) teren; (rz.) wieś; (rz.) wyładowywanie; (rz.) ziemia
+[land-based]land-based (EN) : (p.) lądowy
+[land-measuring]land-measuring (EN) : (rz.) miernictwo
+[landau]landau (EN) : (rz.) landara; (rz.) lando
+[landed]landed (EN) : (p.) obszarniczy; (p.) twardy; (p.) ziemski
+[landfall]landfall (EN) : (rz.) lądowisko; (rz.) wybrzeże; (rz.) wylądowanie
+[landfill]landfill (EN) : (rz.) składowisko; (rz.) wysypisko
+[landing]landing (EN) : (rz.) desant; (rz.) lądowanie; (rz.) podest; (rz.) półpiętro; (rz.) spocznik; (rz.) wyładunek; (rz.) zeskok
+[landing-place]landing-place (EN) : (rz.) przystań
+[landless]landless (EN) : (p.) bezrolny
+[landlocked]landlocked (EN) : (p.) śródlądowy
+[landlord]landlord (EN) : (rz.) gospodarz; (rz.) obszarnik; (rz.) właściciel; (rz.) ziemianin
+[landmark]landmark (EN) : (rz.) słup
+[landmass]landmass (EN) : (rz.) ląd
+[landmine]landmine (EN) : (rz.) mina
+[landowner]landowner (EN) : (rz.) obszarnik; (rz.) ziemianin
+[landrail]landrail (EN) : (rz.) derkacz
+[landscape]landscape (EN) : (cz.) projektować; (rz.) krajobraz; (rz.) pejzaż
+[landslide]landslide (EN) : (rz.) obsunięcie; (rz.) osuwisko; (rz.) zsuw
+[landslides]landslides (EN) : (rz.) osuwanie
+[landslip]landslip (EN) : (rz.) obsuwisko; (rz.) osuwisko; (rz.) usuwisko; (rz.) zsuw
+[lane]lane (EN) : (rz.) aleja; (rz.) alejka; (rz.) droga; (rz.) dróżka; (rz.) drożyna; (rz.) ścieżka; (rz.) tor; (rz.) uliczka; (rz.) zaułek
+[language]language (EN) : (rz.) jeżyk; (rz.) język; (rz.) mowa; (rz.) styl
+[languid]languid (EN) : (p.) apatyczny; (p.) leniwy; (p.) osłabiony; (p.) powolny; (p.) znużony; (p.) zwiędły
+[languidly]languidly (EN) : (p-sł.) omdlewająco
+[languidness]languidness (EN) : (rz.) ospałość
+[languish]languish (EN) : (cz.) marnieć; (cz.) obumierać; (cz.) omdleć; (cz.) omdlewać; (cz.) słabnąć; (cz.) tęsknić; (cz.) więdnąć
+[languishment]languishment (EN) : (rz.) obumieranie
+[languor]languor (EN) : (rz.) apatyczność; (rz.) omdlenie; (rz.) osłabienie; (rz.) rozmarzenie; (rz.) znużenie
+[languorous]languorous (EN) : (p.) powolny; (p.) tęskny
+[laniary]laniary (EN) : (rz.) kieł
+[lank]lank (EN) : (p.) chudy
+[lanky]lanky (EN) : (p.) chudy
+[lanner]lanner (EN) : (rz.) raróg
+[lanolin]lanolin (EN) : (rz.) lanolina
+[lanoline]lanoline (EN) : (rz.) lanolina
+[lansquenet]lansquenet (EN) : (rz.) lancknecht
+[lantern]lantern (EN) : (rz.) latarnia
+[lanthanide]lanthanide (EN) : (rz.) lantanowiec
+[lanthanum]lanthanum (EN) : (rz.) lantan
+[lanyard]lanyard (EN) : (rz.) cięgiel; (rz.) talrep
+[lap]lap (EN) : (cz.) chłeptać; (cz.) chlipać; (cz.) chlupać; (cz.) mlaskać; (cz.) objąć; (cz.) opłukiwać; (cz.) otoczyć; (cz.) pluskać; (cz.) siorbać; (cz.) zaleźć; (cz.) żłopać; (rz.) chlupot; (rz.) docierak; (rz.) etap; (rz.) łono; (rz.) międzyczas; (rz.) obieg; (rz.) okrążenie; (rz.) poła; (rz.) pomyje; (rz.) przykrycie; (rz.) przysłonięcie; (rz.) zakucie; (rz.) zawalcowanie; (rz.) zwój
+[laparoscopy]laparoscopy (EN) : (rz.) laparoskopia
+[lapel]lapel (EN) : (rz.) klapa; (rz.) wyłóg
+[lapful]lapful (EN) : (rz.) zanadrze
+[lapidary]lapidary (EN) : (p.) lapidarny
+[lapidate]lapidate (EN) : (cz.) ukamienować
+[lapin]lapin (EN) : (rz.) królik
+[lappet]lappet (EN) : (rz.) fałd; (rz.) płatek
+[lapse]lapse (EN) : (cz.) odpaść; (cz.) omylić; (cz.) opaść; (cz.) zaniedbać; (rz.) gradient; (rz.) lapsus; (rz.) okres; (rz.) omyłka; (rz.) opuszczenie; (rz.) przejęzyczenie; (rz.) przejście; (rz.) uchybienie; (rz.) upływ
+[laptop]laptop (EN) : (rz.) laptop
+[lapwing]lapwing (EN) : (rz.) czajka
+[larboard]larboard (EN) : (rz.) bakburta
+[larceny]larceny (EN) : (rz.) kradzież; (rz.) złodziejstwo
+[larch]larch (EN) : (rz.) modrzew
+[lard]lard (EN) : (cz.) naszpikować; (cz.) szpikować; (rz.) sadło; (rz.) słonina; (rz.) smalec
+[larder]larder (EN) : (rz.) spiżarnia; (rz.) śpiżarnia
+[large]large (EN) : (p.) duży; (p.) obfity; (p.) rozległy; (p.) szeroki; (p.) wielki; (p.) wielkoformatowy
+[large-hearted]large-hearted (EN) : (p.) wielkoduszny
+[largely]largely (EN) : (p-sł.) głównie; (p-sł.) walnie; (p-sł.) wielce; (p-sł.) wyraźnie
+[largeness]largeness (EN) : (rz.) grubość; (rz.) obfitość; (rz.) wielkość
+[largess]largess (EN) : (rz.) hojność; (rz.) szczodrość
+[largesse]largesse (EN) : (rz.) hojność; (rz.) szczodrość
+[lariat]lariat (EN) : (rz.) arkan; (rz.) lina
+[lark]lark (EN) : (cz.) brać; (cz.) figlować; (cz.) nabrać; (rz.) figiel; (rz.) kawał; (rz.) skowronek
+[larkspur]larkspur (EN) : (rz.) ostróżka
+[larrikin]larrikin (EN) : (rz.) chuligan
+[larrup]larrup (EN) : (cz.) młócić; (cz.) naparzać; (cz.) prać; (cz.) sprać
+[larva]larva (EN) : (rz.) larwa
+[larval]larval (EN) : (p.) larwalny
+[laryngeal]laryngeal (EN) : (p.) krtaniowy
+[laryngitis]laryngitis (EN) : (rz.) zapalenie
+[laryngologist]laryngologist (EN) : (rz.) laryngolog
+[laryngologists]laryngologists (EN) : (rz.) laryngolog
+[laryngoscope]laryngoscope (EN) : (rz.) laryngoskop
+[larynx]larynx (EN) : (rz.) krtań
+[lascar]lascar (EN) : (rz.) ind
+[lascivious]lascivious (EN) : (p.) lubieżny; (p.) pożądliwy; (p.) sprośny
+[lasciviousness]lasciviousness (EN) : (rz.) pożądliwość
+[laser]laser (EN) : (rz.) laser
+[lash]lash (EN) : (cz.) biczować; (cz.) chłostać; (cz.) osmagać; (cz.) smagać; (cz.) zagalopować; (rz.) bicz; (rz.) rzemień; (rz.) rzęsa; (rz.) smagnięcie
+[lashing]lashing (EN) : (rz.) chłosta; (rz.) dopinanie; (rz.) mocowanie; (rz.) wiązanie; (rz.) zatrzęsienie
+[lasing]lasing (EN) : (rz.) laserowanie
+[lass]lass (EN) : (rz.) dziewczątko; (rz.) dziewczę; (rz.) dziewczyna; (rz.) dziewczynka; (rz.) dziewuszka; (rz.) makolągwa; (rz.) panienka
+[lassie]lassie (EN) : (rz.) dziewczyna
+[lassitude]lassitude (EN) : (rz.) znużenie
+[last]last (EN) : (cz.) ciągać; (cz.) przetrwać; (cz.) starczyć; (cz.) trwać; (cz.) wystarczać; (cz.) wystarczyć; (p.) ostatni; (p.) poprzedni; (p-sł.) ostatnio
+[last-ditch]last-ditch (EN) : (p.) ostateczny; (p.) ostatni
+[last-minute]last-minute (EN) : (p.) ostatni
+[lasting]lasting (EN) : (p.) niezmienny; (p.) trwały
+[lastly]lastly (EN) : (p-sł.) wreszcie
+[latch]latch (EN) : (cz.) zatrzaskiwać; (rz.) klamka; (rz.) rygiel; (rz.) zapadka; (rz.) zatrzask; (rz.) zawora
+[latchet]latchet (EN) : (rz.) rzemyk
+[latchkey]latchkey (EN) : (rz.) klucz
+[late]late (EN) : (p.) niedawny; (p.) ostatni; (p.) poprzedni; (p.) późny; (p-sł.) późno
+[latecomer]latecomer (EN) : (rz.) spóźnienie
+[lately]lately (EN) : (p-sł.) niedawno; (p-sł.) ostatnio
+[latency]latency (EN) : (rz.) opóźnienie; (rz.) utajenie; (rz.) zwłoka
+[lateness]lateness (EN) : (rz.) niepunktualność; (rz.) spóźnienie
+[latent]latent (EN) : (p.) ukryty; (p.) utajony
+[later]later (EN) : (p.) późniejszy
+[lateral]lateral (EN) : (p.) boczny; (p.) poboczny; (p.) poprzeczny
+[laterally]laterally (EN) : (p-sł.) bocznie
+[latest]latest (EN) : (p.) najnowszy; (p.) najpóźniejszy
+[latex]latex (EN) : (rz.) lateks; (rz.) mleczko
+[lath]lath (EN) : (rz.) deszczułka; (rz.) łata; (rz.) listwa; (rz.) płyta
+[lathe]lathe (EN) : (rz.) krosno; (rz.) obrabiarka; (rz.) tokarka; (rz.) tokarnia
+[lather]lather (EN) : (cz.) mydlić; (cz.) pienić; (cz.) zapienić; (rz.) piana
+[lathing]lathing (EN) : (rz.) łatanie; (rz.) okręcanie; (rz.) toczenie
+[latitude]latitude (EN) : (rz.) swoboda; (rz.) szerokość
+[latria]latria (EN) : (rz.) kat
+[latrine]latrine (EN) : (rz.) kloaka; (rz.) latryna; (rz.) ustęp
+[latten]latten (EN) : (p.) mosiężny; (rz.) blacha; (rz.) mosiądz
+[latter]latter (EN) : (p.) drugi; (p.) nowszy; (p.) ostatni; (p.) późniejszy
+[latter-day]latter-day (EN) : (p.) współczesny
+[latterly]latterly (EN) : (p-sł.) ostatnio
+[lattice]lattice (EN) : (rz.) krata; (rz.) kratownica
+[lattice-work]lattice-work (EN) : (rz.) kratownica
+[latticework]latticework (EN) : (rz.) krata; (rz.) kratownica
+[laud]laud (EN) : (cz.) chwalić; (cz.) gloryfikować; (cz.) sławić; (cz.) wysławiać; (rz.) chwała
+[laudable]laudable (EN) : (p.) chwalebny
+[laudanum]laudanum (EN) : (rz.) laudanum
+[laugh]laugh (EN) : (cz.) naśmiać; (cz.) pośmiać; (cz.) roześmiać; (cz.) śmiać; (cz.) uśmiać; (cz.) wyśmiać; (rz.) śmiech
+[laughable]laughable (EN) : (p.) absurdalny; (p.) śmieszny; (p.) zabawny
+[laughing-stock]laughing-stock (EN) : (rz.) pośmiewisko
+[laughingstock]laughingstock (EN) : (rz.) pośmiewisko
+[laughter]laughter (EN) : (rz.) śmiech
+[launce]launce (EN) : (rz.) piskorz
+[launch]launch (EN) : (cz.) odpalać; (cz.) puszczać; (cz.) rozpocząć; (cz.) rzucać; (cz.) spuszczać; (cz.) wodować; (cz.) wypuścić; (cz.) wypuszczać; (cz.) wystrzelić; (cz.) zaangażować; (cz.) zaczynać; (cz.) zainaugurować; (cz.) zwodować; (rz.) łódź; (rz.) szalupa; (rz.) wystrzelenie
+[launcher]launcher (EN) : (rz.) granatnik; (rz.) wyrzutnia
+[launder]launder (EN) : (cz.) prać; (cz.) wyprać
+[launderette]launderette (EN) : (rz.) pralnia
+[laundress]laundress (EN) : (rz.) praczka
+[laundry]laundry (EN) : (rz.) pralnia; (rz.) pranie
+[laureate]laureate (EN) : (rz.) laureat
+[laurel]laurel (EN) : (rz.) wawrzyn
+[laurels]laurels (EN) : (rz.) laury
+[lava]lava (EN) : (rz.) lawa; (rz.) lawowanie
+[lavatory]lavatory (EN) : (rz.) toaleta; (rz.) ubikacja; (rz.) umywalnia
+[lave]lave (EN) : (cz.) oblewać; (cz.) umyć
+[lavender]lavender (EN) : (rz.) lawenda
+[laver]laver (EN) : (rz.) chrzcielnica; (rz.) kropielnica; (rz.) sadzawka; (rz.) umywalnia
+[lavish]lavish (EN) : (cz.) obdarzać; (cz.) szafować; (p.) hojny; (p.) obfity; (p.) rozrzutny; (p.) sowity
+[lavishly]lavishly (EN) : (p-sł.) hojnie; (p-sł.) sowicie
+[lavishness]lavishness (EN) : (rz.) hojność; (rz.) wystawność
+[law]law (EN) : (rz.) legislacja; (rz.) nakaz; (rz.) ordynacja; (rz.) prawo; (rz.) praworządność; (rz.) przepis; (rz.) statut; (rz.) ustawa; (rz.) zasada
+[law-abiding]law-abiding (EN) : (p.) prawomyślny; (p.) praworządny
+[law-breaker]law-breaker (EN) : (rz.) gwałciciel; (rz.) przestępca
+[lawbreaker]lawbreaker (EN) : (rz.) delikwent; (rz.) gwałciciel; (rz.) przestępca
+[lawful]lawful (EN) : (p.) legalny; (p.) prawny; (p.) prawowity
+[lawfully]lawfully (EN) : (p-sł.) legalnie; (p-sł.) prawowicie
+[lawfulness]lawfulness (EN) : (rz.) legalność; (rz.) praworządność
+[lawgiver]lawgiver (EN) : (rz.) prawodawca
+[lawless]lawless (EN) : (p.) anarchiczny; (p.) bezprawny
+[lawlessly]lawlessly (EN) : (p-sł.) bezprawnie; (p-sł.) samowolnie
+[lawlessness]lawlessness (EN) : (rz.) anarchia; (rz.) bezprawie; (rz.) rozwiązłość; (rz.) samowola
+[lawmaker]lawmaker (EN) : (rz.) prawodawca; (rz.) ustawodawca
+[lawmaking]lawmaking (EN) : (rz.) ustawodawstwo
+[lawn]lawn (EN) : (rz.) murawa; (rz.) polana; (rz.) trawnik
+[lawnmower]lawnmower (EN) : (rz.) kosiarka
+[lawrencium]lawrencium (EN) : (rz.) lorens
+[lawsuit]lawsuit (EN) : (rz.) pozew; (rz.) proces
+[lawyer]lawyer (EN) : (rz.) adwokat; (rz.) mecenas; (rz.) prawnik
+[lax]lax (EN) : (p.) luźny; (p.) niestaranny; (p.) rozwiązły; (p.) swobodny; (p.) zwiędły
+[laxity]laxity (EN) : (rz.) nieobyczajność; (rz.) pobłażliwość; (rz.) rozluźnienie
+[lay]lay (EN) : (cz.) kłaść; (cz.) nakryć; (cz.) nakrywać; (cz.) nieść; (cz.) pokładać; (cz.) położyć; (cz.) powalić; (cz.) układać; (cz.) wyznaczyć; (p.) laicki; (p.) świecki; (rz.) pieśń
+[lay-by]lay-by (EN) : (rz.) bocznica; (rz.) zatoka
+[lay-out]lay-out (EN) : (rz.) rozmieszczenie; (rz.) rozplanowanie; (rz.) układ; (rz.) wytyczenie
+[layabout]layabout (EN) : (rz.) bumelant; (rz.) leń; (rz.) leser
+[layer]layer (EN) : (cz.) rozkrzewiać; (rz.) cieniowanie; (rz.) nakładacz; (rz.) nawarstwienie; (rz.) nioska; (rz.) pokład; (rz.) pokrywa; (rz.) powłoka; (rz.) układacz; (rz.) warstwa
+[layer-cake]layer-cake (EN) : (rz.) tort
+[layered]layered (EN) : (p.) warstwowy
+[layette]layette (EN) : (rz.) wyprawka
+[layman]layman (EN) : (rz.) amator; (rz.) dyletant; (rz.) laik; (rz.) niefachowiec
+[layoff]layoff (EN) : (cz.) zwalniać; (rz.) ograniczenie; (rz.) przestój
+[layout]layout (EN) : (rz.) adiustacja; (rz.) edycja; (rz.) rozmieszczenie; (rz.) rozplanowanie; (rz.) układ
+[laze]laze (EN) : (cz.) popróżnować; (cz.) próżnować
+[laziness]laziness (EN) : (rz.) daremność; (rz.) guzdralstwo; (rz.) lenistwo; (rz.) nygusostwo; (rz.) opieszałość; (rz.) próżniactwo; (rz.) rozleniwienia; (rz.) wygodnictwo
+[lazy]lazy (EN) : (p.) gnuśny; (p.) leniwy; (p.) powolny; (p.) próżniaczy; (p.) wygodny
+[lazybones]lazybones (EN) : (rz.) leń; (rz.) leniuch; (rz.) nygus; (rz.) próżniak
+[lb]lb (EN) : (rz.) funt
+[lea]lea (EN) : (rz.) łąka; (rz.) pasemko; (rz.) polana; (rz.) polanka
+[leach]leach (EN) : (cz.) ługować; (cz.) płukać
+[lead]lead (EN) : (cz.) doprowadzać; (cz.) doprowadzić; (cz.) dowodzić; (cz.) dyrygować; (cz.) interliniować; (cz.) kierować; (cz.) namawiać; (cz.) poprowadzić; (cz.) powodzić; (cz.) prowadzić; (cz.) przewodzić; (cz.) przodować; (cz.) skłonić; (cz.) zaprowadzić; (rz.) doprowadzenie; (rz.) grafit; (rz.) kierownictwo; (rz.) ołów; (rz.) ołowiowanie; (rz.) poprowadzenie; (rz.) prowadzenie; (rz.) przewód; (rz.) smycz; (rz.) trop; (rz.) wieść; (rz.) wyprowadzenie; (rz.) zacisk; (rz.) zagrywka
+[lead-coated]lead-coated (EN) : (p.) ołowiowany
+[lead-free]lead-free (EN) : (p.) bezołowiowy
+[lead-in]lead-in (EN) : (rz.) doprowadzenie; (rz.) wprowadzenie
+[lead-off]lead-off (EN) : (rz.) zapoczątkowanie
+[leaded]leaded (EN) : (p.) ołowiany; (p.) ołowiowy
+[leaden]leaden (EN) : (p.) ołowiany
+[leader]leader (EN) : (rz.) hegemon; (rz.) kierownik; (rz.) lider; (rz.) prowodyr; (rz.) prym; (rz.) przewodnik; (rz.) przodownik; (rz.) przywódca; (rz.) szef
+[leader's]leader's (EN) : (p.) przywódczy
+[leadership]leadership (EN) : (rz.) kierownictwo; (rz.) naczelnictwo; (rz.) przewodnictwo; (rz.) przewodzenie; (rz.) przodownictwo; (rz.) przywództwo
+[leading]leading (EN) : (p.) czołowy; (p.) główny; (p.) kierowniczy; (p.) pierwszoplanowy; (p.) prowadzący; (p.) przewodni; (p.) wybitny; (p.) wyprzedzający; (rz.) etylizowanie; (rz.) ołowiowanie; (rz.) paliw
+[leadoff]leadoff (EN) : (rz.) zapoczątkowanie
+[leads]leads (EN) : (rz.) obciążnik; (rz.) przewodnik
+[leady]leady (EN) : (p.) ołowiany
+[leaf]leaf (EN) : (rz.) folia; (rz.) karta; (rz.) kartka; (rz.) liść; (rz.) lista; (rz.) listek
+[leafage]leafage (EN) : (rz.) listowie; (rz.) ulistnienie
+[leafiest]leafiest (EN) : (p.) emaliowany; (p.) liściasty
+[leafless]leafless (EN) : (p.) bezlistny
+[leaflet]leaflet (EN) : (rz.) broszurka; (rz.) druczek; (rz.) kartka; (rz.) listek; (rz.) ulotka
+[leafy]leafy (EN) : (p.) bujny; (p.) liściasty
+[league]league (EN) : (rz.) ekstraklasa; (rz.) klasa; (rz.) liga; (rz.) mila; (rz.) poziom; (rz.) związek
+[leaguer]leaguer (EN) : (rz.) ligowiec
+[leak]leak (EN) : (cz.) cieknąć; (cz.) przeciekać; (cz.) sączyć; (cz.) ujawniać; (cz.) ulatniać; (cz.) wyciekać; (rz.) ciec; (rz.) dziura; (rz.) nieszczelność; (rz.) pęknięcie; (rz.) przeciek; (rz.) wyciek
+[leakage]leakage (EN) : (rz.) przeciek; (rz.) przeciekanie; (rz.) ulatnianie; (rz.) upływność; (rz.) wyciek; (rz.) wyciekanie
+[leakiness]leakiness (EN) : (rz.) nieszczelność
+[leaky]leaky (EN) : (p.) dziurawy; (p.) niedyskretny; (p.) nieszczelny; (p.) przeciekający
+[lean]lean (EN) : (cz.) chylić; (cz.) nachylić; (cz.) opierać; (cz.) pochylać; (cz.) przechylać; (cz.) przechylić; (cz.) wychylać; (p.) chudy; (p.) nieurodzajny; (p.) niskokaloryczny; (p.) szczupły; (p.) ubogi
+[lean-to]lean-to (EN) : (rz.) oficyna; (rz.) przybudówka
+[leaning]leaning (EN) : (rz.) przechylanie; (rz.) skłonność; (rz.) wychylanie
+[leanness]leanness (EN) : (rz.) chudość; (rz.) słabość
+[leap]leap (EN) : (cz.) przeskoczyć; (cz.) skakać; (rz.) podskok; (rz.) skok; (rz.) sus
+[leapt]leapt (EN) : (cz.) przeskoczyć
+[learn]learn (EN) : (cz.) dowiadywać; (cz.) dowiedzieć; (cz.) nauczyć; (cz.) poznać; (cz.) rozeznawać; (cz.) uczyć
+[learnedly]learnedly (EN) : (p-sł.) naukowo; (p-sł.) uczenie
+[learner]learner (EN) : (rz.) uczeń
+[learning]learning (EN) : (rz.) erudycja; (rz.) nauka; (rz.) poznawanie; (rz.) uczoność; (rz.) wiedza
+[lease]lease (EN) : (cz.) arendować; (cz.) dzierżawić; (cz.) najmować; (cz.) wydzierżawiać; (cz.) wydzierżawić; (cz.) wynajmować; (rz.) arenda; (rz.) dzierżawa; (rz.) najem; (rz.) wydzierżawienie; (rz.) wynajem
+[lease-holder]lease-holder (EN) : (rz.) dzierżawca; (rz.) najemca
+[leasehold]leasehold (EN) : (p.) dzierżawny; (rz.) arenda; (rz.) dzierżawa
+[leaseholder]leaseholder (EN) : (rz.) dzierżawca; (rz.) najemca
+[leash]leash (EN) : (rz.) ołów; (rz.) smycz
+[leasing]leasing (EN) : (p.) leasingowy; (rz.) arenda; (rz.) dzierżawa; (rz.) dzierżawienie
+[least]least (EN) : (p.) najmniejszy
+[leather]leather (EN) : (rz.) skóra
+[leathered]leathered (EN) : (p.) pierzasty
+[leatherette]leatherette (EN) : (rz.) derma
+[leathering]leathering (EN) : (rz.) lanie
+[leathern]leathern (EN) : (p.) skórzany
+[leatherworker]leatherworker (EN) : (rz.) rymarz
+[leathery]leathery (EN) : (p.) łykowaty; (p.) skórzasty
+[leave]leave (EN) : (cz.) odejść; (cz.) odjechać; (cz.) odjeżdżać; (cz.) opuścić; (cz.) opuszczać; (cz.) pójść; (cz.) porzucać; (cz.) porzucić; (cz.) pozostawiać; (cz.) pozostawić; (cz.) schodzić; (cz.) wyjechać; (cz.) wyjeżdżać; (cz.) wyjść; (cz.) zostawiać; (cz.) zostawić; (rz.) opuszczenie; (rz.) pożegnanie; (rz.) pozwolenie; (rz.) urlop; (rz.) wychodzenie; (rz.) zwolnienie
+[leaved]leaved (EN) : (p.) liściasty
+[leaven]leaven (EN) : (cz.) zaczynić; (rz.) drożdże; (rz.) rozczyn; (rz.) zakwas
+[leaves]leaves (EN) : (rz.) listowie; (rz.) nać
+[leavings]leavings (EN) : (rz.) odpadki; (rz.) pozostałości
+[lecher]lecher (EN) : (rz.) lubieżnik; (rz.) rozpustnik
+[lecherous]lecherous (EN) : (p.) lubieżny; (p.) obleśny; (p.) rozpustny
+[lechery]lechery (EN) : (rz.) lubieżność
+[lecithin]lecithin (EN) : (rz.) lecytyna
+[lectern]lectern (EN) : (rz.) pulpit
+[lector]lector (EN) : (rz.) lektor
+[lecture]lecture (EN) : (cz.) monitować; (cz.) pouczać; (cz.) udzielać; (cz.) udzielić; (cz.) wykładać; (cz.) wymawiać; (rz.) odczyt; (rz.) prelekcja; (rz.) wykład
+[lecturer]lecturer (EN) : (rz.) adiunkt; (rz.) prelegent; (rz.) prelekcja; (rz.) wykładowca
+[ledge]ledge (EN) : (rz.) gzyms; (rz.) listwa; (rz.) półka; (rz.) rafa; (rz.) występ
+[ledger]ledger (EN) : (rz.) rejestr; (rz.) ryga
+[lee]lee (EN) : (rz.) osłona
+[leech]leech (EN) : (rz.) pijawka
+[leek]leek (EN) : (rz.) por
+[leer]leer (EN) : (rz.) spojrzenie
+[leery]leery (EN) : (p.) nieufny; (p.) ostrożny; (p.) podejrzliwy
+[lees]lees (EN) : (rz.) fusy; (rz.) osad
+[leeward]leeward (EN) : (p.) zawietrzny; (rz.) burta
+[leeway]leeway (EN) : (rz.) dryf; (rz.) zaległości
+[left]left (EN) : (cz.) opuszczać; (cz.) pozostawiać; (cz.) pozostawić; (cz.) zostawiać; (p.) lewicowy; (p.) lewostronny; (p.) lewy
+[left-bank]left-bank (EN) : (p.) lewobrzeżny
+[left-hand]left-hand (EN) : (p.) leworęczny; (p.) lewy
+[left-handed]left-handed (EN) : (p.) leworęczny; (p.) leworęki; (p.) lewoskrętny
+[left-handedness]left-handedness (EN) : (rz.) leworęczność; (rz.) mańkuctwo
+[left-hander]left-hander (EN) : (rz.) mańkut
+[left-sided]left-sided (EN) : (p.) lewostronny
+[left-wing]left-wing (EN) : (p.) lewicowy; (rz.) lewica
+[left-winger]left-winger (EN) : (rz.) lewicowiec
+[lefthander]lefthander (EN) : (p.) leworęczny; (rz.) mańkut
+[leftist]leftist (EN) : (p.) lewacki; (p.) lewicowy; (rz.) lewak; (rz.) lewicowiec
+[lefty]lefty (EN) : (rz.) lewicowiec
+[leg]leg (EN) : (rz.) cholewa; (rz.) etap; (rz.) gałąź; (rz.) kończyna; (rz.) łapa; (rz.) lęg; (rz.) noga; (rz.) nogawica; (rz.) nogawka; (rz.) nóżka; (rz.) odnoga; (rz.) udziec
+[legacy]legacy (EN) : (rz.) legat; (rz.) spadek; (rz.) spuścizna
+[legal]legal (EN) : (p.) legalny; (p.) prawniczy; (p.) prawny; (p.) sądowy; (p.) ustawowy
+[legalist]legalist (EN) : (rz.) legalista
+[legality]legality (EN) : (rz.) legalność; (rz.) prawność; (rz.) prawomocność; (rz.) prawowitość
+[legalization]legalization (EN) : (rz.) legalizacja; (rz.) uprawomocnienie; (rz.) zalegalizowanie
+[legalize]legalize (EN) : (cz.) legalizować; (cz.) zalegalizować
+[legally]legally (EN) : (p-sł.) legalnie; (p-sł.) prawnie; (p-sł.) sądownie
+[legate]legate (EN) : (rz.) legat
+[legation]legation (EN) : (rz.) legacja; (rz.) poselstwo
+[legend]legend (EN) : (rz.) legenda; (rz.) napis
+[legendarily]legendarily (EN) : (p-sł.) legendarnie
+[legendary]legendary (EN) : (p.) bajeczny; (p.) legendarny
+[legerdemain]legerdemain (EN) : (rz.) kuglarstwo; (rz.) żonglowanie
+[legged]legged (EN) : (p.) nożny
+[legging]legging (EN) : (rz.) sztylpa
+[leggings]leggings (EN) : (rz.) getry
+[leggy]leggy (EN) : (p.) długonogi
+[legibility]legibility (EN) : (rz.) czytelność
+[legible]legible (EN) : (p.) czytelny
+[legibly]legibly (EN) : (p-sł.) czytelnie
+[legion]legion (EN) : (rz.) legia; (rz.) legion
+[legionary]legionary (EN) : (p.) legionowy; (rz.) legionista
+[legionnaire]legionnaire (EN) : (rz.) legionista
+[legislate]legislate (EN) : (cz.) ustanawiać
+[legislation]legislation (EN) : (rz.) legislacja; (rz.) prawodawstwo; (rz.) ustawodawstwo
+[legislative]legislative (EN) : (p.) legislacyjny; (p.) prawny; (p.) prawodawczy; (p.) ustawodawczy
+[legislator]legislator (EN) : (rz.) prawodawca; (rz.) ustawodawca
+[legislature]legislature (EN) : (rz.) legislatura; (rz.) prawodawca; (rz.) ustawodawca
+[legist]legist (EN) : (rz.) prawnik
+[legit]legit (EN) : (rz.) dramat
+[legitimacy]legitimacy (EN) : (rz.) legalizm; (rz.) legalność; (rz.) prawomocność; (rz.) prawowitość; (rz.) słuszność; (rz.) zasadność
+[legitimate]legitimate (EN) : (p.) legalny; (p.) prawidłowy; (p.) prawny; (p.) prawowity; (p.) prawy; (p.) ślubny; (p.) słuszny; (p.) zasadny
+[legitimately]legitimately (EN) : (p-sł.) słusznie
+[legitimize]legitimize (EN) : (cz.) legalizować; (cz.) sankcjonować; (cz.) usankcjonować; (cz.) usprawiedliwiać; (cz.) uzasadniać
+[legless]legless (EN) : (p.) beznogi
+[legs]legs (EN) : (rz.) golenie; (rz.) kosarz
+[legume]legume (EN) : (rz.) jarzyna; (rz.) strączek; (rz.) strąk; (rz.) warzywo
+[leguminous]leguminous (EN) : (p.) strączkowy
+[leisure]leisure (EN) : (rz.) wypoczynek
+[leisured]leisured (EN) : (p.) bezczynny
+[leisurely]leisurely (EN) : (p.) powolny; (p.) spokojny; (p-sł.) spokojnie
+[leman]leman (EN) : (rz.) bogdanka
+[lemma]lemma (EN) : (rz.) lemat
+[lemming]lemming (EN) : (rz.) leming
+[lemon]lemon (EN) : (rz.) brzydula; (rz.) bubel; (rz.) cytryna
+[lemon-squeezer]lemon-squeezer (EN) : (rz.) wyciskacz
+[lemonade]lemonade (EN) : (rz.) lemoniada
+[lemur]lemur (EN) : (rz.) lemur
+[lend]lend (EN) : (cz.) dodawać; (cz.) pożyczać; (cz.) pożyczyć; (cz.) udzielać; (cz.) użyczać; (cz.) wypożyczać
+[lender]lender (EN) : (rz.) kredytodawca; (rz.) pożyczkodawca
+[length]length (EN) : (rz.) dług; (rz.) długość; (rz.) długotrwałość; (rz.) dystans; (rz.) kawałek; (rz.) obszerność; (rz.) odcinek; (rz.) odległość; (rz.) rozciągłość; (rz.) staż
+[lengthen]lengthen (EN) : (cz.) nadsztukować; (cz.) przedłużać; (cz.) przedłużyć; (cz.) wydłużyć
+[lengthener]lengthener (EN) : (rz.) przedłużacz
+[lengthiness]lengthiness (EN) : (rz.) długość; (rz.) drobiazgowość; (rz.) rozwlekłość
+[lengthways]lengthways (EN) : (p.) wzdłużny
+[lengthwise]lengthwise (EN) : (p-sł.) podłużnie; (p-sł.) wzdłużnie
+[lengthy]lengthy (EN) : (p.) przydługi; (p.) sążnisty; (p.) tasiemcowy
+[lenience]lenience (EN) : (rz.) folgowanie; (rz.) łagodność; (rz.) wyrozumiałość
+[leniency]leniency (EN) : (rz.) folgowanie; (rz.) łagodność; (rz.) wyrozumiałość
+[lenient]lenient (EN) : (p.) łagodny; (p.) pobłażliwy
+[leniently]leniently (EN) : (p-sł.) łagodnie; (p-sł.) wyrozumiale
+[lenity]lenity (EN) : (rz.) wyrozumiałość
+[lens]lens (EN) : (rz.) obiektyw; (rz.) soczewka
+[lent]lent (EN) : (cz.) pożyczać
+[lentil]lentil (EN) : (rz.) soczewica
+[lentils]lentils (EN) : (rz.) soczewica
+[lentoid]lentoid (EN) : (p.) soczewkowaty
+[leonine]leonine (EN) : (p.) lwi
+[leopard]leopard (EN) : (rz.) lampart
+[leporine]leporine (EN) : (p.) zajęczy
+[leprosarium]leprosarium (EN) : (rz.) leprozorium
+[leprosy]leprosy (EN) : (rz.) trąd
+[leprous]leprous (EN) : (p.) trędowaty
+[lesbian]lesbian (EN) : (p.) lesbijski; (rz.) lesbijka
+[lesion]lesion (EN) : (rz.) obrażenie; (rz.) uszkodzenie
+[less]less (EN) : (p.) mniej; (rz.) mniej
+[lessee]lessee (EN) : (rz.) dzierżawca; (rz.) najemca; (rz.) najmobiorca
+[lessen]lessen (EN) : (cz.) drobnieć; (cz.) karleć; (cz.) maleć; (cz.) pomniejszyć; (cz.) umniejszać; (cz.) zmaleć; (cz.) zmniejszyć
+[lessening]lessening (EN) : (rz.) ubytek
+[lesser]lesser (EN) : (p.) mniejszy
+[lesson]lesson (EN) : (rz.) epistoła; (rz.) lekcja; (rz.) nauczka; (rz.) przestroga
+[let]let (EN) : (cz.) dawać; (cz.) dopuszczać; (cz.) pozwalać; (cz.) pozwolić; (cz.) puszczać; (cz.) umożliwiać; (cz.) wynająć; (cz.) zezwalać; (cz.) zgadzać
+[let-up]let-up (EN) : (rz.) luz; (rz.) przerwa
+[letdown]letdown (EN) : (rz.) rozczarowanie; (rz.) schodzenie; (rz.) zawód
+[lethal]lethal (EN) : (p.) śmiercionośny; (p.) śmiertelny; (p.) zabójczy
+[lethality]lethality (EN) : (rz.) letalność; (rz.) śmiertelność
+[lethally]lethally (EN) : (p-sł.) śmiertelnie; (p-sł.) zabójczo
+[lethargic]lethargic (EN) : (p.) letargiczny
+[lethargy]lethargy (EN) : (rz.) letarg; (rz.) ospałość
+[letter]letter (EN) : (rz.) dokument; (rz.) list; (rz.) litera; (rz.) literatura; (rz.) pismo; (rz.) pouczenie
+[lettered]lettered (EN) : (p.) oczytany; (p.) wykształcony
+[letterhead]letterhead (EN) : (rz.) nagłówek
+[lettering]lettering (EN) : (rz.) liternictwo; (rz.) napis
+[letterset]letterset (EN) : (rz.) typooffset
+[lettuce]lettuce (EN) : (rz.) sałata
+[letup]letup (EN) : (rz.) luz; (rz.) przerwa
+[leucoplast]leucoplast (EN) : (rz.) leukoplast
+[leukaemia]leukaemia (EN) : (rz.) białaczka; (rz.) leukemia
+[leukocyte]leukocyte (EN) : (rz.) leukocyt
+[levanter]levanter (EN) : (rz.) zbieg
+[levee]levee (EN) : (rz.) grobla
+[level]level (EN) : (cz.) równać; (cz.) wyrównać; (cz.) zrównać; (p.) poziomy; (p.) równy; (rz.) libella; (rz.) poziom; (rz.) poziomica; (rz.) poziomnica; (rz.) równia; (rz.) stopień; (rz.) szczebel; (rz.) wysokość
+[level-headed]level-headed (EN) : (p.) zrównoważony
+[leveller]leveller (EN) : (rz.) włóka
+[levelly]levelly (EN) : (p-sł.) poziomo
+[lever]lever (EN) : (rz.) drążek; (rz.) dźwignia; (rz.) lewar
+[leverage]leverage (EN) : (rz.) dźwignia; (rz.) dźwignięcie; (rz.) wpływ
+[leviathan]leviathan (EN) : (rz.) lewiatan
+[levitate]levitate (EN) : (cz.) lewitować
+[levitation]levitation (EN) : (rz.) lewitacja
+[levity]levity (EN) : (rz.) frywolność; (rz.) lekkomyślność; (rz.) lekkość; (rz.) płochość
+[levorotatory]levorotatory (EN) : (p.) lewoskrętny
+[levy]levy (EN) : (cz.) rekrutować; (cz.) ściągać; (rz.) cło; (rz.) danina; (rz.) pobieranie; (rz.) pobór; (rz.) ściąganie; (rz.) werbunek
+[lewd]lewd (EN) : (p.) bezwstydny; (p.) jurny; (p.) lubieżny; (p.) niemoralny; (p.) sprośny
+[lewdly]lewdly (EN) : (p-sł.) lubieżnie; (p-sł.) niemoralnie
+[lewdness]lewdness (EN) : (rz.) jurność; (rz.) niemoralność; (rz.) obsceniczność
+[lewisite]lewisite (EN) : (rz.) luizyt
+[lexeme]lexeme (EN) : (rz.) leksem
+[lexical]lexical (EN) : (p.) leksykalny; (p.) słownikowy
+[lexically]lexically (EN) : (p-sł.) leksykalnie
+[lexicographer]lexicographer (EN) : (rz.) leksykograf; (rz.) słownikarz
+[lexicographical]lexicographical (EN) : (p.) leksykograficzny
+[lexicographically]lexicographically (EN) : (p-sł.) leksykograficznie
+[lexicography]lexicography (EN) : (rz.) leksykografia; (rz.) słownikarstwo
+[lexicologist]lexicologist (EN) : (rz.) leksykolog
+[lexicology]lexicology (EN) : (rz.) leksykologia
+[lexicon]lexicon (EN) : (rz.) glosariusz; (rz.) leksyka; (rz.) leksykon; (rz.) słownik
+[liabilities]liabilities (EN) : (rz.) pasywa
+[liability]liability (EN) : (rz.) obciążenie; (rz.) obligo; (rz.) odpowiedzialność; (rz.) zobowiązanie
+[liable]liable (EN) : (p.) odpowiedzialny; (p.) podatny; (p.) podlegający
+[liaise]liaise (EN) : (cz.) współpracować
+[liaison]liaison (EN) : (rz.) łączność; (rz.) romans; (rz.) stosunek; (rz.) współpraca; (rz.) związek
+[liana]liana (EN) : (rz.) liana
+[liar]liar (EN) : (rz.) kłamca; (rz.) kłamczuch; (rz.) łgarz
+[libation]libation (EN) : (rz.) libacja
+[libel]libel (EN) : (cz.) zniesławić; (rz.) oszczerstwo; (rz.) paszkwil; (rz.) potwarz; (rz.) skarga; (rz.) zniesławienie
+[libeller]libeller (EN) : (rz.) oszczerca; (rz.) paszkwilant
+[libellous]libellous (EN) : (p.) oszczerczy; (p.) paszkwilowy
+[liberal]liberal (EN) : (p.) hojny; (p.) liberalny; (p.) pobłażliwy; (p.) tolerancyjny; (rz.) liberał
+[liberalism]liberalism (EN) : (rz.) liberalizm
+[liberality]liberality (EN) : (rz.) hojność; (rz.) liberalność; (rz.) szczodrość; (rz.) wielkoduszność; (rz.) wyrozumiałość
+[liberalization]liberalization (EN) : (rz.) liberalizacja; (rz.) złagodzenie
+[liberalize]liberalize (EN) : (cz.) liberalizować; (cz.) zliberalizować
+[liberalized]liberalized (EN) : (cz.) zliberalizować
+[liberally]liberally (EN) : (p-sł.) liberalnie
+[liberally-minded]liberally-minded (EN) : (p.) liberalny
+[liberate]liberate (EN) : (cz.) oswobodzić; (cz.) uruchamiać; (cz.) uwalniać; (cz.) uwolnić; (cz.) wyzwalać; (cz.) wyzwolić
+[liberation]liberation (EN) : (rz.) oswobodzenie; (rz.) uwolnienie; (rz.) wydzielenie; (rz.) wyzwolenie
+[liberator]liberator (EN) : (rz.) oswobodziciel; (rz.) wyzwoliciel
+[libertarian]libertarian (EN) : (rz.) obrońca
+[libertine]libertine (EN) : (p.) libertyński; (rz.) libertyn; (rz.) wolnomyśliciel
+[liberty]liberty (EN) : (rz.) przywilej; (rz.) swoboda; (rz.) wolność
+[libidinous]libidinous (EN) : (p.) lubieżny; (p.) zmysłowy
+[librarian]librarian (EN) : (rz.) bibliotekarz; (rz.) księgarz
+[librarianship]librarianship (EN) : (rz.) bibliotekarstwo; (rz.) bibliotekoznawstwo
+[library]library (EN) : (rz.) biblioteka; (rz.) bibliotekarstwo; (rz.) czytelnia; (rz.) książnica; (rz.) księgozbiór
+[librettist]librettist (EN) : (rz.) librecista
+[lice]lice (EN) : (rz.) wesz; (rz.) wszy
+[licence]licence (EN) : (rz.) koncesja; (rz.) licencja; (rz.) pozwolenie; (rz.) samowola
+[license]license (EN) : (cz.) koncesjonować; (cz.) licencjonować; (cz.) upoważniać; (rz.) koncesja; (rz.) licencja; (rz.) pozwolenie
+[licensee]licensee (EN) : (rz.) koncesjonariusz; (rz.) licencjobiorca
+[licensor]licensor (EN) : (rz.) licencjodawca
+[licentiate]licentiate (EN) : (rz.) licencjat
+[licentious]licentious (EN) : (p.) rozwiązły; (p.) swawolny
+[licentiousness]licentiousness (EN) : (rz.) rozpasanie; (rz.) rozpusta; (rz.) wyuzdanie
+[lichen]lichen (EN) : (rz.) liszaj; (rz.) porost
+[lichenin]lichenin (EN) : (rz.) lichenina
+[licit]licit (EN) : (p.) legalny
+[lick]lick (EN) : (cz.) lizać; (cz.) oblizać; (cz.) pędzić; (cz.) pokonać; (cz.) polizać; (cz.) poślinić; (rz.) liźnięcie
+[lickerish]lickerish (EN) : (p.) łakomy; (p.) lubieżny; (p.) rozpustny
+[licking]licking (EN) : (rz.) cięgi; (rz.) lizanie
+[lickspittle]lickspittle (EN) : (rz.) lizus; (rz.) wazeliniarz
+[lid]lid (EN) : (rz.) dekiel; (rz.) kłamstwo; (rz.) pokrywa; (rz.) pokrywka; (rz.) powieka; (rz.) przykrywa; (rz.) przykrywka; (rz.) wieczko; (rz.) wieko
+[lido]lido (EN) : (rz.) kąpielisko
+[lie]lie (EN) : (cz.) bujać; (cz.) chorować; (cz.) kłamać; (cz.) leżeć; (cz.) łgać; (cz.) poleżeć; (cz.) położyć; (cz.) skłamać; (cz.) usłać; (cz.) walać; (cz.) wylegiwać; (cz.) zełgać; (cz.) znajdować; (rz.) blaga; (rz.) kłam; (rz.) kłamstwo; (rz.) legowisko; (rz.) lęgowisko
+[lie-down]lie-down (EN) : (rz.) odpoczynek
+[lie-in]lie-in (EN) : (rz.) wylegiwanie; (rz.) wyspanie
+[liege]liege (EN) : (p.) lenniczy; (p.) lenny; (p.) lojalny; (p.) wierny; (rz.) lennik; (rz.) wasal; (rz.) wąsal
+[liegeman]liegeman (EN) : (rz.) wasal
+[lien]lien (EN) : (rz.) zastaw
+[lieu]lieu (EN) : (rz.) miejsce
+[lieutenancy]lieutenancy (EN) : (rz.) namiestnictwo; (rz.) porucznikostwo
+[lieutenant]lieutenant (EN) : (rz.) kapitan; (rz.) lejtnant; (rz.) podporucznik; (rz.) podpułkownik; (rz.) porucznik; (rz.) zastępca
+[lieutenant-colonel]lieutenant-colonel (EN) : (rz.) podpułkownik
+[life]life (EN) : (rz.) dożywocie; (rz.) egzystencja; (rz.) energia; (rz.) pożycie; (rz.) trwałość; (rz.) życie; (rz.) żywot; (rz.) żywotność
+[life-giving]life-giving (EN) : (p.) życiodajny
+[life-period]life-period (EN) : (rz.) trwałość
+[life-saver]life-saver (EN) : (rz.) ratownik
+[lifeblood]lifeblood (EN) : (rz.) krew
+[lifeboat]lifeboat (EN) : (rz.) szalupa
+[lifeguard]lifeguard (EN) : (rz.) ochroniarz; (rz.) ratownik
+[lifeless]lifeless (EN) : (p.) beznamiętny; (p.) martwy
+[lifelessly]lifelessly (EN) : (p-sł.) drętwo; (p-sł.) martwo
+[lifelessness]lifelessness (EN) : (rz.) bezruch
+[lifelike]lifelike (EN) : (p.) realistyczny
+[lifelong]lifelong (EN) : (p.) dozgonny; (p.) dożywotni
+[lifer]lifer (EN) : (rz.) dożywotnik
+[lifesaver]lifesaver (EN) : (rz.) ratownik
+[lifesaving]lifesaving (EN) : (rz.) ratownictwo
+[lifespan]lifespan (EN) : (rz.) trwałość; (rz.) trwanie
+[lifetime]lifetime (EN) : (rz.) całokształt; (rz.) witalność; (rz.) życie; (rz.) żywotność
+[lift]lift (EN) : (cz.) dźwigać; (cz.) podnieść; (cz.) podnosić; (cz.) podwozić; (cz.) uchylać; (cz.) usuwać; (cz.) znosić; (rz.) dźwig; (rz.) flek; (rz.) podniesienie; (rz.) podnośnik; (rz.) uniesienie; (rz.) wezbranie; (rz.) winda; (rz.) wznoszenie
+[lift-boy]lift-boy (EN) : (rz.) windziarz
+[lift-off]lift-off (EN) : (rz.) oderwanie; (rz.) poduszkowca
+[liftboy]liftboy (EN) : (rz.) windziarz
+[lifter]lifter (EN) : (rz.) mechanizm; (rz.) złodziej
+[lifting]lifting (EN) : (rz.) podnoszenie; (rz.) rozwiewanie; (rz.) unoszenie; (rz.) wykopki; (rz.) zniesienie
+[ligament]ligament (EN) : (rz.) ścięgno; (rz.) wiązadło
+[ligature]ligature (EN) : (rz.) bandaż; (rz.) ligatura; (rz.) opatrunek; (rz.) podwiązanie
+[light]light (EN) : (cz.) dnieć; (cz.) oświetlać; (cz.) oświetlić; (cz.) rozpalać; (cz.) rozświetlać; (cz.) świecić; (cz.) zapalać; (cz.) zapałać; (cz.) zapalić; (cz.) zapłonąć; (p.) jasny; (p.) łagodny; (p.) lekki; (p.) lekkomyślny; (p.) lekkostrawny; (p.) świetlny; (p.) wesoły; (p.) widny; (rz.) ogień; (rz.) światełko; (rz.) światło; (rz.) światłość
+[light-blue]light-blue (EN) : (p.) jasnoniebieski
+[light-fingered]light-fingered (EN) : (p.) zręczny
+[light-footed]light-footed (EN) : (p.) chyży; (p.) zwinny
+[light-green]light-green (EN) : (p.) jasnozielony
+[light-hearted]light-hearted (EN) : (p.) niefrasobliwy; (p.) radosny; (p.) żartobliwy
+[light-heartedness]light-heartedness (EN) : (rz.) beztroska; (rz.) niefrasobliwość
+[light-minded]light-minded (EN) : (p.) beztroski; (p.) lekkomyślny
+[light-proof]light-proof (EN) : (p.) światłoszczelny
+[light-red]light-red (EN) : (p.) jasnoczerwony
+[light-resistant]light-resistant (EN) : (p.) światłoodporny
+[light-sensitive]light-sensitive (EN) : (p.) światłoczuły
+[lighten]lighten (EN) : (cz.) błyskać; (cz.) błyszczeć; (cz.) odciążyć; (cz.) oświecać; (cz.) oświecić; (cz.) oświetlać; (cz.) przejaśniać; (cz.) rozjaśniać; (cz.) rozjaśnić; (cz.) ulżyć; (cz.) zelżyć
+[lighting]lighting (EN) : (rz.) oświetlenie; (rz.) rozpalenie; (rz.) światło; (rz.) zapalanie; (rz.) zapalenie
+[lightly]lightly (EN) : (p-sł.) jasno; (p-sł.) lekceważąco; (p-sł.) lekko
+[lightness]lightness (EN) : (rz.) jasność; (rz.) lekkość
+[lightning]lightning (EN) : (p.) błyskawicowy; (rz.) błyskawica; (rz.) piorun; (rz.) wyładowanie
+[lightning-conductor]lightning-conductor (EN) : (rz.) piorunochron
+[lightning-rod]lightning-rod (EN) : (rz.) piorunochron
+[lightproof]lightproof (EN) : (p.) światłoszczelny
+[lightship]lightship (EN) : (rz.) latarniowiec
+[lightsome]lightsome (EN) : (p.) lekki; (p.) niefrasobliwy
+[lightweight]lightweight (EN) : (p.) lekki
+[ligneous]ligneous (EN) : (p.) drewniany; (p.) drzewiasty
+[lignifying]lignifying (EN) : (rz.) drewnienie
+[lignin]lignin (EN) : (rz.) drzewnik; (rz.) lignina
+[lignite]lignite (EN) : (rz.) lignit
+[ligroin]ligroin (EN) : (rz.) ligroina
+[likable]likable (EN) : (p.) miły; (p.) sympatyczny
+[like]like (EN) : (cz.) lubić; (cz.) podobać; (cz.) spodobać; (cz.) upodobać; (p.) podobny
+[likeable]likeable (EN) : (p.) miły; (p.) sympatyczny
+[likelihood]likelihood (EN) : (rz.) możliwość; (rz.) prawdopodobieństwo; (rz.) szansa
+[likely]likely (EN) : (p.) prawdopodobny; (p-sł.) pewnie; (p-sł.) prawdopodobnie
+[liken]liken (EN) : (cz.) porównywać; (cz.) upodabniać
+[likeness]likeness (EN) : (rz.) podobieństwo; (rz.) podobizna; (rz.) wizerunek
+[likewise]likewise (EN) : (p-sł.) podobnie; (p-sł.) również
+[liking]liking (EN) : (cz.) upodobać; (rz.) gust; (rz.) pociąg; (rz.) sympatia; (rz.) upodobanie
+[lilac]lilac (EN) : (p.) bzowy; (p.) fioletowy; (p.) lila; (p.) liliowy; (rz.) bez
+[liliaceous]liliaceous (EN) : (p.) liliowaty
+[lilt]lilt (EN) : (rz.) pieśń; (rz.) rytm
+[lilting]lilting (EN) : (p.) melodyjny; (p.) śpiewny
+[lily]lily (EN) : (rz.) grzybień; (rz.) lilia
+[lima]lima (EN) : (rz.) linka
+[limb]limb (EN) : (rz.) członek; (rz.) gałąź; (rz.) konar; (rz.) kończyna
+[limber]limber (EN) : (cz.) wygimnastykować
+[limber^]limber^ (EN) : (p.) zwinny
+[limbo]limbo (EN) : (rz.) otchłań; (rz.) próżnia; (rz.) zawieszenie
+[lime]lime (EN) : (cz.) nawapniać; (cz.) wapnować; (rz.) lipa; (rz.) wapno
+[lime-kiln]lime-kiln (EN) : (rz.) wapiennik
+[lime-tree]lime-tree (EN) : (rz.) lipa
+[limekiln]limekiln (EN) : (rz.) wapiennik
+[limerick]limerick (EN) : (rz.) fraszka; (rz.) limeryk
+[limestone]limestone (EN) : (rz.) wapień; (rz.) wapniowiec
+[limit]limit (EN) : (cz.) ograniczać; (cz.) ograniczyć; (rz.) granica; (rz.) kres; (rz.) obręb; (rz.) ograniczenie; (rz.) zarys
+[limitation]limitation (EN) : (rz.) limitacja; (rz.) ograniczenie; (rz.) ograniczoność; (rz.) prekluzja; (rz.) przedawnienie; (rz.) tępota
+[limited]limited (EN) : (p.) ograniczony
+[limiter]limiter (EN) : (rz.) ogranicznik; (rz.) reduktor
+[limitless]limitless (EN) : (p.) bezgraniczny
+[limn]limn (EN) : (cz.) malować; (cz.) namalować
+[limnology]limnology (EN) : (rz.) limnologia
+[limo]limo (EN) : (rz.) limuzyna
+[limonene]limonene (EN) : (rz.) limonen
+[limonite]limonite (EN) : (rz.) limonit
+[limousine]limousine (EN) : (rz.) limuzyna
+[limp]limp (EN) : (cz.) chromać; (cz.) kulać; (cz.) kuleć; (cz.) kuśtykać; (cz.) utykać; (p.) bezwładny; (p.) miękki; (p.) słaby; (p.) wiotki
+[limpet]limpet (EN) : (rz.) pijawka
+[limpid]limpid (EN) : (p.) czysty; (p.) klarowny; (p.) przejrzysty; (p.) przezroczysty; (p.) przeźroczysty
+[limpidity]limpidity (EN) : (rz.) kryształowość; (rz.) przezroczystość
+[limply]limply (EN) : (p-sł.) łatwo; (p-sł.) prosto
+[limpness]limpness (EN) : (rz.) słabość
+[limy]limy (EN) : (p.) kleisty; (p.) lepki; (p.) wapnisty
+[linage]linage (EN) : (rz.) wierszówka
+[linchpin]linchpin (EN) : (rz.) przetyczka
+[linden]linden (EN) : (rz.) lipa
+[line]line (EN) : (cz.) kreślić; (cz.) liniować; (cz.) przekreślać; (rz.) granica; (rz.) kierunek; (rz.) kolejka; (rz.) kreska; (rz.) lina; (rz.) lineał; (rz.) linia; (rz.) linijka; (rz.) rodzaj; (rz.) rząd; (rz.) specjalność; (rz.) szereg; (rz.) sznur; (rz.) szpaler; (rz.) wers; (rz.) wiersz; (rz.) wierszowanie
+[line-up]line-up (EN) : (rz.) drużyna; (rz.) skład; (rz.) ustawienie
+[line-vector]line-vector (EN) : (rz.) wektor
+[lineage]lineage (EN) : (rz.) genealogia; (rz.) pochodzenie; (rz.) ród; (rz.) rodowód
+[lineal]lineal (EN) : (p.) linearny; (p.) linijny; (p.) liniowy
+[linear]linear (EN) : (p.) linearny; (p.) linijny; (p.) liniowy
+[linearity]linearity (EN) : (rz.) linearność; (rz.) liniowość
+[linearization]linearization (EN) : (rz.) linearyzacja
+[linearly]linearly (EN) : (p-sł.) linearnie
+[lineation]lineation (EN) : (rz.) liniowanie
+[linen]linen (EN) : (p.) lniany; (p.) płowy; (rz.) bielizna; (rz.) len; (rz.) płótno; (rz.) pościel; (rz.) tkanina
+[liner]liner (EN) : (rz.) konduktor; (rz.) liniowiec; (rz.) podszewka; (rz.) statek; (rz.) wkładka; (rz.) wyłożenie
+[linesman]linesman (EN) : (rz.) dróżnik; (rz.) monter
+[ling]ling (EN) : (rz.) dorsz
+[linger]linger (EN) : (cz.) marudzić; (cz.) ociągać; (cz.) pokutować; (cz.) zasiedzieć; (cz.) zwlekać
+[lingering]lingering (EN) : (p.) ociągający; (p.) przeciągły
+[lingo]lingo (EN) : (rz.) język
+[lingua]lingua (EN) : (rz.) język
+[lingual]lingual (EN) : (p.) językowy
+[linguist]linguist (EN) : (rz.) filolog; (rz.) językoznawca; (rz.) lingwista
+[linguistic]linguistic (EN) : (p.) językowy; (p.) językoznawczy; (p.) lingwistyczny
+[linguistically]linguistically (EN) : (p-sł.) językoznawczo
+[linguistics]linguistics (EN) : (rz.) językoznawstwo; (rz.) lingwistyka
+[liniment]liniment (EN) : (rz.) mazidło
+[lining]lining (EN) : (rz.) kadzi; (rz.) kreskowanie; (rz.) liniowanie; (rz.) obicie; (rz.) obmurowanie; (rz.) obudowa; (rz.) ocieplacz; (rz.) okładzina; (rz.) podbicie; (rz.) podpinka; (rz.) podszewka; (rz.) podszycie; (rz.) podszywanie; (rz.) wykładanie; (rz.) wykładzina; (rz.) wyklejenie; (rz.) wyściółka
+[link]link (EN) : (cz.) łączyć; (cz.) połączyć; (cz.) wiązać; (rz.) człon; (rz.) łącze; (rz.) łącznik; (rz.) łączność; (rz.) ogniwo; (rz.) połączenie; (rz.) powiązanie; (rz.) więź
+[link-trainer]link-trainer (EN) : (rz.) trenażer
+[link-up]link-up (EN) : (rz.) połączenie
+[linkage]linkage (EN) : (rz.) połączenie; (rz.) powiązanie; (rz.) wiązanie
+[linker]linker (EN) : (rz.) konsolidator; (rz.) linker
+[linking]linking (EN) : (rz.) konsolidacja; (rz.) łączenie; (rz.) wiązanie
+[linkup]linkup (EN) : (rz.) połączenie
+[linnet]linnet (EN) : (rz.) dzwoniec; (rz.) makolągwa
+[linoleum]linoleum (EN) : (rz.) linoleum
+[linotype]linotype (EN) : (rz.) linotyp
+[linsey-woolsey]linsey-woolsey (EN) : (rz.) materiał
+[lint]lint (EN) : (rz.) szarpie
+[lintel]lintel (EN) : (rz.) nadproże
+[lion]lion (EN) : (rz.) lew
+[lion's]lion's (EN) : (p.) lwi
+[lioness]lioness (EN) : (rz.) lwica
+[lip]lip (EN) : (rz.) brzeg; (rz.) krawędź; (rz.) warga
+[lip-sore]lip-sore (EN) : (rz.) zajad
+[lipase]lipase (EN) : (rz.) lipaza
+[lipoid]lipoid (EN) : (rz.) lipid; (rz.) lipoid; (rz.) tłuszczowiec
+[lipoproteins]lipoproteins (EN) : (p.) lipoproteidy
+[liposuction]liposuction (EN) : (rz.) liposukcja
+[lips]lips (EN) : (rz.) buzia
+[lipstick]lipstick (EN) : (rz.) kredka; (rz.) pomadka; (rz.) szminka
+[liquate]liquate (EN) : (cz.) wytapiać
+[liquefaction]liquefaction (EN) : (rz.) skraplanie; (rz.) stopienie
+[liquefier]liquefier (EN) : (rz.) skraplacz
+[liquefy]liquefy (EN) : (cz.) skraplać; (cz.) skroplić; (cz.) topić; (cz.) topnieć
+[liqueur]liqueur (EN) : (rz.) alkohol; (rz.) likier; (rz.) nalewka
+[liquid]liquid (EN) : (p.) cieczowy; (p.) ciekłokrystaliczny; (p.) ciekły; (p.) płynny; (rz.) ciecz; (rz.) płyn
+[liquidambar]liquidambar (EN) : (rz.) ambra
+[liquidate]liquidate (EN) : (cz.) likwidować; (cz.) spłacać; (cz.) upłynnić; (cz.) zaprzestawać; (cz.) zlikwidować
+[liquidation]liquidation (EN) : (rz.) likwidacja
+[liquidator]liquidator (EN) : (rz.) likwidator
+[liquidity]liquidity (EN) : (rz.) płynność
+[liquidize]liquidize (EN) : (cz.) przetrzeć
+[liquidizer]liquidizer (EN) : (rz.) mikser
+[liquids]liquids (EN) : (rz.) cieczenie
+[liquor]liquor (EN) : (rz.) likier; (rz.) ług; (rz.) napitek; (rz.) napój; (rz.) płyn; (rz.) trunek
+[liquorice]liquorice (EN) : (rz.) lukrecja
+[lira]lira (EN) : (rz.) lir
+[lire]lire (EN) : (rz.) kłamca
+[lisp]lisp (EN) : (cz.) seplenić; (rz.) seplenienie
+[lisping]lisping (EN) : (rz.) seplenienie
+[lissom]lissom (EN) : (p.) giętki; (p.) składny; (p.) smukły; (p.) zwinny
+[list]list (EN) : (cz.) wyliczać; (rz.) indeks; (rz.) katalog; (rz.) lista; (rz.) przechył; (rz.) spis; (rz.) wykaz
+[listen]listen (EN) : (cz.) czekać; (cz.) nasłuchiwać; (cz.) oczekiwać; (cz.) odsłuchać; (cz.) odsłuchiwać; (cz.) posłuchać; (cz.) przysłuchiwać; (cz.) słuchać; (cz.) usłuchać; (cz.) wsłuchać; (cz.) wsłuchiwać
+[listener]listener (EN) : (rz.) odbiornik; (rz.) radiosłuchacz; (rz.) słuchacz
+[listing]listing (EN) : (rz.) listing; (rz.) pozycja; (rz.) wydruk
+[listless]listless (EN) : (p.) apatyczny; (p.) obojętny
+[listlessly]listlessly (EN) : (p-sł.) apatycznie
+[litany]litany (EN) : (rz.) litania
+[literacy]literacy (EN) : (rz.) piśmienność; (rz.) umiejętność
+[literal]literal (EN) : (p.) autentyczny; (p.) dosłowny; (p.) literalny; (p.) literowy; (p.) nieprzenośny; (p.) przyziemny; (rz.) literał; (rz.) literat
+[literality]literality (EN) : (rz.) dosłowność
+[literally]literally (EN) : (p-sł.) dosłownie; (p-sł.) literalnie
+[literalness]literalness (EN) : (rz.) dosłowność
+[literals]literals (EN) : (rz.) literał
+[literary]literary (EN) : (p.) literacki; (p.) pisarski
+[literate]literate (EN) : (p.) piśmienny
+[literature]literature (EN) : (rz.) literatura; (rz.) literaturoznawstwo; (rz.) piśmiennictwo
+[litharge]litharge (EN) : (rz.) glejta
+[lithe]lithe (EN) : (p.) gibki; (p.) giętki; (p.) zwinny
+[lithesome]lithesome (EN) : (p.) smukły; (p.) zwinny
+[lithium]lithium (EN) : (rz.) lit; (rz.) litowanie
+[lithograph]lithograph (EN) : (cz.) litografować; (rz.) litografia
+[lithographer]lithographer (EN) : (rz.) litograf
+[lithographic]lithographic (EN) : (p.) litograficzny
+[lithographical]lithographical (EN) : (p.) litograficzny
+[lithography]lithography (EN) : (rz.) litografia
+[lithopone]lithopone (EN) : (rz.) litopon
+[lithosphere]lithosphere (EN) : (rz.) litosfera
+[litigant]litigant (EN) : (p.) sporny
+[litigate]litigate (EN) : (cz.) procesować; (cz.) zakwestionować
+[litigation]litigation (EN) : (rz.) proces; (rz.) spór
+[litmus]litmus (EN) : (rz.) lakmus
+[litre]litre (EN) : (rz.) litr
+[litre-atmosphere]litre-atmosphere (EN) : (rz.) litroatmosfera
+[litter]litter (EN) : (cz.) podesłać; (cz.) śmiecić; (cz.) zaśmiecać; (rz.) barłóg; (rz.) lektyka; (rz.) miot; (rz.) nosze; (rz.) podściółka; (rz.) ściółka; (rz.) śmieci; (rz.) śmiecie; (rz.) wyściółka; (rz.) zaśmiecanie; (rz.) zaśmiecenie; (rz.) żwirek
+[little]little (EN) : (p.) mały; (p.) niewielki; (rz.) drobiazg; (rz.) garnek; (rz.) garnuszek; (rz.) kalendarzyk; (rz.) trochę
+[littleness]littleness (EN) : (rz.) drobnostka; (rz.) małość
+[littoral]littoral (EN) : (p.) litoralny; (p.) nadbrzeżny; (p.) przybrzeżny; (rz.) pobrzeże
+[liturgical]liturgical (EN) : (p.) liturgiczny
+[liturgically]liturgically (EN) : (p-sł.) liturgicznie
+[liturgy]liturgy (EN) : (rz.) liturgia
+[live]live (EN) : (cz.) mieszkać; (cz.) przeżyć; (cz.) zamieszkać; (cz.) żyć; (p.) aktualny; (p.) ruchomy; (p.) żywy; (p-sł.) żywo
+[livelihood]livelihood (EN) : (rz.) utrzymanie
+[liveliness]liveliness (EN) : (rz.) ożywienie; (rz.) żwawość; (rz.) żywość
+[livelong]livelong (EN) : (p.) długotrwały
+[lively]lively (EN) : (p.) rześki; (p.) skoczny; (p.) szampański; (p.) wesoły; (p.) witalny; (p.) żwawy; (p.) żywy
+[liven]liven (EN) : (cz.) ożywiać; (cz.) ożywić
+[liver]liver (EN) : (rz.) wątroba; (rz.) wątróbka
+[liverish]liverish (EN) : (p.) chory
+[liverwort]liverwort (EN) : (rz.) porostnica; (rz.) przylaszczka
+[livery]livery (EN) : (rz.) liberia; (rz.) służba; (rz.) strój
+[liveryman]liveryman (EN) : (rz.) właściciel
+[livestock]livestock (EN) : (rz.) bydło; (rz.) remanent; (rz.) żywiec
+[livid]livid (EN) : (p.) silny; (p.) siny
+[living]living (EN) : (p.) żywy; (rz.) utrzymanie; (rz.) zamieszkiwanie; (rz.) życie
+[lixiviate]lixiviate (EN) : (cz.) wyługować
+[lixiviation]lixiviation (EN) : (rz.) ługowanie
+[lizard]lizard (EN) : (rz.) jaszczur; (rz.) jaszczurka
+[lizard's]lizard's (EN) : (p.) jaszczurczy
+[llama]llama (EN) : (rz.) lama; (rz.) wełna
+[lo-do]lo-do (EN) : (rz.) zamieszanie
+[load]load (EN) : (cz.) alkoholizować; (cz.) dźwigać; (cz.) instalować; (cz.) lądować; (cz.) ładować; (cz.) nabić; (cz.) obarczyć; (cz.) obciążać; (cz.) objuczyć; (cz.) obładować; (cz.) obsypać; (cz.) repetować; (cz.) władować; (cz.) załadować; (rz.) brzemię; (rz.) ciężar; (rz.) ładowanie; (rz.) ładunek; (rz.) nośność; (rz.) obciążalność; (rz.) obciążanie; (rz.) obciążenie; (rz.) załadowanie; (rz.) załadunek
+[loadable]loadable (EN) : (p.) ładowalny
+[loaded]loaded (EN) : (p.) ładowny; (p.) naładowany; (p.) obciążony; (p.) przydrożny
+[loader]loader (EN) : (rz.) ładowacz; (rz.) ładowarka; (rz.) ładownik
+[loading]loading (EN) : (rz.) ładowanie; (rz.) obarczenie; (rz.) obciążanie; (rz.) obciążenie; (rz.) załadunek
+[loadstone]loadstone (EN) : (rz.) magnetyt
+[loaf]loaf (EN) : (cz.) bumelować; (cz.) napocząć; (cz.) nygusować; (cz.) próżnować; (cz.) wałęsać; (rz.) bochen; (rz.) bochenek
+[loafer]loafer (EN) : (rz.) bumelant; (rz.) latawica; (rz.) łazik; (rz.) nierób; (rz.) nygus; (rz.) obibok; (rz.) próżniak; (rz.) wałkoń; (rz.) włóczęga
+[loam]loam (EN) : (rz.) ił
+[loamy]loamy (EN) : (p.) ilasty
+[loan]loan (EN) : (cz.) pożyczać; (rz.) kredyt; (rz.) pożyczka
+[loan-word]loan-word (EN) : (rz.) zapożyczenie
+[loaner]loaner (EN) : (rz.) pożyczkobiorca
+[loanword]loanword (EN) : (rz.) naleciałość; (rz.) zapożyczenie
+[loath]loath (EN) : (p.) niechętny; (p.) wstrętny
+[loathe]loathe (EN) : (cz.) brzydzić; (cz.) nienawidzić
+[loathing]loathing (EN) : (rz.) obrzydzenie; (rz.) odraza; (rz.) wstręt
+[loathsome]loathsome (EN) : (p.) wstrętny
+[lob]lob (EN) : (cz.) gramolić; (cz.) wgramolić
+[lobby]lobby (EN) : (rz.) hol; (rz.) kuluary; (rz.) lobby; (rz.) poczekalnia; (rz.) przedpokój; (rz.) przedsionek
+[lobe]lobe (EN) : (rz.) garb; (rz.) listek; (rz.) płat; (rz.) płatek; (rz.) występ
+[lobotomy]lobotomy (EN) : (rz.) lobotomia
+[lobster]lobster (EN) : (rz.) homar
+[lobworm]lobworm (EN) : (rz.) dżdżownica; (rz.) glista
+[local]local (EN) : (p.) lokalny; (p.) miejscowy; (p.) okoliczny
+[locale]locale (EN) : (rz.) widownia
+[localism]localism (EN) : (rz.) regionalizm; (rz.) zaściankowość
+[locality]locality (EN) : (rz.) miejscowość; (rz.) okolica; (rz.) położenie
+[localization]localization (EN) : (rz.) lokalizacja; (rz.) umiejscowienie
+[localize]localize (EN) : (cz.) lokalizować; (cz.) umiejscawiać; (cz.) umiejscowić; (cz.) zlokalizować
+[localizer]localizer (EN) : (rz.) lokalizator
+[locally]locally (EN) : (p-sł.) lokalnie
+[locate]locate (EN) : (cz.) lokalizować; (cz.) odszukiwać; (cz.) osiedlać; (cz.) osiedlić; (cz.) sytuować; (cz.) umiejscawiać; (cz.) umiejscowić; (cz.) umieścić; (cz.) umieszczać; (cz.) zlokalizować
+[location]location (EN) : (rz.) lokacja; (rz.) lokalizacja; (rz.) lokalność; (rz.) miejsce; (rz.) okolica; (rz.) plener; (rz.) położenie; (rz.) umiejscowienie; (rz.) umieszczenie; (rz.) usytuowanie
+[locative]locative (EN) : (rz.) miejscownik
+[locator]locator (EN) : (rz.) adres; (rz.) lokalizator; (rz.) wskaźnik
+[loch]loch (EN) : (rz.) jezioro
+[lock]lock (EN) : (cz.) blokować; (cz.) obejmować; (cz.) zaciskać; (cz.) zamknąć; (cz.) zamykać; (cz.) zatrzymywać; (rz.) blokada; (rz.) kłódka; (rz.) kosmyk; (rz.) lok; (rz.) lokaut; (rz.) pukiel; (rz.) rygiel; (rz.) śluza; (rz.) zamek; (rz.) zamknięcie; (rz.) zastawka
+[lock-jaw]lock-jaw (EN) : (rz.) katalepsja; (rz.) szczękościsk
+[lock-out]lock-out (EN) : (rz.) lokaut; (rz.) odcięcie; (rz.) zablokowanie
+[lock-up]lock-up (EN) : (rz.) mamer; (rz.) więzienie; (rz.) zamknięcie; (rz.) zamykanie
+[lockable]lockable (EN) : (p.) blokowany; (p.) zamykany
+[lockage]lockage (EN) : (rz.) śluzowanie
+[locked]locked (EN) : (cz.) ryglować
+[locked-jaw]locked-jaw (EN) : (rz.) katalepsja; (rz.) szczękościsk
+[locker]locker (EN) : (rz.) kabina; (rz.) schowek; (rz.) szafka
+[locket]locket (EN) : (rz.) medalion; (rz.) medalionik
+[lockjaw]lockjaw (EN) : (rz.) katalepsja; (rz.) szczękościsk; (rz.) tężec
+[locknut]locknut (EN) : (rz.) lokaut; (rz.) przeciwnakrętka
+[lockout]lockout (EN) : (rz.) lokaut; (rz.) odcięcie; (rz.) zablokowanie
+[locksmith]locksmith (EN) : (rz.) ślusarz
+[lockup]lockup (EN) : (rz.) garaż; (rz.) więzienie; (rz.) zamknięcie; (rz.) zamykanie
+[loco]loco (EN) : (rz.) elektrowóz
+[locomotion]locomotion (EN) : (rz.) lokomocja; (rz.) lokomotywa; (rz.) poruszanie; (rz.) ruch
+[locomotive]locomotive (EN) : (rz.) lokomotywa; (rz.) parowóz
+[locus]locus (EN) : (rz.) położenie; (rz.) umiejscowienie
+[locust]locust (EN) : (rz.) szarańcza
+[locution]locution (EN) : (rz.) powiedzenie; (rz.) wyrażenie; (rz.) zwrot
+[lode]lode (EN) : (rz.) pokład; (rz.) złoże
+[lodestone]lodestone (EN) : (rz.) magnetyt
+[lodge]lodge (EN) : (cz.) deponować; (cz.) kwaterować; (cz.) protestować; (cz.) umieścić; (cz.) umieszczać; (cz.) wnosić; (cz.) zakwaterować; (rz.) domek; (rz.) loża; (rz.) oświadczenie; (rz.) portiernia; (rz.) przechowanie; (rz.) stróżówka
+[lodger]lodger (EN) : (rz.) lokator; (rz.) sublokator
+[lodging]lodging (EN) : (rz.) kwatera; (rz.) kwaterunek; (rz.) mieszkanie; (rz.) nocleg; (rz.) zakwaterowanie; (rz.) złożenie
+[lodging-house]lodging-house (EN) : (rz.) pensjonat
+[lodgings]lodgings (EN) : (rz.) kwatera; (rz.) lokum; (rz.) mieszkanie
+[loess]loess (EN) : (rz.) less
+[loft]loft (EN) : (rz.) chór; (rz.) galeria; (rz.) poddasze; (rz.) strych
+[loftily]loftily (EN) : (p-sł.) wysoko; (p-sł.) wzniośle
+[loftiness]loftiness (EN) : (rz.) wyniosłość; (rz.) wzniosłość
+[lofty]lofty (EN) : (p.) szczytny; (p.) wyniosły; (p.) wysoki; (p.) wzniosły
+[log]log (EN) : (cz.) notować; (cz.) ścinać; (cz.) zanotować; (rz.) bal; (rz.) bela; (rz.) bierwiono; (rz.) dłużyca; (rz.) dziennik; (rz.) kloc; (rz.) kłoda; (rz.) rejestr
+[log-line]log-line (EN) : (rz.) loglina
+[log-rolling]log-rolling (EN) : (rz.) kumoterstwo
+[loganberry]loganberry (EN) : (rz.) jeżyna
+[logarithm]logarithm (EN) : (rz.) logarytm
+[logarithmic]logarithmic (EN) : (p.) logarytmiczny
+[logarithmically]logarithmically (EN) : (p-sł.) logarytmicznie
+[logbook]logbook (EN) : (rz.) dziennik
+[logger]logger (EN) : (rz.) drwal; (rz.) rejestrator
+[loggerhead]loggerhead (EN) : (rz.) dureń; (rz.) głupek; (rz.) tępak
+[loggia]loggia (EN) : (rz.) lodżia; (rz.) loggia
+[logging]logging (EN) : (rz.) logowanie; (rz.) pień; (rz.) rejestracja; (rz.) wyrąb
+[logic]logic (EN) : (p.) dorzeczny; (p.) logiczny; (rz.) logika
+[logical]logical (EN) : (p.) logiczny; (p.) sensowny
+[logicality]logicality (EN) : (rz.) logiczność
+[logically]logically (EN) : (p-sł.) logicznie
+[logician]logician (EN) : (rz.) logik; (rz.) logika
+[login]login (EN) : (cz.) meldować; (cz.) wejść; (cz.) zalogować; (cz.) zarejestrować; (rz.) login; (rz.) logowanie; (rz.) zarejestrowanie
+[logistic]logistic (EN) : (p.) logistyczny; (rz.) logistyka
+[logistical]logistical (EN) : (p.) logistyczny
+[logistically]logistically (EN) : (p-sł.) logistycznie
+[logistics]logistics (EN) : (rz.) kwatermistrzostwo; (rz.) logistyka
+[logjam]logjam (EN) : (rz.) korek
+[logo]logo (EN) : (rz.) godło
+[logoff]logoff (EN) : (rz.) wyrejestrowanie
+[logon]logon (EN) : (cz.) zarejestrować; (rz.) login
+[logotype]logotype (EN) : (rz.) logotyp
+[logout]logout (EN) : (cz.) wyjść; (cz.) wymeldować; (cz.) wyrejestrować
+[logrolling]logrolling (EN) : (rz.) kartel; (rz.) kumoterstwo; (rz.) zrywka
+[logy]logy (EN) : (p.) ciężki; (p.) tępy
+[loin]loin (EN) : (rz.) lędźwie; (rz.) polędwica; (rz.) schab
+[loins]loins (EN) : (rz.) lędźwie
+[loiter]loiter (EN) : (cz.) bałaganić; (cz.) łazikować; (cz.) marudzić; (cz.) mitrężyć; (cz.) szwendać; (cz.) wałęsać; (cz.) zamarudzić
+[loiterer]loiterer (EN) : (rz.) łazik; (rz.) maruda; (rz.) włóczęga
+[loll]loll (EN) : (cz.) próżnować; (cz.) rozwalać; (cz.) wywiesić
+[lollipop]lollipop (EN) : (rz.) lizak
+[lollop]lollop (EN) : (cz.) kiwać
+[lollypop]lollypop (EN) : (rz.) lizak
+[lone]lone (EN) : (p.) odludny; (p.) samotny
+[loneliness]loneliness (EN) : (rz.) osamotnienie; (rz.) samotność
+[lonely]lonely (EN) : (p.) odludny; (p.) samotny
+[loner]loner (EN) : (rz.) samotnica; (rz.) samotnik
+[lonesome]lonesome (EN) : (p.) odludny; (p.) samotny
+[long]long (EN) : (cz.) pragnąć; (cz.) stęsknić; (cz.) tęsknić; (p.) długi; (p.) długoletni; (p.) długowieczny; (p.) długowłosy; (p-sł.) dawno; (p-sł.) długo; (rz.) kalesony; (rz.) podróż; (rz.) zasięg
+[long-distance]long-distance (EN) : (p.) dalekobieżny; (p.) długodystansowy; (p.) międzymiastowy; (p.) zamiejscowy
+[long-haired]long-haired (EN) : (p.) artystyczny; (p.) długowłosy; (p.) niekonwencjonalny
+[long-haul]long-haul (EN) : (p.) daleki
+[long-lasting]long-lasting (EN) : (p.) długotrwały
+[long-lived]long-lived (EN) : (p.) długowieczny
+[long-range]long-range (EN) : (p.) dalekonośny; (p.) długofalowy
+[long-sighted]long-sighted (EN) : (p.) dalekowzroczny
+[long-term]long-term (EN) : (p.) długofalowy; (p.) długookresowy; (p.) długoterminowy
+[long-time]long-time (EN) : (p.) odwieczny; (p.) stary
+[long-winded]long-winded (EN) : (p.) gadatliwy
+[longboat]longboat (EN) : (rz.) barkas
+[longevity]longevity (EN) : (rz.) długowieczność
+[longhaired]longhaired (EN) : (p.) artystyczny; (p.) długowłosy; (p.) niekonwencjonalny
+[longing]longing (EN) : (rz.) pragnienie; (rz.) tęsknota
+[longingly]longingly (EN) : (p-sł.) pożądliwie
+[longitude]longitude (EN) : (rz.) długość
+[longitudinal]longitudinal (EN) : (p.) denny; (p.) podłużny; (p.) południkowy; (p.) wzdłużny
+[longitudinally]longitudinally (EN) : (p-sł.) południkowo
+[longshoreman]longshoreman (EN) : (rz.) doker; (rz.) tragarz
+[longsighted]longsighted (EN) : (p.) dalekowzroczny
+[longwinded]longwinded (EN) : (p.) gadatliwy
+[loo]loo (EN) : (rz.) bardacha; (rz.) kibel; (rz.) ubikacja
+[look]look (EN) : (cz.) patrzeć; (cz.) popatrzeć; (cz.) rozejrzeć; (cz.) rozglądać; (cz.) spoglądać; (cz.) spojrzeć; (cz.) szukać; (cz.) upilnować; (cz.) wejrzeć; (cz.) wyglądać; (rz.) aparycja; (rz.) spoglądanie; (rz.) spojrzenie; (rz.) wygląd
+[look-alike]look-alike (EN) : (rz.) imitacja; (rz.) sobowtór
+[look-out]look-out (EN) : (rz.) ambona; (rz.) obserwator; (rz.) perspektywa; (rz.) straż; (rz.) widok
+[looker-on]looker-on (EN) : (rz.) kibic; (rz.) widz
+[looking-glass]looking-glass (EN) : (rz.) lusterko; (rz.) lustro
+[lookout]lookout (EN) : (rz.) ambona; (rz.) czujność; (rz.) obserwator; (rz.) perspektywa; (rz.) straż; (rz.) widok
+[looks]looks (EN) : (rz.) rozglądanie
+[lookup]lookup (EN) : (rz.) odszukiwanie; (rz.) połączenie; (rz.) wyszukiwanie
+[loom]loom (EN) : (cz.) majaczeć; (cz.) majaczyć; (cz.) nadchodzić; (cz.) widnieć; (cz.) wyłaniać; (rz.) krosno
+[loon]loon (EN) : (rz.) gbur; (rz.) głupiec; (rz.) nicpoń; (rz.) nur; (rz.) szaleniec
+[loony]loony (EN) : (p.) lunatyczny; (rz.) bzik
+[loop]loop (EN) : (cz.) podwiązać; (rz.) kokarda; (rz.) obwód; (rz.) pętelka; (rz.) pętla; (rz.) węzeł; (rz.) zapętlenie; (rz.) zwitka
+[loophole]loophole (EN) : (rz.) strzelnica
+[loose]loose (EN) : (cz.) przegrywać; (cz.) rozluźniać; (cz.) stracić; (cz.) strącić; (cz.) utracić; (cz.) zatracić; (p.) luźny; (p.) niedbały; (p.) obszerny; (p.) swobodny; (p.) sypki
+[loosely]loosely (EN) : (p-sł.) luźno; (p-sł.) wolno
+[loosely-coupled]loosely-coupled (EN) : (p-sł.) luźno
+[loosen]loosen (EN) : (cz.) luzować; (cz.) obluzować; (cz.) oderwać; (cz.) poluzować; (cz.) rozluźniać; (cz.) rozluźnić; (cz.) uwalniać; (cz.) uwolnić
+[looseness]looseness (EN) : (rz.) luz; (rz.) luźność; (rz.) rozchwianie
+[loosest]loosest (EN) : (p.) luźny
+[loosestrife]loosestrife (EN) : (rz.) krwawnica
+[loot]loot (EN) : (cz.) grabić; (cz.) łupić; (cz.) szabrować; (rz.) grabież; (rz.) łup; (rz.) łupy; (rz.) zdobycz
+[looter]looter (EN) : (rz.) łupieżca; (rz.) szabrownik; (rz.) złodziej
+[lop]lop (EN) : (cz.) obrzynać; (cz.) odcinać; (cz.) okrzesywać; (cz.) wisieć; (cz.) zwiesić; (cz.) zwisać
+[lop-ear]lop-ear (EN) : (rz.) kłapouch
+[lope]lope (EN) : (rz.) sus
+[lopsided]lopsided (EN) : (p.) krzywy
+[loquacious]loquacious (EN) : (p.) gadatliwy
+[lord]lord (EN) : (rz.) lord; (rz.) pan; (rz.) władca
+[lordliness]lordliness (EN) : (rz.) dostojność; (rz.) pańskość
+[lordly]lordly (EN) : (p.) dostojny; (p.) dumny; (p.) magnacki; (p.) pański; (p.) władczy; (p.) zarozumiały
+[lore]lore (EN) : (rz.) tradycja; (rz.) wiedza
+[lorgnette]lorgnette (EN) : (rz.) lorgnon; (rz.) lornetka
+[lorry]lorry (EN) : (rz.) ciężarówka; (rz.) lora; (rz.) tir
+[lose]lose (EN) : (cz.) blamować; (cz.) gubić; (cz.) niedosłyszeć; (cz.) postradać; (cz.) przegrać; (cz.) przegrywać; (cz.) speszyć; (cz.) stracić; (cz.) tracić; (cz.) zabłądzić; (cz.) zgubić
+[loser]loser (EN) : (rz.) cienias; (rz.) nieudacznik; (rz.) ofiara; (rz.) palant; (rz.) przegranie
+[losers]losers (EN) : (rz.) przegranie
+[losing]losing (EN) : (rz.) przegranie; (rz.) przegrywanie; (rz.) stracenie; (rz.) tracenie; (rz.) utracenie
+[loss]loss (EN) : (rz.) perta; (rz.) porażka; (rz.) strata; (rz.) szwank; (rz.) ubycie; (rz.) ubytek; (rz.) utrata; (rz.) zaginięcie; (rz.) zatrata; (rz.) zguba
+[loss-free]loss-free (EN) : (p.) bezstratny
+[lossless]lossless (EN) : (p.) bezstratny
+[lost]lost (EN) : (cz.) przegrać; (cz.) stracić; (cz.) zagubić; (cz.) zgubić; (p.) stracony; (p.) utracony; (p.) zagubiony
+[lot]lot (EN) : (rz.) część; (rz.) dola; (rz.) działka; (rz.) grupa; (rz.) los; (rz.) mnóstwo; (rz.) parcela; (rz.) partia; (rz.) plac; (rz.) seria; (rz.) udział; (rz.) zestaw
+[lotion]lotion (EN) : (rz.) emulsja; (rz.) płyn
+[lots]lots (EN) : (rz.) krocie; (rz.) mnóstwo
+[lottery]lottery (EN) : (rz.) loteria
+[lotto]lotto (EN) : (rz.) loteryjka; (rz.) totolotek
+[lotus]lotus (EN) : (rz.) lotos; (rz.) lotus
+[loud]loud (EN) : (p.) donośny; (p.) głośny; (p.) gromki; (p.) gwarny; (p.) huczny; (p.) krzykliwy
+[loud-mouthed]loud-mouthed (EN) : (p.) głośny; (p.) wrzaskliwy
+[loud-speaker]loud-speaker (EN) : (rz.) głośnik; (rz.) megafon
+[loudhailer]loudhailer (EN) : (rz.) megafon
+[loudly]loudly (EN) : (p.) głośny; (p-sł.) głośno; (p-sł.) krzykliwie
+[loudmouth]loudmouth (EN) : (rz.) pyskacz
+[loudmouthed]loudmouthed (EN) : (p.) głośny; (p.) wrzaskliwy
+[loudness]loudness (EN) : (rz.) donośność; (rz.) głośność
+[loudspeaker]loudspeaker (EN) : (rz.) głośnik; (rz.) megafon
+[lounge]lounge (EN) : (cz.) leżeć; (cz.) próżnować; (cz.) wylegiwać; (cz.) wypoczywać; (rz.) hol; (rz.) poczekalnia; (rz.) sala; (rz.) salon; (rz.) wypoczynek
+[lour]lour (EN) : (cz.) krzywić
+[louse]louse (EN) : (rz.) gnida; (rz.) wesz; (rz.) węszenie
+[lousy]lousy (EN) : (p.) kiepski; (p.) nędzny; (p.) parszywy; (p.) wstrętny; (p.) wszawy; (p.) zawszony
+[lout]lout (EN) : (rz.) cham; (rz.) ciura; (rz.) drągal; (rz.) dziad; (rz.) gbur; (rz.) niedołęga; (rz.) niemrawiec
+[loutish]loutish (EN) : (p.) ciamajdowaty; (p.) klocowaty
+[louver]louver (EN) : (rz.) żaluzja
+[lovable]lovable (EN) : (p.) miły; (p.) rozkoszny; (p.) sympatyczny
+[love]love (EN) : (cz.) kochać; (cz.) lubić; (cz.) miłować; (cz.) pokochać; (cz.) ubóstwiać; (cz.) uwielbiać; (cz.) zakochać; (rz.) luba; (rz.) miłość; (rz.) umiłowanie; (rz.) zaloty; (rz.) zamiłowanie
+[love-affair]love-affair (EN) : (rz.) miłostka; (rz.) romans
+[love-making]love-making (EN) : (rz.) kochanie
+[lovebird]lovebird (EN) : (rz.) papużka
+[loveliness]loveliness (EN) : (rz.) powab; (rz.) śliczność
+[lovely]lovely (EN) : (p.) miły; (p.) piękny; (p.) prześliczny; (p.) śliczny; (p.) uroczy
+[lovemaking]lovemaking (EN) : (rz.) kochanie
+[lover]lover (EN) : (rz.) amant; (rz.) amator; (rz.) kochanek; (rz.) miłośnik; (rz.) wielbiciel
+[loving]loving (EN) : (p.) tkliwy
+[lovingly]lovingly (EN) : (p-sł.) czule; (p-sł.) pieszczotliwie
+[low]low (EN) : (cz.) cichnąć; (cz.) ryczeć; (cz.) wyczerpywać; (p.) cichy; (p.) dolny; (p.) niski; (p.) niskotemperaturowy; (p.) niskowartościowy; (p.) podły; (p.) słaby; (p.) wątły; (p-sł.) cicho; (p-sł.) mało; (p-sł.) nisko; (rz.) łów; (rz.) niż; (rz.) podłość; (rz.) ryczenie; (rz.) świństwo; (rz.) szept
+[low-ball]low-ball (EN) : (rz.) dmuchawiec
+[low-boiling]low-boiling (EN) : (p.) niskowrzący
+[low-down]low-down (EN) : (p.) niski
+[low-grade]low-grade (EN) : (p.) niskogatunkowy; (p.) niskoprocentowy; (p.) niskowartościowy
+[low-interest]low-interest (EN) : (p.) niskoprocentowy
+[low-level]low-level (EN) : (p.) niskopoziomowy
+[low-pass]low-pass (EN) : (p.) dolnoprzepustowy; (rz.) wzmacniacz
+[low-pressure]low-pressure (EN) : (p.) niskociśnieniowy; (p.) niskoprężny
+[low-speed]low-speed (EN) : (p.) niskoobrotowy; (p.) wolnobieżny
+[lowbrow]lowbrow (EN) : (p.) prymitywny; (rz.) prostak
+[lower]lower (EN) : (cz.) degradować; (cz.) obniżać; (cz.) obniżyć; (cz.) opuszczać; (cz.) zniżać; (cz.) zniżyć
+[lowering]lowering (EN) : (rz.) obniżka; (rz.) spuszczanie; (rz.) spuszczenie; (rz.) zniżka
+[lowland]lowland (EN) : (rz.) nizina
+[lowly]lowly (EN) : (p.) korny; (p.) niski; (p.) skromny
+[lowness]lowness (EN) : (rz.) niskość
+[loyal]loyal (EN) : (p.) lojalny; (p.) prawomyślny; (p.) wierny
+[loyalist]loyalist (EN) : (rz.) lojalista
+[loyally]loyally (EN) : (p-sł.) lojalnie
+[loyalty]loyalty (EN) : (rz.) lojalność; (rz.) prawomyślność; (rz.) wierność
+[lozenge]lozenge (EN) : (rz.) romb; (rz.) tabletka
+[lubber]lubber (EN) : (rz.) majtek; (rz.) niedołęga
+[lubricant]lubricant (EN) : (rz.) smar
+[lubricate]lubricate (EN) : (cz.) natłuścić; (cz.) oliwić; (cz.) posmarować; (cz.) smarować; (cz.) tłuścić
+[lubrication]lubrication (EN) : (rz.) natłuszczenie; (rz.) oliwienie; (rz.) smarowanie
+[lubricator]lubricator (EN) : (rz.) lubrykator; (rz.) oliwiarka; (rz.) smar; (rz.) smarowacz; (rz.) smarownica
+[lucent]lucent (EN) : (p.) lśniący; (p.) przezroczysty; (p.) przeźroczysty
+[lucid]lucid (EN) : (p.) jasny; (p.) lśniący; (p.) przezroczysty; (p.) przeźroczysty
+[lucidity]lucidity (EN) : (rz.) blask; (rz.) jasność; (rz.) przezroczystość; (rz.) przeźroczystość
+[lucidly]lucidly (EN) : (p-sł.) błyszcząco; (p-sł.) przejrzyście
+[luck]luck (EN) : (rz.) fuks; (rz.) powodzenie; (rz.) szczęście; (rz.) traf
+[luckily]luckily (EN) : (p-sł.) szczęśliwie
+[luckless]luckless (EN) : (p.) nieszczęsny
+[lucky]lucky (EN) : (p.) pomyślny; (p.) szczęśliwy; (p.) taki
+[lucrative]lucrative (EN) : (p.) dochodowy; (p.) intratny; (p.) lukratywny; (p.) popłatny
+[lucratively]lucratively (EN) : (p-sł.) lukratywnie
+[lucre]lucre (EN) : (rz.) zysk
+[lucubration]lucubration (EN) : (rz.) elukubracja
+[luculent]luculent (EN) : (p.) jasny
+[ludicrous]ludicrous (EN) : (p.) absurdalny; (p.) śmieszny
+[ludicrously]ludicrously (EN) : (p-sł.) absurdalnie; (p-sł.) śmiesznie
+[lug]lug (EN) : (cz.) ciągnąć; (cz.) szarpać; (cz.) taszczyć; (cz.) zataszczyć
+[luggage]luggage (EN) : (rz.) bagaż
+[lugubrious]lugubrious (EN) : (p.) ponury; (p.) przygnębiony; (p.) smutny; (p.) żałobny; (p.) żałosny
+[lukewarm]lukewarm (EN) : (p.) obojętny
+[lull]lull (EN) : (cz.) ukołysać; (cz.) uśmierzać; (cz.) uspokajać; (cz.) usypiać; (rz.) cisza
+[lullaby]lullaby (EN) : (rz.) kołysanka
+[lulu]lulu (EN) : (rz.) wariat
+[lumbago]lumbago (EN) : (rz.) postrzał
+[lumbar]lumbar (EN) : (p.) lędźwiowy
+[lumber]lumber (EN) : (rz.) drewno; (rz.) graciarnia; (rz.) graty; (rz.) rupiecie; (rz.) tarcica
+[lumber-mill]lumber-mill (EN) : (rz.) tartak
+[lumber-room]lumber-room (EN) : (rz.) lamus; (rz.) rupieciarnia
+[lumberjack]lumberjack (EN) : (rz.) drwal; (rz.) rębacz
+[lumberman]lumberman (EN) : (rz.) drwal
+[lumen]lumen (EN) : (rz.) lumen
+[lumen-hour]lumen-hour (EN) : (rz.) lumenogodzina
+[lumen-second]lumen-second (EN) : (rz.) lumenosekunda
+[luminance]luminance (EN) : (rz.) jaskrawość; (rz.) luminancja
+[luminary]luminary (EN) : (rz.) luminarz
+[luminescence]luminescence (EN) : (rz.) jarzenie; (rz.) luminescencja
+[luminescent]luminescent (EN) : (p.) luminescencyjny
+[luminosity]luminosity (EN) : (rz.) świecenie
+[luminous]luminous (EN) : (p.) bystry; (p.) lśniący; (p.) świetlny
+[lummox]lummox (EN) : (rz.) głupek; (rz.) kołek; (rz.) tuman
+[lump]lump (EN) : (cz.) skawalać; (cz.) zbrylać; (rz.) bryła; (rz.) gruda; (rz.) grudka; (rz.) guz; (rz.) kawałek; (rz.) niedołęga
+[lumpfish]lumpfish (EN) : (rz.) tasza
+[lumping]lumping (EN) : (p.) zryczałtowany
+[lumpy]lumpy (EN) : (p.) bryłowaty; (p.) grudkowaty; (p.) grudkowy
+[lunacy]lunacy (EN) : (rz.) obłęd; (rz.) szaleństwo
+[lunar]lunar (EN) : (p.) blady; (p.) księżycowy; (p.) synodyczny
+[lunatic]lunatic (EN) : (p.) niepoczytalny; (p.) zwariowany; (rz.) lunatyk; (rz.) obłąkaniec; (rz.) szaleniec; (rz.) wariat
+[lunation]lunation (EN) : (rz.) lunacja
+[lunch]lunch (EN) : (rz.) lunch; (rz.) obiad; (rz.) posiłek
+[luncheon]luncheon (EN) : (rz.) lunch
+[lunette]lunette (EN) : (rz.) luneta
+[lung]lung (EN) : (rz.) płuco
+[lunge]lunge (EN) : (rz.) lonża; (rz.) pchnięcie
+[lungwort]lungwort (EN) : (rz.) miodunka; (rz.) płucnik
+[lupine]lupine (EN) : (p.) wilczy; (rz.) łubin
+[lupus]lupus (EN) : (rz.) toczeń; (rz.) wilk
+[lurch]lurch (EN) : (cz.) uchylać; (rz.) przechył; (rz.) przechylenie
+[lure]lure (EN) : (cz.) kusić; (cz.) mamić; (cz.) nęcić; (cz.) przywabiać; (cz.) skusić; (cz.) wabić; (cz.) zwabić; (rz.) mamidło; (rz.) nęcenie; (rz.) omamienie; (rz.) powab; (rz.) przynęta; (rz.) wab; (rz.) wabik; (rz.) zwab
+[lurid]lurid (EN) : (p.) ponury; (p.) straszny; (p.) upiorny
+[luridness]luridness (EN) : (rz.) tragiczność
+[lurk]lurk (EN) : (cz.) czaić; (cz.) czyhać; (cz.) drzemać; (cz.) obserwować; (cz.) podpatrywać
+[lurking-place]lurking-place (EN) : (rz.) kryjówka
+[luscious]luscious (EN) : (p.) ckliwy; (p.) słodki; (p.) soczysty
+[lusciously]lusciously (EN) : (p-sł.) czarująco; (p-sł.) łagodnie; (p-sł.) słodko
+[lush]lush (EN) : (p.) bujny; (rz.) pijak
+[lust]lust (EN) : (cz.) pożądać; (rz.) chuć; (rz.) jurność; (rz.) lubieżność; (rz.) pożądanie; (rz.) pożądliwość; (rz.) żądza
+[lustful]lustful (EN) : (p.) jurny; (p.) lubieżny; (p.) obleśny; (p.) pożądliwy
+[lustfully]lustfully (EN) : (p-sł.) pożądliwie
+[lustily]lustily (EN) : (p-sł.) pożądliwie; (p-sł.) silnie
+[lustiness]lustiness (EN) : (rz.) krzepkość; (rz.) siła
+[lustre]lustre (EN) : (rz.) blask; (rz.) połysk
+[lustreless]lustreless (EN) : (p.) matowy
+[lustrous]lustrous (EN) : (p.) błyszczący; (p.) połyskujący
+[lustrum]lustrum (EN) : (rz.) pięciolecie
+[lusty]lusty (EN) : (p.) krzepki; (p.) silny; (p.) tęgi; (p.) wesoły; (p.) żwawy
+[lute]lute (EN) : (rz.) kit; (rz.) lutnia
+[lutetium]lutetium (EN) : (rz.) lutet
+[luxuriance]luxuriance (EN) : (rz.) bujność
+[luxuriant]luxuriant (EN) : (p.) bujny; (p.) obfity; (p.) płodny; (p.) przepyszny
+[luxuriantly]luxuriantly (EN) : (p-sł.) bujnie; (p-sł.) obficie
+[luxuriate]luxuriate (EN) : (cz.) rosnąć; (cz.) rozkoszować; (cz.) wybujać
+[luxurious]luxurious (EN) : (p.) luksusowy; (p.) obfity; (p.) zbytkowny
+[luxuriously]luxuriously (EN) : (p-sł.) luksusowo
+[luxury]luxury (EN) : (rz.) luksus; (rz.) obfitość; (rz.) przepych; (rz.) wykwint; (rz.) zbytek
+[lyceum]lyceum (EN) : (rz.) liceum
+[lye]lye (EN) : (rz.) fug; (rz.) ług; (rz.) mijanka
+[lymph]lymph (EN) : (rz.) limfa; (rz.) wysięk
+[lymphatic]lymphatic (EN) : (p.) chłonny; (p.) limfatyczny
+[lymphocyte]lymphocyte (EN) : (rz.) limfocyt
+[lynch]lynch (EN) : (cz.) linczować; (cz.) zlinczować
+[lynx]lynx (EN) : (rz.) ryś
+[lyre]lyre (EN) : (rz.) lira
+[lyric]lyric (EN) : (p.) liryczny; (rz.) liryk; (rz.) poemat
+[lyrical]lyrical (EN) : (p.) liryczny; (p.) nastrojowy
+[lyrically]lyrically (EN) : (p-sł.) lirycznie
+[lyricism]lyricism (EN) : (rz.) liryka; (rz.) liryzm
+[lyricist]lyricist (EN) : (rz.) liryk
+[lyrics]lyrics (EN) : (rz.) tekst
+[lyrist]lyrist (EN) : (rz.) lirnik; (rz.) liryk
+[lysine]lysine (EN) : (rz.) lizyna

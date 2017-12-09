@@ -1,0 +1,1713 @@
+[t-bar]T-bar (EN) : (rz.) teownik
+[taoism]Taoism (EN) : (rz.) taoizm
+[taurus]Taurus (EN) : (rz.) byk
+[theodore]Theodore (EN) : (rz.) Teodor
+[theresa]Theresa (EN) : (rz.) Teresa
+[thursday]Thursday (EN) : (rz.) czwartek
+[tom]Tom (EN) : (rz.) Tomasz
+[tommy]Tommy (EN) : (rz.) Tomek
+[tony]Tony (EN) : (rz.) Antoni
+[tory]Tory (EN) : (rz.) torys
+[tuesday]Tuesday (EN) : (rz.) wtorek
+[t-shirt]t-shirt (EN) : (rz.) koszulka
+[t-square]t-square (EN) : (rz.) przykładnica; (rz.) węgielnica
+[tab]tab (EN) : (rz.) etykieta; (rz.) naszywka; (rz.) patka; (rz.) pętelka; (rz.) tabulacja; (rz.) tabulator; (rz.) ucho; (rz.) wieszak; (rz.) zakładka
+[tabard]tabard (EN) : (rz.) płaszczyk
+[tabernacle]tabernacle (EN) : (rz.) przybytek; (rz.) tabernakulum
+[tablature]tablature (EN) : (rz.) tabulatura
+[table]table (EN) : (rz.) stół; (rz.) stolik; (rz.) stołowy; (rz.) tabela; (rz.) tabelka; (rz.) wykaz
+[table-cloth]table-cloth (EN) : (rz.) obrus
+[table-land]table-land (EN) : (rz.) płaskowyż; (rz.) płaskowzgórze
+[tablecloth]tablecloth (EN) : (rz.) obrus; (rz.) serweta
+[tableland]tableland (EN) : (rz.) płaskowyż; (rz.) płaskowzgórze; (rz.) płaszczyzna
+[tablet]tablet (EN) : (rz.) pastylka; (rz.) rysownica; (rz.) tabletka; (rz.) tablica; (rz.) tabliczka
+[tabletop]tabletop (EN) : (rz.) blat
+[tableware]tableware (EN) : (rz.) nakrycie
+[tabloid]tabloid (EN) : (rz.) brukowiec
+[taboo]taboo (EN) : (p.) nietykalny; (rz.) nakaz; (rz.) tabu; (rz.) zakaz
+[taboos]taboos (EN) : (rz.) tabu
+[tabor]tabor (EN) : (rz.) bębenek
+[tabs]tabs (EN) : (rz.) tabulator
+[tabular]tabular (EN) : (p.) płytkowy; (p.) płytowy; (p.) tabelaryczny; (p.) tabliczkowy
+[tabulate]tabulate (EN) : (cz.) tablicować; (cz.) tabulować
+[tabulation]tabulation (EN) : (rz.) tabela; (rz.) tabulacja; (rz.) tabulowanie
+[tabulations]tabulations (EN) : (rz.) tabulogram
+[tabulator]tabulator (EN) : (rz.) tabulator
+[tabulators]tabulators (EN) : (rz.) tabulator
+[tachometer]tachometer (EN) : (rz.) obrotomierz; (rz.) prędkościomierz; (rz.) tachometr
+[tachycardia]tachycardia (EN) : (rz.) częstoskurcz; (rz.) tachykardia
+[tachymeter]tachymeter (EN) : (rz.) tachymetr
+[tacit]tacit (EN) : (p.) cichy; (p.) milczący; (p.) niemy
+[tacitly]tacitly (EN) : (p-sł.) milcząco
+[taciturn]taciturn (EN) : (p.) małomówny; (p.) milkliwy; (p.) mrukliwy
+[taciturnity]taciturnity (EN) : (rz.) małomówność
+[tack]tack (EN) : (cz.) fastrygować; (cz.) halsować; (cz.) lawirować; (cz.) przybić; (cz.) przybijać; (cz.) przymocować; (cz.) przypinać; (cz.) sfastrygować; (rz.) ćwiek; (rz.) fastryga; (rz.) hals; (rz.) kierunek; (rz.) pinezka; (rz.) pluskiewka; (rz.) sztyft
+[tackle]tackle (EN) : (cz.) obchodzić; (cz.) przymocować; (cz.) przystępować; (cz.) uporać; (cz.) wziąć; (cz.) zabierać; (cz.) zabrać; (cz.) zająć; (cz.) zmagać; (rz.) przybory; (rz.) sprzęt; (rz.) takielunek
+[tackling]tackling (EN) : (rz.) sprzęt; (rz.) takielunek; (rz.) uporanie; (rz.) uprząż
+[tacky]tacky (EN) : (p.) kleisty; (p.) lepki; (p.) tandetny
+[tact]tact (EN) : (rz.) delikatność; (rz.) takt; (rz.) taktowność
+[tactful]tactful (EN) : (p.) taktowny
+[tactfully]tactfully (EN) : (p-sł.) taktownie
+[tactic]tactic (EN) : (p.) taktyczny; (rz.) taktyka
+[tactical]tactical (EN) : (p.) taktyczny
+[tactically]tactically (EN) : (p-sł.) taktycznie
+[tactician]tactician (EN) : (rz.) taktyk; (rz.) taktyka
+[tactics]tactics (EN) : (rz.) taktyk; (rz.) taktyka
+[tactile]tactile (EN) : (p.) dotykowy; (p.) namacalny
+[tactless]tactless (EN) : (p.) niedelikatny; (p.) nietaktowny
+[tactlessly]tactlessly (EN) : (p-sł.) nietaktownie
+[tactlessness]tactlessness (EN) : (rz.) niedelikatność; (rz.) nietakt
+[tactual]tactual (EN) : (p.) dotykowy; (p.) namacalny
+[tad]tad (EN) : (rz.) berbeć
+[tadpole]tadpole (EN) : (rz.) kijanka; (rz.) kijek
+[taffeta]taffeta (EN) : (rz.) tafta
+[tag]tag (EN) : (cz.) etykietować; (cz.) łączyć; (cz.) oznaczyć; (cz.) przymocować; (cz.) przywiązać; (cz.) złączyć; (cz.) związać; (rz.) banał; (rz.) cecha; (rz.) druty; (rz.) etykieta; (rz.) etykietka; (rz.) frazes; (rz.) metka; (rz.) nalepka; (rz.) oznacznik; (rz.) pętelka; (rz.) powiedzonko; (rz.) przyczepka; (rz.) przywieszka; (rz.) refren; (rz.) skuwka; (rz.) uchwyt; (rz.) znacznik
+[tagged]tagged (EN) : (p.) zaznaczony
+[tags]tags (EN) : (rz.) cech; (rz.) metek
+[taiga]taiga (EN) : (rz.) tajga
+[tail]tail (EN) : (rz.) koniec; (rz.) ogon; (rz.) ogonek; (rz.) poła; (rz.) stopka; (rz.) usterzenie; (rz.) warkocz
+[tail-coat]tail-coat (EN) : (rz.) frak; (rz.) żakiet
+[tail-spin]tail-spin (EN) : (rz.) korkociąg
+[tailcoat]tailcoat (EN) : (rz.) frak; (rz.) żakiet
+[tailgate]tailgate (EN) : (rz.) klapa
+[tailings]tailings (EN) : (rz.) odpadki; (rz.) poślad
+[tailless]tailless (EN) : (p.) bezogonowy
+[tailor]tailor (EN) : (rz.) krawiec
+[tailoring]tailoring (EN) : (rz.) krawiectwo; (rz.) szycie
+[tails]tails (EN) : (rz.) odpadki; (rz.) pogoń; (rz.) reszka; (rz.) szlam
+[tailspin]tailspin (EN) : (rz.) korkociąg
+[taint]taint (EN) : (cz.) plamić; (cz.) poplamić; (cz.) psuć; (cz.) splugawić; (cz.) zarażać; (cz.) zepsuć; (rz.) plama; (rz.) skaza; (rz.) zepsucie
+[take]take (EN) : (cz.) brać; (cz.) kupić; (cz.) nabierać; (cz.) odnosić; (cz.) podejmować; (cz.) podjąć; (cz.) ponosić; (cz.) przyjmować; (cz.) przypatrzeć; (cz.) robić; (cz.) sadowić; (cz.) ujmować; (cz.) wymagać; (cz.) wziąć; (cz.) zabierać; (cz.) zabrać; (cz.) zajmować; (cz.) zażyć; (cz.) zażywać; (cz.) znosić; (cz.) zrobić
+[take-in]take-in (EN) : (rz.) naciąganie; (rz.) okpienie; (rz.) oszustwo; (rz.) wydrwigrosz
+[take-off]take-off (EN) : (rz.) karykatura; (rz.) naśladownictwo; (rz.) odlot; (rz.) parodia; (rz.) skocznia; (rz.) starcie; (rz.) start; (rz.) zdjęcie
+[take-up]take-up (EN) : (rz.) popyt; (rz.) zainteresowanie
+[taken]taken (EN) : (cz.) podejmować; (cz.) podjąć; (cz.) potraktować; (cz.) powziąć; (cz.) przedsięwziąć; (cz.) wziąć
+[takeoff]takeoff (EN) : (cz.) startować; (rz.) karykatura; (rz.) naśladownictwo; (rz.) odlot; (rz.) parodia; (rz.) uruchomienie; (rz.) zdjęcie
+[takeover]takeover (EN) : (rz.) przejmowanie
+[taking]taking (EN) : (rz.) dochód; (rz.) pobieranie; (rz.) poprowadzenie; (rz.) utarg; (rz.) wpływ; (rz.) zabranie; (rz.) zawiezienie
+[takings]takings (EN) : (rz.) utarg
+[talc]talc (EN) : (rz.) talk
+[tale]tale (EN) : (rz.) bajka; (rz.) opowiadanie; (rz.) opowiastka; (rz.) opowieść; (rz.) powiastka; (rz.) przypowieść; (rz.) talk
+[talent]talent (EN) : (rz.) talent; (rz.) uzdolnienie
+[talented]talented (EN) : (p.) utalentowany; (p.) zdolny
+[talisman]talisman (EN) : (rz.) talizman
+[talk]talk (EN) : (cz.) gadać; (cz.) komunikować; (cz.) mówić; (cz.) rozmawiać; (rz.) gadanie; (rz.) pogadanka; (rz.) pogłoska; (rz.) rozmowa; (rz.) wykład
+[talkative]talkative (EN) : (p.) gadatliwy; (p.) rozmowny; (p.) wielomówny
+[talkatively]talkatively (EN) : (p-sł.) rozmownie
+[talkativeness]talkativeness (EN) : (rz.) gadatliwość; (rz.) gadulstwo; (rz.) rozmowność
+[talker]talker (EN) : (rz.) gaduła; (rz.) mówca
+[talkfest]talkfest (EN) : (rz.) gadanina
+[talking-to]talking-to (EN) : (rz.) bura; (rz.) zbesztanie
+[talky]talky (EN) : (p.) gadatliwy
+[tall]tall (EN) : (p.) rosły; (p.) strzelisty; (p.) wysoki
+[tallboy]tallboy (EN) : (rz.) komoda; (rz.) strażak
+[tallow]tallow (EN) : (cz.) nałoić; (cz.) wyłoić; (rz.) łój; (rz.) maź; (rz.) tłuszcz
+[tally]tally (EN) : (cz.) liczyć; (cz.) obliczać; (cz.) oznaczać; (cz.) wyliczać; (cz.) zgadzać; (rz.) etykietka; (rz.) rejestr
+[tallyman]tallyman (EN) : (rz.) liczman; (rz.) rachmistrz; (rz.) znaczkarz
+[talon]talon (EN) : (rz.) pazur; (rz.) szpon; (rz.) szpona
+[talus]talus (EN) : (rz.) osypisko; (rz.) piarg
+[tam]tam (EN) : (rz.) wikariat
+[tama]tama (EN) : (p.) taśmowy
+[tamarind]tamarind (EN) : (rz.) tamaryndowiec
+[tamarisk]tamarisk (EN) : (rz.) tamaryszek
+[tambour]tambour (EN) : (rz.) kolcobrzuch; (rz.) tamborek
+[tambourine]tambourine (EN) : (rz.) tamburyn; (rz.) tamburyno
+[tame]tame (EN) : (cz.) obłaskawiać; (cz.) oswajać; (cz.) oswoić; (cz.) poskramiać; (cz.) poskromić; (cz.) ugłaskać; (p.) łagodny; (p.) oswojony; (p.) swojski; (p.) uległy
+[tameable]tameable (EN) : (p.) oswajalny
+[tamely]tamely (EN) : (p-sł.) potulnie
+[tameness]tameness (EN) : (rz.) uległość
+[tamer]tamer (EN) : (rz.) pogromca; (rz.) poskramiacz; (rz.) poskromiciel; (rz.) treser
+[tamp]tamp (EN) : (cz.) ubić; (cz.) ubijać; (cz.) utykać
+[tamper]tamper (EN) : (cz.) babrać; (cz.) manipulować; (cz.) ruszać; (cz.) sfałszować; (cz.) wtrącać
+[tampon]tampon (EN) : (rz.) podkładka; (rz.) tampon
+[tampons]tampons (EN) : (rz.) tamponowanie
+[tan]tan (EN) : (cz.) garbować; (cz.) opalać; (rz.) garbowanie; (rz.) opalenizna
+[tandem]tandem (EN) : (rz.) tandem
+[tang]tang (EN) : (rz.) brzdęk; (rz.) chwyt; (rz.) posmak; (rz.) trzpień
+[tangency]tangency (EN) : (rz.) styczność
+[tangent]tangent (EN) : (rz.) styczna; (rz.) tangens
+[tangential]tangential (EN) : (p.) styczny; (p.) tangensowy
+[tangentially]tangentially (EN) : (p-sł.) stycznie
+[tangerine]tangerine (EN) : (rz.) mandaryn; (rz.) mandarynka
+[tangibility]tangibility (EN) : (rz.) dotykalność; (rz.) namacalność
+[tangible]tangible (EN) : (p.) dotykalny; (p.) faktyczny; (p.) namacalny; (p.) rzeczywisty; (p.) uchwytny
+[tangibly]tangibly (EN) : (p-sł.) namacalnie
+[tangle]tangle (EN) : (cz.) gmatwać; (cz.) kołtunić; (cz.) motać; (cz.) plątać; (cz.) poplątać; (cz.) powikłać; (cz.) splątać; (cz.) wikłać; (cz.) wplątać; (cz.) zagmatwać; (cz.) zaplątać; (cz.) zawikłać; (rz.) gmatwanina; (rz.) krętanina; (rz.) plątanina; (rz.) pokrzyżowanie; (rz.) splot; (rz.) supeł; (rz.) zagmatwanie
+[tango]tango (EN) : (rz.) tango
+[tangy]tangy (EN) : (p.) aromatyczny; (p.) cierpki
+[tank]tank (EN) : (rz.) bak; (rz.) basen; (rz.) cysterna; (rz.) czołg; (rz.) zbiornik
+[tankard]tankard (EN) : (rz.) kufel
+[tanker]tanker (EN) : (rz.) cysterna; (rz.) tankowiec; (rz.) zbiornikowiec
+[tanner]tanner (EN) : (rz.) garbarz; (rz.) garbowanie; (rz.) skórnik; (rz.) sześciopensówka
+[tannery]tannery (EN) : (rz.) garbarnia
+[tannin]tannin (EN) : (rz.) garbnik; (rz.) tanina
+[tantalite]tantalite (EN) : (rz.) kolumbit; (rz.) tantalit
+[tantalize]tantalize (EN) : (cz.) drażnić; (cz.) dręczyć; (cz.) kusić; (cz.) zwodzić
+[tantalum]tantalum (EN) : (rz.) tantal
+[tantamount]tantamount (EN) : (p.) równowartościowy; (p.) równoznaczny; (p.) równy
+[tantrum]tantrum (EN) : (rz.) furia; (rz.) histeria
+[tap]tap (EN) : (cz.) czerpać; (cz.) klepać; (cz.) odszpuntować; (cz.) opukać; (cz.) pukać; (cz.) stukać; (rz.) gwintownik; (rz.) kran; (rz.) kurek; (rz.) podsłuch; (rz.) zawór
+[tap-dance]tap-dance (EN) : (rz.) stepowanie
+[tap-dancing]tap-dancing (EN) : (rz.) stepowanie
+[tape]tape (EN) : (cz.) nagrywać; (rz.) kaseta; (rz.) magnetofon; (rz.) sznurek; (rz.) tasiemka; (rz.) taśma; (rz.) wstążka
+[tape-measure]tape-measure (EN) : (rz.) centymetr
+[tape-recorder]tape-recorder (EN) : (rz.) magnetofon
+[tape-recording]tape-recording (EN) : (rz.) nagranie; (rz.) nagrywanie
+[taper]taper (EN) : (cz.) stożkować; (cz.) zastrugać; (rz.) kończenie; (rz.) koniec; (rz.) skos; (rz.) stożek; (rz.) stożkowatość; (rz.) świeca; (rz.) zbieganie; (rz.) zbieżność; (rz.) zmniejszanie; (rz.) zwężanie
+[tapestry]tapestry (EN) : (rz.) gobelin; (rz.) makata; (rz.) obicie; (rz.) tapeta; (rz.) tkanina
+[tapeworm]tapeworm (EN) : (rz.) soliter; (rz.) tasiemiec
+[tapioca]tapioca (EN) : (rz.) tapioka
+[tapir]tapir (EN) : (rz.) tapir
+[tappet]tappet (EN) : (rz.) popychacz
+[taproom]taproom (EN) : (rz.) szynk
+[tar]tar (EN) : (cz.) nasmołować; (cz.) smołować; (rz.) dziegieć; (rz.) lepik; (rz.) smoła; (rz.) smołowanie; (rz.) smołowiec
+[tarantella]tarantella (EN) : (rz.) tarantela
+[tarantula]tarantula (EN) : (rz.) tarantula
+[tardily]tardily (EN) : (p-sł.) powoli
+[tardiness]tardiness (EN) : (rz.) opieszałość; (rz.) powolność
+[tardy]tardy (EN) : (p.) nierychliwy; (p.) ociężały; (p.) powolny
+[tare]tare (EN) : (rz.) tara
+[target]target (EN) : (rz.) cel; (rz.) kierowanie; (rz.) obiekt; (rz.) tarcza
+[targeting]targeting (EN) : (cz.) celować; (cz.) mierzyć; (rz.) cel; (rz.) celowanie; (rz.) tarcza
+[tariff]tariff (EN) : (rz.) cło; (rz.) taryfa; (rz.) taryfikator; (rz.) taryfowanie
+[tarlatan]tarlatan (EN) : (rz.) tarlatan
+[tarmac]tarmac (EN) : (rz.) asfalt
+[tarn]tarn (EN) : (rz.) tarń
+[tarnish]tarnish (EN) : (cz.) matowieć; (cz.) plamić; (cz.) przyćmić; (cz.) ściemnić; (cz.) ściemnieć; (cz.) śniedzieć; (cz.) zmaterializować; (cz.) zmatowieć; (rz.) bombardowanie; (rz.) śniedź; (rz.) zmatowienie
+[tarp]tarp (EN) : (rz.) brezent
+[tarpaulin]tarpaulin (EN) : (rz.) brezent; (rz.) plandeka; (rz.) tkanina
+[tarragon]tarragon (EN) : (rz.) estragon
+[tarry]tarry (EN) : (cz.) ociągać; (cz.) pozostać; (cz.) pozostawać; (cz.) zwlekać
+[tarsal]tarsal (EN) : (p.) stepowy
+[tarsus]tarsus (EN) : (rz.) stęp; (rz.) tarczka
+[tart]tart (EN) : (p.) cierpki; (p.) uszczypliwy; (p.) zgorzkniały; (rz.) ciastko; (rz.) kokota; (rz.) lafirynda; (rz.) tort
+[tartan]tartan (EN) : (rz.) tartan
+[tartar]tartar (EN) : (rz.) winnik
+[tartaric]tartaric (EN) : (p.) winowy
+[tartness]tartness (EN) : (rz.) cierpkość; (rz.) kwaśność; (rz.) zgryźliwość
+[task]task (EN) : (rz.) praca; (rz.) robótka; (rz.) sprawa; (rz.) zadanie; (rz.) zajęcie
+[taskmaster]taskmaster (EN) : (rz.) ciemięzca; (rz.) ciemiężca; (rz.) gnębiciel; (rz.) tyran
+[tassel]tassel (EN) : (rz.) frędzel; (rz.) kitka; (rz.) ozdoba; (rz.) pompon
+[taste]taste (EN) : (cz.) degustować; (cz.) kosztować; (cz.) pokosztować; (cz.) popróbować; (cz.) posmakować; (cz.) próbować; (cz.) skosztować; (cz.) smakować; (cz.) spróbować; (cz.) zakosztować; (cz.) zaznać; (rz.) gust; (rz.) smak; (rz.) sympatia; (rz.) zamiłowanie
+[tasteful]tasteful (EN) : (p.) gustowny
+[tastefully]tastefully (EN) : (p-sł.) gustownie; (p-sł.) smakowicie
+[tasteless]tasteless (EN) : (p.) bezsmakowy; (p.) niegustowny; (p.) nieprzyjemny; (p.) niesmaczny
+[tastelessly]tastelessly (EN) : (p-sł.) niegustownie
+[taster]taster (EN) : (rz.) degustator
+[tasting]tasting (EN) : (rz.) degustacja; (rz.) próbowanie; (rz.) smakowanie
+[tasty]tasty (EN) : (p.) apetyczny; (p.) smaczny
+[tater]tater (EN) : (rz.) ziemniak
+[tatter]tatter (EN) : (rz.) gaduła; (rz.) łachman; (rz.) szmata
+[tatterdemalion]tatterdemalion (EN) : (rz.) golectat; (rz.) obdartus; (rz.) oberwaniec; (rz.) obszarpaniec
+[tattered]tattered (EN) : (p.) obdarty; (p.) obszarpany
+[tattle]tattle (EN) : (cz.) gawędzić; (cz.) plotkować; (rz.) gadanina
+[tattler]tattler (EN) : (rz.) gaduła; (rz.) plotkarz; (rz.) skarżypyta
+[tattletale]tattletale (EN) : (rz.) skarżypyta
+[tattoo]tattoo (EN) : (cz.) tatuować; (cz.) wykluć; (cz.) wykłuć; (cz.) wytatuować; (rz.) capstrzyk; (rz.) tatuaż
+[taught]taught (EN) : (cz.) uczyć; (cz.) wpoić
+[taunt]taunt (EN) : (cz.) docinać; (cz.) dokuczać; (cz.) wyśmiewać; (rz.) drwina; (rz.) przycinek; (rz.) wyśmiewanie; (rz.) zaczepka
+[taut]taut (EN) : (p.) napięty; (p.) naprężony
+[tauten]tauten (EN) : (cz.) napinać
+[tautness]tautness (EN) : (rz.) napięcie
+[tautological]tautological (EN) : (p.) tautologiczny
+[tautologically]tautologically (EN) : (p-sł.) tautologicznie
+[tautology]tautology (EN) : (rz.) tautologia
+[tavern]tavern (EN) : (rz.) karczma; (rz.) knajpa; (rz.) oberża; (rz.) tawerna; (rz.) wyszynk
+[tawdriness]tawdriness (EN) : (rz.) niegustowność
+[tawdry]tawdry (EN) : (p.) krzykliwy
+[tawny]tawny (EN) : (p.) brązowy; (p.) płowy; (p.) śniady; (p.) żółtobrązowy
+[taws]taws (EN) : (rz.) pasek
+[tax]tax (EN) : (cz.) opodatkować; (cz.) opodatkowywać; (cz.) szacować; (rz.) celnik; (rz.) ciężar; (rz.) cło; (rz.) fiskus; (rz.) opodatkowanie; (rz.) podatek; (rz.) taksa
+[tax-collector]tax-collector (EN) : (rz.) poborca
+[tax-free]tax-free (EN) : (p.) bezcłowy
+[tax-payer]tax-payer (EN) : (rz.) podatnik
+[taxation]taxation (EN) : (rz.) opodatkowanie
+[taxi]taxi (EN) : (cz.) kołować; (rz.) dorożka; (rz.) kołowanie; (rz.) taksówka
+[taxi-cab]taxi-cab (EN) : (rz.) taksówka
+[taxi-driver]taxi-driver (EN) : (rz.) taksówkarz
+[taxicab]taxicab (EN) : (rz.) taksówka
+[taxidermist]taxidermist (EN) : (rz.) wypychacz
+[taxidermy]taxidermy (EN) : (rz.) wypychanie
+[taximeter]taximeter (EN) : (rz.) taksometr
+[taxing]taxing (EN) : (rz.) opodatkowywanie
+[taxis]taxis (EN) : (rz.) taksja
+[taxman]taxman (EN) : (rz.) taksówkarz
+[taxonomic]taxonomic (EN) : (p.) taksonomiczny
+[taxonomy]taxonomy (EN) : (rz.) systematyka; (rz.) taksonomia
+[taxpayer]taxpayer (EN) : (rz.) podatnik
+[tea]tea (EN) : (rz.) herbaciarnia; (rz.) herbata; (rz.) herbatka; (rz.) podwieczorek
+[tea-cake]tea-cake (EN) : (rz.) keks
+[tea-cup]tea-cup (EN) : (rz.) filiżanka
+[tea-house]tea-house (EN) : (rz.) herbaciarnia
+[tea-pot]tea-pot (EN) : (rz.) imbryk
+[tea-room]tea-room (EN) : (rz.) herbaciarnia; (rz.) kawiarnia
+[tea-shop]tea-shop (EN) : (rz.) herbaciarnia
+[teacake]teacake (EN) : (rz.) keks
+[teach]teach (EN) : (cz.) nauczać; (cz.) uczyć
+[teachable]teachable (EN) : (p.) pojętny
+[teacher]teacher (EN) : (rz.) bakałarz; (rz.) belfer; (rz.) docent; (rz.) nauczyciel; (rz.) wychowawca
+[teacher's]teacher's (EN) : (p.) nauczycielski
+[teachers]teachers (EN) : (rz.) nauczycielstwo
+[teaching]teaching (EN) : (rz.) dydaktyka; (rz.) habilitacja; (rz.) nauczanie; (rz.) nauczycielstwo; (rz.) nauka
+[teacup]teacup (EN) : (rz.) filiżanka; (rz.) kubek
+[teahouse]teahouse (EN) : (rz.) herbaciarnia
+[teak]teak (EN) : (rz.) tik
+[teakettle]teakettle (EN) : (rz.) czajnik; (rz.) imbryk; (rz.) sagan
+[teal]teal (EN) : (rz.) cyranka
+[team]team (EN) : (cz.) zaprzęgać; (cz.) zespalać; (rz.) brygada; (rz.) drużyna; (rz.) ekipa; (rz.) grono; (rz.) reprezentacja; (rz.) sztab; (rz.) zaprzęg; (rz.) zespół
+[team-work]team-work (EN) : (rz.) zgranie
+[teamwork]teamwork (EN) : (rz.) współpraca
+[teapot]teapot (EN) : (rz.) dzbanek; (rz.) imbryk; (rz.) kałamarz; (rz.) kociołek
+[tear]tear (EN) : (cz.) drzeć; (cz.) nadedrzeć; (cz.) obrywać; (cz.) oderwać; (cz.) podrzeć; (cz.) przedzierać; (cz.) rozedrzeć; (cz.) rozerwać; (cz.) rwać; (cz.) szarpać; (cz.) ukręcić; (rz.) łza; (rz.) łzawienie; (rz.) podarcie; (rz.) rozdarcie; (rz.) rozerwanie
+[tearaway]tearaway (EN) : (p.) gwałtowny
+[teardrop]teardrop (EN) : (rz.) łza
+[tearful]tearful (EN) : (p.) płaczliwy; (p.) smutny
+[tearoom]tearoom (EN) : (rz.) herbaciarnia; (rz.) kawiarnia
+[teary]teary (EN) : (p.) łzawy
+[tease]tease (EN) : (cz.) docinać; (cz.) dokuczać; (cz.) drażnić; (cz.) droczyć; (rz.) kpiarz; (rz.) złośliwiec
+[teaser]teaser (EN) : (rz.) kpiarz; (rz.) topiarz; (rz.) zagadka
+[teasing]teasing (EN) : (rz.) dokuczanie
+[teaspoon]teaspoon (EN) : (rz.) łyżeczka; (rz.) łyżka
+[teaspoonful]teaspoonful (EN) : (rz.) treść; (rz.) zawartość
+[teat]teat (EN) : (rz.) cycek; (rz.) dójka; (rz.) smoczek; (rz.) sutek; (rz.) sutka
+[tech]tech (EN) : (rz.) technikum
+[technetium]technetium (EN) : (rz.) technet
+[technical]technical (EN) : (p.) techniczny
+[technicality]technicality (EN) : (rz.) osobliwość; (rz.) szczegół
+[technically]technically (EN) : (p-sł.) technicznie
+[technician]technician (EN) : (rz.) technik; (rz.) technika
+[technique]technique (EN) : (rz.) metoda; (rz.) sprawność; (rz.) technika; (rz.) technologia; (rz.) umiejętność
+[techno]techno (EN) : (rz.) techno
+[techno-economic]techno-economic (EN) : (p.) techniczno-ekonomiczny
+[technocracy]technocracy (EN) : (rz.) technokracja
+[technocrat]technocrat (EN) : (rz.) technokrata
+[technological]technological (EN) : (p.) techniczny; (p.) technologiczny
+[technologically]technologically (EN) : (p-sł.) technologicznie
+[technologist]technologist (EN) : (rz.) technolog
+[technology]technology (EN) : (rz.) technika; (rz.) technologia
+[tectonic]tectonic (EN) : (p.) górotwórczy; (p.) tektoniczny
+[tectonics]tectonics (EN) : (rz.) architektonika; (rz.) tektonika
+[teddy]teddy (EN) : (rz.) miś
+[tedious]tedious (EN) : (p.) męczący; (p.) mętny; (p.) nudny
+[tediously]tediously (EN) : (p-sł.) nudno; (p-sł.) nużąco
+[tediousness]tediousness (EN) : (rz.) banalność; (rz.) nuda
+[tedium]tedium (EN) : (rz.) nuda; (rz.) nudność; (rz.) wstręt
+[tee]tee (EN) : (rz.) cel; (rz.) podstawka; (rz.) tarcza; (rz.) teownik; (rz.) znak
+[teem]teem (EN) : (cz.) obfitować; (cz.) roić
+[teen]teen (EN) : (rz.) nastolatek
+[teen-ager]teen-ager (EN) : (rz.) podlotek; (rz.) wyrostek
+[teenage]teenage (EN) : (p.) młodzieżowy; (p.) nastoletni
+[teenager]teenager (EN) : (rz.) małolat; (rz.) nastolatek; (rz.) podfruwajka; (rz.) podlotek; (rz.) wyrostek
+[teensy]teensy (EN) : (p.) nieduży
+[teeter]teeter (EN) : (cz.) chwiać; (cz.) zataczać; (rz.) huśtawka
+[teeth]teeth (EN) : (rz.) uzębienie; (rz.) zęby
+[teethe]teethe (EN) : (cz.) ząbkować
+[teething]teething (EN) : (rz.) ząbkowanie
+[teetotal]teetotal (EN) : (p.) antyalkoholowy
+[teetotalism]teetotalism (EN) : (rz.) abstynencja
+[teetotaller]teetotaller (EN) : (rz.) abstynent
+[tegument]tegument (EN) : (rz.) pokrywa
+[telecast]telecast (EN) : (rz.) teletransmisja
+[telecommunication]telecommunication (EN) : (rz.) łączność; (rz.) telekomunikacja
+[telecommunications]telecommunications (EN) : (rz.) telekomunikacja
+[telecommuting]telecommuting (EN) : (rz.) telekomutacja; (rz.) telepraca
+[teleconference]teleconference (EN) : (rz.) telekonferencja
+[teleconferencing]teleconferencing (EN) : (rz.) telekonferencja; (rz.) telekonferencje
+[telegram]telegram (EN) : (rz.) depesza; (rz.) przesyłka; (rz.) telegram
+[telegraph]telegraph (EN) : (cz.) depeszować; (cz.) telegrafować; (rz.) telegraf
+[telegrapher]telegrapher (EN) : (rz.) telegrafista
+[telegraphic]telegraphic (EN) : (p.) telegraficzny
+[telegraphically]telegraphically (EN) : (p-sł.) telegraficznie
+[telegraphs]telegraphs (EN) : (rz.) telegrafowanie
+[telegraphy]telegraphy (EN) : (rz.) telegraf; (rz.) telegrafia
+[telekinesis]telekinesis (EN) : (rz.) telekineza
+[telekinetic]telekinetic (EN) : (p.) telekinetyczny
+[telemeter]telemeter (EN) : (rz.) dalekomierz; (rz.) dalmierz; (rz.) telemetr
+[telemetric]telemetric (EN) : (p.) telemetryczny
+[telemetry]telemetry (EN) : (rz.) telemetria
+[teleological]teleological (EN) : (p.) teleologiczny
+[teleology]teleology (EN) : (rz.) teleologia
+[telepathic]telepathic (EN) : (p.) telepatyczny
+[telepathy]telepathy (EN) : (rz.) telepatia
+[telephone]telephone (EN) : (cz.) telefonować; (rz.) łącznica; (rz.) telefon; (rz.) zegarynka
+[telephonic]telephonic (EN) : (p.) telefoniczny
+[telephonist]telephonist (EN) : (rz.) telefonista
+[telephony]telephony (EN) : (rz.) telefonia
+[telephoto]telephoto (EN) : (rz.) teleobiektyw; (rz.) teleskopowa
+[telephotograph]telephotograph (EN) : (rz.) fototelegram; (rz.) telefotografia
+[telephotography]telephotography (EN) : (rz.) symilografia; (rz.) telefotografia
+[teleprocessing]teleprocessing (EN) : (rz.) teleprzetwarzanie
+[telescope]telescope (EN) : (rz.) luneta; (rz.) teleskop
+[telescopic]telescopic (EN) : (p.) teleskopowy
+[telescopically]telescopically (EN) : (p-sł.) teleskopowo
+[teletype]teletype (EN) : (rz.) dalekopis
+[teletypewriter]teletypewriter (EN) : (rz.) dalekopis
+[televise]televise (EN) : (cz.) nadawać; (cz.) transmitować
+[television]television (EN) : (rz.) telewizja; (rz.) telewizor
+[television-set]television-set (EN) : (rz.) telewizor
+[telex]telex (EN) : (rz.) teleks
+[tell]tell (EN) : (cz.) dyktować; (cz.) kazać; (cz.) mówić; (cz.) napleść; (cz.) opowiadać; (cz.) opowiedzieć; (cz.) poinformować; (cz.) poinstruować; (cz.) powiadać; (cz.) powiadomić; (cz.) powiedzieć; (cz.) wskazać
+[teller]teller (EN) : (rz.) kasjer
+[telling]telling (EN) : (p.) wymowny; (rz.) mówienie
+[telling-off]telling-off (EN) : (rz.) bura; (rz.) połajanie; (rz.) zbesztanie
+[telltale]telltale (EN) : (p.) plotkarski; (p.) wrażliwy; (p.) zdradziecki; (rz.) denuncjant; (rz.) plotkarz; (rz.) skarżypyta
+[telluride]telluride (EN) : (rz.) tellurek
+[tellurium]tellurium (EN) : (rz.) tellur
+[telly]telly (EN) : (rz.) telewizja
+[temerity]temerity (EN) : (rz.) śmiałość; (rz.) zuchwałość; (rz.) zuchwalstwo
+[temper]temper (EN) : (cz.) hartować; (cz.) narozrabiać; (cz.) odpuszczać; (rz.) charakter; (rz.) hartowanie; (rz.) humor; (rz.) łagodzenie; (rz.) nastrój; (rz.) natura; (rz.) temperament; (rz.) usposobienie
+[tempera]tempera (EN) : (rz.) tempera
+[temperament]temperament (EN) : (rz.) temperament
+[temperamental]temperamental (EN) : (p.) kapryśny; (p.) wybuchowy
+[temperance]temperance (EN) : (rz.) abstynencja; (rz.) powściągliwość; (rz.) trzeźwość; (rz.) umiar; (rz.) wstrzemięźliwość
+[temperate]temperate (EN) : (p.) powściągliwy; (p.) trzeźwy; (p.) umiarkowany; (p.) wstrzemięźliwy
+[temperately]temperately (EN) : (p-sł.) umiarkowanie
+[temperature]temperature (EN) : (rz.) ciepłota; (rz.) gorączka; (rz.) tempera; (rz.) temperatura
+[tempest]tempest (EN) : (rz.) burza; (rz.) nawałnica
+[tempestuous]tempestuous (EN) : (p.) burzliwy; (p.) nawalny
+[tempestuousness]tempestuousness (EN) : (rz.) wzburzenie
+[templar]templar (EN) : (rz.) templariusz
+[template]template (EN) : (rz.) szablon
+[temple]temple (EN) : (rz.) rozciągacz; (rz.) skroń; (rz.) świątynia
+[tempo]tempo (EN) : (rz.) tempo
+[temporal]temporal (EN) : (p.) czasowy; (p.) doczesny; (p.) skroniowy; (p.) świecki; (p.) tymczasowy; (p.) ziemski
+[temporality]temporality (EN) : (rz.) doczesność; (rz.) tymczasowość
+[temporally]temporally (EN) : (p-sł.) docześnie
+[temporarily]temporarily (EN) : (p-sł.) chwilowo; (p-sł.) czasowo; (p-sł.) przejściowo; (p-sł.) tymczasowo
+[temporary]temporary (EN) : (p.) chwilowy; (p.) czasowy; (p.) doraźny; (p.) okresowy; (p.) pobytowy; (p.) przejściowy; (p.) tymczasowy
+[temporize]temporize (EN) : (cz.) starać; (cz.) zwlekać
+[tempt]tempt (EN) : (cz.) kusić; (cz.) mamić; (cz.) namawiać; (cz.) nęcić; (cz.) skusić; (cz.) wabić
+[temptation]temptation (EN) : (rz.) kuszenie; (rz.) pokusa; (rz.) pokuszenie
+[tempter]tempter (EN) : (rz.) kusiciel
+[tempting]tempting (EN) : (p.) kusicielski
+[ten]ten (EN) : (rz.) dziesiąta
+[tenacious]tenacious (EN) : (p.) nieustępliwy; (p.) spoisty; (p.) trwały; (p.) uporczywy; (p.) wierny; (p.) wytrzymały
+[tenacity]tenacity (EN) : (rz.) adhezyjność; (rz.) dzierżawa; (rz.) nieustępliwość; (rz.) przyczepność; (rz.) trwałość; (rz.) upór; (rz.) wytrzymałość
+[tenancy]tenancy (EN) : (rz.) dzierżawa; (rz.) najem
+[tenant]tenant (EN) : (cz.) dzierżawić; (rz.) dzierżawca; (rz.) lokator; (rz.) najemca; (rz.) wynajemca
+[tend]tend (EN) : (cz.) dążyć; (cz.) doglądać; (cz.) dozorować; (cz.) kłaniać; (cz.) obsługiwać; (cz.) opiekować; (cz.) pilnować; (cz.) skłaniać; (cz.) zmierzać
+[tendency]tendency (EN) : (rz.) dążność; (rz.) kierunek; (rz.) skłonność; (rz.) tendencja; (rz.) zwyczaj
+[tendentious]tendentious (EN) : (p.) tendencyjny
+[tendentiousness]tendentiousness (EN) : (rz.) tendencyjność
+[tender]tender (EN) : (cz.) podawać; (cz.) przekazywać; (cz.) wręczać; (p.) czuły; (p.) delikatny; (p.) kruchy; (rz.) delikatność; (rz.) miękkość; (rz.) oferowanie; (rz.) oferta; (rz.) pieszczotliwość; (rz.) podawanie; (rz.) podaż; (rz.) przekazywanie; (rz.) przetarg; (rz.) wrażliwość; (rz.) wręczanie
+[tender-hearted]tender-hearted (EN) : (p.) czuły; (p.) wrażliwy
+[tenderfoot]tenderfoot (EN) : (rz.) nowicjusz
+[tenderize]tenderize (EN) : (cz.) zmiękczać
+[tenderloin]tenderloin (EN) : (rz.) polędwica
+[tenderly]tenderly (EN) : (p-sł.) czule; (p-sł.) delikatnie; (p-sł.) miękko
+[tenderness]tenderness (EN) : (rz.) czułość; (rz.) delikatność; (rz.) kruchość; (rz.) tkliwość
+[tendon]tendon (EN) : (rz.) ścięgno
+[tendril]tendril (EN) : (rz.) wąs
+[tenement]tenement (EN) : (rz.) kamienica; (rz.) posiadłość
+[tenement-house]tenement-house (EN) : (rz.) dom
+[tenet]tenet (EN) : (rz.) dogmat; (rz.) doktryna; (rz.) zasada
+[tenfold]tenfold (EN) : (p.) dziesięciokrotny; (p-sł.) dziesięciokrotnie
+[tennis]tennis (EN) : (rz.) tenis; (rz.) tenisista
+[tennis-court]tennis-court (EN) : (rz.) kort
+[tennis-player]tennis-player (EN) : (rz.) tenisista
+[tenor]tenor (EN) : (rz.) bieg; (rz.) brzmienie; (rz.) istota; (rz.) przebieg; (rz.) śpiewak; (rz.) tenor; (rz.) treść
+[tenpin]tenpin (EN) : (rz.) kręgiel
+[tense]tense (EN) : (cz.) napinać; (p.) napięty; (p.) spięty; (rz.) czas
+[tenseness]tenseness (EN) : (rz.) napięcie
+[tensile]tensile (EN) : (p.) rozciągliwy
+[tension]tension (EN) : (rz.) dwubiegunowość; (rz.) naciąg; (rz.) napicie; (rz.) napięcie; (rz.) naprężenie; (rz.) natężenie; (rz.) rozciąganie
+[tensioning]tensioning (EN) : (rz.) naciąganie; (rz.) napinanie
+[tensor]tensor (EN) : (rz.) napinacz; (rz.) tensor
+[tent]tent (EN) : (rz.) namiot
+[tentacle]tentacle (EN) : (rz.) czułek; (rz.) macka; (rz.) wąs
+[tentative]tentative (EN) : (p.) niepewny; (p.) próbny; (p.) taki
+[tentatively]tentatively (EN) : (p-sł.) niepewnie; (p-sł.) wstępnie
+[tenth]tenth (EN) : (p.) dziesiąty
+[tenuous]tenuous (EN) : (p.) cienki; (p.) delikatny; (p.) drobny; (p.) subtelny; (p.) wiotki
+[tenure]tenure (EN) : (rz.) dzierżawa; (rz.) kadencja; (rz.) posiadanie; (rz.) urzędowanie
+[tepid]tepid (EN) : (p.) chłodny
+[tepidity]tepidity (EN) : (rz.) letniość
+[terabyte]terabyte (EN) : (rz.) terabajt
+[teratology]teratology (EN) : (rz.) teratologia
+[terbium]terbium (EN) : (rz.) terb
+[terdemalion]terdemalion (EN) : (rz.) łapserdak
+[tergiversation]tergiversation (EN) : (rz.) wykręt
+[term]term (EN) : (cz.) nazywać; (rz.) człon; (rz.) kadencja; (rz.) kategoria; (rz.) kwartał; (rz.) okres; (rz.) określenie; (rz.) pojęcie; (rz.) semestr; (rz.) stosunek; (rz.) term; (rz.) termin; (rz.) trymestr; (rz.) warunek; (rz.) wyraz; (rz.) wyrażenie
+[termagant]termagant (EN) : (rz.) jędza; (rz.) piekielnica; (rz.) sekutnica; (rz.) szczekaczka
+[terminable]terminable (EN) : (p.) graniczny; (p.) końcowy; (p.) kwartalny; (p.) ostateczny
+[terminal]terminal (EN) : (p.) końcowy; (p.) późny; (p.) śmiertelny; (rz.) dworzec; (rz.) końcówka; (rz.) koniec; (rz.) kres; (rz.) przyłącze; (rz.) terminal; (rz.) zacisk; (rz.) zakończenie
+[terminally]terminally (EN) : (p-sł.) nieuleczalnie; (p-sł.) śmiertelnie
+[terminate]terminate (EN) : (cz.) kończyć; (cz.) ograniczać; (cz.) określać; (cz.) przerywać; (cz.) wypowiedzieć; (cz.) zakańczać; (cz.) zakończyć
+[termination]termination (EN) : (rz.) ciężar; (rz.) końcówka; (rz.) koniec; (rz.) obciążenie; (rz.) przeszkoda; (rz.) wypowiedzenie; (rz.) zakończenie
+[terminator]terminator (EN) : (rz.) zakończenie
+[terminological]terminological (EN) : (p.) terminologiczny
+[terminologically]terminologically (EN) : (p-sł.) terminologicznie
+[terminology]terminology (EN) : (rz.) nazewnictwo; (rz.) terminologia
+[terminus]terminus (EN) : (rz.) autobus; (rz.) koniec
+[termite]termite (EN) : (rz.) mrówka; (rz.) termit
+[tern]tern (EN) : (rz.) mewa; (rz.) rybitwa
+[ternary]ternary (EN) : (p.) potrójny
+[terra]terra (EN) : (rz.) tera
+[terrace]terrace (EN) : (rz.) taras; (rz.) terasa
+[terraced]terraced (EN) : (p.) szeregowy; (p.) tarasowy
+[terracotta]terracotta (EN) : (p.) terakotowy; (rz.) terakota
+[terrain]terrain (EN) : (rz.) teren
+[terrarium]terrarium (EN) : (rz.) terrarium
+[terrazzo]terrazzo (EN) : (rz.) lastryko
+[terrene]terrene (EN) : (rz.) kraj; (rz.) obszar; (rz.) ziemia
+[terrestrial]terrestrial (EN) : (p.) doczesny; (p.) lądowy; (p.) naziemny; (p.) wokółziemski; (p.) ziemny; (p.) ziemski
+[terrible]terrible (EN) : (p.) okropny; (p.) straszliwy; (p.) straszny; (p.) tragiczny
+[terribly]terribly (EN) : (p-sł.) brzydko; (p-sł.) nieudolnie; (p-sł.) okropnie; (p-sł.) strasznie
+[terrier]terrier (EN) : (rz.) kataster; (rz.) terier
+[terrific]terrific (EN) : (p.) fantastyczny; (p.) niesamowity; (p.) okropny; (p.) potworny; (p.) straszliwy; (p.) straszny; (p.) wspaniały; (p.) zawrotny
+[terrified]terrified (EN) : (cz.) truchleć
+[terrify]terrify (EN) : (cz.) przerażać; (cz.) przerazić; (cz.) przestraszyć; (cz.) terroryzować; (cz.) zastraszać
+[territorial]territorial (EN) : (p.) okręgowy; (p.) terytorialny; (p.) ziemiański
+[territoriality]territoriality (EN) : (rz.) terytorialność
+[territory]territory (EN) : (rz.) obszar; (rz.) teren; (rz.) terytorium
+[terror]terror (EN) : (rz.) bojaźń; (rz.) groza; (rz.) postrach; (rz.) przerażenie; (rz.) strach; (rz.) terror
+[terrorism]terrorism (EN) : (rz.) terroryzm
+[terrorist]terrorist (EN) : (rz.) terrorysta
+[terrorization]terrorization (EN) : (rz.) terroryzowanie
+[terrorize]terrorize (EN) : (cz.) sterroryzować; (cz.) terroryzować; (cz.) zastraszyć
+[terse]terse (EN) : (p.) lakoniczny; (p.) lapidarny; (p.) zwięzły
+[tersely]tersely (EN) : (p-sł.) treściwie; (p-sł.) zwięźle
+[tertiary]tertiary (EN) : (p.) trzeciorzędny; (p.) trzeciorzędowy
+[tessellated]tessellated (EN) : (p.) mozaikowy
+[test]test (EN) : (cz.) badać; (cz.) próbować; (cz.) sprawdzać; (cz.) sprawdzić; (cz.) testować; (rz.) egzamin; (rz.) klasówka; (rz.) kolokwium; (rz.) miernik; (rz.) pancerz; (rz.) próba; (rz.) sprawdzian; (rz.) test; (p.) precedensowy
+[test-glass]test-glass (EN) : (rz.) probówka
+[test-tube]test-tube (EN) : (rz.) epruwetka; (rz.) probówka
+[testament]testament (EN) : (rz.) świadectwo; (rz.) testament
+[testamentary]testamentary (EN) : (p.) testamentowy
+[testator]testator (EN) : (rz.) testator
+[tester]tester (EN) : (rz.) kontroler; (rz.) próbnik; (rz.) rzeczoznawca; (rz.) tester
+[testicle]testicle (EN) : (rz.) jądro
+[testicular]testicular (EN) : (p.) jądrowy
+[testify]testify (EN) : (cz.) deklarować; (cz.) poświadczać; (cz.) stwierdzać; (cz.) świadczyć; (cz.) zeznawać
+[testimonial]testimonial (EN) : (p.) poświadczający; (rz.) poświadczenie; (rz.) świadectwo; (rz.) upominek; (rz.) zaświadczenie
+[testimony]testimony (EN) : (rz.) deklaracja; (rz.) oświadczenie; (rz.) poświadczenie; (rz.) świadczenie; (rz.) świadectwo; (rz.) zeznanie
+[testiness]testiness (EN) : (rz.) irytacja
+[testing]testing (EN) : (p.) kontrolny; (p.) probierczy; (rz.) próbkowanie; (rz.) testowanie
+[testis]testis (EN) : (rz.) jądro
+[testosterone]testosterone (EN) : (rz.) testosteron
+[testy]testy (EN) : (p.) gniewny; (p.) złośliwy
+[tetanus]tetanus (EN) : (rz.) tężec
+[tetchy]tetchy (EN) : (p.) drażliwy; (p.) pobudliwy
+[tether]tether (EN) : (cz.) przywiązywać; (cz.) spętać; (rz.) łańcuch; (rz.) lina; (rz.) pęta; (rz.) pętla; (rz.) przywiązanie; (rz.) uwięź
+[tetrachloride]tetrachloride (EN) : (rz.) czterochlorek
+[tetracycline]tetracycline (EN) : (rz.) tetracyklina
+[tetrad]tetrad (EN) : (p.) czterowartościowy; (rz.) tetrada
+[tetragonal]tetragonal (EN) : (p.) czworokątny
+[tetrahedral]tetrahedral (EN) : (p.) czworościenny
+[tetrahedron]tetrahedron (EN) : (rz.) czworościan; (rz.) tetraedr
+[tetrameter]tetrameter (EN) : (rz.) tetrametr
+[tetrarch]tetrarch (EN) : (rz.) tetrarcha
+[tetravalent]tetravalent (EN) : (p.) czterowartościowy
+[text]text (EN) : (rz.) czytanka; (rz.) tekst
+[text-book]text-book (EN) : (rz.) podręcznik
+[textbook]textbook (EN) : (rz.) podręcznik
+[textile]textile (EN) : (p.) tekstylny; (p.) włókienniczy; (rz.) tekstylia; (rz.) tkanina
+[textiles]textiles (EN) : (rz.) tekstylia; (rz.) włókiennictwo
+[textual]textual (EN) : (p.) tekstowy
+[textually]textually (EN) : (p-sł.) dosłownie
+[texture]texture (EN) : (rz.) błam; (rz.) budowa; (rz.) budowla; (rz.) faktura; (rz.) konsystencja; (rz.) struktura; (rz.) tekstura; (rz.) tkanie; (rz.) tkanina
+[texturing]texturing (EN) : (rz.) postaciowanie
+[thalamus]thalamus (EN) : (rz.) kielich
+[thalassic]thalassic (EN) : (p.) morski
+[thallium]thallium (EN) : (rz.) tal
+[than]than (EN) : (spójnik) aniżeli
+[thank]thank (EN) : (cz.) dziękować; (cz.) podziękować
+[thankful]thankful (EN) : (p.) dziękczynny; (p.) wdzięczny
+[thankfully]thankfully (EN) : (p-sł.) szczęśliwie
+[thankfulness]thankfulness (EN) : (rz.) dziękczynienie; (rz.) wdzięczność
+[thankless]thankless (EN) : (p.) niewdzięczny
+[thanks]thanks (EN) : (rz.) dziękczynienie; (rz.) dziękowanie; (rz.) podziękowanie
+[thanksgiving]thanksgiving (EN) : (rz.) dziękczynienie
+[that]that (EN) : (p.) jaki; (p.) siaki; (spójnik) aby; (spójnik) ażeby; (spójnik) iż; (spójnik) że; (spójnik) żeby
+[thatch]thatch (EN) : (rz.) poszycie; (rz.) strzecha
+[thaumaturgy]thaumaturgy (EN) : (rz.) cudotwórstwo; (rz.) magia
+[thaw]thaw (EN) : (cz.) odmarzać; (cz.) odtajać; (cz.) rozmrażać; (cz.) rozpuszczać; (cz.) roztajać; (cz.) roztapiać; (cz.) roztopić; (cz.) tajać; (cz.) topić; (cz.) topnieć; (rz.) odwilż; (rz.) roztop
+[the]the (EN) : (p.) przedmiotowy
+[theatre]theatre (EN) : (rz.) kino; (rz.) teatr
+[theatregoer]theatregoer (EN) : (rz.) teatroman
+[theatrical]theatrical (EN) : (p.) teatralny
+[theatrically]theatrically (EN) : (p-sł.) teatralnie
+[theft]theft (EN) : (rz.) kradzież; (rz.) złodziejstwo
+[theism]theism (EN) : (rz.) teizm
+[thematic]thematic (EN) : (p.) tematowy; (p.) tematyczny
+[thematically]thematically (EN) : (p-sł.) tematycznie
+[theme]theme (EN) : (rz.) kompozycja; (rz.) motyw; (rz.) przedmiot; (rz.) temat; (rz.) wypracowanie; (rz.) wystrój
+[then]then (EN) : (p-sł.) następnie; (p-sł.) potem; (p-sł.) stamtąd; (p-sł.) wówczas; (p-sł.) wtedy; (p-sł.) wtenczas
+[thence]thence (EN) : (p-sł.) stamtąd
+[thenceforth]thenceforth (EN) : (p-sł.) odtąd
+[thenceforward]thenceforward (EN) : (p-sł.) odtąd
+[theocracy]theocracy (EN) : (rz.) teokracja
+[theocrat]theocrat (EN) : (rz.) teokrata
+[theocratic]theocratic (EN) : (p.) teokratyczny
+[theodicy]theodicy (EN) : (rz.) teodycea
+[theologian]theologian (EN) : (rz.) teolog
+[theological]theological (EN) : (p.) teologiczny
+[theologically]theologically (EN) : (p-sł.) teologicznie
+[theology]theology (EN) : (rz.) teologia
+[theorem]theorem (EN) : (rz.) teoremat; (rz.) twierdzenie
+[theoretic]theoretic (EN) : (p.) akademicki; (p.) teoretyczny
+[theoretical]theoretical (EN) : (p.) akademicki; (p.) teoretyczny
+[theoretically]theoretically (EN) : (p-sł.) teoretycznie
+[theoretician]theoretician (EN) : (rz.) teoretyk
+[theorist]theorist (EN) : (rz.) teoretyk
+[theorize]theorize (EN) : (cz.) teoretyzować
+[theorizing]theorizing (EN) : (rz.) teoretyzowanie
+[theory]theory (EN) : (rz.) teoria
+[theosophy]theosophy (EN) : (rz.) teozofia
+[therapeutic]therapeutic (EN) : (p.) kuracyjny; (p.) leczniczy; (p.) terapeutyczny
+[therapeutically]therapeutically (EN) : (p-sł.) terapeutycznie
+[therapeutics]therapeutics (EN) : (rz.) lecznictwo; (rz.) terapeutyka; (rz.) terapia
+[therapist]therapist (EN) : (rz.) terapeuta
+[therapy]therapy (EN) : (rz.) leczenie; (rz.) terapeutyka; (rz.) terapia
+[there]there (EN) : (p-sł.) tam; (p-sł.) tamże
+[thereabout]thereabout (EN) : (p-sł.) niedaleko
+[thereabouts]thereabouts (EN) : (p-sł.) niedaleko
+[thereafter]thereafter (EN) : (p-sł.) następnie; (p-sł.) potem
+[therefore]therefore (EN) : (p-sł.) dlatego
+[therein]therein (EN) : (p-sł.) tamże
+[thereof]thereof (EN) : (p-sł.) tamże
+[thereupon]thereupon (EN) : (p-sł.) dlatego; (p-sł.) następnie; (p-sł.) potem
+[therewith]therewith (EN) : (p-sł.) natychmiast
+[thermal]thermal (EN) : (p.) cieplicowy; (p.) cieplny; (p.) ciepły; (p.) termalny; (p.) termiczny
+[thermally]thermally (EN) : (p-sł.) termicznie
+[thermocouple]thermocouple (EN) : (rz.) termoelement; (rz.) termoogniwo; (rz.) termopara
+[thermodynamic]thermodynamic (EN) : (p.) termodynamiczny
+[thermodynamics]thermodynamics (EN) : (rz.) termodynamika
+[thermoelectric]thermoelectric (EN) : (p.) termoelektryczny
+[thermoelectricity]thermoelectricity (EN) : (rz.) termoelektryczność
+[thermograph]thermograph (EN) : (rz.) termograf
+[thermometer]thermometer (EN) : (rz.) termograf; (rz.) termometr
+[thermometric]thermometric (EN) : (p.) termometryczny
+[thermometry]thermometry (EN) : (rz.) termometria
+[thermonuclear]thermonuclear (EN) : (p.) termojądrowy; (p.) termonuklearny
+[thermopile]thermopile (EN) : (rz.) termostos
+[thermoplastic]thermoplastic (EN) : (p.) termoplastyczny
+[thermoregulation]thermoregulation (EN) : (rz.) termoregulacja
+[thermos]thermos (EN) : (rz.) termos
+[thermosetting]thermosetting (EN) : (p.) termoutwardzalny
+[thermosphere]thermosphere (EN) : (rz.) termosfera
+[thermostat]thermostat (EN) : (rz.) termostat
+[thermostatic]thermostatic (EN) : (p.) termostatyczny
+[thermostatically]thermostatically (EN) : (p-sł.) termostatycznie
+[thermotherapy]thermotherapy (EN) : (rz.) termoterapia
+[thesaurus]thesaurus (EN) : (rz.) tezaurus
+[thesis]thesis (EN) : (rz.) dysertacja; (rz.) rozprawa; (rz.) teza
+[thiamine]thiamine (EN) : (rz.) aneuryna; (rz.) tiamina
+[thick]thick (EN) : (p.) gęsty; (p.) gruby; (p.) tłusty; (p.) zawiesisty; (p-sł.) ciężko; (p-sł.) gęsto; (p-sł.) grubo; (rz.) gąszcz; (rz.) zarośla; (rz.) zgęstnienie
+[thick-headed]thick-headed (EN) : (p.) bałwański; (p.) tępy
+[thick-skinned]thick-skinned (EN) : (p.) gruboskórny
+[thick-walled]thick-walled (EN) : (p.) grubościenny
+[thicken]thicken (EN) : (cz.) gęstnieć; (cz.) grubieć; (cz.) pogrubiać; (cz.) pogrubić; (cz.) zagęścić; (cz.) zagęszczać; (cz.) zgęstnieć
+[thickener]thickener (EN) : (rz.) zagęszczacz
+[thicker]thicker (EN) : (p.) gruby
+[thicket]thicket (EN) : (rz.) chaszcze; (rz.) gąszcz; (rz.) gęstwina; (rz.) zarośla
+[thickets]thickets (EN) : (rz.) chaszcze
+[thickhead]thickhead (EN) : (rz.) tępota
+[thickly]thickly (EN) : (p-sł.) gęsto; (p-sł.) grubo
+[thickness]thickness (EN) : (rz.) częstość; (rz.) gęstość; (rz.) grubość; (rz.) miąższość; (rz.) warstwa
+[thickset]thickset (EN) : (p.) gęsty; (p.) krępy; (p.) przysadkowaty; (p.) przysadzisty; (p.) zwalisty
+[thief]thief (EN) : (rz.) łotr; (rz.) rzezimieszek; (rz.) szabrownik; (rz.) złodziej
+[thieve]thieve (EN) : (cz.) kraść; (cz.) podkradać; (cz.) ukraść
+[thievery]thievery (EN) : (rz.) kradzież
+[thieving]thieving (EN) : (p.) złodziejski; (rz.) kradzież; (rz.) złodziejstwo
+[thievish]thievish (EN) : (p.) złodziejski
+[thigh]thigh (EN) : (rz.) udo
+[thimble]thimble (EN) : (rz.) chomątko; (rz.) gilza; (rz.) naparstek; (rz.) nasadka; (rz.) podpórka
+[thin]thin (EN) : (cz.) przerzedzać; (cz.) rozcieńczyć; (cz.) rozrzedzać; (cz.) rozrzedzić; (cz.) rzednąć; (cz.) ścieniać; (p.) chudy; (p.) cienki; (p.) patykowaty; (p.) rzadki; (p.) słaby; (p.) szczupły
+[thin-layer]thin-layer (EN) : (p.) cienkowarstwowy
+[thin-skinned]thin-skinned (EN) : (p.) delikatny; (p.) nadwrażliwy; (p.) wrażliwy
+[thin-walled]thin-walled (EN) : (p.) cienkościenny
+[thing]thing (EN) : (rz.) bestyjka; (rz.) istota; (rz.) przedmiot; (rz.) rzecz; (rz.) sprawa; (rz.) ubranie
+[think]think (EN) : (cz.) mniemać; (cz.) myśleć; (cz.) pomyśleć; (cz.) sądzić; (cz.) uważać; (cz.) zastanawiać
+[thinkable]thinkable (EN) : (p.) ewentualny
+[thinker]thinker (EN) : (rz.) myśliciel
+[thinking]thinking (EN) : (p.) myślący; (p.) myślowy; (p.) rozumny; (rz.) myślenie; (rz.) rozmyślanie
+[thinly]thinly (EN) : (p-sł.) cienko
+[thinner]thinner (EN) : (p.) chudy
+[thinness]thinness (EN) : (rz.) chudość; (rz.) cienkość
+[thinnest]thinnest (EN) : (p.) chudy; (p.) cienki
+[thinning]thinning (EN) : (rz.) chudnięcie; (rz.) przerywka; (rz.) przerzedzenie; (rz.) rębnia; (rz.) rozcieńczanie; (rz.) rozrzedzanie; (rz.) ścienianie; (rz.) trzebienie; (rz.) trzebież
+[third]third (EN) : (p.) trzeci
+[third-rate]third-rate (EN) : (p.) trzeciorzędny
+[thirst]thirst (EN) : (cz.) pragnąć; (rz.) pragnienie; (rz.) suchość; (rz.) żądza
+[thirsty]thirsty (EN) : (p.) spragniony; (p.) żądny
+[thirteenth]thirteenth (EN) : (p.) trzynasty
+[thirtieth]thirtieth (EN) : (p.) trzydziesty
+[this]this (EN) : (p-sł.) tęgo
+[thistle]thistle (EN) : (rz.) oset; (rz.) ostrożeń
+[thither]thither (EN) : (p-sł.) tam
+[thong]thong (EN) : (rz.) bizun; (rz.) kańczug; (rz.) pasek; (rz.) rzemień; (rz.) rzemyk
+[thoracic]thoracic (EN) : (p.) piersiowy
+[thorax]thorax (EN) : (rz.) tors; (rz.) tułów
+[thorium]thorium (EN) : (rz.) tor
+[thorn]thorn (EN) : (rz.) cierń; (rz.) kolec
+[thorny]thorny (EN) : (p.) cierniowaty; (p.) cierniowy; (p.) ciernisty; (p.) drażliwy; (p.) kolący; (p.) kolczasty
+[thorough]thorough (EN) : (p.) całkowity; (p.) dogłębny; (p.) dokładny; (p.) doszczętny; (p.) drobiazgowy; (p.) gruntowny; (p.) skrupulatny; (p.) wnikliwy
+[thoroughbred]thoroughbred (EN) : (p.) pełnokrwisty; (p.) rasowy; (p.) szlachetny
+[thoroughfare]thoroughfare (EN) : (rz.) arteria; (rz.) ciąg; (rz.) magistrala; (rz.) przejazd; (rz.) przejście; (rz.) ulica
+[thoroughgoing]thoroughgoing (EN) : (p.) bezkompromisowy; (p.) gruntowny; (p.) stanowczy
+[thoroughly]thoroughly (EN) : (p-sł.) dokładnie; (p-sł.) gruntownie; (p-sł.) starannie; (p-sł.) właśnie; (p-sł.) zupełnie
+[thoroughness]thoroughness (EN) : (rz.) gruntowność
+[thorp]thorp (EN) : (rz.) wieś
+[though]though (EN) : (p-sł.) jakkolwiek; (spójnik) acz; (spójnik) chociaż; (spójnik) jednak
+[thought]thought (EN) : (cz.) myśleć; (rz.) mniemanie; (rz.) myśl; (rz.) namysł; (rz.) rozważanie; (rz.) zastanowienie; (rz.) zwornik
+[thoughtful]thoughtful (EN) : (p.) głęboki; (p.) roztropny; (p.) rozważny; (p.) troskliwy
+[thoughtfulness]thoughtfulness (EN) : (rz.) zadumanie; (rz.) zamyślenie
+[thoughtless]thoughtless (EN) : (p.) bezmyślny; (p.) beztroski; (p.) lekkomyślny; (p.) nierozważny
+[thoughtlessly]thoughtlessly (EN) : (p-sł.) bezmyślnie; (p-sł.) lekkomyślnie
+[thoughtlessness]thoughtlessness (EN) : (rz.) bezmyślność
+[thousand]thousand (EN) : (p.) tysięczny; (rz.) tysiąc
+[thousandth]thousandth (EN) : (p.) tysiączny; (p.) tysięczny
+[thraldom]thraldom (EN) : (rz.) niewolnictwo; (rz.) pańszczyzna
+[thrall]thrall (EN) : (rz.) niewola; (rz.) niewolnik
+[thrash]thrash (EN) : (cz.) bić; (cz.) chłostać; (cz.) lać; (cz.) młócić; (cz.) prać; (cz.) zbić; (rz.) balanga
+[thrashing]thrashing (EN) : (rz.) cięgi; (rz.) lanie; (rz.) zbijanie
+[thread]thread (EN) : (cz.) gwintować; (cz.) nawlekać; (cz.) nizać; (cz.) przeciskać; (rz.) gwint; (rz.) nić; (rz.) nitka; (rz.) pasmo; (rz.) wątek
+[thread-worm]thread-worm (EN) : (rz.) owsik
+[threadbare]threadbare (EN) : (p.) przeświecający; (p.) wytarty
+[threadlike]threadlike (EN) : (p.) nitkowaty
+[threadworm]threadworm (EN) : (rz.) owsik
+[threat]threat (EN) : (rz.) groźba; (rz.) pogróżka; (rz.) zagrożenie
+[threaten]threaten (EN) : (cz.) grozić; (cz.) odgrażać; (cz.) zagrażać; (cz.) zagrozić
+[threatening]threatening (EN) : (p.) groźny
+[three]three (EN) : (p.) trojaki; (rz.) trójka
+[three-decker]three-decker (EN) : (rz.) trójpokładowiec
+[three-dimensional]three-dimensional (EN) : (p.) przestrzenny; (p.) trójwymiarowy
+[three-master]three-master (EN) : (rz.) trójmasztowiec
+[three-ply]three-ply (EN) : (p.) potrójny
+[threefold]threefold (EN) : (p.) potrójny; (p.) trojaki; (p.) trzykrotny; (p-sł.) potrójnie; (p-sł.) trzykrotnie
+[threescore]threescore (EN) : (rz.) kopa
+[threesome]threesome (EN) : (rz.) trójka
+[threnody]threnody (EN) : (rz.) tren
+[thresh]thresh (EN) : (cz.) bić; (cz.) chłostać; (cz.) młócić; (cz.) namłócić
+[thresher]thresher (EN) : (rz.) młocarnia; (rz.) młockarnia; (rz.) papierń
+[threshing]threshing (EN) : (rz.) gumno; (rz.) młócenie; (rz.) młocka; (rz.) młócka; (rz.) omłot
+[threshing-floor]threshing-floor (EN) : (rz.) klepisko
+[threshold]threshold (EN) : (rz.) próg; (rz.) przedsionek; (rz.) pułap
+[threw]threw (EN) : (cz.) rzucać; (cz.) spadać; (cz.) zrzucać
+[thrice]thrice (EN) : (p-sł.) trzykrotnie
+[thrift]thrift (EN) : (rz.) gospodarność; (rz.) oszczędność; (rz.) zapobiegliwość
+[thriftiness]thriftiness (EN) : (rz.) gospodarność; (rz.) oszczędność
+[thriftless]thriftless (EN) : (p.) marnotrawny; (p.) nieekonomiczny; (p.) nieoszczędny
+[thrifty]thrifty (EN) : (p.) gospodarny; (p.) oszczędny; (p.) skrzętny
+[thrill]thrill (EN) : (cz.) drżeć; (cz.) ekscytować; (cz.) wstrząsać; (cz.) wzruszać; (rz.) dreszcz; (rz.) dreszczyk; (rz.) drżenie; (rz.) wzruszenie
+[thrilled]thrilled (EN) : (p.) podekscytowany; (p.) wstrząśnięty
+[thriller]thriller (EN) : (rz.) dreszczowiec; (rz.) sztuka
+[thrilling]thrilling (EN) : (p.) dreszczowy; (p.) ekscytujący
+[thrillingly]thrillingly (EN) : (p-sł.) ekscytująco
+[thrive]thrive (EN) : (cz.) kwitnąć; (cz.) prosperować; (cz.) udawać
+[throat]throat (EN) : (rz.) gardło; (rz.) gardziel; (rz.) przełyk
+[throaty]throaty (EN) : (p.) chrapliwy; (p.) gardłowy
+[throb]throb (EN) : (cz.) bić; (cz.) drgać; (cz.) pukać; (cz.) pulsować; (cz.) tętnić; (rz.) bicie; (rz.) dreszcz; (rz.) drganie; (rz.) puls; (rz.) warkot
+[thrombin]thrombin (EN) : (rz.) trombina
+[thrombosis]thrombosis (EN) : (rz.) zakrzepica
+[thrombus]thrombus (EN) : (rz.) zakrzep
+[throne]throne (EN) : (rz.) tron; (rz.) władza
+[throng]throng (EN) : (cz.) tłoczyć; (rz.) chmara; (rz.) ciżba; (rz.) tłok; (rz.) tłum
+[throttle]throttle (EN) : (cz.) dławić; (cz.) dusić; (cz.) podusić; (cz.) tłumić; (cz.) udusić; (cz.) zadławić; (cz.) zadusić; (rz.) przepustnica
+[through]through (EN) : (p-im.) przez; (p-sł.) całkowicie; (p-sł.) poprzez
+[throughout]throughout (EN) : (p-im.) przez; (p-sł.) całkowicie; (p-sł.) kompletnie; (p-sł.) poprzez; (p-sł.) wszędzie
+[throughput]throughput (EN) : (rz.) przepływność; (rz.) przerób; (rz.) szybkość; (rz.) wydajność
+[throughway]throughway (EN) : (rz.) autostrada; (rz.) magistrala
+[throve]throve (EN) : (cz.) rzucać; (cz.) spadać; (cz.) zrzucać
+[throw]throw (EN) : (cz.) dorzucać; (cz.) miotać; (cz.) nitkować; (cz.) rzucać; (cz.) spadać; (cz.) wrzucać; (cz.) zrzucać; (rz.) rzucenie; (rz.) rzut; (rz.) wyrzut
+[throwback]throwback (EN) : (rz.) odrzucenie; (rz.) relikt
+[thrower]thrower (EN) : (rz.) dyskobol; (rz.) miotacz; (rz.) odrzutnik
+[thrown]thrown (EN) : (cz.) rzucać; (cz.) spadać; (cz.) zrzucać
+[thrum]thrum (EN) : (cz.) bębnić; (cz.) rzępolić
+[thrush]thrush (EN) : (rz.) drozd; (rz.) pleśniawka
+[thrust]thrust (EN) : (cz.) naciskać; (cz.) nasuwać; (cz.) popychać; (cz.) przeć; (cz.) szturchać; (cz.) wierzyć; (cz.) wpraszać; (cz.) wścibiać; (cz.) zapuszczać; (cz.) zrzucać; (rz.) ciąg; (rz.) dźgnięcie; (rz.) napór; (rz.) odrzut; (rz.) ofensywa; (rz.) parcie; (rz.) pchnięcie; (rz.) szturchnięcie; (rz.) sztych; (rz.) zrzut
+[thud]thud (EN) : (rz.) łomot; (rz.) łoskot
+[thug]thug (EN) : (rz.) bandyta; (rz.) chuligan; (rz.) skrytobójca; (rz.) zbir; (rz.) zbój
+[thulium]thulium (EN) : (rz.) tul
+[thumb]thumb (EN) : (rz.) kciuk
+[thumb-lack]thumb-lack (EN) : (rz.) pinezka; (rz.) pluskiewka
+[thumb-lock]thumb-lock (EN) : (rz.) zatrzask
+[thumbnail]thumbnail (EN) : (p.) miniaturowy; (rz.) miniatura; (rz.) miniaturka
+[thumbtack]thumbtack (EN) : (rz.) pinezka; (rz.) pluskiewka
+[thump]thump (EN) : (cz.) buchać; (cz.) dudnić; (cz.) walić; (rz.) uderzenie
+[thumper]thumper (EN) : (rz.) kolos
+[thumping]thumping (EN) : (p.) ogromny; (p.) straszliwy
+[thunder]thunder (EN) : (cz.) grzmieć; (rz.) grom; (rz.) grzmot; (rz.) huk; (rz.) piorun; (rz.) szlag
+[thunderbolt]thunderbolt (EN) : (rz.) piorun
+[thundercloud]thundercloud (EN) : (rz.) chmura
+[thunderhead]thunderhead (EN) : (p.) burzowy
+[thundering]thundering (EN) : (p.) gromowy; (p.) olbrzymi; (p.) piorunowy; (p.) straszliwy
+[thunderous]thunderous (EN) : (p.) grzmiący; (p.) rzęsisty
+[thunderstorm]thunderstorm (EN) : (rz.) burza
+[thus]thus (EN) : (p-sł.) stąd; (p-sł.) tak; (p-sł.) walnie
+[thwack]thwack (EN) : (rz.) trzaśnięcie
+[thwart]thwart (EN) : (cz.) krzyżować; (cz.) niweczyć; (cz.) pokrzyżować; (cz.) udaremniać
+[thyme]thyme (EN) : (rz.) macierzanka; (rz.) tymianek
+[thymine]thymine (EN) : (rz.) tymina
+[thymus]thymus (EN) : (rz.) grasica; (rz.) tymianek
+[thyroid]thyroid (EN) : (p.) tarczycowy; (rz.) tarczyca
+[thyroidal]thyroidal (EN) : (p.) tarczycowy
+[tiara]tiara (EN) : (rz.) diadem; (rz.) tiara
+[tibia]tibia (EN) : (rz.) piszczel
+[tic]tic (EN) : (rz.) tik
+[tick]tick (EN) : (cz.) cykać; (cz.) odfajkować; (cz.) oznaczać; (cz.) tykać; (cz.) zakreślić; (cz.) zaznaczyć; (rz.) kleszcz; (rz.) kleszcze; (rz.) kredyt; (rz.) takt; (rz.) tykanie; (rz.) tyknięcie
+[tick-tack]tick-tack (EN) : (rz.) cykanie
+[ticker]ticker (EN) : (rz.) pompa; (rz.) telegraf; (rz.) wychwyt; (rz.) zegarek
+[ticket]ticket (EN) : (rz.) bilet; (rz.) bon; (rz.) etykieta; (rz.) karnet; (rz.) kupon; (rz.) mandat; (rz.) metka; (rz.) numerek
+[ticket-collector]ticket-collector (EN) : (rz.) bileter
+[ticket-inspector]ticket-inspector (EN) : (rz.) kontroler
+[ticking]ticking (EN) : (rz.) cykanie; (rz.) inlet
+[tickle]tickle (EN) : (cz.) łaskotać; (cz.) łechtać; (cz.) połaskotać; (cz.) postrzępić; (cz.) rozbawiać; (cz.) zabawiać; (cz.) załaskotać; (rz.) łaskotanie
+[tickler]tickler (EN) : (rz.) dylemat
+[tickling]tickling (EN) : (rz.) łaskotanie
+[ticklish]ticklish (EN) : (p.) delikatny; (p.) drażliwy; (p.) łaskotliwy; (p.) łechtliwy; (p.) wrażliwy
+[tidal]tidal (EN) : (p.) pływowy
+[tiddlywinks]tiddlywinks (EN) : (rz.) pchełki
+[tide]tide (EN) : (rz.) bieg; (rz.) czas; (rz.) odpływ; (rz.) pływ; (rz.) pora; (rz.) prąd; (rz.) przypływ
+[tide-gauge]tide-gauge (EN) : (rz.) mareograf
+[tidily]tidily (EN) : (p-sł.) schludnie; (p-sł.) starannie
+[tidiness]tidiness (EN) : (rz.) czystość; (rz.) schludność
+[tidings]tidings (EN) : (rz.) wiadomości; (rz.) wieść
+[tidy]tidy (EN) : (cz.) czyścić; (cz.) oprzątać; (cz.) porządkować; (cz.) posprzątać; (cz.) sprzątać; (cz.) uprzątać; (p.) chędogi; (p.) czysty; (p.) ładny; (p.) porządny; (p.) schludny
+[tidy,]tidy, (EN) : (p.) schludny; (p.) spory
+[tie]tie (EN) : (cz.) łączyć; (cz.) obwiązywać; (cz.) przewiązać; (cz.) przywiesić; (cz.) uwiązać; (cz.) wiązać; (cz.) zawiązać; (cz.) zremisować; (rz.) cięgno; (rz.) krawat; (rz.) krawatka; (rz.) ligatura; (rz.) remis; (rz.) węzeł; (rz.) wiązadło; (rz.) wiązanie; (rz.) więź
+[tier]tier (EN) : (rz.) kondygnacja; (rz.) rząd; (rz.) wiązacz
+[tierce]tierce (EN) : (rz.) tercja
+[tiff]tiff (EN) : (rz.) baryt; (rz.) kłótnia
+[tiffany]tiffany (EN) : (rz.) muślin
+[tiger]tiger (EN) : (rz.) tygrys
+[tiger-eye]tiger-eye (EN) : (rz.) miner
+[tight]tight (EN) : (p.) ciasny; (p.) kurczowy; (p.) nieprzepuszczalny; (p.) obcisły; (p.) rychły; (p.) skąpy; (p.) spoisty; (p.) szczelny
+[tight-fisted]tight-fisted (EN) : (p.) niezręczny; (p.) skąpy
+[tight-fitting]tight-fitting (EN) : (p.) obcisły
+[tight-rope]tight-rope (EN) : (rz.) lina
+[tighten]tighten (EN) : (cz.) dociskać; (cz.) dokręcać; (cz.) dokręcić; (cz.) napiąć; (cz.) napinać; (cz.) ściągnąć; (cz.) ścieśniać; (cz.) ścieśnić; (cz.) ściskać; (cz.) uszczelniać; (cz.) zacieśniać; (cz.) zacieśnić; (cz.) zaciskać
+[tightly]tightly (EN) : (p-sł.) ciasno; (p-sł.) kurczowo; (p-sł.) mocno; (p-sł.) szczelnie
+[tightness]tightness (EN) : (rz.) ciasnota; (rz.) obcisłość; (rz.) szczelność; (rz.) zwartość
+[tightrope]tightrope (EN) : (rz.) lina
+[tights]tights (EN) : (rz.) rajstopy; (rz.) rajtuzy; (rz.) trykoty
+[tightwad]tightwad (EN) : (rz.) dusigrosz; (rz.) skąpiec; (rz.) sknera
+[tilde]tilde (EN) : (rz.) tylda
+[tile]tile (EN) : (cz.) taflować; (rz.) dachówka; (rz.) kafel; (rz.) płytka; (rz.) tafelka; (rz.) tafla
+[tiles]tiles (EN) : (rz.) kafelki
+[tiling]tiling (EN) : (rz.) dekarstwo; (rz.) mozaikowanie; (rz.) układanie
+[till]till (EN) : (cz.) orać; (cz.) uprawiać; (rz.) kasa; (spójnik) aż; (spójnik) dopóki; (spójnik) dopóty
+[tillage]tillage (EN) : (rz.) dekowanie; (rz.) orka; (rz.) uprawa
+[tiller]tiller (EN) : (rz.) rolnik; (rz.) rumpel; (rz.) sterownica
+[tilt]tilt (EN) : (cz.) atakować; (cz.) nachylać; (cz.) napadać; (cz.) padać; (cz.) pochylić; (cz.) przechylać; (cz.) przechylić; (cz.) przychylać; (cz.) przychylić; (cz.) rzucać; (cz.) rzucić; (rz.) nachylenie; (rz.) osłona; (rz.) przechył; (rz.) przechylanie; (rz.) przechylenie
+[tilts]tilts (EN) : (rz.) turniej
+[timber]timber (EN) : (cz.) cembrować; (cz.) ocembrować; (cz.) szalować; (rz.) belka; (rz.) budulec; (rz.) drewno; (rz.) drzewo; (rz.) las; (rz.) wręga
+[timbered]timbered (EN) : (p.) drewniany
+[timbering]timbering (EN) : (rz.) ocembrowanie; (rz.) odeskowanie; (rz.) oszalowanie; (rz.) szalowanie
+[timberwork]timberwork (EN) : (rz.) ciesielstwo
+[timbre]timbre (EN) : (rz.) barwa; (rz.) brzmienie; (rz.) tembr
+[time]time (EN) : (cz.) potrwać; (p.) czasochłonny; (p.) terminowy; (rz.) chwila; (rz.) czas; (rz.) czasochłonność; (rz.) etat; (rz.) godzina; (rz.) moment; (rz.) okres; (rz.) pora; (rz.) raz; (rz.) takt; (rz.) termin; (rz.) terminowanie
+[time-consuming]time-consuming (EN) : (p.) czasochłonny
+[time-honoured]time-honoured (EN) : (p.) tradycyjny
+[time-limit]time-limit (EN) : (rz.) termin
+[time-out]time-out (EN) : (rz.) przeterminowanie
+[time-server]time-server (EN) : (rz.) koniunkturalista; (rz.) oportunista
+[time-table]time-table (EN) : (rz.) harmonogram; (rz.) terminarz
+[timeframe]timeframe (EN) : (rz.) rama
+[timekeeper]timekeeper (EN) : (rz.) chronometr; (rz.) chronometrażysta; (rz.) czasomierz; (rz.) zegar
+[timekeeping]timekeeping (EN) : (rz.) chronometraż
+[timeless]timeless (EN) : (p.) bezczasowy; (p.) ponadczasowy; (p.) wieczny
+[timelessly]timelessly (EN) : (p-sł.) wiecznie
+[timelessness]timelessness (EN) : (p.) ponadczasowy; (rz.) bezczasowość; (rz.) wieczność
+[timeliness]timeliness (EN) : (rz.) aktualność; (rz.) punktualność
+[timely]timely (EN) : (p.) aktualny; (p.) odpowiedni; (p.) pomyślny; (p.) wczesny
+[timeout]timeout (EN) : (cz.) kończyć; (cz.) skończyć; (rz.) przerwa
+[timepiece]timepiece (EN) : (rz.) czasomierz
+[timer]timer (EN) : (rz.) chronometrażysta; (rz.) czasomierz; (rz.) czasoster; (rz.) minutnik; (rz.) sekundomierz; (rz.) stoper; (rz.) zegar
+[times]times (EN) : (rz.) krotność; (rz.) razy
+[timescale]timescale (EN) : (rz.) harmonogram
+[timeserver]timeserver (EN) : (rz.) koniunkturalista; (rz.) oportunista
+[timestamp]timestamp (EN) : (rz.) datownik
+[timetable]timetable (EN) : (rz.) harmonogram; (rz.) rozkład
+[timid]timid (EN) : (p.) bojaźliwy; (p.) lękliwy; (p.) pierzchliwy; (p.) płochliwy
+[timidity]timidity (EN) : (rz.) bojaźliwość; (rz.) nieśmiałość
+[timidly]timidly (EN) : (p-sł.) bojaźliwie; (p-sł.) nieśmiało
+[timing]timing (EN) : (rz.) chronometraż; (rz.) synchronizacja; (rz.) wyczucie
+[timorous]timorous (EN) : (p.) bojaźliwy; (p.) lękliwy
+[timothy]timothy (EN) : (rz.) brzanka
+[tin]tin (EN) : (cz.) bielić; (cz.) cynować; (cz.) konserwować; (cz.) pobielać; (cz.) puszkować; (rz.) blacha; (rz.) blaszanka; (rz.) cyna; (rz.) puszka
+[tin-opener]tin-opener (EN) : (rz.) otwieracz
+[tin-plate]tin-plate (EN) : (cz.) ocynować
+[tin-stone]tin-stone (EN) : (rz.) kasyteryt
+[tincture]tincture (EN) : (rz.) domieszka; (rz.) nalewka; (rz.) odcień; (rz.) odrobina; (rz.) roztwór; (rz.) tynktura; (rz.) wyciąg; (rz.) zabarwienie
+[tinder]tinder (EN) : (rz.) hubka; (rz.) podpałka
+[tine]tine (EN) : (rz.) ząb
+[tinfoil]tinfoil (EN) : (rz.) cynfolia; (rz.) staniol
+[ting]ting (EN) : (cz.) brzęczeć; (cz.) dzwonić; (cz.) wić; (rz.) brzęczenie
+[tinge]tinge (EN) : (cz.) cieniować; (cz.) zabarwiać; (rz.) domieszka; (rz.) odcień; (rz.) posmak; (rz.) zabarwienie
+[tingle]tingle (EN) : (cz.) brzęczeć; (cz.) dźwięczeć; (cz.) kłuć; (cz.) mrowić; (cz.) swędzić; (cz.) świerzbić; (rz.) brzęk; (rz.) dźwięczenie; (rz.) kłucie; (rz.) mrowienie; (rz.) swędzenie
+[tingled]tingled (EN) : (p.) dźwięczny
+[tingling]tingling (EN) : (rz.) dźwięczenie; (rz.) mrowienie
+[tinker]tinker (EN) : (cz.) dłubać; (cz.) majsterkować; (cz.) majstrować; (cz.) podłubać; (rz.) dłubanie; (rz.) druciarz; (rz.) majstrowanie; (rz.) naprawiacz
+[tinkle]tinkle (EN) : (cz.) brzęczeć; (cz.) dźwięczeć; (cz.) dzwonić; (rz.) brzęczenie; (rz.) brzęk; (rz.) dźwięczenie; (rz.) dzwonienie
+[tinned]tinned (EN) : (p.) cynowany; (p.) konserwowy
+[tinny]tinny (EN) : (p.) blaszany; (p.) bublowaty; (p.) cynowy; (p.) marny; (p.) partacki
+[tinsel]tinsel (EN) : (rz.) błyskotka; (rz.) błyskotki; (rz.) lameta; (rz.) świecidełko; (rz.) szych
+[tinsmith]tinsmith (EN) : (rz.) blacharz
+[tint]tint (EN) : (cz.) cieniować; (cz.) podbarwiać; (cz.) zabarwiać; (cz.) zabarwić; (rz.) barwa; (rz.) farbowanie; (rz.) odcień; (rz.) zabarwienie
+[tinwork]tinwork (EN) : (rz.) blacharstwo
+[tiny]tiny (EN) : (p.) drobny
+[tip]tip (EN) : (cz.) dać; (cz.) przechylać; (cz.) przechylić; (cz.) skinąć; (cz.) tknąć; (cz.) trącać; (cz.) wysypać; (cz.) zganić; (rz.) aluzja; (rz.) czubek; (rz.) grot; (rz.) koniec; (rz.) napiwek; (rz.) porada; (rz.) rada; (rz.) szpic; (rz.) wskazówka
+[tip-car]tip-car (EN) : (rz.) wywrotka
+[tip-lorry]tip-lorry (EN) : (rz.) wywrotka
+[tip-top]tip-top (EN) : (p.) pierwszorzędny; (p.) znakomity
+[tip-truck]tip-truck (EN) : (rz.) wagonetka
+[tipi]tipi (EN) : (rz.) koniec; (rz.) okucie; (rz.) skuwka; (rz.) szczyt
+[tipper]tipper (EN) : (rz.) wywrót; (rz.) wywrotka; (rz.) wywrotnica
+[tippet]tippet (EN) : (rz.) kołnierz; (rz.) pelerynka
+[tipple]tipple (EN) : (cz.) popić
+[tippler]tippler (EN) : (rz.) wywrót; (rz.) wywrotnica
+[tipsy]tipsy (EN) : (p.) oszołomiony; (p.) pijany
+[tiptop]tiptop (EN) : (p.) doskonały; (p.) pierwszorzędny; (p.) znakomity; (rz.) szczyt
+[tirade]tirade (EN) : (rz.) tyrada
+[tire]tire (EN) : (cz.) męczyć; (cz.) nużyć; (cz.) wyczerpać; (cz.) zagnać; (cz.) zmęczyć; (cz.) zmitrężyć; (cz.) zmordować; (rz.) nużyca; (rz.) obręcz; (rz.) opona; (rz.) zmęczenie
+[tired]tired (EN) : (p.) zmęczony
+[tiredness]tiredness (EN) : (rz.) zmęczenie; (rz.) znudzenie
+[tireless]tireless (EN) : (p.) niezmordowany
+[tiresome]tiresome (EN) : (p.) dokuczliwy; (p.) męczący; (p.) nieznośny; (p.) nudny
+[tiresomely]tiresomely (EN) : (p-sł.) mozolnie
+[tiring]tiring (EN) : (p.) męczący
+[tissue]tissue (EN) : (rz.) bibułka; (rz.) siatka; (rz.) tkanina; (rz.) tkanka
+[tissue-paper]tissue-paper (EN) : (rz.) bibułka
+[tit]tit (EN) : (rz.) cycek; (rz.) dureń; (rz.) inkrustacja; (rz.) maleństwo; (rz.) sikora; (rz.) sikorka; (rz.) sutek
+[titan]titan (EN) : (rz.) gigant; (rz.) olbrzym; (rz.) tytan
+[titanic]titanic (EN) : (p.) monumentalny; (p.) tytaniczny; (p.) tytanowy
+[titanium]titanium (EN) : (rz.) tytan
+[titbit]titbit (EN) : (rz.) przysmak; (rz.) smakołyk
+[tithe]tithe (EN) : (rz.) dziesięcina
+[titillate]titillate (EN) : (cz.) łaskotać; (cz.) łechtać
+[titillation]titillation (EN) : (rz.) łechtanie; (rz.) podniecenie
+[titivation]titivation (EN) : (rz.) upiększenie
+[title]title (EN) : (cz.) tytułować; (rz.) krzta; (rz.) napis; (rz.) prawo; (rz.) przywilej; (rz.) tytuł; (rz.) tytułowanie; (rz.) uprawnienie
+[titled]titled (EN) : (p.) zatytułowany
+[titling]titling (EN) : (rz.) tytułowanie
+[titmouse]titmouse (EN) : (rz.) sikora; (rz.) sikorka
+[titrate]titrate (EN) : (cz.) miareczkować
+[titration]titration (EN) : (rz.) miareczkowanie
+[titre]titre (EN) : (rz.) miano; (rz.) titr
+[titter]titter (EN) : (cz.) chichotać; (rz.) chichot; (rz.) chichotanie
+[tittle-tattle]tittle-tattle (EN) : (rz.) gadanina; (rz.) plotkowanie
+[titular]titular (EN) : (p.) tytularny
+[tizzy]tizzy (EN) : (rz.) drżączka; (rz.) zdenerwowanie; (rz.) zmartwienie
+[to]to (EN) : (p-im.) do; (p-im.) ku; (p-im.) po; (p-im.) przy; (p-im.) w; (p-im.) według; (p-im.) wobec; (p-im.) za
+[to-do]to-do (EN) : (rz.) hałas; (rz.) krzątanina; (rz.) zamieszanie
+[to-fall]to-fall (EN) : (rz.) schyłek
+[to-name]to-name (EN) : (rz.) przydomek
+[toad]toad (EN) : (rz.) ropucha
+[toadstool]toadstool (EN) : (rz.) muchomor
+[toady]toady (EN) : (cz.) pochlebiać; (rz.) lizus; (rz.) pochlebca
+[toadyism]toadyism (EN) : (rz.) podlizywanie; (rz.) przypochlebianie
+[toast]toast (EN) : (cz.) opiekać; (cz.) przypiekać; (rz.) grzanka; (rz.) toast; (rz.) tost
+[toaster]toaster (EN) : (rz.) opiekacz; (rz.) przyrząd; (rz.) toster
+[toasty]toasty (EN) : (p.) ciepły
+[tobacco]tobacco (EN) : (rz.) tytoń
+[tobacco-plant]tobacco-plant (EN) : (rz.) tytoń
+[tobacco-pouch]tobacco-pouch (EN) : (rz.) kapciuch
+[toboggan]toboggan (EN) : (rz.) saneczki; (rz.) tobogan
+[tocsin]tocsin (EN) : (rz.) alarm
+[today]today (EN) : (p-sł.) dziś; (p-sł.) dzisiaj
+[toddle]toddle (EN) : (cz.) chwiać; (cz.) dreptać; (cz.) drobić; (cz.) przechadzać; (rz.) dreptanie
+[toddler]toddler (EN) : (rz.) berbeć; (rz.) dziecko; (rz.) kajtek; (rz.) maluch; (rz.) szkrab
+[toe]toe (EN) : (rz.) czop; (rz.) palec; (rz.) paluch
+[toe-cap]toe-cap (EN) : (rz.) kapka
+[toecap]toecap (EN) : (rz.) kapka
+[toehold]toehold (EN) : (rz.) odskocznia
+[toenail]toenail (EN) : (rz.) paznokieć
+[toffee]toffee (EN) : (rz.) irys
+[tog]tog (EN) : (cz.) wystrajać; (cz.) wystroić
+[toga]toga (EN) : (rz.) toga
+[together]together (EN) : (p-sł.) łącznie; (p-sł.) pospołu; (p-sł.) razem; (p-sł.) wespół; (p-sł.) wspólnie
+[togetherness]togetherness (EN) : (rz.) więź; (rz.) wspólnota
+[toggle]toggle (EN) : (rz.) kołek; (rz.) przerzutnik; (rz.) przetyczka
+[toil]toil (EN) : (cz.) harować; (cz.) męczyć; (cz.) natrudzić; (cz.) trudzić; (rz.) harówka; (rz.) krwawica; (rz.) mordęga; (rz.) mozół; (rz.) myto; (rz.) trud; (rz.) znój
+[toile]toile (EN) : (p.) toaletowy
+[toilet]toilet (EN) : (rz.) klozet; (rz.) sedes; (rz.) toaleta; (rz.) ubikacja; (rz.) ustęp; (rz.) wygódka
+[toilette]toilette (EN) : (rz.) toaleta
+[toiling]toiling (EN) : (rz.) harowanie
+[toilsome]toilsome (EN) : (p.) mozolny; (p.) pracochłonny
+[tokay]tokay (EN) : (rz.) tokaj
+[token]token (EN) : (rz.) leksem; (rz.) oznaka; (rz.) pamiątka; (rz.) żeton; (rz.) znak; (rz.) znamię
+[tolerable]tolerable (EN) : (p.) możliwy; (p.) znośny
+[tolerably]tolerably (EN) : (p-sł.) możliwie; (p-sł.) znośnie
+[tolerance]tolerance (EN) : (rz.) odporność; (rz.) pobłażanie; (rz.) pobłażliwość; (rz.) tolerancja; (rz.) tolerowanie
+[tolerant]tolerant (EN) : (p.) odporny; (p.) pobłażliwy; (p.) tolerancyjny
+[tolerantly]tolerantly (EN) : (p-sł.) pobłażliwie; (p-sł.) tolerancyjnie
+[tolerate]tolerate (EN) : (cz.) cierpieć; (cz.) tolerować; (cz.) znosić
+[toleration]toleration (EN) : (rz.) tolerancja
+[toll]toll (EN) : (cz.) bić; (cz.) dzwonić; (rz.) cło; (rz.) dzwonienie; (rz.) mycie; (rz.) myto; (rz.) opłata; (rz.) przyznanie
+[toll-bar]toll-bar (EN) : (rz.) rogatka; (rz.) szlaban
+[tollgate]tollgate (EN) : (rz.) bramka; (rz.) szlaban
+[tollhouse]tollhouse (EN) : (rz.) rogatka
+[toluene]toluene (EN) : (rz.) metylobenzen; (rz.) toluen
+[tom]tom (EN) : (rz.) samiec
+[tom-cat]tom-cat (EN) : (rz.) kocur
+[tomahawk]tomahawk (EN) : (cz.) uderzyć; (cz.) zabić; (cz.) zabijać; (rz.) tomahawk; (rz.) toporek
+[tomato]tomato (EN) : (rz.) pomidor
+[tomb]tomb (EN) : (rz.) grób; (rz.) grobowiec; (rz.) mogiła; (rz.) nagrobek
+[tomboy]tomboy (EN) : (rz.) chłopczyca; (rz.) urwis
+[tombstone]tombstone (EN) : (rz.) nagrobek
+[tomcat]tomcat (EN) : (rz.) kocur
+[tome]tome (EN) : (rz.) księga; (rz.) wolumin
+[tomfool]tomfool (EN) : (rz.) błazen
+[tomfoolery]tomfoolery (EN) : (rz.) błazeństwo; (rz.) wygłup
+[tomography]tomography (EN) : (rz.) tomografia
+[tomorrow]tomorrow (EN) : (rz.) jutro
+[tomtit]tomtit (EN) : (rz.) sikora; (rz.) strzyżyk
+[ton]ton (EN) : (rz.) kupa; (rz.) tona
+[ton-force]ton-force (EN) : (rz.) tona-siła
+[tonal]tonal (EN) : (p.) tonalny; (p.) toniczny; (p.) tonowy
+[tonality]tonality (EN) : (rz.) tonalność
+[tone]tone (EN) : (cz.) nastrajać; (cz.) stroić; (cz.) tonować; (rz.) barwa; (rz.) brzmienie; (rz.) dźwięk; (rz.) odcień; (rz.) sygnał; (rz.) ton; (rz.) tonacja; (rz.) zabarwienie
+[tone-arm]tone-arm (EN) : (rz.) ramię
+[toneless]toneless (EN) : (p.) bezbarwny; (p.) bezduszny; (p.) mdły
+[tonelessly]tonelessly (EN) : (p-sł.) bezbarwnie
+[toner]toner (EN) : (rz.) toner
+[tong]tong (EN) : (cz.) chwytać; (rz.) kleszcze; (rz.) obcęgi
+[tongs]tongs (EN) : (rz.) cęgi; (rz.) kleszcze; (rz.) obcążki; (rz.) obcęgi; (rz.) szczypce
+[tongue]tongue (EN) : (rz.) jęzor; (rz.) język; (rz.) mowa; (rz.) ozór; (rz.) ozorek; (rz.) pióro; (rz.) wymowa; (rz.) wypust; (rz.) występ
+[tonic]tonic (EN) : (p.) toniczny; (p.) wzmacniający; (rz.) tonik; (rz.) tonika
+[tonics]tonics (EN) : (rz.) tonika
+[toning]toning (EN) : (rz.) tonowanie; (rz.) zabarwianie
+[tonnage]tonnage (EN) : (rz.) pojemność; (rz.) tonaż
+[tonne]tonne (EN) : (rz.) tona
+[tonnes]tonnes (EN) : (rz.) ton; (rz.) toń
+[tonsil]tonsil (EN) : (rz.) migdał; (rz.) migdałek
+[tonsure]tonsure (EN) : (rz.) tonsura
+[too]too (EN) : (p-sł.) bardzo; (p-sł.) doprawdy; (p-sł.) nadto; (p-sł.) nazbyt; (p-sł.) także; (p-sł.) też; (p-sł.) wielce; (p-sł.) zanadto
+[too-too]too-too (EN) : (p.) wylewny
+[took]took (EN) : (cz.) podejmować
+[tool]tool (EN) : (rz.) instrument; (rz.) narzędzie; (rz.) narzędziownia
+[tool-room]tool-room (EN) : (rz.) narzędziownia
+[toolbox]toolbox (EN) : (rz.) narzędzia; (rz.) przybornik
+[tooled]tooled (EN) : (p.) narzędziowy
+[tooling]tooling (EN) : (rz.) oprzyrządowania
+[toolmaker]toolmaker (EN) : (rz.) narzędziowiec
+[toot]toot (EN) : (cz.) tokować; (cz.) trąbić; (cz.) zagwizdać; (cz.) zatrąbić; (rz.) klaksonu; (rz.) trąbienie
+[tooth]tooth (EN) : (rz.) kieł; (rz.) ząb
+[toothless]toothless (EN) : (p.) bezsilny
+[toothpick]toothpick (EN) : (rz.) wykałaczka
+[toothsome]toothsome (EN) : (p.) apetyczny; (p.) smaczny
+[top]top (EN) : (cz.) przewyższać; (p.) górny; (p.) szczytowy; (rz.) bąk; (rz.) czubek; (rz.) góra; (rz.) nakrętka; (rz.) powierzchnia; (rz.) punkt; (rz.) szczyt; (rz.) top; (rz.) wieczko; (rz.) wierzch; (rz.) wierzchołek; (rz.) zabawka
+[top-down]top-down (EN) : (p.) odgórny; (p.) wsteczny; (p.) zstępujący
+[top-heavy]top-heavy (EN) : (p.) wywrotny
+[top-league]top-league (EN) : (rz.) ekstraklasa
+[top-notch]top-notch (EN) : (p.) pierwszorzędny
+[topaz]topaz (EN) : (rz.) topaz
+[topcoat]topcoat (EN) : (rz.) palto; (rz.) płaszcz
+[tope]tope (EN) : (cz.) pić
+[toper]toper (EN) : (rz.) pijak
+[topgallant]topgallant (EN) : (rz.) bramsel; (rz.) bramżagiel
+[topiary]topiary (EN) : (rz.) sztuka
+[topic]topic (EN) : (rz.) problematyka; (rz.) przedmiot; (rz.) temat; (rz.) tematyka; (rz.) wątek
+[topical]topical (EN) : (p.) aktualny; (p.) miejscowy; (p.) przedmiotowy
+[topicality]topicality (EN) : (rz.) aktualność; (rz.) tematyczność
+[topically]topically (EN) : (p-sł.) aktualnie; (p-sł.) tematycznie
+[topknot]topknot (EN) : (rz.) kok; (rz.) kokardka
+[topmast]topmast (EN) : (rz.) stenga
+[topmost]topmost (EN) : (p.) najwyższy
+[topographer]topographer (EN) : (rz.) topograf
+[topographic]topographic (EN) : (p.) topograficzny
+[topographical]topographical (EN) : (p.) topograficzny
+[topographically]topographically (EN) : (p-sł.) topograficznie
+[topography]topography (EN) : (rz.) terenoznawstwo; (rz.) topografia
+[topological]topological (EN) : (p.) topologiczny
+[topology]topology (EN) : (rz.) konfiguracja; (rz.) topologia
+[topper]topper (EN) : (rz.) cylinder
+[topping]topping (EN) : (p.) wdechowy; (p.) wybitny; (p.) wytworny
+[topping-up]topping-up (EN) : (rz.) casting; (rz.) uzupełnianie
+[topple]topple (EN) : (cz.) powalać; (cz.) powalić; (cz.) przewalać; (cz.) przewracać; (cz.) zwalać; (cz.) zwalić
+[topsail]topsail (EN) : (rz.) marsel; (rz.) topsel; (rz.) żagiel
+[toque]toque (EN) : (rz.) toczek
+[torch]torch (EN) : (rz.) latarka; (rz.) palnik; (rz.) pochodnia; (rz.) znicz
+[toreador]toreador (EN) : (rz.) toreador
+[torment]torment (EN) : (cz.) dręczyć; (cz.) katować; (cz.) męczyć; (cz.) namęczyć; (cz.) nękać; (cz.) pastwić; (cz.) srożyć; (cz.) udręczyć; (cz.) zadręczać; (rz.) kaźń; (rz.) męczarnia; (rz.) męczenie; (rz.) męka; (rz.) udręczenie; (rz.) udręka
+[tormentor]tormentor (EN) : (rz.) dręczyciel; (rz.) okrutnik; (rz.) stręczyciel
+[tornado]tornado (EN) : (rz.) cyklon; (rz.) tornado
+[torpedo]torpedo (EN) : (cz.) torpedować; (cz.) wysadzać; (rz.) mina; (rz.) torpeda
+[torpedo-boat]torpedo-boat (EN) : (rz.) torpedowiec
+[torpid]torpid (EN) : (p.) apatyczny; (p.) skamieniały; (p.) zesztywniały
+[torpidity]torpidity (EN) : (rz.) bezwład; (rz.) bezwolność; (rz.) niemrawość; (rz.) odrętwienie; (rz.) zesztywnienie
+[torpor]torpor (EN) : (rz.) marazm; (rz.) odrętwienie; (rz.) zesztywnienie
+[torque]torque (EN) : (rz.) naszyjnik
+[torrent]torrent (EN) : (rz.) potok; (rz.) ulewa
+[torrential]torrential (EN) : (p.) rzęsisty; (p.) ulewny; (p.) wartki
+[torrid]torrid (EN) : (p.) palący; (p.) skwarny; (p.) suchy; (p.) upalny; (p.) wypalony
+[torsion]torsion (EN) : (rz.) skręcanie; (rz.) skręcenie; (rz.) skręt
+[torso]torso (EN) : (rz.) tors; (rz.) tułów
+[tort]tort (EN) : (rz.) delikt
+[tortoise]tortoise (EN) : (rz.) żółw
+[tortoiseshell]tortoiseshell (EN) : (rz.) szylkret
+[tortuous]tortuous (EN) : (p.) kręty; (p.) pokrętny; (p.) wężykowaty; (p.) wijący; (p.) wykrętny; (p.) zawiły
+[torture]torture (EN) : (cz.) katować; (cz.) męczyć; (cz.) pomęczyć; (cz.) torturować; (rz.) katusza; (rz.) kaźń; (rz.) męczarnia; (rz.) męka; (rz.) tortura; (rz.) torturowanie; (rz.) męczarnia
+[torturer]torturer (EN) : (rz.) dręczyciel; (rz.) oprawca
+[toss]toss (EN) : (cz.) bałwanić; (cz.) chwiać; (cz.) kołysać; (cz.) miotać; (cz.) obracać; (cz.) odrzucać; (cz.) podrzucać; (cz.) podrzucić; (cz.) potrząsać; (cz.) przewracać; (cz.) rozkołysać; (cz.) rzucać; (cz.) trząść; (cz.) wiercić; (rz.) podrzucanie; (rz.) podrzucenie; (rz.) podrzut; (rz.) rzut; (rz.) wstrząs; (rz.) zaniepokojenie
+[tot]tot (EN) : (rz.) brzdąc; (rz.) dziecko; (rz.) kropelka; (rz.) szkrab
+[total]total (EN) : (cz.) sumować; (cz.) zsumować; (p.) całkowity; (p.) całościowy; (p.) kompletny; (p.) łączny; (p.) ogólny; (p.) sumaryczny; (p.) totalny; (p.) zupełny; (rz.) całość; (rz.) suma; (rz.) sumarycznie
+[totalitarian]totalitarian (EN) : (p.) totalitarny
+[totalitarianism]totalitarianism (EN) : (rz.) totalitaryzm; (rz.) totalizm
+[totality]totality (EN) : (rz.) całkowitość; (rz.) całość; (rz.) ogół; (rz.) suma; (rz.) totalność
+[totalize]totalize (EN) : (cz.) sumować; (cz.) zsumować
+[totally]totally (EN) : (p-sł.) całkowicie; (p-sł.) totalnie
+[tote]tote (EN) : (cz.) taszczyć
+[totter]totter (EN) : (cz.) chwiać; (cz.) trząść; (cz.) zataczać
+[tottering]tottering (EN) : (p.) chwiejny
+[tottery]tottery (EN) : (p.) niepewny
+[toucan]toucan (EN) : (rz.) tukan
+[touch]touch (EN) : (cz.) dotknąć; (cz.) dotykać; (cz.) otrzymać; (cz.) pomacać; (cz.) poruszyć; (cz.) ruszać; (cz.) tykać; (cz.) wzruszać; (cz.) wzruszyć; (cz.) zarysować; (rz.) dotknięcie; (rz.) dotyk; (rz.) kontakt; (rz.) zmysł
+[touchable]touchable (EN) : (p.) osiągalny
+[touchdown]touchdown (EN) : (rz.) przyłożenie; (rz.) przyziemie
+[touched]touched (EN) : (p.) wzruszony
+[touchiness]touchiness (EN) : (rz.) drażliwość; (rz.) obraźliwość; (rz.) przewrażliwienie
+[touching]touching (EN) : (p.) wzruszający
+[touchstone]touchstone (EN) : (rz.) probierz
+[touchwood]touchwood (EN) : (rz.) hubka; (rz.) próchno
+[touchy]touchy (EN) : (p.) drażliwy
+[tough]tough (EN) : (p.) bezwzględny; (p.) łykowaty; (p.) mocny; (p.) oporny; (p.) surowy; (p.) tęgi; (p.) trudny; (p.) twardy
+[toughen]toughen (EN) : (cz.) hartować; (cz.) utwardzać; (cz.) utwardzić
+[toughie]toughie (EN) : (rz.) twardziel
+[toughly]toughly (EN) : (p-sł.) mocno; (p-sł.) twardo
+[toughness]toughness (EN) : (rz.) bezwzględność; (rz.) hart; (rz.) twardość
+[toupee]toupee (EN) : (rz.) peruka
+[tour]tour (EN) : (cz.) jeździć; (cz.) objeżdżać; (cz.) zwiedzać; (rz.) kolejność; (rz.) objazd; (rz.) podróż; (rz.) przesunięcie; (rz.) tura; (rz.) wycieczka; (rz.) zwiedzanie
+[touring]touring (EN) : (rz.) objazd; (rz.) zwiedzanie
+[tourism]tourism (EN) : (rz.) turystyka
+[tourist]tourist (EN) : (rz.) turysta
+[tourmaline]tourmaline (EN) : (rz.) turmalin
+[tournament]tournament (EN) : (rz.) turniej; (rz.) zawody
+[tourney]tourney (EN) : (rz.) turniej
+[tourniquet]tourniquet (EN) : (rz.) krępulec
+[tousle]tousle (EN) : (cz.) czochrać; (cz.) pokudłać; (cz.) potargać; (cz.) tarmosić; (cz.) zmierzwić
+[tout]tout (EN) : (cz.) kaptować; (cz.) nagabywać; (cz.) skaptować; (rz.) naganiacz
+[tow]tow (EN) : (cz.) holować; (cz.) przyholować; (rz.) hol; (rz.) holownik; (rz.) pakuły
+[tow-boat]tow-boat (EN) : (rz.) holownik
+[tow-net]tow-net (EN) : (rz.) włok; (rz.) włók
+[towage]towage (EN) : (rz.) holowanie
+[toward]toward (EN) : (p-im.) ku; (p-im.) wobec; (p-sł.) około
+[towards]towards (EN) : (p-im.) ku; (p-im.) względem
+[towboat]towboat (EN) : (rz.) holownik; (rz.) pchacz
+[towel]towel (EN) : (rz.) ręcznik
+[towelling]towelling (EN) : (rz.) lanie
+[tower]tower (EN) : (cz.) wznosić; (rz.) baszta; (rz.) kolumna; (rz.) piętrzenie; (rz.) twierdza; (rz.) wieża; (rz.) wzniesienie
+[towering]towering (EN) : (p.) niebotyczny; (p.) wysoki
+[town]town (EN) : (rz.) gród; (rz.) miasteczko; (rz.) miasto
+[town-planner]town-planner (EN) : (rz.) urbanista
+[town-planning]town-planning (EN) : (rz.) urbanistyka
+[township]township (EN) : (rz.) okrąg; (rz.) okręg
+[townsman]townsman (EN) : (rz.) mieszczanin; (rz.) mieszczuch; (rz.) radca
+[townswoman]townswoman (EN) : (rz.) mieszczka
+[towrope]towrope (EN) : (rz.) hol
+[toxic]toxic (EN) : (p.) toksyczny; (p.) trujący
+[toxicity]toxicity (EN) : (rz.) toksyczność
+[toxicological]toxicological (EN) : (p.) toksykologiczny
+[toxicologist]toxicologist (EN) : (rz.) toksykolog
+[toxicology]toxicology (EN) : (rz.) toksykologia
+[toxin]toxin (EN) : (rz.) toksyna
+[toy]toy (EN) : (cz.) bawić; (cz.) igrać; (p.) zabawkarski; (p.) zabawkowy; (rz.) zabawka
+[trace]trace (EN) : (cz.) kalkować; (cz.) kreślić; (cz.) naznaczyć; (cz.) odnaleźć; (cz.) odszukać; (cz.) śledzić; (cz.) szkicować; (cz.) trasować; (rz.) naleciałość; (rz.) odciśnięcie; (rz.) odrobina; (rz.) poszlaka; (rz.) pozostałość; (rz.) ślad; (rz.) trop
+[traceability]traceability (EN) : (rz.) identyfikacja
+[traceable]traceable (EN) : (p.) wykrywalny
+[tracer]tracer (EN) : (rz.) kreślarz; (rz.) smugacz; (rz.) tropiciel; (rz.) wskaźnik
+[tracery]tracery (EN) : (rz.) maswerk
+[trachea]trachea (EN) : (rz.) przetchlinka; (rz.) tchawica
+[tracheotomy]tracheotomy (EN) : (rz.) tracheotomia
+[trachoma]trachoma (EN) : (rz.) jaglica
+[tracing]tracing (EN) : (rz.) kalka; (rz.) kalkowanie; (rz.) śledzenie; (rz.) trasowanie; (rz.) tropienie
+[track]track (EN) : (cz.) namierzać; (cz.) namierzyć; (cz.) prześledzić; (cz.) śledzić; (cz.) tropić; (cz.) wyśledzić; (cz.) wytropić; (rz.) bieżnia; (rz.) droga; (rz.) jazda; (rz.) ścieżka; (rz.) ślad; (rz.) śledź; (rz.) śledzenie; (rz.) szlak; (rz.) tor; (rz.) torowisko; (rz.) trakt; (rz.) trop; (rz.) utwór; (rz.) wielobój; (rz.) wyśledzenie
+[track-athletics]track-athletics (EN) : (rz.) trójbój
+[track-suit]track-suit (EN) : (rz.) dres
+[track-way]track-way (EN) : (rz.) torowisko
+[trackball]trackball (EN) : (rz.) trackball
+[tracker]tracker (EN) : (rz.) abstrakt; (rz.) szperacz; (rz.) tropiciel
+[trackless]trackless (EN) : (p.) bezdrożny; (p.) bezszynowy
+[tracks]tracks (EN) : (rz.) tory; (rz.) trop
+[tracksuit]tracksuit (EN) : (rz.) dres
+[tract]tract (EN) : (rz.) obszar; (rz.) połać; (rz.) przebieg; (rz.) przestrzeń; (rz.) rozprawa; (rz.) trakt; (rz.) traktat
+[tractability]tractability (EN) : (rz.) ustępliwość
+[tractable]tractable (EN) : (p.) łatwy; (p.) pojednawczy; (p.) posłuszny
+[tractate]tractate (EN) : (rz.) traktat
+[traction]traction (EN) : (rz.) trakcja
+[traction-engine]traction-engine (EN) : (rz.) ciągnik; (rz.) traktor
+[tractor]tractor (EN) : (rz.) ciągnik; (rz.) traktor
+[trade]trade (EN) : (cz.) frymarczyć; (cz.) handlować; (cz.) sprzedawać; (rz.) branża; (rz.) fach; (rz.) handel; (rz.) handlarstwo; (rz.) interes; (rz.) proceder; (rz.) rzemiosło; (rz.) sektor; (rz.) wymiana; (rz.) zajęcie; (rz.) zawód
+[trade-off]trade-off (EN) : (rz.) kompromis
+[trade-unionist]trade-unionist (EN) : (rz.) związkowiec
+[trader]trader (EN) : (rz.) handlarz; (rz.) handlowiec; (rz.) kupiec; (rz.) przedsiębiorca
+[tradesman]tradesman (EN) : (rz.) dostawca; (rz.) handlowiec; (rz.) kupiec
+[trading]trading (EN) : (p.) handlarski; (rz.) handel; (rz.) handlowanie
+[tradition]tradition (EN) : (rz.) tradycja
+[traditional]traditional (EN) : (p.) tradycyjny
+[traditionalism]traditionalism (EN) : (rz.) tradycjonalizm
+[traditionalist]traditionalist (EN) : (rz.) tradycjonalista
+[traditionally]traditionally (EN) : (p-sł.) tradycyjnie
+[traduce]traduce (EN) : (cz.) oczerniać
+[traffic]traffic (EN) : (cz.) handlować; (cz.) kupczyć; (cz.) przeszachrować; (rz.) handel; (rz.) komunikacja; (rz.) ruch
+[trafficker]trafficker (EN) : (rz.) handlarz
+[tragedian]tragedian (EN) : (rz.) tragediopisarz; (rz.) tragik
+[tragedy]tragedy (EN) : (rz.) tragedia; (rz.) tragizm
+[tragic]tragic (EN) : (p.) tragiczny
+[tragically]tragically (EN) : (p-sł.) tragicznie
+[tragicomedy]tragicomedy (EN) : (rz.) tragikomedia
+[tragicomic]tragicomic (EN) : (p.) tragikomiczny
+[trail]trail (EN) : (cz.) tropić; (rz.) droga; (rz.) podstawa; (rz.) ścieżka; (rz.) ślad; (rz.) smuga; (rz.) szlak; (rz.) trop
+[trailer]trailer (EN) : (rz.) doczepka; (rz.) jaszcz; (rz.) naczepa; (rz.) przyczepa; (rz.) przyczepka; (rz.) tropiciel; (rz.) zwiastun
+[train]train (EN) : (cz.) ćwiczyć; (cz.) doskonalić; (cz.) kształcić; (cz.) przeszkolić; (cz.) szkolić; (cz.) trenować; (cz.) tresować; (cz.) uczyć; (cz.) wyćwiczyć; (cz.) wyszkolić; (cz.) wytrenować; (rz.) kolejka; (rz.) orszak; (rz.) pociąg; (rz.) sznur; (rz.) tren; (rz.) wątek
+[trainee]trainee (EN) : (rz.) aplikant; (rz.) kursant; (rz.) nowicjusz; (rz.) praktykant; (rz.) stażysta
+[trainer]trainer (EN) : (rz.) instruktor; (rz.) szkoleniowiec; (rz.) trener; (rz.) treser; (rz.) ujeżdżacz
+[training]training (EN) : (rz.) ćwiczenie; (rz.) instruktaż; (rz.) kształcenie; (rz.) praktyka; (rz.) przeszkolenie; (rz.) staż; (rz.) szkolenie; (rz.) trening; (rz.) trenowanie; (rz.) tresowanie; (rz.) tresura; (rz.) wyszkolenie; (rz.) wytrenowanie
+[traipse]traipse (EN) : (cz.) łazić; (cz.) włóczyć
+[trait]trait (EN) : (rz.) cecha; (rz.) przymiot; (rz.) rys; (rz.) ryś; (rz.) rysa
+[traitor]traitor (EN) : (rz.) odstępca; (rz.) wiarołomca; (rz.) zdrajca
+[traitorous]traitorous (EN) : (p.) wiarołomny; (p.) zdradziecki
+[trajectory]trajectory (EN) : (rz.) tor; (rz.) trajektoria; (rz.) trasa
+[tram]tram (EN) : (rz.) tramwaj
+[tram-car]tram-car (EN) : (rz.) tramwaj
+[tramcar]tramcar (EN) : (rz.) tramwaj
+[trammel]trammel (EN) : (cz.) łapać; (cz.) nastawiać; (cz.) pętać; (cz.) plątać; (cz.) tamować; (rz.) pęta; (rz.) przeszkoda; (rz.) sieć
+[tramp]tramp (EN) : (cz.) deptać; (cz.) przemierzać; (cz.) stąpać; (cz.) wędrować; (cz.) włóczyć; (rz.) łazik; (rz.) tramp; (rz.) wędrowiec; (rz.) wędrówka; (rz.) włóczęga
+[trample]trample (EN) : (cz.) deptać; (cz.) podeptać; (cz.) rozdeptać; (cz.) stratować; (cz.) wygnieść; (cz.) zdeptać; (cz.) zgnieść
+[trampoline]trampoline (EN) : (rz.) batut; (rz.) trampolina
+[tramway]tramway (EN) : (rz.) tramwaj
+[tramway-worker]tramway-worker (EN) : (rz.) tramwajarz
+[trance]trance (EN) : (rz.) hipnoza; (rz.) trans; (rz.) zachwyt
+[tranquil]tranquil (EN) : (p.) cichy; (p.) spokojny
+[tranquilizer]tranquilizer (EN) : (rz.) flegmatyzator
+[tranquillity]tranquillity (EN) : (rz.) cisza; (rz.) spokój
+[tranquillize]tranquillize (EN) : (cz.) uspokajać
+[trans-national]trans-national (EN) : (p.) ponadnarodowy
+[trans-shipment]trans-shipment (EN) : (rz.) przeładunek
+[transact]transact (EN) : (cz.) doprowadzić; (cz.) przeprowadzać; (cz.) przeprowadzić; (cz.) rokować; (cz.) układać; (cz.) ułożyć
+[transaction]transaction (EN) : (rz.) transakcja
+[transatlantic]transatlantic (EN) : (p.) transatlantycki
+[transceiver]transceiver (EN) : (rz.) nadajnik-odbiornik
+[transcend]transcend (EN) : (cz.) przekraczać; (cz.) wykraczać
+[transcendence]transcendence (EN) : (rz.) przestępność; (rz.) transcendencja
+[transcendent]transcendent (EN) : (p.) transcendentalny; (p.) transcendentny
+[transcendental]transcendental (EN) : (p.) nadzmysłowy; (p.) przestępny; (p.) transcendentalny
+[transcendentalism]transcendentalism (EN) : (rz.) nadzmysłowość; (rz.) transcendentalizm
+[transcendentalist]transcendentalist (EN) : (rz.) transcendentalista
+[transcontinental]transcontinental (EN) : (p.) transkontynentalny
+[transcribe]transcribe (EN) : (cz.) kopiować; (cz.) przepisywać; (cz.) rozpisać; (cz.) transkrybować
+[transcript]transcript (EN) : (rz.) kopia; (rz.) odpis; (rz.) transkrypcja; (rz.) zapis
+[transcription]transcription (EN) : (rz.) kopia; (rz.) nagranie; (rz.) przepisanie; (rz.) transkrypcja
+[transcripts]transcripts (EN) : (rz.) stenogram
+[transducer]transducer (EN) : (rz.) przetwornik
+[transept]transept (EN) : (rz.) transept
+[transfer]transfer (EN) : (cz.) odstąpić; (cz.) przekazać; (cz.) przełączać; (cz.) przelewać; (cz.) przenieść; (cz.) przenosić; (rz.) cesja; (rz.) odstąpienie; (rz.) przekaz; (rz.) przekazanie; (rz.) przekazywanie; (rz.) przelew; (rz.) przenieś; (rz.) przeniesienie; (rz.) przenoszenie; (rz.) przewiezienie; (rz.) transfer; (rz.) uzgadnianie
+[transferability]transferability (EN) : (rz.) przenaszalność; (rz.) przenośność
+[transferable]transferable (EN) : (p.) przenośny; (p.) zbywalny
+[transferee]transferee (EN) : (rz.) cesjonariusz
+[transference]transference (EN) : (rz.) zrzucenie
+[transferor]transferor (EN) : (rz.) cedent
+[transfiguration]transfiguration (EN) : (rz.) konwersja; (rz.) transfiguracja
+[transfigure]transfigure (EN) : (cz.) przekształcać; (cz.) przekształcić
+[transfix]transfix (EN) : (cz.) przebić; (cz.) przeszyć; (cz.) sparaliżować; (cz.) unieruchamiać; (cz.) unieruchomić
+[transform]transform (EN) : (cz.) odmieniać; (cz.) odmienić; (cz.) przeistaczać; (cz.) przekształcać; (cz.) przekształcić; (cz.) przemieniać; (cz.) przemienić; (cz.) przeobrazić; (cz.) przerobić; (cz.) przetransformować; (cz.) przetwarzać; (cz.) transformować
+[transformation]transformation (EN) : (rz.) przekształcenie; (rz.) przemiana; (rz.) przeobrażanie; (rz.) przeobrażenie; (rz.) przerodzenie; (rz.) transformacja; (rz.) zmiana
+[transformational]transformational (EN) : (p.) przekształcalny
+[transformer]transformer (EN) : (rz.) transformator
+[transfuse]transfuse (EN) : (cz.) przelewać; (cz.) przepacać; (cz.) przepoić; (cz.) przetaczać
+[transfusion]transfusion (EN) : (rz.) przetaczanie; (rz.) przetoczenie; (rz.) transfuzja
+[transgenic]transgenic (EN) : (p.) transgeniczny
+[transgress]transgress (EN) : (cz.) naruszać; (cz.) pogwałcić; (cz.) przekraczać
+[transgression]transgression (EN) : (rz.) naruszenie; (rz.) transgresja; (rz.) uchybienie; (rz.) wykroczenie
+[tranship]tranship (EN) : (cz.) przeładowywać
+[transhipment]transhipment (EN) : (rz.) przeładunek
+[transience]transience (EN) : (rz.) krótkotrwałość; (rz.) przemijalność
+[transient]transient (EN) : (p.) chwilowy; (p.) przejściowy; (p.) przelotny; (p.) przemijający; (p.) ulotny; (rz.) małżeństwo; (rz.) nieokreśloność
+[transiently]transiently (EN) : (p-sł.) krótkotrwale
+[transistor]transistor (EN) : (rz.) tranzystor
+[transistorized]transistorized (EN) : (p.) tranzystorowy
+[transit]transit (EN) : (rz.) przejazd; (rz.) przewóz; (rz.) tranzyt
+[transition]transition (EN) : (rz.) przechodzenie; (rz.) przejście; (rz.) przemiana; (rz.) transformacja; (rz.) zmiana
+[transitional]transitional (EN) : (p.) pośredni; (p.) przechodni; (p.) przejściowy
+[transitive]transitive (EN) : (p.) przechodni; (p.) tranzytywny
+[transitivity]transitivity (EN) : (rz.) przechodniość; (rz.) tranzytywność
+[transitory]transitory (EN) : (p.) efemeryczny; (p.) przejściowy
+[translatable]translatable (EN) : (p.) przetłumaczalny
+[translate]translate (EN) : (cz.) przekładać; (cz.) przekuć; (cz.) przełożyć; (cz.) przetłumaczyć; (cz.) tłumaczyć
+[translation]translation (EN) : (rz.) przekład; (rz.) przekładanie; (rz.) przełożenie; (rz.) tłumacz; (rz.) tłumaczenie; (rz.) trans; (rz.) translacja
+[translational]translational (EN) : (p.) tłumaczeniowy; (p.) translacyjny
+[translator]translator (EN) : (rz.) konwertor; (rz.) tłumacz; (rz.) translator
+[transliterate]transliterate (EN) : (cz.) transliterować
+[transliteration]transliteration (EN) : (rz.) transliteracja
+[translocation]translocation (EN) : (rz.) przemieszczenie; (rz.) przenoszenie; (rz.) translokacja
+[translucence]translucence (EN) : (rz.) przejrzystość
+[translucent]translucent (EN) : (p.) półprzezroczysty; (p.) półprzeźroczysty
+[transmigrate]transmigrate (EN) : (cz.) przejeździć; (cz.) przesiedlać
+[transmissible]transmissible (EN) : (p.) przenośny
+[transmission]transmission (EN) : (rz.) emisja; (rz.) manipulacja; (rz.) nadawanie; (rz.) pędnia; (rz.) przekaz; (rz.) przekazanie; (rz.) przekazywanie; (rz.) przekładnia; (rz.) przesył; (rz.) przesyłanie; (rz.) rozgłaszanie; (rz.) transmisja
+[transmit]transmit (EN) : (cz.) nadawać; (cz.) przekazywać; (cz.) przenosić; (cz.) przepuszczać; (cz.) transmitować
+[transmit-receive]transmit-receive (EN) : (rz.) nadawanie-odbiór
+[transmittal]transmittal (EN) : (rz.) przekazanie
+[transmittance]transmittance (EN) : (rz.) transmitancja
+[transmitter]transmitter (EN) : (rz.) nadajnik; (rz.) przekaźnik
+[transmitter-receiver]transmitter-receiver (EN) : (rz.) nadajnik-odbiornik
+[transmutation]transmutation (EN) : (rz.) transmutacja
+[transmute]transmute (EN) : (cz.) przemieniać; (cz.) przeobrażać; (cz.) zmieniać
+[transoceanic]transoceanic (EN) : (p.) transoceaniczny; (p.) zaoceaniczny
+[transom]transom (EN) : (rz.) pawęż; (rz.) poprzecznica; (rz.) szczeblina
+[transparency]transparency (EN) : (rz.) jawność; (rz.) przejrzystość; (rz.) przezrocze; (rz.) przeźrocze; (rz.) przezroczystość; (rz.) przeźroczystość
+[transparent]transparent (EN) : (p.) jawny; (p.) przejrzysty; (p.) przezroczysty; (p.) przeźroczysty
+[transparently]transparently (EN) : (p-sł.) jasno; (p-sł.) przejrzyście
+[transpiration]transpiration (EN) : (rz.) parowanie; (rz.) pocenie; (rz.) transpiracja
+[transpire]transpire (EN) : (cz.) okazywać; (cz.) parować; (cz.) pocić; (cz.) spocić; (cz.) wychodzić; (cz.) wydychać; (cz.) wydzielać; (cz.) zdarzać
+[transplant]transplant (EN) : (cz.) przeflancować; (cz.) przenosić; (cz.) przesadzać; (cz.) przeszczepiać; (cz.) przeszczepić
+[transplantation]transplantation (EN) : (rz.) flancowanie; (rz.) przesadzanie; (rz.) przesadzenie; (rz.) przeszczepienie; (rz.) transplantacja
+[transponder]transponder (EN) : (rz.) przekaźnik
+[transport]transport (EN) : (cz.) dowozić; (cz.) podniecać; (cz.) podniecić; (cz.) porwać; (cz.) porywać; (cz.) przenosić; (cz.) przesyłać; (cz.) przetransportować; (cz.) przewozić; (cz.) transportować; (cz.) zachwycać; (cz.) zachwycić; (rz.) komunikacja; (rz.) przewóz; (rz.) przywóz; (rz.) transport
+[transportable]transportable (EN) : (p.) przenośny; (p.) przewoźny
+[transportation]transportation (EN) : (rz.) deportacja; (rz.) przewóz; (rz.) transport; (rz.) wywóz; (rz.) wywózka; (rz.) zwózka
+[transpose]transpose (EN) : (cz.) przestawiać; (cz.) przestawić; (cz.) przetransponować; (cz.) transponować; (cz.) zamieniać
+[transposing]transposing (EN) : (rz.) transponowanie
+[transposition]transposition (EN) : (rz.) metatonia; (rz.) przeniesienie; (rz.) przestawienie; (rz.) transponowanie; (rz.) transpozycja
+[transude]transude (EN) : (cz.) przesiąkać
+[transversal]transversal (EN) : (p.) poprzeczny; (p.) transwersalny
+[transverse]transverse (EN) : (p.) poprzeczny
+[transvestite]transvestite (EN) : (rz.) transwestyta
+[trap]trap (EN) : (rz.) matnia; (rz.) płuczka; (rz.) podstęp; (rz.) potrzask; (rz.) pułapka; (rz.) sidło; (rz.) trapienie; (rz.) zapadnia; (rz.) zasadzka
+[trapdoor]trapdoor (EN) : (rz.) drzwi; (rz.) klapa; (rz.) spustowe; (rz.) zapadnia
+[trapeze]trapeze (EN) : (rz.) trapez
+[trapezium]trapezium (EN) : (rz.) trapez
+[trapezoid]trapezoid (EN) : (rz.) czworokąt; (rz.) trapez
+[trapezoidal]trapezoidal (EN) : (p.) trapezowy
+[trapezoids]trapezoids (EN) : (rz.) trapezoid
+[trapper]trapper (EN) : (rz.) traper
+[trappings]trappings (EN) : (rz.) czaprak
+[traps]traps (EN) : (rz.) manele
+[trash]trash (EN) : (rz.) bubel; (rz.) bzdura; (rz.) chała; (rz.) dziadostwo; (rz.) graty; (rz.) nonsens; (rz.) odpadki; (rz.) śmiecenie; (rz.) śmieci; (rz.) śmietnik; (rz.) szmira; (rz.) tandeta; (rz.) tanizna
+[trashy]trashy (EN) : (p.) bublowaty; (p.) dziadowski; (p.) jarmarczny; (p.) lipny; (p.) szmirowaty; (p.) tandetny
+[trauma]trauma (EN) : (rz.) obrażenie; (rz.) uraz
+[traumatic]traumatic (EN) : (p.) pourazowy; (p.) przyranny; (p.) traumatyczny; (p.) urazowy
+[traumatism]traumatism (EN) : (rz.) urazowość
+[travail]travail (EN) : (rz.) męka; (rz.) mozół
+[travel]travel (EN) : (cz.) jechać; (cz.) jeździć; (cz.) podróżować; (cz.) ujechać; (p.) podróżniczy; (rz.) podróż; (rz.) podróżowanie; (rz.) przesuw; (rz.) wędrówka; (rz.) wojaż
+[traveller]traveller (EN) : (rz.) komiwojażer; (rz.) podróżnik; (rz.) ślizgacz
+[travelling]travelling (EN) : (p.) objazdowy; (p.) wędrowny; (p.) wyjazdowy; (rz.) jazda; (rz.) podróżowanie; (rz.) przesuw
+[traversable]traversable (EN) : (p.) kontrowersyjny
+[traversal]traversal (EN) : (rz.) przeglądanie
+[traverse]traverse (EN) : (cz.) krzyżować; (cz.) przebrnąć; (cz.) przechodzić; (cz.) przecinać; (cz.) przejeżdżać; (cz.) trawersować; (rz.) dosuw; (rz.) poprzecznica; (rz.) przesuw; (rz.) trawers
+[travesty]travesty (EN) : (cz.) parodiować; (cz.) sparodiować; (cz.) trawestować; (rz.) parodia; (rz.) przekręcenie; (rz.) trawestacja
+[trawl]trawl (EN) : (cz.) trałować; (rz.) niewód; (rz.) włok; (rz.) włók
+[trawler]trawler (EN) : (rz.) trałowiec; (rz.) trawler
+[tray]tray (EN) : (rz.) podajnik; (rz.) taca; (rz.) tacka; (rz.) zasobnik
+[treacherous]treacherous (EN) : (p.) perfidny; (p.) skrytobójczy; (p.) wiarołomny; (p.) zawodny; (p.) zdradliwy; (p.) zdradziecki
+[treacherously]treacherously (EN) : (p-sł.) perfidnie
+[treachery]treachery (EN) : (rz.) perfidia; (rz.) zdrada; (rz.) zdradliwość
+[treacle]treacle (EN) : (rz.) melasa; (rz.) syrop
+[treacly]treacly (EN) : (p.) cukierkowy; (p.) melasowy
+[tread]tread (EN) : (cz.) deptać; (cz.) kroczyć; (cz.) stąpać; (cz.) tratować; (cz.) udeptać; (cz.) udeptywać; (rz.) bieżnik; (rz.) chód; (rz.) krocz; (rz.) podnóżek; (rz.) stopnica
+[treadle]treadle (EN) : (rz.) pedał
+[treadmill]treadmill (EN) : (rz.) bieżnia; (rz.) kierat
+[treason]treason (EN) : (rz.) przestępstwo; (rz.) zdrada
+[treasonable]treasonable (EN) : (p.) wywrotowy
+[treasure]treasure (EN) : (cz.) cenić; (cz.) gromadzić; (cz.) pielęgnować; (cz.) przechowywać; (cz.) tezauryzować; (rz.) krocie; (rz.) skarb; (rz.) skarbnica
+[treasurer]treasurer (EN) : (rz.) kasjer; (rz.) podskarbi; (rz.) skarbnik
+[treasury]treasury (EN) : (rz.) finanse; (rz.) skarbiec; (rz.) skarbnica
+[treat]treat (EN) : (cz.) częstować; (cz.) fundować; (cz.) gościć; (cz.) kurować; (cz.) leczyć; (cz.) negocjować; (cz.) oczyszczać; (cz.) przyjmować; (cz.) rozpatrywać; (cz.) rozprawiać; (cz.) traktować; (cz.) umawiać; (cz.) uważać; (cz.) zafundować; (rz.) pogróżka; (rz.) uczta
+[treatable]treatable (EN) : (p.) uleczalny
+[treated]treated (EN) : (cz.) traktować; (cz.) uzdatnić
+[treatise]treatise (EN) : (rz.) rozprawa; (rz.) traktat
+[treatment]treatment (EN) : (rz.) kuracja; (rz.) leczenie; (rz.) obchodzenie; (rz.) obróbka; (rz.) oczyszczalnia; (rz.) przeróbka; (rz.) traktowanie; (rz.) uważanie; (rz.) zabieg
+[treaty]treaty (EN) : (rz.) traktat; (rz.) umowa
+[treble]treble (EN) : (cz.) potrajać; (cz.) potroić; (p.) dyszkantowy; (p.) potrójny; (p.) troisty; (p.) trójdzielny; (p.) wiolinowy; (rz.) dyszkant; (rz.) sopran
+[tree]tree (EN) : (rz.) drewno; (rz.) drzewko; (rz.) drzewo
+[tree-trunk]tree-trunk (EN) : (rz.) pień
+[treeless]treeless (EN) : (p.) bezdrzewny
+[treelike]treelike (EN) : (p.) drzewiasty
+[trefoil]trefoil (EN) : (rz.) koniczyna; (rz.) trójliść
+[trek]trek (EN) : (cz.) ciągnąć; (cz.) podróżować; (cz.) posuwać; (rz.) podróż; (rz.) wyprawa
+[trekker]trekker (EN) : (rz.) wędrownik
+[trellis]trellis (EN) : (rz.) krata; (rz.) szpaler
+[tremble]tremble (EN) : (cz.) drgać; (cz.) drżeć; (cz.) dygotać; (cz.) trząść; (cz.) zadrżeć; (rz.) drżenie
+[trembler]trembler (EN) : (rz.) brzęczyk
+[trembling]trembling (EN) : (cz.) zadygotać; (rz.) drganie; (rz.) drżenie
+[tremendous]tremendous (EN) : (p.) ogromny; (p.) okropny; (p.) olbrzymi; (p.) potężny; (p.) straszliwy; (p.) straszny
+[tremor]tremor (EN) : (rz.) dreszcz; (rz.) drganie; (rz.) drżenie; (rz.) wstrząs
+[tremulous]tremulous (EN) : (p.) drżący; (p.) nerwowy
+[trench]trench (EN) : (rz.) okop; (rz.) rów; (rz.) transzeja; (rz.) wykop
+[trench-coat]trench-coat (EN) : (rz.) trencz
+[trencher]trencher (EN) : (rz.) deska; (rz.) deszczułka
+[trencherman]trencherman (EN) : (rz.) żarłok
+[trend]trend (EN) : (cz.) dążyć; (rz.) dążność; (rz.) kierunek; (rz.) moda; (rz.) skłonność; (rz.) tendencja
+[trendy]trendy (EN) : (p.) modny; (p.) nowoczesny
+[trepan]trepan (EN) : (rz.) trepan
+[trepanation]trepanation (EN) : (rz.) trepanacja
+[trephine]trephine (EN) : (cz.) trepanować
+[trepidation]trepidation (EN) : (rz.) drżenie; (rz.) lęk; (rz.) niepokój
+[trespass]trespass (EN) : (cz.) grzeszyć; (cz.) naruszać; (cz.) naruszyć; (cz.) przekroczyć; (cz.) wkroczyć; (cz.) wtargnąć; (cz.) wykraczać; (rz.) grzech; (rz.) naruszenie; (rz.) wykroczenie
+[trespasser]trespasser (EN) : (rz.) intruz; (rz.) kłusownik; (rz.) winowajca
+[tress]tress (EN) : (rz.) kok; (rz.) warkocz
+[trestle]trestle (EN) : (rz.) kozioł
+[trey]trey (EN) : (rz.) trójka
+[tri-state]tri-state (EN) : (p.) trójstanowy
+[triad]triad (EN) : (rz.) triada; (rz.) trójdźwięk; (rz.) trójka
+[trial]trial (EN) : (p.) próbny; (rz.) badanie; (rz.) próba; (rz.) proces; (rz.) przesłuchanie; (rz.) rozprawa
+[triangle]triangle (EN) : (rz.) trójkąt
+[triangles]triangles (EN) : (rz.) trójkątowanie
+[triangular]triangular (EN) : (p.) trójkątny
+[triangularly]triangularly (EN) : (p-sł.) trójkątnie
+[triangulation]triangulation (EN) : (rz.) triangulacja
+[tribal]tribal (EN) : (p.) plemienny; (p.) szczepowy
+[tribe]tribe (EN) : (rz.) plemię; (rz.) szczep
+[tribesman]tribesman (EN) : (rz.) współplemieniec
+[tribulation]tribulation (EN) : (rz.) cierpienie; (rz.) męka; (rz.) nieszczęście; (rz.) smutek; (rz.) zmartwienie
+[tribunal]tribunal (EN) : (rz.) sąd; (rz.) trybunał
+[tribune]tribune (EN) : (rz.) trybun; (rz.) trybuna
+[tributary]tributary (EN) : (p.) hołdowniczy; (p.) pomocniczy; (rz.) dopływ; (rz.) hołdownik
+[tribute]tribute (EN) : (rz.) danina; (rz.) haracz; (rz.) hołd; (rz.) należność; (rz.) podatek; (rz.) przyczynek; (rz.) trybut
+[trichina]trichina (EN) : (rz.) trychina; (rz.) włosień
+[trichinosis]trichinosis (EN) : (rz.) trychinoza; (rz.) włośnica
+[trichloroethylene]trichloroethylene (EN) : (rz.) tri; (rz.) trójchloroetylen
+[trick]trick (EN) : (cz.) oszukiwać; (cz.) wygładzać; (cz.) wylęgać; (cz.) wyłudzać; (cz.) wyłudzić; (rz.) chwyt; (rz.) figiel; (rz.) fortel; (rz.) podstęp; (rz.) przyzwyczajenie; (rz.) psikus; (rz.) psota; (rz.) sprawka; (rz.) sztuczka; (rz.) trik
+[trickery]trickery (EN) : (rz.) matactwo; (rz.) nabieranie; (rz.) oszustwo; (rz.) podstęp; (rz.) szwindel
+[trickle]trickle (EN) : (cz.) cieknąć; (cz.) ciurkać; (cz.) kapać; (cz.) sączyć; (cz.) ściekać; (cz.) ujawniać; (cz.) ujawnić; (rz.) kapanie; (rz.) sączenie; (rz.) strużka
+[trickster]trickster (EN) : (rz.) macher; (rz.) mistyfikator; (rz.) naciągacz; (rz.) oszust
+[tricky]tricky (EN) : (p.) podstępny; (p.) skomplikowany; (p.) wykrętny; (p.) zawiły
+[tricolour]tricolour (EN) : (p.) trójbarwny
+[tricycle]tricycle (EN) : (rz.) trycykl
+[trident]trident (EN) : (rz.) trójząb
+[tried]tried (EN) : (p.) wierny; (p.) wypróbowany
+[triennial]triennial (EN) : (rz.) msza; (rz.) trzylecie
+[trifle]trifle (EN) : (rz.) bagatela; (rz.) bagatelka; (rz.) drobiazg; (rz.) drobnostka; (rz.) fraszka; (rz.) igraszka; (rz.) małostka
+[trifler]trifler (EN) : (rz.) lekkoduch; (rz.) żartowniś
+[trifling]trifling (EN) : (p.) błahy; (p.) drobny
+[trig]trig (EN) : (cz.) zestroić
+[trigger]trigger (EN) : (cz.) rozpętać; (cz.) wywoływać; (cz.) wyzwalać; (rz.) cyngiel; (rz.) cyrkiel; (rz.) hamulec; (rz.) przerzutnik; (rz.) przyczyna; (rz.) spust; (rz.) wyzwalacz
+[triggering]triggering (EN) : (rz.) cyngiel; (rz.) wywoływanie
+[trigonometric]trigonometric (EN) : (p.) trygonometryczny
+[trigonometry]trigonometry (EN) : (rz.) trygonometria
+[trihedral]trihedral (EN) : (p.) trójścienny
+[trilateral]trilateral (EN) : (p.) trójstronny
+[trill]trill (EN) : (cz.) trelować; (rz.) trel; (rz.) tryl
+[trilling]trilling (EN) : (rz.) trojak
+[trillion]trillion (EN) : (rz.) bilion; (rz.) kwintylion; (rz.) trylion
+[trilogy]trilogy (EN) : (rz.) trylogia
+[trim]trim (EN) : (cz.) czyścić; (cz.) garnirować; (cz.) lamować; (cz.) obkuwać; (cz.) oporządzać; (cz.) podciąć; (cz.) porządkować; (cz.) poubierać; (cz.) przybierać; (cz.) przycinać; (cz.) przystrajać; (cz.) trymować; (cz.) ugarnirować; (cz.) uporządkować; (cz.) wycinać; (cz.) wygładzać; (cz.) wymuskać; (p.) prawidłowy; (p.) schludny; (rz.) ozdabianie; (rz.) przystrzyżenie
+[trimester]trimester (EN) : (rz.) trymestr
+[trimmer]trimmer (EN) : (rz.) lawirant; (rz.) okrawarka; (rz.) okrojnik; (rz.) przycinarka; (rz.) trymer
+[trimming]trimming (EN) : (rz.) garnirowanie; (rz.) lamówka; (rz.) obszywka; (rz.) przycinanie; (rz.) uporządkowanie; (rz.) wykończenie
+[trimmings]trimmings (EN) : (rz.) obrzynki; (rz.) okrawki
+[trimness]trimness (EN) : (cz.) porządkować; (rz.) schludność
+[trinitrotoluene]trinitrotoluene (EN) : (rz.) trójnitrotoluen; (rz.) trotyl
+[trinity]trinity (EN) : (rz.) trójca; (rz.) trójka
+[trinket]trinket (EN) : (rz.) bibelot; (rz.) błyskotka; (rz.) cacko; (rz.) drobiazg; (rz.) ozdoba; (rz.) ozdóbka; (rz.) świecidełko
+[trinkets]trinkets (EN) : (rz.) bibeloty
+[trinomial]trinomial (EN) : (p.) potrójny; (rz.) trójmian
+[trio]trio (EN) : (rz.) tercet; (rz.) trójka
+[triode]triode (EN) : (rz.) trioda
+[trioxide]trioxide (EN) : (rz.) trójtlenek
+[trip]trip (EN) : (cz.) iść; (rz.) podróż; (rz.) przejażdżka; (rz.) rejs; (rz.) wycieczka; (rz.) wyjazd; (rz.) wyłącznik; (rz.) wypad; (rz.) wyprawa; (rz.) wyzwalacz
+[trip-out]trip-out (EN) : (rz.) wyzwolenie
+[tripartite]tripartite (EN) : (p.) trójdzielny
+[tripe]tripe (EN) : (rz.) bzdura; (rz.) flaczki; (rz.) flaki; (rz.) trójka
+[triple]triple (EN) : (cz.) potrajać; (cz.) troić; (p.) potrójny
+[triplet]triplet (EN) : (rz.) tercyna; (rz.) triola; (rz.) trójka; (rz.) trójwiersz; (rz.) tryplet
+[triplets]triplets (EN) : (rz.) trojaczki
+[triplex]triplex (EN) : (p.) potrójny; (p.) trojaki
+[triplicate]triplicate (EN) : (cz.) potrajać; (rz.) tryplikat
+[triplication]triplication (EN) : (rz.) potrojenie
+[triply]triply (EN) : (p-sł.) potrójnie
+[tripod]tripod (EN) : (rz.) statyw; (rz.) trójnóg
+[tripper]tripper (EN) : (rz.) podróżnik; (rz.) wycieczkowicz; (rz.) wyzwalacz
+[tripping]tripping (EN) : (rz.) dreptanie; (rz.) potykanie; (rz.) wyzwalanie
+[trips]trips (EN) : (rz.) podrożenie
+[triptych]triptych (EN) : (rz.) tryptyk
+[tripwire]tripwire (EN) : (rz.) kabel
+[trisection]trisection (EN) : (rz.) trysekcja
+[trite]trite (EN) : (p.) banalny; (p.) oklepany; (p.) szablonowy; (p.) trywialny; (p.) tuzinkowy; (p.) zdawkowy
+[triteness]triteness (EN) : (rz.) banał; (rz.) banalność; (rz.) trywialność
+[tritium]tritium (EN) : (rz.) tryt
+[triton]triton (EN) : (rz.) tryton
+[triumph]triumph (EN) : (cz.) triumfować; (cz.) tryumfować; (rz.) sukces; (rz.) triumf; (rz.) tryumf
+[triumphal]triumphal (EN) : (p.) triumfalny; (p.) tryumfalny
+[triumphant]triumphant (EN) : (p.) triumfalny; (p.) triumfujący
+[triumphantly]triumphantly (EN) : (p-sł.) tryumfalnie; (p-sł.) tryumfująco
+[triumvir]triumvir (EN) : (rz.) triumwir
+[triumvirate]triumvirate (EN) : (rz.) triumwirat
+[trivalent]trivalent (EN) : (p.) trójwartościowy
+[trivet]trivet (EN) : (rz.) trójnóg
+[trivial]trivial (EN) : (p.) bagatelny; (p.) banalny; (p.) błahy; (p.) codzienny; (p.) nieważny; (p.) pospolity; (p.) trywialny; (p.) tuzinkowy
+[trivialities]trivialities (EN) : (rz.) fidrygałki
+[triviality]triviality (EN) : (rz.) błahość; (rz.) trywialność
+[trivialization]trivialization (EN) : (rz.) banalizacja; (rz.) trywializacja
+[trivialize]trivialize (EN) : (cz.) banalizować; (cz.) strywializować
+[trivially]trivially (EN) : (p-sł.) banalnie; (p-sł.) trywialnie
+[trochaic]trochaic (EN) : (p.) trocheiczny
+[troche]troche (EN) : (rz.) pastylka
+[trochee]trochee (EN) : (rz.) trochej
+[trod]trod (EN) : (cz.) kroczyć; (cz.) stąpać
+[troglodyte]troglodyte (EN) : (rz.) troglodyta
+[troika]troika (EN) : (rz.) trójka
+[troll]troll (EN) : (cz.) śpiewać; (rz.) kanon
+[trolley]trolley (EN) : (rz.) barek; (rz.) ciężarówka; (rz.) drezyna; (rz.) trolejbus; (rz.) wagonik; (rz.) wózek
+[trolley-car]trolley-car (EN) : (rz.) tramwaj
+[trolleybus]trolleybus (EN) : (p.) trolejbusowy; (rz.) trolejbus
+[trollop]trollop (EN) : (rz.) brudas; (rz.) dziwka; (rz.) flądra; (rz.) prostytutka
+[trombone]trombone (EN) : (rz.) puzon
+[trombonist]trombonist (EN) : (rz.) puzonista
+[troop]troop (EN) : (rz.) bateria; (rz.) gromadka; (rz.) grupa; (rz.) oddział; (rz.) trupa
+[troop-carrier]troop-carrier (EN) : (rz.) transportowiec
+[trooper]trooper (EN) : (rz.) kawalerzysta; (rz.) żołnierz
+[troops]troops (EN) : (rz.) hufiec; (rz.) odsiecz; (rz.) wojsko; (rz.) żołnierze
+[trophy]trophy (EN) : (rz.) łup; (rz.) nagroda; (rz.) pamiątka; (rz.) trofeum; (rz.) zdobycz
+[tropic]tropic (EN) : (p.) tropikalny; (p.) zwrotnikowy; (rz.) tropik; (rz.) zwrotnik
+[tropic-proofing]tropic-proofing (EN) : (rz.) tropikalizacja
+[tropical]tropical (EN) : (p.) podzwrotnikowy; (p.) tropikalny; (p.) zwrotnikowy
+[tropically]tropically (EN) : (p-sł.) tropikalnie
+[tropics]tropics (EN) : (rz.) tropik
+[tropism]tropism (EN) : (rz.) tropizm
+[troposphere]troposphere (EN) : (rz.) troposfera
+[trot]trot (EN) : (cz.) kłusować; (cz.) przebiegać; (rz.) kłus; (rz.) przechadzka; (rz.) trucht
+[troth]troth (EN) : (rz.) obietnica; (rz.) prawda; (rz.) przysięga
+[trotter]trotter (EN) : (rz.) kłusak
+[troubadour]troubadour (EN) : (rz.) trubadur
+[trouble]trouble (EN) : (cz.) dolegać; (cz.) doskwierać; (cz.) fatygować; (cz.) kłopotać; (cz.) martwić; (cz.) męczyć; (cz.) nagabywać; (cz.) natrudzić; (cz.) niepokoić; (cz.) peszyć; (cz.) trudzić; (cz.) turbować; (rz.) choroba; (rz.) dręczenie; (rz.) fatyga; (rz.) fatygowanie; (rz.) kłopot; (rz.) niedomagania; (rz.) niepokój; (rz.) nieprzyjemność; (rz.) tarapaty; (rz.) troska; (rz.) trud; (rz.) urządzenia; (rz.) utrapienie; (rz.) zaburzenie; (rz.) zadyma; (rz.) zakłócenie; (rz.) zło; (rz.) zmartwienie
+[trouble-free]trouble-free (EN) : (p.) bezproblemowy; (p.) niezakłócony; (p.) niezawodny
+[trouble-maker]trouble-maker (EN) : (rz.) rozrabiacz
+[troublemaker]troublemaker (EN) : (rz.) intrygant; (rz.) kozak; (rz.) mąciciel; (rz.) mąciwoda; (rz.) podżegacz; (rz.) warchoł; (rz.) wichrzyciel
+[troubleshooting]troubleshooting (EN) : (rz.) diagnozowanie
+[troublesome]troublesome (EN) : (p.) dokuczliwy; (p.) kłopotliwy; (p.) niepokojący; (p.) uciążliwy
+[trough]trough (EN) : (rz.) koryto; (rz.) niecka; (rz.) rynienka; (rz.) rynna; (rz.) żłób
+[trounce]trounce (EN) : (cz.) pokonywać
+[troupe]troupe (EN) : (rz.) gromada; (rz.) hufiec; (rz.) trupa; (rz.) wojsko; (rz.) zespół
+[trousers]trousers (EN) : (rz.) portki; (rz.) spodnie
+[trousseau]trousseau (EN) : (rz.) wyprawa
+[trout]trout (EN) : (rz.) pstrąg
+[trowel]trowel (EN) : (rz.) kielnia; (rz.) łopatka; (rz.) rydel
+[truancies]truancies (EN) : (rz.) wagary
+[truancy]truancy (EN) : (rz.) absencja; (rz.) wagarowanie; (rz.) wagary
+[truant]truant (EN) : (rz.) wagarowicz
+[truce]truce (EN) : (rz.) rozejm
+[truck]truck (EN) : (cz.) frymarczyć; (rz.) ciężarówka; (rz.) lora; (rz.) platforma; (rz.) wózek; (rz.) wymiana
+[trucker]trucker (EN) : (rz.) kierowca
+[truculence]truculence (EN) : (rz.) agresywność; (rz.) wojowniczość
+[truculent]truculent (EN) : (p.) barbarzyński; (p.) dziki; (p.) gwałtowny; (p.) srogi; (p.) wojowniczy; (p.) zadzierzysty
+[trudge]trudge (EN) : (rz.) wlec
+[true]true (EN) : (cz.) sprawdzać; (cz.) sprawdzić; (p.) naturalny; (p.) nieodrodny; (p.) prawdomówny; (p.) prawdziwy; (p.) rzeczywisty; (p.) rzetelny; (p.) wierny; (p-sł.) prawdziwie; (p-sł.) wiernie
+[true-blue]true-blue (EN) : (p.) lojalny; (p.) niezawodny; (p.) wierny
+[true-born]true-born (EN) : (p.) prawdziwy
+[trueborn]trueborn (EN) : (p.) prawdziwy
+[truffle]truffle (EN) : (rz.) trufla
+[truism]truism (EN) : (rz.) komunał; (rz.) ogólnik; (rz.) truizm
+[truly]truly (EN) : (p-sł.) doprawdy; (p-sł.) lojalnie; (p-sł.) prawdziwie; (p-sł.) rzeczywiście; (p-sł.) szczerze; (p-sł.) wiernie
+[trump]trump (EN) : (cz.) narzucić; (cz.) sfingować; (cz.) wymyślać; (cz.) wymyślić; (rz.) atut
+[trumped-up]trumped-up (EN) : (p.) fałszywy
+[trumpery]trumpery (EN) : (p.) bezwartościowy; (p.) lichy; (p.) oszukańczy; (p.) tandetny; (rz.) paplanina; (rz.) tandeta
+[trumpet]trumpet (EN) : (cz.) rozgłaszać; (cz.) trąbić; (rz.) dzwonek; (rz.) trąba; (rz.) trąbka; (rz.) tuba
+[trumpeter]trumpeter (EN) : (rz.) trębacz
+[truncate]truncate (EN) : (cz.) obciąć; (cz.) obcinać; (cz.) okaleczyć; (cz.) skracać
+[truncated]truncated (EN) : (p.) kadłubowy; (p.) obcięty; (p.) okrojony
+[truncation]truncation (EN) : (rz.) obcięcie; (rz.) obcinanie; (rz.) okrojenie
+[truncheon]truncheon (EN) : (rz.) buława; (rz.) drzewce; (rz.) pałka; (rz.) pień
+[trundle]trundle (EN) : (cz.) toczyć
+[trunk]trunk (EN) : (rz.) bagażnik; (rz.) kadłub; (rz.) kora; (rz.) korpus; (rz.) kufer; (rz.) magistrala; (rz.) pień; (rz.) pniak; (rz.) pysk; (rz.) skrzynka; (rz.) tors; (rz.) trąba; (rz.) trzon; (rz.) tułów; (rz.) waliza; (rz.) zrąb
+[trunk-line]trunk-line (EN) : (rz.) magistrala
+[trunks]trunks (EN) : (rz.) szorty
+[truss]truss (EN) : (cz.) pakować; (cz.) wiązać; (cz.) związywać; (rz.) kratownica; (rz.) pęk; (rz.) tłumok; (rz.) wiązar; (rz.) wiązka
+[trust]trust (EN) : (cz.) powierzyć; (cz.) ufać; (cz.) wierzyć; (rz.) nadzieja; (rz.) powiernik; (rz.) trust; (rz.) ufność; (rz.) wiara; (rz.) zarząd; (rz.) zaufanie; (rz.) zwolennik
+[trustee]trustee (EN) : (rz.) dysponent; (rz.) kurator; (rz.) mandatariusz; (rz.) opiekun; (rz.) powiernictwo; (rz.) powiernik
+[trusteeship]trusteeship (EN) : (rz.) powiernictwo
+[trustful]trustful (EN) : (p.) ufny
+[trustfully]trustfully (EN) : (p-sł.) ufnie
+[trustfulness]trustfulness (EN) : (rz.) ufność
+[trustingly]trustingly (EN) : (p-sł.) ufnie
+[trustworthiness]trustworthiness (EN) : (rz.) pewność; (rz.) solidność; (rz.) wiarogodność
+[trustworthy]trustworthy (EN) : (p.) odpowiedzialny
+[trusty]trusty (EN) : (p.) pewny; (p.) wierny
+[truth]truth (EN) : (rz.) prawda; (rz.) rzetelność; (rz.) szczerość; (rz.) wierność
+[truthful]truthful (EN) : (p.) prawdomówny; (p.) prawdziwy
+[truthfulness]truthfulness (EN) : (rz.) prawdomówność; (rz.) prawdziwość
+[try]try (EN) : (cz.) doświadczać; (cz.) postarać; (cz.) próbować; (cz.) przymierzyć; (cz.) sądzić; (cz.) skosztować; (cz.) spróbować; (cz.) starać; (cz.) wypróbować; (cz.) wypróbowywać; (cz.) zasmakować; (rz.) próba
+[trying]trying (EN) : (p.) męczący; (p.) przykry
+[trysail]trysail (EN) : (rz.) skośnik
+[tryst]tryst (EN) : (rz.) schadzka
+[tsar]tsar (EN) : (rz.) car; (rz.) strzęp
+[tsarist]tsarist (EN) : (p.) carski
+[tsunami]tsunami (EN) : (rz.) tsunami
+[tuatara]tuatara (EN) : (p.) tatarczany
+[tub]tub (EN) : (rz.) balia; (rz.) faska; (rz.) kadź; (rz.) pudełko; (rz.) wanienka; (rz.) wanna
+[tub-thumping]tub-thumping (EN) : (rz.) krzykactwo
+[tubby]tubby (EN) : (p.) baryłkowaty; (p.) cichy; (p.) niski
+[tube]tube (EN) : (rz.) dętka; (rz.) kineskop; (rz.) metro; (rz.) probówka; (rz.) rura; (rz.) rurka; (rz.) szlauch; (rz.) tuba; (rz.) tubka; (rz.) tubus
+[tubeless]tubeless (EN) : (p.) bezdętkowy
+[tuber]tuber (EN) : (rz.) bulwa; (rz.) guz; (rz.) wytłaczarka
+[tubercle]tubercle (EN) : (rz.) bulwa; (rz.) guzek
+[tubercular]tubercular (EN) : (p.) gruzełkowaty; (p.) gruzełkowy; (p.) gruźliczy; (p.) tuberkuliczny
+[tuberculin]tuberculin (EN) : (rz.) tuberkulina
+[tuberculosis]tuberculosis (EN) : (rz.) gruźlica; (rz.) tuberkuloza
+[tuberose]tuberose (EN) : (rz.) tuberoza
+[tuberous]tuberous (EN) : (p.) bulwiasty
+[tubing]tubing (EN) : (rz.) rura; (rz.) rurkowanie; (rz.) rury; (rz.) tubing; (rz.) wytłaczanie
+[tubular]tubular (EN) : (p.) cylindryczny; (p.) rurkowaty; (p.) rurkowy; (p.) rurowy; (p.) tubowy
+[tubule]tubule (EN) : (rz.) kanalik
+[tuck]tuck (EN) : (cz.) chować; (cz.) otulać; (cz.) podwijać; (cz.) schować; (cz.) składać; (cz.) wtykać; (cz.) zajadać; (rz.) fałda; (rz.) łakocie; (rz.) zakładka; (rz.) zbiór
+[tucker]tucker (EN) : (cz.) zmęczyć
+[tuff]tuff (EN) : (rz.) tuf
+[tuft]tuft (EN) : (rz.) kępka; (rz.) kiść; (rz.) kita; (rz.) kłak; (rz.) pęk
+[tug]tug (EN) : (cz.) holować; (cz.) pociągać; (cz.) pociągnąć; (cz.) podskubać; (cz.) szarpać; (cz.) windować; (cz.) wysilać; (rz.) bandzior; (rz.) holownik; (rz.) pociągnięcie; (rz.) szarpanina; (rz.) szarpnięcie; (rz.) wysiłek
+[tugboat]tugboat (EN) : (rz.) holownik
+[tuition]tuition (EN) : (rz.) czesne; (rz.) nauczanie; (rz.) nauka; (rz.) szkolenie
+[tulip]tulip (EN) : (rz.) tulipan
+[tulle]tulle (EN) : (rz.) tiul
+[tumble]tumble (EN) : (cz.) odrdzewiać; (cz.) potoczyć; (cz.) przewracać; (cz.) przewrócić; (cz.) rozbabrać; (cz.) rozgrzebać; (cz.) rozkopać; (cz.) upaść; (cz.) walić; (rz.) upadek
+[tumbler]tumbler (EN) : (rz.) aprobata; (rz.) klown; (rz.) kubek; (rz.) kuglarz; (rz.) szklanka
+[tumbling]tumbling (EN) : (rz.) bębnowanie; (rz.) ekwilibrystyka
+[tumbrel]tumbrel (EN) : (rz.) jaszczyk; (rz.) wózek
+[tumefaction]tumefaction (EN) : (rz.) obrzęk; (rz.) obrzmienie; (rz.) wydęcie
+[tumid]tumid (EN) : (p.) nabrzmiały; (p.) obrzękowy
+[tummy]tummy (EN) : (rz.) brzuch
+[tumour]tumour (EN) : (rz.) guz; (rz.) narośl; (rz.) nowotwór; (rz.) opuchlizna
+[tumult]tumult (EN) : (rz.) hałas; (rz.) niepokój; (rz.) tumult; (rz.) wrzawa; (rz.) wzburzenie; (rz.) zgiełk
+[tumultuous]tumultuous (EN) : (p.) burzliwy; (p.) zgiełkliwy
+[tumulus]tumulus (EN) : (rz.) kurhan
+[tuna]tuna (EN) : (rz.) tuńczyk
+[tundra]tundra (EN) : (rz.) tundra
+[tune]tune (EN) : (cz.) dostrajać; (cz.) dostroić; (cz.) nastrajać; (cz.) nastroić; (cz.) stroić; (rz.) dostrojenie; (rz.) harmonia; (rz.) melodia; (rz.) nastrój; (rz.) nuta; (rz.) pieśń; (rz.) strój; (rz.) ton
+[tuneful]tuneful (EN) : (p.) melodyjny
+[tuner]tuner (EN) : (rz.) dostrajacz; (rz.) stroiciel; (rz.) strojnik
+[tungsten]tungsten (EN) : (rz.) wolfram
+[tunic]tunic (EN) : (rz.) bluza; (rz.) mundur; (rz.) tunika
+[tuning]tuning (EN) : (rz.) dostrajanie; (rz.) nastrojenie; (rz.) strojenie
+[tuning-fork]tuning-fork (EN) : (rz.) kamerton
+[tunnel]tunnel (EN) : (rz.) lejek; (rz.) podkop; (rz.) przewód; (rz.) rura; (rz.) sztolnia; (rz.) tunel
+[turban]turban (EN) : (rz.) turban
+[turbid]turbid (EN) : (p.) burzliwy; (p.) mętny
+[turbidity]turbidity (EN) : (rz.) mętność
+[turbine]turbine (EN) : (rz.) turbina
+[turbo-generator]turbo-generator (EN) : (rz.) turbogenerator
+[turbocharger]turbocharger (EN) : (rz.) turbodoładowanie; (rz.) turbosprężarka
+[turbojet]turbojet (EN) : (p.) turboodrzutowy; (rz.) samolot
+[turboprop]turboprop (EN) : (p.) turbośmigłowy; (rz.) turbośmigłowiec
+[turbot]turbot (EN) : (rz.) skarp
+[turbulence]turbulence (EN) : (rz.) burzliwość; (rz.) gwałtowność; (rz.) niepokój; (rz.) turbulencja; (rz.) wrzaskliwość
+[turbulent]turbulent (EN) : (p.) buntowniczy; (p.) burzliwy; (p.) gwałtowny; (p.) niesforny; (p.) niespokojny; (p.) turbulentny; (p.) zgiełkliwy
+[tureen]tureen (EN) : (rz.) waza
+[turf]turf (EN) : (rz.) darń; (rz.) darnina; (rz.) darniowanie; (rz.) murawa; (rz.) torf
+[turgid]turgid (EN) : (p.) nabrzmiały; (p.) nadęty
+[turgidity]turgidity (EN) : (rz.) jędrność
+[turkey]turkey (EN) : (rz.) indyk
+[turkey-cock]turkey-cock (EN) : (rz.) indor
+[turmeric]turmeric (EN) : (rz.) kurkuma
+[turmoil]turmoil (EN) : (rz.) hałas; (rz.) kotłowanina; (rz.) niepokój; (rz.) podniecenie; (rz.) rwetes; (rz.) wrzawa; (rz.) zamieszanie
+[turn]turn (EN) : (cz.) kręcić; (cz.) kwaśnieć; (cz.) nadarzyć; (cz.) nicować; (cz.) obracać; (cz.) obrócić; (cz.) odwracać; (cz.) podkręcać; (cz.) przekręcać; (cz.) przekręcić; (cz.) przemieniać; (cz.) przewracać; (cz.) skręcać; (cz.) skręcić; (cz.) stawać; (cz.) tłumaczyć; (cz.) zjawiać; (cz.) zmieniać; (cz.) zwracać; (rz.) kolej; (rz.) kolejka; (rz.) kolejność; (rz.) następstwo; (rz.) obrót; (rz.) skręt; (rz.) tura; (rz.) zakręt; (rz.) zawrót; (rz.) zmiana; (rz.) zwrot
+[turn-coat]turn-coat (EN) : (rz.) renegat; (rz.) zdrajca
+[turn-out]turn-out (EN) : (rz.) zgromadzenie
+[turn-screw]turn-screw (EN) : (rz.) śrubokręt; (rz.) wkrętak
+[turn-table]turn-table (EN) : (rz.) obrotnica
+[turnabout]turnabout (EN) : (rz.) karuzela
+[turnaround]turnaround (EN) : (rz.) obrót; (rz.) przewijanie
+[turnbuckle]turnbuckle (EN) : (rz.) ściągacz
+[turncoat]turncoat (EN) : (rz.) renegat; (rz.) zdrajca
+[turner]turner (EN) : (rz.) tokarz
+[turnery]turnery (EN) : (rz.) tokarnia; (rz.) tokarstwo
+[turnip]turnip (EN) : (rz.) brukiew; (rz.) burak; (rz.) cebula; (rz.) rzepa
+[turnkey]turnkey (EN) : (rz.) dozorca; (rz.) klucznik
+[turnoff]turnoff (EN) : (rz.) odgałęzienie
+[turnout]turnout (EN) : (rz.) ekwipunek; (rz.) frekwencja; (rz.) lokaut; (rz.) mijanka; (rz.) rozjazd; (rz.) sprzęt; (rz.) wydajność; (rz.) wygląd; (rz.) wymarsz; (rz.) zgromadzenie
+[turnover]turnover (EN) : (rz.) fluktuacja; (rz.) kapotaż; (rz.) obrót; (rz.) przewracanie
+[turnpike]turnpike (EN) : (rz.) rogatka
+[turnstile]turnstile (EN) : (rz.) kołowrót; (rz.) kołowrotek; (rz.) turnikiet
+[turntable]turntable (EN) : (rz.) obrotnica
+[turpentine]turpentine (EN) : (rz.) terpentyna
+[turpitude]turpitude (EN) : (rz.) nikczemność; (rz.) podłość
+[turquoise]turquoise (EN) : (rz.) turkus
+[turret]turret (EN) : (rz.) wieżyczka
+[turtle]turtle (EN) : (rz.) żółw
+[turtle-dove]turtle-dove (EN) : (rz.) gruchawka; (rz.) turkawka
+[turtledove]turtledove (EN) : (rz.) gruchawka; (rz.) turkawka
+[turtledoves]turtledoves (EN) : (rz.) synogarlica
+[tusk]tusk (EN) : (rz.) kieł
+[tussle]tussle (EN) : (cz.) bić; (cz.) szamotać; (rz.) bitka; (rz.) bójka
+[tutelage]tutelage (EN) : (rz.) kuratela; (rz.) opieka
+[tutelary]tutelary (EN) : (p.) opiekuńczy
+[tutor]tutor (EN) : (rz.) adiunkt; (rz.) guwerner; (rz.) korepetytor; (rz.) nauczyciel; (rz.) opiekun; (rz.) wychowawca
+[tutorial]tutorial (EN) : (p.) guwernerski; (p.) wychowawczy
+[tuxedo]tuxedo (EN) : (rz.) smoking
+[twaddle]twaddle (EN) : (cz.) bajać; (cz.) gadać; (cz.) paplać; (rz.) gadanie; (rz.) gadanina; (rz.) paplanina
+[twain]twain (EN) : (rz.) dwójka
+[twang]twang (EN) : (cz.) brzdąkać; (cz.) brzęczeć; (rz.) brzdęk; (rz.) brzęk; (rz.) nazalizacja
+[twat]twat (EN) : (rz.) cipa
+[tweak]tweak (EN) : (cz.) podkręcać; (cz.) szczypać; (cz.) wykręcać; (rz.) uszczypnięcie
+[tweed]tweed (EN) : (rz.) tweed
+[tweet]tweet (EN) : (rz.) świergot
+[tweezers]tweezers (EN) : (rz.) pęseta; (rz.) pinceta; (rz.) szczypczyki
+[twelfth]twelfth (EN) : (p.) dwunasty
+[twelvemonth]twelvemonth (EN) : (rz.) rok
+[twentieth]twentieth (EN) : (p.) dwudziesty
+[twenty]twenty (EN) : (p.) dwudziesty
+[twerp]twerp (EN) : (rz.) dureń; (rz.) głupek; (rz.) idiota
+[twice]twice (EN) : (p-sł.) dwukrotnie
+[twiddle]twiddle (EN) : (cz.) kręcić; (cz.) przebierać
+[twig]twig (EN) : (cz.) pokapować; (cz.) skapować; (cz.) zauważyć; (cz.) zrozumieć; (rz.) gałąź; (rz.) gałązka; (rz.) rózga; (rz.) witka
+[twiggy]twiggy (EN) : (rz.) chudzielec
+[twilight]twilight (EN) : (rz.) brzask; (rz.) półmrok; (rz.) schyłek; (rz.) zmierzch; (rz.) zmrok
+[twill]twill (EN) : (rz.) diagonal; (rz.) tkanina
+[twin]twin (EN) : (rz.) bliźniak
+[twin-barrel]twin-barrel (EN) : (p.) dwulufowy
+[twine]twine (EN) : (cz.) oplatać; (cz.) owijać; (cz.) splatać; (cz.) wić; (rz.) dratwa; (rz.) splot; (rz.) sznur; (rz.) szpagat
+[twinge]twinge (EN) : (rz.) ból; (rz.) rwanie; (rz.) szczypanie
+[twinkle]twinkle (EN) : (cz.) błyszczeć; (cz.) migotać; (cz.) mrugać; (cz.) skrzyć; (rz.) błysk; (rz.) iskrzenie; (rz.) mgnienie; (rz.) migotanie
+[twinkling]twinkling (EN) : (rz.) chwila; (rz.) iskrzenie; (rz.) migotanie
+[twins]twins (EN) : (rz.) bliźniaki
+[twirl]twirl (EN) : (cz.) kręcić; (cz.) wiercić; (cz.) wirować; (rz.) obrót; (rz.) rogal; (rz.) wirowanie
+[twirler]twirler (EN) : (rz.) zerownik
+[twist]twist (EN) : (cz.) kręcić; (cz.) owijać; (cz.) pleść; (cz.) przekręcać; (cz.) przekręcić; (cz.) skręcać; (cz.) skręcić; (cz.) wikłać; (cz.) wykręcać; (cz.) wykrzywiać; (cz.) wykrzywić; (rz.) obrót; (rz.) przędza; (rz.) skręcenie; (rz.) skręt; (rz.) skrzywienie; (rz.) splot; (rz.) twist; (rz.) zakręt; (rz.) zwój; (rz.) zwrot
+[twister]twister (EN) : (rz.) kłamca; (rz.) skręcarka; (rz.) wir
+[twit]twit (EN) : (cz.) wyśmiewać; (rz.) bałwan; (rz.) cymbał; (rz.) dureń; (rz.) głupek
+[twitch]twitch (EN) : (cz.) drgać; (cz.) kurczyć; (cz.) rwać; (cz.) szarpać; (cz.) wykrzywiać; (cz.) wykrzywić; (cz.) zadrgać; (rz.) drganie; (rz.) drgawka; (rz.) skurcz; (rz.) szarpnięcie
+[twitter]twitter (EN) : (cz.) bełkotać; (cz.) ćwierkać; (cz.) nucić; (cz.) świergotać; (cz.) zaświergotać; (rz.) ćwierkanie; (rz.) świergot; (rz.) świergotanie
+[two]two (EN) : (rz.) dwója; (rz.) dwojenie; (rz.) dwójka
+[two-colour]two-colour (EN) : (p.) dwubarwny
+[two-dimensional]two-dimensional (EN) : (p.) dwuwymiarowy; (p.) płaski
+[two-edged]two-edged (EN) : (p.) obosieczny
+[two-faced]two-faced (EN) : (p.) nieszczery; (p.) obłudny
+[two-handed]two-handed (EN) : (p.) oburęczny
+[two-horse]two-horse (EN) : (p.) parokonny
+[two-hundredth]two-hundredth (EN) : (p.) dwóchsetny
+[two-piece]two-piece (EN) : (rz.) garsonka
+[two-seater]two-seater (EN) : (rz.) pojazd
+[two-sided]two-sided (EN) : (p.) dwustronny; (p.) obustronny
+[two-tier]two-tier (EN) : (p.) dwuwarstwowy
+[two-tongued]two-tongued (EN) : (p.) fałszywy; (p.) obłudny
+[twofaced]twofaced (EN) : (p.) nieszczery; (p.) obłudny
+[twofold]twofold (EN) : (p.) dwojaki; (p.) dwukrotny; (p.) podwójny; (p-sł.) dwójnasób; (p-sł.) dwukrotnie; (p-sł.) podwójnie
+[twosome]twosome (EN) : (rz.) para
+[txt]txt (EN) : (rz.) tekst
+[tycoon]tycoon (EN) : (rz.) magnat; (rz.) potentat
+[tyke]tyke (EN) : (rz.) cham; (rz.) kundel; (rz.) urwis
+[tympanic]tympanic (EN) : (p.) bębenkowy; (p.) membranowy
+[tympanum]tympanum (EN) : (rz.) tympanon
+[type]type (EN) : (cz.) wpisać; (cz.) wpisywać; (rz.) czcionka; (rz.) druk; (rz.) krój; (rz.) rodzaj; (rz.) typ; (rz.) wpisywanie; (rz.) wzór
+[typecast]typecast (EN) : (cz.) obsadzić; (cz.) typować
+[typescript]typescript (EN) : (rz.) maszynopis
+[typeset]typeset (EN) : (cz.) złożyć
+[typesetter]typesetter (EN) : (rz.) składacz; (rz.) zecer
+[typesetting]typesetting (EN) : (rz.) skład; (rz.) składanie
+[typewriting]typewriting (EN) : (rz.) maszynopis
+[typhoid]typhoid (EN) : (p.) durowy; (p.) tyfoidalny; (p.) tyfusowy; (rz.) dur; (rz.) tyfus
+[typhoon]typhoon (EN) : (rz.) tajfun
+[typhus]typhus (EN) : (rz.) tyfus
+[typical]typical (EN) : (p.) charakterystyczny; (p.) typowy
+[typicality]typicality (EN) : (rz.) typowość
+[typically]typically (EN) : (p-sł.) typowo
+[typify]typify (EN) : (cz.) charakteryzować; (cz.) personifikować; (cz.) uosabiać; (cz.) wzorować
+[typist]typist (EN) : (rz.) maszynista; (rz.) maszynistka
+[typo]typo (EN) : (rz.) drukarz; (rz.) literówka
+[typographer]typographer (EN) : (rz.) drukarz; (rz.) typograf
+[typographic]typographic (EN) : (p.) typograficzny
+[typographical]typographical (EN) : (p.) topograficzny; (p.) typograficzny; (p.) zecerski
+[typographically]typographically (EN) : (p-sł.) typograficznie
+[typography]typography (EN) : (rz.) typografia
+[typology]typology (EN) : (rz.) typologia
+[tyrannical]tyrannical (EN) : (p.) tyrański
+[tyrannically]tyrannically (EN) : (p-sł.) despotycznie
+[tyrannize]tyrannize (EN) : (cz.) tyranizować
+[tyrannosaur]tyrannosaur (EN) : (rz.) tyranozaur
+[tyrannosaurus]tyrannosaurus (EN) : (rz.) tyranozaur
+[tyrannous]tyrannous (EN) : (p.) okrutny
+[tyranny]tyranny (EN) : (rz.) despotyzm; (rz.) tyrania
+[tyrant]tyrant (EN) : (rz.) despota; (rz.) dzierżymorda; (rz.) satrapa; (rz.) tyran
+[tyre]tyre (EN) : (rz.) obręcz; (rz.) opona
+[tyro]tyro (EN) : (rz.) nowicjusz
+[tyrosine]tyrosine (EN) : (rz.) tyrozyna

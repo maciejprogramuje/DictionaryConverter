@@ -1,0 +1,799 @@
+[wc]WC (EN) : (rz.) sanitariat; (rz.) szalet
+[wednesday]Wednesday (EN) : (rz.) środa
+[william]William (EN) : (rz.) Wilhelm
+[wacky]wacky (EN) : (p.) głupi; (p.) nieobliczalny
+[wad]wad (EN) : (cz.) nabijać; (cz.) wypychać; (cz.) zatykać; (rz.) pakuły; (rz.) pęk; (rz.) podkład; (rz.) przybitka; (rz.) wata; (rz.) watolina
+[wade]wade (EN) : (cz.) brnąć; (cz.) brodzić; (cz.) pluskać; (cz.) przebrnąć; (cz.) przedzierać
+[wader]wader (EN) : (rz.) brodziec
+[wafer]wafer (EN) : (rz.) andrut; (rz.) gofr; (rz.) opłatek; (rz.) płytka; (rz.) wafel
+[waffle]waffle (EN) : (cz.) ględzić; (cz.) trajkotać; (rz.) gofr; (rz.) trajkotanie; (rz.) wafel
+[waffles]waffles (EN) : (rz.) gofrowanie
+[waft]waft (EN) : (cz.) bujać; (cz.) nieść; (cz.) sunąć; (cz.) unosić; (rz.) podmuch; (rz.) powiew; (rz.) tchnienie
+[wag]wag (EN) : (cz.) kiwać; (cz.) machać; (cz.) merdać; (cz.) poruszać; (cz.) ruszać; (cz.) wagarować; (cz.) wahać; (cz.) wywijać; (cz.) zamachać; (cz.) zamerdać; (rz.) filut; (rz.) kawalarz; (rz.) kiwnięcie; (rz.) kpiarz; (rz.) machnięcie; (rz.) poruszenie; (rz.) wagarowicz; (rz.) żartowniś
+[wage]wage (EN) : (rz.) pensja; (rz.) zarobek; (rz.) żołd
+[wage-earner]wage-earner (EN) : (rz.) pracownik
+[wage-earning]wage-earning (EN) : (p.) najemny
+[wager]wager (EN) : (cz.) zakładać; (rz.) stawka; (rz.) zakład
+[waggish]waggish (EN) : (p.) kpiarski; (p.) żartobliwy
+[wagon]wagon (EN) : (rz.) fura; (rz.) furgon; (rz.) wagon; (rz.) wóz
+[wagtail]wagtail (EN) : (rz.) pliszka
+[waif]waif (EN) : (rz.) płacz; (rz.) podrzutek; (rz.) skarga
+[wail]wail (EN) : (cz.) płakać; (cz.) skarżyć; (cz.) zawodzić; (rz.) płacz; (rz.) płakanie; (rz.) skarga; (rz.) zawodzenie
+[wainscot]wainscot (EN) : (rz.) boazeria; (rz.) wykładzina
+[wainscoting]wainscoting (EN) : (rz.) wykładzina
+[waist]waist (EN) : (rz.) kibić; (rz.) pas; (rz.) przewężenie; (rz.) śródokręcie; (rz.) stanik; (rz.) talia
+[waistcoat]waistcoat (EN) : (rz.) bezrękawnik; (rz.) kamizelka
+[waistline]waistline (EN) : (rz.) talia
+[wait]wait (EN) : (cz.) aktywować; (cz.) czekać; (cz.) doczekać; (cz.) oczekiwać; (cz.) odczekać; (cz.) poczekać; (cz.) podać; (cz.) usługiwać; (cz.) wyczekiwać; (cz.) zaczekać; (rz.) czat
+[waiter]waiter (EN) : (rz.) kelner; (rz.) taca
+[waiting-room]waiting-room (EN) : (rz.) poczekalnia
+[waitress]waitress (EN) : (rz.) kelnerka
+[waive]waive (EN) : (cz.) odstąpić; (cz.) odstępować; (cz.) rezygnować; (cz.) uchylić; (cz.) zaniechać; (cz.) zrezygnować; (cz.) zrzekać
+[waiver]waiver (EN) : (rz.) odstąpienie; (rz.) rezygnacja; (rz.) uchylenie; (rz.) zrzeczenie
+[wake]wake (EN) : (cz.) budzić; (cz.) obudzić; (cz.) zmartwychwstać
+[wakeful]wakeful (EN) : (p.) czujny; (p.) czuwający
+[wakefulness]wakefulness (EN) : (rz.) bezsenność; (rz.) czujność
+[waken]waken (EN) : (cz.) budzić; (cz.) ożywiać; (cz.) ożywić
+[wale]wale (EN) : (cz.) robić; (rz.) oczep; (rz.) pręga
+[waling]waling (EN) : (rz.) opinka
+[walk]walk (EN) : (cz.) chodzić; (cz.) iść; (cz.) kroczyć; (cz.) pospacerować; (cz.) przechodzić; (cz.) spacerować; (rz.) chód; (rz.) deptak; (rz.) droga; (rz.) przechadzka; (rz.) ścieżka; (rz.) spacer; (rz.) stęp; (rz.) stępa; (rz.) wycieczka; (rz.) zawód
+[walk-out]walk-out (EN) : (rz.) strajk
+[walk-over]walk-over (EN) : (rz.) walkower
+[walkabout]walkabout (EN) : (rz.) wędrówka
+[walker]walker (EN) : (rz.) chodzik; (rz.) piechur; (rz.) spacerowicz; (rz.) wycieczkowicz
+[walkers]walkers (EN) : (rz.) chodziarz
+[walkie-talkie]walkie-talkie (EN) : (rz.) radiotelefon
+[walking]walking (EN) : (rz.) chód; (rz.) chodzenie; (rz.) spacerowanie
+[walking-stick]walking-stick (EN) : (rz.) laska
+[walkman]walkman (EN) : (rz.) walkman
+[walkout]walkout (EN) : (rz.) strajk
+[walkover]walkover (EN) : (rz.) walkower
+[walkthrough]walkthrough (EN) : (rz.) przegląd
+[walkway]walkway (EN) : (rz.) chodnik; (rz.) przejście
+[wall]wall (EN) : (cz.) omurować; (rz.) mur; (rz.) ściana; (rz.) ścianka
+[wall-paper]wall-paper (EN) : (p.) tapetowy; (rz.) tapeta
+[wallet]wallet (EN) : (rz.) portfel; (rz.) pugilares; (rz.) teczka; (rz.) torba
+[wallflower]wallflower (EN) : (rz.) strachajło
+[walling]walling (EN) : (rz.) mur; (rz.) omurowanie
+[wallop]wallop (EN) : (cz.) bić; (cz.) prać; (cz.) walnąć
+[walloping]walloping (EN) : (cz.) dołożyć
+[wallow]wallow (EN) : (cz.) nurzać; (cz.) tarzać; (cz.) wytarzać; (rz.) tarzanie
+[wallpaper]wallpaper (EN) : (cz.) tapetować; (rz.) tapeta
+[wallpapering]wallpapering (EN) : (rz.) tapetowanie
+[walnut]walnut (EN) : (rz.) orzech
+[walrus]walrus (EN) : (rz.) mors
+[waltz]waltz (EN) : (rz.) walc
+[wan]wan (EN) : (p.) blady; (p.) mizerny; (p.) nikły; (p.) słaby
+[wand]wand (EN) : (rz.) batuta; (rz.) buława; (rz.) różdżka
+[wander]wander (EN) : (cz.) błądzić; (cz.) błąkać; (cz.) przemierzać; (cz.) tułać; (cz.) wałęsać; (cz.) wędrować; (cz.) włóczyć
+[wanderer]wanderer (EN) : (rz.) tułacz; (rz.) wędrowiec; (rz.) wędrownik
+[wanderings]wanderings (EN) : (rz.) wędrówka
+[wane]wane (EN) : (cz.) słabnąć; (cz.) zanikać; (cz.) zmniejszać; (rz.) oblina; (rz.) ubycie; (rz.) zanik; (rz.) zmniejszanie
+[wangle]wangle (EN) : (cz.) kantować; (cz.) wyłudzać; (cz.) wyłudzić; (cz.) wyszachrować
+[wanly]wanly (EN) : (p-sł.) blado
+[want]want (EN) : (cz.) brakować; (cz.) chcieć; (cz.) potrzebować; (cz.) pragnąć; (cz.) zechcieć; (rz.) bieda; (rz.) brak; (rz.) niedosyt; (rz.) potrzeba; (rz.) wanna
+[wanton]wanton (EN) : (p.) grymaśny; (p.) nieokiełznany; (p.) niepotrzebny; (p.) psotny; (p.) swawolny; (p.) wesoły; (p.) złośliwy
+[wantonly]wantonly (EN) : (p-sł.) figlarnie; (p-sł.) rozwiąźle; (p-sł.) swawolnie
+[war]war (EN) : (cz.) wojować; (rz.) wojna
+[war-head]war-head (EN) : (rz.) głowica
+[warble]warble (EN) : (cz.) szczebiotać
+[ward]ward (EN) : (cz.) bronić; (p.) podopieczny; (rz.) cela; (rz.) dzielnica; (rz.) nadzór; (rz.) oddział; (rz.) opieka; (rz.) pupilek; (rz.) sala; (rz.) straż; (rz.) wychowanek
+[warden]warden (EN) : (rz.) dyrektor; (rz.) kurator; (rz.) naczelnik; (rz.) opiekun; (rz.) strażnik; (rz.) stróż
+[warder]warder (EN) : (rz.) dozorca; (rz.) opiekun; (rz.) stróż; (rz.) wartownik
+[wardrobe]wardrobe (EN) : (rz.) garderoba; (rz.) kostiumernia; (rz.) szafa
+[ware]ware (EN) : (rz.) towar; (rz.) wyrób
+[warehouse]warehouse (EN) : (cz.) magazynować; (rz.) hurtownia; (rz.) magazyn; (rz.) magazynier; (rz.) skład; (rz.) składnica
+[warehouseman]warehouseman (EN) : (rz.) magazynier
+[warehousing]warehousing (EN) : (rz.) magazynowanie; (rz.) składowanie
+[warfare]warfare (EN) : (rz.) walka; (rz.) wojna; (rz.) wojowanie
+[warhead]warhead (EN) : (rz.) głowica
+[warily]warily (EN) : (p-sł.) ostrożnie; (p-sł.) przezornie
+[wariness]wariness (EN) : (rz.) nieufność; (rz.) ostrożność
+[warlike]warlike (EN) : (p.) bitny; (p.) bojowy; (p.) wojenny; (p.) wojowniczy
+[warlock]warlock (EN) : (rz.) czarownik
+[warm]warm (EN) : (cz.) grzać; (cz.) nagrzewać; (cz.) ocieplić; (cz.) ogrzać; (cz.) podgrzać; (cz.) rozgrzewać; (p.) ciepły; (p.) gorliwy; (p.) serdeczny; (p.) żywy
+[warm-blooded]warm-blooded (EN) : (p.) ciepłokrwisty; (p.) stałocieplny
+[warm-hearted]warm-hearted (EN) : (p.) dobry; (p.) serdeczny; (p.) życzliwy
+[warm-up]warm-up (EN) : (rz.) rozgrzewka
+[warmed]warmed (EN) : (cz.) rozgrzewać
+[warmer]warmer (EN) : (rz.) ciepło
+[warmly]warmly (EN) : (p-sł.) grubo; (p-sł.) serdecznie
+[warmth]warmth (EN) : (rz.) ciepło; (rz.) gorliwość; (rz.) serdeczność
+[warn]warn (EN) : (cz.) alarmować; (cz.) ostrzegać; (cz.) przezwyciężyć; (cz.) upominać; (cz.) uprzedzać
+[warned]warned (EN) : (cz.) uprzedzić
+[warning]warning (EN) : (rz.) ostrze; (rz.) ostrzeganie; (rz.) ostrzeżenie; (rz.) przestroga; (rz.) upomnienie; (rz.) uprzedzenie
+[warningly]warningly (EN) : (p-sł.) ostrzegawczo
+[warnings]warnings (EN) : (rz.) przestrzeganie
+[warp]warp (EN) : (cz.) marszczyć; (cz.) paczyć; (cz.) przekręcać; (cz.) wyginać; (cz.) wykręcać; (cz.) wykrzywiać; (cz.) wypaczać; (rz.) hol; (rz.) infrastruktura; (rz.) nawój; (rz.) osnowa; (rz.) wypaczenie; (rz.) zwichrowanie
+[warrant]warrant (EN) : (cz.) gwarantować; (cz.) potwierdzać; (cz.) potwierdzić; (cz.) ręczyć; (cz.) upewniać; (cz.) upewnić; (cz.) uprawniać; (cz.) uprawnić; (cz.) usprawiedliwiać; (cz.) usprawiedliwić; (cz.) zagwarantować; (rz.) gwarant; (rz.) nakaz; (rz.) pełnomocnictwo; (rz.) poręka; (rz.) rękojmia; (rz.) upoważnienie; (rz.) uprawnienie; (rz.) zabezpieczenie
+[warrantable]warrantable (EN) : (p.) łowny
+[warrantee]warrantee (EN) : (rz.) poręczenie
+[warrantor]warrantor (EN) : (rz.) żyrant
+[warranty]warranty (EN) : (rz.) gwarancja; (rz.) rękojmia
+[warren]warren (EN) : (rz.) królikarnia; (rz.) mrowisko
+[warrior]warrior (EN) : (rz.) wojak; (rz.) wojownik
+[warship]warship (EN) : (rz.) okręt
+[wart]wart (EN) : (rz.) brodawka; (rz.) kurzajka; (rz.) narośl
+[warty]warty (EN) : (p.) brodawkowaty; (p.) brodawkowy
+[wary]wary (EN) : (p.) czujny; (p.) nieufny; (p.) oględny; (p.) ostrożny; (p.) przezorny; (p.) rozważny
+[wash]wash (EN) : (cz.) doprać; (cz.) myć; (cz.) nawodnić; (cz.) oblewać; (cz.) obmyć; (cz.) obmywać; (cz.) płukać; (cz.) pluskać; (cz.) podmyć; (cz.) prać; (cz.) przemyć; (cz.) przemywać; (cz.) przeprać; (cz.) umyć; (cz.) umywać; (cz.) uprać; (cz.) wymyć; (cz.) wyprać; (cz.) zmyć; (cz.) zmywać; (rz.) myjnia; (rz.) obmycie; (rz.) płyn; (rz.) pozłotka; (rz.) przemywanie; (rz.) zmywanie
+[wash-basin]wash-basin (EN) : (rz.) miednica; (rz.) umywalka
+[wash-house]wash-house (EN) : (rz.) pralnia
+[wash-out]wash-out (EN) : (rz.) bankrut; (rz.) klapa; (rz.) pech; (rz.) zmycie
+[wash-room]wash-room (EN) : (rz.) umywalnia
+[wash-stand]wash-stand (EN) : (rz.) umywalka; (rz.) umywalnia
+[wash-tub]wash-tub (EN) : (rz.) balia
+[washable]washable (EN) : (p.) zmywalny
+[washbasin]washbasin (EN) : (rz.) miednica; (rz.) umywalka; (rz.) umywalnia
+[washbowl]washbowl (EN) : (rz.) umywalka
+[washcloth]washcloth (EN) : (rz.) ścierka
+[washer]washer (EN) : (rz.) myjka; (rz.) płuczka; (rz.) podkładka; (rz.) pomywacz; (rz.) pralka; (rz.) uszczelka; (rz.) zmywarka
+[washerwoman]washerwoman (EN) : (rz.) praczka
+[washhouse]washhouse (EN) : (rz.) pralnia
+[washing]washing (EN) : (rz.) mycie; (rz.) obmycie; (rz.) obmywanie; (rz.) opierunek; (rz.) płukanie; (rz.) pomycie; (rz.) pranie; (rz.) umycie; (rz.) wymywanie
+[washing-glove]washing-glove (EN) : (rz.) myjka
+[washings]washings (EN) : (p.) popłuczyny
+[washout]washout (EN) : (rz.) ablacja; (rz.) bankrut; (rz.) kasowanie; (rz.) klapa; (rz.) pech; (rz.) podmycie; (rz.) rozmycie; (rz.) wymycie; (rz.) wypłukanie; (rz.) zmycie
+[washroom]washroom (EN) : (rz.) toaleta; (rz.) umywalnia
+[washstand]washstand (EN) : (rz.) umywalka; (rz.) umywalnia
+[washtub]washtub (EN) : (rz.) balia; (rz.) wanna
+[wasp]wasp (EN) : (rz.) osa
+[waspish]waspish (EN) : (p.) zjadliwy
+[wassail]wassail (EN) : (rz.) biesiada; (rz.) toast; (rz.) uczta
+[wastage]wastage (EN) : (rz.) brakoróbstwo; (rz.) marnotrawstwo; (rz.) marnowanie; (rz.) strata; (rz.) ubytek
+[waste]waste (EN) : (cz.) marnować; (cz.) pustoszyć; (cz.) roztrwonić; (cz.) trwonić; (cz.) wycieńczać; (cz.) zmarnotrawić; (cz.) zmarnować; (p.) bezwartościowy; (p.) niepotrzebny; (p.) odpadowy; (p.) pusty; (rz.) bezludzie; (rz.) marnotrawienie; (rz.) marnotrawstwo; (rz.) marnowanie; (rz.) odpad; (rz.) odpadek; (rz.) zwietrzelina
+[waste-paper]waste-paper (EN) : (rz.) makulatura
+[wasteful]wasteful (EN) : (p.) marnotrawny; (p.) nieekonomiczny; (p.) rozrzutny
+[wastefully]wastefully (EN) : (p-sł.) marnotrawnie; (p-sł.) rozrzutnie
+[wastefulness]wastefulness (EN) : (rz.) marnotrawstwo; (rz.) rozrzutność
+[wastepaper]wastepaper (EN) : (rz.) makulatura
+[waster]waster (EN) : (rz.) marnotrawca
+[wasting]wasting (EN) : (rz.) marnowanie; (rz.) wychudzenie; (rz.) wyniszczenie
+[wastrel]wastrel (EN) : (rz.) próżniak
+[watch]watch (EN) : (cz.) baczyć; (cz.) czuwać; (cz.) inwigilować; (cz.) obserwować; (cz.) oglądać; (cz.) patrzeć; (cz.) patrzyć; (cz.) pilnować; (cz.) popatrzeć; (cz.) przyglądać; (cz.) przypilnować; (cz.) uważać; (cz.) wyczekać; (rz.) czatownik; (rz.) czuwanie; (rz.) obserwacja; (rz.) obserwowanie; (rz.) pilnowanie; (rz.) straż; (rz.) wachta; (rz.) warta; (rz.) zegarek
+[watch-chain]watch-chain (EN) : (rz.) dewizka
+[watch-maker]watch-maker (EN) : (rz.) zegarmistrz
+[watch-tower]watch-tower (EN) : (rz.) stanica; (rz.) strażnica
+[watchdog]watchdog (EN) : (rz.) nadzór; (rz.) sygnalizator
+[watcher]watcher (EN) : (rz.) obserwator; (rz.) stróż
+[watchful]watchful (EN) : (p.) czujny; (p.) uważny
+[watchfully]watchfully (EN) : (p-sł.) czujnie
+[watchfulness]watchfulness (EN) : (rz.) czujność
+[watching]watching (EN) : (cz.) stróżować
+[watchmaker]watchmaker (EN) : (rz.) zegarmistrz
+[watchmaker's]watchmaker's (EN) : (rz.) zegarmistrz
+[watchman]watchman (EN) : (rz.) stróż
+[watchtower]watchtower (EN) : (rz.) stanica; (rz.) strażnica
+[watchword]watchword (EN) : (rz.) dewiza; (rz.) hasło
+[water]water (EN) : (cz.) napoić; (cz.) podlewać; (cz.) poić; (cz.) polewać; (rz.) nadtlenek; (rz.) napój; (rz.) ociekanie; (rz.) podlewanie; (rz.) tlenienie; (rz.) woda; (rz.) wóda; (rz.) wodociąg
+[water-absorbing]water-absorbing (EN) : (p.) wodochłonny
+[water-bearing]water-bearing (EN) : (p.) wodonośny
+[water-bottle]water-bottle (EN) : (rz.) karafka; (rz.) manierka
+[water-carrier]water-carrier (EN) : (rz.) nosiwoda; (rz.) woziwoda
+[water-cart]water-cart (EN) : (rz.) beczkowóz
+[water-closet]water-closet (EN) : (rz.) toaleta; (rz.) ubikacja
+[water-colour]water-colour (EN) : (rz.) akwarela
+[water-gate]water-gate (EN) : (rz.) śluza
+[water-gauge]water-gauge (EN) : (rz.) wodowskaz
+[water-hen]water-hen (EN) : (rz.) kokoszka
+[water-melon]water-melon (EN) : (rz.) kawon
+[water-meter]water-meter (EN) : (rz.) wodomierz
+[water-nymph]water-nymph (EN) : (rz.) rusałka
+[water-permeable]water-permeable (EN) : (p.) przemakalny; (p.) przemakamy; (p.) wodoprzepuszczalny
+[water-repellent]water-repellent (EN) : (p.) hydrofobowy; (p.) nieprzemakalny; (p.) wodoodporny
+[water-resistant]water-resistant (EN) : (p.) wodoodporny
+[water-soluble]water-soluble (EN) : (p.) rozpuszczalny
+[water-tight]water-tight (EN) : (p.) wodoszczelny
+[watercolour]watercolour (EN) : (rz.) akwarela
+[watercolours]watercolours (EN) : (rz.) akwarela
+[watercourse]watercourse (EN) : (rz.) strumień
+[watered]watered (EN) : (cz.) podlewać
+[waterfall]waterfall (EN) : (rz.) kaskada; (rz.) wodospad
+[waterfront]waterfront (EN) : (rz.) nadbrzeże
+[waterhole]waterhole (EN) : (rz.) wodopój
+[wateriness]wateriness (EN) : (rz.) wodnistość
+[watering-can]watering-can (EN) : (rz.) konewka; (rz.) polewaczka
+[watering-place]watering-place (EN) : (rz.) kąpielisko; (rz.) wodopój
+[waterless]waterless (EN) : (p.) bezwodny
+[waterline]waterline (EN) : (rz.) waterlinia; (rz.) wodnica
+[waterlogged]waterlogged (EN) : (p.) namoknięty; (p.) podmokły
+[waterman]waterman (EN) : (rz.) przewoźnik
+[watermark]watermark (EN) : (rz.) filigran; (rz.) wodowskaz
+[watermelon]watermelon (EN) : (rz.) arbuz; (rz.) kawon
+[waterpower]waterpower (EN) : (rz.) hydroelektrownia
+[watershed]watershed (EN) : (rz.) wododział; (rz.) zlewisko
+[waterside]waterside (EN) : (rz.) brzeg; (rz.) nadbrzeże
+[waterspout]waterspout (EN) : (rz.) wodotrysk
+[watertight]watertight (EN) : (p.) nieprzemakalny; (p.) wodoszczelny
+[waterworks]waterworks (EN) : (rz.) wodociąg; (rz.) wodociągi
+[watery]watery (EN) : (p.) wilgotny; (p.) wodnisty
+[watt]watt (EN) : (rz.) wat; (rz.) wata
+[watt-hour]watt-hour (EN) : (rz.) watogodzina
+[watt-meter]watt-meter (EN) : (rz.) watomierz
+[watt-second]watt-second (EN) : (rz.) watosekunda
+[wattle]wattle (EN) : (rz.) gałązka; (rz.) plecionka; (rz.) pręt; (rz.) wiklina
+[wattmeter]wattmeter (EN) : (rz.) watomierz
+[watts]watts (EN) : (rz.) wat
+[wave]wave (EN) : (cz.) falować; (cz.) kiwać; (cz.) machać; (cz.) ondulować; (cz.) pomachać; (cz.) powiewać; (cz.) wionąć; (cz.) wymachiwać; (cz.) zafalować; (rz.) fala; (rz.) falistość; (rz.) falowanie; (rz.) machanie; (rz.) machnięcie; (rz.) ondulacja; (rz.) rzut; (rz.) skinienie
+[wave-cut]wave-cut (EN) : (p.) abrazyjny
+[wave-maker]wave-maker (EN) : (rz.) falownica
+[waveband]waveband (EN) : (rz.) zakres
+[waveform]waveform (EN) : (rz.) kształt
+[waveguide]waveguide (EN) : (rz.) falowód
+[waver]waver (EN) : (cz.) chwiać; (cz.) wahać
+[waviness]waviness (EN) : (rz.) falistość
+[wavy]wavy (EN) : (p.) falisty; (p.) wężykowaty; (p.) wężykowy
+[wax]wax (EN) : (cz.) nawoskować; (cz.) pastować; (cz.) powiększać; (cz.) rosnąć; (cz.) stawać; (cz.) woskować; (cz.) wywoskować; (rz.) lak; (rz.) wosk
+[wax-cloth]wax-cloth (EN) : (rz.) cerata
+[wax-wing]wax-wing (EN) : (rz.) jemiołuszka
+[waxen]waxen (EN) : (p.) woskowy
+[waxwing]waxwing (EN) : (rz.) jemiołuszka
+[waxy]waxy (EN) : (p.) woskowaty; (p.) woskowy
+[way]way (EN) : (rz.) droga; (rz.) kierunek; (rz.) przejście; (rz.) sposób; (rz.) trasa; (rz.) właściwość; (rz.) zwyczaj
+[waybill]waybill (EN) : (rz.) prowadnica
+[wayfarer]wayfarer (EN) : (rz.) wędrowiec
+[wayfaring]wayfaring (EN) : (p.) wędrowny
+[waylaid]waylaid (EN) : (cz.) czaić
+[waylay]waylay (EN) : (cz.) czaić
+[wayward]wayward (EN) : (p.) dziwaczny; (p.) kapryśny; (p.) krnąbrny; (p.) samowolny; (p.) wyrodny
+[weak]weak (EN) : (p.) asteniczny; (p.) bezsilny; (p.) kiepski; (p.) niepełny; (p.) niesilny; (p.) niskoprocentowy; (p.) słaby; (p.) szmirowaty; (p.) wątły
+[weaken]weaken (EN) : (cz.) nadwątlić; (cz.) osłabiać; (cz.) osłabić; (cz.) osłabnąć; (cz.) rozwodnić; (cz.) słabnąć
+[weakling]weakling (EN) : (rz.) cherlak; (rz.) chuchro; (rz.) mizerak; (rz.) słabeusz; (rz.) wymoczek; (rz.) zdechlak
+[weakly]weakly (EN) : (p.) słabowity
+[weakness]weakness (EN) : (rz.) cherlactwo; (rz.) mazgajstwo; (rz.) osłabienie; (rz.) słabość; (rz.) słabostka
+[weal]weal (EN) : (rz.) dobro; (rz.) obrzęk; (rz.) pomyślność; (rz.) pręga
+[wealth]wealth (EN) : (rz.) bogactwo; (rz.) dobrobyt; (rz.) dostatek; (rz.) obfitość; (rz.) zamożność; (rz.) zasobność
+[wealthy]wealthy (EN) : (p.) bogaty; (p.) majętny; (p.) zamożny; (p.) zasobny
+[wean]wean (EN) : (cz.) oddalać; (cz.) odsuwać; (cz.) odzwyczajać
+[weanling]weanling (EN) : (rz.) dziecko
+[weapon]weapon (EN) : (rz.) broń; (rz.) oręż; (rz.) środek
+[weaponry]weaponry (EN) : (rz.) broń
+[wear]wear (EN) : (cz.) donosić; (cz.) nieść; (cz.) nosić; (cz.) rozchodzić; (cz.) ubierać; (cz.) ubrać; (cz.) wydeptać; (cz.) zakładać; (cz.) zużywać; (rz.) noszenie; (rz.) odzież; (rz.) zużycie
+[weariness]weariness (EN) : (rz.) nuda; (rz.) zmęczenie; (rz.) znużenie
+[wearisome]wearisome (EN) : (p.) męczący; (p.) nudny
+[wearisomely]wearisomely (EN) : (p-sł.) nużąco
+[weary]weary (EN) : (cz.) męczyć; (cz.) nudzić; (cz.) nużyć; (cz.) zatęsknić; (cz.) znużyć
+[weasel]weasel (EN) : (rz.) łasica
+[weather]weather (EN) : (p.) pogodowy; (rz.) aura; (rz.) pogoda; (rz.) przeciwstawianie; (rz.) przetrwanie; (rz.) stawianie; (rz.) wietrzenie; (rz.) wytrzymanie
+[weather-chart]weather-chart (EN) : (rz.) mapa
+[weathercock]weathercock (EN) : (rz.) kurek; (rz.) wiatrowskaz
+[weatherman]weatherman (EN) : (rz.) meteorolog; (rz.) synoptyk
+[weatherproof]weatherproof (EN) : (p.) wodoodporny
+[weave]weave (EN) : (cz.) kluczyć; (cz.) knuć; (cz.) pleść; (cz.) tkać; (cz.) wyplatać; (cz.) wypłatać
+[weaver]weaver (EN) : (rz.) tkacz; (rz.) wikłacz
+[web]web (EN) : (rz.) denko; (rz.) internauta; (rz.) pajęczyna; (rz.) płetwa; (rz.) siatka; (rz.) sieć; (rz.) splot; (rz.) tkanina
+[web-footed]web-footed (EN) : (p.) płetwonogi
+[webbed]webbed (EN) : (p.) płetwonogi
+[webbing]webbing (EN) : (rz.) taśma
+[wed]wed (EN) : (cz.) pobierać; (cz.) poślubiać; (cz.) poślubić; (cz.) zaślubić
+[wedding]wedding (EN) : (rz.) ślub; (rz.) wesele; (rz.) zaślubiny
+[wedding-ring]wedding-ring (EN) : (rz.) obrączka
+[wedge]wedge (EN) : (cz.) klinować; (cz.) wcisnąć; (cz.) zaklinować
+[wedge-shaped]wedge-shaped (EN) : (p.) klinowaty; (p.) klinowy
+[wedlock]wedlock (EN) : (rz.) małżeństwo; (rz.) związek
+[wee]wee (EN) : (p.) drobny; (rz.) chwila; (rz.) chwilka; (rz.) odrobina
+[weed]weed (EN) : (cz.) odchwaścić; (cz.) pielić; (cz.) pleć
+[weed-grown]weed-grown (EN) : (p.) zachwaszczony
+[weedy]weedy (EN) : (p.) cherlawy
+[week]week (EN) : (rz.) tydzień
+[week's]week's (EN) : (p.) tygodniowy
+[weekend]weekend (EN) : (rz.) weekend
+[weekly]weekly (EN) : (rz.) tygodnik
+[weeks]weeks (EN) : (rz.) tydzień
+[weep]weep (EN) : (cz.) opłakiwać; (cz.) płakać; (cz.) szlochać; (cz.) zapłakać
+[weepy]weepy (EN) : (p.) płaczliwy
+[weevil]weevil (EN) : (rz.) ryjkowiec; (rz.) słonik
+[weft]weft (EN) : (rz.) wątek
+[weigh]weigh (EN) : (cz.) ciążyć; (cz.) odważyć; (cz.) rozważać; (cz.) ważyć; (cz.) zważyć
+[weight]weight (EN) : (cz.) obciążyć; (cz.) ważyć; (rz.) brzemię; (rz.) ciężar; (rz.) ciężarek; (rz.) gramatura; (rz.) odważnik; (rz.) szala; (rz.) sztanga; (rz.) waga
+[weight-lifter]weight-lifter (EN) : (rz.) ciężarowiec
+[weightiness]weightiness (EN) : (rz.) ciężar; (rz.) doniosłość; (rz.) znaczenie
+[weightless]weightless (EN) : (p.) nieważki
+[weightlessness]weightlessness (EN) : (rz.) nieważkość
+[weightlifter]weightlifter (EN) : (rz.) ciężarowiec
+[weighty]weighty (EN) : (p.) ciężarny; (p.) ciężki; (p.) przekonywający; (p.) ważny
+[weir]weir (EN) : (rz.) grobla; (rz.) jaz; (rz.) przelew; (rz.) tama
+[weird]weird (EN) : (p.) cudaczny; (p.) dziwaczny; (p.) dziwny; (p.) fatalny; (p.) niesamowity; (p.) przedziwny; (p.) upiorny
+[weirdly]weirdly (EN) : (p-sł.) dziwacznie; (p-sł.) dziwnie
+[weirdness]weirdness (EN) : (rz.) niesamowitość
+[weirdo]weirdo (EN) : (rz.) cudak
+[welcome]welcome (EN) : (cz.) powitać; (cz.) przywitać; (cz.) witać; (p.) powitalny; (rz.) powitanie; (rz.) przywitanie
+[welcoming]welcoming (EN) : (p.) powitalny
+[weld]weld (EN) : (cz.) łączyć; (cz.) skuć; (cz.) spajać; (cz.) spawać; (cz.) zespawać; (cz.) zgrzewać
+[welded]welded (EN) : (cz.) spawać
+[welder]welder (EN) : (rz.) spawacz; (rz.) spawarka; (rz.) zgrzewacz; (rz.) zgrzewarka
+[welfare]welfare (EN) : (rz.) dobro; (rz.) dobrobyt; (rz.) pomyślność; (rz.) powodzenie
+[welkin]welkin (EN) : (rz.) firmament; (rz.) niebo
+[well]well (EN) : (cz.) bić; (cz.) tryskać; (rz.) dostatecznie; (rz.) studnia; (rz.) studzienka; (rz.) wir; (rz.) źródło
+[well-balanced]well-balanced (EN) : (p.) proporcjonalny
+[well-being]well-being (EN) : (rz.) dobrobyt; (rz.) pomyślność; (rz.) powodzenie
+[well-designed]well-designed (EN) : (p.) ustawny
+[well-doing]well-doing (EN) : (rz.) prawość
+[well-judged]well-judged (EN) : (p.) rozsądny; (p.) roztropny
+[well-known]well-known (EN) : (p.) słynny
+[well-marked]well-marked (EN) : (p.) wyraźny
+[well-nigh]well-nigh (EN) : (p-sł.) nieomal; (p-sł.) prawie
+[well-off]well-off (EN) : (p.) bogaty; (p.) zamożny
+[well-spring]well-spring (EN) : (rz.) źródło
+[wellbeing]wellbeing (EN) : (rz.) dobrobyt; (rz.) pomyślność; (rz.) powodzenie
+[welled]welled (EN) : (p.) dobry
+[wellhead]wellhead (EN) : (rz.) źródło
+[wellspring]wellspring (EN) : (rz.) źródło
+[welsh]welsh (EN) : (rz.) walijski
+[welt]welt (EN) : (rz.) lamówka; (rz.) obrzeże; (rz.) ściągacz
+[welter]welter (EN) : (cz.) kotłować; (cz.) pławić; (cz.) przewalać; (cz.) tarzać
+[wench]wench (EN) : (rz.) dziewka; (rz.) dziewoja; (rz.) dziewucha
+[wend]wend (EN) : (cz.) skierować
+[went]went (EN) : (cz.) pójść
+[wept]wept (EN) : (cz.) płakać
+[were]were (EN) : (cz.) być; (p.) były
+[werewolf]werewolf (EN) : (rz.) wilkołak
+[west]west (EN) : (p.) zachodni; (rz.) zachód
+[west-northwest]west-northwest (EN) : (p.) zachodnio-północny
+[westerly]westerly (EN) : (p.) zachodni
+[western]western (EN) : (p.) zachodni; (rz.) western
+[westward]westward (EN) : (p.) zachodni
+[wet]wet (EN) : (cz.) moczyć; (cz.) namoczyć; (cz.) polać; (cz.) pomoczyć; (cz.) rozmoczyć; (cz.) zamoczyć; (cz.) zmoczyć; (cz.) zwilżać; (cz.) zwilżyć; (p.) deszczowy; (p.) dżdżysty; (p.) mokry; (p.) wilgotny
+[wet-nurse]wet-nurse (EN) : (rz.) mamka
+[wetly]wetly (EN) : (p-sł.) mokro
+[wetness]wetness (EN) : (rz.) wilgotność
+[wetted]wetted (EN) : (p.) deszczowy
+[wettest]wettest (EN) : (p.) deszczowy; (p.) mokry
+[whack]whack (EN) : (cz.) bić; (cz.) chlastać; (cz.) grzmocić; (cz.) kuć; (cz.) palnąć; (cz.) rąbać; (cz.) walić; (cz.) walnąć
+[whale]whale (EN) : (cz.) chłostać; (cz.) zbić; (rz.) wieloryb
+[whalebone]whalebone (EN) : (rz.) fiszbin
+[whaler]whaler (EN) : (rz.) wielorybnik
+[whaling]whaling (EN) : (p.) wielorybniczy; (rz.) wielorybnictwo
+[wharf]wharf (EN) : (rz.) brzegowe; (rz.) estakada; (rz.) nabrzeże; (rz.) nadbrzeże; (rz.) przystań; (rz.) stocznia
+[what]what (EN) : (p.) jaki
+[wheal]wheal (EN) : (rz.) bąbel; (rz.) krostka
+[wheat]wheat (EN) : (rz.) pszenica
+[wheaten]wheaten (EN) : (p.) pszeniczny; (p.) pszenny
+[wheedle]wheedle (EN) : (cz.) namawiać; (cz.) namówić; (cz.) przypochlebiać; (cz.) wyjednać
+[wheel]wheel (EN) : (cz.) kręcić; (cz.) przejeżdżać; (cz.) toczyć; (cz.) wozić; (rz.) kierownica; (rz.) koło; (rz.) ster
+[wheelbarrow]wheelbarrow (EN) : (rz.) taczka; (rz.) taczki
+[wheelchair]wheelchair (EN) : (rz.) wózek
+[wheeler]wheeler (EN) : (rz.) kołodziej
+[wheelhouse]wheelhouse (EN) : (rz.) sterówka; (rz.) sterownia
+[wheelhouses]wheelhouses (EN) : (rz.) sterówka
+[wheelman]wheelman (EN) : (rz.) sternik
+[wheelwright]wheelwright (EN) : (rz.) kołodziej
+[wheeze]wheeze (EN) : (cz.) charczeć; (cz.) dyszeć; (cz.) parskać; (cz.) rzęzić; (cz.) sapać
+[wheezy]wheezy (EN) : (p.) genialny
+[whelk]whelk (EN) : (rz.) obrzęk; (rz.) pryszcz
+[whelm]whelm (EN) : (cz.) ogarniać; (cz.) pochłaniać
+[whelp]whelp (EN) : (cz.) oszczenić
+[when]when (EN) : (p-sł.) kiedy; (p-sł.) odkąd; (p-sł.) wtedy
+[whence]whence (EN) : (p-sł.) skąd; (p-sł.) stamtąd
+[whenever]whenever (EN) : (p-sł.) kiedykolwiek; (p-sł.) zawsze
+[where]where (EN) : (p-sł.) dokąd; (p-sł.) gdzie; (p-sł.) gdziekolwiek; (p-sł.) gdzież; (p-sł.) kiedy; (p-sł.) skąd; (p-sł.) stosownie; (p-sł.) tam
+[whereas]whereas (EN) : (spójnik) natomiast
+[wherefore]wherefore (EN) : (p-sł.) dlaczego; (p-sł.) dlatego
+[wherever]wherever (EN) : (p-sł.) dokądkolwiek; (p-sł.) gdzie; (p-sł.) gdziekolwiek
+[whet]whet (EN) : (cz.) ostrzyć; (cz.) podniecać; (cz.) toczyć
+[whether]whether (EN) : (spójnik) czy
+[whetstone]whetstone (EN) : (rz.) osełka
+[whey]whey (EN) : (rz.) serwatka
+[which]which (EN) : (p.) jaki
+[whichever]whichever (EN) : (p.) którykolwiek
+[whiff]whiff (EN) : (rz.) dmuchnięcie; (rz.) podmuch; (rz.) powiew
+[whiffletree]whiffletree (EN) : (rz.) orczyk
+[while]while (EN) : (p-sł.) ile; (p-sł.) wprawdzie
+[whilom]whilom (EN) : (p.) były
+[whim]whim (EN) : (rz.) chętka; (rz.) fanaberia; (rz.) grymas; (rz.) kaprys; (rz.) wybryk; (rz.) zachcianka
+[whimper]whimper (EN) : (cz.) biadolić; (cz.) grymasić; (cz.) jęczeć; (cz.) kwilić; (cz.) łkać; (cz.) skomleć
+[whims]whims (EN) : (rz.) fanaberia
+[whimsical]whimsical (EN) : (p.) cudaczny; (p.) dziwaczny; (p.) kapryśny; (p.) żartobliwy
+[whimsicality]whimsicality (EN) : (rz.) cudaczność; (rz.) kapryśność
+[whimsically]whimsically (EN) : (p-sł.) kapryśnie
+[whimsy]whimsy (EN) : (rz.) kaprys; (rz.) urojenie
+[whine]whine (EN) : (cz.) biadolić; (cz.) gwizdać; (cz.) jęczeć; (cz.) kwilić; (cz.) lamentować; (cz.) skamlać; (cz.) skomleć; (cz.) skowyczeć
+[whiner]whiner (EN) : (rz.) malkontent
+[whinny]whinny (EN) : (cz.) parskać; (cz.) rżeć
+[whip]whip (EN) : (cz.) batożyć; (cz.) bić; (cz.) biczować; (cz.) chłostać; (cz.) czmychać; (cz.) smagać; (cz.) ubijać; (cz.) wychłostać; (cz.) wydrzeć; (cz.) zacinać; (rz.) bat; (rz.) batog; (rz.) bicie; (rz.) bicz; (rz.) bykowiec; (rz.) nahaj; (rz.) pejcz; (rz.) poganiacz; (rz.) woźnica
+[whip-round]whip-round (EN) : (rz.) zbiórka; (rz.) zrzutka
+[whiplash]whiplash (EN) : (rz.) bicz
+[whippersnapper]whippersnapper (EN) : (rz.) impertynent; (rz.) zarozumialec
+[whippet]whippet (EN) : (rz.) tankietka
+[whippy]whippy (EN) : (p.) elastyczny
+[whir]whir (EN) : (cz.) brzęczeć
+[whirl]whirl (EN) : (cz.) kręcić; (cz.) wiercić; (cz.) wirować; (cz.) zawirować
+[whirling]whirling (EN) : (cz.) zaburzyć
+[whirlpool]whirlpool (EN) : (rz.) topiel; (rz.) wir
+[whirlwind]whirlwind (EN) : (rz.) wicher; (rz.) wichura
+[whirr]whirr (EN) : (cz.) brzęczeć
+[whish]whish (EN) : (cz.) szeleścić; (rz.) szelest
+[whisk]whisk (EN) : (cz.) machać; (cz.) ubijać; (cz.) zmiatać
+[whisker]whisker (EN) : (rz.) wąs; (rz.) włos
+[whiskers]whiskers (EN) : (rz.) bokobrody; (rz.) wąsy
+[whisky]whisky (EN) : (rz.) gorzałka; (rz.) whisky; (rz.) wódka
+[whisper]whisper (EN) : (cz.) szeleścić; (cz.) szeptać; (cz.) wyszeptać; (cz.) zaszeptać; (rz.) plotka; (rz.) poszept; (rz.) szepnięcie; (rz.) szept; (rz.) szeptanie
+[whist]whist (EN) : (rz.) wist
+[whistle]whistle (EN) : (cz.) gwizdać; (cz.) pogwizdywać; (cz.) świstać; (cz.) świszczeć
+[whistleblower]whistleblower (EN) : (rz.) donosiciel
+[whistler]whistler (EN) : (rz.) świstak
+[whit]whit (EN) : (rz.) odrobina
+[white]white (EN) : (p.) biały; (p.) blady; (rz.) białko; (rz.) białkówka; (rz.) biel; (rz.) pokrzewka
+[white-collar]white-collar (EN) : (p.) biurowy; (p.) umysłowy
+[white-livered]white-livered (EN) : (p.) bojaźliwy; (p.) tchórzliwy
+[white-throat]white-throat (EN) : (rz.) gajówka
+[whitely]whitely (EN) : (p-sł.) biało
+[whiten]whiten (EN) : (cz.) bieleć; (cz.) bielić; (cz.) wybielać; (cz.) wybieleć; (cz.) wybielić; (cz.) zbieleć
+[whiteness]whiteness (EN) : (rz.) białość; (rz.) biel
+[whiteout]whiteout (EN) : (cz.) sadzać; (cz.) sadzić
+[whitesmith]whitesmith (EN) : (rz.) blacharz; (rz.) pobielacz
+[whitethroat]whitethroat (EN) : (rz.) gajówka
+[whitewash]whitewash (EN) : (cz.) bielić; (cz.) obielić; (cz.) pobielić; (cz.) wapnować; (cz.) wybielać
+[whitey]whitey (EN) : (rz.) blondyn
+[whither]whither (EN) : (p-sł.) dokąd
+[whithersoever]whithersoever (EN) : (p-sł.) dokądkolwiek
+[whiting]whiting (EN) : (rz.) bielenie; (rz.) bielidło
+[whitish]whitish (EN) : (p.) białawy
+[whitleather]whitleather (EN) : (rz.) ircha
+[whitlow]whitlow (EN) : (rz.) zanokcica
+[whittle]whittle (EN) : (cz.) ostrzyć; (cz.) strugać
+[whiz]whiz (EN) : (cz.) brzęczeć; (cz.) świszczeć; (cz.) zaświstać
+[whodunit]whodunit (EN) : (rz.) kryminał; (rz.) opowiadanie
+[whole]whole (EN) : (p.) całkowity; (p.) cały; (rz.) całokształt; (rz.) całość
+[whole-hearted]whole-hearted (EN) : (p.) serdeczny
+[whole-meal]whole-meal (EN) : (p.) razowy
+[wholehearted]wholehearted (EN) : (p.) całkowity; (p.) energiczny; (p.) serdeczny
+[wholeness]wholeness (EN) : (rz.) całkowitość; (rz.) zupełność
+[wholesale]wholesale (EN) : (p.) hurtowy; (rz.) hurt; (rz.) hurtownia
+[wholesaler]wholesaler (EN) : (rz.) hurtownia; (rz.) hurtownik
+[wholesalers]wholesalers (EN) : (rz.) hurtownia
+[wholesome]wholesome (EN) : (p.) zdrowotny; (p.) zdrowy
+[wholesomeness]wholesomeness (EN) : (rz.) pożywność
+[wholly]wholly (EN) : (p-sł.) całkowicie; (p-sł.) interaktywnie; (p-sł.) zupełnie
+[whoop]whoop (EN) : (cz.) kaszlać; (cz.) krzyczeć; (cz.) wykrzykiwać
+[whooper]whooper (EN) : (p.) ogromny
+[whooping-cough]whooping-cough (EN) : (rz.) koklusz
+[whoosh]whoosh (EN) : (rz.) świst
+[whop]whop (EN) : (cz.) ciskać; (cz.) lać; (cz.) prać; (cz.) spaść; (cz.) zakasować
+[whopper]whopper (EN) : (rz.) kolos; (rz.) olbrzym
+[whore]whore (EN) : (rz.) dziewka; (rz.) dziwka; (rz.) jędza; (rz.) ladacznica; (rz.) prostytutka
+[whorl]whorl (EN) : (rz.) baldaszek; (rz.) skręt; (rz.) zwój
+[whortleberry]whortleberry (EN) : (rz.) borowina; (rz.) czernica
+[wick]wick (EN) : (rz.) knot
+[wicked]wicked (EN) : (p.) bezbożny; (p.) bezecny; (p.) haniebny; (p.) niedobry; (p.) niegodziwy; (p.) niepoczciwy; (p.) nikczemny; (p.) podły; (p.) występny; (p.) zły
+[wickedness]wickedness (EN) : (rz.) niegodziwość; (rz.) perfidia; (rz.) zdrożność
+[wicker]wicker (EN) : (p.) koszykowy; (p.) plecionkowy; (p.) wikliniarski; (p.) wiklinowy; (rz.) wiklinawicker
+[wicker-work]wicker-work (EN) : (rz.) koszykarstwo
+[wickerwork]wickerwork (EN) : (rz.) wiklina
+[wicket]wicket (EN) : (rz.) bramka; (rz.) furta; (rz.) furtka
+[wide]wide (EN) : (p.) obszerny; (p.) ogólnokrajowy; (p.) rozległy; (p.) szeroki
+[wide-angle]wide-angle (EN) : (p.) szerokokątny
+[wide-eyed]wide-eyed (EN) : (p.) łatwowierny; (p.) naiwny
+[widely]widely (EN) : (p-sł.) szeroko; (p-sł.) znacznie
+[widen]widen (EN) : (cz.) poszerzać; (cz.) poszerzyć; (cz.) rozszerzać; (cz.) rozszerzyć
+[wider]wider (EN) : (p.) szeroki
+[widescreen]widescreen (EN) : (p.) panoramiczny; (p.) szerokoekranowy
+[widespread]widespread (EN) : (p.) rozległy; (p.) rozpowszechniony
+[widget]widget (EN) : (rz.) wiercipięta
+[widow]widow (EN) : (rz.) wdowa; (rz.) wdówka
+[widow-bird]widow-bird (EN) : (rz.) tkacz
+[widower]widower (EN) : (rz.) wdowiec
+[widowhood]widowhood (EN) : (rz.) wdowieństwo
+[width]width (EN) : (rz.) rozpiętość; (rz.) rozstęp; (rz.) szerokość
+[wield]wield (EN) : (cz.) dzierżyć; (cz.) władać
+[wiener]wiener (EN) : (rz.) kiełbaska; (rz.) parówka
+[wife]wife (EN) : (rz.) kobiecina; (rz.) kumoszka; (rz.) żona
+[wifely]wifely (EN) : (p.) małżeński
+[wig]wig (EN) : (rz.) peruka
+[wigging]wigging (EN) : (rz.) bura
+[wiggly]wiggly (EN) : (p.) falisty
+[wigwag]wigwag (EN) : (cz.) sygnalizować
+[wigwam]wigwam (EN) : (rz.) szałas
+[wild]wild (EN) : (p.) burzliwy; (p.) dziki; (p.) fantastyczny; (p.) gwałtowny; (p.) pustynny; (p.) straszny; (rz.) dzik; (rz.) dzikie; (rz.) poziomka; (rz.) pustkowie; (rz.) puszcza; (rz.) wyobraźnia
+[wild-cat]wild-cat (EN) : (p.) fantastyczny
+[wild-goose]wild-goose (EN) : (p.) ryzykowny
+[wildcard]wildcard (EN) : (p.) wieloznaczny; (rz.) wieloznacznik
+[wildcat]wildcat (EN) : (p.) dziki
+[wilderness]wilderness (EN) : (rz.) bezludzie; (rz.) dzicz; (rz.) odludzie; (rz.) pustkowie; (rz.) pustynia; (rz.) puszcza
+[wildfire]wildfire (EN) : (cz.) rozprzestrzeniać
+[wilding]wilding (EN) : (rz.) dziczka
+[wildlife]wildlife (EN) : (rz.) przyroda
+[wildly]wildly (EN) : (p-sł.) burzliwie; (p-sł.) dziko; (p-sł.) ogromnie; (p-sł.) szalenie
+[wildness]wildness (EN) : (rz.) dzikość; (rz.) płochliwość; (rz.) rozwydrzenie; (rz.) szał; (rz.) zdziczenie
+[wile]wile (EN) : (rz.) fortel; (rz.) podstęp; (rz.) szelmostwo
+[wilful]wilful (EN) : (p.) celowy; (p.) rozmyślny; (p.) samowolny; (p.) świadomy; (p.) umyślny; (p.) uparty
+[wilfulness]wilfulness (EN) : (rz.) samowolność
+[wiliness]wiliness (EN) : (rz.) chytrość; (rz.) podstępność
+[will]will (EN) : (cz.) być; (cz.) chcieć; (rz.) chęć; (rz.) przyzwyczajenie; (rz.) wola; (rz.) życzenie
+[willingly]willingly (EN) : (p-sł.) chętnie; (p-sł.) ochoczo; (p-sł.) skwapliwie
+[willingness]willingness (EN) : (rz.) chęć; (rz.) gotowość; (rz.) ochota; (rz.) zgoda
+[willow]willow (EN) : (rz.) kleparka; (rz.) wierzba
+[willowy]willowy (EN) : (p.) giętki; (p.) smukły; (p.) wierzbowaty; (p.) wierzbowy
+[wilt]wilt (EN) : (cz.) oklapnąć; (cz.) więdnąć; (cz.) zmarnieć; (cz.) zmizernieć
+[wily]wily (EN) : (p.) chytry; (p.) podstępny
+[wimble]wimble (EN) : (rz.) świder
+[wimp]wimp (EN) : (rz.) mięczak; (rz.) nudziarz; (rz.) sztywniak
+[wimple]wimple (EN) : (rz.) zakręt
+[win]win (EN) : (cz.) dosięgać; (cz.) hołubić; (cz.) ograć; (cz.) urabiać; (cz.) wygrać; (cz.) wygrywać; (cz.) wywalczyć; (cz.) zarabiać; (cz.) zaskarbić; (cz.) zdobywać; (cz.) zjednywać; (cz.) zwyciężać; (cz.) zwyciężyć; (rz.) wygrana; (rz.) wygranie; (rz.) wygrywanie; (rz.) zwycięstwo
+[wince]wince (EN) : (cz.) cofać; (cz.) drgać; (cz.) upadać
+[wind]wind (EN) : (cz.) nakręcać; (cz.) nakręcić; (cz.) namotać; (cz.) nawijać; (cz.) obwijać; (cz.) oplatać; (cz.) zwietrzyć; (rz.) dech; (rz.) dmuch; (rz.) wiatr; (rz.) wicher
+[wind-gauge]wind-gauge (EN) : (rz.) anemometr; (rz.) wiatromierz
+[wind-stick]wind-stick (EN) : (rz.) śmigło
+[windbag]windbag (EN) : (rz.) gaduła
+[windbreak]windbreak (EN) : (rz.) wiatrochron
+[windbreaker]windbreaker (EN) : (rz.) wiatrochron
+[windcheater]windcheater (EN) : (rz.) wiatrówka
+[winder]winder (EN) : (rz.) nawijacz; (rz.) nawijarka; (rz.) przewijarka; (rz.) zwijarka
+[windfall]windfall (EN) : (rz.) fuks; (rz.) gratka; (rz.) spad
+[windings]windings (EN) : (rz.) meander
+[windlass]windlass (EN) : (rz.) kołowrót; (rz.) korba
+[windless]windless (EN) : (p.) bezwietrzny
+[windmill]windmill (EN) : (rz.) wiatrak
+[window]window (EN) : (rz.) okienko; (rz.) okno; (rz.) szyba; (rz.) windowanie; (rz.) witryna; (rz.) wziernik
+[window-blind]window-blind (EN) : (rz.) roleta; (rz.) żaluzja
+[window-pane]window-pane (EN) : (rz.) szyba
+[windowing]windowing (EN) : (rz.) okienkowanie; (rz.) polegając
+[windowpane]windowpane (EN) : (rz.) szyba
+[windowsill]windowsill (EN) : (rz.) parapet; (rz.) podokiennik
+[windpipe]windpipe (EN) : (rz.) tchawica
+[windrow]windrow (EN) : (rz.) pokos
+[windscreen]windscreen (EN) : (rz.) wiatrochron
+[windshield]windshield (EN) : (rz.) wiatrochron
+[windstorm]windstorm (EN) : (rz.) wicher; (rz.) wichura
+[windsurfing]windsurfing (EN) : (rz.) windsurfing
+[windswept]windswept (EN) : (p.) wietrzny
+[windy]windy (EN) : (p.) gadatliwy; (p.) niepoważny; (p.) wietrzny
+[wine]wine (EN) : (rz.) wina; (rz.) winiarnia; (rz.) winiarstwo; (rz.) wino
+[wine-glass]wine-glass (EN) : (rz.) kieliszek
+[wine-making]wine-making (EN) : (rz.) winiarstwo
+[wine-shop]wine-shop (EN) : (rz.) winiarnia
+[wineglass]wineglass (EN) : (rz.) kieliszek
+[winemaking]winemaking (EN) : (rz.) winiarstwo
+[winery]winery (EN) : (rz.) winiarnia; (rz.) winnica
+[wing]wing (EN) : (rz.) błotnik; (rz.) skrzydełko; (rz.) skrzydło
+[wingless]wingless (EN) : (p.) bezskrzydły
+[wink]wink (EN) : (cz.) migać; (cz.) mrugać; (cz.) skinąć; (cz.) zamigotać
+[winkle]winkle (EN) : (cz.) usuwać; (cz.) wyrzucać
+[winner]winner (EN) : (rz.) laureat; (rz.) zdobywca; (rz.) zdobywczyni; (rz.) zwycięzca; (rz.) zwyciężczyni
+[winningly]winningly (EN) : (p-sł.) zwycięsko
+[winnings]winnings (EN) : (rz.) wygrana
+[winnow]winnow (EN) : (cz.) przebierać; (cz.) przesiewać; (cz.) przewiać; (cz.) wiać
+[winnower]winnower (EN) : (rz.) młynek; (rz.) wialnia
+[wino]wino (EN) : (rz.) oliwa
+[winsome]winsome (EN) : (p.) uroczy
+[winter]winter (EN) : (cz.) przezimować; (cz.) zimować; (rz.) zima; (rz.) zimowanie
+[winterizing]winterizing (EN) : (rz.) wymrażanie
+[wintry]wintry (EN) : (p.) lodowaty; (p.) zimny; (p.) zimowy
+[winy]winy (EN) : (p.) winny
+[wipe]wipe (EN) : (cz.) obcierać; (cz.) obetrzeć; (cz.) ocierać; (cz.) podcierać; (cz.) pościerać; (cz.) ścierać; (cz.) uderzyć; (cz.) wycierać; (cz.) wytrzeć; (cz.) zetrzeć
+[wipe-out]wipe-out (EN) : (rz.) zagłuszanie
+[wiper]wiper (EN) : (rz.) ścierka; (rz.) wycieraczka
+[wipers]wipers (EN) : (rz.) wycieraczki
+[wire]wire (EN) : (cz.) drutować; (cz.) telegrafować; (cz.) zadepeszować; (cz.) zadrutować; (cz.) zatelegrafować; (rz.) depesza; (rz.) drut; (rz.) kabel; (rz.) przewód
+[wire-haired]wire-haired (EN) : (p.) ostrowłosy; (p.) szorstkowłosy
+[wire-rope]wire-rope (EN) : (rz.) kabel
+[wired-in]wired-in (EN) : (p.) układowy
+[wiredrawer]wiredrawer (EN) : (rz.) druciarz
+[wirehaired]wirehaired (EN) : (p.) ostrowłosy; (p.) szorstkowłosy
+[wireless]wireless (EN) : (p.) bezdrutowy; (p.) bezprzewodowy; (p.) radiowy
+[wireman]wireman (EN) : (rz.) elektromonter; (rz.) monter-instalator
+[wiretap]wiretap (EN) : (cz.) podsłuchiwać; (rz.) podsłuch
+[wiretapping]wiretapping (EN) : (rz.) podpięcie; (rz.) podsłuch
+[wiry]wiry (EN) : (p.) druciany; (p.) muskularny; (p.) silny; (p.) żylasty
+[wisdom]wisdom (EN) : (rz.) mądrość; (rz.) sens
+[wise]wise (EN) : (p.) mądry; (p.) roztropny; (p.) rozumny; (rz.) sposób
+[wiseacre]wiseacre (EN) : (rz.) mądrala; (rz.) mędrek
+[wisely]wisely (EN) : (p-sł.) mądrze; (p-sł.) przezornie
+[wish]wish (EN) : (cz.) chcieć; (cz.) pragnąć; (cz.) zachcieć; (cz.) żałować; (cz.) życzyć; (rz.) chęć; (rz.) pragnienie; (rz.) szkoda; (rz.) życzenie
+[wish-wash]wish-wash (EN) : (rz.) lura
+[wisher]wisher (EN) : (rz.) sympatyk
+[wishful]wishful (EN) : (p.) życzeniowy
+[wishy-washy]wishy-washy (EN) : (p.) chwiejny; (p.) niejasny; (p.) wodnisty
+[wisp]wisp (EN) : (rz.) kosmyk; (rz.) miotełka; (rz.) powrósło; (rz.) wiązka; (rz.) wiecheć; (rz.) wstęga
+[wispy]wispy (EN) : (p.) cienki; (p.) drobny; (p.) wątły
+[wistful]wistful (EN) : (p.) poważny; (p.) rzewny; (p.) smutny; (p.) tęskniący; (p.) tęskny; (p.) zadumany
+[wistfulness]wistfulness (EN) : (rz.) zaduma
+[wit]wit (EN) : (rz.) dowcip; (rz.) dowcipniś; (rz.) inteligencja; (rz.) rozum
+[witch]witch (EN) : (rz.) czarownica; (rz.) jędza; (rz.) wiedźma
+[witchcraft]witchcraft (EN) : (rz.) czar; (rz.) czary
+[witchdoctor]witchdoctor (EN) : (rz.) czarownik; (rz.) znachor
+[witchery]witchery (EN) : (rz.) czar
+[with]with (EN) : (p-im.) mimo; (p-im.) przy; (p-im.) u; (p-im.) z; (p-im.) ze
+[withdraw]withdraw (EN) : (cz.) odsuwać; (cz.) odwoływać; (cz.) usuwać; (cz.) wycofać; (cz.) wycofywać
+[withdrawal]withdrawal (EN) : (rz.) cofnięcie; (rz.) odwołanie; (rz.) odwrót; (rz.) podjęcie; (rz.) wycofanie; (rz.) wycofywanie; (rz.) wypłacenie
+[wither]wither (EN) : (cz.) suszyć; (cz.) usychać; (cz.) uwiędnąć; (cz.) więdnąć; (cz.) zamierać; (cz.) zwiędnąć
+[withers]withers (EN) : (rz.) uschnięcie
+[withhold]withhold (EN) : (cz.) odmówić; (cz.) wstrzymać; (cz.) wstrzymywać; (cz.) zatrzymać
+[within]within (EN) : (p-im.) w; (p-sł.) wewnątrz
+[without]without (EN) : (p-sł.) nie; (p-sł.) śmiało
+[withstand]withstand (EN) : (cz.) opierać; (cz.) oponować; (cz.) powstrzymywać; (cz.) przeciwstawiać; (cz.) wytrzymać; (cz.) wytrzymywać
+[withstood]withstood (EN) : (cz.) opierać
+[withy]withy (EN) : (rz.) łoza; (rz.) łozina
+[witlessly]witlessly (EN) : (p-sł.) nierozsądnie
+[witling]witling (EN) : (rz.) dowcipniś
+[witness]witness (EN) : (cz.) świadczyć; (rz.) poświadczenie; (rz.) świadectwo; (rz.) świadek; (rz.) zeznanie
+[wits]wits (EN) : (rz.) zdolności
+[witticism]witticism (EN) : (rz.) dowcip
+[wittily]wittily (EN) : (p-sł.) dowcipnie; (p-sł.) sprytnie
+[witty]witty (EN) : (p.) błyskotliwy; (p.) bystry; (p.) dowcipny
+[wiz]wiz (EN) : (rz.) znawca
+[wizard]wizard (EN) : (rz.) cudotwórca; (rz.) czarnoksiężnik; (rz.) czarodziej; (rz.) guślarz; (rz.) kreator; (rz.) zaklinacz
+[wobble]wobble (EN) : (cz.) chwiać; (cz.) chybotać; (cz.) kiwać; (cz.) trząść
+[woe]woe (EN) : (rz.) biadanie; (rz.) cierpienie; (rz.) nieszczęście; (rz.) żałość
+[woebegone]woebegone (EN) : (p.) boleściwy
+[woeful]woeful (EN) : (p.) smutny
+[woefully]woefully (EN) : (p-sł.) przygnębiająco
+[woks]woks (EN) : (p.) woskowy
+[wolf]wolf (EN) : (rz.) kobieciarz; (rz.) wilk
+[wolf's]wolf's (EN) : (p.) wilczy
+[wolfish]wolfish (EN) : (p.) wilczy
+[wolfram]wolfram (EN) : (rz.) wolfram
+[wolverine]wolverine (EN) : (rz.) rosomak
+[woman]woman (EN) : (rz.) baba; (rz.) białogłowa; (rz.) jejmość; (rz.) kobiecina; (rz.) kobieta; (rz.) niewiasta
+[woman's]woman's (EN) : (p.) babski
+[woman-hater]woman-hater (EN) : (rz.) antyfeminista
+[womanhood]womanhood (EN) : (rz.) dojrzałość; (rz.) kobiecość; (rz.) kobiety
+[womaniser]womaniser (EN) : (rz.) bawidamek
+[womanish]womanish (EN) : (p.) kobiecy; (p.) zniewieściały
+[womanizer]womanizer (EN) : (rz.) babiarz; (rz.) kobieciarz
+[womankind]womankind (EN) : (rz.) kobiety
+[womanliness]womanliness (EN) : (rz.) kobiecość
+[womanly]womanly (EN) : (p.) babski; (p.) kobiecy; (p.) niewieści
+[womb]womb (EN) : (rz.) łono; (rz.) macica; (rz.) żywot
+[women]women (EN) : (rz.) kobieta
+[womenfolk]womenfolk (EN) : (rz.) kobiety
+[wonder]wonder (EN) : (cz.) dziwić; (cz.) zastanawiać; (cz.) zastanowić
+[wonderful]wonderful (EN) : (p.) cudowny; (p.) wspaniały
+[wonderfully]wonderfully (EN) : (p-sł.) cudownie; (p-sł.) niezwykle
+[wonderment]wonderment (EN) : (rz.) zdumienie; (rz.) zdziwienie
+[wondrous]wondrous (EN) : (p.) cudowny; (p.) niezwykły
+[wont]wont (EN) : (rz.) przyzwyczajenie; (rz.) zwyczaj
+[wonted]wonted (EN) : (p.) przyzwyczajony; (p.) zwyczajny; (p.) zwyczajowy
+[woo]woo (EN) : (cz.) pozyskiwać; (cz.) starać; (cz.) uwodzić; (cz.) zalecać
+[wood]wood (EN) : (rz.) drewno; (rz.) drzewo; (rz.) drzeworytnik; (rz.) las; (rz.) lasek; (rz.) opał; (rz.) zagajnik
+[wood-carving]wood-carving (EN) : (rz.) drzeworytnictwo
+[wood-engraving]wood-engraving (EN) : (rz.) drzeworytnictwo
+[wood-shed]wood-shed (EN) : (rz.) drewutnia; (rz.) drwalnia
+[wood-worker]wood-worker (EN) : (rz.) cieśla
+[woodbine]woodbine (EN) : (rz.) wiciokrzew
+[woodcarving]woodcarving (EN) : (rz.) drzeworytnictwo
+[woodchuck]woodchuck (EN) : (rz.) świstak
+[woodcock]woodcock (EN) : (rz.) bekas
+[woodcraftsman]woodcraftsman (EN) : (rz.) traper
+[woodcut]woodcut (EN) : (rz.) drzeworyt
+[woodcutter]woodcutter (EN) : (rz.) drwal; (rz.) drzeworytnik
+[wooded]wooded (EN) : (p.) lesisty
+[wooden]wooden (EN) : (p.) drewniany; (p.) tępy
+[woodenly]woodenly (EN) : (p.) drewniany; (p-sł.) sztywno
+[woodland]woodland (EN) : (rz.) lasy
+[woodlice]woodlice (EN) : (rz.) stonoga
+[woodman]woodman (EN) : (rz.) drwal; (rz.) leśnik
+[woodpecker]woodpecker (EN) : (rz.) dzięcioł
+[woodsman]woodsman (EN) : (rz.) leśnik
+[woodsy]woodsy (EN) : (p.) leśny
+[woodwork]woodwork (EN) : (rz.) część; (rz.) stolarka
+[woodworker]woodworker (EN) : (rz.) cieśla
+[woodworking]woodworking (EN) : (p.) stolarski; (rz.) drewno; (rz.) stolarka; (rz.) stolarstwo
+[woodworm]woodworm (EN) : (rz.) czerw; (rz.) kornik
+[woody]woody (EN) : (p.) drewniany; (p.) drzewiasty; (p.) drzewny; (p.) lesisty; (p.) leśny
+[wooer]wooer (EN) : (rz.) zalotnik
+[woof]woof (EN) : (rz.) wątek
+[wool]wool (EN) : (rz.) dywan; (rz.) wełna
+[wool-gathering]wool-gathering (EN) : (rz.) gapiostwo; (rz.) marzycielstwo; (rz.) rozmarzenie; (rz.) zamyślenie
+[wool-like]wool-like (EN) : (p.) wełnopodobny
+[woollen]woollen (EN) : (p.) wełniany
+[woolliness]woolliness (EN) : (rz.) wełnistość
+[woolly]woolly (EN) : (p.) kędzierzawy; (p.) mętny; (p.) wełnisty
+[word]word (EN) : (cz.) wysławiać; (cz.) wysłowić; (rz.) rozkaz; (rz.) słówko; (rz.) słowo; (rz.) słowotwórstwo; (rz.) twierdzenie; (rz.) wiadomość; (rz.) wyraz
+[wordily]wordily (EN) : (p-sł.) rozwlekle
+[wordiness]wordiness (EN) : (rz.) gadatliwość; (rz.) wielosłowie; (rz.) wodolejstwo
+[wordless]wordless (EN) : (p.) bezsłowny; (p.) cichy; (p.) niemy
+[wordlessly]wordlessly (EN) : (p-sł.) bezsłownie
+[wordy]wordy (EN) : (p.) słowny; (p.) wielosłowny
+[work]work (EN) : (rz.) koszykarstwo; (cz.) działać; (cz.) obrabiać; (cz.) obrobić; (cz.) obsługiwać; (cz.) prać; (cz.) pracować; (cz.) robić; (cz.) współpracować; (rz.) dzieło; (rz.) godzenie; (rz.) praca; (rz.) twórczość; (rz.) utwór; (rz.) zajęcie
+[work-around]work-around (EN) : (rz.) obejście
+[workability]workability (EN) : (rz.) obrabialność
+[workable]workable (EN) : (p.) obrabialny; (p.) rentowny; (p.) urabialny; (p.) wykonalny; (p.) wykonywalny
+[workaday]workaday (EN) : (p.) codzienny; (p.) roboczy
+[workaholic]workaholic (EN) : (rz.) pracoholik
+[workaround]workaround (EN) : (cz.) obejść; (rz.) obejście
+[workbench]workbench (EN) : (rz.) stół
+[workbook]workbook (EN) : (rz.) dziennik; (rz.) skoroszyt; (rz.) zeszyt
+[worked]worked (EN) : (cz.) przepracować
+[worker]worker (EN) : (rz.) hutnik; (rz.) pracownik; (rz.) robotnik
+[workers']workers' (EN) : (p.) pracowniczy
+[workgroup]workgroup (EN) : (rz.) zespół
+[workhouse]workhouse (EN) : (rz.) przytułek; (rz.) warsztat
+[workingman]workingman (EN) : (rz.) robotnik
+[workload]workload (EN) : (rz.) obciążenie
+[workman]workman (EN) : (rz.) pracownik; (rz.) robotnik; (rz.) wyrobnik
+[workmanship]workmanship (EN) : (rz.) dzieło; (rz.) fachowość; (rz.) sztuka; (rz.) wykonanie; (rz.) wyrób; (rz.) zręczność
+[workmate]workmate (EN) : (rz.) kolega
+[workout]workout (EN) : (rz.) zaprawa
+[workroom]workroom (EN) : (rz.) pracownia
+[workshop]workshop (EN) : (rz.) hala; (rz.) manufaktura; (rz.) pracownia; (rz.) warsztat; (rz.) zakład
+[workstation]workstation (EN) : (rz.) terminal
+[workwoman]workwoman (EN) : (rz.) pracownica; (rz.) robotnica
+[world]world (EN) : (rz.) świat; (rz.) światek; (rz.) wiata; (rz.) ziemia
+[world-wide]world-wide (EN) : (p.) ogólnoświatowy; (p.) światowy
+[worldliness]worldliness (EN) : (rz.) światowość; (rz.) ziemskość
+[worldly]worldly (EN) : (p.) doczesny; (p.) światowy; (p.) świecki; (p.) ziemski
+[worldwide]worldwide (EN) : (p.) ogólnoświatowy; (p.) światowy
+[worm]worm (EN) : (rz.) czerw; (rz.) robak; (rz.) ślimak; (rz.) wirus
+[worm-eaten]worm-eaten (EN) : (p.) robaczywy
+[wormwood]wormwood (EN) : (rz.) piołun; (rz.) przykrość
+[wormy]wormy (EN) : (p.) robaczywy
+[worn]worn (EN) : (p.) wytarty
+[worrier]worrier (EN) : (p.) dokuczliwy; (rz.) zmartwienie
+[worrisome]worrisome (EN) : (p.) kłopotliwy
+[worry]worry (EN) : (cz.) doskwierać; (cz.) dręczyć; (cz.) gnębić; (cz.) kłopotać; (cz.) martwić; (cz.) niepokoić; (cz.) troskać; (cz.) zaniepokoić; (cz.) zmartwić; (rz.) frasunek; (rz.) niepokój; (rz.) strapienie; (rz.) troska; (rz.) zgryzota; (rz.) zmartwienie
+[worse]worse (EN) : (rz.) zły
+[worsen]worsen (EN) : (cz.) pogarszać; (cz.) pogorszyć
+[worship]worship (EN) : (cz.) czcić; (cz.) ubóstwiać; (cz.) uwielbiać; (cz.) wielbić
+[worshipful]worshipful (EN) : (p.) czcigodny
+[worshipfulness]worshipfulness (EN) : (rz.) uwielbienie
+[worshiping]worshiping (EN) : (rz.) czczenie
+[worshipper]worshipper (EN) : (rz.) czciciel
+[worth]worth (EN) : (rz.) cena; (rz.) warta; (rz.) wartość
+[worthily]worthily (EN) : (p-sł.) godnie
+[worthiness]worthiness (EN) : (rz.) wartość
+[worthless]worthless (EN) : (p.) bezwartościowy; (p.) kiczowaty; (p.) niewart
+[worthlessness]worthlessness (EN) : (rz.) bezwartościowość
+[worthwhile]worthwhile (EN) : (p.) wartościowy
+[worthy]worthy (EN) : (p.) czcigodny; (p.) godny; (p.) godzien; (p.) przezacny; (p.) wartościowy; (p.) zbożny
+[would-be]would-be (EN) : (p.) potencjalny; (p.) przyszły; (p.) rzekomy
+[wound]wound (EN) : (cz.) podstrzelić; (cz.) ranić; (cz.) zranić; (rz.) okaleczenie; (rz.) postrzał; (rz.) rana
+[woundwort]woundwort (EN) : (rz.) przelot
+[woven]woven (EN) : (cz.) pleść
+[wow]wow (EN) : (rz.) kołysanie; (rz.) podziw
+[wrack]wrack (EN) : (rz.) rozbicie; (rz.) ruina; (rz.) wrak
+[wraith]wraith (EN) : (rz.) zjawa
+[wrangle]wrangle (EN) : (cz.) pokłócić; (cz.) spierać; (cz.) sprzeczać; (cz.) użerać
+[wrangler]wrangler (EN) : (rz.) awanturnik; (rz.) kowboj
+[wrap]wrap (EN) : (cz.) obłożyć; (cz.) okręcać; (cz.) omotać; (cz.) opakować; (cz.) owijać; (cz.) owinąć; (cz.) pakować; (cz.) zamotać; (cz.) zapakować; (cz.) zawijać
+[wrap-around]wrap-around (EN) : (rz.) zawijanie
+[wraparound]wraparound (EN) : (rz.) zawijanie
+[wrapper]wrapper (EN) : (rz.) banderola; (rz.) chusta; (rz.) futerał; (rz.) narzutka; (rz.) obwoluta; (rz.) opakowanie; (rz.) osłona; (rz.) owijacz; (rz.) szlafrok; (rz.) zawinięcie
+[wrasse]wrasse (EN) : (rz.) wargacz
+[wrath]wrath (EN) : (rz.) gniew; (rz.) oburzenie; (rz.) zapalczywość
+[wrathful]wrathful (EN) : (p.) gniewny
+[wreak]wreak (EN) : (cz.) pomścić; (cz.) wyładowywać
+[wreaking]wreaking (EN) : (rz.) wyładowywanie
+[wreath]wreath (EN) : (rz.) girlanda; (rz.) wianek; (rz.) wieniec; (rz.) zwój
+[wreathe]wreathe (EN) : (cz.) kłębić; (cz.) pleść; (cz.) zwijać
+[wreck]wreck (EN) : (cz.) kończyć; (cz.) niszczyć; (cz.) niweczyć; (cz.) rozbić; (cz.) rozbijać; (cz.) rujnować; (cz.) zniszczyć; (cz.) zrujnować
+[wreckage]wreckage (EN) : (rz.) rozbicie; (rz.) szczątki; (rz.) wrak
+[wrecker]wrecker (EN) : (rz.) burzyciel; (rz.) niszczyciel; (rz.) ten
+[wren]wren (EN) : (rz.) strzyżyk
+[wrest]wrest (EN) : (cz.) skręcać; (cz.) skręcić; (cz.) wyrwać; (cz.) wyrywać
+[wrestle]wrestle (EN) : (cz.) borykać; (cz.) mocować; (cz.) walczyć; (cz.) wydzierać; (cz.) wyrywać; (cz.) zmagać
+[wrestler]wrestler (EN) : (rz.) zapaśnik
+[wrestling]wrestling (EN) : (rz.) zapaśnictwo; (rz.) zapasy
+[wretch]wretch (EN) : (rz.) bydlak; (rz.) łajdak; (rz.) łotr; (rz.) nędznik; (rz.) niegodziwiec; (rz.) nieszczęśliwiec; (rz.) nieszczęśnik; (rz.) nikczemnik
+[wretched]wretched (EN) : (p.) biedny; (p.) lichy; (p.) nędzny; (p.) nieszczęśliwy; (p.) nieszczęsny; (p.) paskudny; (p.) wstrętny
+[wretchedly]wretchedly (EN) : (p-sł.) wrednie
+[wretchedness]wretchedness (EN) : (rz.) marność; (rz.) perfidia
+[wrick]wrick (EN) : (cz.) nadwerężyć
+[wriggle]wriggle (EN) : (cz.) kręcić; (cz.) skręcać; (cz.) skręcić; (cz.) wić; (cz.) wyginać; (cz.) wywijać; (cz.) wyżymać; (cz.) zwijać
+[wriggler]wriggler (EN) : (rz.) krętacz
+[wring]wring (EN) : (cz.) ściskać; (cz.) ukręcić; (cz.) wykręcać; (cz.) wykręcić; (cz.) wyżąć; (cz.) wyżymać
+[wringer]wringer (EN) : (rz.) wyżymaczka
+[wrinkle]wrinkle (EN) : (cz.) marszczyć; (cz.) pomarszczyć; (rz.) fałd; (rz.) zmarszczka
+[wrist]wrist (EN) : (rz.) mankiet; (rz.) nadgarstek; (rz.) napięstek; (rz.) przegub
+[wristband]wristband (EN) : (rz.) bransoleta; (rz.) bransoletka; (rz.) mankiet
+[wristwatch]wristwatch (EN) : (rz.) zegarek
+[writ]writ (EN) : (rz.) nakaz; (rz.) pismo; (rz.) pozew; (rz.) rozporządzenie
+[write]write (EN) : (cz.) napisać; (cz.) pisać; (cz.) pisywać; (cz.) spisać; (cz.) wypisywać; (cz.) zapisać; (cz.) zredagować
+[writer]writer (EN) : (rz.) autor; (rz.) literat; (rz.) pisarz; (rz.) twórca
+[writers]writers (EN) : (rz.) pisarek
+[writhe]writhe (EN) : (cz.) cierpieć; (cz.) skręcać; (cz.) wić; (cz.) zwijać
+[writing-desk]writing-desk (EN) : (rz.) biurko
+[wrong]wrong (EN) : (cz.) pokrzywdzić; (cz.) szkodzić; (p.) błędny; (p.) fałszywy; (p.) mylny; (p.) niedobry; (p.) nieodpowiedni; (p.) niesłuszny; (p.) niewłaściwy; (p.) opaczny; (p.) zły; (p-sł.) błędnie; (p-sł.) niedobrze; (p-sł.) źle
+[wrong-doer]wrong-doer (EN) : (rz.) krzywdziciel; (rz.) szkodnik; (rz.) złoczyńca
+[wrong-doing]wrong-doing (EN) : (rz.) grzech; (rz.) krzywda; (rz.) przestępstwo; (rz.) zło
+[wrong-headed]wrong-headed (EN) : (p.) przekorny; (p.) przewrotny; (p.) uporczywy
+[wrongdoer]wrongdoer (EN) : (rz.) grzesznik; (rz.) przestępca; (rz.) szkodnik; (rz.) winowajca; (rz.) złoczyńca
+[wrongdoing]wrongdoing (EN) : (rz.) grzech; (rz.) krzywda; (rz.) nadużycie; (rz.) przestępstwo; (rz.) wykroczenie; (rz.) zło
+[wrongful]wrongful (EN) : (p.) bezprawny; (p.) krzywdzący; (p.) niesprawiedliwy; (p.) szkodliwy; (p.) zły
+[wrongfully]wrongfully (EN) : (p-sł.) bezprawnie
+[wrongheaded]wrongheaded (EN) : (p.) przekorny; (p.) przewrotny; (p.) uporczywy
+[wrongly]wrongly (EN) : (p-sł.) niewłaściwie; (p-sł.) źle
+[wroth]wroth (EN) : (p.) gniewny; (p.) zły
+[wry]wry (EN) : (p.) krzywy; (p.) skręcony
+[wryneck]wryneck (EN) : (rz.) krętogłów
+[wulfenite]wulfenite (EN) : (rz.) wulfenit

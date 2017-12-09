@@ -1,0 +1,59 @@
+[zionism]Zionism (EN) : (rz.) syjonizm
+[zionist]Zionist (EN) : (rz.) syjonista
+[zionistic]Zionistic (EN) : (p.) syjonistyczny
+[z-buffer]z-buffer (EN) : (rz.) bufor
+[zany]zany (EN) : (rz.) błazen; (rz.) głupek; (rz.) półgłówek; (rz.) pomocnik
+[zap]zap (EN) : (cz.) drażnić; (cz.) przeglądać; (cz.) przełączyć; (cz.) wycierać; (cz.) zabić; (cz.) zabijać
+[zappy]zappy (EN) : (p.) czadowy; (p.) witalny
+[zeal]zeal (EN) : (rz.) entuzjazm; (rz.) gorliwość; (rz.) zapał
+[zealot]zealot (EN) : (rz.) gorliwiec; (rz.) zagorzalec; (rz.) żarliwiec
+[zealous]zealous (EN) : (p.) fanatyczny; (p.) gorliwy
+[zealously]zealously (EN) : (p-sł.) gorliwie
+[zealousness]zealousness (EN) : (p.) gorliwy; (rz.) gorliwość
+[zebra]zebra (EN) : (rz.) zebra
+[zed]zed (EN) : (rz.) zetownik
+[zenith]zenith (EN) : (rz.) apogeum; (rz.) szczyt; (rz.) zenit
+[zephyr]zephyr (EN) : (rz.) wietrzyk; (rz.) zefir
+[zeppelin]zeppelin (EN) : (rz.) sterowiec
+[zero]zero (EN) : (cz.) wyzerować; (rz.) zero
+[zero-address]zero-address (EN) : (p.) bezadresowy
+[zero-dimensional]zero-dimensional (EN) : (p.) bezwymiarowy
+[zeroing]zeroing (EN) : (rz.) wyzerowywanie; (rz.) zerowanie
+[zest]zest (EN) : (rz.) aromat; (rz.) chęć; (rz.) energia; (rz.) entuzjazm; (rz.) ochota; (rz.) pikanteria; (rz.) przyprawa; (rz.) radość; (rz.) rozkosz; (rz.) swada; (rz.) werwa; (rz.) wigor; (rz.) zainteresowanie; (rz.) zapał
+[zestfully]zestfully (EN) : (p-sł.) ochoczo
+[zigzag]zigzag (EN) : (rz.) zygzak
+[zinc]zinc (EN) : (rz.) cynk; (rz.) cynkowanie
+[zinc-works]zinc-works (EN) : (rz.) cynkownia
+[zincify]zincify (EN) : (cz.) cynkować
+[zincing]zincing (EN) : (rz.) cynkowanie
+[zincograph]zincograph (EN) : (rz.) chemigrafia; (rz.) cynkografia
+[zincography]zincography (EN) : (rz.) chemigrafia; (rz.) cynkografia
+[zing]zing (EN) : (rz.) wigor
+[zinnia]zinnia (EN) : (rz.) cynia
+[zip]zip (EN) : (cz.) przelecieć; (cz.) spakować; (cz.) zasuwać; (rz.) suwak; (rz.) świśnięcie; (rz.) świst; (rz.) werwa
+[zipper]zipper (EN) : (rz.) postrzępienie; (rz.) suwak
+[zippy]zippy (EN) : (p.) rzeźwy
+[zircon]zircon (EN) : (rz.) cyrkon
+[zirconium]zirconium (EN) : (rz.) cyrkon
+[zit]zit (EN) : (rz.) pryszcz
+[zither]zither (EN) : (rz.) cytra
+[zitherist]zitherist (EN) : (rz.) cytrzysta
+[zloty]zloty (EN) : (rz.) złotówka
+[zodiac]zodiac (EN) : (rz.) zodiak
+[zodiacal]zodiacal (EN) : (p.) zodiakalny
+[zombie]zombie (EN) : (rz.) tuman
+[zone]zone (EN) : (rz.) pas; (rz.) pasek; (rz.) pasmo; (rz.) strefa; (rz.) zona
+[zoo]zoo (EN) : (rz.) menażeria; (rz.) zoo
+[zoogeography]zoogeography (EN) : (rz.) zoogeografia
+[zoological]zoological (EN) : (p.) zoologiczny
+[zoologist]zoologist (EN) : (rz.) zoolog
+[zoology]zoology (EN) : (rz.) zoologia
+[zoom]zoom (EN) : (cz.) brzęczeć; (cz.) buczeć; (cz.) furczeć; (cz.) poderwać; (cz.) podrywać; (cz.) przybliżać; (cz.) warkotać; (cz.) wzlecieć; (rz.) powiększenie; (rz.) warkot; (rz.) zoom
+[zooming]zooming (EN) : (rz.) przybliżanie; (rz.) świeca; (rz.) zbliżenie
+[zoomorphism]zoomorphism (EN) : (rz.) zoomorfizm
+[zoophyte]zoophyte (EN) : (rz.) zwierzokrzew
+[zoospore]zoospore (EN) : (rz.) zoospora
+[zoster]zoster (EN) : (rz.) półpasiec
+[zucchini]zucchini (EN) : (rz.) cukinia
+[zwieback]zwieback (EN) : (rz.) sucharek
+[zygote]zygote (EN) : (rz.) zygota

@@ -1,0 +1,1783 @@
+[maggie]Maggie (EN) : (rz.) Małgosia
+[malaysia]Malaysia (EN) : (rz.) Malezja
+[malta]Malta (EN) : (rz.) Malta
+[margaret]Margaret (EN) : (rz.) Małgorzata
+[mariah]Mariah (EN) : (rz.) Maria
+[mark]Mark (EN) : (rz.) Marek
+[martha]Martha (EN) : (rz.) Marta
+[martin]Martin (EN) : (rz.) Marcin
+[martina]Martina (EN) : (rz.) Martyna
+[marxism]Marxism (EN) : (rz.) marksizm
+[marxist]Marxist (EN) : (p.) marksistowski; (rz.) marksista
+[mary]Mary (EN) : (rz.) Maria
+[matthew]Matthew (EN) : (rz.) Mateusz
+[max]Max (EN) : (rz.) Maks
+[meg]Meg (EN) : (rz.) Gosia
+[melanie]Melanie (EN) : (rz.) Melania
+[menshevik]Menshevik (EN) : (rz.) mienszewik
+[mesozoic]Mesozoic (EN) : (p.) mezozoiczny
+[methodist]Methodist (EN) : (rz.) metodysta
+[michael]Michael (EN) : (rz.) Michał
+[mike]Mike (EN) : (rz.) Michał
+[miocene]Miocene (EN) : (rz.) miocen
+[mohammedanism]Mohammedanism (EN) : (rz.) mahometanizm
+[monday]Monday (EN) : (rz.) poniedziałek
+[mr]Mr (EN) : (rz.) pan
+[muslim]Muslim (EN) : (p.) muzułmański; (rz.) muzułmanin
+[ma]ma (EN) : (rz.) magister; (rz.) mamusia
+[macabre]macabre (EN) : (p.) makabryczny
+[macadam]macadam (EN) : (rz.) makadam
+[macaque]macaque (EN) : (rz.) makak
+[macaroni]macaroni (EN) : (rz.) głupiec; (rz.) makaron
+[macaroon]macaroon (EN) : (rz.) makaronik
+[macaw]macaw (EN) : (rz.) ar; (rz.) ara
+[mace]mace (EN) : (rz.) buława; (rz.) maczuga
+[macerate]macerate (EN) : (cz.) macerować
+[maceration]maceration (EN) : (rz.) maceracja; (rz.) niszczenie
+[machete]machete (EN) : (rz.) maczeta
+[machinate]machinate (EN) : (cz.) intrygować; (cz.) spiskować
+[machination]machination (EN) : (rz.) intrygowanie; (rz.) machinacja
+[machine]machine (EN) : (rz.) machina; (rz.) maszyna; (rz.) maszynka; (rz.) obrabiarka
+[machine-hour]machine-hour (EN) : (rz.) maszynogodzina
+[machine-tool]machine-tool (EN) : (rz.) obrabiarka
+[machinery]machinery (EN) : (rz.) aparatura; (rz.) maszyneria; (rz.) mechanizm
+[machinist]machinist (EN) : (rz.) maszynista; (rz.) szwaczka
+[mackerel]mackerel (EN) : (rz.) makrela; (rz.) skumbria
+[mackintosh]mackintosh (EN) : (rz.) materiał
+[macro]macro (EN) : (rz.) makro; (rz.) makrodefinicja; (rz.) makrofotografia; (rz.) makroinstrukcja; (rz.) makropolecenie; (rz.) wielo; (rz.) wszech
+[macro-economics]macro-economics (EN) : (rz.) makroekonomia
+[macrobiotic]macrobiotic (EN) : (p.) makrobiotyczny
+[macroclimate]macroclimate (EN) : (rz.) makroklimat
+[macrocosm]macrocosm (EN) : (rz.) makrokosmos
+[macroeconomic]macroeconomic (EN) : (p.) makroekonomiczny
+[macroevolution]macroevolution (EN) : (rz.) makroewolucja
+[macrograph]macrograph (EN) : (rz.) makrografia
+[macroinstruction]macroinstruction (EN) : (rz.) makroinstrukcja; (rz.) makrorozkaz
+[macromolecular]macromolecular (EN) : (p.) wielkocząsteczkowy
+[macromolecule]macromolecule (EN) : (rz.) makrocząsteczka; (rz.) makromolekuła
+[macromolecules]macromolecules (EN) : (rz.) makromolekuła
+[macronutrient]macronutrient (EN) : (rz.) makroelement
+[macrophage]macrophage (EN) : (rz.) histiocyt; (rz.) makrofag
+[macros]macros (EN) : (rz.) makro; (rz.) makrodefinicja; (rz.) makropolecenie
+[macroscopic]macroscopic (EN) : (p.) makroskopijny; (p.) makroskopowy
+[macrostructure]macrostructure (EN) : (rz.) makrostruktura
+[macula]macula (EN) : (rz.) plama
+[mad]mad (EN) : (p.) nieprzytomny; (p.) szaleńczy; (p.) szalony; (p.) wariacki; (p.) wściekły
+[madam]madam (EN) : (rz.) pani
+[madcap]madcap (EN) : (p.) narwany; (rz.) narwaniec; (rz.) pasjonat; (rz.) postrzeleniec; (rz.) wariat
+[madden]madden (EN) : (cz.) rozjątrzyć; (cz.) rozwścieczyć; (cz.) zirytować; (cz.) zwariować
+[maddeningly]maddeningly (EN) : (p-sł.) ogłupiająco
+[madder]madder (EN) : (rz.) kraplak; (rz.) marzanna
+[made]made (EN) : (p.) wyprodukowany; (p.) zrobiony
+[mademoiselle]mademoiselle (EN) : (rz.) panienka; (rz.) panna
+[madly]madly (EN) : (p-sł.) szalenie
+[madman]madman (EN) : (rz.) furiat; (rz.) świr; (rz.) szaleniec; (rz.) wariat
+[madness]madness (EN) : (rz.) maniactwo; (rz.) obłąkanie; (rz.) obłęd; (rz.) szał; (rz.) szaleństwo; (rz.) wariactwo
+[madrigal]madrigal (EN) : (rz.) madrygał
+[maelstrom]maelstrom (EN) : (rz.) wir; (rz.) zamęt
+[maenad]maenad (EN) : (rz.) menada
+[maestro]maestro (EN) : (rz.) mistrz
+[magazine]magazine (EN) : (rz.) czasopismo; (rz.) magazyn; (rz.) magazynek; (rz.) skład
+[mage]mage (EN) : (rz.) czarodziej; (rz.) mag
+[magenta]magenta (EN) : (rz.) czerwień; (rz.) fuksyna
+[maggot]maggot (EN) : (rz.) chimera; (rz.) czerw; (rz.) larwa; (rz.) poczwarka; (rz.) urojenie
+[maggoty]maggoty (EN) : (p.) robaczywy
+[magic]magic (EN) : (p.) bajkowy; (p.) czarnoksięski; (p.) czarodziejski; (p.) magiczny; (rz.) czar; (rz.) czarnoksięstwo; (rz.) czarodziejstwo; (rz.) czary; (rz.) magia
+[magical]magical (EN) : (p.) czarnoksięski; (p.) czarodziejski; (p.) magiczny
+[magically]magically (EN) : (p-sł.) magicznie
+[magician]magician (EN) : (rz.) cudotwórca; (rz.) czarodziej; (rz.) czarownik; (rz.) iluzjonista; (rz.) magik
+[magistracy]magistracy (EN) : (rz.) urząd
+[magistrate]magistrate (EN) : (rz.) ławnik; (rz.) sadownik; (rz.) urzędnik
+[magma]magma (EN) : (rz.) cukrzyca; (rz.) magma
+[magnanimity]magnanimity (EN) : (rz.) wspaniałomyślność
+[magnanimous]magnanimous (EN) : (p.) wielkoduszny; (p.) wspaniałomyślny
+[magnanimously]magnanimously (EN) : (p-sł.) wielkodusznie
+[magnate]magnate (EN) : (rz.) magnat; (rz.) możnowładca
+[magnesia]magnesia (EN) : (rz.) magnezja
+[magnesium]magnesium (EN) : (rz.) magnez
+[magnet]magnet (EN) : (rz.) magnes; (rz.) magnesowanie
+[magnetic]magnetic (EN) : (p.) magnesowy; (p.) magnetofonowy; (p.) magnetyczny
+[magnetically]magnetically (EN) : (p-sł.) magnetycznie
+[magnetisation]magnetisation (EN) : (rz.) magnetyczność; (rz.) magnetyzacja
+[magnetism]magnetism (EN) : (rz.) magnetyzm
+[magnetite]magnetite (EN) : (rz.) magnetyt
+[magnetization]magnetization (EN) : (rz.) magnetyzacja; (rz.) namagnesowanie; (rz.) zjawisko
+[magnetize]magnetize (EN) : (cz.) magnesować; (cz.) magnetyzować; (cz.) namagnesować
+[magnetizer]magnetizer (EN) : (rz.) magnetyzer
+[magneto]magneto (EN) : (rz.) induktor; (rz.) iskrownik; (rz.) magneto
+[magnetoelectricity]magnetoelectricity (EN) : (rz.) magnetoelektryczność
+[magnetograph]magnetograph (EN) : (rz.) magnetograf
+[magnetometer]magnetometer (EN) : (rz.) magnetometr
+[magnetosphere]magnetosphere (EN) : (rz.) magnetosfera
+[magnetron]magnetron (EN) : (rz.) magnetron
+[magnification]magnification (EN) : (rz.) maksymalizacja; (rz.) powiększanie; (rz.) powiększenie; (rz.) wychwalanie; (rz.) wychwalenie; (rz.) wysławianie
+[magnificence]magnificence (EN) : (rz.) świetność; (rz.) wspaniałość
+[magnificent]magnificent (EN) : (p.) wspaniały
+[magnificently]magnificently (EN) : (p-sł.) wspaniale
+[magnifier]magnifier (EN) : (rz.) lupa; (rz.) powiększalnik; (rz.) wzmacniacz
+[magnify]magnify (EN) : (cz.) powiększać; (cz.) powiększyć; (cz.) wyolbrzymiać; (cz.) wyolbrzymić; (cz.) wzmacniać
+[magniloquence]magniloquence (EN) : (rz.) górnolotność; (rz.) pompatyczność
+[magniloquent]magniloquent (EN) : (p.) chełpliwy; (p.) górnolotny
+[magnitude]magnitude (EN) : (rz.) ogrom; (rz.) rozmiar; (rz.) ważność; (rz.) wielkość
+[magnolia]magnolia (EN) : (rz.) magnolia
+[magnum]magnum (EN) : (rz.) butelka
+[magpie]magpie (EN) : (rz.) gaduła; (rz.) sroka
+[magus]magus (EN) : (rz.) mag; (rz.) mędrzec
+[maharaja]maharaja (EN) : (rz.) maharadża
+[mahogany]mahogany (EN) : (rz.) mahoń
+[mahout]mahout (EN) : (rz.) kornak
+[maid]maid (EN) : (rz.) dwórka; (rz.) dziewczyna; (rz.) dziewka; (rz.) panna; (rz.) pokojówka; (rz.) służąca
+[maid-servant]maid-servant (EN) : (rz.) służąca
+[maiden]maiden (EN) : (p.) dziewiczy; (p.) panieński; (rz.) dziewica; (rz.) panna
+[maidenhood]maidenhood (EN) : (rz.) panieństwo
+[maidservant]maidservant (EN) : (rz.) służąca
+[mail]mail (EN) : (cz.) posyłać; (cz.) wysyłać; (rz.) kolczuga; (rz.) korespondencja; (rz.) pancerz; (rz.) poczta; (rz.) posterunek; (rz.) przesyłka
+[mailbag]mailbag (EN) : (rz.) poczta
+[mailing]mailing (EN) : (rz.) wysyłanie
+[mailman]mailman (EN) : (rz.) listonosz
+[maim]maim (EN) : (cz.) okaleczać; (cz.) okaleczyć; (cz.) wykoślawiać
+[main]main (EN) : (p.) główny; (p.) magistralny; (p.) pełny; (p.) potężny
+[mainframe]mainframe (EN) : (rz.) podstawka
+[mainland]mainland (EN) : (rz.) kontynent
+[mainly]mainly (EN) : (p-sł.) głównie; (p-sł.) przeważnie; (p-sł.) zasadniczo
+[mainmast]mainmast (EN) : (rz.) grotmaszt
+[mainspring]mainspring (EN) : (rz.) sprężyna
+[mainstay]mainstay (EN) : (rz.) ostoja; (rz.) podnóżek; (rz.) podstawa
+[maintain]maintain (EN) : (cz.) konserwować; (cz.) podtrzymywać; (cz.) przytrzymywać; (cz.) twierdzić; (cz.) utrzymać; (cz.) utrzymywać; (cz.) zachowywać
+[maintainability]maintainability (EN) : (rz.) naprawialność
+[maintenance]maintenance (EN) : (rz.) alimenty; (rz.) konserwa; (rz.) konserwacja; (rz.) oparcie; (rz.) pielęgnacja; (rz.) podpora; (rz.) remont; (rz.) twierdzenie; (rz.) utrzymanie; (rz.) utrzymywanie; (rz.) wyżywienie
+[maisonette]maisonette (EN) : (rz.) domek; (rz.) mieszkanie
+[maize]maize (EN) : (rz.) kukurydza
+[majestic]majestic (EN) : (p.) królewski; (p.) majestatyczny
+[majestically]majestically (EN) : (p-sł.) majestatycznie
+[majesty]majesty (EN) : (rz.) majestat; (rz.) majestatyczność; (rz.) mość
+[majolica]majolica (EN) : (rz.) majolika
+[major]major (EN) : (p.) durowy; (p.) główny; (p.) pełnoletni; (p.) ważniejszy; (rz.) dur; (rz.) major
+[major-domo]major-domo (EN) : (rz.) majordomus
+[majority]majority (EN) : (rz.) gros; (rz.) pełnoletniość; (rz.) większość
+[make]make (EN) : (cz.) dokładać; (cz.) dokonywać; (cz.) dołożyć; (cz.) dopracować; (cz.) doprowadzać; (cz.) formułować; (cz.) kazać; (cz.) odkrywać; (cz.) produkować; (cz.) przesądzić; (cz.) robić; (cz.) sporządzać; (cz.) sprawić; (cz.) tworzyć; (cz.) uczynić; (cz.) ujednolicać; (cz.) ujednolicić; (cz.) umilić; (cz.) urozmaicić; (cz.) uzależniać; (cz.) wnieść; (cz.) wygłaszać; (cz.) wynosić; (cz.) wyrabiać; (cz.) wysuwać; (cz.) wytwarzać; (cz.) zdążyć; (cz.) zmuszać; (cz.) zrobić; (rz.) nawiązywanie; (rz.) sprawianie; (rz.) uświetnienie; (rz.) wygłoszenie
+[make-believe]make-believe (EN) : (rz.) fantazja; (rz.) pozór; (rz.) symulacja
+[make-up]make-up (EN) : (rz.) charakter; (rz.) charakteryzacja; (rz.) kompozycja; (rz.) makijaż; (rz.) skład; (rz.) szminka; (rz.) układ; (rz.) wymysł
+[maker]maker (EN) : (rz.) konstruktor; (rz.) producent; (rz.) programista; (rz.) sprawca; (rz.) stwórca; (rz.) twórca; (rz.) wytwórca
+[maker-up]maker-up (EN) : (rz.) łamacz; (rz.) metrampaż
+[makeshift]makeshift (EN) : (rz.) namiastka; (rz.) prowizorka
+[makeup]makeup (EN) : (rz.) charakteryzacja; (rz.) kompozycja; (rz.) makijaż; (rz.) pudrowanie; (rz.) skład; (rz.) szminka; (rz.) układ; (rz.) wymysł
+[makeweight]makeweight (EN) : (rz.) dokładka
+[making]making (EN) : (rz.) dokonywanie; (rz.) przetwarzanie; (rz.) robienie; (rz.) robota; (rz.) rozweselenie; (rz.) tworzenie; (rz.) uzależnianie; (rz.) wyrób; (rz.) zarobek; (rz.) zrobienie
+[malachite]malachite (EN) : (rz.) malachit
+[maladjustment]maladjustment (EN) : (rz.) nieprzystosowanie; (rz.) rozregulowanie
+[maladroit]maladroit (EN) : (p.) niezdarny; (p.) niezręczny
+[malady]malady (EN) : (rz.) choroba
+[malaise]malaise (EN) : (rz.) apatia; (rz.) niemoc; (rz.) niepokój
+[malaria]malaria (EN) : (rz.) zimnica
+[malarial]malarial (EN) : (p.) malaryczny
+[malcontent]malcontent (EN) : (p.) niezadowolony; (rz.) malkontent
+[male]male (EN) : (p.) męski; (p.) obejmowany; (p.) samczy; (rz.) kocur; (rz.) mężczyzna; (rz.) samczyk; (rz.) samiec
+[malediction]malediction (EN) : (rz.) przekleństwo; (rz.) złorzeczenie
+[malefactor]malefactor (EN) : (rz.) złoczyńca
+[malefic]malefic (EN) : (p.) szkodliwy
+[maleficent]maleficent (EN) : (p.) szkodliwy; (p.) zbrodniczy
+[malevolence]malevolence (EN) : (rz.) nieżyczliwość; (rz.) wrogość
+[malevolent]malevolent (EN) : (p.) niechętny; (p.) nieżyczliwy
+[malfeasance]malfeasance (EN) : (rz.) nadużycie
+[malformation]malformation (EN) : (rz.) zniekształcenie
+[malfunction]malfunction (EN) : (rz.) awaria; (rz.) niesprawność
+[malice]malice (EN) : (rz.) napastliwość; (rz.) złość; (rz.) złośliwość
+[malicious]malicious (EN) : (p.) nikczemny; (p.) podstępny; (p.) wadliwy; (p.) zjadliwy; (p.) złośliwy; (p.) zły
+[maliciously]maliciously (EN) : (p-sł.) napastliwie; (p-sł.) złośliwie
+[malign]malign (EN) : (cz.) rzucać; (cz.) spotwarzać; (p.) szkodliwy; (p.) zgubny; (p.) złośliwy; (p.) zły
+[malignance]malignance (EN) : (rz.) guz; (rz.) szkodliwość; (rz.) złośliwość
+[malignancy]malignancy (EN) : (rz.) guz; (rz.) szkodliwość; (rz.) złośliwość
+[malignant]malignant (EN) : (p.) szkodliwy; (p.) wrogi; (p.) zgubny; (p.) złośliwy; (p.) zły
+[malignity]malignity (EN) : (rz.) zjadliwość; (rz.) złość; (rz.) złośliwość
+[malinger]malinger (EN) : (cz.) naśladować; (cz.) symulować
+[malingerer]malingerer (EN) : (rz.) symulant
+[mall]mall (EN) : (rz.) hipermarket; (rz.) supermarket
+[malleability]malleability (EN) : (rz.) ciągliwość
+[malleable]malleable (EN) : (p.) ciągliwy; (p.) giętki; (p.) kowalny; (p.) podatny
+[mallet]mallet (EN) : (rz.) knypel; (rz.) młotek; (rz.) obijak; (rz.) pobijak; (rz.) podbijak
+[mallow]mallow (EN) : (rz.) malwa; (rz.) ślaz
+[malmsey]malmsey (EN) : (rz.) małmazja
+[malnourishment]malnourishment (EN) : (rz.) niedożywienie
+[malnutrition]malnutrition (EN) : (rz.) niedożywianie; (rz.) niedożywienie
+[malpractice]malpractice (EN) : (rz.) nadużycie; (rz.) wykroczenie; (rz.) zaniedbanie
+[malt]malt (EN) : (cz.) słodować; (rz.) słód
+[malt-house]malt-house (EN) : (rz.) słodownia
+[maltase]maltase (EN) : (rz.) maltaza
+[malted]malted (EN) : (rz.) słodowanie
+[malting]malting (EN) : (rz.) słodowanie
+[maltose]maltose (EN) : (rz.) maltoza
+[maltreat]maltreat (EN) : (cz.) maltretować; (cz.) znęcać
+[maltreatment]maltreatment (EN) : (rz.) maltretowanie; (rz.) zmaltretowanie
+[mama]mama (EN) : (rz.) kobieta
+[mamma]mamma (EN) : (rz.) pierś
+[mammal]mammal (EN) : (rz.) ssak
+[mammals]mammals (EN) : (rz.) ssaki
+[mammary]mammary (EN) : (p.) sutkowy
+[mammography]mammography (EN) : (rz.) mammografia
+[mammon]mammon (EN) : (rz.) mamona
+[mammoth]mammoth (EN) : (p.) mamuci; (p.) mamutowy; (p.) olbrzymi; (rz.) mamut
+[mammy]mammy (EN) : (rz.) mamusia; (rz.) mateczka
+[man]man (EN) : (cz.) obsadzać; (cz.) obsługiwać; (rz.) człowiek; (rz.) ludzik; (rz.) majsterkowicz; (rz.) mąż; (rz.) mężczyzna; (rz.) mocarz; (rz.) partner; (rz.) załoga; (rz.) zawodnik
+[man-eater]man-eater (EN) : (rz.) ludojad; (rz.) ludożerca
+[man-hour]man-hour (EN) : (rz.) roboczogodzina
+[man-made]man-made (EN) : (p.) syntetyczny; (p.) sztuczny
+[man-sized]man-sized (EN) : (p.) porządny
+[man-to-man]man-to-man (EN) : (p.) szczery; (p-sł.) szczerze
+[manacle]manacle (EN) : (rz.) kajdanki; (rz.) kajdany
+[manage]manage (EN) : (cz.) administrować; (cz.) dopiąć; (cz.) gospodarować; (cz.) kierować; (cz.) prowadzić; (cz.) radzić; (cz.) rozprawiać; (cz.) uporać; (cz.) władać; (cz.) wyznaczać; (cz.) zagospodarować; (cz.) zarządzać; (cz.) zdołać
+[manageability]manageability (EN) : (rz.) funkcjonalność; (rz.) praktyczność; (rz.) wykonalność
+[manageable]manageable (EN) : (p.) funkcjonalny; (p.) potulny; (p.) praktyczny; (p.) sterowalny; (p.) wykonalny
+[management]management (EN) : (rz.) administracja; (rz.) dyrekcja; (rz.) gospodarowanie; (rz.) kierowanie; (rz.) kierownictwo; (rz.) organizacja; (rz.) poradnictwo; (rz.) prowadzenie; (rz.) zarząd; (rz.) zarządzanie
+[manager]manager (EN) : (rz.) dyrektor; (rz.) kierownik; (rz.) menadżer; (rz.) menażer; (rz.) menedżer; (rz.) organizator; (rz.) reżyser; (rz.) zarządca
+[managerial]managerial (EN) : (p.) dyrektorski; (p.) kierowniczy; (p.) menedżerski
+[managers]managers (EN) : (rz.) menada
+[mandarin]mandarin (EN) : (rz.) mandaryn; (rz.) mandarynka
+[mandate]mandate (EN) : (rz.) mandat; (rz.) pełnomocnictwo; (rz.) rozkaz; (rz.) zadanie; (rz.) zlecenie
+[mandatory]mandatory (EN) : (p.) mandatowy; (p.) obligatoryjny; (p.) obowiązkowy
+[mandible]mandible (EN) : (rz.) szczęka; (rz.) żuchwa
+[mandolin]mandolin (EN) : (rz.) mandolina
+[mandrake]mandrake (EN) : (rz.) mandragora
+[mandrel]mandrel (EN) : (rz.) trzpień
+[mandrill]mandrill (EN) : (rz.) mandryl
+[mane]mane (EN) : (rz.) grzywa
+[manful]manful (EN) : (p.) dzielny; (p.) męski; (p.) mężny; (p.) odważny
+[manfully]manfully (EN) : (p-sł.) mężnie
+[manganese]manganese (EN) : (rz.) mangan
+[mange]mange (EN) : (rz.) świąd
+[manger]manger (EN) : (rz.) koryto; (rz.) żłób
+[mangle]mangle (EN) : (cz.) kaleczyć; (cz.) krajać; (cz.) przemaglować; (cz.) rozszarpać; (cz.) siekać; (cz.) szarpać; (cz.) wymaglować; (cz.) zniekształcać; (rz.) gładziarka; (rz.) kalander; (rz.) magiel; (rz.) wałkownica; (rz.) wyżymaczka
+[mango]mango (EN) : (rz.) mango; (rz.) mangowiec
+[mangrove]mangrove (EN) : (rz.) namorzyn
+[mangy]mangy (EN) : (p.) nędzny; (p.) parchaty; (p.) parszywy; (p.) plugawy
+[manhandle]manhandle (EN) : (cz.) przenosić
+[manhole]manhole (EN) : (rz.) właz
+[manhood]manhood (EN) : (rz.) męskość
+[manhunt]manhunt (EN) : (rz.) obława
+[mania]mania (EN) : (rz.) bzik; (rz.) mania; (rz.) obłęd
+[maniac]maniac (EN) : (p.) maniacki; (p.) maniakalny; (p.) szaleńczy; (rz.) fanatyk; (rz.) maniak; (rz.) świr; (rz.) szaleniec
+[maniacal]maniacal (EN) : (p.) maniacki; (p.) maniakalny; (p.) szaleńczy
+[manic]manic (EN) : (p.) maniacki; (p.) maniakalny
+[manicure]manicure (EN) : (rz.) manikiur
+[manicurist]manicurist (EN) : (rz.) manicurzysta; (rz.) manikiurzystka
+[manifest]manifest (EN) : (p.) jawny; (p.) oczywisty
+[manifestation]manifestation (EN) : (rz.) manifestacja; (rz.) przejaw; (rz.) udowodnienie; (rz.) ukazanie
+[manifestly]manifestly (EN) : (p-sł.) ostentacyjnie; (p-sł.) wyraźnie
+[manifesto]manifesto (EN) : (rz.) manifest; (rz.) odezwa
+[manifold]manifold (EN) : (cz.) hektografować; (cz.) powielać; (cz.) powielić; (p.) rozliczny; (p.) rozmaity; (p.) różnoraki; (p.) różnorodny; (p.) wielokrotny; (p.) wieloraki; (rz.) rura
+[manikin]manikin (EN) : (rz.) manekin
+[manila]manila (EN) : (rz.) cygaro
+[manioc]manioc (EN) : (rz.) maniok
+[maniple]maniple (EN) : (rz.) manipularz
+[manipulate]manipulate (EN) : (cz.) manipulować; (cz.) sterować
+[manipulation]manipulation (EN) : (rz.) manipulacja; (rz.) manipulowanie; (rz.) obracanie
+[manipulative]manipulative (EN) : (p.) manipulacyjny
+[manipulator]manipulator (EN) : (rz.) manipulator
+[mankind]mankind (EN) : (rz.) ludzkość
+[manlike]manlike (EN) : (p.) ludzki; (p.) męski
+[manliness]manliness (EN) : (rz.) męskość
+[manly]manly (EN) : (p.) dzielny; (p.) męski; (p.) mężny
+[manmade]manmade (EN) : (p.) syntetyczny; (p.) sztuczny
+[manned]manned (EN) : (p.) męski; (p.) załogowy
+[mannequin]mannequin (EN) : (rz.) manekin
+[manner]manner (EN) : (rz.) maniera; (rz.) obycie; (rz.) obyczaj; (rz.) ogłada; (rz.) rodzaj; (rz.) sposób; (rz.) zachowanie
+[mannerism]mannerism (EN) : (rz.) maniera; (rz.) manieryzm; (rz.) zmanierowanie
+[mannerly]mannerly (EN) : (p.) kulturalny
+[manners]manners (EN) : (rz.) obycie
+[manning]manning (EN) : (rz.) mężczyzna; (rz.) obsada; (rz.) personel; (rz.) załoga; (rz.) zatrudnienie
+[mannish]mannish (EN) : (p.) męski
+[mannose]mannose (EN) : (rz.) mannoza
+[manoeuvrability]manoeuvrability (EN) : (rz.) manewrowość; (rz.) sterowność; (rz.) zwrotność
+[manoeuvrable]manoeuvrable (EN) : (p.) sterowny; (p.) zwrotny
+[manoeuvre]manoeuvre (EN) : (cz.) manewrować; (rz.) manewr; (rz.) posunięcie
+[manoeuvring]manoeuvring (EN) : (rz.) manewrowanie
+[manometer]manometer (EN) : (rz.) ciśnieniomierz; (rz.) manometr
+[manor]manor (EN) : (rz.) dwór
+[manor-house]manor-house (EN) : (rz.) dwór; (rz.) dworek
+[manorial]manorial (EN) : (p.) dworkowy
+[mansard]mansard (EN) : (rz.) mansarda
+[mansion]mansion (EN) : (rz.) dwór; (rz.) pałac; (rz.) posiadłość; (rz.) rezydencja
+[manslaughter]manslaughter (EN) : (rz.) mężobójstwo; (rz.) mord; (rz.) zabójstwo
+[manta]manta (EN) : (rz.) derka; (rz.) łamaga; (rz.) niedorajda; (rz.) ofiara
+[mantel]mantel (EN) : (rz.) kadrowanie; (rz.) obramowanie
+[mantelpiece]mantelpiece (EN) : (rz.) gzyms
+[mantilla]mantilla (EN) : (rz.) mantyla
+[mantis]mantis (EN) : (rz.) modliszka
+[mantissa]mantissa (EN) : (rz.) mantysa
+[mantle]mantle (EN) : (cz.) okryć; (rz.) okrycie; (rz.) osłona; (rz.) płaszcz
+[mantrap]mantrap (EN) : (rz.) zasadzka
+[manual]manual (EN) : (p.) fizyczny; (p.) manualny; (p.) ręczny; (p.) zręczny; (p.) zwinny; (rz.) instrukcja; (rz.) manuał; (rz.) podręcznik; (rz.) wademekum
+[manually]manually (EN) : (p-sł.) ręcznie; (p-sł.) zręcznie
+[manufactory]manufactory (EN) : (rz.) fabryka; (rz.) manufaktura
+[manufacture]manufacture (EN) : (cz.) fabrykować; (cz.) produkować; (cz.) przetwarzać; (cz.) wyprodukować; (cz.) wytwarzać; (cz.) wywarzać; (p.) manufakturowy; (rz.) fabrykacja; (rz.) fabrykat; (rz.) produkcja; (rz.) produkt; (rz.) wytwórnia
+[manufacturer]manufacturer (EN) : (rz.) fabrykant; (rz.) producent; (rz.) wytwórca
+[manufacturing]manufacturing (EN) : (rz.) produkcja; (rz.) wytwarzanie; (rz.) wytwór; (rz.) wytwórczość; (rz.) wytwórstwo
+[manumit]manumit (EN) : (cz.) emancypować; (cz.) wyzwalać; (cz.) wyzwolić
+[manure]manure (EN) : (cz.) nawozić; (rz.) gnój; (rz.) nawóz; (rz.) obornik; (rz.) odchody
+[manuscript]manuscript (EN) : (rz.) manuskrypt; (rz.) rękopis; (rz.) skrypt
+[many-layered]many-layered (EN) : (p.) wielowarstwowy
+[many-party]many-party (EN) : (p.) wielopartyjny
+[many-sided]many-sided (EN) : (p.) wieloboczny; (p.) wielostronny
+[many-tiered]many-tiered (EN) : (p.) wielokondygnacyjny
+[many-track]many-track (EN) : (p.) wielotorowy
+[map]map (EN) : (cz.) mapować; (cz.) odwzorować; (rz.) mapa; (rz.) wykres
+[maple]maple (EN) : (rz.) jawor; (rz.) klon
+[mapping]mapping (EN) : (rz.) kartografia; (rz.) mapowanie; (rz.) odwzorowanie
+[mar]mar (EN) : (cz.) niszczyć; (cz.) plamić; (cz.) popsuć; (cz.) psuć; (cz.) zepsuć; (cz.) zniekształcać; (cz.) zniekształcić
+[marabou]marabou (EN) : (rz.) marabut
+[maraca]maraca (EN) : (rz.) grzechotka
+[marathon]marathon (EN) : (rz.) maraton
+[maraud]maraud (EN) : (cz.) grasować; (cz.) łupić; (cz.) najechać; (cz.) plądrować; (cz.) włóczyć
+[marauder]marauder (EN) : (rz.) maruder
+[marauding]marauding (EN) : (rz.) maruderstwo
+[marble]marble (EN) : (rz.) gałka; (rz.) kulka; (rz.) marmur
+[marbling]marbling (EN) : (rz.) marmurkowanie
+[marc]marc (EN) : (rz.) wysłodki
+[march]march (EN) : (cz.) maszerować; (rz.) marsz; (rz.) marzec; (rz.) pochód; (rz.) pogranicze; (rz.) przemarsz
+[march-past]march-past (EN) : (rz.) defilada
+[marchioness]marchioness (EN) : (rz.) markiza; (rz.) żona
+[mare]mare (EN) : (rz.) klacz; (rz.) kobyła
+[margarine]margarine (EN) : (rz.) margaryna
+[margin]margin (EN) : (rz.) krawędź; (rz.) margines; (rz.) marża
+[marginal]marginal (EN) : (p.) brzegowy; (p.) brzeżny; (p.) krańcowy; (p.) marginalny; (p.) marginesowy; (p.) poboczny
+[marginality]marginality (EN) : (p.) brzegowy
+[marginalized]marginalized (EN) : (rz.) odsuwanie
+[marginally]marginally (EN) : (p-sł.) marginalnie; (p-sł.) marginesowo; (p-sł.) minimalnie
+[margrave]margrave (EN) : (rz.) margrabia
+[marguerite]marguerite (EN) : (rz.) margerytka
+[marigold]marigold (EN) : (rz.) aksamitka; (rz.) nagietek; (rz.) nogietek
+[marijuana]marijuana (EN) : (rz.) haszysz
+[marimba]marimba (EN) : (rz.) marimba
+[marina]marina (EN) : (rz.) przystań
+[marinade]marinade (EN) : (rz.) marynata
+[marinate]marinate (EN) : (cz.) zamarynować
+[marinating]marinating (EN) : (rz.) marynowanie
+[marine]marine (EN) : (p.) marynarski; (p.) marynistyczny; (p.) morski; (rz.) flota; (rz.) marynarka; (rz.) marynarz; (rz.) marynistyka
+[mariner]mariner (EN) : (rz.) majtek; (rz.) marynarz
+[marionette]marionette (EN) : (rz.) marionetka
+[marital]marital (EN) : (p.) cywilny; (p.) małżeński; (p.) mężowski; (rz.) pożycie
+[maritime]maritime (EN) : (p.) morski; (p.) nadmorski; (p.) okrętowy; (rz.) wybrzeże
+[marjoram]marjoram (EN) : (rz.) majeranek
+[mark]mark (EN) : (cz.) cechować; (cz.) kotować; (cz.) markować; (cz.) oznaczać; (cz.) oznaczyć; (cz.) oznakować; (cz.) poprawiać; (cz.) zaznaczać; (cz.) zaznaczyć; (rz.) cel; (rz.) kreska; (rz.) ocena; (rz.) oznaczenie; (rz.) oznaka; (rz.) plama; (rz.) punkt; (rz.) ścieżka; (rz.) ślad; (rz.) stopień; (rz.) znaczek; (rz.) znak
+[markdown]markdown (EN) : (rz.) obniżka
+[marked]marked (EN) : (p.) oznaczony; (p.) wybitny; (p.) wyraźny
+[markedly]markedly (EN) : (p-sł.) dobitnie; (p-sł.) wybitnie; (p-sł.) wyraźnie
+[marker]marker (EN) : (rz.) bazar; (rz.) cecha; (rz.) marker; (rz.) rad; (rz.) rynek; (rz.) stemplownica; (rz.) targ; (rz.) targowisko; (rz.) zbyt; (rz.) żeton; (rz.) znacznik; (rz.) znak; (rz.) znakownica
+[market]market (EN) : (rz.) rynek; (rz.) targ; (rz.) targowisko
+[market-gardening]market-gardening (EN) : (p.) warzywniczy
+[marketability]marketability (EN) : (rz.) atrakcyjność; (rz.) pokupność; (rz.) wzięcie; (rz.) zbywalność
+[marketable]marketable (EN) : (p.) pokupny; (p.) ponury; (p.) rynkowy; (p.) zbywalny
+[marketing]marketing (EN) : (rz.) marketing
+[marketplace]marketplace (EN) : (rz.) rynek; (rz.) targowisko
+[marking]marking (EN) : (rz.) cechowanie; (rz.) naznaczenie; (rz.) oznaczanie; (rz.) oznakowanie; (rz.) plamienie; (rz.) wyznaczanie; (rz.) znakowanie
+[marking-out]marking-out (EN) : (rz.) trasowanie
+[marksman]marksman (EN) : (rz.) snajper
+[marksmanship]marksmanship (EN) : (rz.) celność; (rz.) strzelanie
+[marl]marl (EN) : (rz.) margiel; (rz.) marglowanie
+[marline]marline (EN) : (rz.) marlinka
+[marmalade]marmalade (EN) : (rz.) dżem; (rz.) marmolada
+[marmot]marmot (EN) : (rz.) karmazyn; (rz.) rozbitek; (rz.) świstak
+[maroon]maroon (EN) : (cz.) odosobnić; (cz.) plątać; (p.) bordowy; (p.) kasztanowaty
+[marquee]marquee (EN) : (rz.) neon; (rz.) roleta
+[marquis]marquis (EN) : (rz.) markiz
+[marquisette]marquisette (EN) : (rz.) markizeta
+[marriage]marriage (EN) : (rz.) akt; (rz.) intercyza; (rz.) małżeństwo; (rz.) mariasz; (rz.) mariaż; (rz.) oświadczyny; (rz.) ślub; (rz.) zamążpójście; (rz.) żeniaczka
+[married]married (EN) : (p.) małżeński; (p.) poślubiony; (p.) ślubny; (p.) zamężna; (p.) żonaty
+[marrow]marrow (EN) : (rz.) cukinia; (rz.) kabaczek; (rz.) mlecz; (rz.) rdzeń; (rz.) sedno; (rz.) szpik; (rz.) szpikowanie
+[marry]marry (EN) : (cz.) ożenić; (cz.) pobierać; (cz.) poślubiać; (cz.) poślubić; (cz.) pożenić; (cz.) wżenić; (cz.) żenić
+[marsh]marsh (EN) : (rz.) bagno; (rz.) błoto; (rz.) moczary; (rz.) zalewisko
+[marsh-gas]marsh-gas (EN) : (rz.) metan
+[marshal]marshal (EN) : (cz.) formować; (cz.) nastawiać; (cz.) prowadzić; (cz.) rozrządzać; (cz.) szeregować; (cz.) ustawiać; (cz.) uszykować; (rz.) komendant; (rz.) marszałek; (rz.) organizator
+[marshes]marshes (EN) : (rz.) moczary
+[marshy]marshy (EN) : (p.) bagienny; (p.) bagnisty
+[marsupial]marsupial (EN) : (p.) woreczkowaty; (rz.) torbacz
+[mart]mart (EN) : (rz.) targowisko
+[marten]marten (EN) : (rz.) kuna
+[martial]martial (EN) : (p.) wojenny; (p.) wojowniczy; (p.) wojskowy
+[martially]martially (EN) : (p-sł.) wojskowo
+[martin]martin (EN) : (rz.) jaskółka
+[martinet]martinet (EN) : (rz.) służbista
+[martyr]martyr (EN) : (rz.) cierpiętnik; (rz.) męczennik
+[martyrdom]martyrdom (EN) : (rz.) martyrologia; (rz.) męczeństwo
+[marvel]marvel (EN) : (cz.) dziwić; (cz.) dziwować; (rz.) cud; (rz.) cudo; (rz.) zdziwienie
+[marvellous]marvellous (EN) : (p.) cudny; (p.) cudowny; (p.) przecudny
+[marzipan]marzipan (EN) : (rz.) marcepan; (rz.) marcypan
+[mascara]mascara (EN) : (rz.) tusz
+[mascot]mascot (EN) : (rz.) maskota; (rz.) maskotka
+[masculine]masculine (EN) : (p.) męski; (p.) męskoosobowy
+[masculinity]masculinity (EN) : (rz.) męskość
+[mash]mash (EN) : (cz.) gnieść; (cz.) mieszać; (cz.) rozgniatać; (cz.) tłuc; (rz.) breja; (rz.) bryja; (rz.) flama; (rz.) papka; (rz.) zacier
+[mask]mask (EN) : (cz.) kryć; (cz.) maskować; (cz.) ukrywać; (cz.) zamaskować; (rz.) ekstraktor; (rz.) maska; (rz.) maskowanie; (rz.) maszkaron; (rz.) matryca; (rz.) pozór; (rz.) pretekst
+[masked]masked (EN) : (p.) maskowy
+[masochism]masochism (EN) : (rz.) masochizm
+[masochist]masochist (EN) : (rz.) masochista
+[masochistic]masochistic (EN) : (p.) masochistyczny
+[mason]mason (EN) : (cz.) murować; (rz.) kamieniarz; (rz.) mason; (rz.) murarz
+[masonry]masonry (EN) : (rz.) kamieniarstwo; (rz.) masoneria; (rz.) murarstwo
+[masquerade]masquerade (EN) : (cz.) maskować; (rz.) maskarada; (rz.) podszywanie
+[mass]mass (EN) : (cz.) gromadzić; (cz.) koncentrować; (rz.) masa; (rz.) masowość; (rz.) mnóstwo; (rz.) msza; (rz.) wiec; (rz.) zlepek
+[massacre]massacre (EN) : (cz.) masakrować; (cz.) zmasakrować; (rz.) masakra; (rz.) rzeź
+[massage]massage (EN) : (cz.) masować; (cz.) przekształcać; (cz.) przetwarzać; (cz.) wymasować; (rz.) masaż
+[massed]massed (EN) : (p.) masowy
+[masseur]masseur (EN) : (rz.) masażysta
+[masseuse]masseuse (EN) : (rz.) masażystka
+[massif]massif (EN) : (rz.) masyw
+[massive]massive (EN) : (p.) duży; (p.) masowy; (p.) masywny; (p.) potężny; (p.) solidny
+[massiveness]massiveness (EN) : (rz.) bryłowatość; (rz.) masywność
+[massy]massy (EN) : (p.) bryłowaty; (p.) duży; (p.) masowy; (p.) masywny; (p.) solidny
+[mast]mast (EN) : (rz.) maszt
+[master]master (EN) : (rz.) gospodarz; (rz.) kapitan; (rz.) linijka; (rz.) magister; (rz.) majster; (rz.) mistrz; (rz.) nauczyciel; (rz.) pan; (rz.) panicz; (rz.) szef; (rz.) władca; (rz.) właściciel; (rz.) wzorzec
+[master-key]master-key (EN) : (rz.) wytrych
+[master-slave]master-slave (EN) : (p.) główny-podległy; (p.) nadrzędny-podległy
+[masterful]masterful (EN) : (p.) mistrzowski; (p.) władczy
+[masterfully]masterfully (EN) : (p-sł.) władczo; (p-sł.) wyniośle
+[masterly]masterly (EN) : (p.) kongenialny; (p.) mistrzowski; (p.) popisowy
+[mastermind]mastermind (EN) : (rz.) mistrz; (rz.) mózg
+[masterpiece]masterpiece (EN) : (rz.) arcydzieło; (rz.) dzieło; (rz.) majstersztyk
+[masterstroke]masterstroke (EN) : (rz.) majstersztyk
+[mastery]mastery (EN) : (rz.) biegłość; (rz.) mistrzostwo; (rz.) opanowanie; (rz.) panowanie; (rz.) przewaga; (rz.) władza; (rz.) znajomość
+[mastic]mastic (EN) : (rz.) mastyks
+[masticate]masticate (EN) : (cz.) miażdżyć; (cz.) żuć
+[mastication]mastication (EN) : (rz.) miażdżenie; (rz.) żucie
+[masticator]masticator (EN) : (rz.) rozcieracz
+[mastiff]mastiff (EN) : (rz.) brytan
+[mastitis]mastitis (EN) : (rz.) sutek
+[mastodon]mastodon (EN) : (rz.) mastodont
+[masturbate]masturbate (EN) : (cz.) masturbować; (cz.) onanizować
+[masturbation]masturbation (EN) : (rz.) masturbacja; (rz.) onania; (rz.) onanizm; (rz.) samogwałt
+[mat]mat (EN) : (p.) matowy; (rz.) mata; (rz.) podkładka; (rz.) słomianka; (rz.) wycieraczka
+[matador]matador (EN) : (rz.) matador
+[match]match (EN) : (rz.) dobór; (rz.) dopasowanie; (rz.) lont; (rz.) małżeństwo; (rz.) mecz; (rz.) ożenek; (rz.) para; (rz.) partia; (rz.) zapałka
+[matched]matched (EN) : (p.) dopasowany; (p.) powiązany
+[matcher]matcher (EN) : (rz.) odpowiednik
+[matching]matching (EN) : (rz.) dopasowanie; (rz.) dopasowywanie; (rz.) pasowanie; (rz.) zestawienie
+[matchless]matchless (EN) : (p.) nieprześcigniony; (p.) niezrównany
+[matchlock]matchlock (EN) : (rz.) rusznica; (rz.) zamek
+[matchmaker]matchmaker (EN) : (rz.) swat
+[matchmaking]matchmaking (EN) : (rz.) swatanie; (rz.) swaty
+[mate]mate (EN) : (rz.) kolega; (rz.) kumpel; (rz.) małżonek; (rz.) mat; (rz.) oficer; (rz.) pomocnik; (rz.) samiec; (rz.) towarzysz
+[mater]mater (EN) : (rz.) matka
+[material]material (EN) : (rz.) dokumentacja; (rz.) kultura; (rz.) materiał; (rz.) materiałoznawstwo; (rz.) substancja; (rz.) surowiec; (rz.) tkanina; (rz.) tworzywo
+[material-consuming]material-consuming (EN) : (p.) materiałochłonny
+[materialism]materialism (EN) : (rz.) materializm
+[materialist]materialist (EN) : (rz.) materialista
+[materialistic]materialistic (EN) : (p.) materialistyczny
+[materiality]materiality (EN) : (rz.) materialność
+[materialization]materialization (EN) : (rz.) konkretyzacja; (rz.) materializacja
+[materialize]materialize (EN) : (cz.) materializować; (cz.) rozmijać; (cz.) tworzyć; (cz.) ucieleśnić; (cz.) urzeczywistniać; (cz.) urzeczywistnić; (cz.) zaistnieć; (cz.) zmaterializować
+[materially]materially (EN) : (p-sł.) materialnie
+[maternal]maternal (EN) : (p.) macierzyński; (p.) matczyny
+[maternity]maternity (EN) : (rz.) macierzyństwo
+[math]math (EN) : (rz.) matematyka
+[mathematic]mathematic (EN) : (p.) matematyczny
+[mathematical]mathematical (EN) : (p.) matematyczny
+[mathematically]mathematically (EN) : (p-sł.) matematycznie
+[mathematician]mathematician (EN) : (rz.) matematyk; (rz.) matematyka
+[mathematics]mathematics (EN) : (rz.) matematyka
+[maths]maths (EN) : (rz.) matematyka
+[matinee]matinee (EN) : (rz.) popołudniówka; (rz.) poranek
+[mating]mating (EN) : (rz.) dopasowanie; (rz.) gody; (rz.) kojarzenie; (rz.) krycie; (rz.) parowanie
+[matins]matins (EN) : (rz.) jutrznia
+[matriarch]matriarch (EN) : (rz.) przywódczyni
+[matriarchal]matriarchal (EN) : (p.) matriarchalny
+[matriarchy]matriarchy (EN) : (rz.) matriarchat
+[matricide]matricide (EN) : (rz.) matkobójca; (rz.) matkobójstwo
+[matriculate]matriculate (EN) : (cz.) immatrykulować
+[matriculation]matriculation (EN) : (rz.) immatrykulacja
+[matrimonial]matrimonial (EN) : (p.) małżeński; (p.) matrymonialny
+[matrimony]matrimony (EN) : (rz.) małżeństwo
+[matrix]matrix (EN) : (rz.) macierz; (rz.) matryca; (rz.) matrycowanie
+[matron]matron (EN) : (rz.) matrona
+[matt]matt (EN) : (p.) matowy
+[matted]matted (EN) : (p.) kołtuniasty
+[matter]matter (EN) : (cz.) liczyć; (cz.) znaczyć; (rz.) istota; (rz.) kłopot; (rz.) kwestia; (rz.) mata; (rz.) materia; (rz.) materiał; (rz.) rzecz; (rz.) sprawa; (rz.) substancja; (rz.) temat; (rz.) znaczenie
+[matting]matting (EN) : (rz.) mata; (rz.) matowanie
+[mattock]mattock (EN) : (rz.) kilof; (rz.) motyka; (rz.) oskard
+[mattress]mattress (EN) : (rz.) materac
+[maturate]maturate (EN) : (cz.) dojrzewać; (cz.) ropieć
+[maturation]maturation (EN) : (rz.) dojrzewanie
+[mature]mature (EN) : (cz.) dojrzeć; (cz.) dojrzewać; (cz.) odstawać; (cz.) wydorośleć; (p.) dojrzały
+[matured]matured (EN) : (cz.) leżakować
+[maturely]maturely (EN) : (p-sł.) dojrzale
+[maturity]maturity (EN) : (rz.) dojrzałość; (rz.) dorosłość; (rz.) płatność
+[matzo]matzo (EN) : (rz.) maca
+[matzoth]matzoth (EN) : (rz.) maca
+[maudlin]maudlin (EN) : (p.) ckliwy; (p.) sentymentalny
+[maul]maul (EN) : (cz.) potłuc; (cz.) poturbować; (rz.) młot; (rz.) perlik
+[maunder]maunder (EN) : (cz.) bredzić; (cz.) snuć; (cz.) zbłąkać
+[mausoleum]mausoleum (EN) : (rz.) mauzoleum
+[maverick]maverick (EN) : (rz.) indywidualista; (rz.) samotnik
+[maw]maw (EN) : (rz.) trawieniec; (rz.) wole; (rz.) żołądek
+[mawkish]mawkish (EN) : (p.) ckliwy; (p.) cukierkowy; (p.) sentymentalny
+[mawkishness]mawkishness (EN) : (rz.) ckliwość
+[max]max (EN) : (rz.) maksimum
+[maxillary]maxillary (EN) : (p.) szczękowy
+[maxim]maxim (EN) : (rz.) maksyma; (rz.) sentencja
+[maxima]maxima (EN) : (rz.) maksima
+[maximal]maximal (EN) : (p.) maksymalny
+[maximally]maximally (EN) : (p-sł.) maksymalnie
+[maximization]maximization (EN) : (rz.) maksymalizacja
+[maximize]maximize (EN) : (cz.) maksymalizować; (cz.) zmaksymalizować; (cz.) zwiększać; (cz.) zwiększyć
+[maximum]maximum (EN) : (p.) maksymalny; (rz.) maksimum
+[may]may (EN) : (cz.) pozwalać; (p-sł.) wolno; (rz.) maj
+[may-fly]may-fly (EN) : (rz.) jętka
+[maybe]maybe (EN) : (p-sł.) może
+[mayfly]mayfly (EN) : (rz.) jętka
+[mayhap]mayhap (EN) : (p-sł.) może
+[mayhem]mayhem (EN) : (rz.) okaleczenie
+[mayonnaise]mayonnaise (EN) : (rz.) majonez
+[mayor]mayor (EN) : (rz.) burmistrz; (rz.) mer; (rz.) nadburmistrz; (rz.) prezydent; (rz.) wójt
+[mayoral]mayoral (EN) : (p.) burmistrzowski
+[mayoralty]mayoralty (EN) : (rz.) merostwo
+[maze]maze (EN) : (cz.) oszałamiać; (cz.) oszołomić; (cz.) zmylać; (cz.) zmylić; (rz.) gmatwanina; (rz.) labirynt; (rz.) oszołomienie; (rz.) plątanina; (rz.) zamieszanie
+[mazurka]mazurka (EN) : (rz.) mazurek
+[mazy]mazy (EN) : (p.) powikłany
+[me]me (EN) : (rz.) mi
+[mead]mead (EN) : (rz.) laka; (rz.) łąka; (rz.) miód; (rz.) słód
+[meadow]meadow (EN) : (rz.) łąka; (rz.) polana
+[meadows]meadows (EN) : (rz.) połonina
+[meagre]meagre (EN) : (p.) chudy; (p.) cienki; (p.) szczupły; (p.) ubogi
+[meagrely]meagrely (EN) : (p-sł.) ubogo
+[meal]meal (EN) : (rz.) kasza; (rz.) mąka; (rz.) posiłek
+[meals]meals (EN) : (rz.) mączka; (rz.) posiłek
+[mealworm]mealworm (EN) : (rz.) mącznik
+[mealy]mealy (EN) : (p.) mączasty; (p.) mączny; (p.) mączysty
+[mean]mean (EN) : (cz.) myśleć; (cz.) oznaczać; (cz.) zamierzać; (cz.) znaczyć; (p.) drański; (p.) drobnostkowy; (p.) gadzinowy; (p.) gałgański; (p.) małoduszny; (p.) małostkowy; (p.) mierny; (p.) nędzny; (p.) niegodny; (p.) nikczemny; (p.) obskurny; (p.) podły; (p.) pośledni; (p.) skąpy; (p.) średni; (p.) wredny; (p.) złośliwy; (rz.) środek
+[meaning]meaning (EN) : (rz.) mniemanie; (rz.) myśl; (rz.) sens; (rz.) świństwo; (rz.) wymowa; (rz.) znaczenie
+[meaningful]meaningful (EN) : (p.) miarodajny; (p.) sensowny; (p.) wymowny
+[meaningfully]meaningfully (EN) : (p-sł.) wymownie; (p-sł.) znacząco
+[meaningless]meaningless (EN) : (p.) bezsensowny; (p.) nieistotny
+[meaninglessly]meaninglessly (EN) : (p.) bezsensowny
+[meaninglessness]meaninglessness (EN) : (rz.) bezsensowność
+[meanly]meanly (EN) : (p-sł.) brzydko; (p-sł.) małodusznie; (p-sł.) nikczemnie; (p-sł.) podle; (p-sł.) średnio; (p-sł.) wrednie
+[meanness]meanness (EN) : (rz.) draństwo; (rz.) małoduszność; (rz.) nikczemność; (rz.) podłość; (rz.) skąpstwo; (rz.) spodlenie
+[means]means (EN) : (rz.) sposób
+[meantime]meantime (EN) : (p-sł.) tymczasem
+[meanwhile]meanwhile (EN) : (p-sł.) tymczasem
+[measles]measles (EN) : (rz.) kur; (rz.) kura; (rz.) odra; (rz.) wiatrówka
+[measly]measly (EN) : (p.) marny; (p.) wągrowaty
+[measurability]measurability (EN) : (rz.) mierzalność; (rz.) wymierność
+[measurable]measurable (EN) : (p.) mierzalny; (p.) wymierny
+[measure]measure (EN) : (cz.) mierzyć; (cz.) oceniać; (cz.) ocenić; (cz.) odmierzyć; (cz.) rozmierzać; (cz.) wymierzyć; (rz.) jednostka; (rz.) miara; (rz.) miarka; (rz.) miernik; (rz.) mierzenie; (rz.) mierżenie; (rz.) porcja; (rz.) posunięcie; (rz.) przymiar; (rz.) sposób; (rz.) środek; (rz.) zabieg
+[measured]measured (EN) : (cz.) mierzyć; (cz.) pomierzyć; (cz.) wyceniać; (cz.) wycenić; (cz.) zmierzyć; (p.) miarowy
+[measureless]measureless (EN) : (p.) bezmierny
+[measurement]measurement (EN) : (rz.) gabaryt; (rz.) mierzenie; (rz.) pomiar; (rz.) rozmiar; (rz.) taksowanie; (rz.) wycena; (rz.) wymiar; (rz.) wymierzenie
+[meat]meat (EN) : (rz.) mięsiwo; (rz.) mięso
+[meat-eating]meat-eating (EN) : (p.) mięsożerny
+[meat-safe]meat-safe (EN) : (rz.) lodówka
+[meatball]meatball (EN) : (rz.) klops; (rz.) zraz
+[meatless]meatless (EN) : (p.) bezmięsny
+[meatloaf]meatloaf (EN) : (rz.) klops
+[meaty]meaty (EN) : (p.) mięsisty; (p.) treściwy
+[mechanic]mechanic (EN) : (rz.) mechanik; (rz.) mechanika; (rz.) monter; (rz.) robociarz
+[mechanical]mechanical (EN) : (p.) machinalny; (p.) maszynowy; (p.) mechaniczny; (p.) techniczny
+[mechanically]mechanically (EN) : (p-sł.) mechanicznie
+[mechanics]mechanics (EN) : (rz.) maszynoznawstwo; (rz.) mechanika
+[mechanism]mechanism (EN) : (rz.) mechanizm; (rz.) moduł
+[mechanist]mechanist (EN) : (rz.) mechanik
+[mechanization]mechanization (EN) : (rz.) mechanizacja; (rz.) mechanizowanie
+[mechanize]mechanize (EN) : (cz.) mechanizować; (cz.) zmechanizować
+[mechanizing]mechanizing (EN) : (rz.) mechanizowanie; (rz.) zmechanizowanie
+[medal]medal (EN) : (rz.) medal
+[medallion]medallion (EN) : (rz.) medalik; (rz.) medalion
+[medallist]medallist (EN) : (rz.) medalista
+[meddle]meddle (EN) : (cz.) mieszać; (cz.) wtrącać
+[meddlesome]meddlesome (EN) : (p.) wścibski
+[meddling]meddling (EN) : (cz.) mieszać; (cz.) obcować; (p.) wścibski
+[media]media (EN) : (rz.) media; (rz.) multimedia; (rz.) nośnik; (rz.) ośrodek
+[mediaeval]mediaeval (EN) : (p.) średniowieczny
+[mediaevalist]mediaevalist (EN) : (rz.) mediewista
+[medial]medial (EN) : (p.) średni; (p.) środkowy
+[median]median (EN) : (p.) środkowy; (rz.) mediana; (rz.) środkowa; (rz.) środkowanie
+[mediate]mediate (EN) : (cz.) mediować; (cz.) pośredniczyć
+[mediation]mediation (EN) : (rz.) mediacja; (rz.) pośrednictwo; (rz.) pośredniczenie; (rz.) wstawiennictwo
+[mediator]mediator (EN) : (rz.) pośrednik; (rz.) przenośnik; (rz.) rozjemca
+[mediatory]mediatory (EN) : (p.) mediacyjny; (p.) rozjemczy
+[medic]medic (EN) : (p.) medyczny; (rz.) lekarz; (rz.) medyk
+[medical]medical (EN) : (p.) leczniczy; (p.) lekarski; (p.) medyczny; (rz.) medyk
+[medically]medically (EN) : (p-sł.) medycznie
+[medicament]medicament (EN) : (rz.) lek; (rz.) medykament
+[medicate]medicate (EN) : (cz.) leczyć
+[medication]medication (EN) : (rz.) leczenie; (rz.) lek; (rz.) lekarstwo
+[medicinal]medicinal (EN) : (p.) leczniczy; (p.) lekarski; (p.) medyczny
+[medicine]medicine (EN) : (rz.) lek; (rz.) lekarstwo; (rz.) medycyna; (rz.) medykament
+[medicine-chest]medicine-chest (EN) : (rz.) apteczka
+[medicine-man]medicine-man (EN) : (rz.) medyk; (rz.) znachor
+[medico]medico (EN) : (rz.) medyk
+[medieval]medieval (EN) : (p.) średniowieczny
+[mediocre]mediocre (EN) : (p.) mierny; (p.) pośledni; (p.) przeciętny; (p.) średni
+[mediocrity]mediocrity (EN) : (rz.) mierność; (rz.) miernota; (rz.) przeciętność
+[meditate]meditate (EN) : (cz.) dumać; (cz.) medytować; (cz.) pomedytować; (cz.) przemyśliwać; (cz.) rozmyślać; (cz.) rozważać; (cz.) zamyślać
+[meditation]meditation (EN) : (rz.) deliberacja; (rz.) medytacja; (rz.) przemyśliwanie; (rz.) rozmyślanie; (rz.) zaduma
+[meditative]meditative (EN) : (p.) kontemplacyjny; (p.) medytacyjny; (p.) refleksyjny
+[medium]medium (EN) : (p.) pośredni; (p.) średni
+[medium-term]medium-term (EN) : (p.) średniookresowy
+[mediumistic]mediumistic (EN) : (p.) medialny
+[medley]medley (EN) : (rz.) mieszanina; (rz.) mieszanka; (rz.) pstrokacizna; (rz.) składanka; (rz.) wiązanka
+[medulla]medulla (EN) : (rz.) rdzeń; (rz.) szpik
+[medusa]medusa (EN) : (rz.) meduza
+[meek]meek (EN) : (p.) łagodny; (p.) potulny; (p.) skromny
+[meekly]meekly (EN) : (p-sł.) cicho; (p-sł.) łagodnie
+[meekness]meekness (EN) : (rz.) cichość; (rz.) łagodność; (rz.) pokorność; (rz.) potulność
+[meet]meet (EN) : (cz.) dopłacać; (cz.) gromadzić; (cz.) podpadać; (cz.) poznać; (cz.) poznawać; (cz.) przestrzegać; (cz.) spełniać; (cz.) spełnić; (cz.) spotkać; (cz.) spotykać; (cz.) sprostać; (cz.) widywać; (cz.) zaspakajać; (cz.) zaspokajać; (cz.) zaspokoić; (p.) posłuszny
+[meeting]meeting (EN) : (rz.) mijanka; (rz.) mityng; (rz.) montaż; (rz.) nagromadzenie; (rz.) posiedzenie; (rz.) poznanie; (rz.) spotkanie; (rz.) wiec; (rz.) zbiórka; (rz.) zebranie; (rz.) zgromadzenie
+[meeting-house]meeting-house (EN) : (rz.) zbór
+[meetinghouse]meetinghouse (EN) : (rz.) zbór
+[megabit]megabit (EN) : (rz.) megabit
+[megabyte]megabyte (EN) : (rz.) megabajt
+[megacycle]megacycle (EN) : (rz.) megacykl
+[megalith]megalith (EN) : (rz.) megalit
+[megalithic]megalithic (EN) : (p.) megalityczny
+[megalomania]megalomania (EN) : (rz.) megalomania
+[megalomaniac]megalomaniac (EN) : (rz.) megaloman
+[megaphone]megaphone (EN) : (rz.) głośnik; (rz.) megafon
+[megaton]megaton (EN) : (rz.) megatona
+[megavolt]megavolt (EN) : (rz.) megawolt
+[megawatt]megawatt (EN) : (rz.) megawat
+[megrim]megrim (EN) : (rz.) fantazja; (rz.) kaprys; (rz.) migrena; (rz.) przygnębienie
+[meiosis]meiosis (EN) : (rz.) mejoza
+[melamine]melamine (EN) : (rz.) melamina
+[melancholic]melancholic (EN) : (p.) melancholiczny; (p.) melancholijny; (p.) minorowy
+[melancholy]melancholy (EN) : (p.) melancholiczny; (p.) melancholijny; (p.) smętny; (p.) smutny; (rz.) melancholia; (rz.) rzewność
+[melange]melange (EN) : (rz.) melanż
+[melanin]melanin (EN) : (rz.) melanina
+[melanoma]melanoma (EN) : (rz.) czerniak
+[melee]melee (EN) : (rz.) bijatyka; (rz.) utarczka
+[meliorate]meliorate (EN) : (cz.) ulepszać; (cz.) uszlachetniać
+[melioration]melioration (EN) : (rz.) melioracja; (rz.) ulepszenie
+[mellifluent]mellifluent (EN) : (p.) miodopłynny
+[mellifluous]mellifluous (EN) : (p.) miodopłynny; (p.) słodki
+[mellow]mellow (EN) : (cz.) dojrzewać; (cz.) łagodnieć; (cz.) miękczyć; (cz.) mięknąć; (cz.) odleżeć; (p.) łagodny; (p.) miękki; (p.) miły; (p.) soczysty
+[mellowness]mellowness (EN) : (rz.) aksamitność; (rz.) pulchność; (rz.) soczystość
+[melodic]melodic (EN) : (p.) melodyczny; (p.) melodyjny
+[melodious]melodious (EN) : (p.) melodyjny; (p.) śpiewny
+[melodist]melodist (EN) : (rz.) melodysta
+[melodrama]melodrama (EN) : (rz.) melodramat; (rz.) teatralność
+[melodramatic]melodramatic (EN) : (p.) melodramatyczny
+[melodramatically]melodramatically (EN) : (p-sł.) melodramatycznie
+[melody]melody (EN) : (rz.) melodia; (rz.) melodyjka
+[melon]melon (EN) : (rz.) melon
+[melt]melt (EN) : (cz.) natapiać; (cz.) odmarzać; (cz.) przetapiać; (cz.) rozpływać; (cz.) rozpuścić; (cz.) rozpuszczać; (cz.) roztapiać; (cz.) roztopić; (cz.) stajać; (cz.) stapiać; (cz.) stopić; (cz.) stopnieć; (cz.) tajać; (cz.) topić; (cz.) topnieć; (cz.) ulatniać; (cz.) utopić; (cz.) wzruszać
+[meltdown]meltdown (EN) : (rz.) topnienie
+[melting]melting (EN) : (rz.) przetapianie; (rz.) przetopienie; (rz.) stapianie; (rz.) stopienie; (rz.) topienie; (rz.) topnienie; (rz.) wytop
+[melting-pot]melting-pot (EN) : (rz.) tygiel
+[member]member (EN) : (rz.) człon; (rz.) członek; (rz.) poseł; (rz.) składnik
+[members]members (EN) : (rz.) posłowie
+[membership]membership (EN) : (rz.) członkostwo; (rz.) przynależność
+[membrane]membrane (EN) : (rz.) błona; (rz.) membrana
+[membranous]membranous (EN) : (p.) błoniasty; (p.) błonkowaty
+[memento]memento (EN) : (rz.) pamiątka
+[memo]memo (EN) : (rz.) notatka; (rz.) zawiadomienie
+[memoir]memoir (EN) : (rz.) pamiętnik; (rz.) wspomnienie; (rz.) życiorys
+[memoirs]memoirs (EN) : (rz.) pamiętnik
+[memorable]memorable (EN) : (p.) pamiętny; (p.) wiekopomny
+[memorandum]memorandum (EN) : (rz.) memorandum; (rz.) notatka
+[memorial]memorial (EN) : (p.) pamiątkowy; (rz.) kronika; (rz.) memoriał; (rz.) pamiątka; (rz.) pamiętnik; (rz.) petycja; (rz.) pomnik
+[memorialize]memorialize (EN) : (cz.) upamiętniać; (cz.) upamiętnić
+[memories]memories (EN) : (rz.) wspominki; (rz.) wspomnienie
+[memorization]memorization (EN) : (rz.) zapamiętanie; (rz.) zapamiętywanie
+[memorize]memorize (EN) : (cz.) zapamiętać; (cz.) zapamiętywać
+[memory]memory (EN) : (rz.) pamięć; (rz.) pamiętliwość; (rz.) umysł; (rz.) wspomnienie
+[memory-resident]memory-resident (EN) : (p.) rezydentny
+[menace]menace (EN) : (cz.) grozić; (cz.) odgrażać; (cz.) zagrażać; (rz.) groźba; (rz.) zagrożenie
+[menacing]menacing (EN) : (p.) groźny
+[menagerie]menagerie (EN) : (rz.) menażeria
+[mend]mend (EN) : (cz.) łatać; (cz.) naprawiać; (cz.) naprawić; (cz.) nareperować; (cz.) narządzać; (cz.) podreperować; (cz.) poprawiać; (cz.) reperować; (cz.) wyreperować; (cz.) zaszyć; (rz.) menda; (rz.) poprawka
+[mendacious]mendacious (EN) : (p.) kłamiący; (p.) kłamliwy
+[mendacity]mendacity (EN) : (rz.) kłamliwość; (rz.) zakłamanie
+[mendelevium]mendelevium (EN) : (rz.) mendelew
+[mender]mender (EN) : (rz.) naprawiacz
+[mendicancy]mendicancy (EN) : (rz.) żebractwo
+[mendicant]mendicant (EN) : (rz.) żebrak
+[mending]mending (EN) : (rz.) łatanina; (rz.) naprawa; (rz.) reperacja; (rz.) reperowanie
+[menial]menial (EN) : (p.) pośledni; (p.) służebny; (rz.) popychadło; (rz.) służący
+[meniscus]meniscus (EN) : (rz.) łękotka; (rz.) menisk
+[menopausal]menopausal (EN) : (rz.) klimakterium
+[menopause]menopause (EN) : (rz.) klimakterium; (rz.) menopauza; (rz.) przekwitanie
+[menses]menses (EN) : (rz.) menstruacja; (rz.) miesiączka
+[menstrual]menstrual (EN) : (p.) menstruacyjny; (p.) miesiączkowy
+[menstruate]menstruate (EN) : (cz.) miesiączkować
+[menstruating]menstruating (EN) : (rz.) miesiączkowanie
+[menstruation]menstruation (EN) : (rz.) menstruacja; (rz.) miesiączka; (rz.) miesiączkowanie
+[mental]mental (EN) : (p.) mentalny; (p.) myślowy; (p.) psychiatryczny; (p.) psychiczny; (p.) umysłowy
+[mentality]mentality (EN) : (rz.) mentalność; (rz.) umysłowość
+[mentally]mentally (EN) : (p-sł.) mentalnie; (p-sł.) psychicznie; (p-sł.) umysłowo
+[menthol]menthol (EN) : (rz.) mentol
+[mentholated]mentholated (EN) : (p.) mentolowy
+[mention]mention (EN) : (cz.) nadmieniać; (cz.) nadmienić; (cz.) wspominać; (cz.) wspomnieć; (cz.) wymieniać; (cz.) wzmiankować; (rz.) wzmianka
+[mentor]mentor (EN) : (rz.) mentor
+[mentoring]mentoring (EN) : (p.) mentorski
+[menu]menu (EN) : (rz.) jadłospis; (rz.) menu; (rz.) spis
+[mercantile]mercantile (EN) : (p.) handlowy; (p.) kupiecki; (p.) merkantylny
+[mercantilism]mercantilism (EN) : (rz.) merkantylizm
+[mercenary]mercenary (EN) : (p.) chytry; (p.) interesowny; (p.) najemniczy; (p.) najemny; (p.) płatny; (p.) zaciężny; (rz.) najemnik; (rz.) najmita
+[mercer]mercer (EN) : (rz.) bławatnik
+[mercerization]mercerization (EN) : (rz.) merceryzacja
+[mercerize]mercerize (EN) : (cz.) merceryzować
+[merchandise]merchandise (EN) : (cz.) handlować; (rz.) towar
+[merchandize]merchandize (EN) : (cz.) reklamować
+[merchant]merchant (EN) : (rz.) handlowiec; (rz.) kupiec; (rz.) sprzedawca
+[merchantable]merchantable (EN) : (p.) handlowy
+[merchantman]merchantman (EN) : (rz.) statek
+[merciful]merciful (EN) : (p.) litościwy; (p.) miłościwy; (p.) miłosierny
+[mercifully]mercifully (EN) : (p-sł.) miłosiernie
+[merciless]merciless (EN) : (p.) bezlitosny; (p.) nielitościwy; (p.) niemiłosierny
+[mercilessly]mercilessly (EN) : (p-sł.) bezlitośnie
+[mercurial]mercurial (EN) : (p.) bystry; (p.) nieprzewidywalny; (p.) rtęciowy
+[mercuric]mercuric (EN) : (p.) rtęciowy
+[mercury]mercury (EN) : (rz.) rtęć; (rz.) zwiastun
+[mercy]mercy (EN) : (rz.) łaska; (rz.) litość; (rz.) miłosierdzie; (rz.) zmiłowanie
+[mere]mere (EN) : (p.) czczy; (p.) obcy; (p.) wyłączny; (p.) zwyczajny; (p.) zwykły; (rz.) staw
+[merely]merely (EN) : (p-sł.) jedynie; (p-sł.) tylko; (p-sł.) zaledwie; (p-sł.) zwyczajnie
+[meretricious]meretricious (EN) : (p.) krzykliwy; (p.) sztuczny; (p.) wszeteczny
+[merge]merge (EN) : (cz.) łączyć; (cz.) połączyć; (cz.) scalać; (cz.) scalić; (cz.) stapiać; (cz.) zlewać; (cz.) zmieszać
+[merger]merger (EN) : (rz.) fuzja; (rz.) łączenie; (rz.) połączenie
+[meridian]meridian (EN) : (rz.) południk; (rz.) zenit
+[meringue]meringue (EN) : (rz.) beza; (rz.) merenga
+[merino]merino (EN) : (rz.) merynos
+[merit]merit (EN) : (cz.) zasługiwać; (cz.) zasłużyć; (rz.) wartość; (rz.) właściwość; (rz.) zaleta; (rz.) zasługa
+[meritocracy]meritocracy (EN) : (rz.) merytokracja
+[meritorious]meritorious (EN) : (p.) chwalebny
+[merle]merle (EN) : (rz.) kos; (rz.) merla
+[mermaid]mermaid (EN) : (rz.) rusałka; (rz.) syrena
+[merrily]merrily (EN) : (p-sł.) beztrosko; (p-sł.) wesoło
+[merriment]merriment (EN) : (rz.) uciecha; (rz.) wesołość; (rz.) zabawa
+[merry]merry (EN) : (p.) radosny; (p.) wesoły
+[merry-go-round]merry-go-round (EN) : (rz.) karuzela; (rz.) skrzyżowanie
+[merry-making]merry-making (EN) : (rz.) jubel; (rz.) uciecha; (rz.) zabawa
+[merrymaking]merrymaking (EN) : (rz.) uciecha; (rz.) zabawa
+[mesa]mesa (EN) : (rz.) płaskowzgórze
+[mesenteric]mesenteric (EN) : (p.) krezkowy
+[mesentery]mesentery (EN) : (rz.) krezka
+[mesh]mesh (EN) : (cz.) uwikłać; (cz.) zawikłać; (rz.) oczko; (rz.) siatka; (rz.) zazębienie
+[mesmerism]mesmerism (EN) : (rz.) mesmeryzm
+[mesmerize]mesmerize (EN) : (cz.) hipnotyzować; (cz.) magnetyzować; (cz.) zahipnotyzować
+[meson]meson (EN) : (rz.) mezon
+[mesosphere]mesosphere (EN) : (rz.) mezosfera
+[mess]mess (EN) : (rz.) babranina; (rz.) bałagan; (rz.) galimatias; (rz.) kantyna; (rz.) kłopot; (rz.) mętlik; (rz.) nieporządek; (rz.) papranina; (rz.) rozgardiasz; (rz.) śmietnik; (rz.) zamieszanie
+[message]message (EN) : (rz.) komunikat; (rz.) misja; (rz.) orędzie; (rz.) pismo; (rz.) poselstwo; (rz.) posłanie; (rz.) przekaz; (rz.) przesłanie; (rz.) przesyłka; (rz.) rzęśl; (rz.) wiadomość
+[messaging]messaging (EN) : (rz.) komunikacja; (rz.) komunikowanie
+[messenger]messenger (EN) : (rz.) goniec; (rz.) kurier; (rz.) posłaniec; (rz.) wysłannik
+[messiah]messiah (EN) : (rz.) mesjasz
+[messianic]messianic (EN) : (p.) mesjanistyczny; (p.) mesjański
+[messiness]messiness (EN) : (rz.) błaganie; (rz.) niechlujstwo
+[messy]messy (EN) : (p.) bałaganiarski; (p.) brudny; (p.) kłopotliwy; (p.) niechlujny; (p.) nieczysty; (p.) nieporządny; (p.) paskudny
+[met]met (EN) : (cz.) spełniać
+[metabolic]metabolic (EN) : (p.) metaboliczny
+[metabolically]metabolically (EN) : (p.) metaboliczny
+[metabolism]metabolism (EN) : (rz.) metabolizm
+[metabolite]metabolite (EN) : (rz.) metabolit
+[metabolize]metabolize (EN) : (cz.) metabolizować
+[metacarpus]metacarpus (EN) : (rz.) śródręcze
+[metafile]metafile (EN) : (rz.) metaplik
+[metal]metal (EN) : (p.) metalowy; (rz.) blaszka; (rz.) metal
+[metal-nitride-oxide-semiconductor]metal-nitride-oxide-semiconductor (EN) : (rz.) struktura
+[metal-works]metal-works (EN) : (rz.) huta
+[metallic]metallic (EN) : (p.) kruszcowy; (p.) metaliczny; (p.) metalowy; (rz.) metalik
+[metallization]metallization (EN) : (rz.) metalizacja
+[metallographic]metallographic (EN) : (p.) metalograficzny
+[metalloid]metalloid (EN) : (rz.) metaloid; (rz.) niemetal
+[metallurgic]metallurgic (EN) : (p.) hutniczy; (p.) metalurgiczny
+[metallurgical]metallurgical (EN) : (p.) hutniczy; (p.) metalowy; (p.) metalurgiczny
+[metallurgist]metallurgist (EN) : (rz.) hutnik; (rz.) metalurg
+[metallurgy]metallurgy (EN) : (rz.) hutnictwo; (rz.) metaloznawstwo; (rz.) metalurgia
+[metals]metals (EN) : (rz.) metale; (rz.) szyny
+[metalwork]metalwork (EN) : (rz.) metaloplastyk; (rz.) ślusarstwo
+[metalworker]metalworker (EN) : (rz.) metalowiec
+[metamorphic]metamorphic (EN) : (p.) metamorficzny
+[metamorphism]metamorphism (EN) : (rz.) metamorfizm
+[metamorphosis]metamorphosis (EN) : (rz.) metamorfoza; (rz.) przeobrażenie
+[metaphor]metaphor (EN) : (rz.) metafora; (rz.) przenośnia
+[metaphoric]metaphoric (EN) : (p.) metaforyczny; (p.) przenośny
+[metaphorical]metaphorical (EN) : (p.) metaforyczny; (p.) przenośny
+[metaphorically]metaphorically (EN) : (p-sł.) metaforycznie
+[metaphysical]metaphysical (EN) : (p.) metafizyczny
+[metaphysically]metaphysically (EN) : (p-sł.) metafizycznie
+[metaphysician]metaphysician (EN) : (rz.) metafizyk
+[metaphysics]metaphysics (EN) : (rz.) metafizyka
+[metastasis]metastasis (EN) : (rz.) metastaza; (rz.) przerzut
+[mete]mete (EN) : (cz.) wydzielać; (cz.) wydzielić; (cz.) wymierzyć; (cz.) zmierzyć
+[metempsychosis]metempsychosis (EN) : (rz.) metempsychoza; (rz.) wędrówka
+[meteor]meteor (EN) : (rz.) meteor
+[meteoric]meteoric (EN) : (p.) meteorowy; (p.) meteoryczny
+[meteorite]meteorite (EN) : (rz.) meteoryt
+[meteorological]meteorological (EN) : (p.) meteorologiczny
+[meteorologist]meteorologist (EN) : (rz.) meteorolog
+[meteorology]meteorology (EN) : (rz.) meteorologia
+[meter]meter (EN) : (rz.) licznik; (rz.) metr; (rz.) metrum; (rz.) miara; (rz.) miernik; (rz.) parkometr
+[metered]metered (EN) : (p.) odpłatny
+[metering]metering (EN) : (rz.) dozowanie; (rz.) mierzenie; (rz.) odmierzanie; (rz.) odmierzenie
+[meters]meters (EN) : (rz.) metresa
+[methane]methane (EN) : (rz.) metan
+[methanol]methanol (EN) : (rz.) metanol
+[method]method (EN) : (rz.) metoda; (rz.) sposób
+[methodical]methodical (EN) : (p.) metodyczny
+[methodically]methodically (EN) : (p-sł.) metodycznie
+[methodological]methodological (EN) : (p.) metodologiczny
+[methodologically]methodologically (EN) : (p-sł.) metodologicznie
+[methodologies]methodologies (EN) : (rz.) metodyk
+[methodology]methodology (EN) : (rz.) metodologia; (rz.) metodyka
+[methyl]methyl (EN) : (rz.) metyl
+[methylamine]methylamine (EN) : (rz.) metyloamina
+[methylbenzene]methylbenzene (EN) : (rz.) metylobenzen; (rz.) toluen
+[methylcellulose]methylcellulose (EN) : (rz.) metyloceluloza
+[meticulous]meticulous (EN) : (p.) dokładny; (p.) drobiazgowy; (p.) drobnostkowy; (p.) misterny; (p.) skrupulatny; (p.) staranny
+[meticulously]meticulously (EN) : (p-sł.) drobiazgowo; (p-sł.) skrupulatnie
+[meticulousness]meticulousness (EN) : (rz.) akuratność
+[metonymy]metonymy (EN) : (rz.) metonimia
+[metre]metre (EN) : (rz.) metr; (rz.) metrum
+[metre-candle]metre-candle (EN) : (rz.) luks
+[metric]metric (EN) : (p.) metryczny; (p.) miarowy
+[metrical]metrical (EN) : (p.) metryczny; (p.) miarowy
+[metrics]metrics (EN) : (rz.) metryka
+[metro]metro (EN) : (rz.) metro
+[metrology]metrology (EN) : (rz.) metrologia; (rz.) miernictwo
+[metronome]metronome (EN) : (rz.) metronom; (rz.) taktomierz
+[metropolis]metropolis (EN) : (rz.) metropolia; (rz.) stolica
+[metropolitan]metropolitan (EN) : (p.) metropolitalny; (p.) stołeczny; (p.) wielkomiejski
+[mettle]mettle (EN) : (rz.) duch; (rz.) gorliwość; (rz.) odwaga; (rz.) usposobienie; (rz.) zapał
+[mettlesome]mettlesome (EN) : (p.) ognisty
+[mew]mew (EN) : (rz.) klatka; (rz.) mewa; (rz.) stajnia; (rz.) uliczka
+[mewl]mewl (EN) : (cz.) kwilić; (cz.) zakwilić
+[mezzanine]mezzanine (EN) : (rz.) antresola; (rz.) mezanin; (rz.) półpiętro
+[mezzotint]mezzotint (EN) : (rz.) mezzotinta
+[miasma]miasma (EN) : (rz.) miazmat; (rz.) wyziew
+[miasmal]miasmal (EN) : (p.) miazmatyczny
+[mica]mica (EN) : (rz.) łyszczyk; (rz.) mika
+[micelle]micelle (EN) : (rz.) micela
+[micro]micro (EN) : (rz.) mikro; (rz.) mikroorganizm; (rz.) mikrosystem
+[micro-component]micro-component (EN) : (rz.) mikroskładnik
+[micro-machining]micro-machining (EN) : (rz.) mikroobróbka
+[micro-organism]micro-organism (EN) : (rz.) drobnoustrój; (rz.) mikroorganizm
+[microampere]microampere (EN) : (rz.) mikroamper
+[microanalysis]microanalysis (EN) : (rz.) mikroanaliza
+[microbalance]microbalance (EN) : (rz.) mikrowaga
+[microbe]microbe (EN) : (rz.) drobnoustrój; (rz.) mikrob
+[microbes]microbes (EN) : (rz.) mikroby
+[microbial]microbial (EN) : (p.) mikrobiologiczny; (p.) mikrobowy
+[microbiological]microbiological (EN) : (p.) mikrobiologiczny
+[microbiologist]microbiologist (EN) : (rz.) mikrobiolog
+[microbiology]microbiology (EN) : (rz.) mikrobiologia
+[microchemistry]microchemistry (EN) : (rz.) mikrochemia
+[microcircuit]microcircuit (EN) : (rz.) mikroukład
+[microclimate]microclimate (EN) : (rz.) mikroklimat
+[microcline]microcline (EN) : (rz.) mikroklin
+[microcode]microcode (EN) : (rz.) mikroprogram; (rz.) mikrorozkaz
+[microcomputer]microcomputer (EN) : (rz.) mikrokomputer
+[microcosm]microcosm (EN) : (rz.) mikrokosmos; (rz.) miniatura
+[microcrystalline]microcrystalline (EN) : (p.) mikrokrystaliczny
+[microeconomics]microeconomics (EN) : (rz.) mikroekonomia
+[microelectrode]microelectrode (EN) : (rz.) mikroelektroda
+[microelectronic]microelectronic (EN) : (p.) mikroelektroniczny
+[microelectronics]microelectronics (EN) : (rz.) mikroelektronika
+[microelement]microelement (EN) : (rz.) mikroelement
+[microfarad]microfarad (EN) : (rz.) mikrofarad
+[microfiche]microfiche (EN) : (rz.) mikrokarta
+[microfilm]microfilm (EN) : (rz.) mikrofilm
+[microgram]microgram (EN) : (rz.) mikrogram
+[micrograph]micrograph (EN) : (rz.) fotomikrografia; (rz.) mikrografia
+[microinstruction]microinstruction (EN) : (rz.) mikroinstrukcja; (rz.) mikrorozkaz
+[micromachining]micromachining (EN) : (rz.) mikroobróbka
+[micromanage]micromanage (EN) : (cz.) zarządzać
+[micromanipulator]micromanipulator (EN) : (rz.) mikromanipulator
+[micrometeorite]micrometeorite (EN) : (rz.) mikrometeoryt
+[micrometer]micrometer (EN) : (rz.) mikrometr; (rz.) mikromierz
+[micrometric]micrometric (EN) : (p.) mikrometryczny
+[microminiaturisation]microminiaturisation (EN) : (rz.) mikrominiaturyzacja
+[microminiaturization]microminiaturization (EN) : (rz.) mikrominiaturyzacja
+[micron]micron (EN) : (rz.) mikrometr; (rz.) mikron
+[micronutrient]micronutrient (EN) : (rz.) mikroelement
+[micropaleontology]micropaleontology (EN) : (rz.) mikropaleontologia
+[microphone]microphone (EN) : (rz.) mikrofon
+[microphotography]microphotography (EN) : (rz.) mikrofotografia
+[micropipette]micropipette (EN) : (rz.) mikropipeta
+[microprocessor]microprocessor (EN) : (rz.) mikroprocesor
+[microprogramming]microprogramming (EN) : (rz.) mikroprogramowanie
+[microscope]microscope (EN) : (rz.) mikroskop
+[microscopic]microscopic (EN) : (p.) mikroskopijny; (p.) mikroskopowy
+[microscopy]microscopy (EN) : (rz.) mikroskopia
+[microsecond]microsecond (EN) : (rz.) mikrosekunda
+[microseconds]microseconds (EN) : (rz.) mikrosekunda
+[microstate]microstate (EN) : (rz.) mikrostan
+[microstructure]microstructure (EN) : (rz.) mikrostruktura
+[microsurgery]microsurgery (EN) : (rz.) mikrochirurgia
+[microtome]microtome (EN) : (rz.) mikrotom
+[microvolt]microvolt (EN) : (rz.) mikrowolt
+[microwatt]microwatt (EN) : (rz.) mikrowat
+[microwave]microwave (EN) : (p.) mikrofalowy; (rz.) mikrofala; (rz.) mikrofalówka
+[microwaves]microwaves (EN) : (rz.) mikrofale
+[mid]mid (EN) : (p.) średni; (p.) środkowy
+[mid-level]mid-level (EN) : (p.) pośredni
+[midair]midair (EN) : (p.) powietrzny
+[midday]midday (EN) : (rz.) południe
+[middle]middle (EN) : (p.) średni; (p.) środkowy; (rz.) mieszczaństwo; (rz.) połowa; (rz.) środek
+[middle-of-the-road]middle-of-the-road (EN) : (p.) centrowy; (p.) środkowy
+[middleman]middleman (EN) : (rz.) pośrednik
+[middling]middling (EN) : (p.) przeciętny; (p.) średni
+[midge]midge (EN) : (rz.) komar; (rz.) mucha; (rz.) muszka
+[midget]midget (EN) : (rz.) karzeł; (rz.) karzełek; (rz.) maleństwo
+[midlevel]midlevel (EN) : (p.) pośredni; (p.) przejściowy
+[midnight]midnight (EN) : (rz.) północ
+[midpoint]midpoint (EN) : (rz.) centrum; (rz.) środek
+[midshipman]midshipman (EN) : (rz.) aspirant; (rz.) asystent; (rz.) chorąży; (rz.) podchorąży
+[midst]midst (EN) : (rz.) środek
+[midtown]midtown (EN) : (rz.) śródmieście
+[midway]midway (EN) : (p-sł.) pomiędzy
+[midweek]midweek (EN) : (p.) środowy
+[midwife]midwife (EN) : (rz.) akuszerka
+[midwifery]midwifery (EN) : (rz.) akuszerstwo; (rz.) położnictwo
+[mien]mien (EN) : (rz.) mina; (rz.) postawa
+[might]might (EN) : (rz.) moc; (rz.) potęga; (rz.) siła
+[mightily]mightily (EN) : (p-sł.) ogromnie; (p-sł.) potężnie
+[mightiness]mightiness (EN) : (rz.) potęga
+[mighty]mighty (EN) : (p.) możny; (p.) ogromny; (p.) potężny; (p.) przepotężny; (p-sł.) bardzo; (p-sł.) wielce
+[migraine]migraine (EN) : (rz.) migrena
+[migrant]migrant (EN) : (p.) koczowniczy; (p.) wędrowny; (rz.) koczownik; (rz.) wędrownik
+[migrate]migrate (EN) : (cz.) koczować; (cz.) migrować; (cz.) przejść; (cz.) przesiedlać; (cz.) wędrować
+[migration]migration (EN) : (rz.) migracja; (rz.) migrowanie; (rz.) odlot; (rz.) przesuwanie; (rz.) wędrówka
+[migratory]migratory (EN) : (p.) koczujący; (p.) wędrowny
+[mike]mike (EN) : (rz.) mikrofon
+[mild]mild (EN) : (p.) delikatny; (p.) łagodny; (p.) miły; (p.) niegroźny
+[mildew]mildew (EN) : (rz.) pleśń
+[mildly]mildly (EN) : (p-sł.) łagodnie
+[mildness]mildness (EN) : (rz.) delikatność; (rz.) łagodność
+[mile]mile (EN) : (rz.) mila
+[mile-long]mile-long (EN) : (p.) tasiemcowy
+[mileage]mileage (EN) : (rz.) kilometraż; (rz.) przebieg
+[miles]miles (EN) : (rz.) mila
+[milfoil]milfoil (EN) : (rz.) krwawnik
+[milieu]milieu (EN) : (rz.) otoczenie; (rz.) środowisko
+[militancy]militancy (EN) : (rz.) bojowość; (rz.) wojowniczość
+[militant]militant (EN) : (p.) myśliwski; (p.) walczący; (p.) wojowniczy; (rz.) bojownik
+[militantly]militantly (EN) : (p-sł.) wojowniczo
+[militarily]militarily (EN) : (p-sł.) militarnie; (p-sł.) wojskowo
+[militarism]militarism (EN) : (rz.) militaryzm
+[militarist]militarist (EN) : (rz.) militarysta
+[militaristic]militaristic (EN) : (p.) militarystyczny
+[militarization]militarization (EN) : (rz.) militaryzacja
+[militarize]militarize (EN) : (cz.) militaryzować; (cz.) zmilitaryzować
+[military]military (EN) : (p.) bojowy; (p.) militarny; (p.) wojenny; (p.) wojskowy; (rz.) militaria; (rz.) wojskowość
+[militate]militate (EN) : (cz.) walczyć; (cz.) wojować
+[militia]militia (EN) : (rz.) milicja
+[militiaman]militiaman (EN) : (rz.) milicjant
+[milk]milk (EN) : (cz.) doić; (p.) mleczny; (rz.) dój; (rz.) mleczko; (rz.) mleko
+[milk-can]milk-can (EN) : (rz.) blaszanka
+[milk-tooth]milk-tooth (EN) : (rz.) mleczak
+[milk-woman]milk-woman (EN) : (rz.) mleczarka
+[milking]milking (EN) : (rz.) dój; (rz.) dojenie
+[milkmaid]milkmaid (EN) : (rz.) dojarka; (rz.) dójka; (rz.) mleczarka
+[milkman]milkman (EN) : (rz.) mleczarz
+[milksop]milksop (EN) : (rz.) fajtłapa; (rz.) młokos; (rz.) oferma; (rz.) piecuch
+[milky]milky (EN) : (p.) mleczny
+[mill]mill (EN) : (cz.) frezować; (cz.) mielić; (cz.) mleć; (cz.) spilśniać; (rz.) fabryka; (rz.) młyn; (rz.) młynek; (rz.) olejarnia; (rz.) rozdrabniarka
+[mill-race]mill-race (EN) : (rz.) młynówka
+[millboard]millboard (EN) : (rz.) płyta
+[millenary]millenary (EN) : (p.) tysiącletni
+[millennial]millennial (EN) : (p.) tysiącletni
+[millennialism]millennialism (EN) : (rz.) millenaryzm
+[millennium]millennium (EN) : (rz.) milenium; (rz.) millenium; (rz.) tysiąclecie
+[miller]miller (EN) : (rz.) frezarka; (rz.) młynarz
+[millet]millet (EN) : (rz.) jagła; (rz.) proso
+[milliard]milliard (EN) : (rz.) miliard
+[milligram]milligram (EN) : (rz.) miligram
+[millimetre]millimetre (EN) : (rz.) milimetr
+[milliner]milliner (EN) : (rz.) modystka
+[millinery]millinery (EN) : (rz.) kapelusz; (rz.) modniarstwo
+[milling]milling (EN) : (rz.) frezowanie; (rz.) mielenie; (rz.) młynarstwo; (rz.) przemiał; (rz.) szlifowanie
+[million]million (EN) : (rz.) milion
+[millionaire]millionaire (EN) : (rz.) bogacz; (rz.) milioner
+[millionth]millionth (EN) : (p.) milionowy
+[millipede]millipede (EN) : (rz.) stonoga
+[millrace]millrace (EN) : (rz.) młynówka
+[millstone]millstone (EN) : (rz.) toczak
+[milord]milord (EN) : (rz.) milord
+[milquetoast]milquetoast (EN) : (rz.) strachajło
+[milt]milt (EN) : (rz.) mlecz; (rz.) śledziona
+[mime]mime (EN) : (rz.) mim; (rz.) mina; (rz.) pantomima
+[mimeograph]mimeograph (EN) : (cz.) powielać; (rz.) kopiarka; (rz.) powielacz
+[mimetic]mimetic (EN) : (p.) mimetyczny
+[mimic]mimic (EN) : (cz.) naśladować; (p.) mimiczny; (p.) naśladowczy; (p.) pozorny; (rz.) mimik
+[mimicking]mimicking (EN) : (rz.) mimikra; (rz.) naśladowanie
+[mimicry]mimicry (EN) : (rz.) mimetyzm; (rz.) mimika; (rz.) mimikra; (rz.) naśladowanie; (rz.) naśladownictwo
+[mimosa]mimosa (EN) : (rz.) czułek; (rz.) mimoza
+[mina]mina (EN) : (rz.) mina
+[minaret]minaret (EN) : (rz.) minaret
+[minatory]minatory (EN) : (p.) groźny
+[mince]mince (EN) : (cz.) dreptać; (cz.) drobić; (cz.) kruszyć; (cz.) krygować; (cz.) mielić; (cz.) mleć; (cz.) przebierać; (cz.) siekać
+[mincemeat]mincemeat (EN) : (rz.) legumina; (rz.) nadzienie; (rz.) siekanina
+[mind]mind (EN) : (cz.) doglądać; (cz.) uważać; (cz.) zważać; (rz.) duch; (rz.) inteligencja; (rz.) myśl; (rz.) myślenie; (rz.) opinia; (rz.) rozum; (rz.) skłonność; (rz.) świadomość; (rz.) umysł
+[mindful]mindful (EN) : (p.) ostrożny; (p.) pomny; (p.) świadomy; (p.) troskliwy; (p.) uważny
+[mindfully]mindfully (EN) : (p-sł.) dbale; (p-sł.) troskliwie
+[mindless]mindless (EN) : (p.) bezmyślny; (p.) nieuważny
+[mindlessly]mindlessly (EN) : (p-sł.) bezmyślnie; (p-sł.) niedbale
+[mindset]mindset (EN) : (rz.) mentalność
+[mine]mine (EN) : (cz.) kopać; (cz.) minować; (cz.) wydobywać; (cz.) wykopać; (p.) kopalniany; (p.) minowy; (rz.) bomba; (rz.) kopalnia; (rz.) mina
+[mine-layer]mine-layer (EN) : (rz.) minowiec
+[minelayer]minelayer (EN) : (rz.) minowiec
+[miner]miner (EN) : (rz.) górnik
+[mineral]mineral (EN) : (p.) kopalny; (p.) mineralny; (rz.) kopalina; (rz.) minerał
+[mineralization]mineralization (EN) : (rz.) mineralizacja
+[mineralize]mineralize (EN) : (cz.) mineralizować
+[mineralogical]mineralogical (EN) : (p.) mineralogiczny
+[mineralogist]mineralogist (EN) : (rz.) mineralog
+[mineralogy]mineralogy (EN) : (rz.) mineralogia
+[mineshaft]mineshaft (EN) : (rz.) szyb
+[minesweeper]minesweeper (EN) : (rz.) trałowiec
+[minesweeping]minesweeping (EN) : (rz.) trałowanie
+[mingle]mingle (EN) : (cz.) mieszać; (cz.) przyłączać; (cz.) tłuc; (cz.) zmieszać
+[miniature]miniature (EN) : (rz.) miniatura
+[miniaturist]miniaturist (EN) : (rz.) miniaturzysta
+[miniaturization]miniaturization (EN) : (rz.) miniaturyzacja
+[miniaturize]miniaturize (EN) : (cz.) miniaturyzować; (cz.) pomniejszać
+[minibus]minibus (EN) : (rz.) mikrobus
+[minicab]minicab (EN) : (rz.) taksówka
+[minicomputer]minicomputer (EN) : (rz.) minikomputer
+[minify]minify (EN) : (cz.) pomniejszać
+[minifying]minifying (EN) : (rz.) pomniejszanie
+[minim]minim (EN) : (rz.) laska; (rz.) półnuta
+[minimal]minimal (EN) : (p.) minimalny
+[minimalism]minimalism (EN) : (rz.) minimalizm
+[minimalist]minimalist (EN) : (rz.) minimalista
+[minimally]minimally (EN) : (p-sł.) minimalnie
+[minimization]minimization (EN) : (rz.) minimalizacja; (rz.) pomniejszenie
+[minimize]minimize (EN) : (cz.) minimalizować; (cz.) pomniejszać; (cz.) zbagatelizować; (cz.) zminimalizować; (cz.) zmniejszyć
+[minimum]minimum (EN) : (p.) minimalny; (rz.) granica; (rz.) minimum
+[mining]mining (EN) : (rz.) górnica; (rz.) górnictwo; (rz.) kopalnictwo; (rz.) minier; (rz.) minowanie; (rz.) podminowywanie; (rz.) urabianie; (rz.) wydobycie; (rz.) wydobywanie; (rz.) zaminowanie
+[minion]minion (EN) : (rz.) kolonel; (rz.) pupilek; (rz.) sługa; (rz.) sługus; (rz.) ulubieniec
+[miniskirt]miniskirt (EN) : (rz.) minispódniczka; (rz.) spódniczka
+[minister]minister (EN) : (rz.) minister; (rz.) pastor; (rz.) poseł
+[ministerial]ministerial (EN) : (p.) kościelny; (p.) ministerialny; (p.) usłużny
+[ministry]ministry (EN) : (rz.) duszpasterstwo; (rz.) kler; (rz.) ministerstwo
+[mink]mink (EN) : (rz.) norka
+[minor]minor (EN) : (p.) drugorzędny; (p.) minorowy; (p.) mniejszy; (p.) molowy; (p.) niepełnoletni; (p.) niewielki; (rz.) minor; (rz.) moll; (rz.) sprawa
+[minority]minority (EN) : (rz.) mniejszość; (rz.) niepełnoletniość; (rz.) niepełnoletność
+[minstrel]minstrel (EN) : (rz.) minstrel
+[mint]mint (EN) : (cz.) bić; (p.) miętowy; (rz.) macierzanka; (rz.) mennica; (rz.) mięta
+[minuend]minuend (EN) : (rz.) odjemna
+[minuet]minuet (EN) : (rz.) menuet
+[minuscule]minuscule (EN) : (rz.) minuskuła
+[minute]minute (EN) : (p.) drobiazgowy; (p.) drobny; (p.) kunsztowny; (p.) nieznaczny; (p.) szczegółowy; (rz.) chwila; (rz.) malutkie; (rz.) minuta; (rz.) minutka; (rz.) notatka; (rz.) protokół; (rz.) zarys
+[minutely]minutely (EN) : (p-sł.) drobiazgowo; (p-sł.) kunsztownie; (p-sł.) znikomo
+[minuteman]minuteman (EN) : (rz.) milicjant; (rz.) najemnik
+[minuteness]minuteness (EN) : (rz.) znikomość
+[minutes]minutes (EN) : (rz.) kwadrans; (rz.) minuta; (rz.) protokół
+[minutia]minutia (EN) : (rz.) szczególik
+[minx]minx (EN) : (rz.) pinda
+[miracle]miracle (EN) : (rz.) cud; (rz.) cudo; (rz.) dziw
+[miraculous]miraculous (EN) : (p.) cudowny
+[miraculously]miraculously (EN) : (p-sł.) cudownie
+[mirage]mirage (EN) : (rz.) fatamorgana; (rz.) miraż
+[mire]mire (EN) : (cz.) zabłocić; (rz.) bagno; (rz.) błoto
+[mirror]mirror (EN) : (cz.) odbijać; (cz.) odzwierciedlać; (rz.) lusterko; (rz.) lustro; (rz.) odbicie; (rz.) zwierciadło
+[mirth]mirth (EN) : (rz.) radość; (rz.) wesele; (rz.) wesołość
+[miry]miry (EN) : (p.) błotnisty
+[misadventure]misadventure (EN) : (rz.) niepowodzenie; (rz.) nieszczęście
+[misalignment]misalignment (EN) : (rz.) niewspółosiowość
+[misalliance]misalliance (EN) : (rz.) mezalians
+[misanthrope]misanthrope (EN) : (rz.) mizantrop
+[misanthropic]misanthropic (EN) : (p.) mizantropijny
+[misanthropist]misanthropist (EN) : (p.) mizantropijny; (rz.) mizantrop; (rz.) odludek
+[misanthropy]misanthropy (EN) : (rz.) mizantropia
+[misapply]misapply (EN) : (cz.) nadużyć
+[misapprehension]misapprehension (EN) : (rz.) błąd; (rz.) nieporozumienie
+[misappropriate]misappropriate (EN) : (cz.) defraudować; (cz.) przywłaszczać; (cz.) sprzeniewierzać
+[misappropriation]misappropriation (EN) : (rz.) defraudacja; (rz.) malwersacja; (rz.) sprzeniewierzenie
+[misbeliever]misbeliever (EN) : (rz.) heretyk
+[miscalculate]miscalculate (EN) : (cz.) przerachować
+[miscalculation]miscalculation (EN) : (rz.) przeliczenie; (rz.) przeszacowanie
+[miscall]miscall (EN) : (cz.) przezywać
+[miscarriage]miscarriage (EN) : (rz.) pomyłka; (rz.) poronienie; (rz.) zaginięcie
+[miscarry]miscarry (EN) : (cz.) chybić; (cz.) poronić; (cz.) ronić
+[miscegenation]miscegenation (EN) : (rz.) hybrydyzacja; (rz.) krzyżowanie; (rz.) skrzyżowanie
+[miscellaneous]miscellaneous (EN) : (p.) pomieszany; (p.) rozmaity; (p.) różnoraki; (p.) różnorodny
+[miscellany]miscellany (EN) : (rz.) mieszanina; (rz.) zbieranina; (rz.) zbiór
+[mischance]mischance (EN) : (rz.) niepowodzenie; (rz.) pech
+[mischief]mischief (EN) : (rz.) figiel; (rz.) krzywda; (rz.) łobuzerka; (rz.) niegodziwość; (rz.) nieszczęście; (rz.) psota; (rz.) szkoda; (rz.) tarapaty; (rz.) zepsucie
+[mischief-maker]mischief-maker (EN) : (rz.) intrygant
+[mischievous]mischievous (EN) : (p.) figlarny; (p.) niegodziwy; (p.) niegrzeczny; (p.) niesforny; (p.) psotny; (p.) szkodliwy; (p.) złośliwy
+[miscibility]miscibility (EN) : (rz.) mieszalność
+[miscible]miscible (EN) : (p.) mieszalny
+[misconception]misconception (EN) : (rz.) nieporozumienie
+[miscreant]miscreant (EN) : (p.) nikczemny; (rz.) nikczemnik
+[misdeed]misdeed (EN) : (rz.) nieprawość; (rz.) przestępstwo; (rz.) zły
+[misdemeanour]misdemeanour (EN) : (rz.) przestępstwo; (rz.) wykroczenie; (rz.) występek
+[misdirect]misdirect (EN) : (cz.) zmylać; (cz.) zmylić
+[misdoing]misdoing (EN) : (rz.) nieprawość
+[miser]miser (EN) : (rz.) dusigrosz; (rz.) kutwa; (rz.) skąpiec; (rz.) skąpiradło; (rz.) sknera
+[miserable]miserable (EN) : (p.) marny; (p.) nędzny; (p.) nieszczęśliwy; (p.) nikczemny; (p.) skrajny; (p.) żałosny
+[miserably]miserably (EN) : (p-sł.) marnie; (p-sł.) nędznie; (p-sł.) przykro
+[miserliness]miserliness (EN) : (rz.) skąpstwo
+[miserly]miserly (EN) : (p.) nędzny; (p.) skąpy
+[misery]misery (EN) : (rz.) bieda; (rz.) cierpienie; (rz.) mizerota; (rz.) nędza; (rz.) niedola; (rz.) nieszczęście; (rz.) sknerstwo
+[misfeasance]misfeasance (EN) : (rz.) wykroczenie
+[misfire]misfire (EN) : (rz.) niewypał
+[misfit]misfit (EN) : (rz.) niedopasowanie
+[misfortune]misfortune (EN) : (rz.) niepowodzenie; (rz.) nieszczęście; (rz.) pech
+[misgiving]misgiving (EN) : (rz.) niepokój; (rz.) obawa
+[misguide]misguide (EN) : (cz.) zmylać; (cz.) zmylić
+[misguided]misguided (EN) : (p.) niefortunny; (p.) zły
+[mishandle]mishandle (EN) : (cz.) maltretować
+[mishap]mishap (EN) : (rz.) niepowodzenie; (rz.) nieszczęście
+[mishear]mishear (EN) : (cz.) przesłyszeć
+[mishmash]mishmash (EN) : (rz.) bigos; (rz.) mieszanina
+[misinformation]misinformation (EN) : (rz.) dezinformacja
+[misinformed]misinformed (EN) : (cz.) informować
+[misinterpret]misinterpret (EN) : (cz.) interpretować
+[misinterpretation]misinterpretation (EN) : (rz.) nadinterpretacja
+[mislay]mislay (EN) : (cz.) gubić; (cz.) podziać; (cz.) zapodziać; (cz.) zarzucać; (cz.) zawieruszyć; (cz.) zgubić
+[mislead]mislead (EN) : (cz.) mylić; (cz.) omylić; (cz.) zmylać; (cz.) zmylić
+[misleading]misleading (EN) : (p.) omylny; (p.) polubowny; (p.) zwodniczy
+[mismanagement]mismanagement (EN) : (rz.) niegospodarność
+[mismatch]mismatch (EN) : (rz.) dysharmonia; (rz.) niedopasowanie; (rz.) nieodpowiedniość; (rz.) niezgodność
+[mismatched]mismatched (EN) : (p.) niedopasowany
+[misogynist]misogynist (EN) : (rz.) antyfeminista
+[misplace]misplace (EN) : (cz.) zawieruszyć
+[misprint]misprint (EN) : (rz.) literówka
+[misrepresent]misrepresent (EN) : (cz.) przekręcać; (cz.) przekręcić; (cz.) wypaczyć
+[miss]miss (EN) : (cz.) chybiać; (cz.) chybić; (cz.) opuścić; (cz.) opuszczać; (cz.) pożałować; (cz.) przegapiać; (cz.) przegapić; (cz.) przepuścić; (cz.) przepuszczać; (cz.) pudłować; (cz.) spóźniać; (cz.) spudłować; (cz.) stracić; (cz.) tęsknić; (cz.) zawodzić; (rz.) chybienie; (rz.) kiks; (rz.) panna; (rz.) tęsknica; (rz.) zaprzepaszczenie
+[missal]missal (EN) : (rz.) mszał
+[misshape]misshape (EN) : (cz.) zniekształcać; (cz.) zniekształcić
+[misshapen]misshapen (EN) : (p.) niekształtny; (p.) zdeformowany; (p.) zniekształcony
+[missile]missile (EN) : (rz.) pocisk; (rz.) rakieta
+[missing]missing (EN) : (cz.) brakować; (p.) brakujący; (p.) zaginiony
+[mission]mission (EN) : (rz.) misja; (rz.) poruczenie; (rz.) posłannictwo; (rz.) wysłannik; (rz.) zlecenie
+[mission-critical]mission-critical (EN) : (p.) najistotniejszy; (p.) najważniejszy
+[missionary]missionary (EN) : (p.) misjonarski; (p.) misyjny; (rz.) misjonarz; (rz.) poseł
+[missive]missive (EN) : (rz.) pismo
+[misspend]misspend (EN) : (cz.) roztrwonić
+[misstate]misstate (EN) : (cz.) przekręcać
+[misstatement]misstatement (EN) : (rz.) nieścisłość
+[missus]missus (EN) : (rz.) kobieta; (rz.) żona
+[missy]missy (EN) : (rz.) panienka
+[mist]mist (EN) : (cz.) mżyć; (cz.) zamglić; (rz.) mgiełka; (rz.) mgła; (rz.) tuman; (rz.) zamglenie
+[mistake]mistake (EN) : (cz.) pomylić; (rz.) błąd; (rz.) omyłka; (rz.) pomyłka
+[mistaken]mistaken (EN) : (p.) błędny; (p.) mylny
+[mistakenly]mistakenly (EN) : (p-sł.) błędnie; (p-sł.) mylnie
+[mister]mister (EN) : (rz.) pan
+[mistily]mistily (EN) : (p-sł.) mglisto
+[mistiness]mistiness (EN) : (rz.) mętność; (rz.) mgła; (rz.) mglistość
+[mistletoe]mistletoe (EN) : (rz.) jemioła
+[mistreat]mistreat (EN) : (cz.) znęcać
+[mistreating]mistreating (EN) : (cz.) znęcać; (rz.) maltretowanie
+[mistress]mistress (EN) : (rz.) kochanica; (rz.) metresa; (rz.) pani
+[mistrust]mistrust (EN) : (cz.) podejrzewać; (rz.) niedowierzanie; (rz.) nieufność
+[mistrustful]mistrustful (EN) : (p.) nieufny
+[mistrustfulness]mistrustfulness (EN) : (rz.) nieufność
+[mistuning]mistuning (EN) : (rz.) niedostrojenie; (rz.) rozstrojenie
+[misty]misty (EN) : (p.) mglisty
+[mistyped]mistyped (EN) : (p.) błędny; (p.) omyłkowy
+[misunderstanding]misunderstanding (EN) : (rz.) niedomówienie; (rz.) nieporozumienie; (rz.) niezrozumienie
+[misuse]misuse (EN) : (rz.) nadużycie
+[miswrite]miswrite (EN) : (cz.) pisać
+[mite]mite (EN) : (rz.) drobiazg; (rz.) kruszynka
+[mitigate]mitigate (EN) : (cz.) łagodzić; (cz.) uśmierzać; (cz.) uspokajać; (cz.) złagodzić
+[mitigation]mitigation (EN) : (rz.) łagodzenie; (rz.) złagodzenie
+[mitosis]mitosis (EN) : (rz.) mitoza
+[mitre]mitre (EN) : (rz.) infuła; (rz.) mitra
+[mitt]mitt (EN) : (rz.) graba; (rz.) mitenka; (rz.) mitynka; (rz.) rękawica
+[mitten]mitten (EN) : (rz.) mitenka; (rz.) rękawica; (rz.) rękawiczka
+[mix]mix (EN) : (cz.) domieszać; (cz.) kręcić; (cz.) mieszać; (cz.) miksować; (cz.) namieszać; (cz.) ocierać; (cz.) połączyć; (cz.) preparować; (cz.) przemieszać; (cz.) rozmieszać; (cz.) ucierać; (cz.) wymieszać; (cz.) zmieszać; (cz.) zmiksować; (rz.) mieszanina; (rz.) mieszanka; (rz.) miksowanie; (rz.) plątanina
+[mix-up]mix-up (EN) : (rz.) gmatwanina; (rz.) plątanina; (rz.) zamieszanie
+[mixed]mixed (EN) : (cz.) mieszać; (cz.) pomieszać; (cz.) zmieszać; (p.) koedukacyjny; (p.) mieszankowy; (p.) mieszany; (p.) niejednorodny; (p.) różnorodny; (p.) zmieszany
+[mixer]mixer (EN) : (rz.) konsoleta; (rz.) mieszacz; (rz.) mieszadło; (rz.) mieszarka; (rz.) mikser
+[mixture]mixture (EN) : (rz.) mieszanina; (rz.) mieszanka; (rz.) mikstura
+[mizzen]mizzen (EN) : (rz.) bezan
+[mizzle]mizzle (EN) : (cz.) mżyć; (cz.) zwiać
+[mm]mm (EN) : (p.) milimetrowy
+[mnemonic]mnemonic (EN) : (p.) mnemoniczny; (p.) mnemotechniczny; (p.) pamięciowy; (rz.) mnemonik; (rz.) mnemonika
+[mnemonically]mnemonically (EN) : (p-sł.) mnemonicznie
+[mnemonics]mnemonics (EN) : (rz.) mnemonika
+[mo]mo (EN) : (rz.) żart
+[moan]moan (EN) : (cz.) biadać; (cz.) biadolić; (cz.) jęczeć; (cz.) lamentować; (cz.) narzekać; (cz.) stękać; (cz.) zastękać; (rz.) biadolenie; (rz.) jęk
+[moat]moat (EN) : (rz.) fosa; (rz.) rów
+[mob]mob (EN) : (rz.) gang; (rz.) gawiedź; (rz.) hałastra; (rz.) motłoch; (rz.) pospólstwo; (rz.) tłum
+[mobile]mobile (EN) : (p.) mobilny; (p.) obwoźny; (p.) przejezdny; (p.) przenośny; (p.) przewoźny; (p.) ruchomy; (p.) żywy
+[mobility]mobility (EN) : (rz.) manewrowość; (rz.) mobilność; (rz.) przenośność; (rz.) ruchliwość
+[mobilization]mobilization (EN) : (rz.) mobilizacja; (rz.) uruchomienie
+[mobilize]mobilize (EN) : (cz.) mobilizować; (cz.) zmobilizować
+[mobster]mobster (EN) : (rz.) mafiozo
+[moccasin]moccasin (EN) : (rz.) mokasyn
+[mocha]mocha (EN) : (rz.) kawa
+[mock]mock (EN) : (cz.) drwić; (cz.) kpić; (cz.) przedrzeźniać; (cz.) szydzić; (cz.) wykpić; (cz.) wyśmiać; (cz.) żartować; (p.) podrobiony; (p.) próbny; (p.) sztuczny; (rz.) kpienie
+[mock-up]mock-up (EN) : (rz.) makieta
+[mocker]mocker (EN) : (rz.) przedrzeźniacz; (rz.) prześmiewca; (rz.) zaprzepaszczenie
+[mockery]mockery (EN) : (rz.) drwina; (rz.) kpiarstwo; (rz.) kpina; (rz.) parodia; (rz.) szyderstwo; (rz.) urągowisko; (rz.) wyśmiewanie
+[mocking]mocking (EN) : (p.) kpiący; (p.) kpiarski; (p.) szyderczy
+[mod]mod (EN) : (rz.) mord
+[modal]modal (EN) : (p.) modalny
+[modality]modality (EN) : (rz.) modalność
+[modally]modally (EN) : (p-sł.) modalnie
+[mode]mode (EN) : (rz.) forma; (rz.) obyczaj; (rz.) sposób; (rz.) tryb; (rz.) właściwość; (rz.) zwyczaj
+[model]model (EN) : (rz.) makieta; (rz.) model; (rz.) modelka; (rz.) wzór
+[model-making]model-making (EN) : (rz.) modelarstwo
+[modeller]modeller (EN) : (rz.) modelarz
+[modelling]modelling (EN) : (rz.) modelowanie; (rz.) pozowanie
+[modem]modem (EN) : (rz.) modem
+[moderate]moderate (EN) : (cz.) hamować; (cz.) łagodzić; (cz.) miarkować; (cz.) mitygować; (cz.) moderować; (cz.) poskramiać; (cz.) powstrzymywać; (cz.) spowalniać; (cz.) uspokajać; (p.) mierny; (p.) oględny; (p.) średni; (p.) umiarkowany; (p.) wstrzemięźliwy
+[moderately]moderately (EN) : (p-sł.) miernie; (p-sł.) nieszczególnie; (p-sł.) spokojnie; (p-sł.) umiarkowanie
+[moderation]moderation (EN) : (rz.) mitygowanie; (rz.) powściąganie; (rz.) spowalnianie; (rz.) umiar
+[moderator]moderator (EN) : (rz.) arbiter; (rz.) moderator; (rz.) spowalniacz
+[modern]modern (EN) : (p.) nowoczesny; (p.) nowożytny; (p.) współczesny
+[modernism]modernism (EN) : (rz.) modernizm
+[modernist]modernist (EN) : (rz.) modernista
+[modernistic]modernistic (EN) : (p.) modernistyczny
+[modernity]modernity (EN) : (rz.) nowoczesność
+[modernization]modernization (EN) : (rz.) modernizacja; (rz.) unowocześnienie
+[modernize]modernize (EN) : (cz.) modernizować; (cz.) zmodernizować
+[modest]modest (EN) : (p.) obyczajny; (p.) przyzwoity; (p.) skromny
+[modestly]modestly (EN) : (p-sł.) skromnie
+[modesty]modesty (EN) : (rz.) skromność; (rz.) wstydliwość
+[modicum]modicum (EN) : (rz.) odrobina
+[modifiable]modifiable (EN) : (p.) modyfikowalny; (p.) tymczasowy; (p.) zmienny
+[modification]modification (EN) : (rz.) modyfikacja; (rz.) przekształcenie; (rz.) złagodzenie; (rz.) zmiana
+[modifier]modifier (EN) : (rz.) modyfikator
+[modify]modify (EN) : (cz.) modyfikować; (cz.) usprawniać; (cz.) usprawnić; (cz.) zmieniać; (cz.) zmodyfikować
+[modish]modish (EN) : (p.) modny
+[modular]modular (EN) : (p.) modularny; (p.) modułowy
+[modularity]modularity (EN) : (p.) modułowy; (rz.) modularność; (rz.) modułowość
+[modularization]modularization (EN) : (rz.) modularyzacja
+[modulate]modulate (EN) : (cz.) modulować; (cz.) regulować
+[modulation]modulation (EN) : (rz.) modulacja; (rz.) regulowanie
+[modulation-demodulation]modulation-demodulation (EN) : (rz.) modulacja-demodulacja
+[modulator]modulator (EN) : (rz.) modulator
+[modulator-demodulator]modulator-demodulator (EN) : (rz.) modem
+[module]module (EN) : (rz.) człon; (rz.) moduł; (rz.) wzorzec
+[modulo]modulo (EN) : (rz.) modulo
+[modulus]modulus (EN) : (rz.) moduł; (rz.) zespół
+[mogul]mogul (EN) : (rz.) magnat; (rz.) mulda
+[mohair]mohair (EN) : (rz.) moher
+[moiety]moiety (EN) : (rz.) cząstka; (rz.) połowa
+[moist]moist (EN) : (p.) lepki; (p.) mokry; (p.) wilgotny
+[moisten]moisten (EN) : (cz.) nawilżyć; (cz.) odwilżyć; (cz.) rozmoczyć; (cz.) skrapiać; (cz.) wilgotnieć; (cz.) wilżyć; (cz.) zaparować; (cz.) zwilgotnieć; (cz.) zwilżać; (cz.) zwilżyć
+[moistly]moistly (EN) : (p-sł.) wilgotno
+[moisture]moisture (EN) : (rz.) wilgoć
+[moisturize]moisturize (EN) : (cz.) nawilżać
+[moisturizer]moisturizer (EN) : (rz.) nawilżacz
+[mol]mol (EN) : (rz.) gramocząsteczka
+[molar]molar (EN) : (p.) masywny; (p.) molarny; (p.) molowy; (p.) trzonowy
+[molasses]molasses (EN) : (rz.) melasa
+[mole]mole (EN) : (rz.) grobla; (rz.) kret; (rz.) kręt; (rz.) mol; (rz.) molo; (rz.) pieprzyk; (rz.) wtyczka; (rz.) zaśniad
+[mole-hill]mole-hill (EN) : (rz.) kretowisko
+[molecular]molecular (EN) : (p.) cząsteczkowy; (p.) molekularny
+[molecule]molecule (EN) : (rz.) cząsteczka; (rz.) drobina; (rz.) molekuła
+[molehill]molehill (EN) : (rz.) kretowisko
+[molehills]molehills (EN) : (rz.) kretowisko
+[molest]molest (EN) : (cz.) dokuczać; (cz.) molestować; (cz.) nękać; (cz.) trapić; (cz.) uprzykrzać
+[molester]molester (EN) : (rz.) dręczyciel
+[moll]moll (EN) : (rz.) dziwka; (rz.) prostytutka
+[mollification]mollification (EN) : (rz.) zmiękczenie
+[mollify]mollify (EN) : (cz.) koić; (cz.) łagodzić; (cz.) miękczyć; (cz.) mięknąć; (cz.) złagodzić; (cz.) zmiękczać
+[mollusc]mollusc (EN) : (rz.) mięczak
+[mollycoddle]mollycoddle (EN) : (cz.) rozpieszczać; (rz.) maminsynek
+[molten]molten (EN) : (p.) lity; (p.) roztopiony; (p.) stopiony
+[molybdenum]molybdenum (EN) : (rz.) molibden
+[mom]mom (EN) : (rz.) mama; (rz.) mamienie; (rz.) mamusia
+[moment]moment (EN) : (rz.) chwila; (rz.) chwilka; (rz.) moment; (rz.) motyw; (rz.) powód; (rz.) waga; (rz.) znaczenie
+[momentarily]momentarily (EN) : (p-sł.) chwilowo
+[momentary]momentary (EN) : (p.) chwilowy
+[momentous]momentous (EN) : (p.) brzemienny; (p.) doniosły; (p.) ważny
+[momentously]momentously (EN) : (p-sł.) doniośle
+[momentum]momentum (EN) : (rz.) impet; (rz.) pęd; (rz.) rozmach; (rz.) rozpęd; (rz.) tempo
+[mommy]mommy (EN) : (rz.) mamusia
+[monad]monad (EN) : (rz.) monada; (rz.) pierwiastek
+[monarch]monarch (EN) : (rz.) monarcha
+[monarchic]monarchic (EN) : (p.) monarchiczny; (p.) monarchistyczny
+[monarchical]monarchical (EN) : (p.) monarchiczny; (p.) monarchistyczny
+[monarchism]monarchism (EN) : (rz.) monarchizm
+[monarchist]monarchist (EN) : (rz.) monarchista
+[monarchy]monarchy (EN) : (rz.) monarchia
+[monastery]monastery (EN) : (rz.) klasztor; (rz.) konwent; (rz.) monastyr
+[monastic]monastic (EN) : (p.) klasztorny; (p.) mnisi; (p.) zakonny
+[monasticism]monasticism (EN) : (rz.) monastycyzm
+[monazite]monazite (EN) : (rz.) monacyt
+[monetarism]monetarism (EN) : (rz.) monetaryzm
+[monetary]monetary (EN) : (p.) monetarny; (p.) pieniężny; (p.) walutowy
+[money]money (EN) : (rz.) forsa; (rz.) gotówka; (rz.) pieniądz; (rz.) pieniądze; (rz.) pieniążek; (rz.) pranie; (rz.) waluta
+[money-bag]money-bag (EN) : (rz.) kabza; (rz.) majątek; (rz.) mieszek; (rz.) sakiewka
+[money-belt]money-belt (EN) : (rz.) trzos
+[money-box]money-box (EN) : (rz.) skarbonka
+[money-grubber]money-grubber (EN) : (rz.) ciułacz; (rz.) kutwa; (rz.) skąpiec
+[money-lender]money-lender (EN) : (rz.) lichwiarz
+[moneybag]moneybag (EN) : (rz.) majątek; (rz.) sakiewka
+[moneybox]moneybox (EN) : (rz.) skarbonka
+[moneyed]moneyed (EN) : (p.) bogaty; (p.) forsiasty; (p.) majętny
+[moneygrubber]moneygrubber (EN) : (rz.) ciułacz; (rz.) kutwa; (rz.) skąpiec
+[moneylender]moneylender (EN) : (rz.) kredytodawca; (rz.) lichwiarz; (rz.) pożyczkodawca
+[moneymaking]moneymaking (EN) : (p.) dochodowy
+[monger]monger (EN) : (rz.) handlarz
+[mongolism]mongolism (EN) : (rz.) mongolizm
+[mongoose]mongoose (EN) : (rz.) mangusta
+[mongrel]mongrel (EN) : (rz.) kundel; (rz.) mieszaniec; (rz.) pokurcz
+[mongrels]mongrels (EN) : (rz.) kundle
+[moniker]moniker (EN) : (rz.) ksywka; (rz.) przezwisko; (rz.) przydomek; (rz.) pseudonim
+[monism]monism (EN) : (rz.) monizm
+[monist]monist (EN) : (rz.) monista
+[monition]monition (EN) : (rz.) ostrzeżenie; (rz.) wezwanie
+[monitor]monitor (EN) : (cz.) kontrolować; (cz.) monitorować; (cz.) nasłuchiwać; (cz.) śledzić; (rz.) monitor
+[monitoring]monitoring (EN) : (rz.) kontrola; (rz.) monitorowanie; (rz.) nadzorowanie
+[monitory]monitory (EN) : (p.) ostrzegawczy
+[monk]monk (EN) : (rz.) mnich; (rz.) zakonnik
+[monkey]monkey (EN) : (cz.) małpować; (rz.) małpa; (rz.) małpiszon; (rz.) szachrajstwo
+[monkish]monkish (EN) : (p.) mnisi; (p.) mniszy
+[mono]mono (EN) : (p.) monofoniczny; (p.) pojedynczy
+[monobasic]monobasic (EN) : (p.) jednozasadowy
+[monochromatic]monochromatic (EN) : (p.) monochromatyczny
+[monochrome]monochrome (EN) : (p.) monochromatyczny; (rz.) monochromia
+[monocle]monocle (EN) : (rz.) monokl
+[monocline]monocline (EN) : (rz.) monoklina
+[monocot]monocot (EN) : (rz.) monocyt
+[monoculture]monoculture (EN) : (rz.) monokultura
+[monodrama]monodrama (EN) : (rz.) monodram
+[monody]monody (EN) : (rz.) monodia
+[monogamist]monogamist (EN) : (rz.) monogamista
+[monogamous]monogamous (EN) : (p.) monogamiczny
+[monogamy]monogamy (EN) : (rz.) jednożeństwo; (rz.) monogamia
+[monograph]monograph (EN) : (rz.) monografia
+[monographer]monographer (EN) : (rz.) monografista
+[monographic]monographic (EN) : (p.) monograficzny
+[monohydrate]monohydrate (EN) : (rz.) monohydrat
+[monolith]monolith (EN) : (rz.) monolit
+[monolithic]monolithic (EN) : (p.) monolitowy; (p.) monolityczny
+[monologue]monologue (EN) : (rz.) monolog
+[monomania]monomania (EN) : (rz.) monomania
+[monomer]monomer (EN) : (rz.) monomer
+[monometallic]monometallic (EN) : (p.) jednometaliczny
+[monomial]monomial (EN) : (rz.) jednomian
+[monomolecular]monomolecular (EN) : (p.) jednocząsteczkowy; (p.) monomolekularny
+[monophonic]monophonic (EN) : (p.) monofoniczny
+[monophony]monophony (EN) : (rz.) monofonia
+[monoplane]monoplane (EN) : (rz.) jednopłat; (rz.) jednopłatowiec; (rz.) monoplan
+[monopolist]monopolist (EN) : (rz.) monopolista
+[monopolistic]monopolistic (EN) : (p.) monopolistyczny; (p.) monopolowy
+[monopolization]monopolization (EN) : (rz.) monopolizacja
+[monopolize]monopolize (EN) : (cz.) monopolizować; (cz.) zmonopolizować
+[monopolizing]monopolizing (EN) : (rz.) monopolizowanie
+[monopoly]monopoly (EN) : (rz.) monopol; (rz.) monopolista
+[monopropellant]monopropellant (EN) : (rz.) monergol
+[monorail]monorail (EN) : (rz.) kolej
+[monosyllabic]monosyllabic (EN) : (p.) monosylabiczny
+[monosyllable]monosyllable (EN) : (rz.) monosylaba
+[monotheism]monotheism (EN) : (rz.) monoteizm
+[monotheist]monotheist (EN) : (rz.) monoteista
+[monotheistic]monotheistic (EN) : (p.) monoteistyczny
+[monotone]monotone (EN) : (p.) monotoniczny; (rz.) monotonia
+[monotonic]monotonic (EN) : (p.) monotoniczny
+[monotonically]monotonically (EN) : (p-sł.) monotonicznie
+[monotonous]monotonous (EN) : (p.) monotonny
+[monotonously]monotonously (EN) : (p-sł.) jednostajnie; (p-sł.) monotonnie
+[monotony]monotony (EN) : (rz.) jednostajność; (rz.) monotonia; (rz.) monotonność; (rz.) nuda
+[monotype]monotype (EN) : (rz.) monotyp
+[monoxide]monoxide (EN) : (rz.) tlenek
+[monsoon]monsoon (EN) : (rz.) monsun
+[monster]monster (EN) : (rz.) dziwoląg; (rz.) dziwotwór; (rz.) maszkara; (rz.) monstrum; (rz.) poczwara; (rz.) pokraka; (rz.) potwór; (rz.) szkarada
+[monstrance]monstrance (EN) : (rz.) monstrancja
+[monstrosity]monstrosity (EN) : (rz.) monstrualność; (rz.) ohyda; (rz.) potworność; (rz.) straszliwość
+[monstrous]monstrous (EN) : (p.) monstrualny; (p.) ogromny; (p.) potworny
+[monstrously]monstrously (EN) : (p-sł.) potwornie
+[montage]montage (EN) : (rz.) montaż
+[month]month (EN) : (rz.) miesiąc
+[monthly]monthly (EN) : (p.) comiesięczny; (p.) miesięczny; (p-sł.) miesięcznie
+[monticule]monticule (EN) : (rz.) wzgórek
+[monument]monument (EN) : (rz.) pomnik; (rz.) zabytek
+[monumental]monumental (EN) : (p.) monumentalny; (p.) pomnikowy; (p.) straszny
+[monumentality]monumentality (EN) : (p.) monumentalny
+[monumentally]monumentally (EN) : (p-sł.) monstrualnie; (p-sł.) monumentalnie
+[moo]moo (EN) : (cz.) muczeć; (cz.) poryczeć; (cz.) porykiwać; (cz.) ryczeć; (rz.) muczenie; (rz.) ryk
+[mooch]mooch (EN) : (cz.) łazić; (cz.) sępić; (cz.) snuć; (cz.) wałęsać
+[mood]mood (EN) : (rz.) atmosfera; (rz.) humor; (rz.) nastrój; (rz.) nastrojenie; (rz.) samopoczucie; (rz.) tryb; (rz.) usposobienie
+[moodier]moodier (EN) : (p.) młodzieżowy
+[moodily]moodily (EN) : (p-sł.) markotnie
+[moodiness]moodiness (EN) : (rz.) nastrojowość
+[moody]moody (EN) : (p.) humorzasty; (p.) kapryśny; (p.) markotny; (p.) nastrojowy
+[moon]moon (EN) : (rz.) księżyc
+[moonless]moonless (EN) : (p.) bezksiężycowy
+[moonlighting]moonlighting (EN) : (rz.) chałtura
+[moonlit]moonlit (EN) : (p.) księżycowy
+[moonshine]moonshine (EN) : (rz.) bimber; (rz.) rojenie; (rz.) samogon
+[moony]moony (EN) : (p.) księżycowy
+[moor]moor (EN) : (cz.) cumować; (cz.) umocowywać; (cz.) zacumować; (rz.) bagno; (rz.) trzęsawisko; (rz.) wrzosowisko
+[moorage]moorage (EN) : (rz.) cumowanie; (rz.) cumowisko
+[moorings]moorings (EN) : (rz.) cumy
+[moose]moose (EN) : (rz.) łoś
+[moot]moot (EN) : (cz.) naradzać; (cz.) poruszać; (cz.) przeprowadzać; (cz.) rozważać; (rz.) narada; (rz.) rada
+[mop]mop (EN) : (rz.) czupryna; (rz.) fryzura; (rz.) grymas; (rz.) kłak; (rz.) miotła; (rz.) ścierka; (rz.) szmata; (rz.) szopa; (rz.) włosy; (rz.) zmywak
+[mope]mope (EN) : (rz.) śledziennik
+[moped]moped (EN) : (rz.) moped; (rz.) motorower
+[moraine]moraine (EN) : (rz.) morena
+[moral]moral (EN) : (p.) moralny; (p.) obyczajny; (p.) obyczajowy; (rz.) morał; (rz.) moralność
+[morale]morale (EN) : (rz.) duch; (rz.) nastrój
+[moralist]moralist (EN) : (rz.) moralista
+[morality]morality (EN) : (rz.) moralitet; (rz.) moralizatorstwo; (rz.) moralność
+[moralization]moralization (EN) : (rz.) moralizacja
+[moralize]moralize (EN) : (cz.) moralizować; (cz.) umoralniać
+[moralizer]moralizer (EN) : (rz.) moralizator
+[morally]morally (EN) : (p-sł.) moralnie
+[morass]morass (EN) : (rz.) bagno; (rz.) bajoro; (rz.) trzęsawisko
+[moratorium]moratorium (EN) : (rz.) odroczenie; (rz.) zawieszenie
+[morbid]morbid (EN) : (p.) chorobliwy
+[morbidity]morbidity (EN) : (rz.) chorobliwość; (rz.) chorobowość; (rz.) zachorowalność
+[morbidly]morbidly (EN) : (p-sł.) chorobliwie
+[mordancy]mordancy (EN) : (rz.) zjadliwość
+[morel]morel (EN) : (rz.) smardz
+[moreover]moreover (EN) : (p-sł.) nadto; (p-sł.) zresztą
+[morganatic]morganatic (EN) : (p.) morganatyczny
+[morgue]morgue (EN) : (rz.) kostnica; (rz.) mórg; (rz.) trupiarnia
+[morn]morn (EN) : (rz.) poranek; (rz.) ranek; (rz.) rano
+[morning]morning (EN) : (rz.) poranek; (rz.) przedpołudnie; (rz.) rana; (rz.) ranek; (rz.) rano
+[morocco]morocco (EN) : (rz.) safian
+[moron]moron (EN) : (rz.) bałwan; (rz.) cymbał; (rz.) debil; (rz.) głupek; (rz.) głupiec; (rz.) kretyn; (rz.) tępak; (rz.) tłuk
+[moronic]moronic (EN) : (p.) debilny; (p.) głupkowaty; (p.) kretyński
+[morose]morose (EN) : (p.) gderliwy; (p.) ponury; (p.) posępny
+[morpheme]morpheme (EN) : (rz.) morfem
+[morphine]morphine (EN) : (rz.) morfina
+[morphogenesis]morphogenesis (EN) : (rz.) morfogeneza
+[morphologic]morphologic (EN) : (p.) morfologiczny
+[morphological]morphological (EN) : (p.) morfologiczny
+[morphologist]morphologist (EN) : (rz.) morfolog
+[morphology]morphology (EN) : (rz.) morfologia
+[morrow]morrow (EN) : (rz.) jutro; (rz.) poranek
+[morsel]morsel (EN) : (rz.) kąsek; (rz.) kawałek; (rz.) kęs; (rz.) smakołyk
+[mortal]mortal (EN) : (p.) śmiertelny; (p.) straszliwy; (rz.) śmiertelnik
+[mortality]mortality (EN) : (rz.) psucie; (rz.) śmiertelność; (rz.) umieralność
+[mortally]mortally (EN) : (p-sł.) śmiertelnie
+[mortar]mortar (EN) : (cz.) murować; (rz.) moździerz; (rz.) zaprawa
+[mortar-board]mortar-board (EN) : (rz.) ciapka
+[mortarboard]mortarboard (EN) : (rz.) ciapka
+[mortgage]mortgage (EN) : (cz.) zahipotekować; (cz.) zastawiać; (cz.) zastawić; (rz.) hipoteka
+[mortgagee]mortgagee (EN) : (rz.) hipoteka
+[mortician]mortician (EN) : (rz.) grabarz
+[mortification]mortification (EN) : (rz.) umartwianie; (rz.) umartwienie
+[mortify]mortify (EN) : (cz.) dręczyć; (cz.) umartwiać; (cz.) upokarzać; (cz.) zamierać; (cz.) zamrzeć
+[mortise]mortise (EN) : (rz.) wpust
+[mortuary]mortuary (EN) : (p.) przedpogrzebowy; (rz.) kostnica; (rz.) trupiarnia
+[mosaic]mosaic (EN) : (p.) mojżeszowy; (p.) mozaikowy; (rz.) mozaika
+[mosque]mosque (EN) : (rz.) męczenie; (rz.) meczet
+[mosquito]mosquito (EN) : (rz.) komar; (rz.) moskit
+[mosquito-net]mosquito-net (EN) : (rz.) moskitiera
+[moss]moss (EN) : (rz.) mech; (rz.) torfowisko
+[mossy]mossy (EN) : (p.) mszysty
+[mostly]mostly (EN) : (p-sł.) głównie; (p-sł.) przeważnie
+[mote]mote (EN) : (rz.) pyłek
+[motel]motel (EN) : (rz.) motel; (rz.) motela; (rz.) motet; (rz.) zajazd
+[moth]moth (EN) : (rz.) ćma; (rz.) mól
+[mothball]mothball (EN) : (rz.) kokon
+[mother]mother (EN) : (rz.) mać; (rz.) macierz; (rz.) matka; (rz.) rodzicielka; (rz.) teściowa
+[mother-in-law]mother-in-law (EN) : (rz.) świekr; (rz.) teściowa
+[motherfucker]motherfucker (EN) : (rz.) skurczybyk
+[motherhood]motherhood (EN) : (rz.) macierzyństwo
+[mothering]mothering (EN) : (rz.) matkowanie
+[motherland]motherland (EN) : (rz.) macierz; (rz.) ojczyzna
+[motherly]motherly (EN) : (p.) macierzyński; (p.) matczyny
+[motherwort]motherwort (EN) : (rz.) bylica
+[mothproof]mothproof (EN) : (p.) moloodporny
+[motif]motif (EN) : (rz.) motyw
+[motile]motile (EN) : (p.) ruchliwy
+[motility]motility (EN) : (rz.) ruchliwość; (rz.) ruchomość
+[motion]motion (EN) : (rz.) chód; (rz.) inicjatywa; (rz.) kiwnięcie; (rz.) poruszanie; (rz.) poruszenie; (rz.) propozycja; (rz.) ruch; (rz.) wniosek
+[motionless]motionless (EN) : (p.) nieruchliwy; (p.) nieruchomy
+[motionlessly]motionlessly (EN) : (p-sł.) nieruchomo
+[motionlessness]motionlessness (EN) : (rz.) bezruch
+[motivate]motivate (EN) : (cz.) motywować; (cz.) pobudzać; (cz.) zmotywować
+[motivation]motivation (EN) : (rz.) motywacja; (rz.) motywowanie
+[motivational]motivational (EN) : (p.) motywacyjny
+[motive]motive (EN) : (rz.) motyw; (rz.) motywacja; (rz.) pobudka; (rz.) podnieta
+[motley]motley (EN) : (p.) kolorowy; (p.) pstrokaty; (p.) pstry
+[motocross]motocross (EN) : (rz.) motocross
+[motor]motor (EN) : (cz.) jechać; (cz.) wieźć; (rz.) motor; (rz.) silnik
+[motor-bicycle]motor-bicycle (EN) : (rz.) motorower
+[motor-bike]motor-bike (EN) : (rz.) motocykl; (rz.) motorower
+[motor-boat]motor-boat (EN) : (p.) motorowodny; (rz.) motorówka
+[motor-car]motor-car (EN) : (rz.) samochód
+[motor-coach]motor-coach (EN) : (rz.) autokar
+[motor-cycle]motor-cycle (EN) : (p.) motocyklowy
+[motorbike]motorbike (EN) : (rz.) motocykl; (rz.) motor; (rz.) motorower
+[motorboat]motorboat (EN) : (rz.) motorówka
+[motorbus]motorbus (EN) : (rz.) autobus
+[motorcar]motorcar (EN) : (rz.) samochód
+[motorcycle]motorcycle (EN) : (rz.) motocykl
+[motorcyclist]motorcyclist (EN) : (rz.) motocyklista
+[motoring]motoring (EN) : (rz.) automobilizm; (rz.) motoryzacja; (rz.) zmotoryzowanie
+[motorised]motorised (EN) : (p.) motorowy; (p.) samochodowy
+[motorist]motorist (EN) : (rz.) automobilista; (rz.) kierowca; (rz.) samochodziarz
+[motorists]motorists (EN) : (rz.) zmotoryzowanie
+[motorization]motorization (EN) : (rz.) motoryzacja; (rz.) samochód
+[motorize]motorize (EN) : (cz.) motoryzować; (cz.) zmotoryzować
+[motorway]motorway (EN) : (rz.) autostrada
+[mottle]mottle (EN) : (cz.) nakrapiać; (cz.) pstrzyć; (rz.) pstrokacizna; (rz.) pstrzenie
+[mottled]mottled (EN) : (p.) cętkowany; (p.) marmurkowy; (p.) nakrapiany
+[motto]motto (EN) : (rz.) dewiza; (rz.) hasło; (rz.) motto
+[mould]mould (EN) : (cz.) kształtować; (cz.) modelować; (cz.) odlewać; (cz.) pleśnieć; (cz.) podlegać; (cz.) ulać; (cz.) umodelować; (cz.) urabiać; (rz.) czarnoziem; (rz.) foremka; (rz.) forma; (rz.) gleba; (rz.) grzyb; (rz.) modła; (rz.) pleśń; (rz.) rdza; (rz.) ziemia
+[mouldboard]mouldboard (EN) : (rz.) odkładnica
+[moulder]moulder (EN) : (cz.) butwieć; (cz.) gnić; (cz.) kruszyć; (cz.) rozpadać
+[moulding]moulding (EN) : (rz.) czerpanie; (rz.) formowanie; (rz.) modelowanie; (rz.) prasowanie; (rz.) profilowanie; (rz.) skruszenie; (rz.) sztukateria
+[mouldy]mouldy (EN) : (p.) spleśniały; (p.) zapleśniały
+[moult]moult (EN) : (cz.) lenieć; (cz.) linieć; (cz.) pierzyć; (cz.) wylenieć; (cz.) wylinieć
+[moulting]moulting (EN) : (rz.) linienie
+[mound]mound (EN) : (rz.) hałda; (rz.) kopczyk; (rz.) kopiec; (rz.) nasyp; (rz.) pagórek
+[mount]mount (EN) : (cz.) dosiadać; (cz.) dosiąść; (cz.) montować; (cz.) osadzać; (cz.) osadzić; (cz.) podnosić; (cz.) przyłączyć; (cz.) sadzać; (cz.) urządzać; (cz.) wsiadać; (cz.) wspiąć; (cz.) wspinać; (cz.) wznosić; (cz.) zamontować; (rz.) góra; (rz.) montowanie; (rz.) obsadka; (rz.) oprawa; (rz.) szczyt; (rz.) zamontowanie; (rz.) zawieszenie
+[mountain]mountain (EN) : (rz.) góra
+[mountain-ash]mountain-ash (EN) : (rz.) jarzębina
+[mountain-climbing]mountain-climbing (EN) : (rz.) alpinistyka; (rz.) taternictwo; (rz.) wspinaczka
+[mountain-foot]mountain-foot (EN) : (p.) podgórski
+[mountaineer]mountaineer (EN) : (rz.) alpinista; (rz.) góral; (rz.) taternik; (rz.) wspinacz
+[mountaineering]mountaineering (EN) : (rz.) alpinistyka; (rz.) taternictwo; (rz.) wspinaczka
+[mountainous]mountainous (EN) : (p.) górski; (p.) górzysty; (p.) śródgórski
+[mountains]mountains (EN) : (rz.) góry
+[mountainside]mountainside (EN) : (rz.) stok
+[mountebank]mountebank (EN) : (cz.) oszukać; (rz.) szarlatan
+[mounted]mounted (EN) : (p.) konny
+[mounting]mounting (EN) : (rz.) dosiadanie; (rz.) montaż; (rz.) montowanie; (rz.) obsada; (rz.) oprawa; (rz.) wspinanie; (rz.) zamocowanie; (rz.) zamocowywanie; (rz.) zawieszanie; (rz.) zawieszenie
+[mourn]mourn (EN) : (cz.) lamentować; (cz.) opłakiwać; (cz.) przeboleć
+[mourner]mourner (EN) : (rz.) żałobnik
+[mournful]mournful (EN) : (p.) bolesny; (p.) ponury; (p.) poważny; (p.) smutny; (p.) żałobny
+[mourning]mourning (EN) : (rz.) lamentowanie; (rz.) żałoba
+[mouse]mouse (EN) : (rz.) mysz; (rz.) myszka
+[mousetrap]mousetrap (EN) : (rz.) pułapka
+[mousse]mousse (EN) : (rz.) mus; (rz.) pianka
+[moustache]moustache (EN) : (rz.) wąs; (rz.) wąsy
+[mousy]mousy (EN) : (p.) mysi
+[mouth]mouth (EN) : (rz.) buzia; (rz.) dziobek; (rz.) dzióbek; (rz.) japa; (rz.) organki; (rz.) paszcza; (rz.) pysk; (rz.) ujście; (rz.) usta; (rz.) wyjście; (rz.) wylot
+[mouth-organ]mouth-organ (EN) : (rz.) harmonijka
+[mouth-watering]mouth-watering (EN) : (p.) apetyczny; (p.) smaczny
+[mouthful]mouthful (EN) : (rz.) kęs; (rz.) łyk
+[mouthorgan]mouthorgan (EN) : (rz.) harmonijka
+[mouthpiece]mouthpiece (EN) : (rz.) cygarniczka; (rz.) kiełzno; (rz.) rzecznik; (rz.) ustnik; (rz.) wyraziciel
+[mouths]mouths (EN) : (rz.) pyskowanie; (rz.) usta
+[mouthy]mouthy (EN) : (p.) pyskaty
+[mouton]mouton (EN) : (rz.) baran; (rz.) baranina
+[movable]movable (EN) : (p.) ruchomy
+[movables]movables (EN) : (rz.) ruchomości
+[movably]movably (EN) : (p-sł.) ruchomo
+[move]move (EN) : (cz.) nadążać; (cz.) odchylić; (cz.) odsuwać; (cz.) podążać; (cz.) poruszać; (cz.) poruszyć; (cz.) posuwać; (cz.) przemieść; (cz.) przemieścić; (cz.) przemieszczać; (cz.) przenieść; (cz.) przenosić; (cz.) przeprowadzać; (cz.) przeprowadzić; (cz.) przesunąć; (cz.) przesuwać; (cz.) przetoczyć; (cz.) rozczulać; (cz.) ruszać; (cz.) ruszyć; (cz.) wyprowadzać; (cz.) wyprowadzić; (cz.) wzruszać; (cz.) wzruszyć; (rz.) poruszanie; (rz.) posunięcie; (rz.) przenosiny; (rz.) przenoszenie; (rz.) przeprowadzka; (rz.) przesuń; (rz.) przesuwanie; (rz.) ruch; (rz.) zagranie
+[moveable]moveable (EN) : (p.) przestawny; (p.) ruchomy
+[movement]movement (EN) : (rz.) fraza; (rz.) gest; (rz.) poruszanie; (rz.) poruszenie; (rz.) posunięcie; (rz.) przemieszczanie; (rz.) przemieszczenie; (rz.) przewóz; (rz.) ruch; (rz.) tendencja; (rz.) urywek; (rz.) wypróżnienie
+[mover]mover (EN) : (rz.) napęd; (rz.) wnioskodawca
+[movie]movie (EN) : (rz.) film
+[moviegoer]moviegoer (EN) : (rz.) kinoman
+[movies]movies (EN) : (rz.) kino
+[moving]moving (EN) : (p.) ruchomy; (p.) rzewny; (p.) wzruszający
+[mow]mow (EN) : (cz.) kosić; (cz.) skosić; (cz.) wykosić; (cz.) zżąć
+[mow-burned]mow-burned (EN) : (rz.) zbożu
+[mower]mower (EN) : (rz.) kosiarka; (rz.) kosiarz
+[mowing]mowing (EN) : (rz.) koszenie; (rz.) skoszenie
+[moxie]moxie (EN) : (rz.) krzepa; (rz.) kuraż
+[mucilage]mucilage (EN) : (rz.) śluz
+[muck]muck (EN) : (rz.) błoto; (rz.) brud; (rz.) gnój; (rz.) lichota; (rz.) mierzwa; (rz.) nawóz; (rz.) paskudztwo
+[muckworm]muckworm (EN) : (rz.) brudas; (rz.) glista; (rz.) skąpiec
+[mucous]mucous (EN) : (p.) śluzowy
+[mucus]mucus (EN) : (rz.) śluz
+[mud]mud (EN) : (rz.) błoto; (rz.) borowina; (rz.) muł; (rz.) nanos
+[mud-guard]mud-guard (EN) : (rz.) błotnik
+[mud-slinging]mud-slinging (EN) : (rz.) szkalowanie
+[muddle]muddle (EN) : (cz.) bełtać; (cz.) brnąć; (cz.) mącić; (cz.) mieszać; (cz.) pomieszać; (cz.) poplątać; (cz.) walać; (cz.) wikłać; (rz.) bałagan; (rz.) mętlik; (rz.) zamęt; (rz.) zamieszanie
+[muddle-headed]muddle-headed (EN) : (p.) głupi
+[muddy]muddy (EN) : (p.) błotnisty; (p.) ciemny; (p.) mętny; (p.) mulisty
+[muddying]muddying (EN) : (rz.) ubrudzenie
+[mudguard]mudguard (EN) : (rz.) błotnik
+[mudslinging]mudslinging (EN) : (rz.) oczernianie; (rz.) szkalowanie
+[mudstone]mudstone (EN) : (rz.) iłołupek; (rz.) iłowiec
+[muezzin]muezzin (EN) : (rz.) muezin
+[muff]muff (EN) : (cz.) fuszerować; (cz.) partaczyć; (rz.) fuszer; (rz.) fuszerka; (rz.) łamaga; (rz.) meszek; (rz.) mufa; (rz.) mufka; (rz.) niezdara; (rz.) oferma; (rz.) osłona; (rz.) patałach; (rz.) pokrowiec; (rz.) szczota; (rz.) tuleja; (rz.) tulejka; (rz.) zarękawek
+[muffle]muffle (EN) : (cz.) opatulać; (cz.) otulać; (cz.) otulić; (cz.) owijać; (cz.) owinąć; (cz.) tłumić; (cz.) wyciszać; (rz.) mufla; (rz.) pysk
+[muffled]muffled (EN) : (p.) przytłumiony; (p.) stłumiony
+[muffler]muffler (EN) : (rz.) szal; (rz.) szalik; (rz.) tłumik
+[mug]mug (EN) : (cz.) obrabowywać; (rz.) dzban; (rz.) facjata; (rz.) gęba; (rz.) kubek; (rz.) kufel; (rz.) pysk; (rz.) ryj; (rz.) twarz
+[mugger]mugger (EN) : (rz.) bandyta
+[mugging]mugging (EN) : (rz.) napad; (rz.) rabunek; (rz.) rozbój
+[muggy]muggy (EN) : (p.) duszny; (p.) parny
+[mulberries]mulberries (EN) : (rz.) morwa
+[mulberry]mulberry (EN) : (rz.) morwa
+[mulch]mulch (EN) : (rz.) chochoł; (rz.) mierzwa; (rz.) ściółka
+[mulct]mulct (EN) : (rz.) grzywna
+[mule]mule (EN) : (rz.) muł; (rz.) selfaktor; (rz.) uparciuch
+[mulish]mulish (EN) : (p.) mułowy
+[mull]mull (EN) : (rz.) galimatias; (rz.) gaza; (rz.) muślin
+[mullah]mullah (EN) : (rz.) mułła
+[mullein]mullein (EN) : (rz.) dziewanna
+[mullet]mullet (EN) : (rz.) barwena; (rz.) cefal; (rz.) kiełb
+[mulligan]mulligan (EN) : (rz.) bigos
+[multi]multi (EN) : (p.) kilkuletni; (p.) wielobranżowy; (p.) wieloetapowy; (p.) wielofunkcyjny; (p.) wielokanałowy; (p.) wielokolorowy; (p.) wielokwiatowy; (p.) wieloletni; (p.) wieloosobowy; (p.) wielopoziomowy; (p.) wielopunktowy; (p.) wielosilnikowy; (p.) wielostronicowy; (p.) wielowarstwowy; (rz.) wielofunkcyjność; (rz.) wielozadaniowość
+[multi-access]multi-access (EN) : (p.) wielodostępny; (rz.) wielodostęp
+[multi-ethnic]multi-ethnic (EN) : (p.) wieloetniczny
+[multi-level]multi-level (EN) : (p.) wielopoziomowy
+[multi-media]multi-media (EN) : (p.) multimedialny
+[multi-part]multi-part (EN) : (p.) wieloczęściowy
+[multi-ply]multi-ply (EN) : (p.) wielowarstwowy
+[multi-purpose]multi-purpose (EN) : (p.) wielozadaniowy
+[multi-role]multi-role (EN) : (p.) wielozadaniowy
+[multi-threaded]multi-threaded (EN) : (p.) wielowątkowy
+[multi-unit]multi-unit (EN) : (p.) wielopiętrowy
+[multicolour]multicolour (EN) : (rz.) wielobarwność
+[multicoloured]multicoloured (EN) : (p.) wielobarwny; (p.) wielokolorowy
+[multicultural]multicultural (EN) : (p.) wielokulturowy
+[multiculturalism]multiculturalism (EN) : (rz.) wielokulturowość
+[multidimensional]multidimensional (EN) : (p.) wielowymiarowy
+[multidirectional]multidirectional (EN) : (p.) różnokierunkowy; (p.) wielokierunkowy
+[multidisciplinary]multidisciplinary (EN) : (p.) wielokierunkowy
+[multiethnic]multiethnic (EN) : (p.) wieloetniczny
+[multifaceted]multifaceted (EN) : (p.) wielopłaszczyznowy
+[multifarious]multifarious (EN) : (p.) różnorodny; (p.) wieloplanowy; (p.) wieloraki
+[multiform]multiform (EN) : (p.) wielokształtny; (p.) wielopostaciowy
+[multifunctional]multifunctional (EN) : (p.) wielofunkcyjny
+[multilateral]multilateral (EN) : (p.) wieloboczny; (p.) wielostronny
+[multilateralism]multilateralism (EN) : (rz.) wielostronność
+[multilaterally]multilaterally (EN) : (p-sł.) wielostronnie
+[multilayer]multilayer (EN) : (p.) wielowarstwowy; (rz.) wielowarstwowość
+[multilayered]multilayered (EN) : (p.) wielowarstwowy
+[multilevel]multilevel (EN) : (p.) wielopoziomowy
+[multilingual]multilingual (EN) : (p.) wielojęzyczny
+[multilingualism]multilingualism (EN) : (rz.) wielojęzyczność
+[multimedia]multimedia (EN) : (rz.) multimedia
+[multimillionaire]multimillionaire (EN) : (rz.) miliarder; (rz.) multimilioner
+[multinational]multinational (EN) : (p.) wielonarodowościowy; (p.) wielonarodowy
+[multipart]multipart (EN) : (p.) wieloczęściowy
+[multipartite]multipartite (EN) : (p.) wielodzielny
+[multiparty]multiparty (EN) : (p.) wielopartyjny
+[multiphase]multiphase (EN) : (p.) wielofazowy
+[multiple]multiple (EN) : (p.) kilkakrotny; (p.) wielokrotny; (p.) wieloprocesorowy; (p.) wieloraki; (p.) wielotorowy
+[multiple-valued]multiple-valued (EN) : (p.) wielowartościowy
+[multiplex]multiplex (EN) : (p.) wielokrotny; (p.) wieloraki
+[multiplexer]multiplexer (EN) : (rz.) multiplekser; (rz.) selektor
+[multiplexing]multiplexing (EN) : (rz.) multipleksowanie; (rz.) zwielokrotnianie; (rz.) zwielokrotnienie
+[multiplicand]multiplicand (EN) : (rz.) mnożna
+[multiplication]multiplication (EN) : (rz.) mnożenie; (rz.) multiplikacja; (rz.) powielanie; (rz.) rozmnażanie
+[multiplicative]multiplicative (EN) : (p.) mnożny
+[multiplicity]multiplicity (EN) : (rz.) krotność; (rz.) liczność; (rz.) mnogość; (rz.) różnorodność; (rz.) wielość
+[multiplier]multiplier (EN) : (rz.) mnożnik; (rz.) multiplikator; (rz.) multyplikator; (rz.) powielacz; (rz.) wielokrotność
+[multiply]multiply (EN) : (cz.) mnożyć; (cz.) pienić; (cz.) pomnażać; (cz.) pomnożyć; (cz.) przemnożyć; (cz.) przyrastać; (cz.) rozmnażać; (cz.) rozradzać; (cz.) uwielokrotniać; (cz.) zwielokrotniać; (cz.) zwielokrotnić
+[multipoint]multipoint (EN) : (p.) wielopunktowy
+[multiprocessing]multiprocessing (EN) : (rz.) wieloprocesowość; (rz.) wieloprzetwarzanie
+[multiprogramming]multiprogramming (EN) : (rz.) wieloprogramowanie; (rz.) wieloprogramowość
+[multipurpose]multipurpose (EN) : (p.) uniwersalny; (p.) wielozadaniowy; (p.) wszechstronny
+[multiracial]multiracial (EN) : (p.) wielorasowy
+[multisided]multisided (EN) : (p.) wielostronny
+[multistage]multistage (EN) : (p.) wieloetapowy; (p.) wielostopniowy
+[multitasking]multitasking (EN) : (p.) wielozadaniowy; (rz.) wielozadaniowość
+[multithreaded]multithreaded (EN) : (p.) wielotorowy; (p.) wielowątkowy
+[multithreading]multithreading (EN) : (rz.) wielotorowość; (rz.) wielowątkowość
+[multitude]multitude (EN) : (rz.) bezlik; (rz.) hurma; (rz.) mnogość; (rz.) mnóstwo; (rz.) rzesza; (rz.) tłum
+[multivitamin]multivitamin (EN) : (rz.) multiwitamina
+[multivitamins]multivitamins (EN) : (rz.) multiwitamina
+[multivolume]multivolume (EN) : (p.) wielotomowy
+[mum]mum (EN) : (p.) cichy; (p.) niemy; (rz.) mama; (rz.) mamunia; (rz.) mamusia
+[mumble]mumble (EN) : (cz.) bąkać; (cz.) bełkotać; (cz.) mamlać; (cz.) mamrotać; (cz.) mruczeć; (cz.) pomruczeć; (cz.) wymamlać; (cz.) zamamrotać; (rz.) mamrot; (rz.) mamrotanie
+[mumbling]mumbling (EN) : (rz.) bełkot
+[mumbo-jumbo]mumbo-jumbo (EN) : (rz.) bożyszcze
+[mummer]mummer (EN) : (rz.) mim; (rz.) mimik
+[mummery]mummery (EN) : (rz.) pompa
+[mummification]mummification (EN) : (rz.) mumifikacja; (rz.) mumifikowanie
+[mummify]mummify (EN) : (cz.) mumifikować; (cz.) wysychać; (cz.) zabalsamować; (cz.) zmumifikować
+[mummy]mummy (EN) : (rz.) mamunia; (rz.) mamusia; (rz.) mumia
+[mumps]mumps (EN) : (rz.) dąs; (rz.) świnka
+[munch]munch (EN) : (cz.) chrupać; (cz.) przeżuwać; (cz.) schrupać; (cz.) żuć
+[mundane]mundane (EN) : (p.) doczesny; (p.) przyziemny; (p.) światowy; (p.) ziemski
+[mundanely]mundanely (EN) : (p-sł.) światowo
+[municipal]municipal (EN) : (p.) gminny; (p.) komunalny; (p.) magistracki; (p.) miejski; (p.) municypalny
+[municipality]municipality (EN) : (rz.) gmina; (rz.) magistrat; (rz.) miasto; (rz.) municypalność; (rz.) zarząd
+[munificence]munificence (EN) : (rz.) hojność; (rz.) szczodrość
+[munificent]munificent (EN) : (p.) hojny
+[mural]mural (EN) : (p.) ścienny; (rz.) fresk
+[murder]murder (EN) : (cz.) kaleczyć; (cz.) mordować; (cz.) pomordować; (cz.) zamordować; (rz.) mord; (rz.) morderstwo; (rz.) mordowanie; (rz.) zabójstwo; (rz.) zamordowanie
+[murderer]murderer (EN) : (rz.) morderca; (rz.) zabójca
+[murderess]murderess (EN) : (rz.) morderczyni; (rz.) zabójczyni
+[murderous]murderous (EN) : (p.) morderczy
+[murderously]murderously (EN) : (p-sł.) morderczo
+[murk]murk (EN) : (rz.) mrok
+[murky]murky (EN) : (p.) ciemny; (p.) mroczny
+[murmur]murmur (EN) : (cz.) mruczeć; (cz.) sarkać; (cz.) szemrać; (cz.) szeptać; (cz.) szumieć; (cz.) zaszemrać; (rz.) mruczenie; (rz.) pogwar; (rz.) pomruk; (rz.) szemranie; (rz.) szept; (rz.) szmer
+[murmurs]murmurs (EN) : (rz.) pomrukiwanie
+[murrain]murrain (EN) : (rz.) mór; (rz.) murena
+[muscatel]muscatel (EN) : (rz.) muszkatel
+[muscle]muscle (EN) : (rz.) mięsień; (rz.) muskuł; (rz.) siła
+[muscovite]muscovite (EN) : (rz.) muskowit
+[muscular]muscular (EN) : (p.) mięśniowy; (p.) muskularny
+[muscularity]muscularity (EN) : (rz.) muskularność; (rz.) muskulatura
+[musculature]musculature (EN) : (rz.) muskulatura; (rz.) umięśnienie
+[muse]muse (EN) : (rz.) muza
+[museum]museum (EN) : (rz.) muzealnictwo; (rz.) muzeum
+[mush]mush (EN) : (rz.) breja; (rz.) kleik; (rz.) papka
+[mushroom]mushroom (EN) : (rz.) grzyb; (rz.) grzybek; (rz.) grzybobranie; (rz.) pieczarka
+[mushrooms]mushrooms (EN) : (rz.) grzyby
+[mushy]mushy (EN) : (p.) bzdurny; (p.) gąbczasty
+[music]music (EN) : (rz.) muzyka; (rz.) muzykoterapia
+[musical]musical (EN) : (p.) dźwięczny; (p.) melodyjny; (p.) muzyczny; (p.) muzykalny
+[musicality]musicality (EN) : (rz.) muzykalność
+[musically]musically (EN) : (p-sł.) muzykalnie
+[musicals]musicals (EN) : (rz.) muzyka
+[musician]musician (EN) : (rz.) muzyczka; (rz.) muzyk; (rz.) muzykant
+[musicianship]musicianship (EN) : (rz.) muzykalność
+[musicologist]musicologist (EN) : (rz.) muzykolog
+[musicology]musicology (EN) : (rz.) muzykologia
+[musing]musing (EN) : (rz.) dumanie; (rz.) zaduma; (rz.) zadumanie
+[musk]musk (EN) : (rz.) piżmo
+[musk-deer]musk-deer (EN) : (rz.) piżmowiec
+[musk-rat]musk-rat (EN) : (rz.) piżmak
+[musket]musket (EN) : (rz.) karabin; (rz.) muszkiet
+[musketeer]musketeer (EN) : (rz.) muszkieter
+[muskrat]muskrat (EN) : (rz.) piżmak; (rz.) piżmoszczur
+[musky]musky (EN) : (p.) piżmowy
+[muslin]muslin (EN) : (rz.) muślin
+[muss]muss (EN) : (rz.) bałagan; (rz.) nieład; (rz.) zamęt
+[mussel]mussel (EN) : (rz.) małż; (rz.) omułek
+[mussels]mussels (EN) : (rz.) małże
+[must]must (EN) : (cz.) musieć; (cz.) pleśnieć; (rz.) moszcz; (rz.) pleśń; (rz.) przymus
+[must-have]must-have (EN) : (rz.) niezbędnik
+[mustang]mustang (EN) : (rz.) mustang
+[mustard]mustard (EN) : (p.) gorczyczny; (p.) musztardowy; (rz.) gorczyca; (rz.) musztarda
+[muster]muster (EN) : (cz.) musztrować; (cz.) zbierać; (rz.) apel; (rz.) musztra; (rz.) przegląd; (rz.) zbieranie; (rz.) zbiórka; (rz.) zebranie
+[muster-roll]muster-roll (EN) : (rz.) spis; (rz.) wykaz
+[mustiness]mustiness (EN) : (rz.) spleśniałość; (rz.) stęchlizna
+[musts]musts (EN) : (rz.) moszczenie
+[musty]musty (EN) : (p.) apatyczny; (p.) stęchły; (p.) zapleśniały; (p.) zbutwiały
+[mutability]mutability (EN) : (rz.) zmienność
+[mutable]mutable (EN) : (p.) zmienny
+[mutagen]mutagen (EN) : (rz.) mutagen
+[mutagenesis]mutagenesis (EN) : (rz.) mutageneza
+[mutant]mutant (EN) : (rz.) mutant
+[mutate]mutate (EN) : (cz.) mutować; (cz.) zmutować
+[mutating]mutating (EN) : (rz.) mutowanie
+[mutation]mutation (EN) : (rz.) mutacja
+[mute]mute (EN) : (p.) głupi; (p.) niemy; (rz.) karawaniarz; (rz.) niemowa; (rz.) tłumik; (rz.) wyciszanie
+[muted]muted (EN) : (p.) niemy
+[mutely]mutely (EN) : (p-sł.) niemo
+[muteness]muteness (EN) : (rz.) niemota
+[mutilate]mutilate (EN) : (cz.) kaleczyć; (cz.) okaleczać; (cz.) psuć; (cz.) skaleczyć; (cz.) zniekształcać
+[mutilation]mutilation (EN) : (rz.) okaleczenie; (rz.) okrojenie; (rz.) skaleczenie; (rz.) zniekształcenie
+[mutineer]mutineer (EN) : (rz.) buntownik; (rz.) rebelia
+[muting]muting (EN) : (rz.) przytłumianie; (rz.) wyciszanie
+[mutinous]mutinous (EN) : (p.) buntowniczy; (p.) wichrzycielski
+[mutiny]mutiny (EN) : (cz.) buntować; (rz.) bunt; (rz.) orgia; (rz.) rebelia; (rz.) rewolta
+[mutt]mutt (EN) : (rz.) głupol; (rz.) kundel
+[mutter]mutter (EN) : (cz.) bąkać; (cz.) bełkotać; (cz.) mamrotać; (cz.) mruczeć; (cz.) szemrać; (cz.) wybąkać; (cz.) wybełkotać; (cz.) wymruczeć; (rz.) mamrotanie
+[mutton]mutton (EN) : (p.) barani; (p.) skopowy; (rz.) baranina
+[mutual]mutual (EN) : (p.) obopólny; (p.) obustronny; (p.) wspólny; (p.) wzajemny
+[mutualism]mutualism (EN) : (rz.) mutualizm
+[mutuality]mutuality (EN) : (rz.) obopólność; (rz.) wzajemność
+[mutually]mutually (EN) : (p-sł.) nawzajem; (p-sł.) obopólnie; (p-sł.) wspólnie; (p-sł.) wzajemnie
+[muzzle]muzzle (EN) : (rz.) kaganiec; (rz.) morda; (rz.) pysk
+[myasthenia]myasthenia (EN) : (rz.) miastenia
+[mycelium]mycelium (EN) : (rz.) grzybnia
+[mycological]mycological (EN) : (p.) mikologiczny
+[mycology]mycology (EN) : (rz.) mikologia
+[mycosis]mycosis (EN) : (p.) grzybiczy; (rz.) grzybica
+[myopia]myopia (EN) : (rz.) krótkowzroczność
+[myopic]myopic (EN) : (p.) krótkowzroczny
+[myosin]myosin (EN) : (rz.) miozyna
+[myriad]myriad (EN) : (p.) miriadowy; (p.) niezliczony; (rz.) krocie; (rz.) miriada; (rz.) miriady; (rz.) mrowie
+[myrmidon]myrmidon (EN) : (rz.) siepacz; (rz.) zbir
+[myrrh]myrrh (EN) : (rz.) mira; (rz.) mirra
+[myrtle]myrtle (EN) : (rz.) barwinek; (rz.) mirt
+[mysterious]mysterious (EN) : (p.) tajemniczy; (p.) zagadkowy
+[mysteriously]mysteriously (EN) : (p-sł.) tajemniczo
+[mysteriousness]mysteriousness (EN) : (rz.) tajemniczość
+[mystery]mystery (EN) : (rz.) misterium; (rz.) tajemnica; (rz.) zagadka
+[mystic]mystic (EN) : (p.) mistyczny; (rz.) mistyk; (rz.) mistyka
+[mystical]mystical (EN) : (p.) mistyczny
+[mysticism]mysticism (EN) : (rz.) mistycyzm
+[mystification]mystification (EN) : (rz.) mistyfikacja; (rz.) mistyfikowanie
+[mystify]mystify (EN) : (cz.) mistyfikować; (cz.) zadziwiać; (cz.) zadziwić
+[myth]myth (EN) : (rz.) klechda; (rz.) mit
+[mythic]mythic (EN) : (p.) fikcyjny; (p.) mityczny
+[mythical]mythical (EN) : (p.) fikcyjny; (p.) mityczny
+[mythological]mythological (EN) : (p.) mitologiczny
+[mythology]mythology (EN) : (rz.) mitologia

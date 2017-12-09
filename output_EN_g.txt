@@ -1,0 +1,1155 @@
+[gabriel]Gabriel (EN) : (rz.) Gabriel
+[gabrielle]Gabrielle (EN) : (rz.) Gabriela
+[george]George (EN) : (rz.) Jerzy
+[greek]Greek (EN) : (rz.) greka
+[greeks]Greeks (EN) : (rz.) grek
+[greenpeace]Greenpeace (EN) : (rz.) Greenpeace
+[gregory]Gregory (EN) : (rz.) Grzegorz
+[g-load]g-load (EN) : (rz.) przeciążenie
+[gab]gab (EN) : (cz.) gadać; (cz.) paplać; (cz.) pleść; (rz.) gadanie
+[gabardine]gabardine (EN) : (rz.) gabardyna
+[gabble]gabble (EN) : (cz.) gęgać; (rz.) mamrotanie
+[gabbler]gabbler (EN) : (rz.) gaduła; (rz.) trajkotka
+[gabby]gabby (EN) : (p.) gadatliwy
+[gable]gable (EN) : (rz.) szczyt
+[gabled]gabled (EN) : (p.) szczytowy
+[gad]gad (EN) : (cz.) szwendać; (cz.) wałęsać
+[gadabout]gadabout (EN) : (rz.) latawica; (rz.) łazęga; (rz.) polatucha; (rz.) powsinoga; (rz.) włóczykij
+[gadfly]gadfly (EN) : (rz.) giez
+[gadget]gadget (EN) : (rz.) gadżet; (rz.) przyrząd; (rz.) urządzenie
+[gadolinium]gadolinium (EN) : (rz.) gadolin
+[gaff]gaff (EN) : (rz.) gafel; (rz.) osęka
+[gaffe]gaffe (EN) : (rz.) gafa; (rz.) wsypa
+[gaffer]gaffer (EN) : (rz.) dziadek; (rz.) hutnik-mistrz; (rz.) kum; (rz.) kumoter
+[gag]gag (EN) : (cz.) kneblować; (cz.) zakneblować; (rz.) gag; (rz.) knebel
+[gagallfly]gagallfly (EN) : (rz.) galasówka
+[gage]gage (EN) : (rz.) fant; (rz.) zabezpieczenie; (rz.) zastaw
+[gaggle]gaggle (EN) : (rz.) dyskusja; (rz.) gadanina; (rz.) gęganie; (rz.) stado
+[gaiety]gaiety (EN) : (rz.) radość; (rz.) wesołość
+[gaily]gaily (EN) : (p-sł.) barwnie; (p-sł.) ochoczo; (p-sł.) swobodnie; (p-sł.) wesoło
+[gain]gain (EN) : (cz.) brać; (cz.) nabrać; (cz.) osiągać; (cz.) pozyskać; (cz.) przytyć; (cz.) spieszyć; (cz.) śpieszyć; (cz.) utargować; (cz.) uzyskać; (cz.) uzyskiwać; (cz.) wygrywać; (cz.) zaczerpnąć; (cz.) zarabiać; (cz.) zdobyć; (cz.) zdobywać; (cz.) zdystansować; (cz.) zyskać; (cz.) zyskiwać; (rz.) intratność; (rz.) korzyść; (rz.) przyrost; (rz.) uzyskanie; (rz.) uzyskiwanie; (rz.) wrąb; (rz.) wygrana; (rz.) wzmocnienie; (rz.) wzrost; (rz.) zarobek; (rz.) zdobycie; (rz.) zysk; (rz.) zyskanie
+[gainful]gainful (EN) : (p.) korzystny
+[gainsay]gainsay (EN) : (cz.) zaprzeczyć
+[gait]gait (EN) : (rz.) chód; (rz.) krok; (rz.) rodzaj; (rz.) sposób; (rz.) zwyczaj
+[gaiter]gaiter (EN) : (rz.) kamasz
+[gaiters]gaiters (EN) : (rz.) getry
+[gal]gal (EN) : (rz.) panienka
+[gala]gala (EN) : (p.) galowy; (rz.) festyn
+[galactic]galactic (EN) : (p.) galaktyczny
+[galantine]galantine (EN) : (rz.) galantyna
+[galaxy]galaxy (EN) : (rz.) galaktyka; (rz.) plejada
+[gale]gale (EN) : (rz.) sztorm; (rz.) wicher; (rz.) wichura; (rz.) zawierucha
+[galena]galena (EN) : (rz.) galena; (rz.) galenit
+[gall]gall (EN) : (cz.) zaparzać; (cz.) zirytować; (rz.) galasówka; (rz.) golizna; (rz.) odgniecenie; (rz.) oparzelina; (rz.) żółć
+[gall-nut]gall-nut (EN) : (rz.) galas
+[gallant]gallant (EN) : (p.) dzielny; (p.) miłosny; (p.) rycerski; (p.) szarmancki; (p.) uprzejmy; (rz.) bawidamek; (rz.) galant
+[gallantly]gallantly (EN) : (p-sł.) mężnie; (p-sł.) wspaniale
+[gallantry]gallantry (EN) : (rz.) brawura; (rz.) dzielność; (rz.) galanteria; (rz.) rycerskość
+[galleon]galleon (EN) : (rz.) galeon
+[gallery]gallery (EN) : (rz.) balkon; (rz.) empora; (rz.) galeria; (rz.) galeryjka; (rz.) ganek; (rz.) jaskółka; (rz.) krużganek; (rz.) podium; (rz.) przejście; (rz.) sztolnia
+[galley]galley (EN) : (rz.) galera; (rz.) galernik; (rz.) galery; (rz.) kambuz; (rz.) organek; (rz.) żółć
+[galleys]galleys (EN) : (rz.) kator
+[gallimaufry]gallimaufry (EN) : (rz.) bigos; (rz.) mieszanina
+[gallium]gallium (EN) : (rz.) gal
+[gallivant]gallivant (EN) : (cz.) flirtować
+[gallnut]gallnut (EN) : (rz.) galas; (rz.) galasówka
+[gallon]gallon (EN) : (rz.) galon; (rz.) garniec
+[gallons]gallons (EN) : (rz.) galon
+[galloon]galloon (EN) : (rz.) borta; (rz.) galon; (rz.) naszywka; (rz.) obszywka
+[gallop]gallop (EN) : (cz.) cwałować; (cz.) galopować; (cz.) oklepać; (cz.) przegalopować; (rz.) cwał; (rz.) cwałowanie; (rz.) galop
+[gallows]gallows (EN) : (rz.) szubienica
+[galoot]galoot (EN) : (rz.) fujara; (rz.) gamoń
+[galore]galore (EN) : (p-sł.) pełno
+[galosh]galosh (EN) : (rz.) deszczowiec; (rz.) kalosz
+[galoshes]galoshes (EN) : (rz.) kalosze; (rz.) śniegowce
+[galvanic]galvanic (EN) : (p.) galwaniczny
+[galvanise]galvanise (EN) : (rz.) galwanizowanie
+[galvanised]galvanised (EN) : (p.) galwaniczny
+[galvanising]galvanising (EN) : (rz.) cynkowanie
+[galvanism]galvanism (EN) : (rz.) galwanizm
+[galvanization]galvanization (EN) : (rz.) galwanizacja; (rz.) galwanizowanie
+[galvanize]galvanize (EN) : (cz.) galwanizować; (cz.) ocynkować
+[galvanizer]galvanizer (EN) : (rz.) elektrolizer; (rz.) galwanizator
+[galvanometer]galvanometer (EN) : (rz.) galwanometr
+[galvanoscope]galvanoscope (EN) : (rz.) galwanoskop
+[gambit]gambit (EN) : (rz.) gambit
+[gamble]gamble (EN) : (cz.) ryzykować; (cz.) spekulować; (rz.) autostop; (rz.) hazard; (rz.) ryzyko; (rz.) zakład
+[gambler]gambler (EN) : (rz.) gracz; (rz.) hazardzista; (rz.) karciarz; (rz.) ryzykant; (rz.) szuler
+[gambling]gambling (EN) : (rz.) hazard
+[gambol]gambol (EN) : (cz.) podskakiwać; (rz.) pląs; (rz.) podskok; (rz.) skok
+[gambrel]gambrel (EN) : (rz.) pęcina
+[game]game (EN) : (p.) dziarski; (p.) ochoczy; (p.) rezolutny; (rz.) dziczyzna; (rz.) gem; (rz.) gra; (rz.) hulanka; (rz.) igrzyska; (rz.) legumina; (rz.) mecz; (rz.) polowanie; (rz.) rozgrywka; (rz.) rozrywka; (rz.) udawanie; (rz.) zabawa; (rz.) zabawianie; (rz.) zawody; (rz.) zwierzyna
+[game-drive]game-drive (EN) : (rz.) nagonka
+[game-keeper]game-keeper (EN) : (p.) gajowy; (rz.) leśnik
+[gamekeeper]gamekeeper (EN) : (rz.) leśnik
+[gamely]gamely (EN) : (p-sł.) dzielnie; (p-sł.) ochoczo; (p-sł.) odważnie
+[gamester]gamester (EN) : (rz.) gracz
+[gamete]gamete (EN) : (rz.) gameta
+[gamin]gamin (EN) : (rz.) dzieciak; (rz.) smarkacz; (rz.) ulicznik
+[gaming]gaming (EN) : (rz.) hazard
+[gamma]gamma (EN) : (rz.) Gamma
+[gamma-active]gamma-active (EN) : (p.) gamma-aktywny; (p.) gamma-promieniotwórczy
+[gamma-cellulose]gamma-cellulose (EN) : (rz.) gamma-celuloza
+[gammadion]gammadion (EN) : (rz.) swastyka
+[gammon]gammon (EN) : (rz.) baleron; (rz.) oszustwo; (rz.) szynka
+[gamp]gamp (EN) : (rz.) parasol
+[gamut]gamut (EN) : (rz.) gama; (rz.) skala
+[gander]gander (EN) : (rz.) gąsior; (rz.) gąsiorek; (rz.) prostak; (rz.) spojrzenie
+[gang]gang (EN) : (rz.) banda; (rz.) brygada; (rz.) ekipa; (rz.) gang; (rz.) grupa; (rz.) paczka; (rz.) seria; (rz.) szajka; (rz.) zespół
+[ganger]ganger (EN) : (rz.) brygadier; (rz.) brygadzista; (rz.) przodownik
+[ganglion]ganglion (EN) : (rz.) ganglion
+[gangplank]gangplank (EN) : (rz.) pomost; (rz.) schodnia
+[gangrene]gangrene (EN) : (cz.) gangrenować; (cz.) zgangrenować; (rz.) gangrena; (rz.) trak; (rz.) zgorzel
+[gangrenous]gangrenous (EN) : (p.) gangrenowy; (p.) zgorzelinowy; (p.) zgorzelowy
+[gangster]gangster (EN) : (rz.) bandyta; (rz.) bandzior; (rz.) gangster
+[gangway]gangway (EN) : (rz.) furta; (rz.) kładka; (rz.) pomost; (rz.) przejście; (rz.) schodnia; (rz.) trap
+[gannet]gannet (EN) : (rz.) gap
+[gantlet]gantlet (EN) : (rz.) run
+[gantry]gantry (EN) : (rz.) brama; (rz.) bramka; (rz.) portal; (rz.) stojak; (rz.) suwnica
+[gaol]gaol (EN) : (cz.) uwięzić; (rz.) więzienie
+[gaol-bird]gaol-bird (EN) : (rz.) kryminalista
+[gaolbird]gaolbird (EN) : (rz.) kryminalista
+[gap]gap (EN) : (rz.) luka; (rz.) odstęp; (rz.) otwór; (rz.) przerwa; (rz.) prześwit; (rz.) różnica; (rz.) szczerba; (rz.) szpara; (rz.) wyłom
+[gap-toothed]gap-toothed (EN) : (p.) szczerbaty
+[gape]gape (EN) : (cz.) gapić; (cz.) pękać; (cz.) ziewać; (rz.) otwór; (rz.) rozwarcie; (rz.) ziewanie
+[gape-seed]gape-seed (EN) : (rz.) gapienie; (rz.) powód; (rz.) przedmiot
+[gaper]gaper (EN) : (rz.) gawron; (rz.) ziewacz
+[garage]garage (EN) : (cz.) garażować; (rz.) garaż; (rz.) powozownia; (rz.) warsztat
+[garb]garb (EN) : (rz.) odzienie; (rz.) odzież; (rz.) strój; (rz.) ubiór
+[garbage]garbage (EN) : (rz.) bezużyteczne; (rz.) destruktor; (rz.) odpadek; (rz.) odpadki; (rz.) śmieci; (rz.) szmira; (rz.) tandeta
+[garbanzo]garbanzo (EN) : (rz.) cieciorka; (rz.) zakała
+[garbanzos]garbanzos (EN) : (rz.) cieciorka
+[garble]garble (EN) : (cz.) przekręcać
+[garden]garden (EN) : (rz.) ogród; (rz.) ogródek; (rz.) podwórze; (rz.) sekator
+[gardener]gardener (EN) : (rz.) ogrodnik
+[gardenia]gardenia (EN) : (rz.) gardenia
+[gardening]gardening (EN) : (rz.) ogrodnictwo; (rz.) warzywnictwo
+[garfish]garfish (EN) : (rz.) belona
+[gargantuan]gargantuan (EN) : (p.) ogromny; (p.) olbrzymi
+[gargle]gargle (EN) : (cz.) bulgotać; (cz.) płukać
+[gargoyle]gargoyle (EN) : (rz.) gargulec; (rz.) rzygacz
+[garish]garish (EN) : (p.) jaskrawy
+[garland]garland (EN) : (rz.) girlanda; (rz.) wianek
+[garlic]garlic (EN) : (rz.) czosnek
+[garment]garment (EN) : (rz.) ciuch; (rz.) garderoba; (rz.) odzież; (rz.) przyodziewek; (rz.) strój; (rz.) szata
+[garner]garner (EN) : (rz.) przechowywanie; (rz.) spichlerz; (rz.) spichrz; (rz.) zbieranie
+[garnet]garnet (EN) : (rz.) granat
+[garnierite]garnierite (EN) : (rz.) garnieryt
+[garnish]garnish (EN) : (cz.) garnirować; (cz.) przybierać; (cz.) upiększać; (cz.) zdobić; (rz.) ozdabianie; (rz.) ozdoba; (rz.) przybranie
+[garniture]garniture (EN) : (rz.) garnitur
+[garret]garret (EN) : (rz.) mansarda; (rz.) poddasze
+[garrison]garrison (EN) : (rz.) garnizon
+[garrotte]garrotte (EN) : (rz.) zaduszenie
+[garrulity]garrulity (EN) : (rz.) gadulstwo; (rz.) szczebiotliwość
+[garrulous]garrulous (EN) : (p.) rozmowny; (p.) szczebiotliwy
+[garter]garter (EN) : (rz.) podwiązka
+[gas]gas (EN) : (cz.) gazować; (rz.) benzyna; (rz.) gaz; (rz.) gazownictwo
+[gas-fitter]gas-fitter (EN) : (rz.) monter
+[gas-meter]gas-meter (EN) : (rz.) gazometr; (rz.) gazomierz
+[gas-ring]gas-ring (EN) : (rz.) palnik
+[gas-tight]gas-tight (EN) : (p.) gazoszczelny
+[gas-works]gas-works (EN) : (rz.) gazownia
+[gaseous]gaseous (EN) : (p.) gazowy; (p.) lotny
+[gasfitter]gasfitter (EN) : (rz.) monter
+[gash]gash (EN) : (cz.) pokiereszować; (cz.) przecinać; (cz.) przeorać; (cz.) rozcinać; (rz.) nacięcie; (rz.) rana; (rz.) rowek
+[gasification]gasification (EN) : (rz.) gazyfikacja; (rz.) zgazowanie; (rz.) zgazowywanie
+[gasket]gasket (EN) : (rz.) uszczelka
+[gasman]gasman (EN) : (rz.) metaniarz
+[gasoline]gasoline (EN) : (rz.) benzyna; (rz.) paliwo
+[gasp]gasp (EN) : (cz.) dyszeć; (cz.) sapać; (rz.) dyszenie; (rz.) sapanie
+[gasser]gasser (EN) : (rz.) fanfaron; (rz.) gaduła
+[gassing]gassing (EN) : (rz.) gazowanie
+[gassy]gassy (EN) : (p.) gazowany; (p.) gazowy; (p.) zagazowany
+[gastight]gastight (EN) : (p.) gazoszczelny
+[gastric]gastric (EN) : (p.) gastryczny; (p.) żołądkowy
+[gastrointestinal]gastrointestinal (EN) : (p.) pokarmowy
+[gastronome]gastronome (EN) : (rz.) gastronom; (rz.) smakosz
+[gastronomy]gastronomy (EN) : (rz.) gastronomia
+[gasworks]gasworks (EN) : (rz.) gazownia
+[gat]gat (EN) : (rz.) karabin; (rz.) pistolet; (rz.) rewolwer
+[gate]gate (EN) : (rz.) brama; (rz.) bramka; (rz.) furtka; (rz.) szlaban; (rz.) wrota; (rz.) zapora
+[gate-keeper]gate-keeper (EN) : (rz.) dróżnik
+[gatehouse]gatehouse (EN) : (rz.) portiernia; (rz.) stróżówka
+[gatekeeper]gatekeeper (EN) : (rz.) dróżnik; (rz.) portier
+[gateman]gateman (EN) : (rz.) dróżnik
+[gates]gates (EN) : (rz.) wrota
+[gateway]gateway (EN) : (rz.) brama; (rz.) furtka; (rz.) pomost; (rz.) przejście; (rz.) wejście; (rz.) wjazd
+[gather]gather (EN) : (cz.) gromadzić; (cz.) narwać; (cz.) zbierać; (cz.) zgarniać; (cz.) zrywać; (rz.) gromadzenie; (rz.) nabieranie; (rz.) pobranie; (rz.) porcja; (rz.) wnioskowanie; (rz.) zbieranie; (rz.) zgromadzenie
+[gatherer]gatherer (EN) : (rz.) zbieracz
+[gathering]gathering (EN) : (rz.) jarzyn; (rz.) nabieranie; (rz.) owocobranie; (rz.) podpisywanie; (rz.) zbiegowisko; (rz.) zbiorowisko; (rz.) zebranie; (rz.) zgromadzenie; (rz.) zlot
+[gating]gating (EN) : (rz.) bramkowanie
+[gauche]gauche (EN) : (p.) nietaktowny; (p.) niezręczny
+[gaucherie]gaucherie (EN) : (rz.) niezręczność
+[gaud]gaud (EN) : (rz.) błyskotka; (rz.) dyszel
+[gaudiness]gaudiness (EN) : (rz.) barwność
+[gaudy]gaudy (EN) : (p.) barwny; (p.) błyskotliwy; (p.) jaskrawy; (p.) krzykliwy; (p.) pstrokaty; (p.) pstry
+[gauge]gauge (EN) : (cz.) mierzyć; (rz.) gabaryt; (rz.) kaliber; (rz.) manometr; (rz.) miara; (rz.) probierz; (rz.) przymiar; (rz.) skala; (rz.) skrajnia; (rz.) sprawdzian; (rz.) szablon; (rz.) wskaźnik
+[gaunt]gaunt (EN) : (p.) chudy; (p.) nagi; (p.) nędzny; (p.) nieszczęśliwy
+[gauntlet]gauntlet (EN) : (rz.) rękawica
+[gauntness]gauntness (EN) : (rz.) chudość
+[gauss]gauss (EN) : (rz.) gaus
+[gauze]gauze (EN) : (rz.) gaza
+[gavel]gavel (EN) : (rz.) młotek; (rz.) pokos
+[gavelkind]gavelkind (EN) : (rz.) tenuta
+[gavotte]gavotte (EN) : (rz.) gawot
+[gawk]gawk (EN) : (rz.) fajtłapa; (rz.) gamoń; (rz.) gawron
+[gawky]gawky (EN) : (p.) gamoniowaty; (p.) niezdarny
+[gay]gay (EN) : (p.) bezmyślny; (p.) homoseksualny; (p.) radosny; (p.) rozpustny; (p.) wesoły; (p.) żywy; (rz.) gej; (rz.) homoseksualista; (rz.) pedał
+[gayness]gayness (EN) : (rz.) homoseksualizm
+[gaze]gaze (EN) : (cz.) patrzeć; (cz.) przyglądać; (cz.) wpatrywać; (rz.) spoglądanie; (rz.) spojrzenie; (rz.) wpatrywanie; (rz.) wzrok
+[gazelle]gazelle (EN) : (rz.) gazela
+[gazette]gazette (EN) : (rz.) gazeta
+[gazetteer]gazetteer (EN) : (rz.) dziennikarz
+[gear]gear (EN) : (rz.) bieg; (rz.) hełm; (rz.) łach; (rz.) mechanizm; (rz.) narzędzia; (rz.) odzież; (rz.) przekładnia; (rz.) przerzutka; (rz.) przybory; (rz.) rynsztunek; (rz.) rzecz; (rz.) sprzęt
+[gear-motor]gear-motor (EN) : (rz.) motoreduktor
+[gearbox]gearbox (EN) : (rz.) skrzynia
+[gecko]gecko (EN) : (rz.) jaszczurka
+[gee]gee (EN) : (wykrzyknik) ojej
+[geek]geek (EN) : (rz.) maniak; (rz.) palant; (rz.) świr
+[geese]geese (EN) : (rz.) gęś
+[geezer]geezer (EN) : (rz.) pryk
+[geisha]geisha (EN) : (rz.) gejsza
+[gel]gel (EN) : (rz.) żel
+[gelatine]gelatine (EN) : (rz.) żelatyna
+[gelatinize]gelatinize (EN) : (cz.) galaretowacieć
+[gelatinous]gelatinous (EN) : (p.) galaretowaty
+[geld]geld (EN) : (cz.) czyścić; (cz.) kastrować; (cz.) wałaszyć
+[gelding]gelding (EN) : (rz.) wałach
+[gelid]gelid (EN) : (p.) lodowaty; (p.) zimny
+[gem]gem (EN) : (rz.) cacko; (rz.) klejnot
+[geminate]geminate (EN) : (cz.) podwajać; (p.) parzysty; (p.) podwójny
+[gendarme]gendarme (EN) : (rz.) żandarm
+[gendarmerie]gendarmerie (EN) : (rz.) żandarmeria
+[gender]gender (EN) : (rz.) płeć; (rz.) rodzaj
+[gene]gene (EN) : (rz.) gen
+[genealogical]genealogical (EN) : (p.) genealogiczny; (p.) rodowodowy
+[genealogy]genealogy (EN) : (rz.) genealogia; (rz.) rodowód
+[general]general (EN) : (p.) generalny; (p.) główny; (p.) ogólnikowy; (p.) ogólnobudowlany; (p.) ogólnogospodarczy; (p.) ogólny; (p.) walny; (rz.) generał; (rz.) loża; (rz.) makroekonomia; (rz.) ogólność
+[general-purpose]general-purpose (EN) : (p.) uniwersalny
+[generalisation]generalisation (EN) : (rz.) uogólnienie
+[generality]generality (EN) : (rz.) ogólnik; (rz.) ogólność; (rz.) powszechność
+[generalization]generalization (EN) : (rz.) generalizacja; (rz.) uogólnianie; (rz.) uogólnienie
+[generalize]generalize (EN) : (cz.) generalizować; (cz.) uogólniać
+[generalized]generalized (EN) : (cz.) uogólnić; (p.) ogólny; (p.) uniwersalny
+[generally]generally (EN) : (p-sł.) generalnie; (p-sł.) ogólnie; (p-sł.) ogólnikowo; (p-sł.) powszechnie; (p-sł.) zazwyczaj; (p-sł.) zwykle
+[generals]generals (EN) : (rz.) generalicja
+[generate]generate (EN) : (cz.) generować; (cz.) rodzić; (cz.) spłodzić; (cz.) tworzyć; (cz.) wygenerować; (cz.) wypracowywać; (cz.) wytwarzać; (cz.) wywoływać
+[generation]generation (EN) : (rz.) generacja; (rz.) pokolenie; (rz.) rocznik; (rz.) ród; (rz.) rodzenie; (rz.) wytwarzanie
+[generative]generative (EN) : (p.) generatywny; (p.) produkcyjny; (p.) rozrodczy
+[generator]generator (EN) : (rz.) generator; (rz.) prądnica
+[generic]generic (EN) : (p.) genetyczny; (p.) ogólny; (p.) pospolity; (p.) rodzajowy
+[generically]generically (EN) : (p-sł.) ogólnie
+[generosity]generosity (EN) : (rz.) hojność; (rz.) ofiarność; (rz.) szczodrobliwość; (rz.) szczodrość; (rz.) szlachetność; (rz.) wielkoduszność; (rz.) wspaniałomyślność
+[generous]generous (EN) : (p.) hojny; (p.) ofiarny; (p.) szczodrobliwy; (p.) szczodry; (p.) szlachetny; (p.) wielkoduszny; (p.) wspaniałomyślny
+[generously]generously (EN) : (p-sł.) hojnie; (p-sł.) ofiarnie; (p-sł.) rozrzutnie; (p-sł.) sowicie; (p-sł.) szczodrze; (p-sł.) wielkodusznie; (p-sł.) wspaniałomyślnie
+[genes]genes (EN) : (rz.) geny
+[genesis]genesis (EN) : (rz.) geneza; (rz.) rodowód
+[genetic]genetic (EN) : (p.) genetyczny; (p.) genowy
+[genetically]genetically (EN) : (p-sł.) genetycznie
+[geneticist]geneticist (EN) : (rz.) genetyk
+[genetics]genetics (EN) : (rz.) genetyka
+[genial]genial (EN) : (p.) dobrotliwy; (p.) łagodny; (p.) miły; (p.) podbródkowy; (p.) przychylny; (p.) radosny; (p.) uprzejmy; (p.) wesoły
+[geniality]geniality (EN) : (rz.) wesołość
+[genially]genially (EN) : (p-sł.) genialnie; (p-sł.) przyjaźnie
+[genie]genie (EN) : (rz.) geniusz
+[genital]genital (EN) : (p.) rodny; (p.) rozrodczy
+[genitals]genitals (EN) : (rz.) genitalia
+[genitive]genitive (EN) : (rz.) dopełniacz
+[genius]genius (EN) : (rz.) genialność; (rz.) geniusz; (rz.) talent
+[genocide]genocide (EN) : (rz.) ludobójca; (rz.) ludobójstwo
+[genome]genome (EN) : (rz.) genom
+[genotype]genotype (EN) : (rz.) genotyp
+[genotyping]genotyping (EN) : (p.) genotypowy
+[genre]genre (EN) : (rz.) gatunek; (rz.) rodzaj
+[gent]gent (EN) : (rz.) dżentelmen
+[genteel]genteel (EN) : (p.) dystyngowany
+[gentian]gentian (EN) : (rz.) gencjana; (rz.) goryczka
+[gentile]gentile (EN) : (rz.) goj; (rz.) poganin
+[gentility]gentility (EN) : (rz.) dystynkcja
+[gentle]gentle (EN) : (p.) cichy; (p.) delikatny; (p.) łagodny; (p.) miły; (p.) szlachetny
+[gentleman]gentleman (EN) : (rz.) dżentelmen; (rz.) jegomość; (rz.) pan
+[gentlemanlike]gentlemanlike (EN) : (p.) dżentelmeński
+[gentlemanly]gentlemanly (EN) : (p.) dżentelmeński
+[gentleness]gentleness (EN) : (rz.) delikatność; (rz.) łagodność; (rz.) subtelność
+[gentlest]gentlest (EN) : (p.) delikatny; (p.) łagodny
+[gentlewoman]gentlewoman (EN) : (rz.) dama
+[gently]gently (EN) : (p-sł.) delikatnie; (p-sł.) łagodnie; (p-sł.) lekko; (p-sł.) miękko; (p-sł.) uprzejmie
+[gentry]gentry (EN) : (rz.) szlachta; (rz.) ziemiaństwo
+[genuflect]genuflect (EN) : (cz.) uklęknąć
+[genuflection]genuflection (EN) : (rz.) przyklęknięcie
+[genuine]genuine (EN) : (p.) autentyczny; (p.) oryginalny; (p.) prawdziwy; (p.) szczery
+[genuinely]genuinely (EN) : (p-sł.) prawdziwie; (p-sł.) rdzennie
+[genuineness]genuineness (EN) : (rz.) autentyczność; (rz.) prawdziwość
+[genus]genus (EN) : (rz.) gatunek; (rz.) klasa; (rz.) rodzaj
+[geocentric]geocentric (EN) : (p.) geocentryczny
+[geochemistry]geochemistry (EN) : (rz.) geochemia
+[geode]geode (EN) : (rz.) druza; (rz.) geoda
+[geodesic]geodesic (EN) : (p.) geodezyjny
+[geodesist]geodesist (EN) : (rz.) geodeta
+[geodesy]geodesy (EN) : (rz.) geodezja
+[geodetic]geodetic (EN) : (p.) geodezyjny
+[geodynamics]geodynamics (EN) : (rz.) geodynamika
+[geographer]geographer (EN) : (rz.) geograf
+[geographic]geographic (EN) : (p.) geograficzny
+[geographical]geographical (EN) : (p.) geograficzny
+[geographically]geographically (EN) : (p-sł.) geograficznie
+[geography]geography (EN) : (rz.) geografia
+[geologic]geologic (EN) : (p.) geologiczny
+[geological]geological (EN) : (p.) geologiczny
+[geologically]geologically (EN) : (p-sł.) geologicznie
+[geologist]geologist (EN) : (rz.) geolog
+[geology]geology (EN) : (rz.) geolog; (rz.) geologia
+[geomagnetic]geomagnetic (EN) : (p.) geomagnetyczny
+[geomagnetism]geomagnetism (EN) : (rz.) geomagnetyzm
+[geometer]geometer (EN) : (rz.) geometra
+[geometric]geometric (EN) : (p.) geometryczny
+[geometrical]geometrical (EN) : (p.) geometryczny
+[geometrically]geometrically (EN) : (p-sł.) geometrycznie
+[geometry]geometry (EN) : (rz.) geometria
+[geomorphology]geomorphology (EN) : (rz.) geologia; (rz.) geomorfologia
+[geophone]geophone (EN) : (rz.) geofon
+[geophysical]geophysical (EN) : (p.) geofizyczny
+[geophysicist]geophysicist (EN) : (rz.) geofizyk
+[geophysics]geophysics (EN) : (rz.) geofizyka
+[geopolitical]geopolitical (EN) : (p.) geopolityczny
+[geopolitics]geopolitics (EN) : (rz.) geopolityka
+[georgette]georgette (EN) : (rz.) żorżeta
+[geothermal]geothermal (EN) : (p.) geotermiczny
+[geotropism]geotropism (EN) : (rz.) geotropizm
+[geranium]geranium (EN) : (rz.) geranium; (rz.) pelargonia
+[gerent]gerent (EN) : (rz.) kierownik
+[gerfalcon]gerfalcon (EN) : (rz.) białozór
+[geriatric]geriatric (EN) : (p.) geriatryczny
+[geriatrician]geriatrician (EN) : (rz.) geriatra
+[geriatrics]geriatrics (EN) : (rz.) geriatria
+[germ]germ (EN) : (rz.) bakcyl; (rz.) drobnoustrój; (rz.) zalążek; (rz.) zarazek; (rz.) zarodek
+[germanium]germanium (EN) : (rz.) german
+[germicidal]germicidal (EN) : (p.) bakteriobójczy
+[germicide]germicide (EN) : (p.) bakteriobójczy
+[germinal]germinal (EN) : (p.) zarodkowy
+[germinate]germinate (EN) : (cz.) kiełkować; (cz.) porastać; (cz.) rozwijać; (cz.) wykiełkować
+[germination]germination (EN) : (rz.) kiełkowanie; (rz.) słodowanie; (rz.) wschodzenie
+[gerontology]gerontology (EN) : (rz.) gerontologia
+[gesso]gesso (EN) : (rz.) gips
+[gestation]gestation (EN) : (rz.) ciąża; (rz.) rozwój
+[gestational]gestational (EN) : (p.) ciążowy
+[gesticulate]gesticulate (EN) : (cz.) gestykulować
+[gesticulation]gesticulation (EN) : (rz.) gestykulacja
+[gesture]gesture (EN) : (rz.) gest
+[get]get (EN) : (cz.) dojechać; (cz.) dojść; (cz.) dostać; (cz.) dostawać; (cz.) dotrzeć; (cz.) dowiedzieć; (cz.) kupić; (cz.) nabawić; (cz.) narobić; (cz.) otrzymać; (cz.) otrzymywać; (cz.) pobierać; (cz.) przynieść; (cz.) przynosić; (cz.) robić; (cz.) sprowadzać; (cz.) stać; (cz.) stawać; (cz.) wpływać; (cz.) wsiadać; (cz.) wsypać; (cz.) wywabić; (cz.) zaczynać; (cz.) zostać
+[get-at-able]get-at-able (EN) : (p.) osiągalny
+[get-together]get-together (EN) : (rz.) spotkanie; (rz.) zebranie
+[get-up-and-go]get-up-and-go (EN) : (rz.) entuzjazm; (rz.) rozmach
+[getaway]getaway (EN) : (rz.) ucieczka
+[getter]getter (EN) : (rz.) pochłaniacz; (rz.) rębacz; (rz.) rodzicielka; (rz.) urabiarka
+[getting]getting (EN) : (cz.) porabiać
+[getup]getup (EN) : (rz.) reżyseria
+[gewgaw]gewgaw (EN) : (rz.) ozdóbka
+[geyser]geyser (EN) : (rz.) gejzer; (rz.) grzałka
+[ghastliness]ghastliness (EN) : (rz.) okropność
+[ghastly]ghastly (EN) : (p.) blady; (p.) koszmarny; (p.) makabryczny; (p.) ohydny; (p.) okropny; (p.) straszny; (p.) upiorny
+[gherkin]gherkin (EN) : (rz.) korniszon
+[gherkins]gherkins (EN) : (rz.) korniszon
+[ghetto]ghetto (EN) : (rz.) getto
+[ghost]ghost (EN) : (rz.) cień; (rz.) duch; (rz.) upiór; (rz.) widmo; (rz.) zjawa
+[ghostlike]ghostlike (EN) : (p.) upiorny
+[ghostly]ghostly (EN) : (p.) duchowy; (p.) upiorny; (p.) widmowy
+[ghoul]ghoul (EN) : (rz.) upiór
+[ghoulish]ghoulish (EN) : (p.) makabryczny
+[giant]giant (EN) : (p.) gigantyczny; (p.) olbrzymi; (rz.) gigant; (rz.) kolos; (rz.) olbrzym; (rz.) wielkolud
+[gibber]gibber (EN) : (cz.) bełkotać; (cz.) szwargotać; (rz.) bełkot; (rz.) bełkotanie
+[gibberish]gibberish (EN) : (rz.) bełkot; (rz.) bełkotanie; (rz.) szwargot; (rz.) szwargotanie
+[gibbet]gibbet (EN) : (rz.) szubienica
+[gibbon]gibbon (EN) : (rz.) gibon
+[gibbous]gibbous (EN) : (p.) garbaty
+[gibbsite]gibbsite (EN) : (rz.) hydrargilit
+[gibe]gibe (EN) : (cz.) drwić; (cz.) kpić; (rz.) docinek; (rz.) kpina; (rz.) przycinek; (rz.) przymówka
+[giber]giber (EN) : (rz.) kpiarz
+[giblets]giblets (EN) : (rz.) dróbka; (rz.) podroby
+[giddily]giddily (EN) : (p-sł.) zawrotnie
+[giddiness]giddiness (EN) : (rz.) lekkomyślność
+[giddy]giddy (EN) : (p.) lekkomyślny; (p.) płochy; (p.) roztrzepany; (p.) zawrotny
+[gift]gift (EN) : (rz.) dar; (rz.) darowizna; (rz.) podarek; (rz.) podarunek; (rz.) prezent; (rz.) upominek; (rz.) uzdolnienie
+[gifted]gifted (EN) : (p.) utalentowany; (p.) zdolny
+[gig]gig (EN) : (rz.) dwukółka; (rz.) gig; (rz.) gigabajt; (rz.) koncert; (rz.) skip
+[gigabyte]gigabyte (EN) : (rz.) gigabajt
+[gigabytes]gigabytes (EN) : (rz.) gigabajt
+[gigahertz]gigahertz (EN) : (rz.) gigaherc
+[gigantic]gigantic (EN) : (p.) gigantyczny; (p.) olbrzymi; (p.) przeogromny
+[gigantically]gigantically (EN) : (p-sł.) gigantycznie
+[giggle]giggle (EN) : (cz.) chichotać; (rz.) chichot; (rz.) chichotanie
+[gigolo]gigolo (EN) : (rz.) fordanser; (rz.) żigolak
+[gild]gild (EN) : (cz.) osłodzić; (cz.) pozłacać; (cz.) złocić; (rz.) gildia
+[gilder]gilder (EN) : (rz.) złotnik
+[gill]gill (EN) : (cz.) wypatroszyć; (rz.) skrzele
+[gilled]gilled (EN) : (rz.) oskrobanie
+[gillie]gillie (EN) : (rz.) sługa
+[gillyflower]gillyflower (EN) : (rz.) goździk; (rz.) lewkonia
+[gilt]gilt (EN) : (rz.) loszka; (rz.) pozłota; (rz.) złocenie
+[gilt-edged]gilt-edged (EN) : (p.) cenny
+[gilthead]gilthead (EN) : (rz.) dorada
+[gimcrack]gimcrack (EN) : (p.) straganowy; (p.) szychowy; (rz.) cacko
+[gimmick]gimmick (EN) : (rz.) chwyt; (rz.) machlojka; (rz.) sztuczka; (rz.) urządzenie
+[gimmicky]gimmicky (EN) : (p.) wymyślny
+[gimp]gimp (EN) : (rz.) galon; (rz.) żyłka
+[gin]gin (EN) : (rz.) dżin; (rz.) jałowcówka; (rz.) kołowrót
+[ginger]ginger (EN) : (rz.) energia; (rz.) imbir; (rz.) werwa
+[ginger-haired]ginger-haired (EN) : (p.) rudy; (p.) ryży
+[gingerbread]gingerbread (EN) : (rz.) miodownik; (rz.) piernik; (rz.) pumpernikiel
+[gingerly]gingerly (EN) : (p-sł.) delikatnie; (p-sł.) ostrożnie
+[gingery]gingery (EN) : (p.) imbirowy; (p.) piernikowy
+[gingham]gingham (EN) : (rz.) kratka
+[gingival]gingival (EN) : (p.) dziąsłowy
+[gink]gink (EN) : (rz.) facet
+[gipsy]gipsy (EN) : (rz.) cygan
+[giraffe]giraffe (EN) : (rz.) żyrafa
+[girandole]girandole (EN) : (rz.) wodotrysk
+[girasol]girasol (EN) : (p.) ognisty
+[gird]gird (EN) : (cz.) kpić; (cz.) opasać; (cz.) opasywać; (cz.) przepasywać
+[girder]girder (EN) : (rz.) dźwigar; (rz.) opasanie; (rz.) pasek
+[girdle]girdle (EN) : (cz.) obrączkować; (cz.) opasać; (cz.) opasywać; (cz.) przepasać; (rz.) gorset; (rz.) pasek; (rz.) podpaska
+[girl]girl (EN) : (rz.) buzia; (rz.) dziewczyna; (rz.) dziewczynka; (rz.) dziewica; (rz.) dziewucha; (rz.) panienka; (rz.) panna
+[girlfriend]girlfriend (EN) : (rz.) dziewczyna; (rz.) sympatia
+[girlie]girlie (EN) : (rz.) brzana
+[girlish]girlish (EN) : (p.) dziewczęcy
+[girls]girls (EN) : (rz.) girlsa
+[giro]giro (EN) : (rz.) przelew
+[girth]girth (EN) : (rz.) obwód; (rz.) popręg
+[gist]gist (EN) : (rz.) sedno
+[give]give (EN) : (cz.) dać; (cz.) darować; (cz.) darzyć; (cz.) dawać; (cz.) domierzać; (cz.) podać; (cz.) podarować; (cz.) podawać; (cz.) przekazywać; (cz.) rozdawać; (cz.) wydawać
+[give-away]give-away (EN) : (rz.) wpadka; (rz.) wsyp; (rz.) wsypa
+[giveaway]giveaway (EN) : (rz.) wpadka
+[given]given (EN) : (p.) dany; (p.) skłonny
+[giver]giver (EN) : (rz.) dawca; (rz.) jałmużnik
+[gizmo]gizmo (EN) : (rz.) gadżet; (rz.) ustrojstwo
+[gizzard]gizzard (EN) : (rz.) gardło
+[glacial]glacial (EN) : (p.) lodowaty; (p.) lodowcowy; (p.) lodowy; (p.) polodowcowy
+[glacier]glacier (EN) : (rz.) lodowiec
+[glaciology]glaciology (EN) : (rz.) glacjologia
+[glad]glad (EN) : (p.) radosny; (p.) wesoły; (p.) zadowolony
+[gladden]gladden (EN) : (cz.) cieszyć; (cz.) radować; (cz.) uradować; (cz.) weselić
+[glade]glade (EN) : (rz.) polana; (rz.) polanka; (rz.) polanko; (rz.) polano; (rz.) przesieka
+[gladiator]gladiator (EN) : (rz.) gladiator
+[gladiatorial]gladiatorial (EN) : (p.) gladiatorski
+[gladiola]gladiola (EN) : (rz.) mieczyk
+[gladiolus]gladiolus (EN) : (rz.) mieczyk
+[gladly]gladly (EN) : (p-sł.) chętnie; (p-sł.) radośnie
+[gladness]gladness (EN) : (rz.) radość; (rz.) zadowolenie
+[gladsome]gladsome (EN) : (p.) radosny
+[glair]glair (EN) : (rz.) białko
+[glaive]glaive (EN) : (rz.) miecz
+[glamorous]glamorous (EN) : (p.) czarowny
+[glamour]glamour (EN) : (rz.) blask; (rz.) czar; (rz.) splendor; (rz.) świetność; (rz.) urok
+[glance]glance (EN) : (cz.) błyszczeć; (cz.) łypać; (cz.) popatrzeć; (cz.) spoglądać; (cz.) spojrzeć; (cz.) wypolerować; (cz.) zerkać; (cz.) zerknąć; (cz.) ześlizgiwać; (rz.) błyszcz; (rz.) błyszczenie; (rz.) rykoszet; (rz.) spojrzenie; (rz.) zerknięcie
+[gland]gland (EN) : (rz.) dławica; (rz.) dławik; (rz.) dławnica; (rz.) gruczoł
+[glandular]glandular (EN) : (p.) gruczołowaty; (p.) gruczołowy
+[glare]glare (EN) : (cz.) błyskać; (cz.) błyszczeć; (cz.) jaśnieć; (cz.) świecić; (rz.) blask; (rz.) blichtr; (rz.) olśnienie
+[glaring]glaring (EN) : (p.) jaskrawy
+[glaringly]glaringly (EN) : (p-sł.) jaskrawo; (p-sł.) krzycząco
+[glass]glass (EN) : (rz.) kieliszek; (rz.) lampka; (rz.) oszklenie; (rz.) szkiełko; (rz.) szklanka; (rz.) szkło; (rz.) szyba
+[glass-blower]glass-blower (EN) : (rz.) dmuchacz; (rz.) wydymacz
+[glass-cue]glass-cue (EN) : (rz.) gablotka; (rz.) witryna
+[glass-house]glass-house (EN) : (rz.) szklarnia
+[glass-making]glass-making (EN) : (rz.) szklarstwo
+[glassblower]glassblower (EN) : (rz.) dmuchacz; (rz.) wydymacz
+[glasses]glasses (EN) : (rz.) etui; (rz.) gogle; (rz.) okulary
+[glassful]glassful (EN) : (rz.) szklanka
+[glasshouse]glasshouse (EN) : (rz.) areszt; (rz.) szklarnia
+[glassine]glassine (EN) : (rz.) celofan
+[glassiness]glassiness (EN) : (rz.) szklistość
+[glasslike]glasslike (EN) : (p.) szklisty
+[glassmaking]glassmaking (EN) : (rz.) szklarstwo
+[glassy]glassy (EN) : (p.) mętny; (p.) szklisty
+[glaucoma]glaucoma (EN) : (rz.) jaskra
+[glaucomatous]glaucomatous (EN) : (p.) jaskrawy
+[glaze]glaze (EN) : (cz.) glazurować; (cz.) laserować; (cz.) oszklić; (cz.) szklić; (cz.) zaszklić; (rz.) emalia; (rz.) glazura; (rz.) gołoledź; (rz.) polewa; (rz.) ślizgawica; (rz.) szkliwo
+[glazier]glazier (EN) : (rz.) szklarz
+[gleam]gleam (EN) : (cz.) błyszczeć; (cz.) migotać; (cz.) połyskiwać; (cz.) świecić; (rz.) blask; (rz.) lśnienie; (rz.) migot; (rz.) odblask; (rz.) połyskiwanie; (rz.) przebłysk
+[glean]glean (EN) : (cz.) gromadzić; (cz.) zbierać
+[gleanings]gleanings (EN) : (rz.) pokłosie
+[glebe]glebe (EN) : (rz.) gleba; (rz.) ziemia
+[glee]glee (EN) : (rz.) radość; (rz.) uciecha; (rz.) wesele
+[gleeful]gleeful (EN) : (p.) radosny
+[glen]glen (EN) : (rz.) dolina; (rz.) wąwóz
+[glib]glib (EN) : (p.) gładki; (p.) płynny; (p.) wymowny; (p.) żwawy
+[glibly]glibly (EN) : (p-sł.) gładko
+[glibness]glibness (EN) : (rz.) gładkość
+[glide]glide (EN) : (cz.) ślizgać; (cz.) sunąć; (cz.) szybować; (rz.) ślizg; (rz.) ślizganie; (rz.) sunięcie; (rz.) szybowanie
+[glider]glider (EN) : (rz.) lotnia; (rz.) lotniarz; (rz.) szybowiec; (rz.) szybownik
+[gliding]gliding (EN) : (rz.) ślizganie; (rz.) szybowanie; (rz.) szybownictwo
+[glimmer]glimmer (EN) : (cz.) migotać; (cz.) pobłyskiwać; (cz.) przebłyskiwać; (rz.) migotanie; (rz.) ognik; (rz.) płomyk; (rz.) poblask; (rz.) promyk; (rz.) przebłysk
+[glimmering]glimmering (EN) : (cz.) migotać; (cz.) przebłyskiwać; (rz.) migotanie; (rz.) promyk; (rz.) przebłysk
+[glimpse]glimpse (EN) : (cz.) dojrzeć; (cz.) ujrzeć; (cz.) zauważyć; (cz.) zobaczyć; (rz.) mgnienie; (rz.) mignięcie; (rz.) spojrzenie
+[glint]glint (EN) : (cz.) błyskać; (cz.) błyszczeć; (cz.) zaiskrzyć; (rz.) błysk
+[glisten]glisten (EN) : (cz.) błyszczeć; (cz.) lśnić; (cz.) migotać; (cz.) połyskiwać
+[glister]glister (EN) : (cz.) błyszczeć; (cz.) migotać; (cz.) połyskiwać
+[glitch]glitch (EN) : (rz.) błąd; (rz.) usterka
+[glitter]glitter (EN) : (cz.) błyszczeć; (cz.) lśnić; (cz.) pobłyskiwać; (cz.) połyskiwać; (rz.) blask; (rz.) błyszczenie; (rz.) lśnienie; (rz.) połysk; (rz.) połyskiwanie; (rz.) świecenie
+[glittering]glittering (EN) : (p.) połyskliwy
+[glitz]glitz (EN) : (rz.) blask; (rz.) blichtr
+[gloaming]gloaming (EN) : (rz.) zmrok
+[gloat]gloat (EN) : (cz.) napawać; (cz.) tryumfować
+[gloatingly]gloatingly (EN) : (p-sł.) chełpliwie
+[global]global (EN) : (p.) globalny; (p.) ogólnoświatowy; (p.) ogólny; (p.) światowy
+[globalization]globalization (EN) : (rz.) globalizacja
+[globally]globally (EN) : (p-sł.) globalnie
+[globe]globe (EN) : (rz.) glob; (rz.) globus; (rz.) kula
+[globe-trotter]globe-trotter (EN) : (rz.) obieżyświat
+[globetrotter]globetrotter (EN) : (rz.) globtroter; (rz.) obieżyświat; (rz.) wędrowiec
+[globular]globular (EN) : (p.) kulisty
+[globule]globule (EN) : (rz.) globula; (rz.) kulka
+[globulin]globulin (EN) : (rz.) globulina
+[gloom]gloom (EN) : (cz.) zaciemniać; (cz.) zasnuć; (rz.) ciemność; (rz.) ciemności; (rz.) mrok; (rz.) ponurość; (rz.) posępność; (rz.) przygnębienie; (rz.) smutek
+[gloomily]gloomily (EN) : (p-sł.) markotnie; (p-sł.) ponuro; (p-sł.) posępnie
+[gloomy]gloomy (EN) : (p.) ciemny; (p.) grobowy; (p.) mroczny; (p.) pochmurny; (p.) ponury; (p.) posępny; (p.) szary
+[glorification]glorification (EN) : (rz.) gloryfikacja
+[glorify]glorify (EN) : (cz.) apoteozować; (cz.) chwalić; (cz.) gloryfikować; (cz.) pochwalać; (cz.) sławić; (cz.) wielbić; (cz.) wysławiać
+[glorious]glorious (EN) : (p.) chlubny; (p.) chwalebny; (p.) sławetny; (p.) sławny; (p.) świetny; (p.) wspaniały
+[gloriously]gloriously (EN) : (p-sł.) sławnie
+[glory]glory (EN) : (cz.) chlubić; (rz.) chluba; (rz.) chwała; (rz.) cześć; (rz.) gloria; (rz.) halo; (rz.) majestat; (rz.) sława; (rz.) świetność; (rz.) wspaniałość
+[gloss]gloss (EN) : (rz.) blask; (rz.) blichtr; (rz.) połysk
+[glossary]glossary (EN) : (rz.) glosariusz; (rz.) klucz; (rz.) leksykon; (rz.) słownik
+[glossiness]glossiness (EN) : (rz.) blask; (rz.) połysk
+[glossy]glossy (EN) : (p.) gładki; (p.) ilustrowany; (p.) lśniący; (p.) połyskliwy; (p.) połyskujący
+[glottal]glottal (EN) : (p.) dźwięczny; (p.) głośniowy
+[glottis]glottis (EN) : (rz.) głośnia
+[glove]glove (EN) : (rz.) rękawica; (rz.) rękawiczka
+[glover]glover (EN) : (rz.) rękawicznik
+[gloves]gloves (EN) : (rz.) rękawice
+[glow]glow (EN) : (cz.) błyszczeć; (cz.) jarzyć; (cz.) płonąć; (cz.) promieniować; (cz.) tlić; (cz.) żarzyć; (rz.) blask; (rz.) łuna; (rz.) ogień; (rz.) poblask; (rz.) poświata; (rz.) świetlic; (rz.) żar; (rz.) żarzenie
+[glowing]glowing (EN) : (rz.) blask; (rz.) jarzenie; (rz.) pałanie
+[gloze]gloze (EN) : (cz.) wyjaśniać; (cz.) wyjaśnić
+[glucose]glucose (EN) : (rz.) glikoza; (rz.) glukoza
+[glue]glue (EN) : (cz.) kleić; (cz.) lepić; (cz.) przyklejać; (cz.) przylepiać; (cz.) przylepić; (cz.) skleić; (cz.) sklejać; (rz.) klajster; (rz.) klej; (rz.) lep; (rz.) lepik
+[gluer]gluer (EN) : (rz.) gumówka; (rz.) klejarka
+[gluey]gluey (EN) : (p.) kleisty; (p.) lepki
+[gluier]gluier (EN) : (rz.) lugier
+[glum]glum (EN) : (p.) chmurny; (p.) pochmurny; (p.) ponury
+[glut]glut (EN) : (cz.) nasycać; (cz.) nasycić; (cz.) zatykać; (rz.) nadmiar; (rz.) nasycenie; (rz.) przesycenie; (rz.) przesyt
+[glutamate]glutamate (EN) : (rz.) glutaminian
+[glutamine]glutamine (EN) : (rz.) glutamina
+[glutathione]glutathione (EN) : (rz.) glutation
+[gluten]gluten (EN) : (rz.) gluten
+[gluteus]gluteus (EN) : (p.) pośladkowy
+[glutinous]glutinous (EN) : (p.) kleisty; (p.) lepki
+[glutton]glutton (EN) : (rz.) łakomczuch; (rz.) obżartuch; (rz.) pożeracz; (rz.) żarłok
+[gluttonize]gluttonize (EN) : (cz.) obeżreć
+[gluttonous]gluttonous (EN) : (p.) żarłoczny
+[gluttony]gluttony (EN) : (rz.) łakomstwo; (rz.) obżarstwo; (rz.) żarłoczność
+[glycerine]glycerine (EN) : (rz.) gliceryna
+[glycerol]glycerol (EN) : (rz.) glicerol
+[glycogen]glycogen (EN) : (rz.) glikogen
+[glycol]glycol (EN) : (rz.) glikol
+[glyph]glyph (EN) : (rz.) glif; (rz.) znak
+[gnarl]gnarl (EN) : (cz.) skręcać; (cz.) wykręcać; (rz.) sęk
+[gnarled]gnarled (EN) : (p.) chropowaty; (p.) sękaty
+[gnarly]gnarly (EN) : (p.) chropowaty
+[gnash]gnash (EN) : (cz.) zgrzytać
+[gnat]gnat (EN) : (rz.) komar
+[gnaw]gnaw (EN) : (cz.) dręczyć; (cz.) gryźć; (cz.) nadgryzać; (cz.) obgryzać; (cz.) ogryzać; (cz.) zeżreć; (cz.) zgrzytać
+[gneiss]gneiss (EN) : (rz.) gnejs
+[gnome]gnome (EN) : (rz.) gnom; (rz.) karzeł
+[gnomic]gnomic (EN) : (p.) gnomiczny
+[gnomon]gnomon (EN) : (rz.) gnomon
+[gnosis]gnosis (EN) : (rz.) gnostycyzm
+[gnu]gnu (EN) : (rz.) gnu
+[go]go (EN) : (cz.) chodzić; (cz.) iść; (cz.) jechać; (cz.) odejść; (cz.) podróżować; (cz.) pójść; (cz.) stawać; (cz.) udawać; (cz.) wyjeżdżać; (rz.) próba
+[go-ahead]go-ahead (EN) : (p.) przebojowy; (rz.) akceptacja; (rz.) pozwolenie; (rz.) zgoda
+[go-between]go-between (EN) : (rz.) pośrednik
+[go-cart]go-cart (EN) : (rz.) gokart
+[go-devil]go-devil (EN) : (rz.) drezyna; (rz.) uderzak; (rz.) zbijak; (rz.) zgrabiarka
+[go-getter]go-getter (EN) : (rz.) ktoś
+[go-kart]go-kart (EN) : (rz.) gokart
+[go-slow]go-slow (EN) : (rz.) strajk
+[goad]goad (EN) : (cz.) kłuć; (cz.) podjudzać; (cz.) popędzać; (cz.) prowokować; (rz.) oścień
+[goal]goal (EN) : (rz.) bramka; (rz.) cel; (rz.) gol; (rz.) przeznaczenie
+[goal-keeper]goal-keeper (EN) : (rz.) bramkarz
+[goalie]goalie (EN) : (rz.) bramkarz
+[goalkeeper]goalkeeper (EN) : (rz.) bramkarz
+[goalless]goalless (EN) : (p.) bezbramkowy
+[goat]goat (EN) : (rz.) koza; (rz.) kozica; (rz.) kozioł
+[goat's]goat's (EN) : (p.) kozi
+[goatherd]goatherd (EN) : (rz.) koziarz; (rz.) pasterz
+[goatsucker]goatsucker (EN) : (rz.) kozodój
+[gob]gob (EN) : (rz.) gęba; (rz.) grudka; (rz.) kropla; (rz.) podsadzka; (rz.) porcja; (rz.) zawał; (rz.) zawalisko; (rz.) zroby
+[gobbet]gobbet (EN) : (rz.) kawał; (rz.) kęs
+[gobble]gobble (EN) : (cz.) bulgotać; (cz.) gulgotać; (cz.) pożerać; (cz.) żreć; (rz.) gulgot
+[gobbler]gobbler (EN) : (rz.) indor
+[goblet]goblet (EN) : (rz.) czar; (rz.) czara; (rz.) kielich; (rz.) kieliszek; (rz.) puchar
+[goblin]goblin (EN) : (rz.) chochlik; (rz.) skrzat
+[goby]goby (EN) : (rz.) babka
+[god]god (EN) : (rz.) bóg; (rz.) bóstwo; (rz.) bożek
+[god-child]god-child (EN) : (rz.) chrześniak
+[god-fearing]god-fearing (EN) : (p.) bogobojny
+[godchild]godchild (EN) : (rz.) chrześniak
+[goddess]goddess (EN) : (rz.) bogini
+[godforsaken]godforsaken (EN) : (p.) bezludny; (p.) opuszczony; (p.) zapadły
+[godhead]godhead (EN) : (rz.) bóstwo
+[godless]godless (EN) : (p.) bezbożny
+[godlike]godlike (EN) : (p.) boski
+[godliness]godliness (EN) : (rz.) bogobojność; (rz.) pobożność; (rz.) religijność
+[godly]godly (EN) : (p.) bogobojny; (p.) nabożny; (p.) pobożny
+[godmother]godmother (EN) : (rz.) chrzestna
+[godsend]godsend (EN) : (rz.) niespodzianka
+[godson]godson (EN) : (rz.) chrześniak
+[goethite]goethite (EN) : (rz.) getyt
+[gofer]gofer (EN) : (rz.) andrut; (rz.) posłaniec
+[goggle]goggle (EN) : (cz.) wytrzeszczać; (rz.) gogle
+[goggles]goggles (EN) : (rz.) gogle
+[going]going (EN) : (cz.) zamierzać; (rz.) jazda; (rz.) odejście; (rz.) ruch; (rz.) zagłębianie
+[goings-on]goings-on (EN) : (rz.) zachowanie
+[goitre]goitre (EN) : (rz.) wole
+[gold]gold (EN) : (rz.) gołda; (rz.) złoto
+[gold-bearing]gold-bearing (EN) : (p.) złotodajny; (p.) złotonośny
+[gold-plated]gold-plated (EN) : (p.) złocony
+[goldbrick]goldbrick (EN) : (rz.) tandeta
+[golden]golden (EN) : (p.) złocisty; (p.) złoty
+[golden-mouthed]golden-mouthed (EN) : (p.) złotousty
+[goldfinch]goldfinch (EN) : (rz.) szczygieł
+[goldilocks]goldilocks (EN) : (rz.) blondyn
+[goldsmith]goldsmith (EN) : (rz.) złotnik
+[golf]golf (EN) : (rz.) golf
+[golfer]golfer (EN) : (rz.) golfista
+[golliwog]golliwog (EN) : (rz.) pajac; (rz.) strach; (rz.) straszak; (rz.) straszydło
+[gonad]gonad (EN) : (rz.) gonada
+[gondola]gondola (EN) : (rz.) gondola
+[gong]gong (EN) : (rz.) dobro; (rz.) gong; (rz.) towar; (rz.) wiadomość
+[goniometry]goniometry (EN) : (rz.) goniometria
+[gonococcus]gonococcus (EN) : (rz.) gonokok
+[gonorrhoea]gonorrhoea (EN) : (rz.) rzeżączka; (rz.) tryper
+[gonorrhoeal]gonorrhoeal (EN) : (p.) rzeżączkowy
+[good]good (EN) : (p.) atrakcyjny; (p.) dobry; (p.) dogodny; (p.) grzeczny; (p.) miły; (p.) niezły; (p.) odpowiedni; (p.) poprawny; (p.) udatny; (p.) urodzajny; (p.) ważny; (p.) zacny
+[good-by]good-by (EN) : (rz.) pożegnanie
+[good-bye]good-bye (EN) : (rz.) pożegnanie
+[good-for-nothing]good-for-nothing (EN) : (rz.) nicpoń
+[good-hearted]good-hearted (EN) : (p.) życzliwy
+[good-humoured]good-humoured (EN) : (p.) dobroduszny; (p.) pogodny
+[good-looking]good-looking (EN) : (p.) atrakcyjny; (p.) dorodny; (p.) przystojny; (p.) urodziwy
+[good-natured]good-natured (EN) : (p.) dobroduszny; (p.) dobrotliwy; (p.) uprzejmy; (p.) zgodny
+[good-night]good-night (EN) : (rz.) dobranoc
+[good-steering]good-steering (EN) : (p.) sterowny
+[good-turning]good-turning (EN) : (p.) zwrotny
+[goodbye]goodbye (EN) : (rz.) pożegnanie
+[goodie]goodie (EN) : (rz.) sztywniak
+[goodish]goodish (EN) : (p.) niezły; (p.) spory
+[goodly]goodly (EN) : (p.) duży; (p.) miły; (p.) piękny; (p.) pokaźny; (p.) spory; (p.) znaczny
+[goodness]goodness (EN) : (rz.) dobroć; (rz.) uprzejmość
+[goodnight]goodnight (EN) : (rz.) dobranoc
+[goods]goods (EN) : (rz.) towar
+[goodwill]goodwill (EN) : (rz.) pieczołowitość; (rz.) reputacja; (rz.) życzliwość
+[goody]goody (EN) : (rz.) słodycz; (rz.) świętoszek
+[goody-goody]goody-goody (EN) : (rz.) oportunista; (rz.) pochlebca; (rz.) świętoszek
+[gooey]gooey (EN) : (p.) kleisty; (p.) lepki
+[goof]goof (EN) : (rz.) głupiec; (rz.) niedorajda
+[goofy]goofy (EN) : (p.) durny; (p.) głupkowaty
+[gook]gook (EN) : (rz.) prostytutka
+[goon]goon (EN) : (rz.) głupek; (rz.) kretyn
+[goose]goose (EN) : (rz.) gąska; (rz.) gęś; (rz.) gęsina; (rz.) gęsior
+[gooseberries]gooseberries (EN) : (rz.) agrest
+[gooseberry]gooseberry (EN) : (rz.) agrest
+[gooseflesh]gooseflesh (EN) : (rz.) mrowie
+[gooseneck]gooseneck (EN) : (rz.) przewód
+[goosy]goosy (EN) : (p.) nerwowy
+[gopher]gopher (EN) : (rz.) suseł; (rz.) świstak
+[gore]gore (EN) : (cz.) przebijać; (rz.) bryt; (rz.) godet; (rz.) klin; (rz.) posoka; (rz.) zrogowacenie
+[gorge]gorge (EN) : (rz.) czeluść; (rz.) gardło; (rz.) gardziel; (rz.) kapinos; (rz.) łzawnik; (rz.) parów; (rz.) przełom; (rz.) wąwóz; (rz.) wyżerka
+[gorgeous]gorgeous (EN) : (p.) cudny; (p.) cudowny; (p.) okazały; (p.) przepiękny; (p.) wspaniały; (p.) wystawny
+[gorgeously]gorgeously (EN) : (p-sł.) barwnie
+[gorgeousness]gorgeousness (EN) : (rz.) przepych; (rz.) przepychanie
+[gorgon]gorgon (EN) : (rz.) megiera
+[gorilla]gorilla (EN) : (rz.) goryl
+[gormandize]gormandize (EN) : (cz.) objadać; (cz.) objeść; (rz.) obżartuch
+[gormless]gormless (EN) : (p.) głupi
+[gorse]gorse (EN) : (rz.) janowiec
+[gory]gory (EN) : (p.) krwawy
+[gosh]gosh (EN) : (wykrzyknik) ojej
+[gosling]gosling (EN) : (rz.) gąsiątko
+[gospel]gospel (EN) : (rz.) ewangelia
+[gossamer]gossamer (EN) : (rz.) pajęczynka
+[gossip]gossip (EN) : (cz.) gawędzić; (cz.) plotkować; (cz.) poplotkować; (rz.) bajczarz; (rz.) gawęda; (rz.) paniusia; (rz.) plotka; (rz.) plotkarstwo; (rz.) plotkarz; (rz.) plotkowanie
+[gossip-monger]gossip-monger (EN) : (rz.) nowinkarz
+[gossiper]gossiper (EN) : (rz.) plotkarz
+[gossipmonger]gossipmonger (EN) : (rz.) plotkarz
+[gossipy]gossipy (EN) : (p.) plotkarski
+[gossoon]gossoon (EN) : (rz.) chłopak
+[got]got (EN) : (cz.) dojść; (cz.) dostać; (cz.) otrzymać; (cz.) robić; (cz.) stać; (cz.) wpływać
+[gothic]gothic (EN) : (p.) gocki; (p.) gotycki; (rz.) gotyk
+[gotten]gotten (EN) : (cz.) robić
+[gouache]gouache (EN) : (rz.) gwasz
+[gouge]gouge (EN) : (cz.) dłubać; (cz.) oszukiwać; (cz.) rozdłubać; (cz.) żłobkować
+[goulash]goulash (EN) : (rz.) gulasz
+[gourd]gourd (EN) : (rz.) bania; (rz.) gurda; (rz.) tykwa
+[gourmand]gourmand (EN) : (rz.) łakomczuch; (rz.) łasuch; (rz.) obżartuch; (rz.) smakosz
+[gourmandise]gourmandise (EN) : (rz.) łakomstwo
+[gourmet]gourmet (EN) : (rz.) smakosz
+[gout]gout (EN) : (rz.) gościec; (rz.) kropla; (rz.) podagra
+[gouty]gouty (EN) : (p.) artretyczny; (p.) podagryczny
+[govern]govern (EN) : (cz.) determinować; (cz.) panować; (cz.) rządzić
+[governance]governance (EN) : (rz.) kierowanie; (rz.) rządzenie; (rz.) zarządzanie
+[government]government (EN) : (rz.) administracja; (rz.) gubernia; (rz.) rekcja; (rz.) rząd; (rz.) ustrój
+[governmental]governmental (EN) : (p.) rządowy
+[governor]governor (EN) : (rz.) dyrektor; (rz.) gubernator; (rz.) naczelnik; (rz.) namiestnik; (rz.) regulator; (rz.) wielkorządca; (rz.) wojewoda; (rz.) zarządca
+[governorship]governorship (EN) : (rz.) gubernatorstwo; (rz.) namiestnictwo
+[gown]gown (EN) : (rz.) fartuch; (rz.) płaszcz; (rz.) suknia; (rz.) toga
+[grab]grab (EN) : (cz.) chwycić; (cz.) chwytać; (cz.) dorwać; (cz.) grabić; (cz.) porwać; (cz.) porywać; (cz.) przechwytywać; (cz.) przejąć; (cz.) złapać
+[grabber]grabber (EN) : (rz.) chciwiec
+[grabble]grabble (EN) : (cz.) macać
+[grace]grace (EN) : (cz.) faworyzować; (cz.) zdobić; (rz.) gracja; (rz.) grzeczność; (rz.) karencja; (rz.) łaska; (rz.) wdzięk
+[graceful]graceful (EN) : (p.) łagodny; (p.) poprawny; (p.) powabny; (p.) wdzięczny
+[gracefully]gracefully (EN) : (p-sł.) wdzięcznie
+[gracefulness]gracefulness (EN) : (rz.) wdzięk
+[graceless]graceless (EN) : (p.) bezwstydny
+[gracious]gracious (EN) : (p.) łaskawy; (p.) miłościwy; (p.) miłosierny
+[graciously]graciously (EN) : (p-sł.) łaskawie; (p-sł.) uprzejmie
+[graciousness]graciousness (EN) : (rz.) łaskawość
+[grackle]grackle (EN) : (rz.) gwarek
+[grad]grad (EN) : (p.) gradowy
+[gradate]gradate (EN) : (cz.) tonować
+[gradation]gradation (EN) : (rz.) gradacja; (rz.) podziałka; (rz.) skala; (rz.) stopniowanie; (rz.) ukończenie
+[grade]grade (EN) : (rz.) gatunek; (rz.) klasa; (rz.) nachylenie; (rz.) ocena; (rz.) ranga; (rz.) stopień; (rz.) szczebel
+[grader]grader (EN) : (rz.) równiarka; (rz.) sortowacz
+[gradient]gradient (EN) : (rz.) nachylenie; (rz.) pochylenie; (rz.) spadek
+[grading]grading (EN) : (rz.) klasyfikowanie; (rz.) sortowanie; (rz.) stopniowanie; (rz.) tonowanie; (rz.) zaszeregowanie
+[gradiometer]gradiometer (EN) : (p.) stopniowy; (rz.) pochyłomierz
+[gradual]gradual (EN) : (p.) stopniowy
+[gradually]gradually (EN) : (p-sł.) powoli; (p-sł.) stopniowo
+[gradualness]gradualness (EN) : (rz.) stopniowość
+[graduate]graduate (EN) : (cz.) stopniować; (rz.) abiturient; (rz.) absolutorium; (rz.) absolwent
+[graduate's]graduate's (EN) : (p.) magisterski
+[graduation]graduation (EN) : (rz.) absolutorium; (rz.) podziałką; (rz.) stopniowanie
+[graffiti]graffiti (EN) : (rz.) graffiti; (rz.) grafika
+[graffito]graffito (EN) : (rz.) szczep
+[graft]graft (EN) : (cz.) dawać; (cz.) krzewić; (cz.) przeszczepiać; (cz.) szczepić; (cz.) transplantować; (cz.) wymuszać; (rz.) łapówka; (rz.) przeszczep; (rz.) szczep; (rz.) szczepionka; (rz.) wymuszenie; (rz.) zaszczepka; (rz.) zraz; (rz.) zrażenie
+[grafter]grafter (EN) : (rz.) łapówkarz; (rz.) łapownik
+[grain]grain (EN) : (rz.) kasza; (rz.) lico; (rz.) odrobina; (rz.) słój; (rz.) włókno; (rz.) zborze; (rz.) zboże; (rz.) ziarenko; (rz.) ziarnistość; (rz.) ziarnko; (rz.) ziarno
+[grained]grained (EN) : (p.) ziarnisty
+[grainer]grainer (EN) : (rz.) ziarnówka
+[graininess]graininess (EN) : (rz.) ziarnistość
+[graining]graining (EN) : (rz.) granulowanie; (rz.) groszkowanie; (rz.) ziarnowanie
+[grains]grains (EN) : (rz.) harpun; (rz.) ziarno
+[grainy]grainy (EN) : (p.) chropowaty; (p.) ziarnisty
+[gram]gram (EN) : (rz.) cieciorka; (rz.) gram
+[gram-atom]gram-atom (EN) : (rz.) gramoatom
+[gram-equivalent]gram-equivalent (EN) : (rz.) gramorównoważnik; (rz.) wal
+[gram-force]gram-force (EN) : (rz.) gram-siła; (rz.) pond
+[gram-molecule]gram-molecule (EN) : (rz.) gramocząsteczka; (rz.) mol
+[grammalogue]grammalogue (EN) : (rz.) znacznik
+[grammar]grammar (EN) : (rz.) gramatyka
+[grammars]grammars (EN) : (rz.) gramatyk
+[grammatical]grammatical (EN) : (p.) gramatyczny
+[grammaticality]grammaticality (EN) : (p.) gramatyczny
+[gramophone]gramophone (EN) : (rz.) gramofon; (rz.) patefon
+[grampus]grampus (EN) : (rz.) szablogrzbiet
+[grams]grams (EN) : (rz.) gram
+[granary]granary (EN) : (rz.) spichlerz
+[grand]grand (EN) : (p.) duży; (p.) główny; (p.) huczny; (p.) imponujący; (p.) paradny; (p.) świetny; (p.) uroczysty; (p.) wielki; (p.) znakomity
+[grandchild]grandchild (EN) : (rz.) prawnuk; (rz.) wnuczka; (rz.) wnuk
+[grandchildren]grandchildren (EN) : (rz.) wnuczki
+[granddad]granddad (EN) : (rz.) dziadek; (rz.) dziadunio; (rz.) dziadzio
+[granddaughter]granddaughter (EN) : (rz.) wnuczka
+[grandee]grandee (EN) : (rz.) granda
+[grander]grander (EN) : (p.) świetny
+[grandeur]grandeur (EN) : (rz.) dostojność; (rz.) majestatyczność; (rz.) okazałość; (rz.) szlachetność; (rz.) wielkość; (rz.) wspaniałość
+[grandfather]grandfather (EN) : (rz.) dziadek
+[grandiloquence]grandiloquence (EN) : (rz.) górnolotność; (rz.) grandilokwencja; (rz.) pompatyczność
+[grandiloquent]grandiloquent (EN) : (p.) górnolotny
+[grandiose]grandiose (EN) : (p.) efekciarski; (p.) pompatyczny
+[grandly]grandly (EN) : (p-sł.) okazale
+[grandma]grandma (EN) : (rz.) babcia; (rz.) babunia
+[grandmamma]grandmamma (EN) : (rz.) babcia; (rz.) babula
+[grandmother]grandmother (EN) : (rz.) babcia; (rz.) babka; (rz.) babunia
+[grandpa]grandpa (EN) : (rz.) dziadek; (rz.) dziadunio; (rz.) dziadzio; (rz.) dziadziuś
+[grandpapa]grandpapa (EN) : (rz.) dziadunio
+[grandparent]grandparent (EN) : (rz.) babcia; (rz.) dziadek
+[grandparents]grandparents (EN) : (rz.) dziadkowie
+[grandson]grandson (EN) : (rz.) wnuk
+[grange]grange (EN) : (rz.) farma; (rz.) towarzystwo
+[granite]granite (EN) : (rz.) granit
+[granny]granny (EN) : (rz.) babcia; (rz.) babunia
+[grant]grant (EN) : (cz.) nadać; (cz.) nadawać; (cz.) oddać; (cz.) przyznać; (cz.) przyznawać; (cz.) udzielać; (cz.) udzielić; (cz.) użyczać; (rz.) dar; (rz.) darowizna; (rz.) dofinansowanie; (rz.) dotacja; (rz.) grant; (rz.) nadanie; (rz.) stypendium; (rz.) subwencja; (rz.) udzielenie; (rz.) wyasygnowanie; (rz.) zapomoga
+[grant-in-aid]grant-in-aid (EN) : (rz.) dotacja; (rz.) subwencja
+[grantee]grantee (EN) : (rz.) cesjonariusz
+[granular]granular (EN) : (p.) drobny; (p.) ziarnisty
+[granularity]granularity (EN) : (rz.) rozdrobnienie; (rz.) szczegółowość; (rz.) ziarnistość
+[granulate]granulate (EN) : (cz.) granulować; (cz.) rozdrabniać
+[granulation]granulation (EN) : (rz.) granulacja; (rz.) granulowanie; (rz.) ziarnina; (rz.) ziarnistość
+[granulator]granulator (EN) : (rz.) granulator
+[granule]granule (EN) : (rz.) granula; (rz.) granulka; (rz.) ziarenko; (rz.) ziarnko
+[granules]granules (EN) : (rz.) granulat
+[grape]grape (EN) : (rz.) grapa; (rz.) moszcz; (rz.) winogrono; (rz.) winorośl
+[grape-fruit]grape-fruit (EN) : (rz.) grejpfrut; (rz.) winogrono
+[grape-juice]grape-juice (EN) : (rz.) moszcz
+[grape-shot]grape-shot (EN) : (rz.) kartacz
+[grape-vine]grape-vine (EN) : (rz.) winorośl
+[grapefruit]grapefruit (EN) : (rz.) grejpfrut; (rz.) winogrono
+[grapes]grapes (EN) : (rz.) winogrona; (rz.) winogrono
+[grapevine]grapevine (EN) : (rz.) latorośl; (rz.) winorośl
+[graph]graph (EN) : (rz.) graf; (rz.) krzywa; (rz.) wykres
+[graphic]graphic (EN) : (p.) graficzny; (p.) obrazowy; (p.) wykreślny; (rz.) grafik; (rz.) grafika
+[graphical]graphical (EN) : (p.) graficzny
+[graphically]graphically (EN) : (p-sł.) graficznie; (p-sł.) obrazowo
+[graphics]graphics (EN) : (rz.) grafika
+[graphite]graphite (EN) : (rz.) grafit
+[graphitizing]graphitizing (EN) : (rz.) grafityzowanie
+[graphologist]graphologist (EN) : (rz.) grafolog
+[graphology]graphology (EN) : (rz.) grafologia
+[grapnel]grapnel (EN) : (rz.) harpun
+[grapple]grapple (EN) : (cz.) chwytać; (cz.) objąć; (cz.) zmagać; (rz.) chwyt; (rz.) chwytak; (rz.) walka; (rz.) zmaganie
+[grapy]grapy (EN) : (p.) winogronowy
+[grasp]grasp (EN) : (cz.) chwycić; (cz.) chwytać; (cz.) łapać; (cz.) objąć; (cz.) pojąć; (cz.) pojmować; (cz.) schwytać; (cz.) uchwycić; (rz.) chwyt; (rz.) uchwyt; (rz.) ujęcie; (rz.) uścisk
+[graspable]graspable (EN) : (p.) uchwytny
+[grasped]grasped (EN) : (cz.) chwytać; (cz.) pojąć; (cz.) pojmować; (cz.) ściskać; (cz.) uchwycić; (cz.) zrozumieć
+[grasping]grasping (EN) : (p.) drapieżczy; (p.) łapczywy; (p.) zachłanny
+[grass]grass (EN) : (rz.) kapuś; (rz.) murawa; (rz.) trawa; (rz.) trawka
+[grass-green]grass-green (EN) : (p.) trawiastozielony
+[grass-snake]grass-snake (EN) : (rz.) zaskroniec
+[grasshopper]grasshopper (EN) : (rz.) pasikonik; (rz.) świerszcz
+[grassland]grassland (EN) : (rz.) łąka; (rz.) step
+[grassy]grassy (EN) : (p.) trawiasty
+[grate]grate (EN) : (cz.) chrypieć; (cz.) drapać; (cz.) okratować; (cz.) skrobać; (cz.) skrzypieć; (cz.) trzeć; (cz.) zakratować; (cz.) zetrzeć; (rz.) krata; (rz.) kratownica; (rz.) ognisko; (rz.) palenisko; (rz.) ruszt
+[grateful]grateful (EN) : (p.) wdzięczny
+[gratefully]gratefully (EN) : (p-sł.) wdzięcznie
+[gratefulness]gratefulness (EN) : (rz.) wdzięczność
+[grater]grater (EN) : (rz.) tarka
+[gratification]gratification (EN) : (rz.) gratyfikacja; (rz.) przyjemność; (rz.) wynagrodzenie; (rz.) zadośćuczynienie; (rz.) zadowolenie; (rz.) zaspokojenie
+[gratify]gratify (EN) : (cz.) satysfakcjonować; (cz.) schlebiać; (cz.) ucieszyć; (cz.) wynagrodzić; (cz.) zadowolić; (cz.) zaspokajać; (cz.) zaspokoić
+[grating]grating (EN) : (p.) chrobotliwy; (p.) chrypliwy; (p.) zgrzytliwy; (rz.) chrobot; (rz.) krata; (rz.) okratowanie; (rz.) ucieranie
+[gratis]gratis (EN) : (p.) darmowy; (p-sł.) bezpłatnie; (p-sł.) darmo
+[gratitude]gratitude (EN) : (rz.) wdzięczność
+[gratuitous]gratuitous (EN) : (p.) bezpłatny; (p.) bezpodstawny; (p.) dobrowolny; (p.) zbędny
+[gratuitously]gratuitously (EN) : (p-sł.) bezpłatnie
+[gratuity]gratuity (EN) : (rz.) dar; (rz.) gratyfikacja; (rz.) napiwek
+[gratulatory]gratulatory (EN) : (p.) gratulacyjny
+[grave]grave (EN) : (p.) ciężki; (p.) doniosły; (p.) grobowy; (p.) ponury; (p.) poważny; (p.) ważny; (rz.) grób; (rz.) mogiła
+[gravedigger]gravedigger (EN) : (rz.) grabarz
+[gravel]gravel (EN) : (rz.) żużel; (rz.) żwir; (rz.) żwirownia
+[gravel-pit]gravel-pit (EN) : (rz.) żwirownia
+[gravely]gravely (EN) : (p-sł.) poważnie
+[graveness]graveness (EN) : (rz.) grób; (rz.) wyrycie
+[graver]graver (EN) : (rz.) grawer; (rz.) rylec
+[gravestone]gravestone (EN) : (rz.) nagrobek
+[graveyard]graveyard (EN) : (rz.) cmentarz; (rz.) cmentarzysko; (rz.) mogilnik
+[gravidity]gravidity (EN) : (rz.) ciąża
+[gravimeter]gravimeter (EN) : (rz.) grawimetr
+[gravimetric]gravimetric (EN) : (p.) grawimetryczny; (p.) wagowy
+[gravitate]gravitate (EN) : (cz.) ciążyć; (cz.) grawitować; (cz.) opadać
+[gravitation]gravitation (EN) : (rz.) ciążenie; (rz.) grawitacja
+[gravitational]gravitational (EN) : (p.) grawitacyjny
+[graviton]graviton (EN) : (rz.) grawiton
+[gravity]gravity (EN) : (rz.) ciążenie; (rz.) ciężar; (rz.) ciężkość; (rz.) grawitacja; (rz.) namaszczenie; (rz.) ociekanie; (rz.) powaga; (rz.) przyciąganie; (rz.) waga; (rz.) ważkość
+[gravure]gravure (EN) : (rz.) fotograwiura
+[gravy]gravy (EN) : (rz.) okrasa; (rz.) okraszenie; (rz.) sos
+[grayling]grayling (EN) : (rz.) lipień
+[graze]graze (EN) : (rz.) draśnięcie; (rz.) zadraśnięcie
+[grazing]grazing (EN) : (rz.) pasienie; (rz.) pastwisko; (rz.) wypas
+[grease]grease (EN) : (cz.) nasmarować; (cz.) natłuszczać; (cz.) omaścić; (cz.) posmarować; (cz.) smarować; (cz.) tłuścić; (rz.) maź; (rz.) okrasa; (rz.) pomada; (rz.) smalec; (rz.) smar; (rz.) tłuszcz
+[grease-box]grease-box (EN) : (rz.) maźnica
+[greasepaint]greasepaint (EN) : (rz.) szminka
+[greaser]greaser (EN) : (rz.) smarowacz; (rz.) smarownica; (rz.) smarownik
+[greasiness]greasiness (EN) : (rz.) smarność; (rz.) smarowność; (rz.) tłustość; (rz.) zatłuszczenie
+[greasing]greasing (EN) : (rz.) natłuszczanie; (rz.) omaszczenie; (rz.) smarowanie
+[greasy]greasy (EN) : (p.) brudny; (p.) mazisty; (p.) natłuszczony; (p.) tłusty; (p.) zatłuszczony
+[great]great (EN) : (p.) duży; (p.) fajny; (p.) gruby; (p.) ogromny; (p.) świetny; (p.) wielki; (p.) wspaniały; (p.) wybitny
+[great-coat]great-coat (EN) : (rz.) palto; (rz.) płaszcz
+[great-grandchild]great-grandchild (EN) : (rz.) prawnuk
+[great-grandfather]great-grandfather (EN) : (rz.) pradziadek
+[great-grandmother]great-grandmother (EN) : (rz.) prababcia; (rz.) prababka
+[great-grandson]great-grandson (EN) : (rz.) prawnuk; (rz.) wnuk
+[greatcoat]greatcoat (EN) : (rz.) palto; (rz.) płaszcz; (rz.) szynel
+[greaten]greaten (EN) : (cz.) powiększać
+[greatly]greatly (EN) : (p-sł.) bardzo; (p-sł.) ogromnie; (p-sł.) wielce; (p-sł.) znacznie
+[greatness]greatness (EN) : (rz.) ogrom; (rz.) wielkość; (rz.) wspaniałość
+[greave]greave (EN) : (rz.) skwarek
+[greaves]greaves (EN) : (rz.) skwarki
+[grebe]grebe (EN) : (rz.) perkoz
+[greed]greed (EN) : (rz.) chciwość; (rz.) łakomstwo; (rz.) zachłanność; (rz.) żądza
+[greedily]greedily (EN) : (p-sł.) chciwie; (p-sł.) łapczywie; (p-sł.) zachłannie
+[greediness]greediness (EN) : (rz.) chciwość; (rz.) łakomstwo; (rz.) łapczywość
+[greedy]greedy (EN) : (p.) chciwy; (p.) łakomy; (p.) łapczywy; (p.) łasy; (p.) pazerny; (p.) pożądliwy; (p.) rządny; (p.) zachłanny; (p.) żądny; (p.) żarłoczny
+[greedy-guts]greedy-guts (EN) : (rz.) pasibrzuch
+[green]green (EN) : (p.) zielony; (rz.) łąka; (rz.) skwer; (rz.) zieleń
+[green-back]green-back (EN) : (rz.) banknot
+[green-eyed]green-eyed (EN) : (p.) zielonooki
+[green-sickness]green-sickness (EN) : (rz.) blednica
+[greenback]greenback (EN) : (rz.) banknot
+[greenery]greenery (EN) : (rz.) roślinność; (rz.) trawnik; (rz.) warzywo; (rz.) zieleń
+[greenfinch]greenfinch (EN) : (rz.) dzwoniec
+[greenfly]greenfly (EN) : (rz.) mszyca
+[greengage]greengage (EN) : (rz.) renkloda
+[greengrocer]greengrocer (EN) : (rz.) badylarz; (rz.) jarzyniarz; (rz.) warzywniak; (rz.) zieleniak; (rz.) zieleniarz
+[greengrocer's]greengrocer's (EN) : (rz.) warzywniak; (rz.) zieleniak
+[greengrocery]greengrocery (EN) : (rz.) warzywniak
+[greengrocer’s]greengrocer’s (EN) : (rz.) warzywniak
+[greenhorn]greenhorn (EN) : (rz.) żółtodziób
+[greenhouse]greenhouse (EN) : (rz.) cieplarnia; (rz.) palmiarnia; (rz.) szklarnia
+[greening]greening (EN) : (rz.) zielenienie
+[greenish]greenish (EN) : (p.) zielonkawy
+[greenness]greenness (EN) : (rz.) zieleń; (rz.) zieloność
+[greens]greens (EN) : (rz.) warzywa; (rz.) zielenina
+[greensickness]greensickness (EN) : (rz.) blednica
+[greensward]greensward (EN) : (rz.) murawa
+[greenwood]greenwood (EN) : (rz.) las
+[greet]greet (EN) : (cz.) kłaniać; (cz.) powitać; (cz.) pozdrawiać; (cz.) pozdrowić; (cz.) witać
+[greeting]greeting (EN) : (rz.) powitanie; (rz.) pozdrawianie; (rz.) pozdrowienie; (rz.) przywitanie; (rz.) salutowanie
+[gregarious]gregarious (EN) : (p.) stadny; (p.) towarzyski
+[gremial]gremial (EN) : (rz.) gremiał
+[gremlin]gremlin (EN) : (rz.) chochlik
+[grenade]grenade (EN) : (rz.) granat
+[grenadier]grenadier (EN) : (rz.) grenadier
+[grenadine]grenadine (EN) : (rz.) grenadyna
+[grew]grew (EN) : (cz.) rosnąć
+[grey]grey (EN) : (p.) popielaty; (p.) siwy; (p.) szary
+[grey-haired]grey-haired (EN) : (p.) siwowłosy; (p.) siwy
+[greyhound]greyhound (EN) : (rz.) chart
+[greyness]greyness (EN) : (rz.) szarzyzna
+[grid]grid (EN) : (rz.) kratka; (rz.) kratownica; (rz.) nieszczęście; (rz.) ruszt; (rz.) siatka; (rz.) smutek; (rz.) żal; (rz.) żałość; (rz.) zgryzota
+[griddle]griddle (EN) : (rz.) blacha
+[gridiron]gridiron (EN) : (rz.) ruszt
+[gridlock]gridlock (EN) : (rz.) korek
+[grief]grief (EN) : (rz.) frasunek; (rz.) nieszczęście; (rz.) smutek; (rz.) żal; (rz.) żałoba; (rz.) żałość; (rz.) zgryzota; (rz.) zmartwienie
+[grievance]grievance (EN) : (rz.) krzywda; (rz.) skarga; (rz.) uraza; (rz.) żal
+[grieve]grieve (EN) : (cz.) krzywdzić; (cz.) martwić; (cz.) rozpaczać; (cz.) smucić; (cz.) ubolewać
+[grievous]grievous (EN) : (p.) bolesny; (p.) ciężki; (p.) jaskrawy; (p.) poważny; (p.) przykry
+[griffin]griffin (EN) : (rz.) gryf; (rz.) nowicjusz
+[griffon]griffon (EN) : (rz.) gryfon
+[grill]grill (EN) : (cz.) prażyć; (cz.) przypiekać; (cz.) smażyć; (rz.) krata; (rz.) opiekacz; (rz.) rożen; (rz.) ruszt
+[grille]grille (EN) : (rz.) krata; (rz.) kratka; (rz.) okratowanie
+[grillroom]grillroom (EN) : (rz.) restauracja
+[grim]grim (EN) : (p.) groźny; (p.) okrutny; (p.) ponury; (p.) srogi; (p.) wisielczy
+[grimace]grimace (EN) : (cz.) grymasić; (cz.) wykrzywiać; (cz.) wykrzywić; (rz.) grymas
+[grime]grime (EN) : (cz.) brudzić; (cz.) usmarować; (cz.) zbrukać; (rz.) brud
+[grimness]grimness (EN) : (rz.) ponuractwo; (rz.) srogość
+[grimy]grimy (EN) : (p.) brudny
+[grin]grin (EN) : (cz.) śmiać; (cz.) szczerzyć; (cz.) uśmiechać; (rz.) uśmiech
+[grind]grind (EN) : (cz.) chrzęścić; (cz.) mielić; (cz.) mleć; (cz.) obtaczać; (cz.) przemleć; (cz.) rozcierać; (cz.) rozdrabiać; (cz.) skruszyć; (cz.) szlifować; (cz.) wyszlifować; (cz.) zemleć; (cz.) zgrzytać; (cz.) zmielić; (rz.) kujon
+[grinder]grinder (EN) : (rz.) młyn; (rz.) młynek; (rz.) śrutownik; (rz.) szlifierka; (rz.) szlifierz
+[grindery]grindery (EN) : (rz.) szlifiernia
+[grinding]grinding (EN) : (p.) szlifierski
+[grindstone]grindstone (EN) : (rz.) osełka; (rz.) toczak; (rz.) toczydło
+[gringo]gringo (EN) : (rz.) cudzoziemiec; (rz.) obcokrajowiec
+[grip]grip (EN) : (cz.) ściskać; (cz.) trzymać; (cz.) ująć; (rz.) chwyt; (rz.) chwytacz; (rz.) opanowanie; (rz.) uchwyt; (rz.) uścisk; (rz.) zaczepienie
+[gripe]gripe (EN) : (cz.) biadolić; (cz.) chwytać; (cz.) dojmować; (cz.) labiedzić; (cz.) narzekać; (cz.) przeszyć
+[grippe]grippe (EN) : (rz.) grypa
+[gripper]gripper (EN) : (rz.) imak; (rz.) łapadło; (rz.) spadochron; (rz.) zacisk
+[gripping]gripping (EN) : (p.) pasjonujący
+[grisly]grisly (EN) : (p.) makabryczny; (p.) okropny
+[grist]grist (EN) : (rz.) przemiał; (rz.) słód; (rz.) ziarno
+[gristle]gristle (EN) : (rz.) chrząstka
+[gristly]gristly (EN) : (p.) chrząstkowaty
+[grit]grit (EN) : (cz.) chrzęścić; (cz.) zachrzęścić; (rz.) grys; (rz.) odwaga; (rz.) piasek; (rz.) piaskowiec; (rz.) stanowczość; (rz.) żwir
+[grits]grits (EN) : (rz.) grys
+[gritty]gritty (EN) : (p.) krupiasty; (p.) piaszczysty
+[grizzle]grizzle (EN) : (cz.) marudzić; (cz.) narzekać; (cz.) płakać; (cz.) popłakiwać
+[grizzly]grizzly (EN) : (rz.) krata
+[groan]groan (EN) : (cz.) jęczeć; (cz.) stękać; (cz.) zajęczeć; (rz.) jęczenie; (rz.) jęk; (rz.) pomruk
+[grocer]grocer (EN) : (rz.) sklepikarz; (rz.) sprzedawca
+[grog]grog (EN) : (rz.) grog; (rz.) palonka
+[groggy]groggy (EN) : (p.) niepewny
+[groin]groin (EN) : (rz.) falochron; (rz.) krawędź; (rz.) ostroga; (rz.) pachwina
+[groins]groins (EN) : (rz.) ostróg
+[grommet]grommet (EN) : (rz.) przelotka
+[groom]groom (EN) : (cz.) obrządzać; (rz.) fornal; (rz.) koniuch; (rz.) koniuszy; (rz.) szambelan
+[grooming]grooming (EN) : (rz.) oporządzanie
+[groomsman]groomsman (EN) : (rz.) drużba
+[groove]groove (EN) : (cz.) bruzdować; (cz.) bruździć; (cz.) żłobić; (cz.) zryć; (rz.) bruzda; (rz.) przyzwyczajenie; (rz.) rowek; (rz.) szablon; (rz.) wpust; (rz.) wyżłobienie; (rz.) żłobek
+[grope]grope (EN) : (cz.) macać
+[gropingly]gropingly (EN) : (p-sł.) omackiem
+[grosbeak]grosbeak (EN) : (rz.) grubodziób
+[gross]gross (EN) : (p.) całkowity; (p.) duży; (p.) gruby; (p.) jaskrawy; (p.) karygodny; (p.) niewybredny; (p.) ordynarny; (p.) poważny; (p.) sprośny; (p.) tłusty; (p.) toporny; (rz.) brutto; (rz.) gros; (rz.) suma
+[grossly]grossly (EN) : (p-sł.) rażąco; (p-sł.) sprośnie
+[grossness]grossness (EN) : (rz.) ogrom; (rz.) ordynarność; (rz.) skandaliczność; (rz.) sprośność
+[grosz]grosz (EN) : (p.) groszowy
+[grot]grot (EN) : (rz.) grota
+[grotesque]grotesque (EN) : (p.) groteskowy; (p.) karykaturalny; (rz.) groteska; (rz.) groteskowość
+[grotesquely]grotesquely (EN) : (p-sł.) groteskowo
+[grotesqueness]grotesqueness (EN) : (rz.) groteskowość
+[grotto]grotto (EN) : (rz.) grota
+[grottos]grottos (EN) : (rz.) grot
+[grouch]grouch (EN) : (cz.) gderać; (cz.) zrzędzić; (rz.) gderanie; (rz.) zrzęda
+[grouchiness]grouchiness (EN) : (rz.) zrzędliwość
+[grouchy]grouchy (EN) : (p.) zrzędliwy
+[ground]ground (EN) : (cz.) gruntować; (cz.) opierać; (cz.) podkładać; (cz.) podmalować; (cz.) skruszyć; (cz.) ustępować; (cz.) uziemić; (rz.) dno; (rz.) grunt; (rz.) masa; (rz.) plac; (rz.) podkład; (rz.) podłoże; (rz.) podstawa; (rz.) przyziem; (rz.) teren; (rz.) uziemienie; (rz.) ziemia
+[ground-floor]ground-floor (EN) : (p.) parterowy; (rz.) parter
+[groundage]groundage (EN) : (rz.) kotwiczenie; (rz.) kotwiczne
+[grounding]grounding (EN) : (rz.) gruntowanie; (rz.) podstawa; (rz.) uziemianie; (rz.) wyszkolenie
+[groundless]groundless (EN) : (p.) bezpodstawny; (p.) bezprzedmiotowy; (p.) bezzasadny; (p.) gołosłowny
+[groundlessly]groundlessly (EN) : (p-sł.) bezpodstawnie
+[groundlessness]groundlessness (EN) : (rz.) bezpodstawność
+[groundmass]groundmass (EN) : (rz.) osnowa
+[groundnut]groundnut (EN) : (rz.) arachid
+[grounds]grounds (EN) : (rz.) teren
+[groundsel]groundsel (EN) : (rz.) podwalina
+[groundsheet]groundsheet (EN) : (rz.) brezent; (rz.) pałatka
+[groundwork]groundwork (EN) : (rz.) baza; (rz.) podkład; (rz.) podstawa
+[group]group (EN) : (cz.) dzielić; (cz.) grupować; (cz.) klasyfikować; (cz.) pogrupować; (cz.) zgrupować; (rz.) gromada; (rz.) grupa; (rz.) grupka; (rz.) koncern; (rz.) peleton; (rz.) ugrupowanie; (rz.) zbiorowość; (rz.) zespół; (rz.) zgrupowanie
+[grouping]grouping (EN) : (rz.) zgrupowanie
+[groupware]groupware (EN) : (rz.) kooperacyjne
+[grouse]grouse (EN) : (cz.) kwękać; (cz.) narzekać; (cz.) zrzędzić; (rz.) gderanie; (rz.) głuszec; (rz.) jarząbek; (rz.) kuropatwa; (rz.) pardwa
+[grout]grout (EN) : (rz.) torkret; (rz.) tynk
+[grouting]grouting (EN) : (rz.) cementacja
+[grove]grove (EN) : (rz.) gaj; (rz.) lasek; (rz.) zagajnik
+[grovel]grovel (EN) : (cz.) czołgać; (cz.) pełzać; (cz.) płaszczyć; (cz.) poniżać
+[grow]grow (EN) : (cz.) dorastać; (cz.) hodować; (cz.) martwieć; (cz.) narastać; (cz.) podrastać; (cz.) rosnąć; (cz.) rozrastać; (cz.) stawać; (cz.) uprawiać; (cz.) urastać; (cz.) wychudnąć; (cz.) wyhodować; (cz.) wyrastać
+[grower]grower (EN) : (rz.) hodowca; (rz.) plantator
+[growing]growing (EN) : (p.) wegetacyjny; (rz.) dorastanie; (rz.) uprawianie; (rz.) wyrastanie
+[growl]growl (EN) : (cz.) gderać; (cz.) mruczeć; (cz.) warczeć; (rz.) gderanie; (rz.) mruczenie; (rz.) pomruk; (rz.) warczenie
+[growler]growler (EN) : (rz.) burczymucha; (rz.) drynda; (rz.) kibel; (rz.) klop; (rz.) kufel; (rz.) malkontent; (rz.) mruk; (rz.) toaleta; (rz.) zrzęda
+[grown-up]grown-up (EN) : (p.) dorosły
+[grownup]grownup (EN) : (p.) dorosły
+[growth]growth (EN) : (rz.) narastanie; (rz.) narośl; (rz.) porost; (rz.) powiększenie; (rz.) przyrost; (rz.) rośnięcie; (rz.) rozrost; (rz.) rozwój; (rz.) wzrastanie; (rz.) wzrost
+[growths]growths (EN) : (p.) porosty
+[grub]grub (EN) : (cz.) grzebać; (cz.) karczować; (cz.) ryć; (rz.) czerw; (rz.) larwa; (rz.) niechluj; (rz.) pędrak; (rz.) wyżerka; (rz.) żarcie
+[grubber]grubber (EN) : (rz.) gruber; (rz.) karczownik
+[grubbiness]grubbiness (EN) : (rz.) niechlujstwo
+[grubby]grubby (EN) : (p.) brudny; (p.) niechlujny; (p.) robaczywy
+[grudge]grudge (EN) : (cz.) skąpić; (cz.) szczędzić; (cz.) żałować; (cz.) zazdrościć; (rz.) niechęć; (rz.) rozżalenie; (rz.) uraza; (rz.) złość
+[grudging]grudging (EN) : (p.) niechętny; (p.) skąpy; (p.) wstrzemięźliwy
+[grudgingly]grudgingly (EN) : (p-sł.) niechętnie; (p-sł.) zazdrośnie
+[gruel]gruel (EN) : (rz.) kaszka; (rz.) kleik
+[gruesome]gruesome (EN) : (p.) groźny; (p.) makabryczny; (p.) okropny; (p.) straszny
+[gruff]gruff (EN) : (p.) burkliwy; (p.) cierpki; (p.) gburowaty; (p.) mrukliwy; (p.) opryskliwy; (p.) rubaszny; (p.) szorstki
+[gruffly]gruffly (EN) : (p-sł.) szorstko
+[gruffness]gruffness (EN) : (rz.) mrukliwość
+[grumble]grumble (EN) : (cz.) burczeć; (cz.) dokuczać; (cz.) gderać; (cz.) grzmieć; (cz.) narzekać; (cz.) pogderać; (cz.) sarkać; (cz.) skarżyć; (cz.) szemrać; (cz.) utyskiwać; (cz.) zrzędzić; (rz.) gderanie; (rz.) mruczenie; (rz.) mruk; (rz.) pomruk
+[grumbler]grumbler (EN) : (rz.) malkontent; (rz.) maruda; (rz.) tetryk; (rz.) zrzęda
+[grummet]grummet (EN) : (rz.) przelotka
+[grumpily]grumpily (EN) : (p-sł.) zrzędliwie
+[grumpiness]grumpiness (EN) : (rz.) gderliwość; (rz.) nieprzystępność
+[grumpy]grumpy (EN) : (p.) gderliwy; (p.) marudny; (p.) zrzędliwy
+[grunge]grunge (EN) : (rz.) obrzydlistwo; (rz.) paskudztwo; (rz.) świństwo
+[grunt]grunt (EN) : (cz.) chrząkać; (cz.) kwiczeć; (rz.) chrząkanie; (rz.) kwik
+[gryphon]gryphon (EN) : (rz.) gryf
+[guan]guan (EN) : (rz.) czubatka
+[guanidine]guanidine (EN) : (rz.) guanidyna
+[guanine]guanine (EN) : (rz.) guanina
+[guano]guano (EN) : (rz.) guano
+[guarantee]guarantee (EN) : (cz.) gwarantować; (cz.) poręczyć; (cz.) ręczyć; (cz.) uzasadniać; (cz.) zagwarantować; (cz.) zapewniać; (cz.) zapewnić; (rz.) gwarancja; (rz.) gwarant; (rz.) gwarantowanie; (rz.) poręczenie; (rz.) poręczyciel; (rz.) poręka; (rz.) rękojmia; (rz.) wadium; (rz.) zagwarantowanie; (rz.) zapewnienie; (rz.) zastaw
+[guarantor]guarantor (EN) : (rz.) gwarant; (rz.) poręczyciel; (rz.) żyrant
+[guaranty]guaranty (EN) : (rz.) gwarancja; (rz.) poręczenie; (rz.) zabezpieczenie
+[guard]guard (EN) : (cz.) chronić; (cz.) osłaniać; (cz.) pilnować; (rz.) garda; (rz.) gwardia; (rz.) konduktor; (rz.) kordegarda; (rz.) obstawa; (rz.) ochraniacz; (rz.) ochrona; (rz.) osłona; (rz.) straż; (rz.) strażnik; (rz.) stróż; (rz.) warta; (rz.) wartownia; (rz.) wartownik; (rz.) zastawa
+[guard-rail]guard-rail (EN) : (rz.) balustrada; (rz.) poręcz
+[guard-room]guard-room (EN) : (rz.) stróżówka
+[guardedly]guardedly (EN) : (p-sł.) ostrożnie
+[guardhouse]guardhouse (EN) : (rz.) wartownia
+[guardian]guardian (EN) : (rz.) cerber; (rz.) gwardian; (rz.) obrońca; (rz.) opiekun; (rz.) piastun; (rz.) strażnik; (rz.) stróż
+[guardianship]guardianship (EN) : (rz.) kuratela
+[guardrail]guardrail (EN) : (rz.) balustrada; (rz.) bariera; (rz.) poręcz
+[guardroom]guardroom (EN) : (rz.) odwach; (rz.) stróżówka; (rz.) wartownia
+[guardsman]guardsman (EN) : (rz.) gwardzista; (rz.) ochroniarz; (rz.) strażnik
+[guava]guava (EN) : (rz.) krzew
+[gubernatorial]gubernatorial (EN) : (p.) gubernatorski
+[guerdon]guerdon (EN) : (cz.) wynagradzać; (rz.) wynagrodzenie; (rz.) zapłata
+[guerrilla]guerrilla (EN) : (p.) partyzancki; (p.) podjazdowy; (rz.) partyzant
+[guess]guess (EN) : (cz.) domniemać; (cz.) domyślać; (cz.) domyśleć; (cz.) domyślić; (cz.) dorozumieć; (cz.) miarkować; (cz.) odgadywać; (cz.) przypuszczać; (cz.) wymiarkować; (cz.) zgadywać; (rz.) domniemanie; (rz.) domysł; (rz.) przypuszczenie; (rz.) zgadnięcie; (rz.) zgadywanie
+[guess-work]guess-work (EN) : (rz.) domysł; (rz.) zgadywanie
+[guesswork]guesswork (EN) : (rz.) domysł; (rz.) zgadywanie; (rz.) zgadywanka
+[guest]guest (EN) : (rz.) gość; (rz.) pensjonariusz
+[guesthouse]guesthouse (EN) : (rz.) pensjonat
+[guffaw]guffaw (EN) : (rz.) ryk
+[guidance]guidance (EN) : (rz.) informacja; (rz.) kierowanie; (rz.) kierownictwo; (rz.) porada; (rz.) poradnictwo; (rz.) prowadzenie
+[guide]guide (EN) : (cz.) kierować; (cz.) oprowadzać; (cz.) pokierować; (cz.) prowadzić; (rz.) kierownik; (rz.) podręcznik; (rz.) poradnik; (rz.) prowadnica; (rz.) prowadnik; (rz.) przewodnik; (rz.) wskazówka
+[guide-block]guide-block (EN) : (rz.) wodzik
+[guide-book]guide-book (EN) : (rz.) przewodnik
+[guide-pin]guide-pin (EN) : (rz.) pilot
+[guide-post]guide-post (EN) : (rz.) drogowskaz
+[guidebook]guidebook (EN) : (rz.) poradnik; (rz.) przewodnik
+[guideline]guideline (EN) : (rz.) prowadnica; (rz.) wskazówka; (rz.) wytyczna
+[guidelines]guidelines (EN) : (rz.) wskazówki; (rz.) wytyczne
+[guidepost]guidepost (EN) : (rz.) drogowskaz; (rz.) kierunkowskaz
+[guild]guild (EN) : (rz.) bractwo; (rz.) cech; (rz.) gildia; (rz.) korporacja
+[guild's]guild's (EN) : (p.) cechowy
+[guilder]guilder (EN) : (rz.) gulden
+[guildhall]guildhall (EN) : (rz.) ratusz
+[guile]guile (EN) : (rz.) oszustwo; (rz.) podstęp
+[guileful]guileful (EN) : (p.) chytry; (p.) podstępny; (p.) przebiegły
+[guileless]guileless (EN) : (p.) prostoduszny; (p.) szczery
+[guilelessly]guilelessly (EN) : (rz.) podstęp
+[guilloche]guilloche (EN) : (rz.) gilosza
+[guillotine]guillotine (EN) : (rz.) gilotyna; (rz.) gilotynowanie; (rz.) krajarka
+[guilt]guilt (EN) : (rz.) uczucie; (rz.) wina
+[guiltily]guiltily (EN) : (p-sł.) karygodnie
+[guiltless]guiltless (EN) : (p.) niewinny
+[guiltlessly]guiltlessly (EN) : (p-sł.) niewinnie
+[guilty]guilty (EN) : (p.) karygodny; (p.) odpowiedzialny; (p.) winien; (p.) winny
+[guinea-fowl]guinea-fowl (EN) : (rz.) perliczka
+[guise]guise (EN) : (rz.) przebranie; (rz.) strój
+[guitar]guitar (EN) : (rz.) gitara
+[guitarist]guitarist (EN) : (rz.) gitarzysta
+[gulag]gulag (EN) : (rz.) gułag
+[gulch]gulch (EN) : (rz.) parów; (rz.) wąwóz
+[gules]gules (EN) : (rz.) kiep
+[gulf]gulf (EN) : (rz.) czeluść; (rz.) mewa; (rz.) otchłań; (rz.) topiel; (rz.) ujadanie; (rz.) wir; (rz.) zatoka
+[gull]gull (EN) : (rz.) czajka; (rz.) frajer; (rz.) mewa; (rz.) naiwniak; (rz.) rybitwa
+[gullet]gullet (EN) : (rz.) gardło; (rz.) gardziel; (rz.) przełyk
+[gullibility]gullibility (EN) : (rz.) bezkrytyczność; (rz.) łatwowierność; (rz.) naiwność
+[gullible]gullible (EN) : (p.) łatwowierny; (p.) naiwny
+[gully]gully (EN) : (rz.) kanał; (rz.) ściek; (rz.) wąwóz; (rz.) żleb
+[gulp]gulp (EN) : (cz.) chłeptać; (cz.) kropić; (cz.) krztusić; (cz.) łykać; (cz.) połykać; (rz.) haust; (rz.) łyk; (rz.) łyknięcie; (rz.) przełknięcie
+[gum]gum (EN) : (rz.) dziąsło; (rz.) guma; (rz.) klej
+[gumboil]gumboil (EN) : (rz.) fluksja
+[gummy]gummy (EN) : (p.) gumowaty; (p.) lepki; (p.) żywiczny
+[gumption]gumption (EN) : (rz.) inicjatywa; (rz.) smykałka; (rz.) spryt
+[gumshoe]gumshoe (EN) : (rz.) szpicel
+[gun]gun (EN) : (rz.) armata; (rz.) armatka; (rz.) broń; (rz.) działo; (rz.) karabin; (rz.) pistolet; (rz.) spluwanie; (rz.) strzelba; (rz.) sztucer
+[gun-camera]gun-camera (EN) : (rz.) fotokarabin
+[gun-carriage]gun-carriage (EN) : (rz.) laweta
+[gun-cotton]gun-cotton (EN) : (rz.) spiż
+[gunboat]gunboat (EN) : (rz.) kanonierka
+[guncotton]guncotton (EN) : (rz.) spiż
+[gunfight]gunfight (EN) : (rz.) strzelanina
+[gunfighter]gunfighter (EN) : (rz.) rewolwerowiec
+[gunfire]gunfire (EN) : (rz.) kanonada; (rz.) obstrzał; (rz.) ogień; (rz.) ostrzał; (rz.) pukanina; (rz.) strzelanina
+[gunk]gunk (EN) : (rz.) maź
+[gunman]gunman (EN) : (rz.) rewolwerowiec; (rz.) strzelec
+[gunner]gunner (EN) : (rz.) artylerzysta; (rz.) kanonier
+[gunnery]gunnery (EN) : (rz.) artyleria; (rz.) balistyka
+[gunning]gunning (EN) : (rz.) zastrzelenie
+[gunpoint]gunpoint (EN) : (rz.) muszka
+[gunpowder]gunpowder (EN) : (rz.) proch; (rz.) prochownia
+[gunshot]gunshot (EN) : (rz.) postrzał; (rz.) wystrzał
+[gunsmith]gunsmith (EN) : (rz.) puszkarz; (rz.) rusznikarz
+[gunwale]gunwale (EN) : (rz.) okrężnica
+[guppy]guppy (EN) : (rz.) gupik
+[gurgitation]gurgitation (EN) : (rz.) bulgot
+[gurgle]gurgle (EN) : (cz.) bulgotać; (cz.) gulgotać; (rz.) bulgot; (rz.) bulgotanie
+[gush]gush (EN) : (cz.) bić; (cz.) chlustać; (cz.) lać; (cz.) tryskać; (cz.) wylewać; (cz.) zbić; (rz.) gejzer; (rz.) potok; (rz.) tryśnięcie; (rz.) ulewa; (rz.) wybuch; (rz.) wylew; (rz.) wytrysk; (rz.) wytryśnięcie
+[gusher]gusher (EN) : (rz.) gejzer; (rz.) wytrysk
+[gusset]gusset (EN) : (rz.) klamra; (rz.) klin; (rz.) węzłówka; (rz.) wstawka
+[gust]gust (EN) : (rz.) podmuch; (rz.) poryw; (rz.) wybuch
+[gustatory]gustatory (EN) : (p.) smakowy
+[gusto]gusto (EN) : (rz.) werwa; (rz.) zapał
+[gusty]gusty (EN) : (p.) gwałtowny; (p.) porywisty
+[gut]gut (EN) : (cz.) patroszyć; (rz.) brzuch; (rz.) czelność; (rz.) flak; (rz.) jelito; (rz.) kiszka; (rz.) struna
+[gutlessness]gutlessness (EN) : (rz.) jelito
+[guts]guts (EN) : (rz.) bebechy; (rz.) odwaga
+[gutsy]gutsy (EN) : (p.) gruby; (p.) mięsisty; (p.) mocny
+[gutta-percha]gutta-percha (EN) : (rz.) gutaperka
+[gutter]gutter (EN) : (rz.) rynna; (rz.) rynsztok; (rz.) ściek
+[guttersnipe]guttersnipe (EN) : (rz.) ulicznik
+[guttural]guttural (EN) : (p.) gardłowy
+[guy]guy (EN) : (rz.) człowiek; (rz.) dziwak; (rz.) facet; (rz.) gość; (rz.) koleś; (rz.) odciąg
+[guzzle]guzzle (EN) : (cz.) pochłaniać; (cz.) pożerać; (cz.) przepić; (cz.) przepijać; (cz.) wyżłopać; (cz.) żłopać; (cz.) żreć
+[guzzler]guzzler (EN) : (rz.) obżartuch; (rz.) pijak; (rz.) żarłok
+[gym]gym (EN) : (rz.) gimnastyka; (rz.) siłownia
+[gymnasium]gymnasium (EN) : (rz.) boisko; (rz.) gimnazjum; (rz.) sala; (rz.) siłownia
+[gymnast]gymnast (EN) : (rz.) gimnastyk; (rz.) gimnastyka
+[gymnastic]gymnastic (EN) : (p.) gimnastyczny
+[gymnastics]gymnastics (EN) : (rz.) gimnastyka
+[gymnosperm]gymnosperm (EN) : (p.) nagonasienny
+[gynaecologist]gynaecologist (EN) : (rz.) ginekolog
+[gynaecology]gynaecology (EN) : (rz.) ginekologia
+[gyp]gyp (EN) : (rz.) kanciarz; (rz.) kant
+[gypsum]gypsum (EN) : (rz.) gips; (rz.) gipsowanie
+[gypsy]gypsy (EN) : (rz.) cygan; (rz.) czarnula
+[gyrate]gyrate (EN) : (cz.) kręcić; (cz.) obracać; (cz.) wirować
+[gyration]gyration (EN) : (rz.) cyrkulacja; (rz.) wirowanie
+[gyre]gyre (EN) : (rz.) wir
+[gyrfalcon]gyrfalcon (EN) : (rz.) sokół
+[gyro]gyro (EN) : (rz.) żyro; (rz.) żyroskop
+[gyro-compass]gyro-compass (EN) : (rz.) żyrokompas
+[gyrocompass]gyrocompass (EN) : (rz.) żyrokompas
+[gyroplane]gyroplane (EN) : (rz.) autożyro; (rz.) wiatrakowiec
+[gyroscope]gyroscope (EN) : (rz.) bączek; (rz.) giroskop; (rz.) żyroskop
+[gyroscopes]gyroscopes (EN) : (rz.) żyroskop
+[gyroscopic]gyroscopic (EN) : (p.) żyroskopowy
+[gyrostat]gyrostat (EN) : (rz.) girostat

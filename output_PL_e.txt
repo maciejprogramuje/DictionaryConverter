@@ -1,0 +1,699 @@
+[edward]Edward (PL) : (rz.) Edward
+[edyta]Edyta (PL) : (rz.) Edith
+[eleonora]Eleonora (PL) : (rz.) Eleanor
+[elzbieta]Elżbieta (PL) : (rz.) Elisabeth
+[emilia]Emilia (PL) : (rz.) Emily
+[eryk]Eryk (PL) : (rz.) Eric
+[ewa]Ewa (PL) : (rz.) Eva
+[ebonit]ebonit (PL) : (rz.) ebonite
+[ebonitowy]ebonitowy (PL) : (p.) ebony
+[echo]echo (PL) : (rz.) echo; (rz.) repercussion
+[echolokacja]echolokacja (PL) : (rz.) echolocation
+[echosonda]echosonda (PL) : (rz.) fathometer
+[edredon]edredon (PL) : (rz.) eider
+[edukacja]edukacja (PL) : (rz.) education
+[edukacyjny]edukacyjny (PL) : (p.) educational
+[edukowac]edukować (PL) : (cz.) educate
+[edycja]edycja (PL) : (rz.) edition; (rz.) layout
+[edykt]edykt (PL) : (rz.) edict
+[edytor]edytor (PL) : (rz.) editor
+[edytorski]edytorski (PL) : (p.) editorial; (p.) editor's
+[edytowalny]edytowalny (PL) : (p.) editable
+[edytowac]edytować (PL) : (cz.) edit
+[efedryna]efedryna (PL) : (rz.) ephedrine
+[efekciarski]efekciarski (PL) : (p.) claptrap; (p.) fancy; (p.) flashy; (p.) grandiose; (p.) stagy
+[efekciarstwo]efekciarstwo (PL) : (rz.) claptrap; (rz.) effectiveness
+[efekciarz]efekciarz (PL) : (rz.) show-off
+[efekt]efekt (PL) : (rz.) effect
+[efektownie]efektownie (PL) : (p-sł.) flashily; (p-sł.) smartly
+[efektownosc]efektowność (PL) : (rz.) brilliance
+[efektowny]efektowny (PL) : (p.) brilliant; (p.) catchpenny; (p.) effective; (p.) showy; (p.) spectacular
+[efektywnie]efektywnie (PL) : (p-sł.) effectively; (p-sł.) efficiently
+[efektywnosc]efektywność (PL) : (rz.) effectiveness; (rz.) efficiency; (rz.) performance; (rz.) productivity
+[efektywny]efektywny (PL) : (p.) effective; (p.) efficient
+[efemerycznosc]efemeryczność (PL) : (rz.) evanescence
+[efemeryczny]efemeryczny (PL) : (p.) ephemeral; (p.) transitory
+[efemeryda]efemeryda (PL) : (rz.) ephemera; (rz.) ephemeris
+[efendi]efendi (PL) : (rz.) effendi
+[egalitarny]egalitarny (PL) : (p.) egalitarian
+[egalitarystyczny]egalitarystyczny (PL) : (p.) egalitarian
+[egalitaryzm]egalitaryzm (PL) : (rz.) egalitarianism
+[egida]egida (PL) : (rz.) aegis
+[ego]ego (PL) : (rz.) ego; (rz.) self
+[egocentrycznie]egocentrycznie (PL) : (p-sł.) egocentrically
+[egocentryczny]egocentryczny (PL) : (p.) egocentric; (p.) egocentricity; (p.) self-centred
+[egoista]egoista (PL) : (rz.) egoist; (rz.) self-seeker
+[egoistyczny]egoistyczny (PL) : (p.) egoistic; (p.) self-centred; (p.) selfish
+[egoizm]egoizm (PL) : (rz.) egoism; (rz.) selfishness
+[egotysta]egotysta (PL) : (rz.) egotist
+[egotyzm]egotyzm (PL) : (rz.) egotism
+[egreta]egreta (PL) : (rz.) aigrette; (rz.) egret
+[egzaltacja]egzaltacja (PL) : (rz.) exaltation
+[egzaltowac]egzaltować (PL) : (cz.) impassion
+[egzamin]egzamin (PL) : (rz.) exam; (rz.) examination; (rz.) test
+[egzaminator]egzaminator (PL) : (rz.) examiner
+[egzaminowac]egzaminować (PL) : (cz.) debrief; (cz.) examine
+[egzarchat]egzarchat (PL) : (rz.) exarchate
+[egzegeza]egzegeza (PL) : (rz.) exegesis
+[egzekucja]egzekucja (PL) : (rz.) enforcement; (rz.) execution
+[egzekutor]egzekutor (PL) : (rz.) executioner; (rz.) executive; (rz.) executor
+[egzekutywa]egzekutywa (PL) : (rz.) executive
+[egzekwowalny]egzekwowalny (PL) : (p.) enforceable
+[egzekwowac]egzekwować (PL) : (cz.) enforce; (cz.) exact; (cz.) execute; (cz.) exercise
+[egzema]egzema (PL) : (rz.) eczema
+[egzemplarz]egzemplarz (PL) : (rz.) book; (rz.) copy; (rz.) counterpart; (rz.) instantiation; (rz.) piece
+[egzemplifikacja]egzemplifikacja (PL) : (rz.) exemplification
+[egzogamia]egzogamia (PL) : (rz.) exogamy; (rz.) intermarriage
+[egzogamiczny]egzogamiczny (PL) : (p.) exogamous
+[egzogenny]egzogenny (PL) : (p.) exogenous
+[egzorcysta]egzorcysta (PL) : (rz.) exorcist
+[egzorcyzm]egzorcyzm (PL) : (rz.) exorcism
+[egzorcyzmowac]egzorcyzmować (PL) : (cz.) exorcise; (cz.) exorcize
+[egzosfera]egzosfera (PL) : (rz.) exosphere
+[egzotermiczny]egzotermiczny (PL) : (p.) exothermic
+[egzoteryczny]egzoteryczny (PL) : (p.) exoteric
+[egzotycznie]egzotycznie (PL) : (p-sł.) exotically
+[egzotyczny]egzotyczny (PL) : (p.) exotic
+[egzotyk]egzotyk (PL) : (rz.) exotic; (rz.) exoticisms
+[egzotyka]egzotyka (PL) : (rz.) exotic; (rz.) exoticism
+[egzotyzm]egzotyzm (PL) : (rz.) exotic
+[egzystencja]egzystencja (PL) : (rz.) existence; (rz.) life
+[egzystencjalista]egzystencjalista (PL) : (rz.) existentialist
+[egzystencjalizm]egzystencjalizm (PL) : (rz.) existentialism
+[egzystencjalny]egzystencjalny (PL) : (p.) existential
+[egzystowac]egzystować (PL) : (cz.) exist; (cz.) subsist
+[einstein]einstein (PL) : (rz.) einsteinium
+[ejakulacja]ejakulacja (PL) : (rz.) ejaculation
+[ejektor]ejektor (PL) : (rz.) ejector
+[ekierka]ekierka (PL) : (rz.) setsquare; (rz.) set-square; (rz.) square
+[ekipa]ekipa (PL) : (rz.) crew; (rz.) gang; (rz.) outfit; (rz.) party; (rz.) team
+[eklektycznie]eklektycznie (PL) : (p-sł.) eclectically
+[eklektyczny]eklektyczny (PL) : (p.) eclectic
+[eklektyk]eklektyk (PL) : (rz.) eclectic
+[eklektyzm]eklektyzm (PL) : (rz.) eclecticism
+[eklezjastyczny]eklezjastyczny (PL) : (p.) ecclesiastic; (p.) ecclesiastical
+[eklezjologia]eklezjologia (PL) : (rz.) ecclesiology
+[eklimetr]eklimetr (PL) : (rz.) inclinometer
+[ekliptyczny]ekliptyczny (PL) : (p.) ecliptic
+[ekliptyka]ekliptyka (PL) : (rz.) ecliptic
+[ekolog]ekolog (PL) : (rz.) ecologist; (rz.) environmentalist
+[ekologia]ekologia (PL) : (rz.) ecology
+[ekologicznie]ekologicznie (PL) : (p-sł.) eco; (p-sł.) ecologically
+[ekologiczny]ekologiczny (PL) : (p.) ecological; (p.) organic
+[ekonom]ekonom (PL) : (rz.) economist; (rz.) steward
+[ekonometria]ekonometria (PL) : (rz.) econometrics
+[ekonometryczny]ekonometryczny (PL) : (p.) econometric
+[ekonomia]ekonomia (PL) : (rz.) economics; (rz.) economy
+[ekonomicznie]ekonomicznie (PL) : (p-sł.) economically
+[ekonomicznosc]ekonomiczność (PL) : (rz.) cost
+[ekonomiczny]ekonomiczny (PL) : (p.) cost-effective; (p.) economic; (p.) economical
+[ekonomika]ekonomika (PL) : (rz.) economics
+[ekonomista]ekonomista (PL) : (rz.) economist
+[ekonomizer]ekonomizer (PL) : (rz.) economizer
+[ekosfera]ekosfera (PL) : (rz.) ecosphere
+[ekosystem]ekosystem (PL) : (rz.) ecosystem
+[ekotyp]ekotyp (PL) : (rz.) ecotype
+[ekran]ekran (PL) : (rz.) display; (rz.) screen; (rz.) shield
+[ekranizacja]ekranizacja (PL) : (rz.) filming; (rz.) screening
+[ekranizowac]ekranizować (PL) : (cz.) screen
+[ekranoplan]ekranoplan (PL) : (rz.) ram-wing
+[ekranowanie]ekranowanie (PL) : (rz.) screening
+[ekranowac]ekranować (PL) : (cz.) screened
+[ekranowy]ekranowy (PL) : (p.) display-oriented
+[ekscelencja]ekscelencja (PL) : (rz.) excellence
+[ekscentrycznie]ekscentrycznie (PL) : (p-sł.) eccentrically
+[ekscentrycznosc]ekscentryczność (PL) : (rz.) eccentricity
+[ekscentryczny]ekscentryczny (PL) : (p.) eccentric; (p.) quaint
+[ekscentryk]ekscentryk (PL) : (rz.) kook
+[ekscerpcja]ekscerpcja (PL) : (rz.) excerpt; (rz.) excerption
+[eksces]eksces (PL) : (rz.) excess
+[ekscytacja]ekscytacja (PL) : (rz.) emotion; (rz.) excitation; (rz.) excitement
+[ekscytowac]ekscytować (PL) : (cz.) excite; (cz.) excited; (cz.) thrill
+[ekscytujaco]ekscytująco (PL) : (p-sł.) thrillingly
+[ekscytujacy]ekscytujący (PL) : (p.) exciting; (p.) thrilling
+[eksfoliacja]eksfoliacja (PL) : (rz.) exfoliation; (rz.) sheeting
+[ekshaustor]ekshaustor (PL) : (rz.) exhauster
+[ekshibicjonista]ekshibicjonista (PL) : (rz.) exhibitionist
+[ekshibicjonizm]ekshibicjonizm (PL) : (rz.) exhibitionism
+[ekshumacja]ekshumacja (PL) : (rz.) disinterment; (rz.) exhumation
+[ekshumowac]ekshumować (PL) : (cz.) disentomb; (cz.) disinter; (cz.) exhume
+[ekskawator]ekskawator (PL) : (rz.) excavator
+[eksklamacja]eksklamacja (PL) : (rz.) exclamation
+[ekskluzja]ekskluzja (PL) : (rz.) exclusion
+[ekskluzywnosc]ekskluzywność (PL) : (rz.) exclusiveness
+[ekskluzywny]ekskluzywny (PL) : (p.) exclusive; (p.) high-class; (p.) snooty
+[ekskomunika]ekskomunika (PL) : (rz.) excommunication
+[ekskomunikowac]ekskomunikować (PL) : (cz.) excommunicate
+[ekskrecja]ekskrecja (PL) : (rz.) excretion; (rz.) extraction
+[ekskrement]ekskrement (PL) : (rz.) excrement
+[ekslibris]ekslibris (PL) : (rz.) bookplate
+[eksmisja]eksmisja (PL) : (rz.) ejection; (rz.) eviction; (rz.) expulsion
+[eksmitowanie]eksmitowanie (PL) : (rz.) eviction
+[eksmitowac]eksmitować (PL) : (cz.) evict
+[ekspander]ekspander (PL) : (rz.) expander
+[ekspansja]ekspansja (PL) : (rz.) expansion
+[ekspansjonista]ekspansjonista (PL) : (rz.) expansionist
+[ekspansjonizm]ekspansjonizm (PL) : (rz.) expansionism
+[ekspansywnie]ekspansywnie (PL) : (p-sł.) expansively
+[ekspansywnosc]ekspansywność (PL) : (rz.) expansibility; (rz.) expansiveness
+[ekspansywny]ekspansywny (PL) : (p.) expansive; (p.) pushy
+[ekspatriacja]ekspatriacja (PL) : (rz.) expatriation
+[ekspatriowac]ekspatriować (PL) : (cz.) expatriate
+[ekspedient]ekspedient (PL) : (rz.) plasterer; (rz.) salesman; (rz.) salesperson; (rz.) shop-assistant; (rz.) shop-boy
+[ekspediowac]ekspediować (PL) : (cz.) despatch; (cz.) dispatch; (cz.) forward
+[ekspedycja]ekspedycja (PL) : (rz.) consignment; (rz.) dispatch; (rz.) expedition
+[ekspedycyjny]ekspedycyjny (PL) : (p.) expeditionary
+[ekspedytor]ekspedytor (PL) : (rz.) consignor
+[ekspert]ekspert (PL) : (rz.) actuary; (rz.) expert
+[ekspertowy]ekspertowy (PL) : (p.) expert
+[ekspertyza]ekspertyza (PL) : (rz.) evaluation; (rz.) expertise; (rz.) study
+[eksperyment]eksperyment (PL) : (rz.) experiment
+[eksperymentalnie]eksperymentalnie (PL) : (p-sł.) experimentally
+[eksperymentalny]eksperymentalny (PL) : (p.) experimental
+[eksperymentator]eksperymentator (PL) : (rz.) experimentalist; (rz.) experimenter
+[eksperymentowanie]eksperymentowanie (PL) : (rz.) experiment; (rz.) experimentation
+[eksperymentowac]eksperymentować (PL) : (cz.) experiment
+[ekspiacja]ekspiacja (PL) : (rz.) expiation
+[ekspiacyjny]ekspiacyjny (PL) : (p.) expiatory
+[ekspiracja]ekspiracja (PL) : (rz.) expiration
+[eksploatacja]eksploatacja (PL) : (rz.) exploitation; (rz.) operation; (rz.) utilization
+[eksploatator]eksploatator (PL) : (rz.) exploiter; (rz.) exploiters; (rz.) sweater
+[eksploatowac]eksploatować (PL) : (cz.) exploit; (cz.) operate; (cz.) utilize
+[eksplodowac]eksplodować (PL) : (cz.) erupt; (cz.) explode
+[eksploracja]eksploracja (PL) : (rz.) exploration
+[eksplorator]eksplorator (PL) : (rz.) explorer
+[eksplorowac]eksplorować (PL) : (cz.) explore
+[eksplozja]eksplozja (PL) : (rz.) blast; (rz.) explosion
+[eksplozyjny]eksplozyjny (PL) : (p.) explosive
+[eksponat]eksponat (PL) : (rz.) display; (rz.) exhibit; (rz.) showpiece
+[eksponent]eksponent (PL) : (rz.) index
+[eksponowac]eksponować (PL) : (cz.) display
+[eksport]eksport (PL) : (rz.) export
+[eksportacja]eksportacja (PL) : (rz.) exportation
+[eksporter]eksporter (PL) : (rz.) exporter
+[eksportowac]eksportować (PL) : (cz.) export
+[ekspotencjalnie]ekspotencjalnie (PL) : (p-sł.) exponentially
+[ekspozycja]ekspozycja (PL) : (rz.) exhibition; (rz.) exposition; (rz.) exposure
+[ekspozytura]ekspozytura (PL) : (rz.) branch
+[ekspres]ekspres (PL) : (rz.) express
+[ekspresja]ekspresja (PL) : (rz.) expression
+[ekspresjonista]ekspresjonista (PL) : (rz.) expressionist
+[ekspresjonizm]ekspresjonizm (PL) : (rz.) expressionism
+[ekspresowo]ekspresowo (PL) : (p-sł.) offhand
+[ekspresowy]ekspresowy (PL) : (p.) express
+[ekspresyjnosc]ekspresyjność (PL) : (rz.) expressiveness
+[ekspresyjny]ekspresyjny (PL) : (p.) expressive
+[ekspresywnosc]ekspresywność (PL) : (rz.) expressiveness
+[ekspresywny]ekspresywny (PL) : (p.) expressive
+[ekspropriacja]ekspropriacja (PL) : (rz.) expropriation
+[ekstatyczny]ekstatyczny (PL) : (p.) ecstatic
+[ekstaza]ekstaza (PL) : (rz.) ecstasy
+[ekstensja]ekstensja (PL) : (rz.) extension
+[ekstensjonalnosc]ekstensjonalność (PL) : (rz.) extensionality
+[ekstensywny]ekstensywny (PL) : (p.) extensive
+[eksterier]eksterier (PL) : (rz.) exterior
+[eksterminacja]eksterminacja (PL) : (rz.) extermination
+[eksterminacyjny]eksterminacyjny (PL) : (p.) exterminatory
+[eksterminowac]eksterminować (PL) : (cz.) exterminate
+[ekstern]ekstern (PL) : (rz.) dayboy; (rz.) day-boy; (rz.) extern
+[eksternista]eksternista (PL) : (rz.) extern
+[eksternistyczny]eksternistyczny (PL) : (p.) extramural
+[eksterytorialnosc]eksterytorialność (PL) : (rz.) extraterritoriality
+[eksterytorialny]eksterytorialny (PL) : (p.) exterritorial; (p.) extraterritorial; (p.) extra-territorial
+[ekstra]ekstra (PL) : (p-sł.) extra
+[ekstradowac]ekstradować (PL) : (cz.) extradite
+[ekstradycja]ekstradycja (PL) : (rz.) extradition
+[ekstrahowanie]ekstrahowanie (PL) : (rz.) extraction
+[ekstrahowac]ekstrahować (PL) : (cz.) extract
+[ekstrakcja]ekstrakcja (PL) : (rz.) extraction
+[ekstraklasa]ekstraklasa (PL) : (rz.) league; (rz.) top-league
+[ekstrakt]ekstrakt (PL) : (rz.) solids
+[ekstraktor]ekstraktor (PL) : (rz.) extractor; (rz.) mask
+[ekstranet]ekstranet (PL) : (rz.) extranet
+[ekstrapolacja]ekstrapolacja (PL) : (rz.) extrapolation
+[ekstrapolowac]ekstrapolować (PL) : (cz.) extrapolate; (cz.) extrapolated
+[ekstrawagancja]ekstrawagancja (PL) : (rz.) eccentricity; (rz.) extravagance; (rz.) extravaganza
+[ekstrawagancki]ekstrawagancki (PL) : (p.) eccentric; (p.) extravagant; (p.) flamboyant
+[ekstrawagancko]ekstrawagancko (PL) : (p-sł.) eccentrically; (p-sł.) extravagantly
+[ekstrawersja]ekstrawersja (PL) : (rz.) extraversion; (rz.) extroversion
+[ekstrawertyk]ekstrawertyk (PL) : (rz.) extravert; (rz.) extrovert
+[ekstremalnie]ekstremalnie (PL) : (p-sł.) extremely
+[ekstremalnosc]ekstremalność (PL) : (rz.) extreme
+[ekstremalny]ekstremalny (PL) : (p.) abysmal; (p.) extreme
+[ekstremista]ekstremista (PL) : (rz.) extremist
+[ekstremizm]ekstremizm (PL) : (rz.) extreme; (rz.) extremism
+[ekstremum]ekstremum (PL) : (rz.) extreme
+[ekstruzja]ekstruzja (PL) : (rz.) extrusion
+[ekstyrpator]ekstyrpator (PL) : (rz.) extirpator
+[ektoderma]ektoderma (PL) : (rz.) ectoderm
+[ektoplazma]ektoplazma (PL) : (rz.) ectoplasm
+[ekumeniczny]ekumeniczny (PL) : (p.) ecumenical
+[ekumenizm]ekumenizm (PL) : (rz.) ecumenism
+[ekwilibrysta]ekwilibrysta (PL) : (rz.) acrobat; (rz.) equilibrist
+[ekwilibrystyka]ekwilibrystyka (PL) : (rz.) acrobatics; (rz.) tumbling
+[ekwinokcjum]ekwinokcjum (PL) : (rz.) equinox
+[ekwipaz]ekwipaż (PL) : (rz.) equipage
+[ekwipowac]ekwipować (PL) : (cz.) equip
+[ekwipunek]ekwipunek (PL) : (rz.) baggage; (rz.) caparison; (rz.) equipment; (rz.) kit; (rz.) outfit; (rz.) turnout
+[ekwiwalencja]ekwiwalencja (PL) : (rz.) equivalence; (rz.) equivalency
+[ekwiwalent]ekwiwalent (PL) : (rz.) equivalent
+[ekwiwalentnie]ekwiwalentnie (PL) : (p-sł.) equivalently
+[ekwiwalentny]ekwiwalentny (PL) : (p.) equivalent
+[ekwiwokacja]ekwiwokacja (PL) : (rz.) equivocation
+[elaborat]elaborat (PL) : (rz.) dissertation
+[elastomer]elastomer (PL) : (rz.) elastic
+[elastycznie]elastycznie (PL) : (p-sł.) elastically; (p-sł.) flexibly; (p-sł.) supplely
+[elastycznosc]elastyczność (PL) : (rz.) elasticity; (rz.) flexibility; (rz.) pliability; (rz.) resilience; (rz.) spring; (rz.) springiness
+[elastyczny]elastyczny (PL) : (p.) elastic; (p.) expandable; (p.) flexible; (p.) open-ended; (p.) resilient; (p.) springy; (p.) stretchy; (p.) whippy
+[elegancja]elegancja (PL) : (rz.) chic; (rz.) dapper; (rz.) elegance; (rz.) finery; (rz.) refinement; (rz.) smartness; (rz.) style
+[elegancki]elegancki (PL) : (p.) chic; (p.) dainty; (p.) dandy; (p.) dapper; (p.) debonair; (p.) dressy; (p.) elegant; (p.) fashionable; (p.) polished; (p.) posh; (p.) sleek; (p.) smart; (p.) spruce; (p.) swish; (p.) untouchable
+[elegancko]elegancko (PL) : (p-sł.) elegantly; (p-sł.) handsomely; (p-sł.) smartly
+[elegant]elegant (PL) : (rz.) dandy
+[elegia]elegia (PL) : (rz.) elegy
+[elegijny]elegijny (PL) : (p.) elegiac
+[elekcja]elekcja (PL) : (rz.) election
+[elekcyjny]elekcyjny (PL) : (p.) elective
+[elekt]elekt (PL) : (rz.) elect
+[elektor]elektor (PL) : (rz.) elector; (rz.) voter
+[elektorat]elektorat (PL) : (rz.) electorate
+[elektorski]elektorski (PL) : (p.) electoral
+[elektro]elektro (PL) : (rz.) collector
+[elektroakustyka]elektroakustyka (PL) : (rz.) electro-acoustics
+[elektrochemia]elektrochemia (PL) : (rz.) electrochemistry
+[elektrochemiczny]elektrochemiczny (PL) : (p.) electrochemical
+[elektroda]elektroda (PL) : (rz.) electrode
+[elektrodynamika]elektrodynamika (PL) : (rz.) electrodynamics; (rz.) electro-dynamics
+[elektroencefalograf]elektroencefalograf (PL) : (rz.) electroencephalograph
+[elektroencefalografia]elektroencefalografia (PL) : (rz.) electroencephalography
+[elektroencefalograficzny]elektroencefalograficzny (PL) : (p.) electroencephalographic
+[elektroencefalogram]elektroencefalogram (PL) : (rz.) electroencephalogram
+[elektroenergetyka]elektroenergetyka (PL) : (rz.) power
+[elektrofizjologia]elektrofizjologia (PL) : (rz.) electrophysiological
+[elektrofor]elektrofor (PL) : (rz.) electrophorus
+[elektroforeza]elektroforeza (PL) : (rz.) electrophoresis
+[elektrokardiograf]elektrokardiograf (PL) : (rz.) electrocardiograph
+[elektrokardiografia]elektrokardiografia (PL) : (rz.) electrocardiography
+[elektrokardiogram]elektrokardiogram (PL) : (rz.) electrocardiogram
+[elektrolit]elektrolit (PL) : (rz.) electrolyte
+[elektrolitowy]elektrolitowy (PL) : (p.) electrolytic
+[elektrolityczny]elektrolityczny (PL) : (p.) electrolytic
+[elektroliza]elektroliza (PL) : (rz.) electrolysis
+[elektrolizer]elektrolizer (PL) : (rz.) cell; (rz.) electrolyser; (rz.) galvanizer
+[elektrolizowac]elektrolizować (PL) : (cz.) electrolyze
+[elektroluks]elektroluks (PL) : (rz.) carpet-sweeper; (rz.) vacuum-cleaner
+[elektroluminescencja]elektroluminescencja (PL) : (rz.) electroluminescence
+[elektromagnes]elektromagnes (PL) : (rz.) electromagnet; (rz.) electro-magnet
+[elektromagnetycznie]elektromagnetycznie (PL) : (p-sł.) electromagnetically
+[elektromagnetyczny]elektromagnetyczny (PL) : (p.) electromagnetic; (p.) electro-magnetic
+[elektromagnetyzm]elektromagnetyzm (PL) : (rz.) electromagnetism
+[elektromechaniczny]elektromechaniczny (PL) : (p.) electromechanical; (p.) electro-mechanical
+[elektrometalurgia]elektrometalurgia (PL) : (rz.) electrometallurgy
+[elektrometr]elektrometr (PL) : (rz.) electrometer
+[elektromonter]elektromonter (PL) : (rz.) electrician; (rz.) wireman
+[elektromotor]elektromotor (PL) : (rz.) electromotor
+[elektromotoryczny]elektromotoryczny (PL) : (p.) electromotive
+[elektron]elektron (PL) : (rz.) bug; (rz.) coma; (rz.) electron; (rz.) electrum
+[elektronicznie]elektronicznie (PL) : (p-sł.) electronically
+[elektroniczny]elektroniczny (PL) : (p.) electronic
+[elektronika]elektronika (PL) : (rz.) electronics
+[elektronowolt]elektronowolt (PL) : (rz.) electron-volt
+[elektronowy]elektronowy (PL) : (p.) electro; (p.) electronic
+[elektroskop]elektroskop (PL) : (rz.) electroscope
+[elektrostatyczny]elektrostatyczny (PL) : (p.) electrostatic
+[elektrostatyka]elektrostatyka (PL) : (rz.) electrostatics
+[elektrostrykcja]elektrostrykcja (PL) : (rz.) electrostriction
+[elektrotechniczny]elektrotechniczny (PL) : (p.) electrical
+[elektrotechnik]elektrotechnik (PL) : (rz.) electrician
+[elektrotechnika]elektrotechnika (PL) : (rz.) electricity
+[elektroterapia]elektroterapia (PL) : (rz.) electrotherapy
+[elektroujemny]elektroujemny (PL) : (p.) electronegative
+[elektrownia]elektrownia (PL) : (rz.) plant; (rz.) powerhouse; (rz.) power-house; (rz.) power-plant
+[elektrowstrzas]elektrowstrząs (PL) : (rz.) electroshock
+[elektrowoz]elektrowóz (PL) : (rz.) loco
+[elektrycznie]elektrycznie (PL) : (p-sł.) electrically
+[elektrycznosc]elektryczność (PL) : (rz.) electricity
+[elektryczny]elektryczny (PL) : (p.) current; (p.) electric; (p.) electrical
+[elektryfikacja]elektryfikacja (PL) : (rz.) electrification
+[elektryfikowac]elektryfikować (PL) : (cz.) electrify
+[elektryk]elektryk (PL) : (rz.) electrician
+[elektryka]elektryka (PL) : (rz.) electricity
+[elektryzowanie]elektryzowanie (PL) : (rz.) electrification
+[elektryzowac]elektryzować (PL) : (cz.) electrify
+[element]element (PL) : (rz.) element; (rz.) ingredient; (rz.) item; (rz.) unit
+[elementarnie]elementarnie (PL) : (p-sł.) elementarily
+[elementarny]elementarny (PL) : (p.) elemental; (p.) elementary; (p.) rudimentary
+[elementarz]elementarz (PL) : (rz.) primer
+[elewacja]elewacja (PL) : (rz.) elevation; (rz.) façade; (rz.) siding
+[elewator]elewator (PL) : (rz.) elevator; (rz.) hoister
+[eliksir]eliksir (PL) : (rz.) elixir
+[eliminacja]eliminacja (PL) : (rz.) elimination; (rz.) knockout; (rz.) rejection; (rz.) shakeout
+[eliminacyjny]eliminacyjny (PL) : (p.) qualifying
+[eliminator]eliminator (PL) : (rz.) eliminator; (rz.) eliminators; (rz.) suppressor
+[eliminowanie]eliminowanie (PL) : (rz.) elimination
+[eliminowac]eliminować (PL) : (cz.) desegregate; (cz.) dismiss; (cz.) eliminate; (cz.) eliminated
+[elipsa]elipsa (PL) : (rz.) ellipse; (rz.) ellipsis
+[elipsoida]elipsoida (PL) : (rz.) ellipsoid; (rz.) ellipsoids
+[elipsoidalny]elipsoidalny (PL) : (p.) ellipsoidal
+[eliptycznie]eliptycznie (PL) : (p-sł.) elliptically
+[eliptyczny]eliptyczny (PL) : (p.) elliptic; (p.) elliptical
+[elita]elita (PL) : (rz.) elite; (rz.) flower
+[elitarnosc]elitarność (PL) : (rz.) elitism
+[elitarny]elitarny (PL) : (p.) basic
+[elitaryzm]elitaryzm (PL) : (rz.) exclusivity
+[elizja]elizja (PL) : (rz.) elision
+[elokwencja]elokwencja (PL) : (rz.) eloquence
+[elokwentnie]elokwentnie (PL) : (p-sł.) eloquently
+[elokwentny]elokwentny (PL) : (p.) eloquent
+[elongacja]elongacja (PL) : (rz.) elongation
+[elukubracja]elukubracja (PL) : (rz.) lucubration
+[emalia]emalia (PL) : (rz.) enamel; (rz.) glaze
+[emaliernik]emaliernik (PL) : (rz.) enameller
+[emaliowanie]emaliowanie (PL) : (rz.) enamel
+[emaliowany]emaliowany (PL) : (p.) enamelled; (p.) leafiest
+[emaliowac]emaliować (PL) : (cz.) enamel
+[emanacja]emanacja (PL) : (rz.) emanation; (rz.) eradiation
+[emancypacja]emancypacja (PL) : (rz.) emancipation
+[emancypowac]emancypować (PL) : (cz.) emancipate; (cz.) manumit
+[emanowanie]emanowanie (PL) : (rz.) diffusion
+[emanowac]emanować (PL) : (cz.) emanate; (cz.) eradiate
+[embargo]embargo (PL) : (rz.) embargo
+[emblemat]emblemat (PL) : (rz.) emblem; (rz.) insignia
+[emblematyczny]emblematyczny (PL) : (p.) emblematic; (p.) emblematical
+[embolia]embolia (PL) : (rz.) embolism
+[embriolog]embriolog (PL) : (rz.) embryologist
+[embriologia]embriologia (PL) : (rz.) embryology
+[embriologiczny]embriologiczny (PL) : (p.) embryological
+[embrion]embrion (PL) : (rz.) embryo
+[embrionalny]embrionalny (PL) : (p.) embryonic
+[emeryt]emeryt (PL) : (rz.) pensioner
+[emerytowany]emerytowany (PL) : (p.) retired
+[emerytowac]emerytować (PL) : (cz.) superannuate
+[emerytura]emerytura (PL) : (rz.) pension; (rz.) retirement
+[emetyk]emetyk (PL) : (rz.) emetic
+[emetyna]emetyna (PL) : (rz.) emetine
+[emfatycznie]emfatycznie (PL) : (p-sł.) emphatically
+[emfatyczny]emfatyczny (PL) : (p.) emphatic
+[emfaza]emfaza (PL) : (rz.) emphasis
+[emigracja]emigracja (PL) : (rz.) emigration; (rz.) exile
+[emigrant]emigrant (PL) : (rz.) emigrant
+[emigrowanie]emigrowanie (PL) : (rz.) emigration
+[emigrowac]emigrować (PL) : (cz.) emigrate
+[eminencja]eminencja (PL) : (rz.) eminence; (rz.) eminency
+[emir]emir (PL) : (rz.) emir
+[emirat]emirat (PL) : (rz.) emirate
+[emisariusz]emisariusz (PL) : (rz.) emissary; (rz.) envoy
+[emisja]emisja (PL) : (rz.) discharge; (rz.) emission; (rz.) emissions; (rz.) issue; (rz.) release; (rz.) transmission
+[emitent]emitent (PL) : (rz.) issuer
+[emiter]emiter (PL) : (rz.) emitter
+[emiter-baza]emiter-baza (PL) : (rz.) emitter-base
+[emitowanie]emitowanie (PL) : (rz.) issue
+[emitowac]emitować (PL) : (cz.) broadcast; (cz.) emit; (cz.) issue
+[emocja]emocja (PL) : (rz.) emotion
+[emocjonalizm]emocjonalizm (PL) : (rz.) emotionalism
+[emocjonalnie]emocjonalnie (PL) : (p-sł.) emotionally
+[emocjonalnosc]emocjonalność (PL) : (rz.) emotionality
+[emocjonalny]emocjonalny (PL) : (p.) emotional; (p.) emotive
+[emocjonowac]emocjonować (PL) : (cz.) excite
+[empatia]empatia (PL) : (rz.) empathy
+[empatyczny]empatyczny (PL) : (p.) empathic
+[empiria]empiria (PL) : (rz.) empiricism
+[empirycznie]empirycznie (PL) : (p-sł.) empirically
+[empiryczny]empiryczny (PL) : (p.) empiric; (p.) empirical
+[empiryk]empiryk (PL) : (rz.) empiric; (rz.) empiricist
+[empiryzm]empiryzm (PL) : (rz.) empiricism
+[empora]empora (PL) : (rz.) gallery
+[emulacja]emulacja (PL) : (rz.) emulation
+[emulator]emulator (PL) : (rz.) emulator
+[emulgator]emulgator (PL) : (rz.) emulsifier
+[emulgowanie]emulgowanie (PL) : (rz.) emulsification
+[emulgowac]emulgować (PL) : (cz.) emulsify
+[emulowac]emulować (PL) : (cz.) emulate
+[emulsja]emulsja (PL) : (rz.) emulsion; (rz.) lotion
+[enancjomorfizm]enancjomorfizm (PL) : (rz.) enantiomorphism
+[encefalograf]encefalograf (PL) : (rz.) encephalograph
+[encefalografia]encefalografia (PL) : (rz.) encephalography
+[encefalograficzny]encefalograficzny (PL) : (p.) encephalographic
+[encefalopatia]encefalopatia (PL) : (rz.) encephalopathy
+[encykliczny]encykliczny (PL) : (p.) encyclical
+[encyklika]encyklika (PL) : (rz.) encyclical
+[encyklopedia]encyklopedia (PL) : (rz.) cyclopaedia; (rz.) encyclopaedia
+[encyklopedyczny]encyklopedyczny (PL) : (p.) encyclopaedic
+[endemicznie]endemicznie (PL) : (p-sł.) endemically
+[endemiczny]endemiczny (PL) : (p.) endemic
+[endoenergetyczny]endoenergetyczny (PL) : (p.) endoergic
+[endogamia]endogamia (PL) : (rz.) endogamy; (rz.) inbreeding
+[endogamiczny]endogamiczny (PL) : (p.) endogamous
+[endogeniczny]endogeniczny (PL) : (p.) endogenous
+[endogenny]endogenny (PL) : (p.) endogenous
+[endokrynologia]endokrynologia (PL) : (rz.) endocrinology
+[endomorfizm]endomorfizm (PL) : (rz.) endomorphism
+[endoplazma]endoplazma (PL) : (rz.) endoplasm
+[endoskop]endoskop (PL) : (rz.) endoscope
+[endotermiczny]endotermiczny (PL) : (p.) endothermic
+[endywia]endywia (PL) : (rz.) endive
+[energetyczny]energetyczny (PL) : (p.) electrical; (p.) energetic
+[energetyka]energetyka (PL) : (rz.) energy
+[energia]energia (PL) : (rz.) activity; (rz.) bounce; (rz.) drive; (rz.) energy; (rz.) forcefulness; (rz.) ginger; (rz.) life; (rz.) nerve; (rz.) oomph; (rz.) sap; (rz.) stamina; (rz.) zest
+[energicznie]energicznie (PL) : (p-sł.) briskly; (p-sł.) energetically; (p-sł.) vigorously
+[energiczny]energiczny (PL) : (p.) bouncing; (p.) bouncy; (p.) brisk; (p.) energetic; (p.) nervy; (p.) pithy; (p.) smart; (p.) snappy; (p.) vigorous; (p.) wholehearted
+[energochlonnosc]energochłonność (PL) : (rz.) energy
+[energochlonny]energochłonny (PL) : (p.) energy-consuming
+[energooszczednosc]energooszczędność (PL) : (rz.) savings
+[energooszczedny]energooszczędny (PL) : (p.) energy-saving
+[enharmoniczny]enharmoniczny (PL) : (p.) enharmonic
+[enigmatycznie]enigmatycznie (PL) : (p-sł.) enigmatically
+[enigmatyczny]enigmatyczny (PL) : (p.) enigmatic; (p.) enigmatical
+[enklawa]enklawa (PL) : (rz.) compartment; (rz.) enclave
+[enklityczny]enklityczny (PL) : (p.) enclitic
+[enklityka]enklityka (PL) : (rz.) enclitic
+[enolog]enolog (PL) : (rz.) oenologist
+[enologia]enologia (PL) : (rz.) oenology
+[entalpia]entalpia (PL) : (rz.) enthalpy
+[entelechia]entelechia (PL) : (rz.) entelechy
+[ententa]ententa (PL) : (rz.) entente
+[entomolog]entomolog (PL) : (rz.) entomologist
+[entomologia]entomologia (PL) : (rz.) entomology
+[entomologiczny]entomologiczny (PL) : (p.) entomological
+[entropia]entropia (PL) : (rz.) entropy
+[entuzjasta]entuzjasta (PL) : (rz.) addict; (rz.) devotee; (rz.) enthusiast; (rz.) fan
+[entuzjastycznie]entuzjastycznie (PL) : (p-sł.) enthusiastically
+[entuzjastyczny]entuzjastyczny (PL) : (p.) bubbly; (p.) ebullient; (p.) enthusiastic; (p.) rapturous; (p.) rave
+[entuzjazm]entuzjazm (PL) : (rz.) enthusiasm; (rz.) get-up-and-go; (rz.) zeal; (rz.) zest
+[entuzjazmowac]entuzjazmować (PL) : (cz.) bubble; (cz.) enthuse
+[entymemat]entymemat (PL) : (rz.) enthymeme
+[enuncjacja]enuncjacja (PL) : (rz.) enunciation
+[enzootia]enzootia (PL) : (rz.) enzootic
+[enzym]enzym (PL) : (rz.) enzyme
+[enzymatyczny]enzymatyczny (PL) : (p.) enzymatic
+[eolit]eolit (PL) : (rz.) eolith
+[eon]eon (PL) : (rz.) aeon
+[eparchia]eparchia (PL) : (rz.) eparchy
+[epentetyczny]epentetyczny (PL) : (p.) epenthetic
+[epenteza]epenteza (PL) : (rz.) epenthesis
+[epicentrum]epicentrum (PL) : (rz.) epicentre
+[epicki]epicki (PL) : (p.) epic
+[epicykl]epicykl (PL) : (rz.) epicycle
+[epiczny]epiczny (PL) : (p.) epic
+[epidemia]epidemia (PL) : (rz.) epidemic; (rz.) outbreak; (rz.) pestilence
+[epidemicznie]epidemicznie (PL) : (p-sł.) epidemically
+[epidemiczny]epidemiczny (PL) : (p.) epidemic; (p.) epidemical
+[epidemiolog]epidemiolog (PL) : (rz.) epidemiologist
+[epidemiologia]epidemiologia (PL) : (rz.) epidemiology
+[epidemiologiczny]epidemiologiczny (PL) : (p.) epidemiological
+[epiderma]epiderma (PL) : (rz.) epidermis
+[epidiaskop]epidiaskop (PL) : (rz.) epidiascope
+[epifenomen]epifenomen (PL) : (rz.) epiphenomenon
+[epifit]epifit (PL) : (rz.) epiphyte
+[epifityczny]epifityczny (PL) : (p.) epiphytical
+[epigenetyczny]epigenetyczny (PL) : (p.) epigenetic
+[epigon]epigon (PL) : (rz.) epigone
+[epigraf]epigraf (PL) : (rz.) epigraph
+[epigraficzny]epigraficzny (PL) : (p.) epigraphic
+[epigramat]epigramat (PL) : (rz.) epigram
+[epigramatyczny]epigramatyczny (PL) : (p.) epigrammatic
+[epika]epika (PL) : (rz.) epic; (rz.) epopee; (rz.) epos
+[epikurejski]epikurejski (PL) : (p.) epicurean
+[epilacyjny]epilacyjny (PL) : (p.) depilatory
+[epilepsja]epilepsja (PL) : (rz.) epilepsy
+[epileptyczny]epileptyczny (PL) : (p.) epileptic
+[epileptyk]epileptyk (PL) : (rz.) epileptic
+[epilog]epilog (PL) : (rz.) coda; (rz.) epilogue
+[epimeryzacja]epimeryzacja (PL) : (rz.) epimerization
+[episkop]episkop (PL) : (rz.) episcope
+[episkopat]episkopat (PL) : (rz.) episcopacy; (rz.) episcopate; (rz.) prelacy
+[epistemologia]epistemologia (PL) : (rz.) epistemology
+[epistemologiczny]epistemologiczny (PL) : (p.) epistemological
+[epistolarny]epistolarny (PL) : (p.) epistolary
+[epistola]epistoła (PL) : (rz.) epistle; (rz.) lesson
+[epistyl]epistyl (PL) : (rz.) epistyle
+[epitafium]epitafium (PL) : (rz.) epitaph
+[epitet]epitet (PL) : (rz.) epithet
+[epizod]epizod (PL) : (rz.) episode
+[epizodycznie]epizodycznie (PL) : (p-sł.) episodically
+[epizodyczny]epizodyczny (PL) : (p.) episodic; (p.) small
+[epizootia]epizootia (PL) : (rz.) epizootic
+[epizootyczny]epizootyczny (PL) : (p.) epizootic
+[epoda]epoda (PL) : (rz.) epode
+[epoka]epoka (PL) : (rz.) age; (rz.) epoch; (rz.) era; (rz.) period
+[epokowy]epokowy (PL) : (p.) epochal; (p.) epoch-making
+[epoksydowy]epoksydowy (PL) : (p.) epoxy
+[epolet]epolet (PL) : (rz.) epaulet; (rz.) epaulette
+[epopeja]epopeja (PL) : (rz.) epic; (rz.) epopee
+[epos]epos (PL) : (rz.) epic; (rz.) epos
+[epruwetka]epruwetka (PL) : (rz.) test-tube
+[era]era (PL) : (rz.) era
+[eratyczny]eratyczny (PL) : (p.) erratic
+[erb]erb (PL) : (rz.) erbium
+[erekcja]erekcja (PL) : (rz.) erection
+[eremita]eremita (PL) : (rz.) eremite
+[erg]erg (PL) : (rz.) erg
+[ergonomia]ergonomia (PL) : (rz.) ergonomics
+[ergonomicznie]ergonomicznie (PL) : (p-sł.) ergonomically
+[ergonomiczny]ergonomiczny (PL) : (p.) ergonomic
+[ergotamina]ergotamina (PL) : (rz.) ergotamine
+[ermitaz]ermitaż (PL) : (rz.) hermitage
+[erodowac]erodować (PL) : (cz.) erode
+[erogenny]erogenny (PL) : (p.) erogenous
+[erotycznie]erotycznie (PL) : (p-sł.) erotically; (p-sł.) sexually
+[erotycznosc]erotyczność (PL) : (rz.) eroticism
+[erotyczny]erotyczny (PL) : (p.) erotic; (p.) sexy; (p.) steamy
+[erotyka]erotyka (PL) : (rz.) erotica; (rz.) eroticism
+[erotyzm]erotyzm (PL) : (rz.) eroticism
+[erozja]erozja (PL) : (rz.) erosion
+[erozyjny]erozyjny (PL) : (p.) erosive
+[errata]errata (PL) : (rz.) corrigenda; (rz.) errata; (rz.) erratum
+[erudycja]erudycja (PL) : (rz.) erudition; (rz.) learning; (rz.) scholarship
+[erudyta]erudyta (PL) : (rz.) erudite; (rz.) prig; (rz.) scholar
+[erupcja]erupcja (PL) : (rz.) blow-out; (rz.) eruption
+[erupcyjny]erupcyjny (PL) : (p.) eruptional; (p.) eruptive
+[erystyka]erystyka (PL) : (rz.) eristic
+[erytrocyt]erytrocyt (PL) : (rz.) erythrocyte
+[erytromycyna]erytromycyna (PL) : (rz.) erythromycin
+[eschatologia]eschatologia (PL) : (rz.) eschatology
+[eseista]eseista (PL) : (rz.) essayist
+[esej]esej (PL) : (rz.) assay; (rz.) essay
+[esencja]esencja (PL) : (rz.) essence
+[eskadra]eskadra (PL) : (rz.) flight; (rz.) squadron
+[eskalacja]eskalacja (PL) : (rz.) escalation
+[eskalator]eskalator (PL) : (rz.) escalator
+[eskalowac]eskalować (PL) : (cz.) escalate
+[eskapada]eskapada (PL) : (rz.) escapade; (rz.) rollick
+[eskapizm]eskapizm (PL) : (rz.) escapism
+[eskorta]eskorta (PL) : (rz.) escort; (rz.) escorts; (rz.) safeguard
+[eskortowac]eskortować (PL) : (cz.) escort
+[esowaty]esowaty (PL) : (p.) S-shaped
+[esownica]esownica (PL) : (rz.) cyma; (rz.) ogee
+[esparto]esparto (PL) : (rz.) esparto
+[esperantysta]esperantysta (PL) : (rz.) esperantist
+[esplanada]esplanada (PL) : (rz.) esplanade
+[estakada]estakada (PL) : (rz.) flyover; (rz.) overpass; (rz.) wharf
+[ester]ester (PL) : (rz.) ester
+[esteta]esteta (PL) : (rz.) aesthete
+[estetycznie]estetycznie (PL) : (p-sł.) aesthetically
+[estetyczny]estetyczny (PL) : (p.) aesthetic; (p.) aesthetical
+[estetyk]estetyk (PL) : (rz.) aesthetics
+[estetyka]estetyka (PL) : (rz.) aestheticism; (rz.) aesthetics
+[estetyzm]estetyzm (PL) : (rz.) aestheticism
+[estrada]estrada (PL) : (rz.) bandstand; (rz.) platform; (rz.) scaffold; (rz.) stage
+[estragon]estragon (PL) : (rz.) tarragon
+[estrogen]estrogen (PL) : (rz.) oestrogen
+[estrogeny]estrogeny (PL) : (p.) estrogens
+[estuarium]estuarium (PL) : (rz.) estuary
+[estyma]estyma (PL) : (rz.) esteem; (rz.) estimation
+[estymacja]estymacja (PL) : (rz.) estimation
+[estymator]estymator (PL) : (rz.) estimator
+[eszelon]eszelon (PL) : (rz.) echelon
+[etalon]etalon (PL) : (rz.) etalon
+[etamina]etamina (PL) : (rz.) cheesecloth
+[etan]etan (PL) : (rz.) ethane
+[etanol]etanol (PL) : (rz.) ethanol
+[etap]etap (PL) : (rz.) lap; (rz.) leg; (rz.) phase; (rz.) stage
+[etat]etat (PL) : (rz.) time; (rz.) vacancy
+[etatowy]etatowy (PL) : (p.) fulltime
+[etatyzacja]etatyzacja (PL) : (rz.) state
+[etatyzm]etatyzm (PL) : (rz.) state
+[eter]eter (PL) : (rz.) ether
+[eterycznie]eterycznie (PL) : (p-sł.) ethereally
+[eterycznosc]eteryczność (PL) : (rz.) sprightliness
+[eteryczny]eteryczny (PL) : (p.) aromatic; (p.) ethereal; (p.) volatile
+[etiologia]etiologia (PL) : (rz.) aetiology
+[etiologiczny]etiologiczny (PL) : (p.) etiologic; (p.) etiological
+[etiuda]etiuda (PL) : (rz.) etude; (rz.) study
+[etniczny]etniczny (PL) : (p.) ethic; (p.) ethnic; (p.) ethnical
+[etnograf]etnograf (PL) : (rz.) ethnographer
+[etnografia]etnografia (PL) : (rz.) ethnography
+[etnograficzny]etnograficzny (PL) : (p.) ethnographic; (p.) ethnographical
+[etnolog]etnolog (PL) : (rz.) ethnologist
+[etnologia]etnologia (PL) : (rz.) ethnology
+[etnologiczny]etnologiczny (PL) : (p.) ethnologic; (p.) ethnological; (p.) ethologic
+[etola]etola (PL) : (rz.) stole
+[etologia]etologia (PL) : (rz.) ethnology
+[etos]etos (PL) : (rz.) ethic; (rz.) ethos
+[etui]etui (PL) : (rz.) case; (rz.) etui; (rz.) glasses
+[etycznie]etycznie (PL) : (p-sł.) ethically
+[etyczny]etyczny (PL) : (p.) ethic; (p.) ethical
+[etyk]etyk (PL) : (rz.) ethicist; (rz.) ethics
+[etyka]etyka (PL) : (rz.) deontology; (rz.) ethic; (rz.) ethicist; (rz.) ethics; (rz.) philosophy
+[etykieciarka]etykieciarka (PL) : (rz.) labeller
+[etykieta]etykieta (PL) : (rz.) etiquette; (rz.) label; (rz.) tab; (rz.) tag; (rz.) ticket
+[etykietka]etykietka (PL) : (rz.) label; (rz.) tag; (rz.) tally
+[etykietowanie]etykietowanie (PL) : (rz.) labelling
+[etykietowac]etykietować (PL) : (cz.) label; (cz.) tag
+[etyl]etyl (PL) : (rz.) ethyl
+[etylen]etylen (PL) : (rz.) ethylene
+[etylenowy]etylenowy (PL) : (p.) ethylene
+[etylizowanie]etylizowanie (PL) : (rz.) leading
+[etymolog]etymolog (PL) : (rz.) etymologist
+[etymologia]etymologia (PL) : (rz.) etymology
+[etymologiczny]etymologiczny (PL) : (p.) etymological
+[eucharystia]eucharystia (PL) : (rz.) Eucharist; (rz.) oblation
+[eudiometr]eudiometr (PL) : (rz.) eudiometer
+[eufemiczny]eufemiczny (PL) : (p.) euphemistic
+[eufemistycznie]eufemistycznie (PL) : (p-sł.) euphemistically
+[eufemistyczny]eufemistyczny (PL) : (p.) euphemistic
+[eufemizm]eufemizm (PL) : (rz.) euphemism
+[eufonia]eufonia (PL) : (rz.) euphony
+[eufoniczny]eufoniczny (PL) : (p.) euphonic; (p.) euphonious
+[euforbia]euforbia (PL) : (rz.) euphorbia
+[euforia]euforia (PL) : (rz.) euphoria; (rz.) exhilaration
+[euforyczny]euforyczny (PL) : (p.) euphoric
+[eugeniczny]eugeniczny (PL) : (p.) eugenic
+[eugenika]eugenika (PL) : (rz.) eugenics
+[eukaliptol]eukaliptol (PL) : (rz.) cineole
+[eukaliptus]eukaliptus (PL) : (rz.) eucalyptus
+[eurodolar]eurodolar (PL) : (rz.) Eurodollar
+[europ]europ (PL) : (rz.) europium
+[europejsko]europejsko (PL) : (p-sł.) euro
+[eurytmia]eurytmia (PL) : (rz.) eurhythmics
+[eutanazja]eutanazja (PL) : (rz.) euthanasia
+[eutektoid]eutektoid (PL) : (rz.) eutectoid
+[eutektyczny]eutektyczny (PL) : (p.) eutectic
+[ewakuacja]ewakuacja (PL) : (rz.) evacuation
+[ewakuant]ewakuant (PL) : (rz.) evacuee
+[ewakuowac]ewakuować (PL) : (cz.) evacuate
+[ewaluacja]ewaluacja (PL) : (rz.) appraisement; (rz.) evaluation
+[ewangelia]ewangelia (PL) : (rz.) gospel
+[ewangelicki]ewangelicki (PL) : (p.) evangelic; (p.) evangelical
+[ewangelicznie]ewangelicznie (PL) : (p-sł.) evangelically
+[ewangeliczny]ewangeliczny (PL) : (p.) evangelic; (p.) evangelical
+[ewangelik]ewangelik (PL) : (rz.) evangelical; (rz.) protestant
+[ewangelista]ewangelista (PL) : (rz.) evangelist
+[ewangelizm]ewangelizm (PL) : (rz.) evangelism
+[ewangelizowac]ewangelizować (PL) : (cz.) evangelize
+[ewekcja]ewekcja (PL) : (rz.) evection
+[ewenement]ewenement (PL) : (rz.) sensation
+[ewentualnie]ewentualnie (PL) : (p-sł.) alternatively; (p-sł.) perhaps; (p-sł.) possibly
+[ewentualnosc]ewentualność (PL) : (rz.) chocolate; (rz.) contingency; (rz.) eventuality; (rz.) happenstance; (rz.) possible
+[ewentualny]ewentualny (PL) : (p.) contingent; (p.) eventual; (p.) possible; (p.) thinkable
+[ewidencja]ewidencja (PL) : (rz.) file; (rz.) record
+[ewidencjonowac]ewidencjonować (PL) : (cz.) record; (cz.) register
+[ewidentnie]ewidentnie (PL) : (p-sł.) clearly; (p-sł.) evidently; (p-sł.) patently
+[ewidentny]ewidentny (PL) : (p.) clear; (p.) evident
+[ewokacja]ewokacja (PL) : (rz.) evocation
+[ewolucja]ewolucja (PL) : (rz.) evolution
+[ewolucjonista]ewolucjonista (PL) : (rz.) evolutionist
+[ewolucjonizm]ewolucjonizm (PL) : (rz.) evolutionism
+[ewolucyjny]ewolucyjny (PL) : (p.) evolutionary
+[ewoluowac]ewoluować (PL) : (cz.) evolve
+[exodus]exodus (PL) : (rz.) exodus
+[ezoteryczny]ezoteryczny (PL) : (p.) esoteric

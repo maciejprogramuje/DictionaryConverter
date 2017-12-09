@@ -1,0 +1,2070 @@
+[barbra]Barbra (EN) : (rz.) Barbara
+[bartholomew]Bartholomew (EN) : (rz.) Bartłomiej
+[basilisk's]Basilisk's (EN) : (p.) bazyliszkowy
+[becky]Becky (EN) : (rz.) Rebeka
+[benedictine]Benedictine (EN) : (rz.) benedyktyn
+[benjamin]Benjamin (EN) : (rz.) Beniamin
+[bob]Bob (EN) : (rz.) Robert
+[bolshevik]Bolshevik (EN) : (rz.) bolszewik
+[boolean]Boolean (EN) : (p.) logiczny
+[byronism]Byronism (EN) : (rz.) bajronizm
+[baa]baa (EN) : (cz.) beczeć
+[babble]babble (EN) : (cz.) bełkotać; (cz.) gadać; (cz.) gaworzyć; (cz.) paplać; (cz.) rozgadać; (rz.) gadanie; (rz.) mamrotanie; (rz.) paplanina
+[babbler]babbler (EN) : (rz.) gaduła; (rz.) papla
+[babe]babe (EN) : (rz.) dzieciątko; (rz.) dziecinka; (rz.) dziecko; (rz.) naiwniak; (rz.) niemowlę
+[baboon]baboon (EN) : (rz.) głupek; (rz.) pawian
+[baby]baby (EN) : (rz.) bobas; (rz.) dzidziuś; (rz.) dzieciątko; (rz.) dziecina; (rz.) dziecinka; (rz.) dzieciuch; (rz.) dziecko; (rz.) kochanie; (rz.) niemowlak; (rz.) niemowlę; (rz.) noworodek; (rz.) złotko
+[baby-linen]baby-linen (EN) : (rz.) wyprawka
+[baby-sitter]baby-sitter (EN) : (rz.) niania
+[babyhood]babyhood (EN) : (rz.) niemowlęctwo
+[babyish]babyish (EN) : (p.) dziecinny; (p.) niemowlęcy
+[babysitter]babysitter (EN) : (rz.) niania
+[baccarat]baccarat (EN) : (rz.) bakarat
+[bacchanal]bacchanal (EN) : (p.) bachusowy
+[bacchanalia]bacchanalia (EN) : (rz.) bachanalia
+[bachelor]bachelor (EN) : (rz.) bakałarz; (rz.) kawaler; (rz.) licencjat
+[bachelor's]bachelor's (EN) : (p.) kawalerski
+[bachelorhood]bachelorhood (EN) : (rz.) kawalerstwo
+[bacillus]bacillus (EN) : (rz.) bakcyl; (rz.) lasecznik; (rz.) prątek
+[back]back (EN) : (cz.) cofać; (cz.) odwzajemnić; (cz.) podkasać; (cz.) podpierać; (cz.) popierać; (cz.) wesprzeć; (p.) odwrotny; (p.) plecowy; (p.) tylny; (p-sł.) niegrzecznie; (p-sł.) wstecz; (rz.) grzbiet; (rz.) krzyż; (rz.) obrona; (rz.) obrońca; (rz.) oparcie; (rz.) plecy; (rz.) powracanie; (rz.) powrót; (rz.) samochód; (rz.) tył; (rz.) wierzch
+[back-comb]back-comb (EN) : (cz.) tapirować; (cz.) utapirować
+[back-current]back-current (EN) : (rz.) przeciwprąd
+[back-end]back-end (EN) : (rz.) zaplecze
+[back-lit]back-lit (EN) : (p.) podświetlany
+[back-to-back]back-to-back (EN) : (p.) symetryczny
+[back-up]back-up (EN) : (p.) zapasowy
+[backbite]backbite (EN) : (cz.) obgadać; (cz.) obmawiać; (cz.) oczerniać
+[backbiter]backbiter (EN) : (rz.) oszczerca
+[backbiting]backbiting (EN) : (rz.) obgadywanie; (rz.) obmawianie; (rz.) obmowa
+[backbone]backbone (EN) : (rz.) grzbiet; (rz.) istota; (rz.) kręgosłup; (rz.) oparcie; (rz.) ostoja; (rz.) podstawa; (rz.) trzon
+[backbreaking]backbreaking (EN) : (p.) karkołomny
+[backchat]backchat (EN) : (rz.) impertynencja
+[backcloth]backcloth (EN) : (rz.) tło
+[backcomb]backcomb (EN) : (cz.) tapirować; (cz.) utapirować
+[backdate]backdate (EN) : (cz.) antydatować
+[backdoor]backdoor (EN) : (p.) potajemny; (p.) tajemniczy; (p.) zakulisowy; (rz.) furtka; (rz.) wybieg; (rz.) zapadnia
+[backdrop]backdrop (EN) : (rz.) tło; (rz.) zasłona
+[backer]backer (EN) : (rz.) partyzant; (rz.) stronnik
+[backfill]backfill (EN) : (rz.) podsadzka
+[backfiring]backfiring (EN) : (rz.) strzelanie
+[backflow]backflow (EN) : (rz.) cofka
+[backgammon]backgammon (EN) : (rz.) tryktrak
+[background]background (EN) : (rz.) pochodzenie; (rz.) podstawa; (rz.) przygotowanie; (rz.) tło; (rz.) wykształcenie; (rz.) założenie
+[backhand]backhand (EN) : (rz.) bekhend; (rz.) uderzenie
+[backhander]backhander (EN) : (rz.) bekhend
+[backhoe]backhoe (EN) : (rz.) koparka
+[backhouse]backhouse (EN) : (rz.) oficyna
+[backing]backing (EN) : (rz.) podłoże; (rz.) podsadzanie; (rz.) pokrycie; (rz.) pomoc; (rz.) poparcie; (rz.) protekcja; (rz.) wsparcie; (rz.) wypełnianie
+[backing-off]backing-off (EN) : (rz.) zataczanie
+[backlash]backlash (EN) : (rz.) luz
+[backlight]backlight (EN) : (rz.) podświetlenie
+[backlog]backlog (EN) : (rz.) zaległość; (rz.) zaległości
+[backorder]backorder (EN) : (rz.) zamówienie; (rz.) zlecenie
+[backpack]backpack (EN) : (rz.) plecak; (rz.) tornister
+[backrest]backrest (EN) : (rz.) oparcie
+[backs]backs (EN) : (rz.) plecy
+[backside]backside (EN) : (rz.) tyłek; (rz.) zadek
+[backslid]backslid (EN) : (cz.) stoczyć
+[backslide]backslide (EN) : (cz.) sprzeniewierzyć
+[backspace]backspace (EN) : (cz.) cofać
+[backspaced]backspaced (EN) : (rz.) cofacz
+[backspaces]backspaces (EN) : (rz.) cofacz
+[backspacing]backspacing (EN) : (rz.) cofacz; (rz.) cofanie
+[backstage]backstage (EN) : (p.) prywatny; (p.) zakulisowy
+[backstay]backstay (EN) : (rz.) baksztag; (rz.) usztywnienie
+[backstitched]backstitched (EN) : (cz.) przestebnować
+[backstitching]backstitching (EN) : (rz.) przestebnowanie
+[backstreet]backstreet (EN) : (rz.) uliczka; (rz.) zaułek
+[backtrack]backtrack (EN) : (cz.) wycofywać
+[backtracking]backtracking (EN) : (rz.) nawracanie; (rz.) wycofywanie
+[backward]backward (EN) : (p.) opieszały; (p.) tylny; (p.) wsteczny; (p.) zacofany; (p-sł.) tyłem; (p-sł.) wspak; (p-sł.) wstecz
+[backwardness]backwardness (EN) : (rz.) zacofanie; (rz.) zapóźnienie
+[backwards]backwards (EN) : (p-sł.) tyłem; (p-sł.) wspak; (p-sł.) wstecz
+[backwater]backwater (EN) : (rz.) cofka; (rz.) prowincja; (rz.) rozlewisko; (rz.) spiętrzenie; (rz.) zalew; (rz.) zaścianek
+[backwoods]backwoods (EN) : (rz.) głusza
+[backyard]backyard (EN) : (rz.) dziedziniec; (rz.) podwórko
+[bacon]bacon (EN) : (rz.) bekon; (rz.) boczek; (rz.) słonina
+[bacteria]bacteria (EN) : (rz.) bakteria; (rz.) bakterie
+[bacterial]bacterial (EN) : (p.) bakteryjny
+[bactericidal]bactericidal (EN) : (p.) bakteriobójczy
+[bacteriological]bacteriological (EN) : (p.) bakteriologiczny
+[bacteriologist]bacteriologist (EN) : (rz.) bakteriolog
+[bacteriology]bacteriology (EN) : (rz.) bakteriologia
+[bacterium]bacterium (EN) : (rz.) bakteria; (rz.) zarazek
+[bad]bad (EN) : (p.) chory; (p.) kiepski; (p.) kusy; (p.) lichy; (p.) morowy; (p.) niedobry; (p.) niegrzeczny; (p.) nieprzyjemny; (p.) nieściągalny; (p.) nieświeży; (p.) okropny; (p.) zdrożny; (p.) zły; (p-sł.) niedobrze; (rz.) zło; (rz.) zły
+[bad-tempered]bad-tempered (EN) : (p.) gderliwy
+[baddie]baddie (EN) : (rz.) bandzior
+[badge]badge (EN) : (rz.) naszywka; (rz.) numer; (rz.) odznaka; (rz.) oznaka; (rz.) plakietka; (rz.) tarcza; (rz.) żeton
+[badger]badger (EN) : (rz.) borsuk
+[badinage]badinage (EN) : (rz.) przekomarzanie
+[badly]badly (EN) : (p-sł.) bardzo; (p-sł.) dotkliwie; (p-sł.) intensywnie; (p-sł.) kiepsko; (p-sł.) marnie; (p-sł.) niepomyślnie; (p-sł.) paskudnie; (p-sł.) silnie; (p-sł.) źle
+[badminton]badminton (EN) : (rz.) badminton; (rz.) kometka
+[badness]badness (EN) : (rz.) lichość; (rz.) niegodziwość
+[baffle]baffle (EN) : (cz.) krzyżować; (cz.) łudzić; (cz.) pokrzyżować; (cz.) przegradzać; (cz.) skonfundować; (cz.) udaremniać; (cz.) urągać; (cz.) zakłopotać; (cz.) zastawiać; (cz.) zawodzić; (cz.) zdumiewać; (rz.) deflektor; (rz.) przegroda
+[baffled]baffled (EN) : (p.) bezradny; (p.) zdumiony
+[baffling]baffling (EN) : (p.) kłopotliwy
+[bag]bag (EN) : (cz.) zapakować; (rz.) brzydula; (rz.) plecak; (rz.) pokrowiec; (rz.) torba; (rz.) torebka; (rz.) walizka; (rz.) worek
+[bag-piper]bag-piper (EN) : (rz.) dudziarz
+[bagatelle]bagatelle (EN) : (rz.) bagatela; (rz.) bilard
+[bagel]bagel (EN) : (rz.) obwarzanek
+[bagful]bagful (EN) : (rz.) torba
+[baggage]baggage (EN) : (rz.) bagaż; (rz.) ekwipunek
+[bagger]bagger (EN) : (rz.) bagrownica; (rz.) workownica
+[bagging]bagging (EN) : (rz.) parcianka; (rz.) workowanie
+[baggy]baggy (EN) : (p.) luźny; (p.) obszerny; (p.) workowaty; (p.) workowy
+[bagman]bagman (EN) : (rz.) komiwojażer
+[bagnio]bagnio (EN) : (rz.) burdel; (rz.) łaźnia; (rz.) więzienie
+[bagpipe]bagpipe (EN) : (rz.) duda; (rz.) kobza
+[bagpiper]bagpiper (EN) : (rz.) kobziarz
+[bagpipes]bagpipes (EN) : (rz.) dudy
+[baguette]baguette (EN) : (rz.) bagietka
+[bah]bah (EN) : (wykrzyknik) ba
+[bail]bail (EN) : (cz.) czerpać; (rz.) czerpak; (rz.) gwarancja; (rz.) kabłąk; (rz.) kaucja; (rz.) obłąk; (rz.) poręczenie; (rz.) poręczyciel; (rz.) poręka; (rz.) zakładnik
+[bailer]bailer (EN) : (rz.) czerpak; (rz.) szlamówka
+[bailiff]bailiff (EN) : (rz.) komornik; (rz.) zarządca
+[bailing]bailing (EN) : (rz.) łyżkowanie
+[bailment]bailment (EN) : (rz.) zdeponowanie
+[bailout]bailout (EN) : (rz.) dofinansowanie
+[bailsman]bailsman (EN) : (rz.) gwarant; (rz.) poręczyciel
+[bait]bait (EN) : (cz.) bestwić; (cz.) drażnić; (cz.) nęcić; (cz.) popasać; (cz.) szczuć; (rz.) pokusa; (rz.) przynęta; (rz.) wabik
+[baize]baize (EN) : (rz.) piec; (rz.) ryps; (rz.) sukno
+[bake]bake (EN) : (cz.) dopalić; (cz.) prażyć; (cz.) wypiekać
+[bakelite]bakelite (EN) : (rz.) bakelit
+[baker]baker (EN) : (rz.) piekarnia; (rz.) piekarz
+[baker's]baker's (EN) : (rz.) piekarnia
+[bakery]bakery (EN) : (rz.) piekarnia; (rz.) piekarnictwo
+[baking]baking (EN) : (rz.) pieczenie; (rz.) piekarnictwo; (rz.) piekarstwo; (rz.) wypał; (rz.) wypalanie; (rz.) wypieczenie; (rz.) wypiek; (rz.) wypiekanie
+[baksheesh]baksheesh (EN) : (rz.) napiwek
+[bal]bal (EN) : (p.) balowy
+[balaclava]balaclava (EN) : (rz.) kominiarka
+[balalaika]balalaika (EN) : (rz.) bałałajka
+[balance]balance (EN) : (cz.) balansować; (cz.) bilansować; (cz.) równoważyć; (cz.) wyważyć; (cz.) zbilansować; (rz.) balans; (rz.) bilans; (rz.) kompromis; (rz.) równowaga; (rz.) saldo; (rz.) waga; (rz.) współzależność; (rz.) wyważenie; (rz.) zrównoważenie
+[balanced]balanced (EN) : (p.) pełnowartościowy
+[balancer]balancer (EN) : (rz.) równoważnik; (rz.) stabilizator; (rz.) statecznik; (rz.) wyrównywacz; (rz.) wyważarka
+[balancing]balancing (EN) : (rz.) równoważenie; (rz.) wyważanie; (rz.) wyważenie; (rz.) zrównoważenie
+[balancing-pole]balancing-pole (EN) : (rz.) balans
+[balata]balata (EN) : (rz.) balata
+[balcony]balcony (EN) : (rz.) balkon
+[bald]bald (EN) : (p.) bezlistny; (p.) jawny; (p.) łysy
+[bald-headed]bald-headed (EN) : (p.) łysy
+[baldachin]baldachin (EN) : (rz.) baldach
+[balderdash]balderdash (EN) : (rz.) duby
+[baldhead]baldhead (EN) : (p.) łysy
+[balding]balding (EN) : (p.) łysiejący
+[baldly]baldly (EN) : (p-sł.) poważnie
+[baldness]baldness (EN) : (rz.) łysienie; (rz.) łysina
+[baldric]baldric (EN) : (rz.) pendent
+[bale]bale (EN) : (rz.) bal; (rz.) bela; (rz.) niedola; (rz.) nieszczęście; (rz.) zguba
+[baleen]baleen (EN) : (rz.) fiszbin
+[balefire]balefire (EN) : (rz.) sobótka
+[baleful]baleful (EN) : (p.) nieszczęsny; (p.) zgubny; (p.) złowrogi
+[baling]baling (EN) : (rz.) belowanie; (rz.) czerpanie
+[balk]balk (EN) : (cz.) narowić; (cz.) przeszkadzać; (cz.) udaremniać; (cz.) udaremnić; (cz.) utkwić; (cz.) wzdragać; (cz.) zatrzymać; (rz.) bal; (rz.) belka; (rz.) miedza; (rz.) niepowodzenie; (rz.) przeszkoda; (rz.) zawada
+[balky]balky (EN) : (p.) krnąbrny; (p.) narowisty
+[ball]ball (EN) : (rz.) bal; (rz.) bila; (rz.) gałka; (rz.) kłębek; (rz.) kula; (rz.) kulka; (rz.) motek; (rz.) piłka; (rz.) siatkówka; (rz.) zabawa
+[ball-pen]ball-pen (EN) : (rz.) długopis
+[ball-shaped]ball-shaped (EN) : (p.) kulisty
+[ballad]ballad (EN) : (rz.) ballada; (rz.) pieśń
+[ballast]ballast (EN) : (rz.) balast; (rz.) balastowanie; (rz.) podsypka; (rz.) zrównoważenie
+[ballasting]ballasting (EN) : (rz.) balastowanie
+[ballerina]ballerina (EN) : (rz.) balerina; (rz.) baletnica
+[ballet]ballet (EN) : (rz.) balet
+[ballet-dancer]ballet-dancer (EN) : (rz.) baletnica; (rz.) baletnik
+[ballgame]ballgame (EN) : (rz.) rozgrywka
+[balling]balling (EN) : (rz.) grudkowanie; (rz.) sferoidyzacja; (rz.) zbrylanie
+[ballista]ballista (EN) : (rz.) balista
+[ballistic]ballistic (EN) : (p.) balistyczny
+[ballistics]ballistics (EN) : (rz.) balistyka
+[ballonet]ballonet (EN) : (rz.) balonik
+[balloon]balloon (EN) : (cz.) dymać; (cz.) nadymać; (rz.) balon; (rz.) balonik; (rz.) dymek
+[ballooning]ballooning (EN) : (rz.) baloniarstwo; (rz.) pęcznienie; (rz.) wydęcie; (rz.) wydymanie
+[balloonist]balloonist (EN) : (rz.) baloniarz
+[ballot]ballot (EN) : (cz.) głosować; (rz.) balotaż; (rz.) balotowanie; (rz.) głosowanie
+[ballot-box]ballot-box (EN) : (rz.) urna
+[balloting]balloting (EN) : (rz.) balotowanie
+[ballpark]ballpark (EN) : (rz.) boisko
+[ballplayer]ballplayer (EN) : (rz.) baseballista
+[ballpoint]ballpoint (EN) : (rz.) długopis
+[balls]balls (EN) : (rz.) bile; (rz.) piłeczki
+[bally]bally (EN) : (p.) cholerny
+[ballyhoo]ballyhoo (EN) : (rz.) hałas
+[balm]balm (EN) : (rz.) balsam; (rz.) pociecha
+[balmy]balmy (EN) : (p.) balsamiczny; (p.) balsamowy; (p.) kojący
+[balneologist]balneologist (EN) : (rz.) balneolog
+[balneology]balneology (EN) : (rz.) balneologia
+[baloney]baloney (EN) : (rz.) nonsens
+[balsam]balsam (EN) : (rz.) balsam
+[balsamic]balsamic (EN) : (p.) balsamiczny
+[baluster]baluster (EN) : (rz.) balas; (rz.) tralka
+[balustrade]balustrade (EN) : (rz.) balustrada; (rz.) poręcz
+[bam]bam (EN) : (rz.) stodoła
+[bamboo]bamboo (EN) : (rz.) bambus
+[bamboozle]bamboozle (EN) : (cz.) wykiwać
+[ban]ban (EN) : (cz.) bluźnić; (cz.) przeklinać; (cz.) wyklinać; (cz.) zablokować; (cz.) zabraniać; (cz.) zabronić; (cz.) zakazać; (cz.) zakazywać; (rz.) banicja; (rz.) interdykt; (rz.) klątwa; (rz.) obwódka; (rz.) zakaz
+[banal]banal (EN) : (p.) banalny
+[banality]banality (EN) : (rz.) banał; (rz.) banalność
+[banally]banally (EN) : (p-sł.) banalnie
+[banana]banana (EN) : (rz.) banan
+[band]band (EN) : (rz.) banda; (rz.) gąsienica; (rz.) grupa; (rz.) kapela; (rz.) obwódka; (rz.) opaska; (rz.) orkiestra; (rz.) pasek; (rz.) pasmo; (rz.) szajka; (rz.) szlaczek; (rz.) taśma; (rz.) wstążka; (rz.) wstęga; (rz.) zespół; (rz.) zgraja
+[bandage]bandage (EN) : (cz.) bandażować; (cz.) zabandażować; (rz.) bandaż; (rz.) opatrunek
+[bandaging]bandaging (EN) : (rz.) bandażowanie
+[bandbox]bandbox (EN) : (rz.) pudło
+[banderol]banderol (EN) : (rz.) banderola
+[banding]banding (EN) : (rz.) bandażowanie; (rz.) wiązanie
+[bandit]bandit (EN) : (rz.) bandyta; (rz.) bandzior; (rz.) rozbójnik; (rz.) zbójca
+[bandit's]bandit's (EN) : (p.) rozbójniczy
+[banditry]banditry (EN) : (rz.) bandytyzm
+[bandleader]bandleader (EN) : (rz.) kapelmistrz
+[bandmaster]bandmaster (EN) : (rz.) dyrygent; (rz.) kapelmistrz
+[bandoleer]bandoleer (EN) : (rz.) bandolier
+[bandsman]bandsman (EN) : (rz.) muzyk; (rz.) muzykant
+[bandstand]bandstand (EN) : (rz.) estrada; (rz.) rozpiętość; (rz.) szerokość
+[bandwidth]bandwidth (EN) : (rz.) pasmo; (rz.) przepustowość
+[bandy]bandy (EN) : (cz.) huśtać; (cz.) obrzucać; (cz.) odbijać; (cz.) odrzucać; (cz.) podrzucać; (cz.) przerzucać; (p.) krzywy; (p.) pałąkowaty
+[bandy-legged]bandy-legged (EN) : (p.) krzywonogi; (p.) pałąkowaty
+[bane]bane (EN) : (rz.) jad; (rz.) nieszczęście; (rz.) trucizna; (rz.) zguba; (rz.) zmora
+[baneful]baneful (EN) : (p.) beznadziejny; (p.) fatalny
+[bang]bang (EN) : (cz.) trzaskać; (cz.) trzasnąć; (cz.) uderzać; (cz.) walić; (cz.) wrąbać; (rz.) grzywka; (rz.) huk; (rz.) trzask; (rz.) uderzenie
+[bangle]bangle (EN) : (rz.) bransoleta; (rz.) bransoletka
+[banish]banish (EN) : (cz.) pozbyć; (cz.) wydalać; (cz.) wydalić; (cz.) wygnać; (cz.) wypędzać; (cz.) wypędzić
+[banishment]banishment (EN) : (rz.) banicja; (rz.) wygnanie
+[banister]banister (EN) : (rz.) balas; (rz.) balustrada; (rz.) poręcz; (rz.) tralka
+[banjo]banjo (EN) : (rz.) bandżo; (rz.) banjo
+[bank]bank (EN) : (cz.) gromadzić; (cz.) obwałować; (cz.) przechylać; (cz.) przechylić; (cz.) składać; (rz.) bank; (rz.) brzeg; (rz.) ławica; (rz.) nachylenie; (rz.) nasyp; (rz.) pula; (rz.) skarpa; (rz.) wał; (rz.) zaspa
+[bank-note]bank-note (EN) : (rz.) banknot
+[banker]banker (EN) : (rz.) bankier; (rz.) bankowiec
+[banker's]banker's (EN) : (p.) bankierski
+[banking]banking (EN) : (rz.) bankierstwo; (rz.) bankowość
+[banknote]banknote (EN) : (rz.) banknot
+[bankroll]bankroll (EN) : (cz.) finansować; (rz.) forsa
+[bankrupt]bankrupt (EN) : (cz.) bankrutować; (rz.) bankructwo; (rz.) bankrut
+[bankruptcy]bankruptcy (EN) : (rz.) bankructwo; (rz.) plajta; (rz.) upad; (rz.) upadłość
+[bankrupting]bankrupting (EN) : (rz.) bankrutowanie
+[bankrupts]bankrupts (EN) : (rz.) bankrutowanie
+[banks]banks (EN) : (rz.) bank
+[banner]banner (EN) : (rz.) bandera; (rz.) chorągiew; (rz.) proporzec; (rz.) sztandar; (rz.) transparent
+[banning]banning (EN) : (rz.) zakaz; (rz.) zakazywanie
+[bannock]bannock (EN) : (rz.) podpłomyk
+[banquet]banquet (EN) : (cz.) bankietować; (cz.) ucztować; (rz.) bankiet; (rz.) biesiada; (rz.) uczta
+[banqueter]banqueter (EN) : (rz.) biesiadnik
+[banshee]banshee (EN) : (rz.) kostucha
+[banter]banter (EN) : (cz.) drażnić; (cz.) droczyć; (cz.) gawędzić; (cz.) kpinkować; (cz.) naciągać; (cz.) przekomarzać; (rz.) naciąganie; (rz.) przekomarzanie; (rz.) żart
+[bantling]bantling (EN) : (rz.) bachor; (rz.) brzdąc
+[baobab]baobab (EN) : (rz.) baobab
+[baptise]baptise (EN) : (cz.) chrzcić
+[baptism]baptism (EN) : (rz.) chrzest; (rz.) ochrzczenie
+[baptismal]baptismal (EN) : (p.) chrzcielny; (p.) chrzestny
+[baptize]baptize (EN) : (cz.) chrzcić; (cz.) ochrzcić
+[baptizing]baptizing (EN) : (rz.) chrzczenie
+[bar]bar (EN) : (cz.) tarasować; (cz.) zagradzać; (cz.) zakazywać; (rz.) bar; (rz.) bariera; (rz.) bramka; (rz.) kostka; (rz.) krata; (rz.) palestra; (rz.) pasek; (rz.) pręt; (rz.) rogatka; (rz.) rygiel; (rz.) sztaba; (rz.) sztabka; (rz.) sztanga; (rz.) tabliczka; (rz.) takt; (rz.) zakaz; (rz.) zapora
+[bar-room]bar-room (EN) : (rz.) bufet
+[barb]barb (EN) : (rz.) broda; (rz.) haczyk; (rz.) kolec; (rz.) łuska; (rz.) wąs; (rz.) zadzior
+[barbarian]barbarian (EN) : (rz.) barbarzyńca; (rz.) dzicz; (rz.) dzikus
+[barbarians]barbarians (EN) : (rz.) dzicz
+[barbaric]barbaric (EN) : (p.) barbarzyński
+[barbarically]barbarically (EN) : (p-sł.) barbarzyńsko
+[barbarism]barbarism (EN) : (rz.) barbaryzm; (rz.) barbarzyństwo
+[barbarity]barbarity (EN) : (rz.) barbarzyństwo
+[barbarous]barbarous (EN) : (p.) barbarzyński
+[barbate]barbate (EN) : (p.) ciernisty; (p.) kłaczasty
+[barbecue]barbecue (EN) : (rz.) grill; (rz.) grillowanie; (rz.) rożen; (rz.) ruszt
+[barbecues]barbecues (EN) : (rz.) grillowanie
+[barbed]barbed (EN) : (p.) haczykowaty; (p.) kolczasty
+[barbell]barbell (EN) : (rz.) sztanga
+[barber]barber (EN) : (rz.) balwierz; (rz.) cyrulik; (rz.) fryzjer; (rz.) golarz; (rz.) golibroda
+[barberries]barberries (EN) : (rz.) berberys
+[barberry]barberry (EN) : (rz.) berberys; (rz.) kwaśnica
+[barbet]barbet (EN) : (rz.) brodacz; (rz.) pudel
+[barbican]barbican (EN) : (rz.) barbakan
+[barbital]barbital (EN) : (rz.) kwas
+[barbiturate]barbiturate (EN) : (rz.) barbituran
+[barcarole]barcarole (EN) : (rz.) barkarola
+[barcarolle]barcarolle (EN) : (rz.) barkarola
+[bard]bard (EN) : (rz.) pieśniarz; (rz.) słonina; (rz.) wieszcz
+[bare]bare (EN) : (cz.) obnażać; (cz.) odkrywać; (cz.) odsłaniać; (cz.) wyszczerzać; (p.) absolutny; (p.) bosy; (p.) czysty; (p.) goły; (p.) jasny; (p.) jedyny; (p.) nagi; (p.) nieosłonięty; (p.) obnażony; (p.) pusty; (p.) zwykły
+[bare-bone]bare-bone (EN) : (p.) schematyczny; (p.) szkieletowy
+[barefaced]barefaced (EN) : (p.) bezczelny; (p.) bezwstydny
+[barefacedly]barefacedly (EN) : (p-sł.) bezczelnie; (p-sł.) śmiało
+[barefoot]barefoot (EN) : (p.) bosonogi; (p.) bosy; (p-sł.) boso
+[barefooted]barefooted (EN) : (p.) bosonogi; (p.) bosy
+[barely]barely (EN) : (p-sł.) jedynie; (p-sł.) ledwie; (p-sł.) ledwo; (p-sł.) tylko; (p-sł.) zaledwie
+[bareness]bareness (EN) : (rz.) nagość; (rz.) ogołocenie; (rz.) pustka; (rz.) ubóstwo
+[barf]barf (EN) : (cz.) wymiotować
+[bargain]bargain (EN) : (cz.) targować; (cz.) umawiać; (rz.) interes; (rz.) kupno; (rz.) okazja; (rz.) sposobność; (rz.) transakcja; (rz.) umowa
+[bargaining]bargaining (EN) : (rz.) negocjacja; (rz.) umowa
+[barge]barge (EN) : (rz.) barka; (rz.) berlinka; (rz.) galar; (rz.) szkuta
+[baric]baric (EN) : (p.) baryczny
+[baring]baring (EN) : (rz.) casting
+[barite]barite (EN) : (rz.) baryt
+[baritone]baritone (EN) : (rz.) baryton
+[barium]barium (EN) : (rz.) bar
+[bark]bark (EN) : (cz.) impregnować; (cz.) korować; (cz.) szczekać; (rz.) bark; (rz.) kora; (rz.) szczekanie; (rz.) żagle
+[barker]barker (EN) : (rz.) korowarka; (rz.) naganiacz; (rz.) szczekacz
+[barley]barley (EN) : (rz.) jęczmień
+[barmaid]barmaid (EN) : (rz.) bufetowa
+[barman]barman (EN) : (rz.) barman
+[barn]barn (EN) : (rz.) kurnik; (rz.) obora; (rz.) stodoła
+[barnacle]barnacle (EN) : (rz.) natręt; (rz.) pąkla; (rz.) skorupiak; (rz.) szczypce
+[barnstorm]barnstorm (EN) : (cz.) objeżdżać
+[barnyard]barnyard (EN) : (rz.) podwórze
+[barograph]barograph (EN) : (rz.) barograf
+[barometer]barometer (EN) : (rz.) barometr
+[barometric]barometric (EN) : (p.) barometryczny
+[barometrical]barometrical (EN) : (p.) barometryczny
+[baron]baron (EN) : (rz.) magnat
+[baronage]baronage (EN) : (rz.) baronostwo; (rz.) herbarz; (rz.) magnateria
+[baronial]baronial (EN) : (p.) baronowski; (p.) hrabiowski; (p.) magnacki
+[barony]barony (EN) : (rz.) baronia; (rz.) baronostwo
+[baroque]baroque (EN) : (p.) barokowy; (rz.) barok
+[barque]barque (EN) : (rz.) barka
+[barrack]barrack (EN) : (rz.) barak; (rz.) koszary
+[barracking]barracking (EN) : (rz.) koszarowanie
+[barracks]barracks (EN) : (rz.) koszara; (rz.) koszarowanie; (rz.) koszary
+[barrage]barrage (EN) : (rz.) grobla; (rz.) zapora
+[barratry]barratry (EN) : (rz.) barateria
+[barrel]barrel (EN) : (cz.) beczkować; (rz.) baniak; (rz.) baryła; (rz.) baryłka; (rz.) bębenek; (rz.) beczka; (rz.) beczułka; (rz.) lufa; (rz.) rura
+[barrel-organ]barrel-organ (EN) : (rz.) katarynka
+[barrel-shaped]barrel-shaped (EN) : (p.) baryłkowaty; (p.) beczkowaty
+[barren]barren (EN) : (p.) bezlistny; (p.) bezużyteczny; (p.) jałowy; (p.) niepłodny; (p.) nieurodzajny; (p.) suchy
+[barrenness]barrenness (EN) : (rz.) jałowość
+[barrette]barrette (EN) : (rz.) garda; (rz.) wsuwka
+[barricade]barricade (EN) : (cz.) barykadować; (cz.) zabarykadować; (rz.) barykada
+[barrier]barrier (EN) : (rz.) bariera; (rz.) bramka; (rz.) przegroda; (rz.) przegródka; (rz.) przeszkoda; (rz.) rogatka; (rz.) szlaban; (rz.) zagrodzenie; (rz.) zapora
+[barrister]barrister (EN) : (rz.) adwokat; (rz.) obrońca; (rz.) orędownik
+[barroom]barroom (EN) : (rz.) bufet
+[barrow]barrow (EN) : (rz.) kopiec; (rz.) kurhan; (rz.) nosiłki; (rz.) taczka; (rz.) taczki; (rz.) wózek
+[bars]bars (EN) : (rz.) bary; (rz.) krata; (rz.) kraty
+[bartender]bartender (EN) : (rz.) barman
+[barter]barter (EN) : (cz.) frymarczyć; (cz.) wymieniać; (rz.) nachylenie; (rz.) pochylenie; (rz.) skarpa; (rz.) wymiana
+[bartizan]bartizan (EN) : (rz.) parapet
+[baryon]baryon (EN) : (rz.) barion
+[bas]bas (EN) : (p.) basowy
+[bas-relief]bas-relief (EN) : (rz.) płaskorzeźba
+[basal]basal (EN) : (p.) nasadowy; (p.) podstawowy; (p.) typowy
+[basalt]basalt (EN) : (rz.) bazalt
+[basaltic]basaltic (EN) : (p.) bazaltowy
+[base]base (EN) : (cz.) bazować; (cz.) gruntować; (cz.) opierać; (cz.) oprzeć; (cz.) ugruntować; (cz.) zasadzać; (cz.) zasądzać; (p.) bazowy; (p.) fałszywy; (p.) niegodziwy; (p.) nieszlachetny; (p.) nikczemny; (p.) niski; (p.) podkładowy; (p.) podły; (rz.) baza; (rz.) nasada; (rz.) oparcie; (rz.) podkład; (rz.) podłoże; (rz.) podnóże; (rz.) podstawa; (rz.) podstawka; (rz.) rozstaw; (rz.) zasada
+[base-forming]base-forming (EN) : (p.) zasadotwórczy
+[baseball]baseball (EN) : (rz.) baseball; (rz.) palant
+[baseless]baseless (EN) : (p.) bezpodstawny; (p.) bezprzyczynowy; (p.) bezzasadny
+[basely]basely (EN) : (p-sł.) niegodziwie; (p-sł.) nieuczciwie; (p-sł.) podle
+[baseman]baseman (EN) : (p.) bazowy
+[basement]basement (EN) : (rz.) piwnica; (rz.) podziemie; (rz.) przyziemie; (rz.) suterena
+[baseness]baseness (EN) : (rz.) podłość
+[bash]bash (EN) : (cz.) przeżegnać; (cz.) uderzyć; (cz.) walić
+[bashful]bashful (EN) : (p.) bojaźliwy; (p.) lękliwy; (p.) nieśmiały; (p.) wstydliwy
+[bashfully]bashfully (EN) : (p-sł.) wstydliwie
+[bashfulness]bashfulness (EN) : (rz.) lękliwość; (rz.) nieśmiałość; (rz.) wstydliwość
+[basic]basic (EN) : (p.) elitarny; (p.) fundamentalny; (p.) podstawowy; (p.) prymitywny; (p.) zasadniczy; (p.) zasadowy; (rz.) podstawa
+[basically]basically (EN) : (p-sł.) zasadniczo
+[basil]basil (EN) : (rz.) bazylia
+[basilar]basilar (EN) : (p.) podstawowy
+[basilica]basilica (EN) : (rz.) bazylika
+[basilisk]basilisk (EN) : (rz.) bazyliszek
+[basin]basin (EN) : (rz.) balia; (rz.) basen; (rz.) baza; (rz.) czara; (rz.) dorzecze; (rz.) miednica; (rz.) podłoże; (rz.) podstawa; (rz.) porzecze; (rz.) rezerwuar; (rz.) szala; (rz.) umywalka; (rz.) umywalnia; (rz.) zagłębie
+[basis]basis (EN) : (rz.) baza; (rz.) podstawa; (rz.) zasada
+[bask]bask (EN) : (cz.) grzać; (cz.) wygrzać; (cz.) wygrzewać
+[basket]basket (EN) : (rz.) kosz; (rz.) koszyk; (rz.) koszykówka
+[basket-ball]basket-ball (EN) : (rz.) koszykówka
+[basket-work]basket-work (EN) : (p.) koszykowy
+[basketball]basketball (EN) : (rz.) koszykarz; (rz.) koszykówka
+[basketry]basketry (EN) : (rz.) koszykarstwo
+[basketwork]basketwork (EN) : (rz.) koszykarstwo; (rz.) plecionka
+[basophilic]basophilic (EN) : (p.) zasadochłonny
+[bass]bass (EN) : (p.) basowy; (rz.) bas; (rz.) basetla; (rz.) basista; (rz.) kontrabas; (rz.) okoń
+[bass-relief]bass-relief (EN) : (rz.) płaskorzeźba
+[bass-viol]bass-viol (EN) : (rz.) kontrabas; (rz.) wiolonczela
+[basset]basset (EN) : (rz.) jamnik; (rz.) odsłonięcie
+[bassinet]bassinet (EN) : (rz.) kołyska
+[basso]basso (EN) : (p.) basowy
+[bassoon]bassoon (EN) : (rz.) fagot
+[bassoonist]bassoonist (EN) : (rz.) fagocista
+[bastard]bastard (EN) : (rz.) bękart; (rz.) cham; (rz.) drań; (rz.) mieszaniec; (rz.) psubrat
+[baste]baste (EN) : (cz.) fastrygować; (cz.) przyfastrygować
+[bastinado]bastinado (EN) : (rz.) bastonada
+[basting]basting (EN) : (rz.) fastryga; (rz.) fastrygowanie; (rz.) wygrzmocenie
+[bastion]bastion (EN) : (rz.) bastion
+[bat]bat (EN) : (rz.) gacek; (rz.) kij; (rz.) nietoperz; (rz.) palant; (rz.) rakieta; (rz.) rakietka
+[batch]batch (EN) : (rz.) grupa; (rz.) namiar; (rz.) paczka; (rz.) partia; (rz.) plik; (rz.) porcja; (rz.) seria; (rz.) wsad; (rz.) wypiek
+[batch-free]batch-free (EN) : (p.) stopiony
+[batcher]batcher (EN) : (rz.) dawkownik; (rz.) dozator; (rz.) dozownik
+[batching]batching (EN) : (rz.) dozowanie; (rz.) porcjowanie
+[bate]bate (EN) : (cz.) spadać; (cz.) wytrawiać
+[bath]bath (EN) : (cz.) kapać; (cz.) kąpać; (cz.) wykąpać; (rz.) kąpiel; (rz.) łaźnia; (rz.) wanna
+[bath-tub]bath-tub (EN) : (rz.) wanienka; (rz.) wanna
+[bathe]bathe (EN) : (cz.) kapać; (cz.) kąpać; (cz.) pływać; (cz.) przemywać; (cz.) wykąpać; (rz.) kąpiel
+[bather]bather (EN) : (rz.) kuracjusz
+[bathing]bathing (EN) : (rz.) kąpiel
+[bathrobe]bathrobe (EN) : (rz.) szlafrok
+[bathroom]bathroom (EN) : (rz.) łazienka; (rz.) sanitariat; (rz.) toaleta
+[bathrooms]bathrooms (EN) : (rz.) ubikacja
+[baths]baths (EN) : (rz.) kąpielisko
+[bathtub]bathtub (EN) : (rz.) wanienka; (rz.) wanna
+[bathymetry]bathymetry (EN) : (rz.) batymetria
+[bathyscaph]bathyscaph (EN) : (rz.) batyskaf
+[bathyscaphe]bathyscaphe (EN) : (rz.) batyskaf
+[bathysphere]bathysphere (EN) : (rz.) batysfera
+[batik]batik (EN) : (rz.) batik
+[batiste]batiste (EN) : (rz.) batyst
+[batman]batman (EN) : (rz.) ordynans
+[baton]baton (EN) : (rz.) batuta; (rz.) buława; (rz.) pałeczka; (rz.) pałka
+[batsman]batsman (EN) : (rz.) pałkarz
+[battalion]battalion (EN) : (rz.) batalion
+[batten]batten (EN) : (rz.) listwa
+[batter]batter (EN) : (cz.) gruchotać; (cz.) łomotać; (cz.) rozbijać; (cz.) tłuc; (cz.) walić; (cz.) wybijać; (cz.) wywalać; (cz.) zdemolować; (rz.) nachylenie; (rz.) pałkarz; (rz.) pochylenie; (rz.) skarpa; (rz.) zbijanie
+[battery]battery (EN) : (rz.) akumulator; (rz.) bateria; (rz.) bateryjka; (rz.) pobicie; (rz.) tuczarnia
+[battle]battle (EN) : (cz.) bić; (cz.) walczyć; (rz.) batalia; (rz.) bitwa; (rz.) bój; (rz.) walka
+[battle-cruiser]battle-cruiser (EN) : (rz.) krążownik
+[battle-painter]battle-painter (EN) : (rz.) batalista
+[battledore]battledore (EN) : (rz.) kijanka; (rz.) łopata
+[battledress]battledress (EN) : (rz.) mundur
+[battlefield]battlefield (EN) : (rz.) pobojowisko
+[battlement]battlement (EN) : (rz.) blanka
+[battleship]battleship (EN) : (rz.) okręt; (rz.) pancernik
+[battue]battue (EN) : (rz.) nagonka
+[bauble]bauble (EN) : (rz.) ozdóbka; (rz.) świecidełko
+[baud]baud (EN) : (rz.) bod
+[baulk]baulk (EN) : (rz.) zawada
+[bauxite]bauxite (EN) : (rz.) boksyt
+[bawd]bawd (EN) : (rz.) rajfurka; (rz.) stręczyciel
+[bawdiness]bawdiness (EN) : (rz.) sprośność
+[bawdy]bawdy (EN) : (p.) pikantny; (p.) rubaszny; (p.) sprośny
+[bawl]bawl (EN) : (cz.) napyskować; (cz.) wrzeszczeć; (cz.) wykrzykiwać; (cz.) wywrzaskiwać; (rz.) wrzask
+[bawler]bawler (EN) : (rz.) pyskacz
+[bay]bay (EN) : (cz.) przepaść; (cz.) szczekać; (cz.) ujadać; (p.) gniady; (rz.) gniadosz; (rz.) przęsło; (rz.) stanowisko; (rz.) szczekanie; (rz.) ujadanie; (rz.) wnęka; (rz.) wysepka; (rz.) zalew; (rz.) zatoczka; (rz.) zatoka; (rz.) zatrzymanie
+[bayonet]bayonet (EN) : (rz.) bagnet
+[bayou]bayou (EN) : (rz.) zalewisko
+[bazaar]bazaar (EN) : (rz.) bazar; (rz.) jarmark; (rz.) kiermasz
+[bazooka]bazooka (EN) : (rz.) pancerzownica
+[be]be (EN) : (cz.) być; (cz.) czuć; (cz.) istnieć; (cz.) mieć; (cz.) miewać; (cz.) należeć; (cz.) nastąpić; (cz.) następować; (cz.) przysługiwać; (cz.) wynosić; (cz.) zaistnieć; (cz.) zostać; (cz.) żyć
+[beach]beach (EN) : (rz.) plaża
+[beach-suit]beach-suit (EN) : (rz.) opalacz; (rz.) plażówka
+[beachhead]beachhead (EN) : (rz.) przyczółek
+[beaching]beaching (EN) : (rz.) plaża; (rz.) wyrzucanie
+[beacon]beacon (EN) : (rz.) boja; (rz.) latarnia; (rz.) pława; (rz.) stawa; (rz.) sygnał
+[beaconing]beaconing (EN) : (rz.) świecenie
+[bead]bead (EN) : (rz.) koralik; (rz.) kropla; (rz.) kulka; (rz.) łza; (rz.) paciorek; (rz.) różaniec
+[beadledom]beadledom (EN) : (rz.) ważniactwo
+[beads]beads (EN) : (rz.) sieczka
+[beagle]beagle (EN) : (cz.) polować; (rz.) szpicel; (rz.) szpieg
+[beak]beak (EN) : (rz.) belfer; (rz.) dziób; (rz.) dziobek; (rz.) dzióbek; (rz.) łzawnik; (rz.) szyjka
+[beaker]beaker (EN) : (rz.) kubek; (rz.) puchar; (rz.) zlewka
+[beakers]beakers (EN) : (rz.) zlewek
+[beam]beam (EN) : (cz.) promienieć; (cz.) promieniować; (cz.) rozpromieniać; (cz.) świecić; (cz.) uśmiechać; (rz.) bela; (rz.) belka; (rz.) dyszel; (rz.) dźwigar; (rz.) legar; (rz.) promień; (rz.) równoważnia; (rz.) snop; (rz.) trawers; (rz.) wiązka
+[beaming]beaming (EN) : (p.) jasny; (p.) promienny
+[beamy]beamy (EN) : (p.) masywny
+[bean]bean (EN) : (rz.) fasola; (rz.) fasolka; (rz.) makówka; (rz.) ziarnko; (rz.) ziarno
+[beanery]beanery (EN) : (rz.) jadłodajnia
+[beanpole]beanpole (EN) : (rz.) tyka
+[beans]beans (EN) : (rz.) fasola
+[bear]bear (EN) : (cz.) cierpieć; (cz.) dźwigać; (cz.) nieść; (cz.) nosić; (cz.) obarczać; (cz.) podpierać; (cz.) podtrzymywać; (cz.) ponieść; (cz.) ponosić; (cz.) rodzić; (cz.) unosić; (cz.) wytrzymać; (cz.) znosić; (rz.) miś; (rz.) narost; (rz.) niedźwiedź; (rz.) niedźwiedzica; (rz.) skrzep
+[bear's-foot]bear's-foot (EN) : (rz.) ciemiernik
+[bearable]bearable (EN) : (p.) znośny
+[bearbaiting]bearbaiting (EN) : (rz.) szczucie
+[beard]beard (EN) : (cz.) wyzwać; (rz.) broda; (rz.) bródka; (rz.) zarost
+[bearded]bearded (EN) : (p.) brodaty
+[bearer]bearer (EN) : (rz.) nosiciel; (rz.) okaziciel; (rz.) posiadacz; (rz.) przedstawiciel; (rz.) wspornik
+[bearing]bearing (EN) : (rz.) cierpienie; (rz.) kierunek; (rz.) łożysko; (rz.) namiar; (rz.) nawis; (rz.) niedźwiedź; (rz.) panew; (rz.) peleng; (rz.) ponoszenie; (rz.) postawa; (rz.) postępowanie; (rz.) stosunek; (rz.) wytrzymałość; (rz.) zachowanie; (rz.) znoszenie
+[bearish]bearish (EN) : (p.) niedźwiedzi; (p.) zniżkowy
+[beast]beast (EN) : (rz.) bestia; (rz.) bydlak; (rz.) bydle; (rz.) potwór; (rz.) zwierz
+[beastliness]beastliness (EN) : (rz.) zezwierzęcenie; (rz.) zwierzęcość
+[beastly]beastly (EN) : (p.) brutalny; (p.) ohydny; (p.) wstrętny; (p.) zwierzęcy; (p-sł.) okropnie
+[beat]beat (EN) : (cz.) bić; (cz.) lać; (cz.) lawirować; (cz.) naganiać; (cz.) pobić; (cz.) pokonać; (cz.) pokonywać; (cz.) ubijać; (cz.) uderzać; (cz.) walić; (cz.) wygrać; (rz.) bicie; (rz.) dudnienie; (rz.) pokonanie; (rz.) rytm; (rz.) takt; (rz.) uderzenie
+[beater]beater (EN) : (rz.) bijak; (rz.) kijanka; (rz.) naganiacz; (rz.) tłuczek; (rz.) trzepak; (rz.) ubijak
+[beatification]beatification (EN) : (rz.) beatyfikacja
+[beatify]beatify (EN) : (cz.) beatyfikować
+[beating]beating (EN) : (rz.) bicie; (rz.) grzmocenie; (rz.) lanie; (rz.) obijanie; (rz.) pobicie; (rz.) pobijanie; (rz.) porażka; (rz.) pot; (rz.) rozpłaszczanie; (rz.) trzepanie; (rz.) ubijanie; (rz.) wytrzepanie; (rz.) zbicie
+[beating-in]beating-in (EN) : (rz.) zdudnianie
+[beatitude]beatitude (EN) : (rz.) błogosławieństwo; (rz.) szczęśliwość
+[beatnik]beatnik (EN) : (rz.) bitnik
+[beau]beau (EN) : (rz.) amant
+[beauteous]beauteous (EN) : (p.) piękny
+[beautician]beautician (EN) : (rz.) kosmetyczka
+[beautiful]beautiful (EN) : (p.) cudny; (p.) krasny; (p.) ładny; (p.) malowniczy; (p.) piękny; (p.) przepiękny; (p.) śliczny
+[beautifully]beautifully (EN) : (p-sł.) pięknie
+[beautify]beautify (EN) : (cz.) upiększać; (cz.) upiększyć
+[beauty]beauty (EN) : (rz.) cudo; (rz.) krasa; (rz.) piękno; (rz.) piękność; (rz.) uroda; (rz.) urok
+[beaver]beaver (EN) : (rz.) bóbr
+[becalm]becalm (EN) : (cz.) osłaniać; (cz.) osłonić; (cz.) uspokajać
+[became]became (EN) : (cz.) stać; (cz.) stawać
+[because]because (EN) : (spójnik) albowiem; (spójnik) bo; (spójnik) bowiem; (spójnik) gdyż; (spójnik) ponieważ
+[bechance]bechance (EN) : (cz.) przydarzać
+[becharm]becharm (EN) : (cz.) oczarować; (cz.) zaczarować
+[beck]beck (EN) : (rz.) kadź; (rz.) skinienie; (rz.) zbiornik
+[beckon]beckon (EN) : (cz.) kiwać; (cz.) kiwnąć; (cz.) kusić; (cz.) przywołać; (cz.) skinąć; (cz.) wabić; (cz.) wykiwać
+[becloud]becloud (EN) : (cz.) zachmurzać
+[become]become (EN) : (cz.) nabierać; (cz.) ogłuchnąć; (cz.) robić; (cz.) stać; (cz.) stawać; (cz.) wypadać; (cz.) zostać; (cz.) zostawać
+[becomes]becomes (EN) : (rz.) nabieranie
+[becoming]becoming (EN) : (p.) stosowny; (p.) twarzowy
+[bed]bed (EN) : (rz.) dno; (rz.) dostawka; (rz.) grządka; (rz.) grzęda; (rz.) korpus; (rz.) legowisko; (rz.) łoże; (rz.) łóżko; (rz.) łożysko; (rz.) nocleg; (rz.) podkład; (rz.) posłanie; (rz.) rama; (rz.) spanie; (rz.) stojak; (rz.) warstwa
+[bed-bug]bed-bug (EN) : (rz.) pluskwa
+[bed-clothes]bed-clothes (EN) : (rz.) obleczenie; (rz.) pościel
+[bed-linen]bed-linen (EN) : (rz.) powleczenie
+[bed-ridden]bed-ridden (EN) : (p.) chory
+[bed-wetting]bed-wetting (EN) : (rz.) moczenie
+[bedaub]bedaub (EN) : (cz.) posmarować; (cz.) zababrać; (cz.) zabazgrać
+[bedazzle]bedazzle (EN) : (cz.) olśnić; (cz.) oślepiać
+[bedbug]bedbug (EN) : (rz.) pluskwa; (rz.) robak
+[bedclothes]bedclothes (EN) : (rz.) pościel; (rz.) przykrycie
+[bedding]bedding (EN) : (rz.) pościel; (rz.) posłanie; (rz.) ściółka
+[bedeck]bedeck (EN) : (cz.) przyozdobić; (cz.) przystroić
+[bedevil]bedevil (EN) : (cz.) dokuczać; (cz.) nękać; (cz.) poniewierać; (cz.) uprzykrzać
+[bedevilment]bedevilment (EN) : (rz.) dokuczanie
+[bedew]bedew (EN) : (cz.) zraszać
+[bedewing]bedewing (EN) : (rz.) zroszenie
+[bedight]bedight (EN) : (cz.) przybrać; (cz.) przystroić
+[bedim]bedim (EN) : (cz.) przyciemniać; (cz.) przyciemnić; (cz.) zamglić
+[bedizen]bedizen (EN) : (cz.) wystrajać; (cz.) wystroić
+[bedlam]bedlam (EN) : (rz.) hałas; (rz.) harmider; (rz.) obłąkanie; (rz.) wrzawa; (rz.) zamieszanie
+[bedpan]bedpan (EN) : (rz.) basen; (rz.) naczynie
+[bedpost]bedpost (EN) : (rz.) kolumienka
+[bedraggle]bedraggle (EN) : (cz.) zaszargać; (cz.) zwłóczyć
+[bedridden]bedridden (EN) : (p.) chory
+[bedrock]bedrock (EN) : (rz.) podłoże
+[bedroom]bedroom (EN) : (rz.) sypialnia
+[bedside]bedside (EN) : (rz.) odleżyna
+[bedsore]bedsore (EN) : (rz.) odleżyna
+[bedspread]bedspread (EN) : (rz.) kapa; (rz.) narzuta; (rz.) narzutka
+[bedspring]bedspring (EN) : (rz.) sprężyna
+[bedstead]bedstead (EN) : (rz.) łóżko
+[bedwetting]bedwetting (EN) : (rz.) moczenie
+[bee]bee (EN) : (rz.) pszczoła
+[bee-eater]bee-eater (EN) : (rz.) żołna
+[bee-keeper]bee-keeper (EN) : (rz.) pszczelarz
+[bee-keeping]bee-keeping (EN) : (rz.) pszczelarstwo
+[bee-master]bee-master (EN) : (rz.) pszczelarz
+[beech]beech (EN) : (p.) bukowy; (rz.) buczyna; (rz.) buk; (rz.) huk
+[beechnut]beechnut (EN) : (rz.) bukiew
+[beef]beef (EN) : (rz.) pretensja; (rz.) wołowina
+[beefeater]beefeater (EN) : (rz.) wartownik
+[beefsteak]beefsteak (EN) : (rz.) befsztyk
+[beefy]beefy (EN) : (p.) muskularny; (p.) silny; (p.) wołowy
+[beehive]beehive (EN) : (rz.) ul
+[beekeeper]beekeeper (EN) : (rz.) pszczelarz
+[beekeeping]beekeeping (EN) : (rz.) pszczelarstwo
+[beep]beep (EN) : (cz.) brzęczeć; (cz.) piszczeć; (cz.) zapiszczeć; (rz.) brzęczyk; (rz.) piszczenie
+[beeper]beeper (EN) : (p.) bezzałogowy; (rz.) brzęczyk
+[beeps]beeps (EN) : (rz.) brzęczenie
+[beer]beer (EN) : (rz.) piwko; (rz.) piwo
+[beer-mug]beer-mug (EN) : (rz.) kufel
+[beery]beery (EN) : (p.) piwny
+[beestings]beestings (EN) : (rz.) siara
+[beeswax]beeswax (EN) : (rz.) wosk
+[beet]beet (EN) : (rz.) burak
+[beetle]beetle (EN) : (rz.) baba; (rz.) chrabąszcz; (rz.) chrząszcz; (rz.) dobniak; (rz.) kafar; (rz.) stępor; (rz.) ubijacz; (rz.) ubijak; (rz.) żuk
+[beetroot]beetroot (EN) : (rz.) burak; (rz.) ćwikła
+[befall]befall (EN) : (cz.) przytrafiać; (cz.) spotykać; (cz.) wydarzać; (cz.) zdarzać; (cz.) zdarzyć
+[befallen]befallen (EN) : (cz.) napaść; (cz.) przytrafiać; (cz.) zdarzyć
+[befit]befit (EN) : (cz.) pasować; (cz.) wypadać
+[befool]befool (EN) : (cz.) okpić
+[before]before (EN) : (p-im.) przed; (p-im.) przede; (p-im.) sprzed; (p-sł.) kiedyś; (p-sł.) naprzeciwko; (p-sł.) przedtem; (p-sł.) przedwczoraj
+[beforehand]beforehand (EN) : (p-sł.) najpierw; (p-sł.) naprzód; (p-sł.) przedtem; (p-sł.) uprzednio; (p-sł.) zawczasu
+[befoul]befoul (EN) : (cz.) brudzić; (cz.) oszukać; (cz.) oszukiwać; (cz.) plugawić; (cz.) skalać
+[befriend]befriend (EN) : (cz.) zaprzyjaźniać; (cz.) zaprzyjaźnić
+[befriended]befriended (EN) : (p.) przyjacielski
+[befuddle]befuddle (EN) : (cz.) zaciemniać; (cz.) zamroczyć
+[befuddlement]befuddlement (EN) : (rz.) zamroczenie
+[beg]beg (EN) : (cz.) błagać; (cz.) dopraszać; (cz.) prosić; (cz.) wybłagać; (cz.) zebrać; (cz.) żebrać
+[began]began (EN) : (cz.) rozpoczynać; (cz.) zaczynać
+[beget]beget (EN) : (cz.) płodzić; (cz.) spowodować; (cz.) tworzyć
+[begetting]begetting (EN) : (rz.) płodzenie; (rz.) spłodzenie
+[beggar]beggar (EN) : (rz.) żebrak
+[beggarly]beggarly (EN) : (p.) dziadowski; (p.) nędzny; (p.) żebraczy
+[beggary]beggary (EN) : (rz.) nędza; (rz.) żebractwo
+[begin]begin (EN) : (cz.) rozpocząć; (cz.) rozpoczynać; (cz.) zaczynać; (cz.) zapoczątkowywać
+[beginner]beginner (EN) : (rz.) nowicjusz
+[beginning]beginning (EN) : (rz.) początek; (rz.) rozpoczęcie; (rz.) zaczątek; (rz.) zaczynanie
+[begird]begird (EN) : (cz.) opasać; (cz.) przepasać
+[begonia]begonia (EN) : (rz.) begonia
+[begotten]begotten (EN) : (cz.) spowodować
+[begrime]begrime (EN) : (cz.) zabrudzić
+[begrudge]begrudge (EN) : (cz.) skąpić; (cz.) żałować; (cz.) zazdrościć
+[beguile]beguile (EN) : (cz.) mamić; (cz.) oczarowywać; (cz.) omamiać; (cz.) omamić; (cz.) oszukiwać; (cz.) skracać; (cz.) spędzać; (cz.) wyłudzać
+[beguilement]beguilement (EN) : (rz.) czarowanie; (rz.) oszukanie
+[beguiler]beguiler (EN) : (rz.) oszust
+[beguiling]beguiling (EN) : (p.) złudny
+[begun]begun (EN) : (cz.) rozpoczynać; (cz.) zaczynać
+[behalf]behalf (EN) : (rz.) korzyść; (rz.) sprawa
+[behave]behave (EN) : (cz.) postępować; (cz.) prowadzić; (cz.) zachowywać
+[behaviour]behaviour (EN) : (rz.) postępowanie; (rz.) prowadzenie; (rz.) zachowanie
+[behavioural]behavioural (EN) : (p.) behawioralny
+[behaviourism]behaviourism (EN) : (rz.) behawioryzm
+[behaviourist]behaviourist (EN) : (rz.) behawiorysta
+[beheading]beheading (EN) : (rz.) ścięcie
+[beheld]beheld (EN) : (cz.) ujrzeć
+[behest]behest (EN) : (rz.) życzenie
+[behind]behind (EN) : (p-im.) za; (rz.) siedzenie; (rz.) tyłek
+[behold]behold (EN) : (cz.) spostrzegać; (cz.) ujrzeć
+[beholden]beholden (EN) : (p.) dłużny
+[beholder]beholder (EN) : (rz.) obserwator; (rz.) widz
+[behove]behove (EN) : (cz.) wypadać
+[beige]beige (EN) : (p.) beżowy; (rz.) beż
+[being]being (EN) : (rz.) byt; (rz.) istnienie; (rz.) istota; (rz.) stworzenie; (rz.) tkwienie
+[belabour]belabour (EN) : (cz.) wymłócić; (cz.) zaatakować
+[belated]belated (EN) : (p.) spóźniony
+[belay]belay (EN) : (cz.) cumować; (cz.) zacumować
+[belch]belch (EN) : (cz.) buchać; (cz.) wybuchać; (cz.) wypluwać; (cz.) wyrzucać; (rz.) beknięcie; (rz.) rozładowanie; (rz.) wybuch
+[belching]belching (EN) : (rz.) odbijanie
+[beldam]beldam (EN) : (rz.) babsztyl; (rz.) jędza
+[beleaguer]beleaguer (EN) : (cz.) oblegać
+[belemnite]belemnite (EN) : (rz.) belemnit
+[belfry]belfry (EN) : (rz.) dzwonnica
+[belie]belie (EN) : (cz.) dementować; (cz.) przeczyć; (cz.) zaprzeczać; (cz.) zdementować
+[belief]belief (EN) : (rz.) pogląd; (rz.) przekonanie; (rz.) światopogląd; (rz.) wiara; (rz.) wierzenie; (rz.) zaufanie; (rz.) zdanie
+[beliefs]beliefs (EN) : (rz.) przekonania
+[believable]believable (EN) : (p.) wiarygodny
+[believe]believe (EN) : (cz.) myśleć; (cz.) przypuszczać; (cz.) sądzić; (cz.) uważać; (cz.) uwierzyć; (cz.) wierzyć
+[believer]believer (EN) : (rz.) wyznawca; (rz.) zwolennik
+[believing]believing (EN) : (cz.) domniemywać; (cz.) sądzić
+[belike]belike (EN) : (p-sł.) zapewne
+[belittle]belittle (EN) : (cz.) bagatelizować; (cz.) pomniejszać; (cz.) umniejszać; (cz.) uwłaczać
+[belittling]belittling (EN) : (rz.) bagatelizowanie
+[bell]bell (EN) : (rz.) dzwon; (rz.) dzwonek
+[bell-flower]bell-flower (EN) : (rz.) dzwonek; (rz.) kampanula
+[bell-founder]bell-founder (EN) : (rz.) ludwisarz
+[bell-foundry]bell-foundry (EN) : (rz.) ludwisarnia
+[bell-mouthed]bell-mouthed (EN) : (p.) lejkowaty
+[bell-ringer]bell-ringer (EN) : (rz.) dzwonnik
+[bell-shaped]bell-shaped (EN) : (p.) dzwonowaty; (p.) dzwonowy; (p.) kloszowy
+[bell-tinkling]bell-tinkling (EN) : (rz.) podzwanianie
+[belladonna]belladonna (EN) : (rz.) atropina; (rz.) belladona
+[belle]belle (EN) : (rz.) piękność
+[belles]belles (EN) : (rz.) beletrystyka
+[belles-letters]belles-letters (EN) : (rz.) beletrystyka
+[belles-lettres]belles-lettres (EN) : (rz.) beletrystyka
+[belletrist]belletrist (EN) : (rz.) beletrysta
+[bellflower]bellflower (EN) : (rz.) dzwonek; (rz.) kampanula
+[bellicose]bellicose (EN) : (p.) antypokojowy; (p.) bojowy; (p.) nieprzyjacielski; (p.) wojowniczy
+[bellicosity]bellicosity (EN) : (rz.) bojowość; (rz.) wojowniczość
+[belligerence]belligerence (EN) : (rz.) agresywność; (rz.) wojowniczość
+[belligerency]belligerency (EN) : (rz.) wojna; (rz.) wojowniczość
+[belligerent]belligerent (EN) : (p.) bojowy; (p.) napastliwy; (p.) wojowniczy
+[belligerently]belligerently (EN) : (p-sł.) wojowniczo
+[bellman]bellman (EN) : (rz.) herold
+[bellow]bellow (EN) : (cz.) ryczeć; (cz.) wyć; (cz.) wydzierać; (rz.) miech; (rz.) mieszek; (rz.) wydzieranie
+[bellows]bellows (EN) : (rz.) dmuchawka; (rz.) miech; (rz.) mieszek
+[bellwether]bellwether (EN) : (rz.) baran; (rz.) herszt; (rz.) wodzirej
+[belly]belly (EN) : (rz.) bandzior; (rz.) brzuch; (rz.) brzusiec; (rz.) pot; (rz.) wybrzuszenie; (rz.) żarłoczność
+[bellyaching]bellyaching (EN) : (rz.) rżnięcie
+[bellyband]bellyband (EN) : (rz.) popręg
+[bellyful]bellyful (EN) : (rz.) sytość
+[belong]belong (EN) : (cz.) dotyczyć; (cz.) należeć; (cz.) odnosić; (cz.) pochodzić; (cz.) tyczyć
+[belonged]belonged (EN) : (p.) należny; (rz.) należenie
+[belonging]belonging (EN) : (rz.) dobytek; (rz.) mienie
+[belongings]belongings (EN) : (rz.) dobytek; (rz.) mienie; (rz.) rzeczy
+[beloved]beloved (EN) : (p.) drogi; (p.) kochany; (p.) luby
+[below]below (EN) : (p-im.) pod
+[belt]belt (EN) : (rz.) ładownica; (rz.) opasanie; (rz.) pas; (rz.) pasek; (rz.) strefa; (rz.) taśma
+[belting]belting (EN) : (rz.) pas; (rz.) pasy
+[beltway]beltway (EN) : (rz.) obwodnica
+[belying]belying (EN) : (rz.) dementowanie
+[bemire]bemire (EN) : (cz.) zabłocić
+[bemoan]bemoan (EN) : (cz.) lamentować; (cz.) opłakiwać
+[bemuse]bemuse (EN) : (cz.) odurzać; (cz.) ogłupiać; (cz.) oszałamiać
+[bemusement]bemusement (EN) : (rz.) speszenie
+[bench]bench (EN) : (rz.) kanapa; (rz.) ława; (rz.) ławka; (rz.) sąd; (rz.) sądownictwo; (rz.) taras; (rz.) warsztat
+[benched]benched (EN) : (p.) ławkowy
+[benching]benching (EN) : (rz.) schodkowanie; (rz.) tarasowanie
+[benchmark]benchmark (EN) : (rz.) kryterium; (rz.) miara; (rz.) sprawdzian; (rz.) wzorzec
+[benchmarking]benchmarking (EN) : (rz.) komparatystyka
+[bend]bend (EN) : (cz.) giąć; (cz.) krzywić; (cz.) pochylać; (cz.) schylać; (cz.) skręcać; (cz.) uginać; (cz.) wychylać; (cz.) wygiąć; (cz.) wyginać; (cz.) zgarbić; (cz.) zgiąć; (cz.) zginać; (rz.) kolano; (rz.) nagięcie; (rz.) pochył; (rz.) skłon; (rz.) skręt; (rz.) wygięcie; (rz.) zakole; (rz.) zakręt; (rz.) zakrzywienie; (rz.) zgięcie
+[bendable]bendable (EN) : (p.) zginalny
+[bender]bender (EN) : (rz.) giętarka; (rz.) zginacz
+[bendiness]bendiness (EN) : (rz.) krzywoliniowość
+[bending]bending (EN) : (rz.) gięcie; (rz.) skrzywienie; (rz.) uginanie; (rz.) wychylanie; (rz.) wyginanie; (rz.) zagięcie; (rz.) zgięcie; (rz.) zginanie
+[bends]bends (EN) : (rz.) wyginanie
+[beneath]beneath (EN) : (p-im.) pod
+[benediction]benediction (EN) : (rz.) błogosławieństwo
+[benefaction]benefaction (EN) : (rz.) dobrodziejstwo
+[benefactor]benefactor (EN) : (rz.) dobroczyńca; (rz.) dobrodziej; (rz.) fundator; (rz.) ofiarodawca
+[benefactors]benefactors (EN) : (rz.) dobrodziej
+[benefice]benefice (EN) : (rz.) beneficjum; (rz.) dochód; (rz.) probostwo
+[beneficence]beneficence (EN) : (rz.) dobroczynność
+[beneficent]beneficent (EN) : (p.) dobroczynny; (p.) wspaniałomyślny
+[beneficial]beneficial (EN) : (p.) dobroczynny; (p.) korzystny; (p.) pożyteczny; (p.) zbawienny
+[beneficiary]beneficiary (EN) : (rz.) beneficjant; (rz.) beneficjent; (rz.) spadkobierca
+[benefit]benefit (EN) : (cz.) korzystać; (cz.) pomagać; (cz.) skorzystać; (rz.) benefis; (rz.) dobrodziejstwo; (rz.) korzyść; (rz.) pożytek; (rz.) przywilej; (rz.) świadczenie; (rz.) zasiłek
+[benefiting]benefiting (EN) : (rz.) korzystanie
+[benevolence]benevolence (EN) : (rz.) dobroczynność; (rz.) życzliwość
+[benevolent]benevolent (EN) : (p.) dobroczynny; (p.) dobrotliwy; (p.) łaskawy; (p.) życzliwy
+[benighted]benighted (EN) : (p.) ciemny
+[benign]benign (EN) : (p.) dobroczynny; (p.) dobry; (p.) łagodny; (p.) niezłośliwy; (p.) zbawienny; (p.) życzliwy
+[benignant]benignant (EN) : (p.) dobrotliwy; (p.) łagodny; (p.) życzliwy
+[benison]benison (EN) : (rz.) błogosławieństwo
+[bent]bent (EN) : (p.) nieuczciwy; (p.) przekupny; (p.) trefny; (rz.) burzan; (rz.) mietlica; (rz.) napięcie; (rz.) ramownica; (rz.) rygiel; (rz.) sitowie; (rz.) skłonność; (rz.) zacięcie; (rz.) zakręt; (rz.) zgięcie; (rz.) żyłka
+[bent-grass]bent-grass (EN) : (rz.) mietlica
+[benthic]benthic (EN) : (p.) bentoniczny; (p.) bentosowy; (p.) denny
+[benumb]benumb (EN) : (cz.) drętwieć; (cz.) obezwładniać; (cz.) odrętwieć; (cz.) oszałamiać; (cz.) oszołomić; (cz.) porazić; (cz.) sparaliżować
+[benzene]benzene (EN) : (rz.) benzen; (rz.) benzol
+[benzoate]benzoate (EN) : (rz.) benzoesan
+[benzoic]benzoic (EN) : (p.) benzoesowy
+[benzyl]benzyl (EN) : (rz.) benzyl
+[bequeath]bequeath (EN) : (cz.) przekazać; (cz.) przekazywać; (cz.) testować; (cz.) zapisać; (cz.) zapisywać
+[bequest]bequest (EN) : (rz.) legat; (rz.) zapis
+[bereave]bereave (EN) : (cz.) osierocić; (cz.) pozbawiać; (cz.) pozbawić; (cz.) zabrać
+[bereavement]bereavement (EN) : (rz.) osierocenie; (rz.) żałoba
+[bereft]bereft (EN) : (cz.) osierocić
+[beret]beret (EN) : (rz.) beret
+[berg]berg (EN) : (rz.) góra
+[bergamot]bergamot (EN) : (rz.) bergamota
+[berkelium]berkelium (EN) : (rz.) berkel
+[berry]berry (EN) : (rz.) jagoda
+[berth]berth (EN) : (rz.) koja; (rz.) kuszetka; (rz.) łóżko; (rz.) prycza; (rz.) stanowisko
+[beryl]beryl (EN) : (rz.) beryl
+[beryllium]beryllium (EN) : (rz.) beryl
+[beseech]beseech (EN) : (cz.) błagać; (cz.) poprosić; (cz.) prosić
+[beseem]beseem (EN) : (cz.) wypadać
+[beseeming]beseeming (EN) : (p.) stosowny
+[beset]beset (EN) : (cz.) dręczyć; (cz.) oblegać; (cz.) okrążyć; (cz.) otaczać; (cz.) otoczyć; (cz.) zagradzać
+[besetment]besetment (EN) : (rz.) oblężenie; (rz.) obsesja
+[beside]beside (EN) : (p-im.) oprócz; (p-im.) przy
+[besides]besides (EN) : (p-im.) oprócz; (p-im.) prócz; (p-im.) przy; (p-sł.) nadto; (p-sł.) zresztą
+[besiege]besiege (EN) : (cz.) nagabywać; (cz.) napastować; (cz.) oblegać; (cz.) otaczać
+[besieging]besieging (EN) : (rz.) obleganie
+[besmear]besmear (EN) : (cz.) posmarować; (cz.) powalać; (cz.) zababrać; (cz.) zabrudzić
+[besmirch]besmirch (EN) : (cz.) oczerniać; (cz.) zabrudzać
+[besom]besom (EN) : (rz.) miotła
+[bespatter]bespatter (EN) : (cz.) obsypywać; (cz.) opryskać
+[bespeak]bespeak (EN) : (cz.) świadczyć; (cz.) zamawiać; (cz.) zamówić
+[besprinkle]besprinkle (EN) : (cz.) pokropić; (cz.) posypywać; (cz.) rozsypać; (cz.) skrapiać
+[best]best (EN) : (p.) najlepszy; (p-sł.) optymalnie
+[bestead]bestead (EN) : (cz.) pomagać
+[bestial]bestial (EN) : (p.) bestialski; (p.) zwierzęcy
+[bestiality]bestiality (EN) : (rz.) bestializm; (rz.) bestialstwo; (rz.) sodomia
+[bestiary]bestiary (EN) : (rz.) bestiariusz
+[bestir]bestir (EN) : (cz.) rozruszać; (cz.) ruszać
+[bestirring]bestirring (EN) : (rz.) rozruszanie
+[bestow]bestow (EN) : (cz.) nadawać; (cz.) obdarzać; (cz.) okazywać; (cz.) przydzielić; (cz.) przyznawać; (cz.) użyczyć
+[bestowal]bestowal (EN) : (rz.) dar; (rz.) nadanie; (rz.) nadawanie
+[bestowing]bestowing (EN) : (rz.) dar; (rz.) nadanie; (rz.) nadawanie
+[bestowment]bestowment (EN) : (rz.) dar; (rz.) nadanie
+[bestride]bestride (EN) : (cz.) siąść
+[bestseller]bestseller (EN) : (rz.) bestseller; (rz.) szlagier
+[bet]bet (EN) : (cz.) obstawiać; (cz.) obstawić; (cz.) postawić; (cz.) zakładać; (rz.) umowa; (rz.) zakład
+[beta-active]beta-active (EN) : (p.) beta-promieniotwórczy
+[beta-radioactive]beta-radioactive (EN) : (p.) beta-promieniotwórczy; (p.) beta-radioaktywny
+[betake]betake (EN) : (cz.) udawać
+[betel]betel (EN) : (rz.) kant; (rz.) ścięcie; (rz.) ukos
+[bethel]bethel (EN) : (rz.) betel
+[bethink]bethink (EN) : (cz.) rozmyślać
+[betimes]betimes (EN) : (p-sł.) wcześnie; (p-sł.) zawczasu
+[betoken]betoken (EN) : (cz.) oznaczać; (cz.) oznajmiać; (cz.) potwierdzać; (cz.) potwierdzić
+[betray]betray (EN) : (cz.) oszukać; (cz.) oszukiwać; (cz.) ujawniać; (cz.) zawieść; (cz.) zawodzić; (cz.) zdradzać; (cz.) zwodzić
+[betrayal]betrayal (EN) : (rz.) ujawnienie; (rz.) zdrada
+[betrayer]betrayer (EN) : (rz.) zdrajca
+[betraying]betraying (EN) : (rz.) zdradzenie
+[betroth]betroth (EN) : (cz.) zaręczyć
+[betrothal]betrothal (EN) : (rz.) zaręczyny
+[better]better (EN) : (cz.) polepszyć; (p.) lepszy; (rz.) dobroć; (rz.) poprawność; (rz.) ulepszanie
+[bettering]bettering (EN) : (rz.) poprawianie
+[betterment]betterment (EN) : (rz.) polepszenie; (rz.) poprawa
+[betting]betting (EN) : (rz.) stawianie; (rz.) zakładanie; (rz.) zakłady
+[between]between (EN) : (p-im.) między; (p-im.) pomiędzy; (p-sł.) pomiędzy; (p-sł.) pośrodku
+[bevel]bevel (EN) : (p.) skośny; (rz.) skos; (rz.) stożek; (rz.) ukos
+[bevelling]bevelling (EN) : (rz.) fazowanie; (rz.) ukosowanie
+[beverage]beverage (EN) : (rz.) napitek; (rz.) napój; (rz.) trunek
+[bevy]bevy (EN) : (rz.) gromada; (rz.) grono; (rz.) stado
+[bewail]bewail (EN) : (cz.) baczyć; (cz.) opłakiwać; (cz.) starzeć; (cz.) użalać
+[bewailing]bewailing (EN) : (rz.) opłakiwanie
+[beware]beware (EN) : (cz.) wystrzegać
+[bewilder]bewilder (EN) : (cz.) oszałamiać; (cz.) oszołomić; (cz.) zadziwiać; (cz.) zmieszać
+[bewildered]bewildered (EN) : (cz.) połapać
+[bewilderment]bewilderment (EN) : (rz.) dezorientacja; (rz.) osłupienie; (rz.) oszołomienie; (rz.) zamęt
+[bewitch]bewitch (EN) : (cz.) czarować; (cz.) oczarować; (cz.) oczarowywać; (cz.) urzekać; (cz.) zaczarować; (cz.) zakląć
+[bewitchment]bewitchment (EN) : (rz.) czar; (rz.) urzeczenie
+[beyond]beyond (EN) : (p-im.) oprócz; (p-im.) pomimo; (p-im.) ponad; (rz.) poza
+[bezel]bezel (EN) : (rz.) listwa; (rz.) obejma
+[bezique]bezique (EN) : (rz.) bezik
+[bi-direction]bi-direction (EN) : (rz.) dwukierunkowość
+[bias]bias (EN) : (rz.) inklinacja; (rz.) kierunek; (rz.) odchylenie; (rz.) pochylenie; (rz.) polaryzacja; (rz.) przychylność; (rz.) skłonność; (rz.) spadzistość; (rz.) stronniczość; (rz.) ukos; (rz.) uprzedzenie
+[bias-temperature]bias-temperature (EN) : (rz.) polaryzacja-temperatura
+[biathlon]biathlon (EN) : (p.) biatlonowy; (rz.) biatlon; (rz.) dwubój
+[bib]bib (EN) : (rz.) napierśnik; (rz.) podbródek; (rz.) śliniak
+[bibber]bibber (EN) : (rz.) pijak
+[bibbing]bibbing (EN) : (rz.) chlanie
+[bibelot]bibelot (EN) : (rz.) bibelot; (rz.) cacko
+[bible]bible (EN) : (rz.) biblia; (rz.) książka
+[biblical]biblical (EN) : (p.) biblijny
+[bibliographer]bibliographer (EN) : (rz.) bibliograf
+[bibliographic]bibliographic (EN) : (p.) bibliograficzny
+[bibliographical]bibliographical (EN) : (p.) bibliograficzny
+[bibliographically]bibliographically (EN) : (p-sł.) bibliograficznie
+[bibliography]bibliography (EN) : (rz.) bibliografia; (rz.) księgoznawstwo
+[bibliomaniac]bibliomaniac (EN) : (rz.) biblioman
+[bibliophile]bibliophile (EN) : (rz.) bibliofil
+[bibliophilism]bibliophilism (EN) : (rz.) bibliofilstwo
+[bibliophilist]bibliophilist (EN) : (rz.) bibliofil
+[bibulous]bibulous (EN) : (p.) chłonny; (p.) pijacki
+[bicarbonate]bicarbonate (EN) : (rz.) dwuwęglan; (rz.) wodorowęglan
+[biceps]biceps (EN) : (rz.) biceps
+[bicker]bicker (EN) : (cz.) czubić; (cz.) kłócić; (cz.) sprzeczać; (cz.) wadzić; (rz.) kłótnia; (rz.) ujadanie
+[bickering]bickering (EN) : (rz.) kłótnia
+[biconcave]biconcave (EN) : (p.) dwuwklęsły
+[biconvex]biconvex (EN) : (p.) dwuwypukły
+[bicycle]bicycle (EN) : (rz.) rower
+[bicycling]bicycling (EN) : (rz.) pedałowanie
+[bicyclist]bicyclist (EN) : (rz.) kolarz; (rz.) rowerzysta
+[bid]bid (EN) : (cz.) kazać; (cz.) licytować; (cz.) oferować; (cz.) ofiarować; (cz.) rozkazać; (cz.) wezwać; (cz.) zanieść; (cz.) zaofiarować; (cz.) zaofiarowywać; (cz.) życzyć; (rz.) kandydatura; (rz.) licytacja; (rz.) licytowanie; (rz.) odzywka; (rz.) oferta; (rz.) stawka
+[bidder]bidder (EN) : (rz.) licytant; (rz.) licytowanie; (rz.) oferent; (rz.) reflektant
+[bidding]bidding (EN) : (rz.) licytacja
+[biddy]biddy (EN) : (rz.) kurczak
+[bide]bide (EN) : (cz.) zaczekać
+[bidirectional]bidirectional (EN) : (p.) dwukierunkowy
+[bier]bier (EN) : (rz.) karawan; (rz.) katafalk; (rz.) mara
+[biff]biff (EN) : (cz.) walnąć; (rz.) szturchaniec
+[bifid]bifid (EN) : (p.) dwudzielny; (p.) rozpołowiony
+[bifilar]bifilar (EN) : (p.) bifilarny; (p.) dwunitkowy
+[bifocal]bifocal (EN) : (p.) dwuogniskowy
+[bifurcate]bifurcate (EN) : (cz.) rozdwajać; (cz.) rozwidlać; (cz.) rozwidlić
+[bifurcated]bifurcated (EN) : (p.) widelcowaty
+[bifurcation]bifurcation (EN) : (rz.) bifurkacja; (rz.) rozdwojenie; (rz.) rozgałęzienie; (rz.) rozstaj
+[big]big (EN) : (p.) brzemienny; (p.) dorosły; (p.) duży; (p.) gruby; (p.) obszerny; (p.) ważny; (p.) wielki; (p.) wysoki; (p.) znaczny
+[big-eared]big-eared (EN) : (p.) wielkouchy
+[bigamist]bigamist (EN) : (rz.) bigamista
+[bigamous]bigamous (EN) : (p.) bigamiczny
+[bigamy]bigamy (EN) : (rz.) bigamia; (rz.) dwużeństwo
+[biggie]biggie (EN) : (rz.) drobiazg; (rz.) drobnostka; (rz.) olbrzym; (rz.) szczegół
+[bighead]bighead (EN) : (rz.) zarozumialec
+[bight]bight (EN) : (rz.) zatoka
+[bigot]bigot (EN) : (rz.) dogmatyk; (rz.) świętoszek
+[bigoted]bigoted (EN) : (p.) bigoteryjny
+[bigotry]bigotry (EN) : (rz.) bigoteria; (rz.) dewocja; (rz.) zajadłość
+[bijou]bijou (EN) : (rz.) cacko; (rz.) klejnot
+[bike]bike (EN) : (rz.) motocykl; (rz.) rower
+[biker]biker (EN) : (rz.) motocyklista; (rz.) rowerzysta
+[bikini]bikini (EN) : (rz.) bikini
+[bilateral]bilateral (EN) : (p.) bilateralny; (p.) obustronny
+[bilaterally]bilaterally (EN) : (p-sł.) dwustronnie; (p-sł.) obustronnie
+[bilberry]bilberry (EN) : (rz.) borówka; (rz.) czernica
+[bile]bile (EN) : (rz.) gorycz; (rz.) zgorzkniałość; (rz.) zgryźliwość; (rz.) żółć
+[bilge]bilge (EN) : (rz.) dno; (rz.) zęza; (rz.) zezowanie
+[bilinear]bilinear (EN) : (p.) bilinearny; (p.) dwuliniowy
+[bilingual]bilingual (EN) : (p.) dwujęzyczny
+[bilingualism]bilingualism (EN) : (rz.) dwujęzyczność
+[bilious]bilious (EN) : (p.) popędliwy; (p.) zgryźliwy; (p.) żółciowy
+[bilk]bilk (EN) : (cz.) oszukać; (cz.) wykiwać; (cz.) wyłudzać; (cz.) wyłudzić
+[bill]bill (EN) : (cz.) ogłaszać; (rz.) afisz; (rz.) banknot; (rz.) konosament; (rz.) kwit; (rz.) plakat; (rz.) poświadczenie; (rz.) projekt; (rz.) przekaz; (rz.) rachunek; (rz.) spis; (rz.) ulotka; (rz.) weksel; (rz.) zestawienie
+[billet]billet (EN) : (cz.) kwaterować; (cz.) zakwaterować; (rz.) kęs; (rz.) kwatera; (rz.) kwaterunek; (rz.) zakwaterowanie
+[billfold]billfold (EN) : (rz.) portfel
+[billiard]billiard (EN) : (p.) bilardowy
+[billiard-ball]billiard-ball (EN) : (rz.) bila
+[billiards]billiards (EN) : (rz.) bilard
+[billing]billing (EN) : (rz.) biling; (rz.) dziób; (rz.) fakturowanie
+[billion]billion (EN) : (rz.) bilion; (rz.) miliard
+[billionaire]billionaire (EN) : (rz.) miliarder
+[billon]billon (EN) : (rz.) stop
+[billow]billow (EN) : (cz.) falować; (cz.) piętrzyć; (cz.) pofalować; (rz.) bałwan; (rz.) fala; (rz.) grzywacz
+[billows]billows (EN) : (rz.) kipiel
+[bimanual]bimanual (EN) : (p.) oburęczny
+[bimetal]bimetal (EN) : (rz.) bimetal
+[bimetallic]bimetallic (EN) : (p.) bimetaliczny; (p.) bimetalowy; (p.) dwumetaliczny
+[bimetallism]bimetallism (EN) : (rz.) bimetalizm
+[bimolecular]bimolecular (EN) : (p.) dwucząsteczkowy
+[bimonthly]bimonthly (EN) : (rz.) dwumiesięcznik
+[bin]bin (EN) : (rz.) kosz; (rz.) kubeł; (rz.) paka; (rz.) pojemnik; (rz.) skrytka; (rz.) skrzynia
+[binary]binary (EN) : (p.) binarny; (p.) dwójkowy
+[binary-decimal]binary-decimal (EN) : (p.) dwójkowo-dziesiętny
+[binary-to-decimal]binary-to-decimal (EN) : (p.) dwójkowo-dziesiętny
+[binary-to-hexadecimal]binary-to-hexadecimal (EN) : (p.) dwójkowo-szesnastkowy
+[binary-to-octal]binary-to-octal (EN) : (p.) dwójkowo-ósemkowy
+[binate]binate (EN) : (p.) zdwojony
+[binaural]binaural (EN) : (p.) dwuuszny
+[bind]bind (EN) : (cz.) dowiązać; (cz.) opatrywać; (cz.) oprawiać; (cz.) przywiązać; (cz.) przywiązywać; (cz.) stwardnieć; (cz.) wiązać; (cz.) zobowiązywać; (cz.) związać; (rz.) utrudnienie; (rz.) wiązanie; (rz.) zobowiązywanie
+[binder]binder (EN) : (rz.) introligator; (rz.) okładka; (rz.) segregator; (rz.) snopowiązałka; (rz.) spoiwo; (rz.) teczka
+[bindery]bindery (EN) : (rz.) introligatornia
+[binding]binding (EN) : (rz.) bindowanie; (rz.) introligatorstwo; (rz.) obszycie; (rz.) opatrunek; (rz.) oprawa; (rz.) oprawianie; (rz.) oprawienie; (rz.) wiązanie
+[bindweed]bindweed (EN) : (rz.) powój
+[binge]binge (EN) : (rz.) hulanka
+[bingo]bingo (EN) : (rz.) bingo; (rz.) loteryjka
+[binnacle]binnacle (EN) : (rz.) naktuz
+[binocular]binocular (EN) : (p.) dwuobiektywowy; (p.) dwuoczny; (p.) obuoczny; (rz.) lorneta; (rz.) lornetka
+[binoculars]binoculars (EN) : (rz.) lorneta; (rz.) lornetka
+[binomial]binomial (EN) : (p.) binominalny; (rz.) dwumian
+[biocatalyst]biocatalyst (EN) : (rz.) biokatalizator
+[biochemical]biochemical (EN) : (p.) biochemiczny
+[biochemist]biochemist (EN) : (rz.) biochemik
+[biochemistry]biochemistry (EN) : (rz.) biochemia
+[bioclimatology]bioclimatology (EN) : (rz.) bioklimatologia
+[biodegradation]biodegradation (EN) : (rz.) biodegradacja
+[biodiversity]biodiversity (EN) : (rz.) bioróżnorodność
+[bioelectric]bioelectric (EN) : (p.) bioelektryczny
+[bioelectronics]bioelectronics (EN) : (rz.) bioelektronika
+[bioenergetics]bioenergetics (EN) : (rz.) bioenergetyka
+[bioengineering]bioengineering (EN) : (rz.) bioinżynieria
+[bioethics]bioethics (EN) : (rz.) bioetyka
+[biogas]biogas (EN) : (rz.) biogaz
+[biogenesis]biogenesis (EN) : (rz.) biogeneza
+[biogenic]biogenic (EN) : (p.) biogeniczny; (p.) biogenny
+[biogeochemistry]biogeochemistry (EN) : (rz.) biogeochemia
+[biogeography]biogeography (EN) : (rz.) biogeografia
+[biographer]biographer (EN) : (rz.) biograf; (rz.) biografka
+[biographic]biographic (EN) : (p.) biograficzny
+[biographical]biographical (EN) : (p.) biograficzny
+[biography]biography (EN) : (rz.) biografia
+[biologic]biologic (EN) : (p.) biologiczny
+[biological]biological (EN) : (p.) biologiczny
+[biologically]biologically (EN) : (p-sł.) biologicznie
+[biologist]biologist (EN) : (rz.) biolog
+[biology]biology (EN) : (rz.) biologia
+[bioluminescence]bioluminescence (EN) : (rz.) bioluminescencja
+[biomass]biomass (EN) : (rz.) biomasa
+[biomechanics]biomechanics (EN) : (rz.) biomechanika
+[biomedical]biomedical (EN) : (p.) biomedyczny
+[biomedicine]biomedicine (EN) : (rz.) biomedycyna
+[biometeorology]biometeorology (EN) : (rz.) biometeorologia
+[biometric]biometric (EN) : (p.) biometryczny
+[biometrics]biometrics (EN) : (rz.) biometria; (rz.) biometryka
+[biometry]biometry (EN) : (rz.) biometria
+[bionics]bionics (EN) : (rz.) bionika
+[biophysical]biophysical (EN) : (p.) biofizyczny
+[biophysicist]biophysicist (EN) : (rz.) biofizyk; (rz.) biofizyka
+[biophysics]biophysics (EN) : (rz.) biofizyk; (rz.) biofizyka
+[biopsy]biopsy (EN) : (rz.) biopsja
+[biorhythm]biorhythm (EN) : (rz.) biorytm
+[biosphere]biosphere (EN) : (rz.) biosfera
+[biosynthesis]biosynthesis (EN) : (rz.) biosynteza
+[biota]biota (EN) : (rz.) kleks; (rz.) plama; (rz.) wada
+[biotechnological]biotechnological (EN) : (p.) biotechnologiczny
+[biotechnology]biotechnology (EN) : (rz.) biotechnika; (rz.) biotechnologia
+[biotic]biotic (EN) : (p.) biotyczny
+[biotin]biotin (EN) : (rz.) biotyna
+[biotope]biotope (EN) : (rz.) biotop
+[biotype]biotype (EN) : (rz.) biotyp
+[bipartite]bipartite (EN) : (p.) dwudzielny
+[bipartition]bipartition (EN) : (rz.) dwudzielność
+[bipedal]bipedal (EN) : (p.) dwunożny
+[biplane]biplane (EN) : (rz.) dwupłat; (rz.) dwupłatowiec
+[bipod]bipod (EN) : (rz.) dwójnóg
+[bipolar]bipolar (EN) : (p.) bipolarny; (p.) dwubiegunowy
+[bipolarity]bipolarity (EN) : (rz.) dwubiegunowość
+[birch]birch (EN) : (rz.) brzezina; (rz.) brzoza; (rz.) brzózka; (rz.) rózga
+[birch-rod]birch-rod (EN) : (rz.) rózga
+[bird]bird (EN) : (rz.) ptak
+[bird-cage]bird-cage (EN) : (rz.) klatka
+[bird-fancier]bird-fancier (EN) : (rz.) ptasznik
+[bird-seed]bird-seed (EN) : (rz.) siemię
+[birdie]birdie (EN) : (rz.) kociak; (rz.) ptaszyna
+[birds]birds (EN) : (rz.) ptactwo; (rz.) ptak
+[birdseed]birdseed (EN) : (rz.) ciemnota; (rz.) głupota; (rz.) nonsens; (rz.) siemię
+[birefringence]birefringence (EN) : (rz.) dwójłomność
+[biretta]biretta (EN) : (rz.) biret
+[biro]biro (EN) : (rz.) długopis
+[birr]birr (EN) : (cz.) warkotać; (rz.) pęd; (rz.) warkot
+[birth]birth (EN) : (p.) porodowy; (p.) rodny; (rz.) narodzenie; (rz.) narodziny; (rz.) pochodzenie; (rz.) początek; (rz.) poród; (rz.) ród; (rz.) rodzenie; (rz.) rozwiązanie; (rz.) urodzenie; (rz.) źródło
+[birth-certificate]birth-certificate (EN) : (rz.) metryka
+[birthday]birthday (EN) : (rz.) urodziny
+[birthdays]birthdays (EN) : (rz.) urodziny
+[birthmark]birthmark (EN) : (rz.) pieprzyk; (rz.) znamię
+[birthplace]birthplace (EN) : (rz.) kolebka
+[birthright]birthright (EN) : (rz.) pierworództwo
+[births]births (EN) : (rz.) narodziny
+[biscuit]biscuit (EN) : (rz.) biskwit; (rz.) biszkopt; (rz.) ciastko; (rz.) herbatnik; (rz.) suchar; (rz.) sucharek
+[biscuits]biscuits (EN) : (rz.) herbatniki
+[bisect]bisect (EN) : (cz.) dzielić; (cz.) przepoławiać; (cz.) przepołowić
+[bisection]bisection (EN) : (rz.) przepołowienie
+[bisector]bisector (EN) : (rz.) dwusieczna; (rz.) symetralna
+[bisexual]bisexual (EN) : (p.) biseksualny; (p.) obojnaczy
+[bisexuality]bisexuality (EN) : (rz.) biseksualizm
+[bishop]bishop (EN) : (rz.) biskup; (rz.) goniec; (rz.) kruszon; (rz.) laufer
+[bishopric]bishopric (EN) : (rz.) biskupstwo; (rz.) diecezja
+[bishops]bishops (EN) : (rz.) arcypasterz
+[bismuth]bismuth (EN) : (rz.) bizmut
+[bison]bison (EN) : (rz.) bizon; (rz.) tur; (rz.) żubr
+[bisque]bisque (EN) : (rz.) biskwit; (rz.) furia; (rz.) gniew
+[bissextile]bissextile (EN) : (p.) przestępny
+[bistort]bistort (EN) : (rz.) wężownik
+[bistro]bistro (EN) : (rz.) bistro
+[bistros]bistros (EN) : (rz.) bistr
+[bit]bit (EN) : (rz.) bicie; (rz.) bit; (rz.) cząstka; (rz.) część; (rz.) kąsek; (rz.) kategoria; (rz.) kawałek; (rz.) kęs; (rz.) odrobina; (rz.) ostrze; (rz.) płytka; (rz.) świder; (rz.) trochę; (rz.) wędzidło; (rz.) wiertło
+[bitch]bitch (EN) : (rz.) dziwka; (rz.) kobieta; (rz.) suczka; (rz.) suka; (rz.) wydra
+[bitchy]bitchy (EN) : (p.) kąśliwy
+[bite]bite (EN) : (cz.) chwytać; (cz.) gryźć; (cz.) kąsać; (cz.) nagryzać; (cz.) odgryźć; (cz.) pogryźć; (cz.) pokąsać; (cz.) szczypać; (cz.) ugryźć; (cz.) ukąsić; (cz.) zagryźć; (cz.) zgryźć; (rz.) chwyt; (rz.) gryz; (rz.) kąsek; (rz.) kęs; (rz.) ugryzienie; (rz.) ukąszenie; (rz.) zaciśnięcie; (rz.) zgryz
+[biting]biting (EN) : (p.) gryzący; (p.) ostry; (p.) szczypiący; (p.) uszczypliwy
+[bitingly]bitingly (EN) : (p-sł.) gryząco
+[bitmap]bitmap (EN) : (rz.) bitmapa; (rz.) mapa; (rz.) odwzorowanie
+[bitter]bitter (EN) : (p.) goryczkowy; (p.) gorzki; (p.) piołunowy; (p.) przenikliwy
+[bitterly]bitterly (EN) : (p-sł.) ciężko; (p-sł.) głęboko; (p-sł.) gorzko; (p-sł.) napastliwie; (p-sł.) silnie; (p-sł.) zajadle; (p-sł.) zawzięcie
+[bittern]bittern (EN) : (rz.) bąk
+[bitterness]bitterness (EN) : (rz.) ciętość; (rz.) gorycz; (rz.) gorzkość; (rz.) napastliwość; (rz.) rozgoryczenie; (rz.) rozżalenie; (rz.) uraza; (rz.) zawziętość
+[bitumen]bitumen (EN) : (rz.) asfalt; (rz.) bitum; (rz.) bitumin; (rz.) smoła
+[bituminization]bituminization (EN) : (rz.) bitumizacja
+[bituminous]bituminous (EN) : (p.) bitumiczny
+[bivalent]bivalent (EN) : (p.) dwuwartościowy
+[bivalve]bivalve (EN) : (rz.) małż; (rz.) skorupiak
+[bivouac]bivouac (EN) : (cz.) biwakować; (rz.) biwak
+[bivouacking]bivouacking (EN) : (rz.) biwakowanie
+[bizarre]bizarre (EN) : (p.) cudaczny; (p.) dziwaczny; (p.) dziwny; (p.) kapryśny; (p.) przedziwny
+[blab]blab (EN) : (cz.) gadać; (cz.) paplać; (cz.) pleść; (rz.) gadanina; (rz.) gaduła; (rz.) papla; (rz.) plotkarz
+[blabber]blabber (EN) : (rz.) papla
+[blabbermouth]blabbermouth (EN) : (rz.) gaduła; (rz.) papla
+[blabbing]blabbing (EN) : (rz.) chlapanie
+[black]black (EN) : (cz.) bojkotować; (cz.) czernić; (cz.) zaczernić; (p.) chmurny; (p.) czarnorynkowy; (p.) czarnoskóry; (p.) czarny; (p.) murzyński; (p.) ponury; (rz.) czerń; (rz.) czernidło; (rz.) murzyn
+[black-lead]black-lead (EN) : (rz.) grafit
+[black-market]black-market (EN) : (p.) czarnorynkowy
+[black-out]black-out (EN) : (rz.) zaciemnienie; (rz.) zamroczenie
+[blackberry]blackberry (EN) : (rz.) czernica; (rz.) jeżyna; (rz.) ożyna
+[blackbird]blackbird (EN) : (rz.) kos; (rz.) kosa
+[blackboard]blackboard (EN) : (rz.) tablica
+[blackbody]blackbody (EN) : (rz.) ciało
+[blackcock]blackcock (EN) : (rz.) cietrzew
+[blacken]blacken (EN) : (cz.) czernić; (cz.) czernieć; (cz.) oczerniać; (cz.) oczernić; (cz.) pociemnieć
+[blackener]blackener (EN) : (cz.) zaczerniać
+[blackening]blackening (EN) : (rz.) ciemnienie; (rz.) czernienie; (rz.) sczernienie; (rz.) zaczernienie
+[blackguard]blackguard (EN) : (p.) łajdacki; (p.) podły; (rz.) łajdak; (rz.) szubrawiec
+[blackguardly]blackguardly (EN) : (p.) nikczemny
+[blackhead]blackhead (EN) : (rz.) wągier; (rz.) wągr; (rz.) zaskórnik
+[blacking]blacking (EN) : (rz.) czernidło; (rz.) czernienie; (rz.) grafitowanie; (rz.) łamistrajk; (rz.) szuler
+[blackjack]blackjack (EN) : (rz.) dąb; (rz.) maczuga; (rz.) oczko
+[blackleg]blackleg (EN) : (rz.) łamistrajk; (rz.) szuler
+[blackly]blackly (EN) : (p-sł.) czarno
+[blackmail]blackmail (EN) : (cz.) szantażować; (rz.) szantaż; (rz.) wymuszenie
+[blackmailer]blackmailer (EN) : (rz.) szantażysta
+[blackmailing]blackmailing (EN) : (rz.) szantażowanie
+[blackness]blackness (EN) : (rz.) ciemność; (rz.) czerń
+[blackout]blackout (EN) : (rz.) luka; (rz.) zaciemnienie; (rz.) zanik
+[blacks]blacks (EN) : (rz.) czernienie
+[blacksmith]blacksmith (EN) : (rz.) kowal
+[blackthorn]blackthorn (EN) : (rz.) tarnina
+[bladder]bladder (EN) : (rz.) dętka; (rz.) pęcherz
+[bladder-wrack]bladder-wrack (EN) : (rz.) morszczyn
+[blade]blade (EN) : (rz.) antrykot; (rz.) blaszka; (rz.) brzeszczot; (rz.) chwat; (rz.) klinga; (rz.) liść; (rz.) łopatka; (rz.) miecz; (rz.) ostrze; (rz.) piła; (rz.) skrzydło; (rz.) wiór; (rz.) źdźbło
+[blade-bone]blade-bone (EN) : (rz.) łopatka
+[blah]blah (EN) : (rz.) bujda
+[blain]blain (EN) : (rz.) bąbel; (rz.) krosta; (rz.) pęcherzyk
+[blame]blame (EN) : (cz.) ganić; (cz.) łajać; (cz.) obwiniać; (cz.) oskarżać; (cz.) potępiać; (cz.) winić; (rz.) nagana; (rz.) obwinienie; (rz.) potępienie; (rz.) wina; (rz.) zarzut
+[blameless]blameless (EN) : (p.) nienaganny; (p.) nieskazitelny; (p.) niewinny
+[blamelessness]blamelessness (EN) : (p.) niewinny; (rz.) niewinność
+[blameworthy]blameworthy (EN) : (p.) naganny; (p.) winny
+[blaming]blaming (EN) : (rz.) odpowiedzialność
+[blanch]blanch (EN) : (cz.) bielić; (cz.) blanszować; (cz.) pobielić; (cz.) zblednąć
+[blanching]blanching (EN) : (rz.) blanszowanie; (rz.) wybielanie
+[bland]bland (EN) : (p.) dobrotliwy; (p.) łagodny; (p.) łaskawy; (p.) mdły; (p.) miły; (p.) nijaki
+[blandish]blandish (EN) : (cz.) pieścić; (cz.) pochlebiać; (cz.) schlebiać
+[blandishment]blandishment (EN) : (rz.) pochlebstwo; (rz.) przypochlebianie
+[blandly]blandly (EN) : (p-sł.) dobrotliwie; (p-sł.) uprzejmie
+[blandness]blandness (EN) : (rz.) dobrotliwość; (rz.) uprzejmość
+[blank]blank (EN) : (p.) bezmyślny; (p.) blady; (p.) czysty; (p.) pusty; (p.) ślepy; (p.) wygaszony; (rz.) blankiet; (rz.) formularz; (rz.) kratka; (rz.) luka
+[blanket]blanket (EN) : (rz.) derka; (rz.) koc; (rz.) kocyk; (rz.) pokrycie; (rz.) pokrywa; (rz.) zasłona
+[blanking]blanking (EN) : (rz.) wygaszanie; (rz.) wykrawanie
+[blankly]blankly (EN) : (p-sł.) beznamiętnie
+[blankness]blankness (EN) : (rz.) pustka; (rz.) pustota
+[blare]blare (EN) : (cz.) grzmieć; (cz.) huczeć; (cz.) trąbić; (rz.) huk; (rz.) ryk; (rz.) trąbienie
+[blarney]blarney (EN) : (rz.) bajer
+[blaspheme]blaspheme (EN) : (cz.) bluźnić; (cz.) złorzeczyć
+[blasphemer]blasphemer (EN) : (rz.) bluźnierca
+[blasphemous]blasphemous (EN) : (p.) bluźnierczy
+[blasphemy]blasphemy (EN) : (rz.) bluźnierstwo
+[blast]blast (EN) : (cz.) wysadzać; (cz.) wysadzić; (rz.) burza; (rz.) eksplozja; (rz.) podmuch; (rz.) wybuch; (rz.) zadęcie
+[blast-furnace]blast-furnace (EN) : (p.) wielkopiecowy
+[blast-off]blast-off (EN) : (rz.) odpalenie
+[blasted]blasted (EN) : (p.) cholerny
+[blaster]blaster (EN) : (p.) strzałowy; (rz.) nabojnica
+[blasting]blasting (EN) : (p.) strzałowy
+[blastoff]blastoff (EN) : (rz.) odpalenie
+[blatancy]blatancy (EN) : (rz.) krzykliwość
+[blatant]blatant (EN) : (p.) krzykliwy
+[blatantly]blatantly (EN) : (p-sł.) krzycząco; (p-sł.) rażąco
+[blaze]blaze (EN) : (cz.) błyszczeć; (cz.) nacinać; (cz.) palić; (cz.) płonąć; (cz.) świecić; (cz.) walić; (rz.) blask; (rz.) błysk; (rz.) ogień; (rz.) płomień; (rz.) pożar; (rz.) wybuch
+[blazer]blazer (EN) : (rz.) blezer; (rz.) kurtka
+[blazon]blazon (EN) : (rz.) herb
+[blazonry]blazonry (EN) : (rz.) barwność; (rz.) heraldyk; (rz.) heraldyka
+[bleach]bleach (EN) : (cz.) bielić; (cz.) rozjaśniać; (cz.) rozjaśnić; (cz.) wybielać; (cz.) wybielić; (rz.) bielenie; (rz.) bielik; (rz.) wybielacz
+[bleacher]bleacher (EN) : (rz.) bielnik; (rz.) pracz; (rz.) wybielacz
+[bleaching]bleaching (EN) : (rz.) bielenie; (rz.) odbielanie; (rz.) wybielanie
+[bleak]bleak (EN) : (p.) niewesoły; (p.) ponury; (p.) pustynny; (p.) smutny; (p.) zimny
+[blear]blear (EN) : (p.) niewyraźny
+[bleary]bleary (EN) : (p.) mętny; (p.) niewyraźny
+[bleat]bleat (EN) : (cz.) beczeć; (rz.) beczenie; (rz.) bek; (rz.) biadolenie
+[bleating]bleating (EN) : (rz.) beczenie
+[bleb]bleb (EN) : (rz.) bańka; (rz.) pęcherzyk
+[bleed]bleed (EN) : (cz.) blaknąć; (cz.) farbować; (cz.) krwawić; (cz.) przeciekać; (cz.) uchodzić
+[bleeder]bleeder (EN) : (rz.) hemofilik; (rz.) spust; (rz.) upust
+[bleeding]bleeding (EN) : (rz.) krwawica; (rz.) krwawienie; (rz.) odsączanie; (rz.) przeciekanie; (rz.) przesączanie
+[bleep]bleep (EN) : (rz.) dzwonek; (rz.) piknięcie
+[bleeper]bleeper (EN) : (rz.) brzęczyk
+[blemish]blemish (EN) : (cz.) plamić; (cz.) splamić; (cz.) szpecić; (cz.) zniekształcać; (cz.) zniekształcić; (rz.) błąd; (rz.) plama; (rz.) skaza; (rz.) wada; (rz.) zmaza
+[blench]blench (EN) : (cz.) posiwieć; (cz.) truchleć; (cz.) wzdrygać; (cz.) zblednąć
+[blend]blend (EN) : (cz.) łączyć; (cz.) mieszać; (cz.) miksować; (cz.) połączyć; (cz.) zmieszać; (rz.) metamorfoza; (rz.) mieszanka
+[blender]blender (EN) : (rz.) mikser
+[blending]blending (EN) : (rz.) melanżowanie; (rz.) pomieszanie
+[bless]bless (EN) : (cz.) błogosławić; (cz.) pobłogosławić; (cz.) żegnać
+[blessed]blessed (EN) : (p.) błogosławiony
+[blessing]blessing (EN) : (rz.) błogosławieństwo; (rz.) dobrodziejstwo
+[blight]blight (EN) : (cz.) niszczyć; (cz.) niweczyć; (cz.) tłumić; (cz.) udaremniać; (rz.) rdza; (rz.) śnieć; (rz.) zaraza; (rz.) zniszczenie
+[blighter]blighter (EN) : (rz.) nicpoń
+[blimp]blimp (EN) : (rz.) grubas; (rz.) sterowiec
+[blind]blind (EN) : (cz.) oślepiać; (cz.) oślepić; (cz.) ukryć; (cz.) zabezpieczyć; (cz.) zamaskować; (p.) bezkrytyczny; (p.) niewidomy; (p.) ślepy; (rz.) roleta; (rz.) ślepie; (rz.) ślepiec; (rz.) stora; (rz.) żaluzja; (rz.) zasłona
+[blinder]blinder (EN) : (p.) ślepy; (rz.) ślepota
+[blindly]blindly (EN) : (p-sł.) ślepo
+[blindness]blindness (EN) : (rz.) oślepnięcie; (rz.) ślepota; (rz.) zaślepienie
+[blinds]blinds (EN) : (rz.) żaluzja
+[blindworm]blindworm (EN) : (rz.) padalec
+[blink]blink (EN) : (cz.) błyskać; (cz.) migać; (cz.) migotać; (cz.) mrugać; (cz.) mrużyć; (cz.) zamrugać; (rz.) błysk; (rz.) mignięcie
+[blinker]blinker (EN) : (rz.) migacz
+[blinking]blinking (EN) : (rz.) miganie; (rz.) migotanie; (rz.) mruganie; (rz.) mrużenie; (rz.) pulsowanie
+[blip]blip (EN) : (rz.) spadek; (rz.) wyskok
+[bliss]bliss (EN) : (rz.) błogość; (rz.) radość; (rz.) rozkosz
+[blissful]blissful (EN) : (p.) błogi; (p.) rajski
+[blissfully]blissfully (EN) : (p-sł.) błogo
+[blissfulness]blissfulness (EN) : (rz.) błogość
+[blister]blister (EN) : (rz.) bąbel; (rz.) odcisk; (rz.) odparzenie; (rz.) pęcherz; (rz.) pęcherzyk
+[blithe]blithe (EN) : (p.) beztroski; (p.) wesoły
+[blithely]blithely (EN) : (p-sł.) beztrosko; (p-sł.) radośnie
+[blithering]blithering (EN) : (p.) zupełny
+[blitz]blitz (EN) : (rz.) nalot
+[blitzkrieg]blitzkrieg (EN) : (rz.) nalot
+[blizzard]blizzard (EN) : (rz.) nawałnica; (rz.) zadymka; (rz.) zamieć; (rz.) zawieja
+[bloat]bloat (EN) : (cz.) dymać; (cz.) nabrzmiewać; (cz.) nadąć; (cz.) nadymać; (cz.) uwędzić
+[bloated]bloated (EN) : (p.) pyszałkowaty
+[bloater]bloater (EN) : (rz.) pikling
+[blob]blob (EN) : (rz.) kleks; (rz.) kropelka; (rz.) kropla; (rz.) kulka
+[bloc]bloc (EN) : (rz.) blok; (rz.) całość
+[block]block (EN) : (cz.) barykadować; (cz.) blokować; (cz.) kłóć; (cz.) tamować; (cz.) tarasować; (cz.) wstrzymywać; (cz.) zablokować; (cz.) zasłaniać; (cz.) zatarasować; (rz.) blok; (rz.) blokada; (rz.) bryła; (rz.) klisza; (rz.) kloc; (rz.) klocek; (rz.) notatnik; (rz.) obstrukcja; (rz.) pień; (rz.) pieniek; (rz.) przeszkoda; (rz.) zablokowanie; (rz.) zamroczenie; (rz.) zapora
+[blockade]blockade (EN) : (cz.) blokować; (cz.) zablokować; (rz.) blokada; (rz.) zablokowanie
+[blockage]blockage (EN) : (rz.) blokada; (rz.) niedrożność; (rz.) przegroda; (rz.) przeszkoda; (rz.) zator
+[blockbuster]blockbuster (EN) : (rz.) przebój; (rz.) szlagier
+[blocked]blocked (EN) : (p.) zapchany
+[blocker]blocker (EN) : (rz.) blokada
+[blockhead]blockhead (EN) : (rz.) bałwan; (rz.) cep; (rz.) dureń; (rz.) głupiec; (rz.) jełop; (rz.) jołop; (rz.) niezdara; (rz.) tępak; (rz.) tuman
+[blockhouse]blockhouse (EN) : (rz.) bunkier
+[blocking]blocking (EN) : (rz.) blokowanie; (rz.) pisanie; (rz.) retusz; (rz.) tworzenie; (rz.) zablokowanie
+[blocks]blocks (EN) : (rz.) kłócenie
+[bloke]bloke (EN) : (rz.) człowiek
+[blond]blond (EN) : (p.) jasny; (rz.) blond; (rz.) blondyn
+[blonde]blonde (EN) : (p.) jasny; (rz.) blond; (rz.) blondyn; (rz.) blondynka
+[blondes]blondes (EN) : (rz.) blondynek
+[blood]blood (EN) : (rz.) krew; (rz.) natura; (rz.) pochodzenie; (rz.) pokrewieństwo; (rz.) posoka
+[blood-giver]blood-giver (EN) : (rz.) krwiodawca
+[blood-stone]blood-stone (EN) : (rz.) krwawnik
+[blood-sucker]blood-sucker (EN) : (rz.) pijawka
+[blood-thirsty]blood-thirsty (EN) : (p.) krwiożerczy
+[bloodbath]bloodbath (EN) : (rz.) masakra; (rz.) rzeź
+[bloodhound]bloodhound (EN) : (rz.) ogar; (rz.) posokowiec; (rz.) tropowiec; (rz.) wywiadowca
+[bloodied]bloodied (EN) : (p.) krwisty
+[bloodless]bloodless (EN) : (p.) bezkrwawy; (p.) niekrwawy
+[bloodline]bloodline (EN) : (rz.) krew
+[bloodshed]bloodshed (EN) : (rz.) rozlew
+[bloodstone]bloodstone (EN) : (rz.) krwawnik
+[bloodstream]bloodstream (EN) : (rz.) krwiobieg
+[bloodsucker]bloodsucker (EN) : (rz.) pijawka
+[bloodthirstiness]bloodthirstiness (EN) : (rz.) krwiożerczość
+[bloodthirsty]bloodthirsty (EN) : (p.) krwiożerczy
+[bloody]bloody (EN) : (p.) cholerny; (p.) krwawy
+[bloom]bloom (EN) : (cz.) kwitnąć; (cz.) wykwitać; (cz.) zakwitać; (rz.) kwiat; (rz.) rozkwit; (rz.) rozkwitnięcie; (rz.) wykwit; (rz.) zakwitnięcie
+[bloomer]bloomer (EN) : (rz.) gafa; (rz.) zgniatacz
+[blossom]blossom (EN) : (cz.) kwitnąć; (cz.) rozkwitać; (rz.) kwiat; (rz.) kwiatostan; (rz.) kwiecie
+[blot]blot (EN) : (cz.) mazać; (cz.) plamić; (rz.) kleks; (rz.) plama; (rz.) skaza; (rz.) zmaza
+[blotch]blotch (EN) : (rz.) krosta; (rz.) plama; (rz.) pryszcz; (rz.) skaza
+[blotter]blotter (EN) : (rz.) bibularz; (rz.) suszka
+[blotting]blotting (EN) : (rz.) bibuła; (rz.) marzenie
+[blotting-pad]blotting-pad (EN) : (rz.) bibularz
+[blotting-paper]blotting-paper (EN) : (rz.) bibuła
+[blouse]blouse (EN) : (rz.) bluza; (rz.) bluzka
+[blow]blow (EN) : (cz.) dąć; (cz.) dmuchać; (cz.) kwitnąć; (cz.) nadmuchać; (cz.) nawiać; (cz.) podmuchiwać; (cz.) powiewać; (cz.) przepalać; (cz.) przewiać; (cz.) wiać; (cz.) zadąć; (rz.) cios; (rz.) ciosanie; (rz.) dęcie; (rz.) nadmuch; (rz.) podmuch; (rz.) powiewanie; (rz.) rękoczyn; (rz.) rozkwit; (rz.) rzut; (rz.) sztos; (rz.) uderzenie; (rz.) wyżerka
+[blow-back]blow-back (EN) : (rz.) nadmuchiwanie
+[blow-off]blow-off (EN) : (rz.) odmulanie; (rz.) zbiornika
+[blow-out]blow-out (EN) : (rz.) erupcja; (rz.) gazu; (rz.) przebicie; (rz.) rozerwanie; (rz.) rozsadzenie; (rz.) wytrysk; (rz.) wyżerka
+[blower]blower (EN) : (rz.) dmuchacz; (rz.) dmuchawa
+[blowhole]blowhole (EN) : (rz.) por; (rz.) pora
+[blowing]blowing (EN) : (rz.) dmuchanie; (rz.) powiewanie
+[blowing-down]blowing-down (EN) : (rz.) odmulanie; (rz.) przedmuchiwanie
+[blown]blown (EN) : (rz.) wdmuchiwanie
+[blowpipe]blowpipe (EN) : (rz.) cybuch; (rz.) dmuchawa; (rz.) palnik; (rz.) piszczel
+[blowtorch]blowtorch (EN) : (rz.) palnik
+[blubber]blubber (EN) : (cz.) beczeć; (rz.) beczenie; (rz.) płacz; (rz.) tłuszcz; (rz.) tran
+[blubberer]blubberer (EN) : (rz.) mazgaj
+[bludgeon]bludgeon (EN) : (cz.) wymuszać; (rz.) maczuga; (rz.) pałka
+[blue]blue (EN) : (cz.) niebieszczeć; (p.) bławatkowy; (p.) bławatny; (p.) błękitny; (p.) chabrowy; (p.) ciemnoniebieski; (p.) granatowy; (p.) niebieski; (p.) siny; (p.) smutny; (rz.) błękit; (rz.) błękitność; (rz.) lazur; (rz.) niebieskość; (rz.) ultramaryna
+[blue-black]blue-black (EN) : (p.) kruczoczarny
+[blue-collar]blue-collar (EN) : (p.) fizyczny; (rz.) robotnik
+[bluebell]bluebell (EN) : (rz.) dzwonek
+[blueberry]blueberry (EN) : (rz.) borówka; (rz.) czernica; (rz.) jagoda
+[bluebottle]bluebottle (EN) : (rz.) plujka
+[blueing]blueing (EN) : (rz.) czernienie; (rz.) farbkowanie; (rz.) niebieszczenie; (rz.) oksydowanie
+[bluejacket]bluejacket (EN) : (rz.) marynarz
+[blueness]blueness (EN) : (rz.) błękit
+[blueprint]blueprint (EN) : (rz.) fotokopia; (rz.) konspekt; (rz.) odbitka; (rz.) projekt; (rz.) światłodruk; (rz.) światłokopia
+[blues]blues (EN) : (rz.) blues; (rz.) chandra; (rz.) splin
+[bluff]bluff (EN) : (cz.) blagować; (cz.) blefować; (cz.) bluffować; (cz.) oszukiwać; (cz.) zmylać; (cz.) zmylić; (p.) niezgrabny; (p.) stromy; (p.) szczery; (p.) szorstki; (rz.) blaga; (rz.) blef; (rz.) bluff; (rz.) nabieranie; (rz.) oszustwo; (rz.) urwisko
+[bluffer]bluffer (EN) : (rz.) blagier; (rz.) blefiarz
+[bluffing]bluffing (EN) : (rz.) blefowanie
+[bluffly]bluffly (EN) : (p-sł.) rubasznie
+[bluffness]bluffness (EN) : (rz.) blefowanie
+[bluing]bluing (EN) : (rz.) farbka; (rz.) farbkowanie
+[bluish]bluish (EN) : (p.) modrawy; (p.) niebieskawy
+[blunder]blunder (EN) : (rz.) błąd; (rz.) gafa; (rz.) niezręczność; (rz.) omyłka; (rz.) pomyłka; (rz.) przejęzyczenie; (rz.) wpadka
+[blunderbuss]blunderbuss (EN) : (rz.) rusznica
+[blunt]blunt (EN) : (cz.) stępiać; (cz.) stępić; (p.) bezceremonialny; (p.) dosadny; (p.) nieostry; (p.) prosty; (p.) przytępiony; (p.) szorstki; (p.) tępy
+[blunting]blunting (EN) : (p.) bezceremonialny
+[bluntly]bluntly (EN) : (p-sł.) dosadnie
+[bluntness]bluntness (EN) : (rz.) szczerość
+[blur]blur (EN) : (cz.) plamić; (cz.) rozmazać; (cz.) rozmazywać; (cz.) rozmywać; (cz.) splamić; (cz.) wymazać; (cz.) zacierać; (cz.) zamazać; (cz.) zamazywać; (cz.) zatrzeć; (rz.) niejasność; (rz.) plama; (rz.) rozmycie
+[blurb]blurb (EN) : (rz.) prospekt; (rz.) reklama; (rz.) zapowiedź
+[blurring]blurring (EN) : (cz.) rozmyć; (p.) mglisty; (rz.) rozmywanie; (rz.) zamazywanie
+[blurry]blurry (EN) : (p.) mglisty; (p.) niewyraźny
+[blurt]blurt (EN) : (cz.) wydać; (cz.) wygadać; (cz.) wygadywać; (cz.) wyrzucać; (cz.) wyznawać
+[blush]blush (EN) : (cz.) czerwienić; (cz.) kraśnieć; (cz.) pąsowieć; (cz.) poróżowieć; (cz.) rumienić; (cz.) zarumienić; (rz.) rumieniec; (rz.) zarumienienie
+[blusher]blusher (EN) : (rz.) róż
+[blushing]blushing (EN) : (p.) różowy
+[bluster]bluster (EN) : (cz.) rozbijać; (cz.) szaleć; (cz.) wygrażać; (rz.) awantura; (rz.) hałaśliwość; (rz.) łoskot; (rz.) rozbicie; (rz.) szaleństwo
+[blusterer]blusterer (EN) : (rz.) agresor; (rz.) zabijak; (rz.) zabijaka
+[blustering]blustering (EN) : (p.) czupurny
+[blusterous]blusterous (EN) : (p.) buńczuczny; (p.) wrzaskliwy
+[blustery]blustery (EN) : (p.) porywisty; (p.) wietrzny
+[boa]boa (EN) : (rz.) boa
+[boar]boar (EN) : (rz.) dzik; (rz.) knur; (rz.) odyniec; (rz.) wieprz
+[board]board (EN) : (cz.) dylować; (cz.) futrować; (cz.) oszalować; (cz.) stołować; (cz.) wsiadać; (cz.) wsiąść; (cz.) zatrudniać; (rz.) burta; (rz.) decha; (rz.) deska; (rz.) kolacja; (rz.) kolegium; (rz.) komisja; (rz.) komitet; (rz.) plansza; (rz.) płyta; (rz.) płytka; (rz.) pokład; (rz.) rada; (rz.) stół; (rz.) szachownica; (rz.) tablica; (rz.) tektura; (rz.) wikt; (rz.) wsiadanie; (rz.) wyżywienie; (rz.) zarząd
+[boarder]boarder (EN) : (rz.) mieszkaniec; (rz.) pensjonariusz; (rz.) stołownik
+[boarding]boarding (EN) : (rz.) cembrowina; (rz.) deskowanie; (rz.) szalowanie; (rz.) wyżywienie
+[boarding-house]boarding-house (EN) : (rz.) internat; (rz.) pensjonat
+[boarding-school]boarding-school (EN) : (rz.) internat
+[boardroom]boardroom (EN) : (rz.) dyrekcja; (rz.) zarząd
+[boardwalk]boardwalk (EN) : (rz.) promenada
+[boast]boast (EN) : (cz.) chełpić; (cz.) chwalić; (cz.) łgać; (cz.) pochwalać; (cz.) pochwalić; (rz.) samochwalstwo
+[boaster]boaster (EN) : (rz.) chwalipięta; (rz.) samochwał; (rz.) samochwała
+[boastful]boastful (EN) : (p.) chełpliwy; (p.) samochwalczy
+[boastfulness]boastfulness (EN) : (rz.) chełpliwość; (rz.) samochwalstwo
+[boasting]boasting (EN) : (rz.) chwalba; (rz.) przechwalanie
+[boat]boat (EN) : (rz.) barkarz; (rz.) czółenko; (rz.) czółno; (rz.) łódka; (rz.) łódź; (rz.) lodżia; (rz.) statek; (rz.) tratwa
+[boat-hook]boat-hook (EN) : (rz.) bosak; (rz.) osęka
+[boatbuilding]boatbuilding (EN) : (rz.) szkutnictwo
+[boater]boater (EN) : (rz.) kanotier
+[boathook]boathook (EN) : (rz.) bosak; (rz.) drąg; (rz.) osęka
+[boathouse]boathouse (EN) : (rz.) przystań
+[boating]boating (EN) : (rz.) przejażdżka; (rz.) wodniactwo; (rz.) żeglarstwo
+[boatman]boatman (EN) : (rz.) przewoźnik
+[boatswain]boatswain (EN) : (rz.) bosman
+[bob]bob (EN) : (cz.) balansować; (cz.) huśtać; (cz.) podskakiwać; (rz.) ciężarek; (rz.) dyg; (rz.) obciążnik; (rz.) podskakiwanie; (rz.) spławik; (rz.) szyling; (rz.) wahadło; (rz.) wisiorek
+[bob-sled]bob-sled (EN) : (rz.) bobslej
+[bob-sleigh]bob-sleigh (EN) : (rz.) bobslej
+[bobbin]bobbin (EN) : (rz.) bobina; (rz.) cewka; (rz.) szpula; (rz.) szpulka
+[bobby]bobby (EN) : (rz.) konstabl; (rz.) policjant
+[bobbysoxer]bobbysoxer (EN) : (rz.) podlotek
+[bobsled]bobsled (EN) : (rz.) bobslej
+[bobsledder]bobsledder (EN) : (rz.) bobsleista
+[bobsleigh]bobsleigh (EN) : (rz.) bobslej; (rz.) saneczkarstwo
+[bobsleighing]bobsleighing (EN) : (rz.) bobslej
+[bobstay]bobstay (EN) : (rz.) watersztag
+[bock]bock (EN) : (rz.) bomba
+[bode]bode (EN) : (cz.) wróżyć; (cz.) zapowiadać
+[bodice]bodice (EN) : (rz.) kaftan; (rz.) stanik
+[bodiless]bodiless (EN) : (p.) bezcielesny; (p.) niematerialny
+[bodily]bodily (EN) : (p.) cielesny; (p.) fizjologiczny; (p-sł.) cieleśnie; (p-sł.) fizjologicznie; (p-sł.) gremialnie
+[bodkin]bodkin (EN) : (rz.) szydło
+[body]body (EN) : (rz.) ciałko; (rz.) ciało; (rz.) gremium; (rz.) grupa; (rz.) kadłub; (rz.) karoseria; (rz.) kolegium; (rz.) korpus; (rz.) kulturysta; (rz.) nadbudowa; (rz.) nadwozie; (rz.) oddział; (rz.) organ; (rz.) organizm; (rz.) ścierwo; (rz.) treść; (rz.) tułów; (rz.) zwłoki
+[body-builder]body-builder (EN) : (rz.) kulturysta
+[body-building]body-building (EN) : (rz.) kulturystyka
+[bodybuilder]bodybuilder (EN) : (rz.) kulturysta
+[bodybuilding]bodybuilding (EN) : (rz.) kulturystyka
+[bodyguard]bodyguard (EN) : (rz.) obstawa; (rz.) ochrona; (rz.) ochroniarz; (rz.) strażnik
+[bodywork]bodywork (EN) : (rz.) karoseria; (rz.) nadwozie
+[boffin]boffin (EN) : (rz.) specjalista
+[bog]bog (EN) : (rz.) bagno; (rz.) błotnistość; (rz.) grządka; (rz.) moczary; (rz.) trzęsawisko
+[bogey]bogey (EN) : (rz.) smark; (rz.) strach; (rz.) straszydło; (rz.) szatan; (rz.) zmora
+[bogeyman]bogeyman (EN) : (rz.) licho
+[boggle]boggle (EN) : (cz.) uchylać; (cz.) wzdragać; (rz.) zawahanie
+[boggling]boggling (EN) : (rz.) ślęczenie
+[boggy]boggy (EN) : (p.) bagnisty; (p.) grząski; (p.) moczarowaty
+[bogie]bogie (EN) : (rz.) straszydło
+[bogus]bogus (EN) : (p.) fałszywy; (p.) fikcyjny; (p.) oszukańczy
+[bogy]bogy (EN) : (rz.) strach; (rz.) straszydło; (rz.) szatan; (rz.) zmora
+[bohemia]bohemia (EN) : (rz.) bohema
+[bohemians]bohemians (EN) : (rz.) bohema; (rz.) cyganeria
+[boil]boil (EN) : (cz.) gotować; (cz.) kipieć; (cz.) przegotować; (cz.) wrzeć; (cz.) wygotować; (cz.) wykipieć; (cz.) zagotować; (cz.) zakipieć; (rz.) czyrak; (rz.) pryszcz; (rz.) wrzenie
+[boiler]boiler (EN) : (rz.) bojler; (rz.) bulier; (rz.) cukrownik; (rz.) kocioł; (rz.) kotłownia; (rz.) warnik
+[boiler-maker]boiler-maker (EN) : (rz.) kotlarz
+[boiler-making]boiler-making (EN) : (rz.) kotlarstwo
+[boiler-room]boiler-room (EN) : (rz.) kotłownia
+[boiler-smith]boiler-smith (EN) : (rz.) kotlarz
+[boilermaker]boilermaker (EN) : (rz.) kotlarz
+[boiling]boiling (EN) : (rz.) gotowanie; (rz.) wrzenie; (rz.) wywarzenie
+[boiling-off]boiling-off (EN) : (rz.) odklejanie
+[boisterous]boisterous (EN) : (p.) burzliwy; (p.) gwałtowny; (p.) hałaśliwy; (p.) niesforny; (p.) porywisty; (p.) zawadiacki
+[boisterousness]boisterousness (EN) : (rz.) burzliwość; (rz.) gwałtowność; (rz.) hałaśliwość; (rz.) niesforność; (rz.) zawadiactwo
+[bold]bold (EN) : (p.) krzykliwy; (p.) odważny; (p.) półgruby; (p.) śmiały; (p.) tłusty; (p.) ufny; (p.) wyraźny; (p.) zuchwały
+[boldly]boldly (EN) : (p-sł.) śmiało; (p-sł.) zuchwale
+[boldness]boldness (EN) : (rz.) śmiałość; (rz.) zuchwałość
+[bole]bole (EN) : (rz.) bolus; (rz.) pień; (rz.) pulment; (rz.) strzała
+[bolero]bolero (EN) : (rz.) bolero
+[boletus]boletus (EN) : (rz.) borowik; (rz.) prawdziwek
+[bollard]bollard (EN) : (rz.) pachoł; (rz.) pachołek; (rz.) poler; (rz.) słupek
+[bologna]bologna (EN) : (rz.) kiełbasa
+[bolometer]bolometer (EN) : (rz.) bolometr
+[boloney]boloney (EN) : (rz.) bolonek
+[bolshevism]bolshevism (EN) : (rz.) bolszewizm
+[bolster]bolster (EN) : (cz.) podpierać; (rz.) oparcie; (rz.) podgłówek; (rz.) podkładka; (rz.) podparcie; (rz.) podpora; (rz.) podtrzymka; (rz.) poduszka; (rz.) zagłówek
+[bolt]bolt (EN) : (cz.) czmychnąć; (cz.) pytlować; (cz.) rozbrykać; (cz.) rzucać; (cz.) rzucić; (cz.) wpaść; (cz.) wypaść; (cz.) zaryglować; (cz.) zasuwać; (rz.) antaba; (rz.) bolec; (rz.) drapak; (rz.) drapnięcie; (rz.) rygiel; (rz.) strzała; (rz.) sworzeń; (rz.) ucieczka; (rz.) wypad; (rz.) zasuwa; (rz.) zasuwka
+[bolt-rope]bolt-rope (EN) : (rz.) liklina
+[bolter]bolter (EN) : (rz.) przesiewacz; (rz.) pytel; (rz.) sito
+[bolting]bolting (EN) : (rz.) odsiewanie; (rz.) przesiewanie; (rz.) pytlowanie
+[bomb]bomb (EN) : (cz.) bombardować; (cz.) zbombardować; (rz.) bomba; (rz.) pocisk
+[bomb-shell]bomb-shell (EN) : (rz.) szrapnel
+[bomb-shelter]bomb-shelter (EN) : (rz.) schron
+[bombard]bombard (EN) : (cz.) bombardować; (cz.) ostrzeliwać; (cz.) zarzucać
+[bombardier]bombardier (EN) : (rz.) bombardier
+[bombardment]bombardment (EN) : (rz.) bombardowanie
+[bombast]bombast (EN) : (rz.) napuszoność; (rz.) patetyczność
+[bombastic]bombastic (EN) : (p.) bombastyczny; (p.) pompatyczny
+[bomber]bomber (EN) : (rz.) bombowiec; (rz.) szturmowiec; (rz.) zamachowiec
+[bombing]bombing (EN) : (rz.) bombardowanie
+[bombshell]bombshell (EN) : (rz.) bomba; (rz.) seksbomba; (rz.) sensacja; (rz.) szrapnel
+[bona-fide]bona-fide (EN) : (p.) prawdziwy; (p.) szczery
+[bonanza]bonanza (EN) : (rz.) pomyślność; (rz.) szczęście
+[bonbon]bonbon (EN) : (rz.) cukierek; (rz.) czekoladka
+[bond]bond (EN) : (cz.) spajać; (rz.) bon; (rz.) cyrograf; (rz.) kajdany; (rz.) kaucja; (rz.) obligacja; (rz.) weksel; (rz.) wiązanie; (rz.) więź; (rz.) zastaw; (rz.) złącze; (rz.) zobowiązanie; (rz.) związek
+[bondage]bondage (EN) : (rz.) niewola; (rz.) niewolnictwo
+[bonded]bonded (EN) : (p.) wolnocłowy
+[bonder]bonder (EN) : (rz.) składowisko
+[bonding]bonding (EN) : (rz.) klejenie; (rz.) łączenie; (rz.) spajanie; (rz.) wiązanie
+[bondsman]bondsman (EN) : (rz.) gwarant; (rz.) niewolnik; (rz.) poręczyciel
+[bone]bone (EN) : (rz.) gnat; (rz.) kość; (rz.) ość; (rz.) szpik
+[bone-shaker]bone-shaker (EN) : (rz.) gruchot
+[bonehead]bonehead (EN) : (rz.) bałwan; (rz.) głupiec; (rz.) tępak
+[boneless]boneless (EN) : (p.) bezkostny
+[boner]boner (EN) : (rz.) gafa
+[boneshaker]boneshaker (EN) : (rz.) gruchot
+[bonfire]bonfire (EN) : (rz.) ognisko; (rz.) sobótka; (rz.) stos
+[bonhomie]bonhomie (EN) : (rz.) dobroduszność
+[boning]boning (EN) : (rz.) filetowanie
+[bonnet]bonnet (EN) : (rz.) czapka; (rz.) czepek; (rz.) maska; (rz.) nakładka; (rz.) osłona; (rz.) pokrywa
+[bonny]bonny (EN) : (p.) piękny; (p.) powabny; (p.) sympatyczny; (p.) urodziwy
+[bonnyclabber]bonnyclabber (EN) : (rz.) twaróg
+[bono]bono (EN) : (rz.) piękność
+[bonus]bonus (EN) : (rz.) dodatek; (rz.) premia; (rz.) tantiema
+[bony]bony (EN) : (p.) kościsty; (p.) ościsty
+[bonze]bonze (EN) : (rz.) bonza
+[boob]boob (EN) : (rz.) cycek; (rz.) głupek; (rz.) głupstwo; (rz.) prostak; (rz.) wpadka
+[booby]booby (EN) : (rz.) cymbał; (rz.) dureń; (rz.) głupek; (rz.) prostak; (rz.) tępak
+[booby-trap]booby-trap (EN) : (rz.) pułapka
+[boodle]boodle (EN) : (rz.) forsa
+[booed]booed (EN) : (p.) wygwizdany
+[boohoo]boohoo (EN) : (cz.) buczeć
+[booing]booing (EN) : (cz.) szykanować; (cz.) wygwizdywać; (rz.) wygwizdanie
+[book]book (EN) : (cz.) księgować; (cz.) rezerwować; (cz.) zapisywać; (cz.) zarezerwować; (rz.) egzemplarz; (rz.) książka; (rz.) księga; (rz.) notatnik
+[book-keeping]book-keeping (EN) : (rz.) buchalteria; (rz.) księgowość; (rz.) rachunkowość
+[book-lover]book-lover (EN) : (rz.) bibliofil
+[book-mark]book-mark (EN) : (rz.) zakładka
+[book-rest]book-rest (EN) : (rz.) pulpit
+[book-shop]book-shop (EN) : (rz.) księgarnia
+[bookbinder]bookbinder (EN) : (rz.) introligator
+[bookbindery]bookbindery (EN) : (rz.) introligatornia; (rz.) introligatorstwo
+[bookbinding]bookbinding (EN) : (rz.) bindowanie; (rz.) introligatorstwo
+[bookcase]bookcase (EN) : (rz.) biblioteczka; (rz.) szafa
+[booking]booking (EN) : (rz.) bukowanie; (rz.) przedsprzedaż; (rz.) rezerwacja; (rz.) rezerwowanie; (rz.) zarezerwowanie
+[bookish]bookish (EN) : (p.) książkowy; (p.) naukowy
+[bookkeeper]bookkeeper (EN) : (rz.) buchalter
+[bookkeeping]bookkeeping (EN) : (rz.) buchalteria; (rz.) księgowość; (rz.) rachunkowość
+[booklet]booklet (EN) : (rz.) broszura; (rz.) pamflet
+[bookmaker]bookmaker (EN) : (rz.) bukmacher; (rz.) pośrednik
+[bookmark]bookmark (EN) : (rz.) zakładka
+[bookplate]bookplate (EN) : (rz.) ekslibris
+[bookseller]bookseller (EN) : (rz.) księgarz
+[bookselling]bookselling (EN) : (rz.) księgarstwo
+[bookshelf]bookshelf (EN) : (rz.) półka; (rz.) regał
+[bookshop]bookshop (EN) : (rz.) antykwariat; (rz.) księgarnia
+[bookstall]bookstall (EN) : (rz.) kiosk
+[bookstand]bookstand (EN) : (rz.) regał
+[bookstore]bookstore (EN) : (rz.) księgarnia
+[boom]boom (EN) : (rz.) bariera; (rz.) bom; (rz.) buczenie; (rz.) grzmot; (rz.) hossa; (rz.) huk; (rz.) łoskot; (rz.) maszt; (rz.) ożywienie; (rz.) podłużnica; (rz.) pogłos; (rz.) rozkwit; (rz.) wysięgnik; (rz.) wzrost
+[boomerang]boomerang (EN) : (rz.) bumerang
+[booming]booming (EN) : (p.) gromki
+[boon]boon (EN) : (p.) miły; (rz.) dar; (rz.) łaska
+[boor]boor (EN) : (rz.) cham; (rz.) gbur; (rz.) grubianin; (rz.) ordynus; (rz.) prostak
+[boorish]boorish (EN) : (p.) chamski; (p.) gburowaty; (p.) grubiański; (p.) prostacki
+[boorishness]boorishness (EN) : (rz.) chamstwo; (rz.) gburowatość
+[boos]boos (EN) : (rz.) wygwizdanie
+[boost]boost (EN) : (cz.) forsować; (cz.) ożywić; (cz.) pobudzać; (cz.) pobudzić; (cz.) podnosić; (cz.) podsadzać; (cz.) rozreklamować; (cz.) stymulować; (cz.) wzmagać; (cz.) zwiększać; (rz.) ożywienie; (rz.) pobudzenie; (rz.) wzmożenie; (rz.) wzrost
+[booster]booster (EN) : (rz.) buster; (rz.) pobudza; (rz.) przyspieszacz; (rz.) zachwalacz
+[boot]boot (EN) : (cz.) inicjować; (cz.) ładować; (rz.) bagażnik; (rz.) but; (rz.) inicjowanie; (rz.) koszulka; (rz.) kozaczek
+[boot-up]boot-up (EN) : (rz.) rozruch
+[bootblack]bootblack (EN) : (rz.) czyścibut; (rz.) pucybut
+[booth]booth (EN) : (rz.) budka; (rz.) kabina; (rz.) kram; (rz.) stragan; (rz.) szałas
+[bootlace]bootlace (EN) : (rz.) sznurowadło
+[bootleg]bootleg (EN) : (rz.) cholewa
+[bootless]bootless (EN) : (p.) daremny
+[bootlicker]bootlicker (EN) : (rz.) lizus
+[boots]boots (EN) : (rz.) buty
+[bootstrap]bootstrap (EN) : (rz.) inicjowanie; (rz.) ładowanie; (rz.) ładunek
+[booty]booty (EN) : (rz.) łup; (rz.) zdobycz; (rz.) zysk
+[booze]booze (EN) : (cz.) chlać; (cz.) popijać; (cz.) upić; (cz.) zakrapiać; (rz.) alkohol; (rz.) gorzała; (rz.) gorzałka; (rz.) trunek
+[boozer]boozer (EN) : (rz.) alkoholik; (rz.) knajpa; (rz.) ochlapus; (rz.) oliwa; (rz.) pijus
+[boozy]boozy (EN) : (p.) alkoholowy
+[bop]bop (EN) : (rz.) taniec
+[borage]borage (EN) : (rz.) ogórecznik
+[borate]borate (EN) : (rz.) boran
+[borax]borax (EN) : (rz.) boraks; (rz.) tynkal
+[borazon]borazon (EN) : (rz.) borazon
+[border]border (EN) : (cz.) bramować; (cz.) dziergać; (cz.) graniczyć; (cz.) obrastać; (cz.) obrysować; (cz.) obrzeżać; (cz.) okalać; (cz.) okantować; (cz.) sąsiadować; (rz.) banda; (rz.) bramowanie; (rz.) brzeg; (rz.) granica; (rz.) kordon; (rz.) kraniec; (rz.) krawędź; (rz.) lamówka; (rz.) miedza; (rz.) oblamowanie; (rz.) obramowanie; (rz.) obrzeże; (rz.) obwódka; (rz.) ograniczenie; (rz.) rabata; (rz.) rąbek; (rz.) rubież; (rz.) skraj
+[borderer]borderer (EN) : (rz.) kresowiec; (rz.) ogranicznik; (rz.) sąsiad
+[borderland]borderland (EN) : (rz.) kres; (rz.) pogranicze
+[borderline]borderline (EN) : (rz.) granica; (rz.) światło; (rz.) wiercenie
+[bore]bore (EN) : (cz.) drążyć; (cz.) dziurawić; (cz.) nawiercić; (cz.) nudzić; (cz.) odwiercić; (cz.) świdrować; (cz.) wiercić; (cz.) zamęczać; (cz.) zanudzać; (rz.) niedźwiedź; (rz.) nudziarstwo; (rz.) nudziarz; (rz.) odwiert; (rz.) otwór; (rz.) wiercenie
+[bore-hole]bore-hole (EN) : (rz.) odwiert
+[boreal]boreal (EN) : (p.) borealny; (p.) północny
+[bored]bored (EN) : (cz.) nudzić; (p.) znudzony
+[boredom]boredom (EN) : (rz.) nuda; (rz.) nudzenie; (rz.) zblazowanie; (rz.) znudzenie
+[borehole]borehole (EN) : (cz.) przewietrzać; (rz.) odwiert
+[borer]borer (EN) : (rz.) kornik; (rz.) świder; (rz.) wiertacz; (rz.) wytaczarka
+[boric]boric (EN) : (p.) borny; (p.) borowy
+[boride]boride (EN) : (rz.) borek
+[boring]boring (EN) : (p.) nudny; (rz.) nudzenie; (rz.) wiercenie; (rz.) zanudzenie
+[boring-machine]boring-machine (EN) : (rz.) wiertarka
+[borings]borings (EN) : (p.) zwierciny
+[born]born (EN) : (cz.) narodzić; (cz.) urodzić; (cz.) wykluć; (p.) wierutny
+[boron]boron (EN) : (rz.) bor
+[borough]borough (EN) : (rz.) miasteczko; (rz.) miasto; (rz.) miejscowość
+[borrow]borrow (EN) : (cz.) pożyczać; (cz.) pożyczyć; (cz.) wypożyczać; (cz.) zapożyczać
+[borrower]borrower (EN) : (rz.) dłużnik; (rz.) kredytobiorca; (rz.) pożyczkobiorca
+[borrowing]borrowing (EN) : (rz.) pożyczanie; (rz.) zapożyczanie; (rz.) zapożyczenie
+[borsch]borsch (EN) : (rz.) barszcz
+[borscht]borscht (EN) : (rz.) barszcz
+[borstal]borstal (EN) : (rz.) poprawczak
+[boscage]boscage (EN) : (rz.) gaik; (rz.) gąszcz; (rz.) gęstwina
+[bosh]bosh (EN) : (rz.) nonsens
+[bosom]bosom (EN) : (rz.) łono; (rz.) pierś; (rz.) zanadrze
+[bosoms]bosoms (EN) : (rz.) biust; (rz.) łono
+[boson]boson (EN) : (rz.) bozon
+[boss]boss (EN) : (cz.) dominować; (cz.) kierować; (cz.) rządzić; (rz.) brosza; (rz.) gospodarz; (rz.) kierownik; (rz.) nadlew; (rz.) piasta; (rz.) pryncypał; (rz.) szef; (rz.) szefostwo; (rz.) wypuklina; (rz.) występ; (rz.) zgrubienie
+[boss-eyed]boss-eyed (EN) : (p.) zezowaty
+[bossed]bossed (EN) : (p.) guzowaty
+[bossy]bossy (EN) : (p.) apodyktyczny; (p.) władczy
+[botanic]botanic (EN) : (p.) botaniczny
+[botanical]botanical (EN) : (p.) botaniczny
+[botanically]botanically (EN) : (p-sł.) botanicznie
+[botanist]botanist (EN) : (rz.) botanik; (rz.) botanika
+[botany]botany (EN) : (rz.) botanika
+[botch]botch (EN) : (cz.) knocić; (cz.) sfuszerować; (cz.) spartaczyć; (rz.) partactwo; (rz.) partanina
+[botching]botching (EN) : (rz.) knocenie
+[both]both (EN) : (p-sł.) zarówno
+[bother]bother (EN) : (cz.) dręczyć; (cz.) kłopotać; (cz.) martwić; (cz.) molestować; (cz.) niepokoić; (cz.) przeszkadzać; (cz.) trudzić; (cz.) zawracać; (rz.) dokuczanie; (rz.) fatygowanie; (rz.) kłopot; (rz.) molestowanie; (rz.) naprzykrzanie; (rz.) niepokój; (rz.) przejmowanie; (rz.) przeszkadzanie; (rz.) zmartwienie
+[bothering]bothering (EN) : (rz.) nurtowanie; (rz.) trudzenie
+[bothersome]bothersome (EN) : (p.) dokuczliwy; (p.) kłopotliwy
+[bottle]bottle (EN) : (cz.) butelkować; (rz.) bławatek; (rz.) butelka; (rz.) flakon; (rz.) flakonik; (rz.) flaszka; (rz.) manierka; (rz.) szklanka; (rz.) wiązka
+[bottle-gourd]bottle-gourd (EN) : (rz.) tykwa
+[bottleneck]bottleneck (EN) : (rz.) zator
+[bottler]bottler (EN) : (rz.) rozlewacz; (rz.) rozlewnia
+[bottling]bottling (EN) : (rz.) butelkowanie; (rz.) rozlewnia
+[bottom]bottom (EN) : (rz.) dno; (rz.) dół; (rz.) pupa; (rz.) siedzenie; (rz.) spód; (rz.) szuflada; (rz.) tyłek; (rz.) wylew
+[bottom-up]bottom-up (EN) : (p.) oddolny; (p.) wstępujący
+[bottoming]bottoming (EN) : (rz.) dno; (rz.) dół
+[bottomless]bottomless (EN) : (p.) bezdenny; (p.) niezgłębiony
+[botulism]botulism (EN) : (rz.) botulizm
+[boudoir]boudoir (EN) : (rz.) buduar
+[bough]bough (EN) : (rz.) broń; (rz.) gałąź; (rz.) konar
+[bouillon]bouillon (EN) : (rz.) bulion; (rz.) rosół
+[boulder]boulder (EN) : (rz.) głaz; (rz.) okrąglak; (rz.) otoczak
+[boulevard]boulevard (EN) : (rz.) bulwar; (rz.) ulica
+[bounce]bounce (EN) : (cz.) blagować; (cz.) odbijać; (cz.) odskoczyć; (cz.) podrzucać; (cz.) podskakiwać; (cz.) wlatywać; (rz.) chełpliwość; (rz.) energia; (rz.) odbicie
+[bouncer]bouncer (EN) : (rz.) blagier; (rz.) bramka; (rz.) bramkarz; (rz.) wykidajło
+[bouncing]bouncing (EN) : (p.) energiczny; (p.) krzepki; (p.) żywy
+[bouncy]bouncy (EN) : (p.) energiczny
+[bound]bound (EN) : (cz.) dziabać; (cz.) odskakiwać; (cz.) ograniczać; (cz.) ograniczyć; (cz.) skakać; (cz.) związać; (p.) oprawny; (rz.) granica; (rz.) odskok; (rz.) skok; (rz.) związanie
+[boundary]boundary (EN) : (rz.) granica; (rz.) rubież
+[bounded]bounded (EN) : (p.) odgraniczony; (p.) ograniczony
+[bounder]bounder (EN) : (rz.) kanalia
+[bounding]bounding (EN) : (rz.) podskakiwanie
+[boundless]boundless (EN) : (p.) bezgraniczny; (p.) bezkresny; (p.) nieograniczony; (p.) niezmierny
+[boundlessly]boundlessly (EN) : (p-sł.) bezgranicznie
+[boundlessness]boundlessness (EN) : (rz.) bezkres; (rz.) bezmiar; (rz.) nieograniczoność
+[bounds]bounds (EN) : (rz.) miedza
+[bounteous]bounteous (EN) : (p.) hojny; (p.) obfity; (p.) szczodry
+[bountiful]bountiful (EN) : (p.) hojny; (p.) obfity
+[bounty]bounty (EN) : (rz.) dar; (rz.) hojność; (rz.) laska; (rz.) premia; (rz.) szczodrość
+[bouquet]bouquet (EN) : (rz.) bukiet; (rz.) wiązka
+[bourgeois]bourgeois (EN) : (p.) burżuazyjny; (rz.) burgos; (rz.) burżuj
+[bourgeoisie]bourgeoisie (EN) : (rz.) burżuazja; (rz.) mieszczaństwo
+[bourn]bourn (EN) : (rz.) granica; (rz.) meta; (rz.) potok
+[bourse]bourse (EN) : (rz.) giełda
+[bout]bout (EN) : (rz.) atak; (rz.) napad
+[boutique]boutique (EN) : (rz.) butik; (rz.) sklep
+[boutonniere]boutonniere (EN) : (rz.) butonierka
+[bovine]bovine (EN) : (p.) bydlęcy; (p.) powolny; (p.) wolowaty; (p.) wołowy
+[bow]bow (EN) : (cz.) chylić; (cz.) czapkować; (cz.) kłaniać; (cz.) pokłonić; (cz.) skłaniać; (cz.) ugiąć; (cz.) ukłonić; (cz.) zginać; (rz.) dziób; (rz.) kabłąk; (rz.) kokarda; (rz.) łuk; (rz.) pałąk; (rz.) pokłon; (rz.) smyczek; (rz.) ukłon; (rz.) wygięcie
+[bow-legged]bow-legged (EN) : (p.) krzywonogi; (p.) pałąkowaty
+[bow-tie]bow-tie (EN) : (rz.) muszka
+[bowdlerize]bowdlerize (EN) : (cz.) okrajać
+[bowel]bowel (EN) : (rz.) jelito; (rz.) kiszka
+[bowels]bowels (EN) : (rz.) trzewia; (rz.) wnętrzności
+[bower]bower (EN) : (rz.) altana; (rz.) dacza; (rz.) łucznik
+[bowing]bowing (EN) : (rz.) chylenie; (rz.) nachylanie; (rz.) schylanie; (rz.) schylenie
+[bowknot]bowknot (EN) : (rz.) kokarda
+[bowl]bowl (EN) : (cz.) toczyć; (cz.) zaserwować; (rz.) czara; (rz.) czarka; (rz.) donica; (rz.) flakon; (rz.) kula; (rz.) lulka; (rz.) miednica; (rz.) misa; (rz.) miseczka; (rz.) miska; (rz.) panew; (rz.) puchar; (rz.) salaterka; (rz.) stadion; (rz.) waza; (rz.) wazon
+[bowlegged]bowlegged (EN) : (p.) pałąkowaty
+[bowler]bowler (EN) : (rz.) gracz; (rz.) kręglarz; (rz.) melonik; (rz.) zawodnik
+[bowline]bowline (EN) : (rz.) bulina
+[bowling]bowling (EN) : (rz.) kręgiel; (rz.) kręgielnia
+[bowman]bowman (EN) : (rz.) łucznik
+[bowsprit]bowsprit (EN) : (rz.) bukszpryt; (rz.) dziobnik
+[bowstring]bowstring (EN) : (rz.) cięciwa; (rz.) ściąg
+[bowtie]bowtie (EN) : (rz.) muszka
+[bowyer]bowyer (EN) : (rz.) łucznik
+[box]box (EN) : (cz.) boksować; (cz.) odosobnić; (cz.) uderzać; (rz.) boks; (rz.) buda; (rz.) bukszpan; (rz.) loża; (rz.) pudełeczko; (rz.) pudełko; (rz.) pudło; (rz.) puzderko; (rz.) ramka; (rz.) skrzynia; (rz.) skrzynka; (rz.) uderzenie
+[box-office]box-office (EN) : (rz.) kasa
+[box-pleat]box-pleat (EN) : (rz.) kontrafałda
+[boxcar]boxcar (EN) : (rz.) fura; (rz.) furgon
+[boxer]boxer (EN) : (rz.) bokser; (rz.) kasiarz; (rz.) pięściarz
+[boxes]boxes (EN) : (rz.) boksowanie; (rz.) przełącznica
+[boxful]boxful (EN) : (rz.) pudełko
+[boxing]boxing (EN) : (rz.) boks; (rz.) pięściarstwo
+[boxwood]boxwood (EN) : (rz.) bukszpan
+[boy]boy (EN) : (rz.) chłopak; (rz.) chłopczyk; (rz.) chłopiec; (rz.) malec; (rz.) piesek; (rz.) syn
+[boyar]boyar (EN) : (rz.) bojar
+[boycott]boycott (EN) : (cz.) bojkotować; (cz.) zbojkotować; (rz.) bojkot
+[boyfriend]boyfriend (EN) : (rz.) chłopak; (rz.) chłopiec; (rz.) kolega; (rz.) przyjaciel; (rz.) sympatia
+[boyhood]boyhood (EN) : (rz.) chłopięctwo
+[boyish]boyish (EN) : (p.) chłopięcy
+[bozo]bozo (EN) : (rz.) małpolud
+[bra]bra (EN) : (rz.) biustonosz; (rz.) stanik
+[brace]brace (EN) : (cz.) kotwić; (cz.) przytwierdzać; (cz.) spiąć; (cz.) wzmacniać; (cz.) zabetonować; (rz.) klamerka; (rz.) klamra; (rz.) nawias; (rz.) podpora; (rz.) stadło; (rz.) świder; (rz.) wiązadło
+[bracelet]bracelet (EN) : (rz.) bransoleta; (rz.) bransoletka
+[braces]braces (EN) : (rz.) szelki
+[brachial]brachial (EN) : (p.) barkowy; (p.) ramieniowy; (p.) ramienny
+[brachium]brachium (EN) : (rz.) konar
+[bracing]bracing (EN) : (p.) rześki; (rz.) obetonowanie; (rz.) usztywnianie; (rz.) wzmacnianie
+[bracken]bracken (EN) : (rz.) wspornik
+[bracket]bracket (EN) : (rz.) kinkiet; (rz.) klamra; (rz.) konsola; (rz.) kroksztyn; (rz.) nawias; (rz.) podpórka; (rz.) wspornik
+[brad]brad (EN) : (rz.) sztyft
+[bradawl]bradawl (EN) : (rz.) szydło
+[brae]brae (EN) : (rz.) stok
+[brag]brag (EN) : (cz.) chełpić; (cz.) chwalić; (cz.) łgać; (cz.) obszywać; (cz.) przechwalać; (cz.) splatać; (rz.) plecionka; (rz.) przechwałka; (rz.) samochwalstwo; (rz.) sznur; (rz.) warkocz
+[braggart]braggart (EN) : (rz.) blagier; (rz.) chwalipięta; (rz.) samochwała
+[bragging]bragging (EN) : (rz.) chełpienie; (rz.) przechwalanie; (rz.) samochwalstwo
+[braid]braid (EN) : (cz.) galonować; (cz.) oplatać; (cz.) splatać; (cz.) szamerować; (cz.) wplatać; (rz.) oplot; (rz.) splot; (rz.) szamerowanie; (rz.) szamerunek; (rz.) warkocz
+[braider]braider (EN) : (rz.) oplatarka
+[braiding]braiding (EN) : (rz.) oplatanie; (rz.) oplot; (rz.) plecenie
+[brail]brail (EN) : (rz.) gejtawa; (rz.) orczyk
+[brain]brain (EN) : (cz.) rozwalać; (rz.) móżdżek; (rz.) mózg; (rz.) mózgowie; (rz.) mózgownica; (rz.) rozum; (rz.) umysł
+[brainless]brainless (EN) : (p.) bałwański; (p.) bezgłowy; (p.) bezmózgi; (p.) idiotyczny
+[brains]brains (EN) : (rz.) rozum
+[brainstorm]brainstorm (EN) : (rz.) zaćmienie
+[brainwash]brainwash (EN) : (cz.) nakłaniać; (cz.) perswadować; (cz.) skłaniać; (cz.) skłonić
+[brainwave]brainwave (EN) : (rz.) natchnienie; (rz.) olśnienie
+[brainy]brainy (EN) : (p.) bystry; (p.) mądry; (p.) rozgarnięty
+[braise]braise (EN) : (cz.) dusić
+[braised]braised (EN) : (p.) duszony
+[brake]brake (EN) : (cz.) hamować; (cz.) wyhamować; (rz.) gęstwa; (rz.) hamulec; (rz.) międlica; (rz.) ograniczenie
+[braking]braking (EN) : (rz.) hamowanie
+[bramble]bramble (EN) : (rz.) jeżyna
+[bran]bran (EN) : (rz.) otręby
+[branch]branch (EN) : (cz.) odgałęziać; (cz.) rozchodzić; (cz.) rozgałęziać; (cz.) rozwidlać; (rz.) ajencja; (rz.) branża; (rz.) dyscyplina; (rz.) dział; (rz.) ekspozytura; (rz.) filia; (rz.) gałąź; (rz.) gałązka; (rz.) konar; (rz.) latorośl; (rz.) oddział; (rz.) odgałęzienie; (rz.) odnoga; (rz.) ramię; (rz.) skok
+[branch-joint]branch-joint (EN) : (rz.) rozgałęźnik; (rz.) rozwidlacz
+[branching]branching (EN) : (rz.) odgałęzienie; (rz.) rozgałęzienie
+[branchy]branchy (EN) : (p.) gałęzisty; (p.) rosochaty; (p.) rozłożysty
+[brand]brand (EN) : (cz.) napiętnować; (cz.) piętnować; (cz.) wryć; (cz.) wypalać; (cz.) znakować; (rz.) gatunek; (rz.) głownia; (rz.) niedopałek; (rz.) odmiana; (rz.) ożóg; (rz.) piętno; (rz.) pochodnia; (rz.) rodzaj; (rz.) żagiew; (rz.) zwarzenie
+[brand-name]brand-name (EN) : (p.) markowy
+[branding]branding (EN) : (rz.) cechowanie; (rz.) piętnowanie
+[brandish]brandish (EN) : (cz.) wymachiwać; (cz.) wywijać
+[brandy]brandy (EN) : (rz.) Brendy; (rz.) koniak; (rz.) winiak; (rz.) wódka
+[brash]brash (EN) : (p.) arogancki; (p.) chełpliwy
+[brashness]brashness (EN) : (rz.) śmiałość; (rz.) zuchwalstwo
+[brass]brass (EN) : (rz.) czelność; (rz.) grosiwo; (rz.) mosiądz; (rz.) spiż
+[brassard]brassard (EN) : (rz.) naramiennik; (rz.) odznaka; (rz.) opaska
+[brassiere]brassiere (EN) : (rz.) biustonosz; (rz.) stanik
+[brassy]brassy (EN) : (p.) metaliczny; (p.) miedziany
+[brat]brat (EN) : (rz.) bachor; (rz.) berbeć; (rz.) dzieciak
+[brattice]brattice (EN) : (rz.) przegroda; (rz.) przepierzenie
+[bravado]bravado (EN) : (rz.) brawura; (rz.) ryzykanctwo; (rz.) zuchwałość
+[brave]brave (EN) : (cz.) wyzywać; (p.) chrobry; (p.) dzielny; (p.) mężny; (p.) odważny; (p.) śmiały; (p.) waleczny; (rz.) junak; (rz.) wojownik
+[bravely]bravely (EN) : (p-sł.) dzielnie; (p-sł.) nieustraszenie
+[bravery]bravery (EN) : (rz.) dzielność; (rz.) męstwo; (rz.) odwaga; (rz.) śmiałość; (rz.) waleczność
+[bravura]bravura (EN) : (rz.) brawura
+[brawl]brawl (EN) : (cz.) awanturować; (cz.) chuliganić; (cz.) rozrabiać; (cz.) szaleć; (cz.) warcholić; (rz.) awantura; (rz.) bijatyka; (rz.) bitka; (rz.) bójka; (rz.) brewerie; (rz.) burda; (rz.) kłótnia; (rz.) rozróba; (rz.) rozróbka
+[brawler]brawler (EN) : (rz.) awanturnik; (rz.) warchoł; (rz.) zawadiaka
+[brawling]brawling (EN) : (rz.) rozrabianie; (rz.) warcholstwo
+[brawn]brawn (EN) : (rz.) krzepa; (rz.) salceson; (rz.) tężyzna
+[brawny]brawny (EN) : (p.) krzepki; (p.) mięsisty; (p.) muskularny; (p.) silny
+[bray]bray (EN) : (cz.) ryczeć; (rz.) ryk
+[braying]braying (EN) : (rz.) ryk
+[braze]braze (EN) : (cz.) brązować; (cz.) lutować
+[brazen]brazen (EN) : (p.) bezczelny; (p.) bezwstydny; (p.) brązowy; (p.) mosiężny; (p.) możny; (p.) nachalny; (p.) spiżowy
+[brazen-faced]brazen-faced (EN) : (p.) bezczelny; (p.) bezwstydny
+[brazenfaced]brazenfaced (EN) : (p.) bezczelny; (p.) bezwstydny
+[brazenness]brazenness (EN) : (rz.) bezczelność; (rz.) cynizm
+[brazier]brazier (EN) : (rz.) koksiak; (rz.) kotlarz; (rz.) mosiężnik
+[breach]breach (EN) : (cz.) naruszać; (cz.) przełamywać; (rz.) luka; (rz.) naruszenie; (rz.) pogwałcenie; (rz.) przekroczenie; (rz.) rozbrat; (rz.) rozłam; (rz.) wyłom; (rz.) wyrwa; (rz.) zerwanie; (rz.) złamanie
+[breaching]breaching (EN) : (rz.) naruszenie; (rz.) wyskakiwanie
+[bread]bread (EN) : (rz.) chleb; (rz.) pieczywo; (rz.) utrzymanie
+[bread-crumb]bread-crumb (EN) : (rz.) miękisz
+[bread-winner]bread-winner (EN) : (rz.) żywiciel
+[breadboard]breadboard (EN) : (rz.) deska; (rz.) makieta
+[breadbox]breadbox (EN) : (rz.) chlebak
+[breadcrumb]breadcrumb (EN) : (rz.) miękisz
+[breadth]breadth (EN) : (rz.) rozmach; (rz.) rozpiętość; (rz.) szerokość
+[breadwinner]breadwinner (EN) : (rz.) chlebodawca; (rz.) żywiciel
+[break]break (EN) : (cz.) łamać; (cz.) nałamać; (cz.) naruszyć; (cz.) odłamać; (cz.) odzwyczaić; (cz.) pogruchotać; (cz.) połamać; (cz.) popsuć; (cz.) porozbijać; (cz.) przebić; (cz.) przerywać; (cz.) przetrącić; (cz.) rozbić; (cz.) rozbijać; (cz.) rozmienić; (cz.) rozrywać; (cz.) skruszyć; (cz.) tłuc; (cz.) ujeździć; (cz.) włamać; (cz.) wyłamać; (cz.) wyrwać; (cz.) zdekompletować; (cz.) zepsuć; (cz.) złamać; (cz.) zrywać; (rz.) brek; (rz.) bryczka; (rz.) ferie; (rz.) mutowanie; (rz.) pauza; (rz.) przejaśnienie; (rz.) przerwa; (rz.) przerwanie; (rz.) rozbicie; (rz.) rozbrat; (rz.) stłuc; (rz.) urlop; (rz.) wyłom; (rz.) wytchnienie; (rz.) załam; (rz.) załamanie; (rz.) zerwanie; (rz.) złamanie
+[break-down]break-down (EN) : (rz.) defekt
+[break-in]break-in (EN) : (rz.) docieranie; (rz.) włamanie; (rz.) wtargnięcie
+[break-over]break-over (EN) : (rz.) przełączenie; (rz.) przerzut
+[break-up]break-up (EN) : (rz.) rozdrabnianie; (rz.) rozdrobnienie; (rz.) rozpad; (rz.) upadek; (rz.) zakończenie
+[breakable]breakable (EN) : (p.) kruchy; (p.) łamliwy
+[breakage]breakage (EN) : (rz.) burzenie; (rz.) łamanie; (rz.) stłuczka; (rz.) złamanie
+[breakdown]breakdown (EN) : (rz.) awaria; (rz.) klęska; (rz.) niepowodzenie; (rz.) przebicie; (rz.) rozpad; (rz.) upadek; (rz.) załamanie; (rz.) zerwanie; (rz.) zestawienie
+[breaker]breaker (EN) : (rz.) łamacz; (rz.) przerywacz; (rz.) wyłącznik
+[breakfast]breakfast (EN) : (rz.) śniadanie
+[breakfasting]breakfasting (EN) : (rz.) śniadanie
+[breaking]breaking (EN) : (rz.) dyftongizacja; (rz.) łamanie; (rz.) naruszenie; (rz.) przerywanie; (rz.) rozbicie; (rz.) rozbijanie; (rz.) rozrywanie; (rz.) targ; (rz.) urabianie; (rz.) włamanie; (rz.) żyłowanie
+[breakneck]breakneck (EN) : (p.) karkołomny; (p.) zawrotny
+[breakout]breakout (EN) : (rz.) przełamanie; (rz.) wyrzucie; (rz.) wyrzut
+[breakthrough]breakthrough (EN) : (rz.) przebicie; (rz.) przecinka; (rz.) przełom; (rz.) wyłom
+[breakwater]breakwater (EN) : (rz.) falochron; (rz.) molo
+[bream]bream (EN) : (rz.) leszcz
+[breast]breast (EN) : (rz.) biust; (rz.) pierś; (rz.) przodek; (rz.) sutek; (rz.) sutka
+[breast-bone]breast-bone (EN) : (rz.) mostek
+[breast-stroke]breast-stroke (EN) : (rz.) żabka
+[breastbone]breastbone (EN) : (rz.) mostek
+[breasts]breasts (EN) : (rz.) biust
+[breaststroke]breaststroke (EN) : (rz.) żabka
+[breastwork]breastwork (EN) : (rz.) balustrada; (rz.) parapet; (rz.) przedpiersie
+[breath]breath (EN) : (rz.) dech; (rz.) oddech; (rz.) powiew; (rz.) tchnięcie; (rz.) tchnienie; (rz.) zadyszenie
+[breathalyser]breathalyser (EN) : (rz.) alkomat
+[breathalyzer]breathalyzer (EN) : (rz.) alkomat
+[breathe]breathe (EN) : (cz.) chuchać; (cz.) dychać; (cz.) oddychać; (cz.) tchnąć; (cz.) wdychać
+[breather]breather (EN) : (rz.) odpowietrznik
+[breathing]breathing (EN) : (rz.) oddech; (rz.) oddychanie; (rz.) westchnienie
+[breathing-space]breathing-space (EN) : (rz.) pauza; (rz.) przerwa
+[breathless]breathless (EN) : (p.) zdyszany
+[breathlessness]breathlessness (EN) : (rz.) nierównowaga; (rz.) zadyszka
+[breech]breech (EN) : (rz.) pośladek; (rz.) siedzenie; (rz.) tyłek; (rz.) zamek
+[breech-block]breech-block (EN) : (rz.) zamek
+[breeches]breeches (EN) : (rz.) bryczesy; (rz.) spodnie
+[breed]breed (EN) : (cz.) hodować; (cz.) plenić; (cz.) rodzić; (cz.) rozmnażać; (rz.) rasa
+[breeder]breeder (EN) : (rz.) hodowca; (rz.) reproduktor
+[breeding]breeding (EN) : (rz.) chów; (rz.) hodowanie; (rz.) hodowla; (rz.) kojarzenie; (rz.) powielanie; (rz.) rozpłód; (rz.) wychowanie
+[breeze]breeze (EN) : (rz.) bąk; (rz.) bryza; (rz.) łatwizna; (rz.) powiew; (rz.) wiaterek; (rz.) wicherek; (rz.) wietrzyk
+[breeze^]breeze^ (EN) : (rz.) wietrzyk
+[breezeblock]breezeblock (EN) : (rz.) pustak
+[breeziness]breeziness (EN) : (rz.) animusz; (rz.) wietrzność
+[breezy]breezy (EN) : (p.) wietrzny; (p.) żwawy
+[brevet]brevet (EN) : (rz.) awans; (rz.) mianowanie
+[breveted]breveted (EN) : (cz.) awansować; (cz.) promować; (rz.) awans
+[breviary]breviary (EN) : (rz.) brewiarz
+[brevity]brevity (EN) : (rz.) krótkość; (rz.) krótkotrwałość; (rz.) skrót; (rz.) treściwość; (rz.) zwięzłość
+[brew]brew (EN) : (cz.) parzyć; (cz.) warzyć; (rz.) browar; (rz.) napar; (rz.) piwo
+[brewer]brewer (EN) : (rz.) piwowar
+[brewery]brewery (EN) : (rz.) browar
+[brewing]brewing (EN) : (rz.) browarnictwo; (rz.) piwowarstwo; (rz.) warzenie; (rz.) wywar
+[briar]briar (EN) : (rz.) wrzosiec
+[bribe]bribe (EN) : (cz.) korumpować; (cz.) podkupić; (cz.) przekupić; (cz.) przekupywać; (rz.) łapówka
+[briber]briber (EN) : (rz.) łapówkarz
+[bribery]bribery (EN) : (rz.) łapówkarstwo; (rz.) łapownictwo; (rz.) przekupstwo
+[bribing]bribing (EN) : (rz.) łapownictwo
+[bric-a-brac]bric-a-brac (EN) : (rz.) bibelot; (rz.) starzyzna
+[brick]brick (EN) : (rz.) cegła; (rz.) przyjaciel
+[brick-field]brick-field (EN) : (rz.) cegielnia
+[brick-red]brick-red (EN) : (p.) ceglasty
+[brick-yard]brick-yard (EN) : (rz.) cegielnia
+[brickfield]brickfield (EN) : (rz.) cegielnia
+[bricklayer]bricklayer (EN) : (rz.) murarz
+[bricklayer's]bricklayer's (EN) : (p.) murarski
+[bricklaying]bricklaying (EN) : (rz.) murarstwo; (rz.) murowanie
+[brickwork]brickwork (EN) : (rz.) mur; (rz.) murarstwo
+[brickyard]brickyard (EN) : (rz.) cegielnia
+[brickyards]brickyards (EN) : (rz.) cegielnia
+[bridal]bridal (EN) : (p.) ślubny; (p.) weselny
+[bride]bride (EN) : (rz.) oblubienica
+[bridegroom]bridegroom (EN) : (rz.) nowożeniec; (rz.) oblubieniec
+[bridesmaid]bridesmaid (EN) : (rz.) druhna; (rz.) drużka
+[bridge]bridge (EN) : (rz.) brydż; (rz.) kładka; (rz.) most; (rz.) mostek; (rz.) pomost
+[bridgehead]bridgehead (EN) : (rz.) przyczółek
+[bridging]bridging (EN) : (p.) pomostowy; (rz.) mostkowanie; (rz.) niwelowanie; (rz.) pokonywanie
+[bridle]bridle (EN) : (cz.) kiełznać; (cz.) okiełznać; (cz.) pohamować; (cz.) powstrzymać; (rz.) cugle; (rz.) uzda; (rz.) wędzidełko
+[brief]brief (EN) : (p.) krótki; (p.) zwięzły; (rz.) akta; (rz.) krótkotrwałość; (rz.) podsumowanie; (rz.) streszczenie
+[brief-case]brief-case (EN) : (rz.) teka
+[briefcase]briefcase (EN) : (rz.) aktówka; (rz.) neseser; (rz.) teczka; (rz.) teka; (rz.) walizka
+[briefer]briefer (EN) : (p.) krótki; (p.) niski
+[briefing]briefing (EN) : (rz.) odprawa; (rz.) pouczenie
+[briefly]briefly (EN) : (p-sł.) krótko; (p-sł.) lakonicznie; (p-sł.) pokrótce; (p-sł.) szybko
+[briefness]briefness (EN) : (rz.) lakoniczność; (rz.) zwięzłość
+[briefs]briefs (EN) : (rz.) majtki; (rz.) slipki; (rz.) slipy; (rz.) spodenki
+[brig]brig (EN) : (rz.) bryg
+[brigade]brigade (EN) : (rz.) brygada
+[brigadier]brigadier (EN) : (rz.) brygadier
+[brigand]brigand (EN) : (rz.) bandyta; (rz.) rozbójnik; (rz.) zbój
+[brigandage]brigandage (EN) : (rz.) nożownictwo; (rz.) zbójectwo; (rz.) zbójnictwo
+[brigantine]brigantine (EN) : (rz.) brygantyna; (rz.) szkuner-bryg
+[bright]bright (EN) : (p.) błyskotliwy; (p.) bystry; (p.) inteligentny; (p.) jaskrawy; (p.) jasny; (p.) pogodny; (p.) promienny; (p.) światły; (p.) świetlany; (p.) świetlisty; (p.) wesoły; (p.) zdolny; (p.) żwawy; (p.) żywy
+[bright-yellow]bright-yellow (EN) : (p.) kanarkowy
+[brighten]brighten (EN) : (cz.) oczyszczać; (cz.) ożywiać; (cz.) ożywić; (cz.) pojaśnieć; (cz.) rozjaśniać; (cz.) rozjaśnić; (cz.) rozpogadzać; (cz.) rozweselać; (cz.) upiększać; (cz.) wypolerować
+[brightener]brightener (EN) : (rz.) wybłyszczacz
+[brighteners]brighteners (EN) : (rz.) rozjaśniacz
+[brightly]brightly (EN) : (p-sł.) bystro; (p-sł.) jaskrawo; (p-sł.) jasno; (p-sł.) pogodnie
+[brightness]brightness (EN) : (rz.) blask; (rz.) flara; (rz.) jaskrawość; (rz.) jasność; (rz.) świetlistość
+[brilliance]brilliance (EN) : (rz.) blask; (rz.) błyskotliwość; (rz.) efektowność; (rz.) luminancja; (rz.) połyskiwanie; (rz.) połyskliwość; (rz.) świetlistość; (rz.) świetność
+[brilliancy]brilliancy (EN) : (rz.) błyskotliwość; (rz.) jasność
+[brilliant]brilliant (EN) : (p.) błyskotliwy; (p.) błyszczący; (p.) cudowny; (p.) efektowny; (p.) fantastyczny; (p.) genialny; (p.) inteligentny; (p.) jaskrawy; (p.) jasny; (p.) kapitalny; (p.) olśniewający; (p.) znakomity; (rz.) brylant
+[brilliantine]brilliantine (EN) : (rz.) brylantyna
+[brilliantly]brilliantly (EN) : (p-sł.) błyskotliwie; (p-sł.) znakomicie
+[brim]brim (EN) : (rz.) brzeg; (rz.) krawędź; (rz.) rondo
+[brim-full]brim-full (EN) : (rz.) przepełnienie
+[brimful]brimful (EN) : (p.) pełen
+[brimming]brimming (EN) : (p.) pełny
+[brindled]brindled (EN) : (p.) moręgowaty
+[brine]brine (EN) : (rz.) solanka
+[bring]bring (EN) : (cz.) przynieść; (cz.) przynosić; (cz.) przyprowadzać; (cz.) przyprowadzić; (cz.) przywieść; (cz.) sprowadzać; (cz.) wprawić; (cz.) wwieźć; (cz.) wwozić; (cz.) wytoczyć
+[bringing]bringing (EN) : (rz.) donoszenie; (rz.) doprowadzanie; (rz.) dowiezienie; (rz.) niesienie; (rz.) przynoszenie; (rz.) przyprowadzenie; (rz.) przywiezienie; (rz.) wnoszenie; (rz.) zanoszenie
+[brining]brining (EN) : (rz.) solankowanie
+[brink]brink (EN) : (rz.) brzeg; (rz.) krawędź; (rz.) skraj
+[brinkmanship]brinkmanship (EN) : (rz.) ryzykanctwo
+[briny]briny (EN) : (rz.) morze
+[briquette]briquette (EN) : (rz.) brykiet
+[brisance]brisance (EN) : (rz.) kruszność
+[brisk]brisk (EN) : (p.) dynamiczny; (p.) dziarski; (p.) energiczny; (p.) fertyczny; (p.) hoży; (p.) rączy; (p.) raźny; (p.) rześki; (p.) skoczny; (p.) zamaszysty; (p.) żwawy; (p.) żywy
+[brisket]brisket (EN) : (rz.) mostek; (rz.) szponder
+[briskly]briskly (EN) : (p-sł.) energicznie; (p-sł.) raźnie; (p-sł.) szybko; (p-sł.) żwawo; (p-sł.) żywo
+[briskness]briskness (EN) : (rz.) ożywienie; (rz.) rześkość
+[bristle]bristle (EN) : (cz.) jeżyć; (cz.) najeżyć; (cz.) napuszyć; (cz.) zjeżać; (cz.) zjeżyć; (rz.) szczecina
+[bristles]bristles (EN) : (rz.) szczecina
+[bristly]bristly (EN) : (p.) szczeciniasty
+[bristol]bristol (EN) : (rz.) brystol
+[brittle]brittle (EN) : (p.) kruchy; (p.) łamliwy
+[brittleness]brittleness (EN) : (rz.) kruchość; (rz.) łamliwość
+[britzka]britzka (EN) : (rz.) bryczka
+[bro]bro (EN) : (rz.) brat
+[broach]broach (EN) : (cz.) nadbierać; (cz.) napoczynać; (cz.) obrócić; (cz.) otworzyć; (cz.) poruszać; (cz.) przedstawiać; (cz.) przedstawić; (cz.) przedziurawiać; (cz.) przedziurawić; (rz.) przeciągacz; (rz.) przepychacz; (rz.) rożen; (rz.) szydło
+[broaching]broaching (EN) : (rz.) obracanie; (rz.) odciąga; (rz.) rożen; (rz.) wyciąganie; (rz.) wydłużanie
+[broad]broad (EN) : (p.) łasy; (p.) obszerny; (p.) ogólny; (p.) szeroki; (p.) wszechstronny
+[broad-minded]broad-minded (EN) : (p.) liberalny; (p.) tolerancyjny
+[broad-shouldered]broad-shouldered (EN) : (p.) barczysty
+[broadaxe]broadaxe (EN) : (rz.) toporek
+[broadband]broadband (EN) : (p.) szerokopasmowy
+[broadcast]broadcast (EN) : (cz.) emitować; (cz.) nadawać; (cz.) rozprzestrzeniać; (cz.) rozsypywać; (cz.) transmitować; (rz.) audycja; (rz.) program; (rz.) rozgłaszanie; (rz.) transmisja
+[broadcaster]broadcaster (EN) : (rz.) dziennikarz; (rz.) nadawca; (rz.) prezenter; (rz.) spiker
+[broadcasting]broadcasting (EN) : (p.) nadawczy; (p.) radionadawczy; (rz.) nadawanie; (rz.) radiofonia; (rz.) transmitowanie
+[broaden]broaden (EN) : (cz.) poszerzać; (cz.) rozszerzać; (cz.) rozszerzyć; (cz.) wzmacniać
+[broadening]broadening (EN) : (rz.) poszerzanie; (rz.) poszerzenie
+[broadly]broadly (EN) : (p-sł.) ogólnie; (p-sł.) rozlegle; (p-sł.) wszechstronnie; (p-sł.) zasadniczo
+[broadminded]broadminded (EN) : (p.) liberalny; (p.) tolerancyjny
+[broadside]broadside (EN) : (rz.) burta
+[broadtail]broadtail (EN) : (rz.) brajtszwanc
+[broadways]broadways (EN) : (p-sł.) wszerz
+[brocade]brocade (EN) : (rz.) brokat
+[brocaded]brocaded (EN) : (p.) brokatowy
+[broccoli]broccoli (EN) : (rz.) brokuły
+[brochure]brochure (EN) : (rz.) broszura; (rz.) broszurka; (rz.) folder; (rz.) informator
+[broil]broil (EN) : (cz.) opiekać; (cz.) przypiekać; (cz.) smażyć; (rz.) awantura; (rz.) hałas; (rz.) kłótnia; (rz.) piec
+[broiler]broiler (EN) : (rz.) brojler; (rz.) kurczak
+[broken]broken (EN) : (p.) rozbity; (p.) zepsuty; (p.) złamany
+[brokenly]brokenly (EN) : (p-sł.) nierówno
+[broker]broker (EN) : (rz.) faktor; (rz.) makler; (rz.) pośrednik
+[broker's]broker's (EN) : (p.) brokerski
+[brokerage]brokerage (EN) : (rz.) działalność; (rz.) maklerstwo
+[broking]broking (EN) : (rz.) maklerstwo; (rz.) pośrednictwo
+[brolly]brolly (EN) : (rz.) parasol
+[bromide]bromide (EN) : (rz.) bromek
+[bromine]bromine (EN) : (rz.) brom
+[bronchial]bronchial (EN) : (p.) oskrzelowy
+[bronchiole]bronchiole (EN) : (rz.) oskrzelik
+[bronchitis]bronchitis (EN) : (rz.) bronchit
+[bronchus]bronchus (EN) : (rz.) oskrzele
+[bronze]bronze (EN) : (rz.) brąz; (rz.) brązowanie; (rz.) spiż
+[bronzed]bronzed (EN) : (p.) brązowy
+[bronzer]bronzer (EN) : (rz.) samoopalacz
+[bronzing]bronzing (EN) : (rz.) brązowanie; (rz.) brązownictwo; (rz.) zbrązowienie
+[brooch]brooch (EN) : (rz.) broszka
+[brooches]brooches (EN) : (rz.) brosza
+[brood]brood (EN) : (cz.) wylęgać; (cz.) wysiadywać; (cz.) zamyślać; (cz.) zamyślić; (rz.) dziatwa; (rz.) ląg; (rz.) pomiot; (rz.) potomstwo; (rz.) rasa; (rz.) stado; (rz.) wyląg
+[brooder]brooder (EN) : (rz.) kwoka; (rz.) nasiadka
+[brook]brook (EN) : (cz.) cierpieć; (cz.) znosić; (rz.) potok; (rz.) roztoka; (rz.) ruczaj; (rz.) strumień; (rz.) strumyk
+[broom]broom (EN) : (rz.) miotła; (rz.) żarnowiec
+[broom-maker]broom-maker (EN) : (rz.) miotlarz
+[broomstick]broomstick (EN) : (rz.) kij
+[broth]broth (EN) : (rz.) bulion; (rz.) polewka; (rz.) rosół
+[brothel]brothel (EN) : (rz.) burdel
+[brother]brother (EN) : (rz.) braciszek; (rz.) brat; (rz.) szwagier
+[brother-in-law]brother-in-law (EN) : (rz.) szwagier
+[brotherhood]brotherhood (EN) : (rz.) bractwo; (rz.) braterstwo; (rz.) pobratymstwo
+[brotherliness]brotherliness (EN) : (rz.) braterstwo
+[brotherly]brotherly (EN) : (p.) braterski; (p.) bratni
+[brought]brought (EN) : (cz.) przynieść; (rz.) przyprowadzenie
+[brow]brow (EN) : (rz.) brew; (rz.) brwi; (rz.) czoło; (rz.) dowierzchnia; (rz.) nadszybie; (rz.) nawis; (rz.) pochylnia
+[browbeat]browbeat (EN) : (cz.) onieśmielać; (cz.) poniewierać; (cz.) zastraszać
+[brown]brown (EN) : (cz.) obrumienić; (cz.) przyrumienić; (cz.) zasmażać; (p.) brązowy; (p.) brunatny; (rz.) brąz; (rz.) miedziak
+[brownie]brownie (EN) : (rz.) harcerka; (rz.) krasnal; (rz.) krasnolud; (rz.) krasnoludek; (rz.) skrzat
+[browning]browning (EN) : (rz.) brązowienie; (rz.) browning; (rz.) czernienie; (rz.) oksydowanie; (rz.) rumienienie
+[brownish]brownish (EN) : (p.) brązowawy; (p.) brunatnawy
+[brows]brows (EN) : (rz.) brwi
+[browse]browse (EN) : (cz.) paść; (cz.) przeglądać; (cz.) przeszukiwać; (cz.) rozglądać; (cz.) wertować
+[browser]browser (EN) : (rz.) przeglądarka; (rz.) szperacz
+[browsing]browsing (EN) : (rz.) pastwisko; (rz.) pasza; (rz.) szperanie
+[brucellosis]brucellosis (EN) : (rz.) bruceloza
+[bruise]bruise (EN) : (cz.) kontuzjować; (cz.) obijać; (cz.) odgnieść; (cz.) posiniaczyć; (cz.) potłuc; (cz.) sinieć; (cz.) śrutować; (cz.) zadrasnąć; (rz.) guz; (rz.) obicie; (rz.) obtłuczenie; (rz.) potłuczenie; (rz.) siniak; (rz.) siniec; (rz.) stłuczenie; (rz.) zaciek; (rz.) zadraśnięcie
+[bruiser]bruiser (EN) : (rz.) osiłek
+[bruising]bruising (EN) : (rz.) posiniaczenie
+[brume]brume (EN) : (rz.) mgła
+[brunch]brunch (EN) : (rz.) przekąska
+[brunet]brunet (EN) : (rz.) brunet
+[brunette]brunette (EN) : (rz.) brunetka
+[brunt]brunt (EN) : (rz.) impet; (rz.) siła
+[brush]brush (EN) : (cz.) czyścić; (cz.) ocierać; (cz.) oczyszczać; (cz.) przeczesać; (cz.) szczotkować; (cz.) wyszczotkować; (cz.) wyszorować; (cz.) zamiatać; (cz.) zmieść; (rz.) chrust; (rz.) cyklina; (rz.) froterka; (rz.) kita; (rz.) krzak; (rz.) pędzel; (rz.) potyczka; (rz.) szczotka; (rz.) utarczka; (rz.) zmiotka
+[brush-wood]brush-wood (EN) : (rz.) chrust
+[brushing]brushing (EN) : (rz.) szczotkowanie
+[brushwood]brushwood (EN) : (rz.) chaszcze; (rz.) chrust; (rz.) zarośla
+[brushy]brushy (EN) : (p.) krzaczasty
+[brusque]brusque (EN) : (p.) obcesowy; (p.) szorstki
+[brusquely]brusquely (EN) : (p-sł.) opryskliwie
+[brusqueness]brusqueness (EN) : (rz.) obcesowość; (rz.) opryskliwość; (rz.) szorstkość
+[brut]brut (EN) : (p.) wytrawny
+[brutal]brutal (EN) : (p.) brutalny; (p.) nieuprzejmy
+[brutalism]brutalism (EN) : (rz.) brutalizm
+[brutality]brutality (EN) : (rz.) brutalność
+[brutalization]brutalization (EN) : (rz.) brutalizacja
+[brutalize]brutalize (EN) : (cz.) brutalizować; (cz.) ogłupiać; (cz.) ogłupić
+[brutally]brutally (EN) : (p-sł.) brutalnie
+[brute]brute (EN) : (p.) brutalny; (p.) bydlęcy; (p.) zwierzęcy; (rz.) brutal; (rz.) bydlę; (rz.) cham; (rz.) okrutnik
+[brutish]brutish (EN) : (p.) brutalny; (p.) bydlęcy
+[brutishness]brutishness (EN) : (rz.) bestialstwo; (rz.) brutalność
+[bubble]bubble (EN) : (cz.) bulgotać; (cz.) entuzjazmować; (cz.) wrzeć; (rz.) bąbel; (rz.) balon; (rz.) balonik; (rz.) bańka; (rz.) pęcherz; (rz.) pęcherzyk
+[bubbler]bubbler (EN) : (rz.) bełkotka
+[bubbling]bubbling (EN) : (rz.) bulgotanie; (rz.) musowanie
+[bubbly]bubbly (EN) : (p.) entuzjastyczny
+[bubo]bubo (EN) : (rz.) dymienica
+[bubonic]bubonic (EN) : (p.) morowy
+[buccaneer]buccaneer (EN) : (rz.) korsarz; (rz.) pirat
+[buck]buck (EN) : (rz.) bubek; (rz.) dandys; (rz.) dolar; (rz.) jeleń; (rz.) kozioł; (rz.) królik; (rz.) samiec
+[bucked]bucked (EN) : (p.) szczęśliwy
+[bucket]bucket (EN) : (cz.) zegnać; (rz.) ceber; (rz.) kibel; (rz.) komplet; (rz.) kubeł; (rz.) pakiet; (rz.) wiaderko; (rz.) wiadro; (rz.) zawartość
+[bucketful]bucketful (EN) : (rz.) wiadro
+[bucking]bucking (EN) : (rz.) kozioł
+[buckish]buckish (EN) : (p.) fircykowaty; (p.) koźli; (p.) kozłowy
+[buckle]buckle (EN) : (cz.) odkształcać; (cz.) odkształcić; (cz.) przypiąć; (cz.) spinać; (cz.) zapinać; (rz.) klamerka; (rz.) klamra; (rz.) sprzączka; (rz.) zapięcie; (rz.) zapinka
+[buckling]buckling (EN) : (rz.) paczenie; (rz.) wykrzywienie
+[bucko]bucko (EN) : (rz.) zawadiaka
+[buckra]buckra (EN) : (rz.) pan
+[buckram]buckram (EN) : (rz.) klejonka
+[bucks]bucks (EN) : (rz.) bryka
+[buckshee]buckshee (EN) : (rz.) repeta
+[buckskin]buckskin (EN) : (rz.) skóra
+[buckthorn]buckthorn (EN) : (rz.) szakłak
+[buckwheat]buckwheat (EN) : (rz.) gryka; (rz.) hreczka
+[bucolic]bucolic (EN) : (p.) bukoliczny; (p.) pastoralny; (rz.) bukolika; (rz.) pastorałka; (rz.) sielanka
+[bucolical]bucolical (EN) : (p.) pastoralny; (rz.) sielanka
+[bud]bud (EN) : (cz.) lęgnąć; (cz.) oczkować; (cz.) okulizować; (cz.) pączkować; (cz.) rozkwitać; (rz.) pączek; (rz.) pąk; (rz.) zarodek
+[budding]budding (EN) : (rz.) okulizacja; (rz.) okulizowanie; (rz.) pączkowanie; (rz.) rozkwitanie; (rz.) zarodkowanie
+[buddle]buddle (EN) : (cz.) płukać; (cz.) przemywać
+[buddy]buddy (EN) : (rz.) kompan; (rz.) kumpel; (rz.) przyjaciel
+[buddy-buddy]buddy-buddy (EN) : (rz.) kumpel
+[budge]budge (EN) : (cz.) poruszyć; (cz.) ruszać
+[budgerigar]budgerigar (EN) : (rz.) nierozłączka
+[budget]budget (EN) : (rz.) budżet
+[budgetary]budgetary (EN) : (p.) budżetowy
+[budgeting]budgeting (EN) : (rz.) asygnowanie
+[buff]buff (EN) : (cz.) polerować; (p.) bawoli; (p.) płowożółty; (p.) płowy; (rz.) znawca
+[buffalo]buffalo (EN) : (rz.) bawół
+[buffer]buffer (EN) : (rz.) bufor; (rz.) odbój; (rz.) zderzak
+[buffer-multiplexer]buffer-multiplexer (EN) : (rz.) bufor-multiplekser
+[buffering]buffering (EN) : (rz.) buforowanie
+[buffet]buffet (EN) : (rz.) bufet; (rz.) kredens; (rz.) uderzenie
+[buffeting]buffeting (EN) : (rz.) buffeting; (rz.) szturchanie; (rz.) trzepotanie
+[buffoon]buffoon (EN) : (rz.) błazen; (rz.) bufon; (rz.) kabotyn; (rz.) pajac
+[buffoonery]buffoonery (EN) : (rz.) arlekinada; (rz.) bufonada; (rz.) kabotynizm
+[bug]bug (EN) : (cz.) gryźć; (cz.) spieprzyć; (cz.) wkurzać; (rz.) błąd; (rz.) elektron; (rz.) pluskwa; (rz.) podsłuch; (rz.) robak; (rz.) wada; (rz.) wirus
+[bugaboo]bugaboo (EN) : (rz.) postrach
+[bugbear]bugbear (EN) : (rz.) straszak; (rz.) straszydło
+[bugger]bugger (EN) : (rz.) homoseksualista; (rz.) sodomita; (rz.) żart
+[buggery]buggery (EN) : (rz.) pederastia; (rz.) sodomia
+[bugging]bugging (EN) : (rz.) pluskwa; (rz.) podsłuch
+[buggy]buggy (EN) : (rz.) powozik; (rz.) spacerówka; (rz.) wagonik
+[bugle]bugle (EN) : (rz.) hejnał; (rz.) róg; (rz.) trąbka
+[bugler]bugler (EN) : (rz.) trębacz
+[bugloss]bugloss (EN) : (rz.) miodunka
+[build]build (EN) : (cz.) bazować; (cz.) budować; (cz.) dobudować; (cz.) kompilować; (cz.) konstruować; (cz.) murować; (cz.) obudować; (cz.) opierać; (cz.) rozbudowywać; (cz.) skompilować; (cz.) skonstruować; (cz.) wbudować; (cz.) wmurować; (cz.) wybudować; (cz.) wymurować; (cz.) wznieść; (cz.) wznosić; (cz.) zabudować; (cz.) zamurować; (cz.) zbudować; (rz.) bazowanie; (rz.) budowa; (rz.) budowanie; (rz.) konstrukcja; (rz.) wybudowanie; (rz.) zbudowanie
+[build-up]build-up (EN) : (rz.) narastanie; (rz.) powiększanie; (rz.) przyrost; (rz.) rozbudowa; (rz.) wzrost
+[building]building (EN) : (rz.) budowa; (rz.) budowla; (rz.) budownictwo; (rz.) budynek; (rz.) gmach; (rz.) podbudowanie; (rz.) wybudowanie; (rz.) zabudowanie
+[buildings]buildings (EN) : (rz.) zabudowa; (rz.) zabudowanie
+[built-in]built-in (EN) : (p.) wbudowany; (p.) zintegrowany
+[bulb]bulb (EN) : (rz.) bańka; (rz.) bulwa; (rz.) cebula; (rz.) cebulka; (rz.) opuszka; (rz.) żarówka
+[bulbous]bulbous (EN) : (p.) bulwiasty; (p.) cebulasty; (p.) cebulkowaty; (p.) dyniasty
+[bulbul]bulbul (EN) : (rz.) słowik; (rz.) wschodni
+[bulge]bulge (EN) : (cz.) dymać; (cz.) nabrzmiewać; (cz.) nadymać; (cz.) spęcznieć; (cz.) spuchnąć; (cz.) wybrzuszać; (cz.) wybrzuszyć; (cz.) wydymać; (rz.) nabrzmienie; (rz.) podwyższenie; (rz.) przewaga; (rz.) wybrzuszenie; (rz.) wypukłość; (rz.) wzdęcie
+[bulging]bulging (EN) : (p.) baniasty; (p.) brzuchaty; (p.) wyłupiasty
+[bulgy]bulgy (EN) : (p.) beczkowaty; (p.) beczkowy
+[bulk]bulk (EN) : (rz.) masa; (rz.) objętość; (rz.) większość; (rz.) wielkość
+[bulkhead]bulkhead (EN) : (rz.) grodź; (rz.) gródź; (rz.) grodza; (rz.) przegroda; (rz.) przepierzenie
+[bulky]bulky (EN) : (p.) duży; (p.) gruby; (p.) masywny; (p.) nieporęczny; (p.) objętościowy; (p.) przestrzenny; (p.) zwalisty
+[bull]bull (EN) : (rz.) buhaj; (rz.) bulla; (rz.) byk; (rz.) cielec; (rz.) samiec
+[bull's]bull's (EN) : (p.) byczy
+[bull-terrier]bull-terrier (EN) : (rz.) bulterier
+[bulldog]bulldog (EN) : (rz.) bokser; (rz.) buldog
+[bulldoze]bulldoze (EN) : (cz.) kopać; (cz.) niszczyć; (cz.) przemieszczać; (cz.) zastraszać; (cz.) zniszczyć
+[bulldozer]bulldozer (EN) : (rz.) buldożer; (rz.) spychacz; (rz.) spycharka
+[bullet]bullet (EN) : (rz.) kula; (rz.) kulka; (rz.) nabój; (rz.) pocisk
+[bullet-proof]bullet-proof (EN) : (p.) kuloodporny; (p.) opancerzony
+[bulleted]bulleted (EN) : (p.) punktowany
+[bulletin]bulletin (EN) : (rz.) biuletyn; (rz.) gazetka; (rz.) komunikat
+[bullfight]bullfight (EN) : (rz.) korrida; (rz.) walka
+[bullfighter]bullfighter (EN) : (rz.) torreador
+[bullfinch]bullfinch (EN) : (rz.) gil
+[bullhead]bullhead (EN) : (rz.) piaskownica
+[bullion]bullion (EN) : (rz.) kruszec; (rz.) ozdoba; (rz.) złoto
+[bullish]bullish (EN) : (p.) zwyżkowy
+[bullock]bullock (EN) : (rz.) byk; (rz.) wół
+[bullshit]bullshit (EN) : (rz.) brednie
+[bully]bully (EN) : (cz.) awanturować; (cz.) szaleć; (cz.) terroryzować; (cz.) znęcać; (rz.) brutal; (rz.) gnój; (rz.) terrorysta; (rz.) tyran; (rz.) zabijaka
+[bullyrag]bullyrag (EN) : (cz.) wyprawiać
+[bulrush]bulrush (EN) : (rz.) oczeret; (rz.) sitowie
+[bulwark]bulwark (EN) : (rz.) mur; (rz.) nadburcie; (rz.) przedmurze; (rz.) wał
+[bulwarks]bulwarks (EN) : (rz.) nadburcie
+[bum]bum (EN) : (rz.) przypalenie; (rz.) tyłek; (rz.) włóczęga; (rz.) zadek; (rz.) żebrak
+[bumble-bee]bumble-bee (EN) : (rz.) trzmiel
+[bumblebee]bumblebee (EN) : (rz.) trzmiel
+[bump]bump (EN) : (cz.) turkotać; (cz.) uderzać; (cz.) uderzyć; (cz.) wpadać; (cz.) zderzać; (cz.) zderzyć; (rz.) guz; (rz.) guzek; (rz.) stłuczka; (rz.) uderzenie; (rz.) wybój
+[bumper]bumper (EN) : (rz.) ochraniacz; (rz.) puchar; (rz.) zderzak
+[bumping]bumping (EN) : (rz.) podskakiwanie; (rz.) rozciąganie; (rz.) wybój
+[bumpkin]bumpkin (EN) : (rz.) chłopek; (rz.) gamoń; (rz.) głupek; (rz.) niedojda; (rz.) prostak
+[bumptiousness]bumptiousness (EN) : (rz.) przemądrzałość
+[bumpy]bumpy (EN) : (p.) nierówny; (p.) wyboisty
+[bun]bun (EN) : (rz.) bułka; (rz.) drożdżówka; (rz.) kok; (rz.) koka; (rz.) szynion
+[bunch]bunch (EN) : (rz.) bukiet; (rz.) ferajna; (rz.) grupa; (rz.) kiść; (rz.) pęczek; (rz.) pęk; (rz.) wiązanka; (rz.) wiązka
+[bund]bund (EN) : (rz.) grobla; (rz.) nadbrzeże; (rz.) obwałowanie; (rz.) tama
+[bundle]bundle (EN) : (rz.) paczka; (rz.) pakunek; (rz.) pęk; (rz.) plik; (rz.) tłumok; (rz.) tobół; (rz.) tobołek; (rz.) węzełek; (rz.) wiązka; (rz.) zawiniątko; (rz.) zwitek
+[bung]bung (EN) : (rz.) bujda; (rz.) korek; (rz.) szpunt; (rz.) zatyczka
+[bungalow]bungalow (EN) : (rz.) bungalow
+[bungle]bungle (EN) : (cz.) klecić; (cz.) knocić; (cz.) partaczyć; (cz.) paskudzić; (cz.) patałaszyć; (cz.) schrzanić; (cz.) sknocić; (cz.) spaprać; (cz.) spartaczyć; (rz.) fuszerka; (rz.) partactwo; (rz.) partanina
+[bungler]bungler (EN) : (rz.) bałaganiarz; (rz.) fuszer; (rz.) partacz
+[bungling]bungling (EN) : (rz.) fuszerowanie; (rz.) partactwo; (rz.) partaczenie
+[bunk]bunk (EN) : (rz.) koja; (rz.) łóżko; (rz.) prycza
+[bunker]bunker (EN) : (rz.) bunkier; (rz.) węglownia; (rz.) zasobnia; (rz.) zasobnik
+[bunkering]bunkering (EN) : (rz.) bunkrowanie
+[bunkum]bunkum (EN) : (rz.) bzdura; (rz.) nonsens; (rz.) pustosłowie; (rz.) zgrywa
+[bunny]bunny (EN) : (rz.) królik
+[bunt]bunt (EN) : (rz.) wybrzuszenie; (rz.) wywrót
+[bunting]bunting (EN) : (rz.) trznadel
+[buntings]buntings (EN) : (rz.) trznadel
+[buoy]buoy (EN) : (cz.) podtrzymać; (cz.) trzymać; (rz.) boja; (rz.) pława
+[buoyancy]buoyancy (EN) : (rz.) pływalność; (rz.) prężność
+[buoyant]buoyant (EN) : (p.) pławny; (p.) prężny; (p.) radosny; (p.) stateczny
+[bur]bur (EN) : (rz.) rzep
+[burble]burble (EN) : (cz.) bulgotać; (cz.) chlipać; (cz.) mamrotać
+[burden]burden (EN) : (cz.) obarczyć; (cz.) obciążyć; (cz.) obładować; (cz.) uciemiężać; (cz.) zadłużyć; (rz.) brzemię; (rz.) ciężar; (rz.) obciążenie; (rz.) refren
+[burdening]burdening (EN) : (rz.) obarczanie
+[burdensome]burdensome (EN) : (p.) ciężki; (p.) uciążliwy
+[burdock]burdock (EN) : (rz.) łopian
+[bureau]bureau (EN) : (rz.) biurko; (rz.) biuro; (rz.) prezydium; (rz.) sekretarzyk; (rz.) urząd
+[bureaucracy]bureaucracy (EN) : (rz.) biurokracja; (rz.) biurokratyzacja
+[bureaucrat]bureaucrat (EN) : (rz.) biurokrata; (rz.) służbista
+[bureaucratic]bureaucratic (EN) : (p.) biurokratyczny; (p.) papierkowy
+[bureaucratically]bureaucratically (EN) : (p-sł.) biurokratycznie
+[bureaucratization]bureaucratization (EN) : (rz.) biurokratyzacja
+[burette]burette (EN) : (rz.) biureta; (rz.) miarówka
+[burgeon]burgeon (EN) : (cz.) pączkować; (cz.) rozrastać
+[burger]burger (EN) : (rz.) burger; (rz.) hamburger
+[burgess]burgess (EN) : (rz.) obywatel
+[burgh]burgh (EN) : (rz.) miasto
+[burgher]burgher (EN) : (rz.) mieszczanin
+[burglar]burglar (EN) : (rz.) włamywacz
+[burglarize]burglarize (EN) : (cz.) włamać
+[burglarizing]burglarizing (EN) : (rz.) włamywanie
+[burglary]burglary (EN) : (rz.) bandytyzm; (rz.) włamanie
+[burgle]burgle (EN) : (cz.) włamać; (cz.) włamywać
+[burgomaster]burgomaster (EN) : (rz.) burmistrz
+[burgoo]burgoo (EN) : (rz.) kaszka; (rz.) owsianka
+[burial]burial (EN) : (rz.) pochowanie; (rz.) pochówek; (rz.) pogrzeb; (rz.) zakopanie
+[burial-ground]burial-ground (EN) : (rz.) cmentarzysko
+[buried]buried (EN) : (cz.) pochować
+[burin]burin (EN) : (rz.) rylec
+[burke]burke (EN) : (cz.) unikać
+[burl]burl (EN) : (rz.) guz; (rz.) węzełek
+[burlesque]burlesque (EN) : (p.) burleskowy; (p.) komiczny; (rz.) burleska; (rz.) farsa
+[burliness]burliness (EN) : (rz.) krzepkość; (rz.) tężyzna
+[burly]burly (EN) : (p.) krzepki; (p.) tęgi
+[burn]burn (EN) : (cz.) gorzeć; (cz.) napalić; (cz.) opalać; (cz.) oparzyć; (cz.) osmalić; (cz.) pałać; (cz.) palić; (cz.) parzyć; (cz.) płonąć; (cz.) podpalać; (cz.) przypalać; (cz.) przypalić; (cz.) rozpalać; (cz.) spalać; (cz.) spalić; (cz.) sparzyć; (cz.) spopieleć; (cz.) wypalać; (cz.) wypalić; (cz.) zapalać; (rz.) dym; (rz.) oparzelina; (rz.) oparzelizna; (rz.) oparzenie; (rz.) piec; (rz.) poparzenie; (rz.) wypalanie; (rz.) wypalenie
+[burner]burner (EN) : (rz.) palnik; (rz.) wypalacz
+[burnet]burnet (EN) : (rz.) krwiściąg
+[burning]burning (EN) : (rz.) palenie; (rz.) parzenie; (rz.) przypalenie; (rz.) spalanie; (rz.) spalenie; (rz.) spalenizna; (rz.) sparzenie; (rz.) spopielanie; (rz.) wstyd; (rz.) wypalanie; (rz.) wypalenie
+[burning-on]burning-on (EN) : (rz.) nadlewanie
+[burnish]burnish (EN) : (cz.) polerować; (cz.) wypolerować; (rz.) dogniatanie
+[burnishing]burnishing (EN) : (rz.) nagniatanie
+[burnoose]burnoose (EN) : (rz.) burnus
+[burnout]burnout (EN) : (rz.) wycieńczenie; (rz.) wypalenie
+[burnt]burnt (EN) : (p.) całopalny; (p.) palony; (p.) spalony; (p.) wypalony
+[burp]burp (EN) : (cz.) bekać; (rz.) beknięcie; (rz.) cofka
+[burr]burr (EN) : (rz.) osełka; (rz.) rąbek; (rz.) rzep; (rz.) wytłoczka; (rz.) zadzior; (rz.) zalewka; (rz.) zendrówka
+[burr-drill]burr-drill (EN) : (rz.) wiertło
+[burro]burro (EN) : (rz.) osioł
+[burrow]burrow (EN) : (cz.) ryć; (rz.) dziura; (rz.) hałda; (rz.) jama; (rz.) nora; (rz.) wysypisko
+[bursa]bursa (EN) : (rz.) torebka
+[bursar]bursar (EN) : (rz.) kwestor
+[bursary]bursary (EN) : (rz.) kwestura; (rz.) stypendium
+[burst]burst (EN) : (cz.) pękać; (cz.) przebijać; (cz.) rozerwać; (cz.) rozlecieć; (cz.) rozsadzać; (cz.) wtargnąć; (cz.) wybuchać; (cz.) wylatywać; (rz.) huragan; (rz.) pęknięcie; (rz.) porcja; (rz.) rozerwanie; (rz.) rozprysk; (rz.) wybuch; (rz.) zryw
+[burst-up]burst-up (EN) : (rz.) bankructwo; (rz.) upadek
+[bursting]bursting (EN) : (rz.) pęknięcie; (rz.) rozsadzenie
+[burthen]burthen (EN) : (cz.) obarczyć; (cz.) obciążyć; (cz.) obładować; (cz.) uciemiężać; (rz.) brzemię; (rz.) ciężar; (rz.) obciążenie; (rz.) refren
+[bury]bury (EN) : (cz.) chować; (cz.) grzebać; (cz.) pochować; (cz.) zakopać; (cz.) zakopywać
+[burying]burying (EN) : (rz.) pochowanie; (rz.) pogrzebanie; (rz.) zagrzebanie; (rz.) zakopanie
+[bus]bus (EN) : (rz.) autobus; (rz.) magistrala; (rz.) szyna
+[bus-bars]bus-bars (EN) : (rz.) magistrala
+[bush]bush (EN) : (rz.) busz; (rz.) gąszcz; (rz.) krzak; (rz.) krzew; (rz.) panew; (rz.) tuleja; (rz.) tulejka; (rz.) zarośla
+[bushel]bushel (EN) : (rz.) buszel; (rz.) korzec
+[bushing]bushing (EN) : (rz.) tulejka
+[bushy]bushy (EN) : (p.) bujny; (p.) gęsty; (p.) krzaczasty; (p.) sumiasty
+[busily]busily (EN) : (p-sł.) pracowicie; (p-sł.) skrzętnie
+[business]business (EN) : (rz.) biznes; (rz.) branża; (rz.) firma; (rz.) interes; (rz.) mikroekonomia; (rz.) przedsiębiorstwo; (rz.) sprawa; (rz.) transakcja; (rz.) zajęcie
+[business-like]business-like (EN) : (p.) dokładny; (p.) rzeczowy; (p.) solidny
+[businesslike]businesslike (EN) : (p.) dokładny; (p.) konkretny; (p.) praktyczny; (p.) rzeczowy; (p.) solidny
+[businessman]businessman (EN) : (rz.) biznesmen; (rz.) handlowiec; (rz.) kupiec; (rz.) przedsiębiorca; (rz.) przemysłowiec
+[businesswoman]businesswoman (EN) : (rz.) businesswoman
+[busker]busker (EN) : (rz.) grajek
+[buskin]buskin (EN) : (rz.) koturn
+[buskined]buskined (EN) : (p.) koturnowy
+[busman]busman (EN) : (rz.) konduktor
+[buss]buss (EN) : (cz.) całować; (rz.) całus
+[bust]bust (EN) : (cz.) pryskać; (cz.) rozsadzać; (cz.) rwać; (cz.) splajtować; (rz.) biust; (rz.) popiersie
+[bustard]bustard (EN) : (rz.) drop
+[buster]buster (EN) : (rz.) popiersie
+[bustle]bustle (EN) : (rz.) bieganina; (rz.) krzątanina; (rz.) latanina; (rz.) rozgardiasz; (rz.) zgiełk
+[bustling]bustling (EN) : (p.) gwarny; (p.) rojny; (p.) skrzętny; (rz.) uwijanie
+[busy]busy (EN) : (p.) czynny; (p.) rojny; (p.) ruchliwy; (p.) skrzętny; (p.) zajęty
+[but]but (EN) : (p-im.) oprócz; (p-sł.) tylko; (p-sł.) zaledwie; (spójnik) ale; (spójnik) jednak; (spójnik) jednakże; (spójnik) lecz
+[butadiene]butadiene (EN) : (rz.) butadien
+[butane]butane (EN) : (rz.) butan
+[butcher]butcher (EN) : (cz.) mordować; (cz.) wyrzynać; (cz.) zarzynać; (rz.) masarz; (rz.) mordowanie; (rz.) oprawca; (rz.) rzeźnik; (rz.) wyrzynanie
+[butcher's]butcher's (EN) : (rz.) rzeźnia
+[butchery]butchery (EN) : (rz.) masakra; (rz.) rzeź; (rz.) rzeźnia; (rz.) rzeźnictwo; (rz.) ubój
+[butcher’s]butcher’s (EN) : (rz.) masarnia
+[butler]butler (EN) : (rz.) kamerdyner; (rz.) lokaj
+[butt]butt (EN) : (cz.) uderzać; (cz.) walić; (rz.) dupa; (rz.) kolba; (rz.) krupon; (rz.) kulochwyt; (rz.) niedopałek; (rz.) odziomek; (rz.) rękojeść; (rz.) tarcza
+[butte]butte (EN) : (rz.) wzgórze
+[butter]butter (EN) : (cz.) maścić; (rz.) masło; (rz.) omasta
+[butter-dish]butter-dish (EN) : (rz.) maselniczka
+[buttercup]buttercup (EN) : (rz.) jaskier; (rz.) jaskra
+[butterfingered]butterfingered (EN) : (p.) ślamazarny; (p.) ślimakowaty
+[butterfingers]butterfingers (EN) : (rz.) fajtłapa; (rz.) niezgraba; (rz.) ślamazara
+[butterfly]butterfly (EN) : (rz.) motyl; (rz.) motylek; (rz.) przepustnica
+[buttermilk]buttermilk (EN) : (rz.) maślanka
+[butterscotch]butterscotch (EN) : (rz.) karmel
+[buttery]buttery (EN) : (rz.) spiżarnia
+[butthead]butthead (EN) : (rz.) matoł
+[buttock]buttock (EN) : (rz.) pośladek; (rz.) zad; (rz.) zadek
+[buttocks]buttocks (EN) : (rz.) dupa; (rz.) pośladek; (rz.) zad
+[button]button (EN) : (cz.) dopinać; (cz.) zapinać; (rz.) guz; (rz.) guzik; (rz.) przycisk
+[buttonhole]buttonhole (EN) : (rz.) butonierka; (rz.) dziurka
+[buttons]buttons (EN) : (rz.) pikolak
+[buttonwood]buttonwood (EN) : (rz.) platan
+[buttress]buttress (EN) : (cz.) podeprzeć; (cz.) podpierać; (cz.) podtrzymywać; (cz.) wzmacniać; (rz.) podpora; (rz.) przypora; (rz.) skarpa
+[butyl]butyl (EN) : (rz.) butyl
+[butyric]butyric (EN) : (p.) masłowy
+[buxom]buxom (EN) : (p.) dorodny; (p.) hoży
+[buy]buy (EN) : (cz.) dokupić; (cz.) kupić; (cz.) kupować; (cz.) nabyć; (cz.) nasprowadzać; (cz.) odkupić; (cz.) okupić; (cz.) okupywać; (cz.) skupować; (cz.) wykupić; (cz.) zakupić; (cz.) zaopatrywać; (rz.) abonament; (rz.) kupno; (rz.) kupowanie; (rz.) zakup
+[buyback]buyback (EN) : (cz.) wykupić; (cz.) wykupywać
+[buyer]buyer (EN) : (rz.) klient; (rz.) kupiec; (rz.) nabywca
+[buying]buying (EN) : (rz.) kupno; (rz.) kupowanie; (rz.) wykupienie
+[buyout]buyout (EN) : (rz.) wykup
+[buzz]buzz (EN) : (cz.) brzęczeć; (cz.) burczeć; (cz.) bzyczeć; (cz.) bzykać; (cz.) furczeć; (cz.) furkać; (cz.) naprzykrzać; (rz.) brzęczenie; (rz.) buczenie; (rz.) furkot; (rz.) gwar; (rz.) pulsowanie
+[buzzard]buzzard (EN) : (rz.) myszołów
+[buzzer]buzzer (EN) : (rz.) brzęczyk; (rz.) syrena
+[buzzing]buzzing (EN) : (rz.) brzęczenie; (rz.) szum
+[buzzword]buzzword (EN) : (rz.) bełkot; (rz.) mowa-trawa
+[by]by (EN) : (p-im.) do; (p-im.) przed; (p-im.) przez; (p-im.) przy; (p-im.) za; (p-sł.) blisko; (p-sł.) około; (p-sł.) poprzez
+[by-pass]by-pass (EN) : (cz.) obchodzić; (cz.) omijać; (rz.) bocznik; (rz.) obejście; (rz.) objazd; (rz.) obwodnica
+[by-passing]by-passing (EN) : (p.) objazdowy
+[byelaw]byelaw (EN) : (rz.) regulamin; (rz.) statut
+[bygone]bygone (EN) : (p.) miniony; (p.) przeszły
+[bylaw]bylaw (EN) : (rz.) regulamin; (rz.) statut; (rz.) zarządzenie
+[bypass]bypass (EN) : (cz.) obchodzić; (cz.) objechać; (cz.) objeżdżać; (cz.) omijać; (rz.) obejście; (rz.) objazd; (rz.) obwodnica
+[byre]byre (EN) : (rz.) obora; (rz.) oboranie
+[bystander]bystander (EN) : (rz.) obserwator; (rz.) świadek; (rz.) widz
+[bystreet]bystreet (EN) : (rz.) uliczka
+[byte]byte (EN) : (rz.) bajt
+[byte-serial]byte-serial (EN) : (p.) bajtowy
+[byway]byway (EN) : (rz.) skrót
+[byword]byword (EN) : (rz.) porzekadło; (rz.) powiedzenie; (rz.) powiedzonko; (rz.) przysłowie

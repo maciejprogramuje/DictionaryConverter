@@ -1,0 +1,956 @@
+[laura]Laura (PL) : (rz.) Laura
+[leon]Leon (PL) : (rz.) Leo
+[liliana]Liliana (PL) : (rz.) Lilly
+[labiedzic]labiedzić (PL) : (cz.) gripe
+[labilny]labilny (PL) : (p.) labile
+[labirynt]labirynt (PL) : (rz.) labyrinth; (rz.) maze
+[labiryntowy]labiryntowy (PL) : (p.) labyrinthine
+[laborant]laborant (PL) : (rz.) laboratory
+[laboratorium]laboratorium (PL) : (rz.) lab; (rz.) laboratory
+[laboratoryjny]laboratoryjny (PL) : (p.) laboratory
+[laburzysta]laburzysta (PL) : (rz.) labourite
+[lada]lada (PL) : (rz.) counter
+[ladacznica]ladacznica (PL) : (rz.) harlot; (rz.) strumpet; (rz.) whore
+[lafirynda]lafirynda (PL) : (rz.) floozy; (rz.) tart
+[laguna]laguna (PL) : (rz.) lagoon
+[laicki]laicki (PL) : (p.) lay; (p.) secular
+[laicyzacja]laicyzacja (PL) : (rz.) secularization
+[laicyzowac]laicyzować (PL) : (cz.) laicize
+[laik]laik (PL) : (rz.) layman; (rz.) outsider
+[lak]lak (PL) : (rz.) sealing-wax; (rz.) wax
+[laka]laka (PL) : (rz.) lacquer; (rz.) mead
+[lakier]lakier (PL) : (rz.) lacquer; (rz.) paint; (rz.) varnish
+[lakiernik]lakiernik (PL) : (rz.) painter
+[lakierowanie]lakierowanie (PL) : (rz.) painting
+[lakierowac]lakierować (PL) : (cz.) lacquer; (cz.) paint; (cz.) varnish
+[lakmus]lakmus (PL) : (rz.) litmus
+[lakonicznie]lakonicznie (PL) : (p-sł.) briefly; (p-sł.) curtly; (p-sł.) laconically
+[lakonicznosc]lakoniczność (PL) : (rz.) briefness
+[lakoniczny]lakoniczny (PL) : (p.) curt; (p.) laconic; (p.) short; (p.) terse
+[lakowac]lakować (PL) : (cz.) seal
+[lakrymator]lakrymator (PL) : (rz.) lachrymator
+[laktacja]laktacja (PL) : (rz.) lactation
+[laktaza]laktaza (PL) : (rz.) lactase
+[laktodensymetr]laktodensymetr (PL) : (rz.) lactometer
+[laktoflawina]laktoflawina (PL) : (rz.) riboflavin
+[laktometr]laktometr (PL) : (rz.) lactometer
+[laktoza]laktoza (PL) : (rz.) lactose
+[lala]lala (PL) : (rz.) doll
+[lalka]lalka (PL) : (rz.) doll; (rz.) dolly
+[lalkarz]lalkarz (PL) : (rz.) puppeteer
+[lalkowaty]lalkowaty (PL) : (p.) dollish
+[lalus]laluś (PL) : (rz.) fop
+[lama]lama (PL) : (rz.) llama
+[lambrekin]lambrekin (PL) : (rz.) lambrequin; (rz.) pelmet
+[lamela]lamela (PL) : (rz.) lamella
+[lamelka]lamelka (PL) : (rz.) fuse
+[lament]lament (PL) : (rz.) lament; (rz.) lamentation
+[lamentacja]lamentacja (PL) : (rz.) coronach; (rz.) lamentation
+[lamentowanie]lamentowanie (PL) : (rz.) mourning; (rz.) ululation
+[lamentowac]lamentować (PL) : (cz.) bemoan; (cz.) lament; (cz.) moan; (cz.) mourn; (cz.) whine
+[lameta]lameta (PL) : (rz.) tinsel
+[laminarny]laminarny (PL) : (p.) laminar
+[laminat]laminat (PL) : (rz.) fibreboard
+[laminowanie]laminowanie (PL) : (rz.) lamination
+[laminowac]laminować (PL) : (cz.) laminate
+[lamowac]lamować (PL) : (cz.) trim
+[lampa]lampa (PL) : (rz.) lamp
+[lampart]lampart (PL) : (rz.) leopard
+[lampas]lampas (PL) : (rz.) stripe
+[lamperia]lamperia (PL) : (rz.) dado
+[lampion]lampion (PL) : (rz.) lampion
+[lampka]lampka (PL) : (rz.) glass; (rz.) lamp
+[lamus]lamus (PL) : (rz.) lumber-room
+[lamowka]lamówka (PL) : (rz.) border; (rz.) edging; (rz.) fringe; (rz.) trimming; (rz.) welt
+[lanca]lanca (PL) : (rz.) lance
+[lancetnik]lancetnik (PL) : (rz.) lancelet
+[lancknecht]lancknecht (PL) : (rz.) lansquenet
+[landara]landara (PL) : (rz.) crate; (rz.) landau; (rz.) rumble-tumble
+[lando]lando (PL) : (rz.) landau
+[landrynkowy]landrynkowy (PL) : (p.) sweet
+[langusta]langusta (PL) : (rz.) crayfish
+[lanie]lanie (PL) : (rz.) beating; (rz.) leathering; (rz.) pc; (rz.) pouring; (rz.) spanking; (rz.) thrashing; (rz.) towelling
+[lanolina]lanolina (PL) : (rz.) lanolin; (rz.) lanoline
+[lansjer]lansjer (PL) : (rz.) lancer
+[lansowac]lansować (PL) : (cz.) promote
+[lantan]lantan (PL) : (rz.) lanthanum
+[lantanowiec]lantanowiec (PL) : (rz.) lanthanide
+[laparoskopia]laparoskopia (PL) : (rz.) laparoscopy
+[lapidarnosc]lapidarność (PL) : (rz.) conciseness
+[lapidarny]lapidarny (PL) : (p.) curt; (p.) lapidary; (p.) pithy; (p.) terse
+[lapsus]lapsus (PL) : (rz.) lapse; (rz.) slip
+[laptop]laptop (PL) : (rz.) laptop
+[larum]larum (PL) : (rz.) arum; (rz.) cry
+[larwa]larwa (PL) : (rz.) grub; (rz.) larva; (rz.) maggot
+[larwalny]larwalny (PL) : (p.) larval
+[laryngolog]laryngolog (PL) : (rz.) laryngologist; (rz.) laryngologists
+[laryngoskop]laryngoskop (PL) : (rz.) laryngoscope
+[las]las (PL) : (rz.) forest; (rz.) greenwood; (rz.) timber; (rz.) wood
+[lasecznik]lasecznik (PL) : (rz.) bacillus
+[lasek]lasek (PL) : (rz.) grove; (rz.) spinney; (rz.) wood
+[laser]laser (PL) : (rz.) laser
+[laserowanie]laserowanie (PL) : (rz.) lasing
+[laserowac]laserować (PL) : (cz.) glaze
+[laska]laska (PL) : (rz.) bounty; (rz.) cane; (rz.) crutch; (rz.) minim; (rz.) rod; (rz.) stick; (rz.) walking-stick
+[lasowac]lasować (PL) : (cz.) crumble; (cz.) slake
+[lastryko]lastryko (PL) : (rz.) terrazzo
+[lasy]lasy (PL) : (rz.) woodland
+[latacz]latacz (PL) : (rz.) cobbler
+[latajacy]latający (PL) : (p.) floating
+[latania]latania (PL) : (rz.) fly
+[latanie]latanie (PL) : (rz.) flying
+[latanina]latanina (PL) : (rz.) bustle; (rz.) stir
+[latarka]latarka (PL) : (rz.) flashlight; (rz.) torch
+[latarnia]latarnia (PL) : (rz.) beacon; (rz.) lamp; (rz.) lantern; (rz.) streetlamp
+[latarniany]latarniany (PL) : (p.) streetlamp
+[latarniowiec]latarniowiec (PL) : (rz.) lightship
+[latarniowy]latarniowy (PL) : (p.) streetlamp
+[latawica]latawica (PL) : (rz.) gadabout; (rz.) hussy; (rz.) loafer
+[latawiec]latawiec (PL) : (rz.) flier; (rz.) flyer; (rz.) kite
+[latac]latać (PL) : (cz.) flit; (cz.) flitter; (cz.) fly; (cz.) navigate; (cz.) swim
+[lateks]lateks (PL) : (rz.) latex
+[lato]lato (PL) : (rz.) summer; (rz.) summertime
+[latorosl]latorośl (PL) : (rz.) branch; (rz.) grapevine; (rz.) offspring; (rz.) outgrowth; (rz.) scion; (rz.) sprig; (rz.) sprout; (rz.) vine
+[latryna]latryna (PL) : (rz.) latrine
+[laubzega]laubzega (PL) : (rz.) fretsaw; (rz.) fret-saw; (rz.) jigsaw
+[laudanum]laudanum (PL) : (rz.) laudanum
+[laufer]laufer (PL) : (rz.) bishop
+[laureat]laureat (PL) : (rz.) laureate; (rz.) prize-winner; (rz.) winner
+[laurka]laurka (PL) : (rz.) card
+[laury]laury (PL) : (rz.) laurels
+[lawa]lawa (PL) : (rz.) lava
+[lawenda]lawenda (PL) : (rz.) lavender
+[laweta]laweta (PL) : (rz.) gun-carriage
+[lawina]lawina (PL) : (rz.) avalanche
+[lawirant]lawirant (PL) : (rz.) trimmer
+[lawirowac]lawirować (PL) : (cz.) beat; (cz.) prevaricate; (cz.) tack
+[lawowanie]lawowanie (PL) : (rz.) lava
+[lazaret]lazaret (PL) : (rz.) hospital
+[lazur]lazur (PL) : (rz.) azure; (rz.) blue
+[lazurowy]lazurowy (PL) : (p.) azure
+[lac]lać (PL) : (cz.) beat; (cz.) gush; (cz.) pour; (cz.) thrash; (cz.) whop
+[leasingowy]leasingowy (PL) : (p.) leasing
+[lebioda]lebioda (PL) : (rz.) pigweed
+[lebiodka]lebiodka (PL) : (rz.) oregano
+[leciec]lecieć (PL) : (cz.) dart; (cz.) dash; (cz.) flee; (cz.) fly; (cz.) skitter
+[leciwy]leciwy (PL) : (p.) elderly
+[lecytyna]lecytyna (PL) : (rz.) lecithin
+[lecz]lecz (PL) : (spójnik) but
+[leczenie]leczenie (PL) : (rz.) cure; (rz.) curing; (rz.) healing; (rz.) medication; (rz.) therapy; (rz.) treatment
+[lecznica]lecznica (PL) : (rz.) clinic; (rz.) infirmary
+[lecznictwo]lecznictwo (PL) : (rz.) therapeutics
+[leczniczy]leczniczy (PL) : (p.) curative; (p.) healing; (p.) medical; (p.) medicinal; (p.) prophylactic; (p.) therapeutic
+[leczyc]leczyć (PL) : (cz.) cure; (cz.) heal; (cz.) medicate; (cz.) remedy; (cz.) treat
+[ledwie]ledwie (PL) : (p-sł.) barely; (p-sł.) hardly; (p-sł.) scarcely
+[ledwo]ledwo (PL) : (p-sł.) almost; (p-sł.) barely; (p-sł.) hardly; (p-sł.) narrowly; (p-sł.) scarcely
+[legacja]legacja (PL) : (rz.) legation
+[legalista]legalista (PL) : (rz.) legalist
+[legalizacja]legalizacja (PL) : (rz.) authentication; (rz.) legalization; (rz.) validation; (rz.) verification
+[legalizm]legalizm (PL) : (rz.) legitimacy
+[legalizowac]legalizować (PL) : (cz.) attest; (cz.) legalize; (cz.) legitimize; (cz.) validate
+[legalnie]legalnie (PL) : (p-sł.) lawfully; (p-sł.) legally
+[legalnosc]legalność (PL) : (rz.) lawfulness; (rz.) legality; (rz.) legitimacy
+[legalny]legalny (PL) : (p.) aboveboard; (p.) lawful; (p.) legal; (p.) legitimate; (p.) licit; (p.) rightful
+[legar]legar (PL) : (rz.) beam; (rz.) joist; (rz.) sleeper
+[legat]legat (PL) : (rz.) bequest; (rz.) legacy; (rz.) legate
+[legawiec]legawiec (PL) : (rz.) pointer; (rz.) setter
+[legenda]legenda (PL) : (rz.) key; (rz.) legend
+[legendarnie]legendarnie (PL) : (p-sł.) legendarily
+[legendarny]legendarny (PL) : (p.) fabulous; (p.) legendary
+[legia]legia (PL) : (rz.) legion
+[legion]legion (PL) : (rz.) legion
+[legionista]legionista (PL) : (rz.) legionary; (rz.) legionnaire
+[legionowy]legionowy (PL) : (p.) legionary
+[legislacja]legislacja (PL) : (rz.) law; (rz.) legislation
+[legislacyjny]legislacyjny (PL) : (p.) legislative
+[legislatura]legislatura (PL) : (rz.) legislature
+[legitymacja]legitymacja (PL) : (rz.) pass
+[legitymowac]legitymować (PL) : (cz.) authorise; (cz.) identify; (cz.) justify
+[legnac]legnąć (PL) : (cz.) hatch
+[legowisko]legowisko (PL) : (rz.) bed; (rz.) couch; (rz.) den; (rz.) lair; (rz.) lie; (rz.) shakedown
+[legumina]legumina (PL) : (rz.) dessert; (rz.) flummery; (rz.) game; (rz.) junket; (rz.) mincemeat; (rz.) pudding; (rz.) roly-poly; (rz.) sweet
+[legwan]legwan (PL) : (rz.) iguana
+[lej]lej (PL) : (rz.) crater; (rz.) funnel
+[leja]leja (PL) : (rz.) funnel; (rz.) hopper
+[lejce]lejce (PL) : (rz.) rein; (rz.) reins
+[lejek]lejek (PL) : (rz.) funnel; (rz.) spiracle; (rz.) tunnel
+[lejkowaty]lejkowaty (PL) : (p.) bell-mouthed; (p.) funnel-shaped
+[lejtnant]lejtnant (PL) : (rz.) lieutenant
+[lek]lek (PL) : (rz.) drug; (rz.) medicament; (rz.) medication; (rz.) medicine
+[lekarski]lekarski (PL) : (p.) medical; (p.) medicinal; (p.) officinal
+[lekarstwo]lekarstwo (PL) : (rz.) cure; (rz.) drug; (rz.) medication; (rz.) medicine; (rz.) physic; (rz.) remedy
+[lekarz]lekarz (PL) : (rz.) doctor; (rz.) medic; (rz.) physician; (rz.) specialist
+[lekcewazenie]lekceważenie (PL) : (rz.) disdain; (rz.) disregard; (rz.) disrespect; (rz.) flippancy; (rz.) irreverence; (rz.) neglect; (rz.) negligence; (rz.) scorn; (rz.) slight; (rz.) slightness
+[lekcewazyc]lekceważyć (PL) : (cz.) devalue; (cz.) disregard; (cz.) ignore; (cz.) overbear; (cz.) override; (cz.) scorn; (cz.) scout; (cz.) slight; (cz.) underestimate
+[lekcewazaco]lekceważąco (PL) : (p-sł.) disrespectfully; (p-sł.) ignorantly; (p-sł.) lightly
+[lekcewazacy]lekceważący (PL) : (p.) disdainful; (p.) irreverent
+[lekcja]lekcja (PL) : (rz.) class; (rz.) lesson
+[leki]leki (PL) : (rz.) chemicals
+[lekki]lekki (PL) : (p.) airy; (p.) clammy; (p.) effortless; (p.) faint; (p.) light; (p.) lightsome; (p.) lightweight; (p.) nimble; (p.) slight; (p.) venial
+[lekko]lekko (PL) : (p-sł.) airily; (p-sł.) easily; (p-sł.) gently; (p-sł.) lightly; (p-sł.) slightly
+[lekkoatleta]lekkoatleta (PL) : (rz.) athlete
+[lekkoatletyczny]lekkoatletyczny (PL) : (p.) athletic
+[lekkoatletyka]lekkoatletyka (PL) : (rz.) athletics; (rz.) sport
+[lekkoduch]lekkoduch (PL) : (rz.) playboy; (rz.) spark; (rz.) trifler
+[lekkomyslnie]lekkomyślnie (PL) : (p-sł.) hastily; (p-sł.) recklessly; (p-sł.) thoughtlessly
+[lekkomyslnosc]lekkomyślność (PL) : (rz.) frivolity; (rz.) giddiness; (rz.) irresponsibility; (rz.) levity; (rz.) recklessness
+[lekkomyslny]lekkomyślny (PL) : (p.) airy; (p.) extravagant; (p.) flighty; (p.) frivolous; (p.) giddy; (p.) heedless; (p.) improvident; (p.) inane; (p.) inconsiderate; (p.) insouciant; (p.) light; (p.) light-minded; (p.) reckless; (p.) thoughtless
+[lekkostrawny]lekkostrawny (PL) : (p.) light
+[lekkosc]lekkość (PL) : (rz.) ease; (rz.) levity; (rz.) lightness; (rz.) viscosity
+[lekospis]lekospis (PL) : (rz.) pharmacopoeia
+[lekoznawstwo]lekoznawstwo (PL) : (rz.) pharmaceutics
+[leksem]leksem (PL) : (rz.) lexeme; (rz.) token
+[leksyka]leksyka (PL) : (rz.) lexicon
+[leksykalnie]leksykalnie (PL) : (p-sł.) lexically
+[leksykalny]leksykalny (PL) : (p.) lexical
+[leksykograf]leksykograf (PL) : (rz.) lexicographer
+[leksykografia]leksykografia (PL) : (rz.) lexicography
+[leksykograficznie]leksykograficznie (PL) : (p-sł.) lexicographically
+[leksykograficzny]leksykograficzny (PL) : (p.) lexicographical
+[leksykolog]leksykolog (PL) : (rz.) lexicologist
+[leksykologia]leksykologia (PL) : (rz.) lexicology
+[leksykon]leksykon (PL) : (rz.) glossary; (rz.) lexicon
+[lektor]lektor (PL) : (rz.) instructor; (rz.) lector; (rz.) reader
+[lektorat]lektorat (PL) : (rz.) course
+[lektura]lektura (PL) : (rz.) reading
+[lektyka]lektyka (PL) : (rz.) litter; (rz.) sedan
+[lelek]lelek (PL) : (rz.) nightjar
+[lemat]lemat (PL) : (rz.) lemma
+[lemiesz]lemiesz (PL) : (rz.) ploughshare; (rz.) share
+[leming]leming (PL) : (rz.) lemming
+[lemoniada]lemoniada (PL) : (rz.) lemonade; (rz.) squash
+[lemur]lemur (PL) : (rz.) lemur
+[len]len (PL) : (rz.) flax; (rz.) linen
+[leniec]lenieć (PL) : (cz.) moult; (cz.) slough
+[leninizm]leninizm (PL) : (rz.) Leninism
+[lenistwo]lenistwo (PL) : (rz.) idleness; (rz.) indolence; (rz.) laziness; (rz.) sloth; (rz.) sluggishness
+[leniuch]leniuch (PL) : (rz.) lazybones; (rz.) slug; (rz.) sluggard
+[leniuchowac]leniuchować (PL) : (cz.) slack
+[leniwie]leniwie (PL) : (p-sł.) idly; (p-sł.) indolently
+[leniwiec]leniwiec (PL) : (rz.) sloth
+[leniwy]leniwy (PL) : (p.) idle; (p.) indolent; (p.) languid; (p.) lazy; (p.) slothful; (p.) slow; (p.) sluggish
+[lenic]lenić (PL) : (cz.) dally; (cz.) idle
+[lennictwo]lennictwo (PL) : (rz.) vassalage
+[lenniczy]lenniczy (PL) : (p.) liege
+[lennik]lennik (PL) : (rz.) feudatory; (rz.) liege; (rz.) vassal
+[lenno]lenno (PL) : (rz.) feoff; (rz.) feud; (rz.) feudalism; (rz.) fief
+[lenny]lenny (PL) : (p.) feudal; (p.) liege; (p.) seigniorial
+[lep]lep (PL) : (rz.) flypaper; (rz.) glue
+[lepik]lepik (PL) : (rz.) glue; (rz.) tar
+[lepiszcze]lepiszcze (PL) : (rz.) adhesive
+[lepic]lepić (PL) : (cz.) glue
+[lepki]lepki (PL) : (p.) adhesive; (p.) clammy; (p.) gluey; (p.) glutinous; (p.) gooey; (p.) gummy; (p.) limy; (p.) moist; (p.) ropy; (p.) sticky; (p.) tacky; (p.) viscid; (p.) viscous
+[lepkosciomierz]lepkościomierz (PL) : (rz.) viscometer
+[lepkosc]lepkość (PL) : (rz.) adhesiveness; (rz.) stickiness; (rz.) viscidity; (rz.) viscosity
+[leprozorium]leprozorium (PL) : (rz.) leprosarium
+[lepszy]lepszy (PL) : (p.) better; (p.) preferable
+[lesbijka]lesbijka (PL) : (rz.) homosexual; (rz.) lesbian
+[lesbijski]lesbijski (PL) : (p.) lesbian
+[leser]leser (PL) : (rz.) layabout
+[lesisty]lesisty (PL) : (p.) wooded; (p.) woody
+[less]less (PL) : (rz.) loess
+[leszcz]leszcz (PL) : (rz.) bream
+[leszczyna]leszczyna (PL) : (rz.) filbert; (rz.) filbert-tree; (rz.) hazel; (rz.) pecan
+[letalnosc]letalność (PL) : (rz.) lethality
+[letarg]letarg (PL) : (rz.) lethargy
+[letargiczny]letargiczny (PL) : (p.) lethargic
+[letni]letni (PL) : (rz.) summer; (rz.) summery; (rz.) years
+[letnik]letnik (PL) : (rz.) holidaymaker; (rz.) holiday-maker; (rz.) vacationer
+[letniosc]letniość (PL) : (rz.) tepidity
+[letnisko]letnisko (PL) : (rz.) summer
+[letniskowy]letniskowy (PL) : (p.) summer
+[leukemia]leukemia (PL) : (rz.) leukaemia
+[leukocyt]leukocyt (PL) : (rz.) leukocyte
+[leukoplast]leukoplast (PL) : (rz.) leucoplast; (rz.) sticking-plaster
+[lew]lew (PL) : (rz.) Leo; (rz.) lion
+[lewacki]lewacki (PL) : (p.) leftist
+[lewak]lewak (PL) : (rz.) leftist
+[lewar]lewar (PL) : (rz.) hoist; (rz.) jack; (rz.) lever; (rz.) siphon
+[lewarek]lewarek (PL) : (rz.) jack
+[lewatywa]lewatywa (PL) : (rz.) enema
+[lewiatan]lewiatan (PL) : (rz.) leviathan
+[lewica]lewica (PL) : (rz.) left-wing
+[lewicowiec]lewicowiec (PL) : (rz.) leftist; (rz.) left-winger; (rz.) lefty
+[lewicowy]lewicowy (PL) : (p.) left; (p.) leftist; (p.) left-wing
+[lewitacja]lewitacja (PL) : (rz.) levitation
+[lewitowac]lewitować (PL) : (cz.) levitate
+[lewkonia]lewkonia (PL) : (rz.) gillyflower; (rz.) stock
+[lewobrzezny]lewobrzeżny (PL) : (p.) left-bank
+[leworecznosc]leworęczność (PL) : (rz.) left-handedness
+[leworeczny]leworęczny (PL) : (p.) left-hand; (p.) left-handed; (p.) lefthander
+[leworeki]leworęki (PL) : (p.) left-handed
+[lewoskretnosc]lewoskrętność (PL) : (rz.) laevorotation
+[lewoskretny]lewoskrętny (PL) : (p.) laevorotatory; (p.) left-handed; (p.) levorotatory
+[lewostronny]lewostronny (PL) : (p.) left; (p.) left-sided
+[lewuloza]lewuloza (PL) : (rz.) laevulose
+[lewy]lewy (PL) : (p.) left; (p.) left-hand
+[len]leń (PL) : (rz.) dawdler; (rz.) idler; (rz.) layabout; (rz.) lazybones; (rz.) saunter
+[lesnictwo]leśnictwo (PL) : (rz.) forester; (rz.) forestry
+[lesniczy]leśniczy (PL) : (rz.) forester; (rz.) ranger
+[lesniczowka]leśniczówka (PL) : (rz.) forest
+[lesnik]leśnik (PL) : (rz.) forester; (rz.) gamekeeper; (rz.) game-keeper; (rz.) woodman; (rz.) woodsman
+[lesny]leśny (PL) : (p.) sylvan; (p.) woodsy; (p.) woody
+[lezc]leźć (PL) : (cz.) climb; (cz.) creep; (cz.) scramble; (cz.) shamble
+[leza]leża (PL) : (rz.) are
+[lezak]leżak (PL) : (rz.) deckchair
+[lezakowanie]leżakowanie (PL) : (rz.) seasoning; (rz.) spice
+[lezakowac]leżakować (PL) : (cz.) matured
+[lezanka]leżanka (PL) : (rz.) couch; (rz.) recliner
+[lezec]leżeć (PL) : (cz.) lie; (cz.) lounge; (cz.) repose; (cz.) sprawl; (cz.) underlie
+[leznia]leżnia (PL) : (rz.) putlog
+[lezacy]leżący (PL) : (p.) fitting; (p.) recumbent
+[lgniecie]lgnięcie (PL) : (rz.) adherence
+[lgnac]lgnąć (PL) : (cz.) adhere; (cz.) clung; (cz.) sink
+[liana]liana (PL) : (rz.) liana
+[libacja]libacja (PL) : (rz.) libation
+[libella]libella (PL) : (rz.) level
+[liberalizacja]liberalizacja (PL) : (rz.) liberalization
+[liberalizm]liberalizm (PL) : (rz.) liberalism
+[liberalizowac]liberalizować (PL) : (cz.) liberalize
+[liberalnie]liberalnie (PL) : (p-sł.) liberally
+[liberalnosc]liberalność (PL) : (rz.) liberality
+[liberalny]liberalny (PL) : (p.) broadminded; (p.) broad-minded; (p.) liberal; (p.) liberally-minded
+[liberal]liberał (PL) : (rz.) liberal
+[liberia]liberia (PL) : (rz.) livery
+[libertyn]libertyn (PL) : (rz.) libertine
+[libertynski]libertyński (PL) : (p.) libertine
+[libra]libra (PL) : (rz.) quire
+[librecista]librecista (PL) : (rz.) librettist
+[licealny]licealny (PL) : (p.) secondary-school
+[licencja]licencja (PL) : (rz.) franchise; (rz.) licence; (rz.) license
+[licencjat]licencjat (PL) : (rz.) bachelor; (rz.) licentiate
+[licencjobiorca]licencjobiorca (PL) : (rz.) licensee
+[licencjodawca]licencjodawca (PL) : (rz.) licensor
+[licencjonowac]licencjonować (PL) : (cz.) license
+[liceum]liceum (PL) : (rz.) lyceum; (rz.) school
+[lichenina]lichenina (PL) : (rz.) lichenin
+[licho]licho (PL) : (rz.) bogeyman; (rz.) deuce; (rz.) devil; (rz.) evil
+[lichota]lichota (PL) : (rz.) muck; (rz.) rubbish
+[lichosc]lichość (PL) : (rz.) badness
+[lichtarz]lichtarz (PL) : (rz.) candlestick
+[lichtarzyk]lichtarzyk (PL) : (rz.) sconce
+[lichwa]lichwa (PL) : (rz.) usury
+[lichwiarstwo]lichwiarstwo (PL) : (rz.) usury
+[lichwiarz]lichwiarz (PL) : (rz.) moneylender; (rz.) money-lender; (rz.) usurer
+[lichy]lichy (PL) : (p.) bad; (p.) lame; (p.) poor; (p.) potty; (p.) ropy; (p.) scanty; (p.) shabby; (p.) shoddy; (p.) trumpery; (p.) wretched
+[lico]lico (PL) : (rz.) face; (rz.) grain
+[licytacja]licytacja (PL) : (rz.) auction; (rz.) bid; (rz.) bidding; (rz.) chicane; (rz.) outcry
+[licytant]licytant (PL) : (rz.) bidder
+[licytator]licytator (PL) : (rz.) auctioneer
+[licytowanie]licytowanie (PL) : (rz.) bid; (rz.) bidder
+[licytowac]licytować (PL) : (cz.) auction; (cz.) bid; (cz.) declare
+[liczba]liczba (PL) : (rz.) amount; (rz.) count; (rz.) figure; (rz.) number
+[liczbowy]liczbowy (PL) : (p.) numeric; (p.) numerical
+[liczebnik]liczebnik (PL) : (rz.) number; (rz.) numeral
+[liczebnosc]liczebność (PL) : (rz.) number
+[liczebny]liczebny (PL) : (p.) numeric; (p.) numerical
+[liczenie]liczenie (PL) : (rz.) calculation; (rz.) count; (rz.) numeration
+[liczko]liczko (PL) : (rz.) face
+[liczman]liczman (PL) : (rz.) tallyman
+[licznie]licznie (PL) : (p-sł.) numerously
+[licznik]licznik (PL) : (rz.) clock; (rz.) counter; (rz.) enumerator; (rz.) meter; (rz.) numerator
+[licznosc]liczność (PL) : (rz.) cardinality; (rz.) multiplicity; (rz.) numerousness; (rz.) size
+[liczny]liczny (PL) : (p.) abundant; (p.) numerous; (p.) plural; (p.) several
+[liczydlo]liczydło (PL) : (rz.) abacus; (rz.) counter
+[liczykrupa]liczykrupa (PL) : (rz.) skinflint
+[liczyc]liczyć (PL) : (cz.) calculate; (cz.) compute; (cz.) count; (cz.) depend; (cz.) matter; (cz.) number; (cz.) reckon; (cz.) rely; (cz.) score; (cz.) tally
+[lider]lider (PL) : (rz.) leader
+[liga]liga (PL) : (rz.) division; (rz.) league
+[ligatura]ligatura (PL) : (rz.) ligature; (rz.) tie
+[lignina]lignina (PL) : (rz.) lignin
+[lignit]lignit (PL) : (rz.) lignite
+[ligowiec]ligowiec (PL) : (rz.) leaguer
+[ligroina]ligroina (PL) : (rz.) ligroin
+[ligustr]ligustr (PL) : (rz.) privet
+[likier]likier (PL) : (rz.) liqueur; (rz.) liquor
+[liklina]liklina (PL) : (rz.) bolt-rope
+[likwidacja]likwidacja (PL) : (rz.) decommissioning; (rz.) disposal; (rz.) elimination; (rz.) knockout; (rz.) liquidation; (rz.) realisation; (rz.) shutdown
+[likwidacyjny]likwidacyjny (PL) : (p.) decommissioning
+[likwidator]likwidator (PL) : (rz.) liquidator
+[likwidowac]likwidować (PL) : (cz.) abolish; (cz.) eliminate; (cz.) liquidate; (cz.) remove
+[lila]lila (PL) : (p.) lilac
+[lilia]lilia (PL) : (rz.) lily
+[liliowaty]liliowaty (PL) : (p.) liliaceous
+[liliowy]liliowy (PL) : (p.) lilac
+[liliput]liliput (PL) : (rz.) Lilliputian
+[limeryk]limeryk (PL) : (rz.) limerick
+[limfa]limfa (PL) : (rz.) lymph
+[limfatyczny]limfatyczny (PL) : (p.) lymphatic
+[limfocyt]limfocyt (PL) : (rz.) lymphocyte
+[limit]limit (PL) : (rz.) quota
+[limitacja]limitacja (PL) : (rz.) limitation
+[limnologia]limnologia (PL) : (rz.) limnology
+[limonen]limonen (PL) : (rz.) limonene
+[limonit]limonit (PL) : (rz.) limonite
+[limuzyna]limuzyna (PL) : (rz.) limo; (rz.) limousine; (rz.) saloon
+[lina]lina (PL) : (rz.) cord; (rz.) cordage; (rz.) hawser; (rz.) lariat; (rz.) line; (rz.) rope; (rz.) tether; (rz.) tightrope; (rz.) tight-rope
+[linczowac]linczować (PL) : (cz.) lynch
+[linearnie]linearnie (PL) : (p-sł.) linearly
+[linearnosc]linearność (PL) : (rz.) linearity
+[linearny]linearny (PL) : (p.) lineal; (p.) linear
+[linearyzacja]linearyzacja (PL) : (rz.) linearization
+[lineal]lineał (PL) : (rz.) line
+[lingwista]lingwista (PL) : (rz.) linguist
+[lingwistyczny]lingwistyczny (PL) : (p.) linguistic
+[lingwistyka]lingwistyka (PL) : (rz.) linguistics
+[linia]linia (PL) : (rz.) cable; (rz.) coseismal; (rz.) line; (rz.) rule; (rz.) stroke
+[liniatura]liniatura (PL) : (rz.) ruling
+[linial]liniał (PL) : (rz.) ruler
+[linienie]linienie (PL) : (rz.) moulting
+[liniec]linieć (PL) : (cz.) moult
+[linijka]linijka (PL) : (rz.) line; (rz.) master; (rz.) ruler; (rz.) straightedge
+[linijny]linijny (PL) : (p.) lineal; (p.) linear
+[liniowanie]liniowanie (PL) : (rz.) lineation; (rz.) lining; (rz.) ruling
+[liniowac]liniować (PL) : (cz.) line
+[liniowiec]liniowiec (PL) : (rz.) liner; (rz.) ships
+[liniowosc]liniowość (PL) : (rz.) linearity
+[liniowy]liniowy (PL) : (p.) lineal; (p.) linear
+[linka]linka (PL) : (rz.) cable; (rz.) lima; (rz.) string
+[linker]linker (PL) : (rz.) linker
+[linociag]linociąg (PL) : (rz.) hoist
+[linoleum]linoleum (PL) : (rz.) linoleum
+[linoskoczek]linoskoczek (PL) : (rz.) acrobat; (rz.) equilibrist; (rz.) funambulist; (rz.) ropedancer; (rz.) rope-dancer
+[linotyp]linotyp (PL) : (rz.) linotype
+[linowy]linowy (PL) : (p.) funicular; (p.) sheave
+[lipa]lipa (PL) : (rz.) humbug; (rz.) lime; (rz.) lime-tree; (rz.) linden
+[lipaza]lipaza (PL) : (rz.) lipase
+[lipid]lipid (PL) : (rz.) lipoid
+[lipiec]lipiec (PL) : (rz.) July
+[lipien]lipień (PL) : (rz.) grayling
+[lipny]lipny (PL) : (p.) faked-up; (p.) sham; (p.) trashy
+[lipoid]lipoid (PL) : (rz.) lipoid
+[lipoproteidy]lipoproteidy (PL) : (p.) lipoproteins
+[liposukcja]liposukcja (PL) : (rz.) liposuction
+[lir]lir (PL) : (rz.) lira
+[lira]lira (PL) : (rz.) lyre
+[lirnik]lirnik (PL) : (rz.) lyrist
+[lirycznie]lirycznie (PL) : (p-sł.) lyrically
+[liryczny]liryczny (PL) : (p.) lyric; (p.) lyrical
+[liryk]liryk (PL) : (rz.) lyric; (rz.) lyricist; (rz.) lyrist
+[liryka]liryka (PL) : (rz.) lyricism
+[liryzm]liryzm (PL) : (rz.) lyricism
+[lis]lis (PL) : (rz.) fox
+[lisi]lisi (PL) : (p.) poor; (p.) vulpine
+[lisica]lisica (PL) : (rz.) vixen
+[list]list (PL) : (rz.) letter
+[lista]lista (PL) : (rz.) leaf; (rz.) list; (rz.) panel; (rz.) register; (rz.) roll; (rz.) roster; (rz.) schedule; (rz.) scrip
+[listek]listek (PL) : (rz.) frond; (rz.) leaf; (rz.) leaflet; (rz.) lobe
+[listewka]listewka (PL) : (rz.) slat; (rz.) slip; (rz.) strip
+[listing]listing (PL) : (rz.) listing
+[listonosz]listonosz (PL) : (rz.) mailman; (rz.) postman
+[listopad]listopad (PL) : (rz.) November
+[listowie]listowie (PL) : (rz.) foliage; (rz.) frondescence; (rz.) leafage; (rz.) leaves
+[listowy]listowy (PL) : (p.) epistolary
+[listwa]listwa (PL) : (rz.) batten; (rz.) bezel; (rz.) lath; (rz.) ledge; (rz.) skirting-board; (rz.) slat
+[liszaj]liszaj (PL) : (rz.) herpes; (rz.) lichen; (rz.) ringworm
+[liszajec]liszajec (PL) : (rz.) impetigo
+[liszka]liszka (PL) : (rz.) caterpillar; (rz.) vixen
+[lit]lit (PL) : (rz.) lithium; (rz.) point
+[litania]litania (PL) : (rz.) litany; (rz.) rogation
+[litera]litera (PL) : (rz.) char; (rz.) character; (rz.) letter; (rz.) point
+[literacki]literacki (PL) : (p.) literary
+[literalnie]literalnie (PL) : (p-sł.) literally
+[literalny]literalny (PL) : (p.) literal
+[literat]literat (PL) : (rz.) literal; (rz.) penman; (rz.) writer
+[literatura]literatura (PL) : (rz.) letter; (rz.) literature; (rz.) reading
+[literaturoznawstwo]literaturoznawstwo (PL) : (rz.) literature
+[literal]literał (PL) : (rz.) literal; (rz.) literals
+[liternictwo]liternictwo (PL) : (rz.) lettering
+[literowanie]literowanie (PL) : (rz.) spelling
+[literowac]literować (PL) : (cz.) spell
+[literowo-cyfrowy]literowo-cyfrowy (PL) : (p.) alphabetic-numeric; (p.) alphanumeric; (p.) alphanumerical
+[literowy]literowy (PL) : (p.) alphabetic; (p.) alphabetical; (p.) literal
+[literowka]literówka (PL) : (rz.) misprint; (rz.) typo
+[litograf]litograf (PL) : (rz.) lithographer
+[litografia]litografia (PL) : (rz.) lithograph; (rz.) lithography
+[litograficzny]litograficzny (PL) : (p.) lithographic; (p.) lithographical
+[litografowac]litografować (PL) : (cz.) lithograph
+[litopon]litopon (PL) : (rz.) lithopone
+[litoralny]litoralny (PL) : (p.) littoral
+[litosfera]litosfera (PL) : (rz.) lithosphere
+[litowanie]litowanie (PL) : (rz.) lithium
+[litowac]litować (PL) : (cz.) pity
+[litosciwie]litościwie (PL) : (p-sł.) pitifully; (p-sł.) pityingly
+[litosciwy]litościwy (PL) : (p.) charitable; (p.) compassionate; (p.) merciful; (p.) pitiful; (p.) pitying
+[litosc]litość (PL) : (rz.) compassion; (rz.) mercy; (rz.) pity
+[litr]litr (PL) : (rz.) litre
+[litroatmosfera]litroatmosfera (PL) : (rz.) litre-atmosphere
+[liturgia]liturgia (PL) : (rz.) liturgy
+[liturgicznie]liturgicznie (PL) : (p-sł.) liturgically
+[liturgiczny]liturgiczny (PL) : (p.) liturgical
+[lity]lity (PL) : (p.) molten
+[lizak]lizak (PL) : (rz.) lollipop; (rz.) lollypop
+[lizanie]lizanie (PL) : (rz.) licking
+[lizawka]lizawka (PL) : (rz.) deer-lick
+[lizac]lizać (PL) : (cz.) lick
+[lizol]lizol (PL) : (rz.) Lysol
+[lizus]lizus (PL) : (rz.) bootlicker; (rz.) lickspittle; (rz.) spaniel; (rz.) toady
+[lizyna]lizyna (PL) : (rz.) lysine
+[lisciasty]liściasty (PL) : (p.) deciduous; (p.) leafiest; (p.) leafy; (p.) leaved
+[liscien]liścień (PL) : (rz.) cotyledon
+[lisc]liść (PL) : (rz.) blade; (rz.) leaf
+[lizniecie]liźnięcie (PL) : (rz.) lick
+[lniany]lniany (PL) : (p.) flaxen; (p.) linen
+[lobby]lobby (PL) : (rz.) lobby
+[lobotomia]lobotomia (PL) : (rz.) lobotomy
+[locha]locha (PL) : (rz.) sow
+[lodowaciec]lodowacieć (PL) : (cz.) freeze
+[lodowatosc]lodowatość (PL) : (rz.) frigidity; (rz.) frigidness; (rz.) frostiness; (rz.) iciness
+[lodowaty]lodowaty (PL) : (p.) chilling; (p.) freezing; (p.) frosty; (p.) gelid; (p.) glacial; (p.) ice-cold; (p.) icy; (p.) wintry
+[lodowcowy]lodowcowy (PL) : (p.) glacial
+[lodowiec]lodowiec (PL) : (rz.) glacier
+[lodowisko]lodowisko (PL) : (rz.) ice; (rz.) ice-rink; (rz.) rink; (rz.) skating-rink
+[lodowy]lodowy (PL) : (p.) freezing; (p.) glacial; (p.) icy
+[lodolam]lodołam (PL) : (rz.) cutwater
+[lodolamacz]lodołamacz (PL) : (rz.) icebreaker
+[lodziarz]lodziarz (PL) : (rz.) iceman
+[lodowka]lodówka (PL) : (rz.) fridge; (rz.) icebox; (rz.) ice-box; (rz.) meat-safe; (rz.) reefer; (rz.) refrigerator
+[lodzia]lodżia (PL) : (rz.) boat; (rz.) loggia
+[logarytm]logarytm (PL) : (rz.) logarithm
+[logarytmicznie]logarytmicznie (PL) : (p-sł.) logarithmically
+[logarytmiczny]logarytmiczny (PL) : (p.) logarithmic
+[loggia]loggia (PL) : (rz.) loggia
+[logicznie]logicznie (PL) : (p-sł.) logically
+[logicznosc]logiczność (PL) : (rz.) consistency; (rz.) logicality
+[logiczny]logiczny (PL) : (p.) Boolean; (p.) consequent; (p.) consequential; (p.) logic; (p.) logical
+[logik]logik (PL) : (rz.) logician
+[logika]logika (PL) : (rz.) logic; (rz.) logician
+[login]login (PL) : (rz.) login; (rz.) logon
+[logistycznie]logistycznie (PL) : (p-sł.) logistically
+[logistyczny]logistyczny (PL) : (p.) logistic; (p.) logistical
+[logistyka]logistyka (PL) : (rz.) logistic; (rz.) logistics
+[loglina]loglina (PL) : (rz.) log-line
+[logopeda]logopeda (PL) : (rz.) speech
+[logotyp]logotyp (PL) : (rz.) logotype
+[logowanie]logowanie (PL) : (rz.) logging; (rz.) login
+[lojalista]lojalista (PL) : (rz.) loyalist
+[lojalnie]lojalnie (PL) : (p-sł.) loyally; (p-sł.) truly
+[lojalnosc]lojalność (PL) : (rz.) allegiance; (rz.) constancy; (rz.) fealty; (rz.) loyalty
+[lojalny]lojalny (PL) : (p.) clannish; (p.) faithful; (p.) liege; (p.) loyal; (p.) stalwart; (p.) stanch; (p.) true-blue
+[lok]lok (PL) : (rz.) curl; (rz.) lock
+[lokacja]lokacja (PL) : (rz.) location
+[lokaj]lokaj (PL) : (rz.) butler; (rz.) flunkey; (rz.) footman; (rz.) lackey; (rz.) valet
+[lokajski]lokajski (PL) : (p.) fulsome; (p.) lackey's
+[lokal]lokal (PL) : (rz.) place; (rz.) premise; (rz.) premises
+[lokalizacja]lokalizacja (PL) : (rz.) localization; (rz.) location
+[lokalizator]lokalizator (PL) : (rz.) localizer; (rz.) locator
+[lokalizowac]lokalizować (PL) : (cz.) localize; (cz.) locate; (cz.) pinpoint
+[lokalnie]lokalnie (PL) : (p-sł.) indigenously; (p-sł.) locally
+[lokalnosc]lokalność (PL) : (rz.) location
+[lokalny]lokalny (PL) : (p.) local
+[lokata]lokata (PL) : (rz.) deposit; (rz.) investment; (rz.) pizza; (rz.) place
+[lokator]lokator (PL) : (rz.) inmate; (rz.) lodger; (rz.) occupant; (rz.) occupier; (rz.) tenant
+[lokaut]lokaut (PL) : (rz.) lock; (rz.) locknut; (rz.) lockout; (rz.) lock-out; (rz.) turnout
+[lokomocja]lokomocja (PL) : (rz.) locomotion
+[lokomotywa]lokomotywa (PL) : (rz.) engine; (rz.) locomotion; (rz.) locomotive
+[lokowac]lokować (PL) : (cz.) place
+[lokum]lokum (PL) : (rz.) lodgings; (rz.) venue
+[lokowka]lokówka (PL) : (rz.) curler; (rz.) curling-pin
+[lombard]lombard (PL) : (rz.) hockshop; (rz.) pawnshop; (rz.) pledge
+[lont]lont (PL) : (rz.) fuse; (rz.) match
+[lonza]lonża (PL) : (rz.) lunge
+[lora]lora (PL) : (rz.) lorry; (rz.) truck
+[lord]lord (PL) : (rz.) lord
+[lorens]lorens (PL) : (rz.) lawrencium
+[lorgnon]lorgnon (PL) : (rz.) lorgnette
+[lorneta]lorneta (PL) : (rz.) binocular; (rz.) binoculars
+[lornetka]lornetka (PL) : (rz.) binocular; (rz.) binoculars; (rz.) lorgnette
+[los]los (PL) : (rz.) destiny; (rz.) doom; (rz.) fate; (rz.) fortune; (rz.) karma; (rz.) lot
+[losowanie]losowanie (PL) : (rz.) drawing; (rz.) sampling
+[losowac]losować (PL) : (cz.) randomize
+[losowo]losowo (PL) : (p-sł.) randomly
+[losowosc]losowość (PL) : (rz.) randomization; (rz.) randomized; (rz.) randomness
+[losowy]losowy (PL) : (p.) fateful; (p.) random; (p.) randomized
+[loszka]loszka (PL) : (rz.) gilt
+[lot]lot (PL) : (rz.) flight
+[loteria]loteria (PL) : (rz.) lottery; (rz.) raffle; (rz.) sweepstake; (rz.) sweepstakes
+[loteryjka]loteryjka (PL) : (rz.) bingo; (rz.) lotto
+[lotka]lotka (PL) : (rz.) aileron; (rz.) flag; (rz.) flight; (rz.) flight-feather; (rz.) pinion; (rz.) quill; (rz.) shuttlecock
+[lotnia]lotnia (PL) : (rz.) glider; (rz.) hang-glider
+[lotniarstwo]lotniarstwo (PL) : (rz.) hang-gliding
+[lotniarz]lotniarz (PL) : (rz.) glider; (rz.) hang-glider
+[lotnictwo]lotnictwo (PL) : (rz.) aeronautics; (rz.) aerospace; (rz.) aviation
+[lotniczy]lotniczy (PL) : (p.) aerial; (p.) aeronautical; (p.) airborne; (p.) airtime
+[lotnik]lotnik (PL) : (rz.) airman; (rz.) airwoman; (rz.) aviator; (rz.) flier; (rz.) flyer; (rz.) pilot
+[lotnisko]lotnisko (PL) : (rz.) aerodrome; (rz.) airdrome; (rz.) airfield; (rz.) airport
+[lotnosc]lotność (PL) : (rz.) airworthiness; (rz.) fugacity; (rz.) vivacity; (rz.) volatility
+[lotny]lotny (PL) : (p.) ethereal; (p.) gaseous; (p.) volatile
+[lotos]lotos (PL) : (rz.) lotus
+[lotus]lotus (PL) : (rz.) lotus
+[loza]loża (PL) : (rz.) box; (rz.) general; (rz.) lodge
+[lub]lub (PL) : (spójnik) or
+[luba]luba (PL) : (rz.) love
+[lubieznie]lubieżnie (PL) : (p-sł.) lewdly
+[lubieznik]lubieżnik (PL) : (rz.) lecher; (rz.) voluptuary
+[lubieznosc]lubieżność (PL) : (rz.) lechery; (rz.) lust; (rz.) prurience
+[lubiezny]lubieżny (PL) : (p.) lascivious; (p.) lecherous; (p.) lewd; (p.) libidinous; (p.) lickerish; (p.) lustful; (p.) prurient; (p.) raunchy; (p.) salacious; (p.) sensual; (p.) voluptuous
+[lubic]lubić (PL) : (cz.) cherish; (cz.) enjoy; (cz.) like; (cz.) love; (cz.) relish
+[lubowac]lubować (PL) : (cz.) delight
+[lubosc]lubość (PL) : (rz.) delight
+[lubrykator]lubrykator (PL) : (rz.) lubricator
+[luby]luby (PL) : (p.) beloved
+[lucerna]lucerna (PL) : (rz.) alfalfa; (rz.) nonesuch
+[lud]lud (PL) : (rz.) commons; (rz.) folk; (rz.) nation; (rz.) people; (rz.) populace
+[ludnosc]ludność (PL) : (rz.) population
+[ludny]ludny (PL) : (p.) overcrowded; (p.) populous
+[ludobojca]ludobójca (PL) : (rz.) genocide
+[ludobojstwo]ludobójstwo (PL) : (rz.) genocide
+[ludojad]ludojad (PL) : (rz.) eater; (rz.) man-eater; (rz.) ogre
+[ludowosc]ludowość (PL) : (rz.) folksiness
+[ludowy]ludowy (PL) : (p.) folk; (p.) folksy; (p.) people's; (p.) popular
+[ludowladztwo]ludowładztwo (PL) : (rz.) democracy
+[ludoznawstwo]ludoznawstwo (PL) : (rz.) ethnography; (rz.) ethnology
+[ludozerca]ludożerca (PL) : (rz.) cannibal; (rz.) eater; (rz.) man-eater; (rz.) ogle; (rz.) ogre
+[ludozerczy]ludożerczy (PL) : (p.) anthropophagous; (p.) cannibalistic
+[ludozerstwo]ludożerstwo (PL) : (rz.) cannibalism
+[ludwisarnia]ludwisarnia (PL) : (rz.) bell-foundry
+[ludwisarz]ludwisarz (PL) : (rz.) bell-founder
+[ludzie]ludzie (PL) : (rz.) people
+[ludzik]ludzik (PL) : (rz.) man
+[ludzki]ludzki (PL) : (p.) human; (p.) humane; (p.) manlike
+[ludzko]ludzko (PL) : (p-sł.) humanly
+[ludzkosc]ludzkość (PL) : (rz.) humanity; (rz.) humankind; (rz.) mankind
+[lufa]lufa (PL) : (rz.) barrel
+[lufka]lufka (PL) : (rz.) cigarette-holder
+[lugier]lugier (PL) : (rz.) drifter; (rz.) gluier
+[luizyt]luizyt (PL) : (rz.) lewisite
+[luk]luk (PL) : (rz.) hatch; (rz.) hatchway; (rz.) skylight
+[luka]luka (PL) : (rz.) blackout; (rz.) blank; (rz.) breach; (rz.) gap; (rz.) hiatus; (rz.) void
+[lukier]lukier (PL) : (rz.) frosting; (rz.) icing
+[lukratywnie]lukratywnie (PL) : (p-sł.) lucratively; (p-sł.) profitably
+[lukratywny]lukratywny (PL) : (p.) lucrative
+[lukrecja]lukrecja (PL) : (rz.) liquorice
+[lukrowac]lukrować (PL) : (cz.) ice; (cz.) sugar-coat
+[luks]luks (PL) : (rz.) metre-candle
+[luksomierz]luksomierz (PL) : (rz.) illuminometer
+[luksus]luksus (PL) : (rz.) luxury
+[luksusowo]luksusowo (PL) : (p-sł.) extravagantly; (p-sł.) luxuriously
+[luksusowy]luksusowy (PL) : (p.) deluxe; (p.) extra; (p.) luxurious; (p.) plush; (p.) ritzy
+[lulka]lulka (PL) : (rz.) bowl; (rz.) pipe
+[lumen]lumen (PL) : (rz.) lumen
+[lumenogodzina]lumenogodzina (PL) : (rz.) lumen-hour
+[lumenosekunda]lumenosekunda (PL) : (rz.) lumen-second
+[luminancja]luminancja (PL) : (rz.) brilliance; (rz.) luminance; (rz.) radiance
+[luminarz]luminarz (PL) : (rz.) luminary
+[luminescencja]luminescencja (PL) : (rz.) luminescence
+[luminescencyjny]luminescencyjny (PL) : (p.) luminescent
+[luminofor]luminofor (PL) : (rz.) phosphor
+[lumityp]lumityp (PL) : (rz.) photon
+[lump]lump (PL) : (rz.) reveller
+[lumpowac]lumpować (PL) : (cz.) revel
+[lunacja]lunacja (PL) : (rz.) lunation
+[lunatyczka]lunatyczka (PL) : (rz.) sleepwalker
+[lunatyczny]lunatyczny (PL) : (p.) loony; (p.) somnambulistic
+[lunatyk]lunatyk (PL) : (rz.) lunatic; (rz.) nightwalker; (rz.) night-walker; (rz.) sleepwalker; (rz.) sleep-walker; (rz.) somnambulist
+[lunatyzm]lunatyzm (PL) : (rz.) sleep-walking; (rz.) somnambulism
+[lunch]lunch (PL) : (rz.) lunch; (rz.) luncheon
+[luneta]luneta (PL) : (rz.) field-glass; (rz.) lunette; (rz.) telescope
+[lupa]lupa (PL) : (rz.) magnifier
+[lura]lura (PL) : (rz.) dishwater; (rz.) slops; (rz.) swill; (rz.) wish-wash
+[lusterko]lusterko (PL) : (rz.) looking-glass; (rz.) mirror; (rz.) speculum
+[lustracja]lustracja (PL) : (rz.) inspection; (rz.) survey
+[lustrator]lustrator (PL) : (rz.) inspector
+[lustro]lustro (PL) : (rz.) looking-glass; (rz.) mirror; (rz.) speculum
+[lustrowac]lustrować (PL) : (cz.) inspect; (cz.) vet
+[lut]lut (PL) : (rz.) solder
+[luteranizm]luteranizm (PL) : (rz.) Lutheranism
+[lutet]lutet (PL) : (rz.) lutetium
+[lutnia]lutnia (PL) : (rz.) lute
+[lutowanie]lutowanie (PL) : (rz.) solder
+[lutowac]lutować (PL) : (cz.) braze; (cz.) solder
+[lutowie]lutowie (PL) : (rz.) solder
+[lutownica]lutownica (PL) : (rz.) soldering-iron
+[luty]luty (PL) : (rz.) February
+[luz]luz (PL) : (rz.) backlash; (rz.) clearance; (rz.) letup; (rz.) let-up; (rz.) looseness; (rz.) play; (rz.) relaxation
+[luzem]luzem (PL) : (p-sł.) freely; (p-sł.) separately
+[luzowac]luzować (PL) : (cz.) loosen; (cz.) relay; (cz.) relieve; (cz.) slacken; (cz.) veer
+[luzno]luźno (PL) : (p-sł.) loosely; (p-sł.) loosely-coupled
+[luznosc]luźność (PL) : (rz.) looseness
+[luzny]luźny (PL) : (p.) baggy; (p.) casual; (p.) lax; (p.) loose; (p.) loosest; (p.) occasional; (p.) relaxed; (p.) slack
+[lwi]lwi (PL) : (p.) leonine; (p.) lion's
+[lwica]lwica (PL) : (rz.) lioness
+[lod]lód (PL) : (rz.) ice; (rz.) ice-cream
+[lad]ląd (PL) : (rz.) continent; (rz.) land; (rz.) landmass
+[ladem]lądem (PL) : (p-sł.) overland
+[ladowanie]lądowanie (PL) : (rz.) debarkation; (rz.) descent; (rz.) landing
+[ladowac]lądować (PL) : (cz.) alight; (cz.) disembark; (cz.) land; (cz.) load
+[ladowe]lądowe (PL) : (rz.) land
+[ladowisko]lądowisko (PL) : (rz.) airfield; (rz.) airstrip; (rz.) landfall
+[ladowy]lądowy (PL) : (p.) land-based; (p.) overland; (p.) terrestrial
+[lag]ląg (PL) : (rz.) brood
+[ledzwie]lędźwie (PL) : (rz.) loin; (rz.) loins; (rz.) rein; (rz.) reins
+[ledzwiowy]lędźwiowy (PL) : (p.) lumbar
+[leg]lęg (PL) : (rz.) leg
+[legnia]lęgnia (PL) : (rz.) pillar
+[legniecie]lęgnięcie (PL) : (rz.) pillar
+[legnac]lęgnąć (PL) : (cz.) arise; (cz.) bud; (cz.) hatch
+[legowisko]lęgowisko (PL) : (rz.) lie
+[lek]lęk (PL) : (rz.) anguish; (rz.) anxiety; (rz.) apprehension; (rz.) dread; (rz.) fear; (rz.) phobia; (rz.) trepidation
+[lekac]lękać (PL) : (cz.) fear; (cz.) quail
+[lekliwosc]lękliwość (PL) : (rz.) bashfulness
+[lekliwy]lękliwy (PL) : (p.) apprehensive; (p.) bashful; (p.) fearful; (p.) pusillanimous; (p.) timid; (p.) timorous
+[lsnienie]lśnienie (PL) : (rz.) gleam; (rz.) glitter; (rz.) shimmer
+[lsniacy]lśniący (PL) : (p.) glossy; (p.) lucent; (p.) lucid; (p.) luminous; (p.) resplendent; (p.) shiny; (p.) sleek
+[lsnic]lśnić (PL) : (cz.) glisten; (cz.) glitter; (cz.) shimmer; (cz.) shine; (cz.) star
+[lzenie]lżenie (PL) : (rz.) abusing; (rz.) abusiveness; (rz.) vituperation
+[lzyc]lżyć (PL) : (cz.) insult; (cz.) inveigh; (cz.) revile; (cz.) vituperate
+[lucja]Łucja (PL) : (rz.) Lucy
+[lukasz]Łukasz (PL) : (rz.) Lucas; (rz.) Luke
+[labedzi]łabędzi (PL) : (p.) swanlike
+[labedz]łabędź (PL) : (rz.) cob; (rz.) swan
+[lach]łach (PL) : (rz.) gear; (rz.) rag
+[lachman]łachman (PL) : (rz.) rag; (rz.) raggedness; (rz.) tatter
+[lachmaniarz]łachmaniarz (PL) : (rz.) ragamuffin
+[lachudra]łachudra (PL) : (rz.) dastard
+[laciaty]łaciaty (PL) : (p.) piebald; (p.) pinto
+[lad]ład (PL) : (rz.) order; (rz.) peace
+[ladnie]ładnie (PL) : (p-sł.) handsomely; (p-sł.) nicely; (p-sł.) prettily
+[ladny]ładny (PL) : (p.) beautiful; (p.) cute; (p.) fine; (p.) handsome; (p.) nice; (p.) pretty; (p.) snug; (p.) tidy
+[ladowacz]ładowacz (PL) : (rz.) filler; (rz.) loader
+[ladowalny]ładowalny (PL) : (p.) chargeable; (p.) loadable; (p.) rechargeable
+[ladowanie]ładowanie (PL) : (rz.) bootstrap; (rz.) embarkation; (rz.) load; (rz.) loading
+[ladowarka]ładowarka (PL) : (rz.) charger; (rz.) loader
+[ladowac]ładować (PL) : (cz.) alight; (cz.) boot; (cz.) charge; (cz.) embark; (cz.) emplane; (cz.) entrain; (cz.) freight; (cz.) lade; (cz.) load; (cz.) stow
+[ladownia]ładownia (PL) : (rz.) hold
+[ladownica]ładownica (PL) : (rz.) belt
+[ladownik]ładownik (PL) : (rz.) charger; (rz.) loader
+[ladownosc]ładowność (PL) : (rz.) capacity; (rz.) carload; (rz.) payload
+[ladowny]ładowny (PL) : (p.) capacious; (p.) loaded
+[ladunek]ładunek (PL) : (rz.) bootstrap; (rz.) cargo; (rz.) charge; (rz.) flotsam; (rz.) freight; (rz.) lading; (rz.) load; (rz.) payload; (rz.) shipment
+[lagiewka]łagiewka (PL) : (rz.) utricle
+[lagodnie]łagodnie (PL) : (p-sł.) gently; (p-sł.) leniently; (p-sł.) lusciously; (p-sł.) meekly; (p-sł.) mildly; (p-sł.) placidly; (p-sł.) softly
+[lagodniec]łagodnieć (PL) : (cz.) mellow; (cz.) relent; (cz.) soften; (cz.) subside
+[lagodnosc]łagodność (PL) : (rz.) amenity; (rz.) clemency; (rz.) gentleness; (rz.) lenience; (rz.) leniency; (rz.) meekness; (rz.) mildness; (rz.) placidity; (rz.) pleasantness; (rz.) softness
+[lagodny]łagodny (PL) : (p.) benign; (p.) benignant; (p.) bland; (p.) clement; (p.) easeful; (p.) genial; (p.) gentle; (p.) gentlest; (p.) graceful; (p.) kind; (p.) lenient; (p.) light; (p.) meek; (p.) mellow; (p.) mild; (p.) placid; (p.) smooth; (p.) smooth-tempered; (p.) soft; (p.) suave; (p.) tame
+[lagodzenie]łagodzenie (PL) : (rz.) attenuation; (rz.) mitigation; (rz.) temper
+[lagodzic]łagodzić (PL) : (cz.) alleviate; (cz.) appease; (cz.) assuage; (cz.) attenuate; (cz.) commute; (cz.) deaden; (cz.) ease; (cz.) extenuate; (cz.) heal; (cz.) mitigate; (cz.) moderate; (cz.) mollify; (cz.) placate; (cz.) qualify; (cz.) salve; (cz.) sleek; (cz.) soften; (cz.) soothe
+[lagodzaco]łagodząco (PL) : (p-sł.) soothingly
+[lagodzacy]łagodzący (PL) : (p.) palliative
+[lajac]łajać (PL) : (cz.) blame; (cz.) rate; (cz.) scold; (cz.) upbraid
+[lajdacki]łajdacki (PL) : (p.) blackguard; (p.) knavish; (p.) roguish
+[lajdacko]łajdacko (PL) : (p-sł.) villainously
+[lajdactwo]łajdactwo (PL) : (rz.) knavery; (rz.) rag-tag; (rz.) skulduggery; (rz.) villainy
+[lajdaczyc]łajdaczyć (PL) : (cz.) revel
+[lajdak]łajdak (PL) : (rz.) blackguard; (rz.) knave; (rz.) rake; (rz.) rascal; (rz.) rogue; (rz.) scamp; (rz.) scoundrel; (rz.) villain; (rz.) wretch
+[lajno]łajno (PL) : (rz.) droppings; (rz.) dune; (rz.) dung
+[laknienie]łaknienie (PL) : (rz.) appetite; (rz.) craving; (rz.) hunger
+[lakocie]łakocie (PL) : (rz.) candy; (rz.) sweets; (rz.) tuck
+[lakomczuch]łakomczuch (PL) : (rz.) glutton; (rz.) gourmand
+[lakomic]łakomić (PL) : (cz.) covet
+[lakomstwo]łakomstwo (PL) : (rz.) gluttony; (rz.) gourmandise; (rz.) greed; (rz.) greediness
+[lakomy]łakomy (PL) : (p.) greedy; (p.) insatiate; (p.) lickerish
+[lam]łam (PL) : (rz.) column
+[lamacz]łamacz (PL) : (rz.) breaker; (rz.) maker-up
+[lamaga]łamaga (PL) : (rz.) manta; (rz.) muff
+[lamanie]łamanie (PL) : (rz.) breakage; (rz.) breaking; (rz.) formatting; (rz.) infringement; (rz.) violations
+[lamac]łamać (PL) : (cz.) break; (cz.) falter; (cz.) fracture; (cz.) infringe; (cz.) refract
+[lamiglowka]łamigłówka (PL) : (rz.) jigsaw; (rz.) poser; (rz.) puzzle
+[lamistrajk]łamistrajk (PL) : (rz.) blacking; (rz.) blackleg; (rz.) fink; (rz.) scab; (rz.) strike-breaker
+[lamliwosc]łamliwość (PL) : (rz.) brittleness; (rz.) fragility; (rz.) frangibility
+[lamliwy]łamliwy (PL) : (p.) breakable; (p.) brittle; (p.) fragile; (p.) frangible
+[lan]łan (PL) : (rz.) corn; (rz.) feoff; (rz.) field
+[lania]łania (PL) : (rz.) action; (rz.) deer; (rz.) doe; (rz.) hind; (rz.) roe
+[lapa]łapa (PL) : (rz.) clamp; (rz.) claw; (rz.) leg; (rz.) paw
+[lapacz]łapacz (PL) : (rz.) catcher
+[lapadlo]łapadło (PL) : (rz.) gripper
+[lapanka]łapanka (PL) : (rz.) raid; (rz.) roundup; (rz.) round-up
+[lapac]łapać (PL) : (cz.) catch; (cz.) grasp; (cz.) nab; (cz.) snatch; (cz.) trammel
+[lapczywie]łapczywie (PL) : (p-sł.) greedily; (p-sł.) hungrily
+[lapczywosc]łapczywość (PL) : (rz.) avidity; (rz.) greediness
+[lapczywy]łapczywy (PL) : (p.) grasping; (p.) greedy
+[lapiduch]łapiduch (PL) : (rz.) sawbones
+[lapownictwo]łapownictwo (PL) : (rz.) bribery; (rz.) bribing; (rz.) corruptibility
+[lapownik]łapownik (PL) : (rz.) grafter
+[lapserdak]łapserdak (PL) : (rz.) tatterdemalion
+[lapy]łapy (PL) : (rz.) claws
+[lapowka]łapówka (PL) : (rz.) bribe; (rz.) douceur; (rz.) graft; (rz.) kickback; (rz.) payoff; (rz.) payola; (rz.) sop
+[lapowkarstwo]łapówkarstwo (PL) : (rz.) bribery
+[lapowkarz]łapówkarz (PL) : (rz.) briber; (rz.) grafter
+[lasica]łasica (PL) : (rz.) weasel
+[lasic]łasić (PL) : (cz.) fawn
+[laska]łaska (PL) : (rz.) boon; (rz.) clemency; (rz.) favour; (rz.) grace; (rz.) indulgence; (rz.) mercy; (rz.) quarter
+[laskawie]łaskawie (PL) : (p-sł.) condescendingly; (p-sł.) graciously; (p-sł.) kindly
+[laskawosc]łaskawość (PL) : (rz.) graciousness; (rz.) kindness
+[laskawy]łaskawy (PL) : (p.) benevolent; (p.) bland; (p.) clement; (p.) favourable; (p.) gracious; (p.) indulgent; (p.) kind; (p.) kindly; (p.) placid; (p.) propitious
+[laskotanie]łaskotanie (PL) : (rz.) tickle; (rz.) tickling
+[laskotac]łaskotać (PL) : (cz.) tickle; (cz.) titillate
+[laskotliwy]łaskotliwy (PL) : (p.) ticklish
+[lasowac]łasować (PL) : (cz.) crumble
+[lasuch]łasuch (PL) : (rz.) gourmand
+[lasy]łasy (PL) : (p.) broad; (p.) greedy
+[lata]łata (PL) : (rz.) lath; (rz.) patch; (rz.) scantling
+[latacz]łatacz (PL) : (rz.) cobbler
+[latanie]łatanie (PL) : (rz.) lathing
+[latanina]łatanina (PL) : (rz.) mending; (rz.) patchwork
+[latac]łatać (PL) : (cz.) cobble; (cz.) mend; (cz.) patch; (cz.) piece
+[latek]łatek (PL) : (rz.) patches
+[latka]łatka (PL) : (rz.) patch
+[latwizna]łatwizna (PL) : (rz.) breeze; (rz.) cinch; (rz.) pushover; (rz.) quickie
+[latwo]łatwo (PL) : (p-sł.) easily; (p-sł.) easy; (p-sł.) facilely; (p-sł.) handily; (p-sł.) limply; (p-sł.) readily; (p-sł.) simply; (p-sł.) swimmingly
+[latwopalnosc]łatwopalność (PL) : (rz.) flammability
+[latwopalny]łatwopalny (PL) : (p.) combustible; (p.) flammable; (p.) fusible; (p.) incendiary; (p.) inflammable
+[latwowiernie]łatwowiernie (PL) : (p-sł.) credulously
+[latwowiernosc]łatwowierność (PL) : (rz.) credulity; (rz.) gullibility
+[latwowierny]łatwowierny (PL) : (p.) credulous; (p.) gullible; (p.) simpleminded; (p.) simple-minded; (p.) wide-eyed
+[latwosc]łatwość (PL) : (rz.) ease; (rz.) easiness; (rz.) facility; (rz.) simplicities; (rz.) simplicity
+[latwy]łatwy (PL) : (p.) amicable; (p.) cushy; (p.) easy; (p.) effortless; (p.) facile; (p.) simple; (p.) tractable
+[lawa]ława (PL) : (rz.) bench; (rz.) dock
+[lawica]ławica (PL) : (rz.) bank; (rz.) cay; (rz.) school; (rz.) shoal
+[lawka]ławka (PL) : (rz.) bench; (rz.) desk; (rz.) form; (rz.) pew
+[lawkowy]ławkowy (PL) : (p.) benched
+[lawnik]ławnik (PL) : (rz.) alderman; (rz.) juror; (rz.) magistrate
+[lazienka]łazienka (PL) : (rz.) bathroom
+[lazik]łazik (PL) : (rz.) jeep; (rz.) loafer; (rz.) loiterer; (rz.) tramp
+[lazikowac]łazikować (PL) : (cz.) loiter
+[lazic]łazić (PL) : (cz.) mooch; (cz.) saunter; (cz.) stride; (cz.) traipse
+[lazega]łazęga (PL) : (rz.) gadabout
+[lancuch]łańcuch (PL) : (rz.) chain; (rz.) range; (rz.) string; (rz.) tether
+[lancuchowy]łańcuchowy (PL) : (p.) aliphatic
+[lancuszek]łańcuszek (PL) : (rz.) chain; (rz.) lancet
+[laznia]łaźnia (PL) : (rz.) bagnio; (rz.) bath
+[leb]łeb (PL) : (rz.) frontlet; (rz.) head; (rz.) noggin
+[lebski]łebski (PL) : (p.) clever
+[lechtaczka]łechtaczka (PL) : (rz.) clitoris
+[lechtanie]łechtanie (PL) : (rz.) titillation
+[lechtac]łechtać (PL) : (cz.) tickle; (cz.) titillate
+[lechtliwy]łechtliwy (PL) : (p.) ticklish
+[lepetyna]łepetyna (PL) : (rz.) head
+[lgarstwo]łgarstwo (PL) : (rz.) deceit
+[lgarz]łgarz (PL) : (rz.) fabricator; (rz.) fibber; (rz.) liar
+[lgac]łgać (PL) : (cz.) boast; (cz.) brag; (cz.) lie
+[lkac]łkać (PL) : (cz.) sob; (cz.) whimper
+[lobuz]łobuz (PL) : (rz.) hooligan; (rz.) pickle; (rz.) rapscallion; (rz.) rascal; (rz.) rogue; (rz.) roughneck; (rz.) urchin
+[lobuzerka]łobuzerka (PL) : (rz.) mischief
+[lobuzerski]łobuzerski (PL) : (p.) nocuous; (p.) rascally; (p.) roguish
+[lobuzersko]łobuzersko (PL) : (p-sł.) archly; (p-sł.) roguishly
+[lobuzerstwo]łobuzerstwo (PL) : (rz.) devilment; (rz.) rascality
+[lobuziak]łobuziak (PL) : (rz.) dickens; (rz.) scapegrace
+[lodyga]łodyga (PL) : (rz.) haulm; (rz.) shaft; (rz.) stalk; (rz.) stem
+[lojowy]łojowy (PL) : (p.) sebaceous
+[lokiec]łokieć (PL) : (rz.) cubit; (rz.) elbow; (rz.) ell
+[lom]łom (PL) : (rz.) crowbar; (rz.) crow-bar; (rz.) fragment; (rz.) jimmy
+[lomot]łomot (PL) : (rz.) clangour; (rz.) crowbar; (rz.) thud
+[lomotac]łomotać (PL) : (cz.) batter
+[lono]łono (PL) : (rz.) bosom; (rz.) bosoms; (rz.) lap; (rz.) pubes; (rz.) womb
+[lonowy]łonowy (PL) : (p.) pubic
+[lopata]łopata (PL) : (rz.) battledore; (rz.) shovel; (rz.) spade
+[lopatka]łopatka (PL) : (rz.) blade; (rz.) blade-bone; (rz.) paddle; (rz.) scapula; (rz.) shoulder; (rz.) spade; (rz.) spatula; (rz.) trowel; (rz.) vane
+[lopatkowy]łopatkowy (PL) : (p.) scapular
+[lopian]łopian (PL) : (rz.) burdock
+[lopot]łopot (PL) : (rz.) flap
+[lopotanie]łopotanie (PL) : (rz.) flapping
+[loskot]łoskot (PL) : (rz.) bluster; (rz.) boom; (rz.) clangour; (rz.) clatter; (rz.) din; (rz.) racket; (rz.) rattle; (rz.) thud
+[losos]łosoś (PL) : (rz.) kipper; (rz.) salmon
+[lotr]łotr (PL) : (rz.) knave; (rz.) rascal; (rz.) ruffian; (rz.) scoundrel; (rz.) thief; (rz.) villain; (rz.) wretch
+[lotrostwo]łotrostwo (PL) : (rz.) knavery; (rz.) villainy
+[lotrowski]łotrowski (PL) : (p.) roguish
+[lotrzyk]łotrzyk (PL) : (rz.) rogue
+[lotrzykowski]łotrzykowski (PL) : (p.) picaresque
+[lowca]łowca (PL) : (rz.) chaser; (rz.) hunter; (rz.) hunters
+[lowiectwo]łowiectwo (PL) : (rz.) hunting
+[lowienie]łowienie (PL) : (rz.) fish; (rz.) fishing
+[lowisko]łowisko (PL) : (rz.) fishery
+[lowic]łowić (PL) : (cz.) fish
+[lowny]łowny (PL) : (p.) warrantable
+[loza]łoza (PL) : (rz.) osier; (rz.) withy
+[lozina]łozina (PL) : (rz.) osier; (rz.) withy
+[los]łoś (PL) : (rz.) elk; (rz.) moose
+[loze]łoże (PL) : (rz.) bed
+[lozysko]łożysko (PL) : (rz.) bearing; (rz.) bed; (rz.) placenta; (rz.) riverbed
+[lozyskowy]łożyskowy (PL) : (p.) placental
+[lozyc]łożyć (PL) : (cz.) dab; (cz.) impose; (cz.) pay; (cz.) push
+[lubek]łubek (PL) : (rz.) fish-bar; (rz.) shin
+[lubin]łubin (PL) : (rz.) lupine
+[lubki]łubki (PL) : (rz.) splint
+[lucznictwo]łucznictwo (PL) : (rz.) archery
+[lucznik]łucznik (PL) : (rz.) archer; (rz.) bower; (rz.) bowman; (rz.) bowyer
+[ludzenie]łudzenie (PL) : (rz.) delusion; (rz.) human
+[ludzic]łudzić (PL) : (cz.) baffle; (cz.) delude; (cz.) entice
+[ludzacy]łudzący (PL) : (p.) illusive
+[lug]ług (PL) : (rz.) liquor; (rz.) lye
+[lugoodporny]ługoodporny (PL) : (p.) alkali-resistant
+[lugowanie]ługowanie (PL) : (rz.) lixiviation
+[lugowac]ługować (PL) : (cz.) leach
+[luk]łuk (PL) : (rz.) arc; (rz.) arch; (rz.) bow; (rz.) curve
+[lukowaty]łukowaty (PL) : (p.) arcaded; (p.) arched; (p.) humpbacked
+[lukowy]łukowy (PL) : (p.) arched
+[luna]łuna (PL) : (rz.) glow
+[lup]łup (PL) : (rz.) booty; (rz.) capture; (rz.) loot; (rz.) plunder; (rz.) prey; (rz.) quarry; (rz.) spoil; (rz.) swag; (rz.) trophy
+[lupa]łupa (PL) : (rz.) chunk; (rz.) hull
+[lupacz]łupacz (PL) : (rz.) haddock
+[lupanie]łupanie (PL) : (rz.) lamination; (rz.) splinter
+[lupac]łupać (PL) : (cz.) chip; (cz.) cleave; (cz.) crack; (cz.) flaw; (cz.) husk; (cz.) rive; (cz.) split
+[lupek]łupek (PL) : (rz.) schist; (rz.) shale; (rz.) slate
+[lupiestwo]łupiestwo (PL) : (rz.) pillage
+[lupiez]łupież (PL) : (rz.) dandruff; (rz.) scurf
+[lupiezca]łupieżca (PL) : (rz.) hawk; (rz.) looter; (rz.) predator
+[lupiezczy]łupieżczy (PL) : (p.) predatory; (p.) rapacious
+[lupina]łupina (PL) : (rz.) hull; (rz.) husk; (rz.) nutshell; (rz.) peel; (rz.) pod; (rz.) rind; (rz.) scale; (rz.) shell; (rz.) skin
+[lupinka]łupinka (PL) : (rz.) husk
+[lupic]łupić (PL) : (cz.) drub; (cz.) loot; (cz.) maraud; (cz.) plunder; (cz.) rob
+[lupkowaty]łupkowaty (PL) : (p.) schistose
+[lupkowy]łupkowy (PL) : (p.) schistose
+[lupliwosc]łupliwość (PL) : (rz.) cleavage
+[lupliwy]łupliwy (PL) : (p.) cleavable; (p.) fissile; (p.) splintery
+[lupy]łupy (PL) : (rz.) loot
+[luska]łuska (PL) : (rz.) barb; (rz.) cartridge-case; (rz.) casing; (rz.) flake; (rz.) hull; (rz.) husk; (rz.) rind; (rz.) scale; (rz.) shell
+[luskac]łuskać (PL) : (cz.) hull; (cz.) husk; (cz.) peel; (cz.) scale
+[luskowatosc]łuskowatość (PL) : (rz.) huskiness
+[luskowaty]łuskowaty (PL) : (p.) flaky; (p.) scaly
+[luskowiec]łuskowiec (PL) : (rz.) pangolin
+[luskowy]łuskowy (PL) : (p.) scaly
+[luszczarka]łuszczarka (PL) : (rz.) decorticator; (rz.) huller; (rz.) peeler
+[luszczenie]łuszczenie (PL) : (rz.) peeling; (rz.) shelling
+[luszczyca]łuszczyca (PL) : (rz.) psoriasis
+[luszczyc]łuszczyć (PL) : (cz.) decorticate; (cz.) flake; (cz.) husk; (cz.) peel; (cz.) scale
+[lut]łut (PL) : (rz.) dram
+[lycha]łycha (PL) : (rz.) cootie
+[lydka]łydka (PL) : (rz.) calf
+[lyk]łyk (PL) : (rz.) draught; (rz.) gulp; (rz.) mouthful; (rz.) nip; (rz.) sip; (rz.) sup; (rz.) swallow
+[lykac]łykać (PL) : (cz.) gulp; (cz.) swallow
+[lykniecie]łyknięcie (PL) : (rz.) gulp
+[lyko]łyko (PL) : (rz.) phloem; (rz.) splint
+[lykowaty]łykowaty (PL) : (p.) leathery; (p.) tough
+[lypac]łypać (PL) : (cz.) glance
+[lysiejacy]łysiejący (PL) : (p.) balding
+[lysienie]łysienie (PL) : (rz.) alopecia; (rz.) baldness
+[lysina]łysina (PL) : (rz.) baldness
+[lysy]łysy (PL) : (p.) bald; (p.) baldhead; (p.) bald-headed
+[lyszczyk]łyszczyk (PL) : (rz.) mica
+[lyzeczka]łyżeczka (PL) : (rz.) teaspoon
+[lyzeczkowac]łyżeczkować (PL) : (cz.) curette; (cz.) spoon
+[lyzka]łyżka (PL) : (rz.) scoop; (rz.) spoon; (rz.) spoonful; (rz.) teaspoon
+[lyzkowanie]łyżkowanie (PL) : (rz.) bailing
+[lyzwa]łyżwa (PL) : (rz.) skate
+[lyzwiarka]łyżwiarka (PL) : (rz.) skater
+[lyzwiarstwo]łyżwiarstwo (PL) : (rz.) skating
+[lyzwiarz]łyżwiarz (PL) : (rz.) skater
+[lza]łza (PL) : (rz.) bead; (rz.) tear; (rz.) teardrop
+[lzawienie]łzawienie (PL) : (rz.) tear
+[lzawnik]łzawnik (PL) : (rz.) beak; (rz.) gorge
+[lzawy]łzawy (PL) : (p.) rueful; (p.) sentimental; (p.) teary
+[lzowy]łzowy (PL) : (p.) lachrymal
+[lodka]łódka (PL) : (rz.) boat; (rz.) dinghy; (rz.) skiff
+[lodz]łódź (PL) : (rz.) boat; (rz.) houseboat; (rz.) launch
+[loj]łój (PL) : (rz.) suet; (rz.) tallow
+[low]łów (PL) : (rz.) low
+[lozeczko]łóżeczko (PL) : (rz.) cot; (rz.) crib
+[lozko]łóżko (PL) : (rz.) bed; (rz.) bedstead; (rz.) berth; (rz.) bunk; (rz.) cot
+[lacze]łącze (PL) : (rz.) connection; (rz.) link
+[laczenie]łączenie (PL) : (rz.) bonding; (rz.) coalescence; (rz.) concatenation; (rz.) linking; (rz.) merger; (rz.) seam
+[laczen]łączeń (PL) : (rz.) connections
+[laczka]łączka (PL) : (rz.) connector
+[laczniarka]łączniarka (PL) : (rz.) doubler
+[lacznica]łącznica (PL) : (rz.) concentrator; (rz.) junction; (rz.) switchboard; (rz.) telephone
+[lacznie]łącznie (PL) : (p-sł.) all-in; (p-sł.) coherently; (p-sł.) concomitantly; (p-sł.) cumulatively; (p-sł.) jointly; (p-sł.) together
+[lacznik]łącznik (PL) : (rz.) adapter; (rz.) clamp; (rz.) cleat; (rz.) connecter; (rz.) connecting-rod; (rz.) connector; (rz.) copula; (rz.) coupler; (rz.) dash; (rz.) fastener; (rz.) fitting; (rz.) hyphen; (rz.) junction; (rz.) link; (rz.) pitman
+[lacznosciowiec]łącznościowiec (PL) : (rz.) signalman
+[lacznosc]łączność (PL) : (rz.) coherence; (rz.) coherency; (rz.) communication; (rz.) communications; (rz.) connectivity; (rz.) contact; (rz.) liaison; (rz.) link; (rz.) telecommunication
+[laczny]łączny (PL) : (p.) all-in; (p.) associative; (p.) cumulative; (p.) inclusive; (p.) joint; (p.) total
+[laczyc]łączyć (PL) : (cz.) amalgamate; (cz.) annex; (cz.) associate; (cz.) blend; (cz.) cohere; (cz.) collate; (cz.) combine; (cz.) compound; (cz.) concatenate; (cz.) conjoin; (cz.) connect; (cz.) couple; (cz.) dial; (cz.) embody; (cz.) incorporate; (cz.) interconnect; (cz.) interlink; (cz.) interlock; (cz.) join; (cz.) link; (cz.) merge; (cz.) pair; (cz.) relate; (cz.) splice; (cz.) tag; (cz.) tie; (cz.) unite; (cz.) weld
+[laczowka]łączówka (PL) : (rz.) connector; (rz.) junction
+[laczacy]łączący (PL) : (p.) conjunctive
+[laka]łąka (PL) : (rz.) grassland; (rz.) green; (rz.) lea; (rz.) mead; (rz.) meadow
+[latka]łątka (PL) : (rz.) puppet
+[lek]łęk (PL) : (rz.) syncline
+[lekotka]łękotka (PL) : (rz.) meniscus

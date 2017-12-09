@@ -1,0 +1,542 @@
+[v-block]V-block (EN) : (rz.) pryzma
+[veronica]Veronica (EN) : (rz.) Weronika
+[vicki]Vicki (EN) : (rz.) Wiktoria
+[victor]Victor (EN) : (rz.) Wiktor
+[virgo]Virgo (EN) : (rz.) panna
+[visitant]Visitant (EN) : (rz.) wizytka
+[vac]vac (EN) : (rz.) milibar
+[vacancy]vacancy (EN) : (rz.) bezmyślność; (rz.) etat; (rz.) jonowa; (rz.) próżnia; (rz.) wakans; (rz.) wakat
+[vacant]vacant (EN) : (p.) bezmyślny; (p.) nieobecny; (p.) nieprzytomny; (p.) próżny; (p.) pusty; (p.) tępy; (p.) wakujący; (p.) wolny
+[vacantly]vacantly (EN) : (p-sł.) bezmyślnie; (p-sł.) nieobecnie
+[vacate]vacate (EN) : (cz.) anulować; (cz.) opróżniać; (cz.) opróżnić; (cz.) opuszczać; (cz.) porzucać; (cz.) porzucić; (cz.) wyprowadzać; (cz.) zwalniać; (cz.) zwolnić
+[vacation]vacation (EN) : (rz.) choroba; (rz.) urlop; (rz.) wakacje
+[vacationer]vacationer (EN) : (rz.) letnik; (rz.) urlopowicz; (rz.) wczasowicz
+[vaccinate]vaccinate (EN) : (cz.) szczepić; (cz.) zaszczepiać; (cz.) zaszczepić
+[vaccinated]vaccinated (EN) : (cz.) zaszczepić
+[vaccination]vaccination (EN) : (rz.) szczepienie
+[vaccine]vaccine (EN) : (p.) szczepionkowy; (rz.) krowianka; (rz.) szczepionka
+[vacillate]vacillate (EN) : (cz.) chwiać; (cz.) wahać
+[vacillation]vacillation (EN) : (rz.) chwianie; (rz.) niezdecydowanie; (rz.) wahanie
+[vacuity]vacuity (EN) : (rz.) próżnia; (rz.) pustka
+[vacuole]vacuole (EN) : (rz.) wakuola
+[vacuous]vacuous (EN) : (p.) próżniowy; (p.) próżny
+[vacuously]vacuously (EN) : (p-sł.) bezcelowo
+[vacuum]vacuum (EN) : (cz.) odkurzać; (cz.) odkurzyć; (rz.) odkurzacz; (rz.) podciśnienie; (rz.) próżnia; (rz.) pustka
+[vacuum-cleaner]vacuum-cleaner (EN) : (rz.) elektroluks
+[vacuum-tight]vacuum-tight (EN) : (p.) próżnioszczelny
+[vagabond]vagabond (EN) : (rz.) przybłęda; (rz.) wagabunda; (rz.) włóczęga
+[vagabondage]vagabondage (EN) : (rz.) włóczęga; (rz.) włóczęgostwo
+[vagary]vagary (EN) : (rz.) fantazja; (rz.) grymas; (rz.) kaprys; (rz.) psota
+[vagina]vagina (EN) : (rz.) pochwa
+[vaginal]vaginal (EN) : (p.) pochwowy
+[vagrancy]vagrancy (EN) : (rz.) włóczęgostwo
+[vagrant]vagrant (EN) : (p.) wędrowny; (p.) włóczęgowski; (rz.) przybłęda; (rz.) wagabunda; (rz.) włóczęga
+[vague]vague (EN) : (p.) niejasny; (p.) nieokreślony; (p.) niepewny; (p.) niewyraźny; (p.) ogólnikowy
+[vaguely]vaguely (EN) : (p-sł.) niejasno; (p-sł.) ogólnikowo
+[vagueness]vagueness (EN) : (rz.) niejasność; (rz.) nieokreśloność
+[vaguest]vaguest (EN) : (p.) niejasny; (p.) niewyraźny
+[vain]vain (EN) : (p.) czczy; (p.) daremny; (p.) gołosłowny; (p.) płonny; (p.) próżny; (p.) pusty
+[vainglorious]vainglorious (EN) : (p.) chełpliwy; (p.) próżny
+[vainglory]vainglory (EN) : (rz.) chełpliwość; (rz.) próżność; (rz.) pycha; (rz.) zadufanie; (rz.) zarozumiałość
+[vainly]vainly (EN) : (p-sł.) bezowocnie; (p-sł.) bezskutecznie; (p-sł.) nadaremnie; (p-sł.) zarozumiale
+[vainness]vainness (EN) : (rz.) daremność
+[valance]valance (EN) : (rz.) falbana
+[vale]vale (EN) : (rz.) dolina; (rz.) padół
+[valediction]valediction (EN) : (rz.) pożegnanie
+[valence]valence (EN) : (rz.) wartościowość
+[valentine]valentine (EN) : (rz.) dzień
+[valerian]valerian (EN) : (rz.) waleriana
+[valet]valet (EN) : (cz.) usługiwać; (rz.) lokaj; (rz.) służący; (rz.) tapicerka
+[valetudinarian]valetudinarian (EN) : (rz.) cherlak
+[valetudinarianism]valetudinarianism (EN) : (rz.) chorowitość; (rz.) słabowitość
+[valiant]valiant (EN) : (p.) bitny; (p.) chrobry; (p.) dzielny; (p.) odważny
+[valiantly]valiantly (EN) : (p-sł.) dzielnie; (p-sł.) mężnie
+[valid]valid (EN) : (p.) istotny; (p.) poprawny; (p.) prawidłowy; (p.) prawomocny; (p.) ważny; (p.) zdrowy
+[validate]validate (EN) : (cz.) legalizować; (cz.) sprawdzać; (cz.) sprawdzić; (cz.) uprawomocniać; (cz.) uprawomocnić; (cz.) zatwierdzać
+[validation]validation (EN) : (rz.) atestacja; (rz.) konwalidacja; (rz.) legalizacja; (rz.) stwierdzanie; (rz.) uprawomocnienie; (rz.) walidacja; (rz.) zatwierdzanie; (rz.) zatwierdzenie
+[validity]validity (EN) : (rz.) prawdziwość; (rz.) prawomocność; (rz.) słuszność; (rz.) ważność; (rz.) zasadność
+[validly]validly (EN) : (p-sł.) prawomocnie; (p-sł.) ważnie; (p-sł.) wiążąco
+[valise]valise (EN) : (rz.) waliza; (rz.) walizka
+[valley]valley (EN) : (rz.) dolina; (rz.) kotlina; (rz.) padół
+[valorisation]valorisation (EN) : (rz.) waloryzacja
+[valorous]valorous (EN) : (p.) waleczny
+[valour]valour (EN) : (rz.) bohaterstwo; (rz.) dzielność; (rz.) męstwo; (rz.) odwaga; (rz.) waleczność
+[valuable]valuable (EN) : (p.) cenny; (p.) drogocenny; (p.) wartościowy; (rz.) kosztowność
+[valuables]valuables (EN) : (rz.) kosztowności
+[valuably]valuably (EN) : (p-sł.) wartościowo
+[valuation]valuation (EN) : (rz.) cena; (rz.) oszacowanie; (rz.) taksacja; (rz.) wartość; (rz.) wartościowanie; (rz.) wycena
+[valuator]valuator (EN) : (rz.) taksator
+[value]value (EN) : (cz.) cenić; (cz.) szacować; (cz.) szanować; (cz.) wartościować; (cz.) wyceniać; (cz.) wycenić; (rz.) cena; (rz.) nominał; (rz.) szacowanie; (rz.) walor; (rz.) waluta; (rz.) wartość; (rz.) znaczenie
+[valueless]valueless (EN) : (p.) bezwartościowy
+[valve]valve (EN) : (rz.) klapa; (rz.) wentyl; (rz.) zastawka; (rz.) zawór
+[vamoose]vamoose (EN) : (cz.) wiać; (cz.) zwiewać
+[vampire]vampire (EN) : (rz.) strzyga; (rz.) upiór; (rz.) wampir
+[van]van (EN) : (rz.) furgon; (rz.) furgonetka; (rz.) półciężarówka; (rz.) wagon; (rz.) wóz
+[vanadium]vanadium (EN) : (rz.) wanad
+[vandal]vandal (EN) : (rz.) wandal
+[vandalism]vandalism (EN) : (rz.) barbarzyństwo; (rz.) dewastacja; (rz.) wandalizm
+[vandalize]vandalize (EN) : (cz.) demolować; (cz.) dewastować; (cz.) niszczyć; (cz.) zniszczyć
+[vane]vane (EN) : (rz.) brzechwa; (rz.) łopatka; (rz.) wiatrowskaz
+[vanguard]vanguard (EN) : (rz.) awangarda; (rz.) awangardyzm
+[vanilla]vanilla (EN) : (rz.) wanilia
+[vanillin]vanillin (EN) : (rz.) wanilina
+[vanish]vanish (EN) : (cz.) pierzchać; (cz.) przepadać; (cz.) sczeznąć; (cz.) znikać
+[vanity]vanity (EN) : (rz.) daremność; (rz.) marność; (rz.) marnota; (rz.) próżność; (rz.) zarozumiałość; (rz.) zarozumialstwo; (rz.) złuda
+[vanquish]vanquish (EN) : (cz.) zwyciężać; (cz.) zwyciężyć
+[vanquisher]vanquisher (EN) : (rz.) zwycięzca
+[vantage]vantage (EN) : (rz.) przewaga
+[vapid]vapid (EN) : (p.) bezduszny; (p.) mdły; (p.) nieświeży; (p.) tępy
+[vapidity]vapidity (EN) : (rz.) zwietrzenie
+[vapidly]vapidly (EN) : (p-sł.) bezbarwnie
+[vaporization]vaporization (EN) : (rz.) odparowanie; (rz.) odparowywanie; (rz.) parowanie
+[vaporize]vaporize (EN) : (cz.) odparowywać; (cz.) parować; (cz.) wyparować
+[vaporizer]vaporizer (EN) : (rz.) odparowywacz; (rz.) wyparka
+[vapour]vapour (EN) : (rz.) fantazja; (rz.) mgła; (rz.) opar; (rz.) para; (rz.) parówka
+[vaquero]vaquero (EN) : (p.) dżinsowy; (rz.) kowboj; (rz.) pastuch
+[variability]variability (EN) : (rz.) niestałość; (rz.) zmienność
+[variable]variable (EN) : (p.) kolejny; (p.) zmienny; (rz.) zmienna
+[variables]variables (EN) : (rz.) zmienna
+[variably]variably (EN) : (p-sł.) zmiennie
+[variance]variance (EN) : (rz.) niezgodność; (rz.) rozbieżność; (rz.) sprzeczność; (rz.) wariancja; (rz.) zmiana
+[variant]variant (EN) : (p.) inny; (p.) odmienny; (p.) wariantowy; (rz.) wariant; (rz.) wersja
+[variation]variation (EN) : (rz.) odchylenie; (rz.) odmiana; (rz.) wahanie; (rz.) wariacja; (rz.) zmiana
+[varicoloured]varicoloured (EN) : (p.) różnobarwny; (p.) różnokolorowy
+[varied]varied (EN) : (p.) rozmaity; (p.) różnorodny; (p.) różny
+[variegate]variegate (EN) : (cz.) upstrzyć
+[variegated]variegated (EN) : (p.) barwny; (p.) różnobarwny; (p.) urozmaicony; (p.) wielobarwny
+[variegation]variegation (EN) : (rz.) rozmaitość; (rz.) różnobarwność
+[variety]variety (EN) : (rz.) bogactwo; (rz.) odmiana; (rz.) rozmaitość; (rz.) różnorodność; (rz.) urozmaicenie
+[various]various (EN) : (p.) przeróżny; (p.) rozliczny; (p.) rozmaity; (p.) różnorodny; (p.) różny
+[variously]variously (EN) : (p-sł.) rozmaicie; (p-sł.) różnie
+[varlet]varlet (EN) : (rz.) pachołek
+[varmint]varmint (EN) : (rz.) hultaj; (rz.) psubrat
+[varnish]varnish (EN) : (cz.) lakierować; (cz.) pokostować; (cz.) zatuszować; (rz.) glazura; (rz.) lakier; (rz.) pokost; (rz.) politura; (rz.) werniks
+[varsity]varsity (EN) : (rz.) reprezentacja; (rz.) uniwerek
+[vary]vary (EN) : (cz.) różnić; (cz.) różnicować; (cz.) urozmaicać; (cz.) wahać; (cz.) zmieniać
+[vascular]vascular (EN) : (p.) naczyniowy
+[vase]vase (EN) : (rz.) dzban; (rz.) flakon; (rz.) waza; (rz.) wazon
+[vasectomy]vasectomy (EN) : (rz.) sterylizacja
+[vasopressin]vasopressin (EN) : (rz.) wazopresyna
+[vassal]vassal (EN) : (rz.) lennik; (rz.) wasal
+[vassalage]vassalage (EN) : (rz.) hołdownictwo; (rz.) lennictwo; (rz.) podległość; (rz.) wasalstwo
+[vast]vast (EN) : (p.) obszerny; (p.) ogromny; (p.) rozległy
+[vastly]vastly (EN) : (p-sł.) ogromnie; (p-sł.) znacznie
+[vastness]vastness (EN) : (rz.) bezmiar; (rz.) ogrom
+[vat]vat (EN) : (rz.) cysterna; (rz.) kadź; (rz.) stągiew; (rz.) zbiornik
+[vaudeville]vaudeville (EN) : (rz.) wodewil
+[vault]vault (EN) : (cz.) przeskakiwać; (cz.) sklepić; (rz.) grobowiec; (rz.) piwnica; (rz.) podziemie; (rz.) skarbiec; (rz.) sklepienie
+[vaulted]vaulted (EN) : (p.) podziemny; (p.) sklepiony
+[vaunt]vaunt (EN) : (cz.) chełpić; (cz.) przechwalać; (cz.) wychwalać
+[veal]veal (EN) : (rz.) cielęcina
+[vector]vector (EN) : (rz.) nosiciel; (rz.) wektor
+[vector-distance]vector-distance (EN) : (rz.) wektor-odległość
+[vectored]vectored (EN) : (p.) ruchomy
+[veer]veer (EN) : (cz.) luzować; (cz.) skręcać; (cz.) zbaczać
+[vegetable]vegetable (EN) : (rz.) jarzyna; (rz.) roślina; (rz.) warzywo
+[vegetables]vegetables (EN) : (rz.) warzywa; (rz.) zielenina
+[vegetarian]vegetarian (EN) : (p.) bezmięsny; (p.) jarski; (p.) wegetariański; (rz.) jarosz; (rz.) wegetarianin; (rz.) wegetarianizm
+[vegetarianism]vegetarianism (EN) : (rz.) wegetarianizm
+[vegetate]vegetate (EN) : (cz.) rosnąć; (cz.) wegetować
+[vegetation]vegetation (EN) : (rz.) roślinność; (rz.) wegetacja; (rz.) wyrośl
+[vegetative]vegetative (EN) : (p.) roślinny; (p.) wegetacyjny; (p.) wegetatywny
+[vehemence]vehemence (EN) : (rz.) gwałtowność; (rz.) pasja
+[vehement]vehement (EN) : (p.) gwałtowny; (p.) porywczy; (p.) porywisty; (p.) silny; (p.) wybuchowy; (p.) zaciekły
+[vehemently]vehemently (EN) : (p-sł.) gwałtownie; (p-sł.) zajadle
+[vehicle]vehicle (EN) : (rz.) nosiciel; (rz.) nośnik; (rz.) pojazd; (rz.) powóz; (rz.) przewodnik; (rz.) wehikuł; (rz.) wóz
+[vehicles]vehicles (EN) : (rz.) pojazd
+[vehicular]vehicular (EN) : (p.) kołowy; (p.) przejazdowy; (p.) samochodowy
+[veil]veil (EN) : (cz.) przesłaniać; (cz.) przysłaniać; (cz.) zawoalować; (rz.) maska; (rz.) welon; (rz.) woal; (rz.) woalka; (rz.) zasłona
+[vein]vein (EN) : (rz.) skłonność; (rz.) wena; (rz.) żyła; (rz.) żyłka
+[veined]veined (EN) : (p.) słojowaty; (p.) żyłkowaty
+[velar]velar (EN) : (p.) tylnojęzykowy; (p.) welarny
+[vellum]vellum (EN) : (rz.) pergamin; (rz.) welin
+[velocipede]velocipede (EN) : (rz.) welocyped
+[velocity]velocity (EN) : (rz.) chyżość; (rz.) prędkość; (rz.) szybkość
+[velour]velour (EN) : (rz.) welur
+[velum]velum (EN) : (rz.) błona
+[velvet]velvet (EN) : (rz.) aksamit; (rz.) welur; (rz.) welwet
+[velveteen]velveteen (EN) : (rz.) sztruks; (rz.) welwet
+[velvety]velvety (EN) : (p.) aksamitny
+[venal]venal (EN) : (p.) kupny; (p.) przekupny; (p.) sprzedajny
+[venality]venality (EN) : (rz.) korupcja; (rz.) sprzedajność
+[venation]venation (EN) : (rz.) żyłkowanie
+[vend]vend (EN) : (cz.) handlować
+[vendee]vendee (EN) : (rz.) nabywca
+[vender]vender (EN) : (rz.) przekupień
+[vendetta]vendetta (EN) : (rz.) wendeta
+[vendible]vendible (EN) : (p.) pokupny
+[vendor]vendor (EN) : (rz.) dostawca; (rz.) sprzedawca
+[veneer]veneer (EN) : (cz.) fornirować; (cz.) maskować
+[venerable]venerable (EN) : (p.) czcigodny; (p.) sędziwy; (p.) szanowny
+[venerate]venerate (EN) : (cz.) czcić
+[veneration]veneration (EN) : (rz.) cześć; (rz.) szacunek
+[venereal]venereal (EN) : (p.) weneryczny
+[venery]venery (EN) : (rz.) stosunek
+[vengeance]vengeance (EN) : (rz.) pomsta; (rz.) zawziętość; (rz.) zemsta
+[vengeful]vengeful (EN) : (p.) mściwy
+[venial]venial (EN) : (p.) lekki; (p.) przebaczalny; (p.) wybaczalny
+[veniality]veniality (EN) : (p.) powszedni
+[venison]venison (EN) : (rz.) dziczyzna; (rz.) sarnina
+[venom]venom (EN) : (rz.) jad; (rz.) trucizna; (rz.) złość
+[venomous]venomous (EN) : (p.) jadowity; (p.) złośliwy
+[venomously]venomously (EN) : (p-sł.) jadowicie
+[venomousness]venomousness (EN) : (rz.) jadowitość
+[venous]venous (EN) : (p.) żylny
+[vent]vent (EN) : (cz.) odpowietrzać; (rz.) odpowietrznik; (rz.) otwór; (rz.) ujście; (rz.) upust; (rz.) wejście; (rz.) wentyl; (rz.) wlot
+[ventilate]ventilate (EN) : (cz.) przewietrzać; (cz.) przewietrzyć; (cz.) roztrząsać; (cz.) utleniać; (cz.) wentylować; (cz.) wietrzyć
+[ventilation]ventilation (EN) : (rz.) nawiew; (rz.) przewietrzanie; (rz.) przewietrzenie; (rz.) wentylacja; (rz.) wietrzenie
+[ventilator]ventilator (EN) : (rz.) nawiewnik; (rz.) odwietrznik; (rz.) wentylator; (rz.) wietrznik; (rz.) wywietrznik
+[venting]venting (EN) : (rz.) odpowietrzanie; (rz.) przewietrzanie
+[ventral]ventral (EN) : (p.) brzuszny; (p.) wewnętrzny
+[ventricle]ventricle (EN) : (rz.) komora
+[ventricular]ventricular (EN) : (p.) komorowy
+[ventriloquism]ventriloquism (EN) : (rz.) brzuchomówstwo
+[ventriloquist]ventriloquist (EN) : (rz.) brzuchomówca
+[venture]venture (EN) : (cz.) narażać; (cz.) odważyć; (cz.) przedsięwziąć; (cz.) ryzykować; (cz.) zaryzykować; (rz.) próba; (rz.) przedsięwzięcie; (rz.) ryzyko; (rz.) spekulacja
+[venturesome]venturesome (EN) : (p.) przedsiębiorczy; (p.) ryzykancki; (p.) ryzykowny
+[venue]venue (EN) : (rz.) lokum; (rz.) miejsce
+[veracious]veracious (EN) : (p.) prawdomówny; (p.) wiarogodny; (p.) wiarygodny
+[veracity]veracity (EN) : (rz.) prawdomówność; (rz.) prawdziwość; (rz.) wiarygodność
+[veranda]veranda (EN) : (rz.) weranda
+[verb]verb (EN) : (rz.) czasownik; (rz.) słowo
+[verbal]verbal (EN) : (p.) czasownikowy; (p.) dosłowny; (p.) odczasownikowy; (p.) słowny; (p.) ustny; (p.) werbalny
+[verbalism]verbalism (EN) : (rz.) werbalizm
+[verbalization]verbalization (EN) : (rz.) werbalizacja; (rz.) zwerbalizowanie
+[verbalize]verbalize (EN) : (cz.) mówić; (cz.) powiedzieć; (cz.) werbalizować
+[verbally]verbally (EN) : (p-sł.) ustnie; (p-sł.) werbalnie
+[verbatim]verbatim (EN) : (p.) dosłowny; (p.) stenograficzny; (p-sł.) dosłownie
+[verbena]verbena (EN) : (rz.) werbena
+[verbiage]verbiage (EN) : (rz.) wielomówność
+[verbose]verbose (EN) : (p.) drobiazgowy; (p.) gadatliwy; (p.) mowny; (p.) wielomówny; (p.) wielosłowny
+[verbosity]verbosity (EN) : (rz.) gadatliwość; (rz.) wielomówność; (rz.) wielosłowność
+[verdant]verdant (EN) : (p.) zielony
+[verdict]verdict (EN) : (rz.) grynszpan; (rz.) opinia; (rz.) werdykt; (rz.) wyrok
+[verdure]verdure (EN) : (rz.) roślinność; (rz.) zieleń
+[verge]verge (EN) : (cz.) graniczyć; (cz.) przechodzić; (cz.) zbliżać; (rz.) brzeg; (rz.) kraniec; (rz.) krawędź; (rz.) pobocze; (rz.) próg; (rz.) skraj
+[verger]verger (EN) : (rz.) zakrystian
+[verges]verges (EN) : (cz.) graniczyć; (cz.) przechodzić
+[veridical]veridical (EN) : (p.) prawdomówny; (p.) wierny; (rz.) psych
+[verifiability]verifiability (EN) : (rz.) sprawdzalność
+[verifiable]verifiable (EN) : (p.) sprawdzalny
+[verifiably]verifiably (EN) : (p.) sprawdzalny
+[verification]verification (EN) : (rz.) kontrola; (rz.) legalizacja; (rz.) potwierdzenie; (rz.) sprawdzanie; (rz.) sprawdzenie; (rz.) weryfikacja; (rz.) weryfikowanie
+[verifier]verifier (EN) : (rz.) sprawdzarka; (rz.) weryfikator
+[verify]verify (EN) : (cz.) potwierdzać; (cz.) potwierdzić; (cz.) sprawdzać; (cz.) sprawdzić; (cz.) stwierdzać; (cz.) stwierdzić; (cz.) weryfikować; (cz.) zweryfikować
+[verily]verily (EN) : (p-sł.) doprawdy
+[veritable]veritable (EN) : (p.) istny; (p.) prawdziwy; (p.) rzeczywisty
+[verity]verity (EN) : (rz.) prawda; (rz.) rzeczywistość
+[vermicular]vermicular (EN) : (p.) robaczkowy
+[vermiculite]vermiculite (EN) : (rz.) wermikulit
+[vermiform]vermiform (EN) : (p.) robakowaty
+[vermilion]vermilion (EN) : (p.) cynobrowy; (rz.) cynober
+[vermillion]vermillion (EN) : (rz.) cynober
+[vermin]vermin (EN) : (rz.) gadzina; (rz.) plugastwo; (rz.) robactwo; (rz.) szkodnik
+[vermouth]vermouth (EN) : (rz.) wermut
+[vernacular]vernacular (EN) : (p.) krajowy; (p.) miejscowy; (p.) ojczysty; (p.) rodzimy; (p.) tubylczy; (rz.) gwara; (rz.) żargon
+[vernal]vernal (EN) : (p.) wiosenny
+[versant]versant (EN) : (rz.) pochyłość
+[versatile]versatile (EN) : (p.) bystry; (p.) uniwersalny; (p.) wielofunkcyjny; (p.) wszechstronny; (p.) zmienny; (p.) zwinny
+[versatility]versatility (EN) : (rz.) bystrość; (rz.) różnorodność; (rz.) uniwersalność; (rz.) wszechstronność; (rz.) zwinność
+[verse]verse (EN) : (rz.) poezja; (rz.) strofa; (rz.) wers; (rz.) werset; (rz.) wiersz; (rz.) zwrotka
+[versed]versed (EN) : (p.) biegły; (p.) doświadczony; (p.) obeznany
+[versification]versification (EN) : (rz.) wersyfikacja
+[versifier]versifier (EN) : (rz.) rymopis
+[versify]versify (EN) : (cz.) rymować; (cz.) wierszować
+[version]version (EN) : (rz.) przekład; (rz.) wersja
+[versus]versus (EN) : (p-im.) przeciw
+[vertebra]vertebra (EN) : (rz.) kręg
+[vertebral]vertebral (EN) : (p.) kręgowy; (p.) pacierzowy
+[vertebrate]vertebrate (EN) : (rz.) kręgowiec
+[vertex]vertex (EN) : (rz.) szczyt; (rz.) wierzchołek
+[vertical]vertical (EN) : (p.) pionowy; (p.) wertykalny; (p.) wierzchołkowy; (p.) zenitowy; (rz.) pion
+[vertically]vertically (EN) : (p-sł.) pionowo
+[verve]verve (EN) : (rz.) werwa; (rz.) zacięcie; (rz.) zapał
+[very]very (EN) : (p.) istotny; (p.) sam; (p-sł.) bardzo
+[vesicant]vesicant (EN) : (rz.) wezykatoria
+[vesicle]vesicle (EN) : (rz.) kaletnik; (rz.) pęcherz; (rz.) pęcherzyk; (rz.) pryszcz
+[vesicular]vesicular (EN) : (p.) pęcherzykowy
+[vesper]vesper (EN) : (rz.) wieczór
+[vespers]vespers (EN) : (rz.) nieszpory
+[vessel]vessel (EN) : (rz.) naczynie; (rz.) okręt; (rz.) pojemnik; (rz.) statek
+[vest]vest (EN) : (cz.) nadać; (cz.) nadawać; (cz.) okrywać; (cz.) udzielać; (cz.) udzielić; (cz.) użyczać; (cz.) wdziewać; (rz.) bezrękawnik; (rz.) kaftan; (rz.) kaftanik; (rz.) kamizelka; (rz.) podkoszulek
+[vestal]vestal (EN) : (rz.) dziewica
+[vestibular]vestibular (EN) : (p.) przedsionkowy
+[vestibule]vestibule (EN) : (rz.) przedsionek; (rz.) westybul
+[vestige]vestige (EN) : (rz.) pozostałość; (rz.) ślad; (rz.) znak
+[vestigial]vestigial (EN) : (p.) śladowy; (p.) szczątkowy
+[vestment]vestment (EN) : (rz.) ornat; (rz.) strój
+[vestry]vestry (EN) : (rz.) zakrystia
+[vet]vet (EN) : (cz.) lustrować; (rz.) artykuł; (rz.) weteran; (rz.) weterynarz
+[vetch]vetch (EN) : (rz.) wyka
+[veteran]veteran (EN) : (rz.) kombatant; (rz.) weteran
+[veterinarian]veterinarian (EN) : (rz.) weterynarz
+[veterinary]veterinary (EN) : (p.) weterynaryjny
+[veto]veto (EN) : (cz.) wetować; (cz.) zakazywać; (rz.) weto; (rz.) zakaz
+[vex]vex (EN) : (cz.) dokuczać; (cz.) drażnić; (cz.) dręczyć; (cz.) irytować; (cz.) poirytować; (cz.) rozdrażniać; (cz.) rozgniewać; (cz.) rozzłościć; (cz.) zdenerwować; (cz.) zirytować; (cz.) złościć
+[vexation]vexation (EN) : (rz.) udręka; (rz.) utrapienie
+[via]via (EN) : (p-im.) na; (p-im.) przez
+[viability]viability (EN) : (rz.) osłabnięcie; (rz.) witalność
+[viable]viable (EN) : (p.) realny; (p.) wykonalny; (p.) żywotny
+[viably]viably (EN) : (p-sł.) realnie
+[viaduct]viaduct (EN) : (rz.) wiadukt
+[vial]vial (EN) : (rz.) fiolka; (rz.) flakonik
+[viands]viands (EN) : (rz.) prowiant; (rz.) żywność
+[viaticum]viaticum (EN) : (rz.) wiatyk
+[vibraphone]vibraphone (EN) : (rz.) wibrafon
+[vibrate]vibrate (EN) : (cz.) drgać; (cz.) drżeć; (cz.) oscylować; (cz.) rezonować; (cz.) wibrować; (cz.) zadrgać
+[vibrating]vibrating (EN) : (p.) wibracyjny
+[vibration]vibration (EN) : (rz.) drganie; (rz.) wibracja; (rz.) wibrowanie
+[vibrations]vibrations (EN) : (rz.) oscylacje
+[vibrator]vibrator (EN) : (rz.) oscylator; (rz.) wibrator; (rz.) wstrząsarka
+[vibratory]vibratory (EN) : (p.) wibracyjny
+[vicar]vicar (EN) : (rz.) pleban; (rz.) proboszcz; (rz.) wikariusz; (rz.) wikary
+[vicarage]vicarage (EN) : (rz.) plebania; (rz.) wikariat
+[vicarious]vicarious (EN) : (p.) naprzemienny; (p.) przeciwległy; (p.) zastępczy
+[vicariously]vicariously (EN) : (p-sł.) pośrednio
+[vice]vice (EN) : (rz.) brak; (rz.) defekt; (rz.) imadło; (rz.) nałóg; (rz.) narów; (rz.) przestępstwo; (rz.) przywara; (rz.) ułomność; (rz.) wada; (rz.) wiceadmirał; (rz.) wicekonsul; (rz.) występek
+[vice-admiral]vice-admiral (EN) : (rz.) wiceadmirał
+[vice-chairman]vice-chairman (EN) : (rz.) wiceprezes
+[vice-champion]vice-champion (EN) : (rz.) wicemistrz
+[vice-president]vice-president (EN) : (rz.) wiceprezes; (rz.) wiceprezydent
+[vicegerent]vicegerent (EN) : (p.) zastępczy; (rz.) zastępca
+[viceroy]viceroy (EN) : (rz.) wicekról
+[vicinage]vicinage (EN) : (rz.) okolica
+[vicinal]vicinal (EN) : (p.) sąsiedni
+[vicinity]vicinity (EN) : (rz.) bliskość; (rz.) otoczenie; (rz.) pobliże; (rz.) sąsiedztwo
+[vicious]vicious (EN) : (p.) błędny; (p.) narowisty; (p.) przewrotny; (p.) wadliwy; (p.) wredny; (p.) zjadliwy; (p.) złośliwy; (p.) zły
+[viciousness]viciousness (EN) : (rz.) przewrotność; (rz.) złośliwość
+[vicissitude]vicissitude (EN) : (rz.) nietrwałość; (rz.) zmienność
+[vicissitudes]vicissitudes (EN) : (rz.) zmienność
+[victim]victim (EN) : (rz.) ofiara
+[victimization]victimization (EN) : (rz.) szykanowanie
+[victimize]victimize (EN) : (cz.) gnębić; (cz.) ofiarować; (cz.) represjonować; (cz.) zgnębić
+[victor]victor (EN) : (rz.) triumfator; (rz.) zwycięzca
+[victorious]victorious (EN) : (p.) zwycięski
+[victory]victory (EN) : (rz.) wiktoria; (rz.) wygrana; (rz.) zwycięstwo
+[vicuna]vicuna (EN) : (rz.) wigoń
+[video]video (EN) : (rz.) film; (rz.) magnetowid; (rz.) teledysk; (rz.) wideo; (rz.) wideokamera; (rz.) wideoklip
+[videocassette]videocassette (EN) : (rz.) wideokaseta
+[vie]vie (EN) : (cz.) współzawodniczyć
+[view]view (EN) : (cz.) obejrzeć; (cz.) oglądać; (cz.) postrzegać; (cz.) przeglądać; (cz.) przejrzeć; (cz.) spojrzeć; (cz.) wyświetlić; (cz.) zobaczyć; (rz.) ocena; (rz.) ogląd; (rz.) opinia; (rz.) perspektywa; (rz.) pogląd; (rz.) przegląd; (rz.) przeglądanie; (rz.) spojrzenie; (rz.) widok; (rz.) widzenie; (rz.) wizja; (rz.) zamiar; (rz.) zapatrywanie; (rz.) zdanie
+[view-controller]view-controller (EN) : (rz.) widok-kontroler
+[view-finder]view-finder (EN) : (rz.) celownik; (rz.) wizjer
+[viewable]viewable (EN) : (p.) użyteczny; (p.) widoczny
+[viewer]viewer (EN) : (rz.) przeglądarka; (rz.) przeziernik; (rz.) szperacz; (rz.) telewidz; (rz.) widz
+[viewers]viewers (EN) : (rz.) widownia
+[viewfinder]viewfinder (EN) : (rz.) celownik; (rz.) wizjer
+[viewless]viewless (EN) : (p.) niewidoczny
+[viewpoint]viewpoint (EN) : (rz.) stanowisko
+[views]views (EN) : (cz.) obrać
+[vigil]vigil (EN) : (rz.) czuwanie; (rz.) wigilia
+[vigilance]vigilance (EN) : (rz.) baczenie; (rz.) czujność
+[vigilant]vigilant (EN) : (p.) czujny
+[vigilante]vigilante (EN) : (rz.) strażnik
+[vignette]vignette (EN) : (rz.) winieta
+[vigorous]vigorous (EN) : (p.) energiczny; (p.) zamaszysty; (p.) żywotny
+[vigorously]vigorously (EN) : (p-sł.) energicznie; (p-sł.) krzepko; (p-sł.) żywiołowo; (p-sł.) żywo
+[vigour]vigour (EN) : (rz.) animusz; (rz.) wigor
+[vile]vile (EN) : (p.) niecny; (p.) niegodny; (p.) nikczemny; (p.) podły; (p.) szmatławy; (p.) wstrętny
+[vilely]vilely (EN) : (p-sł.) niegodziwie; (p-sł.) nikczemnie; (p-sł.) podle
+[vileness]vileness (EN) : (rz.) niegodziwość; (rz.) podłość
+[vilify]vilify (EN) : (cz.) obmawiać; (cz.) poniżyć; (cz.) upodlać; (cz.) upodlić; (cz.) zelżyć
+[villa]villa (EN) : (rz.) willa
+[village]village (EN) : (rz.) miasteczko; (rz.) sioło; (rz.) wieś; (rz.) wioska
+[villager]villager (EN) : (rz.) wieśniak
+[villain]villain (EN) : (rz.) bezecnik; (rz.) drań; (rz.) łajdak; (rz.) łotr; (rz.) niegodziwiec; (rz.) nikczemnik; (rz.) wyrodek; (rz.) złoczyńca
+[villainous]villainous (EN) : (p.) niegodziwy; (p.) zły
+[villainously]villainously (EN) : (p-sł.) łajdacko
+[villainy]villainy (EN) : (rz.) łajdactwo; (rz.) łotrostwo
+[vim]vim (EN) : (rz.) krzepa; (rz.) rześkość
+[vinculum]vinculum (EN) : (rz.) więź
+[vindicate]vindicate (EN) : (cz.) bronić; (cz.) domagać; (cz.) dowodzić; (cz.) obronić; (cz.) rewindykować; (cz.) utwierdzać; (cz.) windykować
+[vindication]vindication (EN) : (rz.) dowodzenie; (rz.) obrona; (rz.) potwierdzenie; (rz.) rehabilitacja; (rz.) usprawiedliwienie; (rz.) windykacja
+[vindicator]vindicator (EN) : (rz.) obrońca
+[vindictive]vindictive (EN) : (p.) karny; (p.) mściwy
+[vindictively]vindictively (EN) : (p-sł.) mściwie
+[vindictiveness]vindictiveness (EN) : (rz.) mściwość
+[vine]vine (EN) : (rz.) latorośl; (rz.) pnącze; (rz.) winobluszcz; (rz.) winorośl
+[vinegar]vinegar (EN) : (rz.) ocet
+[vines]vines (EN) : (rz.) winorośl
+[vineyard]vineyard (EN) : (rz.) winnica
+[vinous]vinous (EN) : (p.) winny; (p.) winowy
+[vintage]vintage (EN) : (rz.) rocznik; (rz.) winobranie
+[vintner]vintner (EN) : (rz.) winiarz
+[vinyl]vinyl (EN) : (rz.) winyl
+[viol]viol (EN) : (rz.) wiola
+[viola]viola (EN) : (rz.) altówka; (rz.) wiola
+[violate]violate (EN) : (cz.) gwałcić; (cz.) naruszać; (cz.) naruszyć; (cz.) sprofanować; (cz.) zaburzać; (cz.) zakłócać
+[violation]violation (EN) : (rz.) naruszenie; (rz.) pogwałcenie; (rz.) profanacja; (rz.) wykroczenie; (rz.) zakłócanie; (rz.) zbezczeszczenie; (rz.) zgwałcenie
+[violations]violations (EN) : (rz.) gwałcenie; (rz.) łamanie
+[violator]violator (EN) : (rz.) gwałciciel; (rz.) przestępca
+[violence]violence (EN) : (rz.) gwałt; (rz.) gwałtowność; (rz.) przekroczenie; (rz.) przemoc
+[violent]violent (EN) : (p.) agresywny; (p.) gwałtowny; (p.) ostry; (p.) potężny; (p.) silny; (p.) wściekły
+[violently]violently (EN) : (p-sł.) gwałtownie
+[violet]violet (EN) : (p.) fioletowy; (p.) fiołkowy; (rz.) fiołek; (rz.) fiolet
+[violin]violin (EN) : (rz.) skrzypce
+[violinist]violinist (EN) : (rz.) skrzypek; (rz.) skrzypki; (rz.) wiolinista
+[violins]violins (EN) : (rz.) skrzypce
+[violoncellist]violoncellist (EN) : (rz.) wiolonczelista
+[violoncello]violoncello (EN) : (rz.) wiolonczela
+[viper]viper (EN) : (rz.) gadzina; (rz.) padalec; (rz.) żmija
+[viperous]viperous (EN) : (p.) żmijowy
+[virago]virago (EN) : (rz.) jędza
+[viral]viral (EN) : (p.) wirusowy
+[virgin]virgin (EN) : (p.) dziewiczy; (rz.) dziewica
+[virginal]virginal (EN) : (p.) czysty; (p.) dziewiczy; (p.) panieński; (rz.) wirginał
+[virginity]virginity (EN) : (rz.) cnota; (rz.) dziewictwo
+[virgule]virgule (EN) : (rz.) kreska
+[virile]virile (EN) : (p.) krzepki; (p.) męski; (p.) tęgi; (p.) zdrowy
+[virility]virility (EN) : (rz.) męskość
+[virologist]virologist (EN) : (rz.) wirusolog
+[virology]virology (EN) : (rz.) wirusologia
+[virtual]virtual (EN) : (p.) czynny; (p.) faktyczny; (p.) mocny; (p.) pozorny; (p.) prawdziwy; (p.) rzeczywisty; (p.) wirtualny; (p.) władny
+[virtually]virtually (EN) : (p-sł.) faktycznie; (p-sł.) praktycznie; (p-sł.) wirtualnie; (p-sł.) właściwie
+[virtue]virtue (EN) : (rz.) cnota; (rz.) cnotliwość; (rz.) dobroć; (rz.) moralność; (rz.) skuteczność; (rz.) walor; (rz.) wartość; (rz.) zaleta
+[virtuosity]virtuosity (EN) : (rz.) cnotliwość; (rz.) wirtuozeria; (rz.) wirtuozostwo
+[virtuoso]virtuoso (EN) : (rz.) wirtuoz
+[virtuous]virtuous (EN) : (p.) cnotliwy; (p.) moralny; (p.) prawy
+[virtuously]virtuously (EN) : (p-sł.) cnotliwie; (p-sł.) mężnie
+[virulence]virulence (EN) : (rz.) jadowitość; (rz.) wirulencja; (rz.) zajadłość; (rz.) zjadliwość
+[virulent]virulent (EN) : (p.) jadowity; (p.) wirulentny; (p.) zajadły; (p.) zjadliwy; (p.) złośliwy; (p.) zły
+[virus]virus (EN) : (rz.) jad; (rz.) wirus
+[visa]visa (EN) : (cz.) wizować; (rz.) wiza
+[visa's]visa's (EN) : (p.) wizowy
+[visage]visage (EN) : (rz.) oblicze
+[viscera]viscera (EN) : (rz.) trzewia
+[visceral]visceral (EN) : (p.) trzewny
+[viscid]viscid (EN) : (p.) gumowaty; (p.) lepki; (p.) zawiesisty
+[viscidity]viscidity (EN) : (rz.) lepkość; (rz.) zawiesistość
+[viscometer]viscometer (EN) : (rz.) lepkościomierz; (rz.) wiskozymetr
+[viscose]viscose (EN) : (rz.) wiskoza
+[viscosity]viscosity (EN) : (rz.) kleistość; (rz.) lekkość; (rz.) lepkość
+[viscount]viscount (EN) : (rz.) wicehrabia
+[viscous]viscous (EN) : (p.) lepki; (p.) przyczepny; (p.) zawiesisty
+[visibility]visibility (EN) : (rz.) dostępność; (rz.) dostrzegalność; (rz.) uwidocznienie; (rz.) widoczność; (rz.) widzialność; (rz.) wizualność; (rz.) wyrazistość
+[visible]visible (EN) : (p.) widoczny; (p.) widomy; (p.) widzialny
+[visibly]visibly (EN) : (p-sł.) dostrzegalnie; (p-sł.) widocznie; (p-sł.) wyraźnie
+[vision]vision (EN) : (rz.) celownik; (rz.) obraz; (rz.) widok; (rz.) widzenie; (rz.) wizja; (rz.) wizjonerstwo; (rz.) wzrok; (rz.) zjawa; (rz.) zjawisko
+[visionary]visionary (EN) : (p.) marzycielski; (p.) niepraktyczny; (p.) odkrywczy; (p.) wizjonerski; (rz.) chimeryk; (rz.) fantasta; (rz.) marzyciel; (rz.) wizjoner
+[visioning]visioning (EN) : (rz.) wizja
+[visit]visit (EN) : (cz.) nawiedzać; (cz.) nawiedzić; (cz.) odwiedzać; (cz.) odwiedzić; (cz.) wizytować; (cz.) zwiedzać; (cz.) zwiedzić; (rz.) gościna; (rz.) nawiedzenie; (rz.) odwiedziny; (rz.) pobyt; (rz.) wizyta; (rz.) zwiedzanie
+[visitant]visitant (EN) : (rz.) gość
+[visitation]visitation (EN) : (rz.) dopust; (rz.) nawiedzenie; (rz.) odwiedziny; (rz.) wizytacja
+[visited]visited (EN) : (cz.) odwiedzać; (cz.) odwiedzić
+[visiting-card]visiting-card (EN) : (rz.) wizytówka
+[visitor]visitor (EN) : (rz.) gość; (rz.) wizytator
+[visitors]visitors (EN) : (rz.) wizytator
+[visor]visor (EN) : (rz.) osłona; (rz.) przyłbica
+[vista]vista (EN) : (rz.) aleja; (rz.) perspektywa; (rz.) widok
+[visual]visual (EN) : (p.) naoczny; (p.) poglądowy; (p.) widoczny; (p.) wizualny; (p.) wzrokowy
+[visualization]visualization (EN) : (rz.) uwidocznienie; (rz.) wizualizacja; (rz.) zobrazowanie
+[visualize]visualize (EN) : (cz.) unaoczniać; (cz.) unaocznić; (cz.) uświadamiać; (cz.) uświadomić; (cz.) uzmysławiać; (cz.) uzmysłowić; (cz.) wizualizować
+[visually]visually (EN) : (p-sł.) naocznie; (p-sł.) wizualnie; (p-sł.) wzrokowo
+[vital]vital (EN) : (p.) bytowy; (p.) istotny; (p.) podstawowy; (p.) ważny; (p.) witalny; (p.) zasadniczy; (p.) życiowy; (p.) żywotny
+[vitality]vitality (EN) : (rz.) witalność; (rz.) żywość; (rz.) żywotność
+[vitalization]vitalization (EN) : (rz.) witalizacja
+[vitalize]vitalize (EN) : (cz.) ożywiać
+[vitally]vitally (EN) : (p-sł.) decydująco; (p-sł.) istotnie; (p-sł.) niezwykle; (p-sł.) żywotnie
+[vitamin]vitamin (EN) : (rz.) akseroftol; (rz.) witamina
+[vitiate]vitiate (EN) : (cz.) osłabiać; (cz.) psuć; (cz.) skażać; (cz.) wypaczać; (cz.) zanieczyszczać; (cz.) zepsuć
+[vitiation]vitiation (EN) : (rz.) wypaczenie; (rz.) zepsucie
+[vitreous]vitreous (EN) : (p.) szklany; (p.) szklisty
+[vitrify]vitrify (EN) : (cz.) zeszklić
+[vitriol]vitriol (EN) : (rz.) jad; (rz.) siarczan
+[vitriolic]vitriolic (EN) : (p.) jadowity; (p.) zjadliwy; (p.) złośliwy
+[vituperate]vituperate (EN) : (cz.) ganić; (cz.) kląć; (cz.) lżyć
+[vituperation]vituperation (EN) : (rz.) lżenie
+[vituperative]vituperative (EN) : (p.) obelżywy
+[viva]viva (EN) : (rz.) wiwat
+[vivacious]vivacious (EN) : (p.) witalny; (p.) żywy
+[vivacity]vivacity (EN) : (rz.) lotność; (rz.) ożywienie; (rz.) żywość
+[vivid]vivid (EN) : (p.) barwny; (p.) jaskrawy; (p.) jasny; (p.) malowniczy; (p.) obrazowy; (p.) plastyczny; (p.) żywy
+[vividly]vividly (EN) : (p-sł.) obrazowo; (p-sł.) żywo
+[vividness]vividness (EN) : (rz.) jaskrawość; (rz.) żywość
+[viviparous]viviparous (EN) : (p.) żyworodny
+[vivisection]vivisection (EN) : (rz.) wiwisekcja
+[vixen]vixen (EN) : (rz.) jędza; (rz.) lisica; (rz.) liszka; (rz.) sekutnica; (rz.) złośnica
+[vizier]vizier (EN) : (rz.) wezyr
+[vizierate]vizierate (EN) : (rz.) wezyrat
+[vocabulary]vocabulary (EN) : (rz.) glosariusz; (rz.) słownictwo; (rz.) słowniczek; (rz.) słownik
+[vocal]vocal (EN) : (p.) dźwięczny; (p.) głosowy; (p.) wokalny; (rz.) wokal
+[vocalic]vocalic (EN) : (p.) wokaliczny
+[vocalist]vocalist (EN) : (rz.) wokalista
+[vocalization]vocalization (EN) : (rz.) wokalizacja; (rz.) wymowa
+[vocalize]vocalize (EN) : (cz.) wokalizować
+[vocally]vocally (EN) : (p-sł.) wymownie
+[vocals]vocals (EN) : (p.) głosowy; (rz.) wokal
+[vocation]vocation (EN) : (rz.) powołanie; (rz.) wołanie; (rz.) zawód
+[vocational]vocational (EN) : (p.) zawodowy
+[vocationally]vocationally (EN) : (p-sł.) zawodowo
+[vocative]vocative (EN) : (rz.) wołacz
+[vociferation]vociferation (EN) : (rz.) krzyk; (rz.) wrzask
+[vociferous]vociferous (EN) : (p.) hałaśliwy; (p.) jazgotliwy; (p.) krzykliwy
+[vodka]vodka (EN) : (rz.) wódka
+[vogue]vogue (EN) : (rz.) moda; (rz.) popularność; (rz.) sława
+[voice]voice (EN) : (cz.) głosić; (rz.) głos; (rz.) strona
+[voiced]voiced (EN) : (cz.) udźwięczniać; (p.) brzmiący; (p.) dźwięczny
+[voiceless]voiceless (EN) : (p.) bezdźwięczny; (p.) bezgłośny; (p.) bezgłosy
+[void]void (EN) : (cz.) unieważniać; (cz.) unieważnić; (p.) bezwartościowy; (p.) nieistotny; (p.) nieważny; (p.) próżny; (p.) pusty; (rz.) kawerna; (rz.) luka; (rz.) próżnia; (rz.) pustka
+[voile]voile (EN) : (rz.) woal
+[volatile]volatile (EN) : (p.) eteryczny; (p.) lotny; (p.) przelotny; (p.) tymczasowy; (p.) ulotny; (p.) zmienny
+[volatility]volatility (EN) : (rz.) lotność; (rz.) ulotność; (rz.) wybuchowość; (rz.) zmienność
+[volatilization]volatilization (EN) : (rz.) parowanie
+[volatilize]volatilize (EN) : (cz.) ulatniać
+[volcanic]volcanic (EN) : (p.) wulkaniczny
+[volcanism]volcanism (EN) : (rz.) wulkanizm
+[volcano]volcano (EN) : (rz.) wulkan
+[vole]vole (EN) : (rz.) nornica; (rz.) polnik; (rz.) szlem
+[volition]volition (EN) : (rz.) czyn; (rz.) wola
+[volitional]volitional (EN) : (p.) dobrowolny; (p.) dowolny
+[volley]volley (EN) : (rz.) grad; (rz.) potok; (rz.) salwa; (rz.) strumień; (rz.) wolej
+[volley-ball]volley-ball (EN) : (rz.) siatkówka
+[volleyball]volleyball (EN) : (rz.) siatkówka
+[volt]volt (EN) : (rz.) wolt; (rz.) wolta
+[volt-ampere]volt-ampere (EN) : (rz.) woltoamper
+[volt-meter]volt-meter (EN) : (rz.) woltomierz
+[voltage]voltage (EN) : (rz.) napięcie; (rz.) woltaż
+[voltage-to-frequency]voltage-to-frequency (EN) : (p.) napięciowo-częstotliwościowy
+[voltaic]voltaic (EN) : (p.) galwaniczny
+[voltmeter]voltmeter (EN) : (rz.) woltomierz
+[volts]volts (EN) : (rz.) wolt
+[volubility]volubility (EN) : (rz.) wygadanie
+[voluble]voluble (EN) : (p.) płynny
+[volume]volume (EN) : (rz.) foliał; (rz.) głośność; (rz.) ilość; (rz.) kubatura; (rz.) objętość; (rz.) tom; (rz.) wielkość; (rz.) wolumen; (rz.) wolumin; (rz.) zeszyt
+[volumetric]volumetric (EN) : (p.) objętościowy; (p.) wolumetryczny
+[voluminous]voluminous (EN) : (p.) wielotomowy
+[voluntarily]voluntarily (EN) : (p-sł.) dobrowolnie; (p-sł.) własnowolnie
+[voluntary]voluntary (EN) : (rz.) dobrowolność
+[volunteer]volunteer (EN) : (rz.) ochotnik; (rz.) ofiarowanie; (rz.) wolontariusz
+[voluptuary]voluptuary (EN) : (rz.) lubieżnik; (rz.) sybaryta
+[voluptuous]voluptuous (EN) : (p.) lubieżny; (p.) ponętny; (p.) zmysłowy
+[volute]volute (EN) : (rz.) osłona; (rz.) spirala; (rz.) woluta; (rz.) zwój
+[vomit]vomit (EN) : (cz.) rzygać; (cz.) wymiotować; (cz.) zwymiotować; (rz.) wymiotowanie; (rz.) wymioty
+[voracious]voracious (EN) : (p.) żarłoczny
+[voraciousness]voraciousness (EN) : (rz.) żarłoczność
+[voracity]voracity (EN) : (rz.) nienasycenie; (rz.) żarłoczność
+[vortex]vortex (EN) : (rz.) kłębowisko; (rz.) odmęt; (rz.) wir
+[votary]votary (EN) : (rz.) wyznawca
+[vote]vote (EN) : (cz.) głosować; (cz.) uchwalać; (cz.) zagłosować; (rz.) głos; (rz.) głosowanie; (rz.) uchwała; (rz.) wotum; (rz.) wybory
+[voter]voter (EN) : (rz.) elektor; (rz.) wyborca
+[voting]voting (EN) : (rz.) głosowanie
+[votive]votive (EN) : (p.) wotywny
+[vouch]vouch (EN) : (cz.) oświadczać; (cz.) potwierdzać; (cz.) ręczyć; (cz.) zapewniać; (cz.) zaręczać
+[voucher]voucher (EN) : (rz.) alegat; (rz.) dokument; (rz.) kupon; (rz.) kwit; (rz.) poręczyciel; (rz.) poświadczenie; (rz.) rachunek; (rz.) talon
+[vouchsafe]vouchsafe (EN) : (cz.) raczyć; (cz.) udzielać; (cz.) udzielić
+[vow]vow (EN) : (cz.) ślubować; (rz.) przyrzeczenie; (rz.) ślub; (rz.) ślubowanie
+[vowel]vowel (EN) : (rz.) samogłoska
+[voyage]voyage (EN) : (rz.) podróż; (rz.) rejs; (rz.) wyprawa
+[voyager]voyager (EN) : (rz.) podróżnik
+[vulcanization]vulcanization (EN) : (rz.) wulkanizacja; (rz.) wulkanizowanie
+[vulcanize]vulcanize (EN) : (cz.) wulkanizować; (cz.) zwulkanizować
+[vulgar]vulgar (EN) : (p.) karczemny; (p.) nieparlamentarny; (p.) ordynarny; (p.) pospolity; (p.) prostacki; (p.) trywialny; (p.) wulgarny
+[vulgarism]vulgarism (EN) : (rz.) wulgarność; (rz.) wulgaryzm
+[vulgarity]vulgarity (EN) : (rz.) wulgarność
+[vulgarization]vulgarization (EN) : (rz.) wulgaryzacja
+[vulgarize]vulgarize (EN) : (cz.) wulgaryzować; (cz.) zwulgaryzować
+[vulgarly]vulgarly (EN) : (p-sł.) wulgarnie
+[vulnerability]vulnerability (EN) : (rz.) bezbronność; (rz.) podatność
+[vulnerable]vulnerable (EN) : (p.) bezbronny; (p.) czuły; (p.) odsłonięty; (p.) podatny; (p.) wrażliwy
+[vulnerary]vulnerary (EN) : (p.) berberysowy
+[vulpine]vulpine (EN) : (p.) lisi
+[vulture]vulture (EN) : (rz.) sęp; (rz.) szakal
+[vulva]vulva (EN) : (rz.) srom
